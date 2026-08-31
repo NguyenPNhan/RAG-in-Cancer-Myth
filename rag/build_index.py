@@ -1,5 +1,5 @@
-from cancer_rag.config import load_config
-from cancer_rag.indexing import build_dense_index
+from rag.config import load_config
+from rag.indexing import build_dense_index
 
 
 def main():

@@ -5,8 +5,8 @@ import json
 from pathlib import Path
 from tqdm import tqdm
 
-from cancer_rag.config import load_config
-from cancer_rag.pipeline import CancerMythRAG
+from rag.config import load_config
+from rag.pipeline import CancerMythRAG
 
 
 def main():

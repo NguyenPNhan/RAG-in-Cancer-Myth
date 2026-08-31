@@ -3,7 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 
-from cancer_rag.pipeline import CancerMythRAG
+from rag.pipeline import CancerMythRAG
 
 
 def main():

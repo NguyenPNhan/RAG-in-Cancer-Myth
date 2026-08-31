@@ -3,8 +3,8 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-from cancer_rag.config import load_config
-from cancer_rag.normalize_pdq import build_chunks
+from rag.config import load_config
+from rag.normalize_pdq import build_chunks
 
 
 def main():
