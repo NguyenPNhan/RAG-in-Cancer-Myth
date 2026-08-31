@@ -15,5 +15,6 @@ dependencies = [
     "rank-bm25>=0.2.2",
     "requests>=2.34.2",
     "sentence-transformers>=6.0.1",
+    "streamlit>=1.62.0",
     "tqdm>=4.70.0",
 ]
