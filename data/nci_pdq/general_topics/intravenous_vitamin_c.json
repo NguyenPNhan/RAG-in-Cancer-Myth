@@ -1,0 +1,465 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "scope": "general_or_multi_cancer",
+  "summary_name": "Intravenous Vitamin C",
+  "generated_at": "2026-08-31T07:15:23.727805+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "integrative_therapies"
+      ],
+      "topic": "integrative_therapies",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+      "summary_name": "Intravenous Vitamin C",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/vitamin-c-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "May 13, 2025",
+      "retrieved_at": "2026-08-31T07:07:22.209869+00:00",
+      "content_sha256": "d486ecbd1dfd50edb6aa7b0a75e8a312d9419070fc594cf5ae177d2ae9c9e50d",
+      "section_count": 24,
+      "sections": [
+        {
+          "section": "Overview",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "This cancer information summary provides an overview of the use of intravenous (IV) vitamin C (also known as ascorbate or L- ascorbic acid ) as a treatment for people with cancer. This summary includes a brief history of early clinical trials of the use of IV vitamin C; reviews of laboratory , animal , and human studies; and current clinical trials.\nThis summary contains the following key information:\n- Vitamin C is an essential nutrient with redox functions at normal physiologic concentrations .\n- Case series and observational studies from the 1970s of patients with cancer who received IV vitamin C seemed to indicate a clinical benefit.\n- Two early randomized placebo-controlled trials that used oral vitamin C (10 g/d) without IV vitamin C noted no significant differences between ascorbate-treated and placebo -treated groups for symptoms , performance status , or survival .\n- Laboratory studies have reported that IV vitamin C has redox properties and decreased cell proliferation in prostate , pancreatic , hepatocellular , colon , mesothelioma , and neuroblastoma cell lines .\n- IV vitamin C has been generally well tolerated in clinical trials.\n- IV administration of vitamin C of doses over 500 mg produces much higher blood concentrations of ascorbate than oral administration of the same dose.\n- The use of IV vitamin C alone as ascorbate versus ascorbate formulations plus certain standard cancer therapies have been shown to be well tolerated in clinical trials.\n- Two studies that used IV vitamin C in patients with cancer reported improved quality of life and decreases in cancer-related toxicities.\n- Although early observations from preclinical and clinical trials of IV vitamin C with and without conventional cancer therapies appear promising and the therapy well tolerated, these studies have several limitations due to lack of rigor in trial design.\nMany of the medical and scientific terms used in this summary are hypertext linked (at first use in each section) to the NCI Dictionary of Cancer Terms , which is oriented toward nonexperts. When a linked term is clicked, a definition will appear in a separate window.\nReference citations in some PDQ cancer information summaries may include links to external websites that are operated by individuals or organizations for the purpose of marketing or advocating the use of specific treatments or products. These reference citations are included for informational purposes only. Their inclusion should not be viewed as an endorsement of the content of the websites, or of any treatment or product, by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board or the National Cancer Institute ."
+        },
+        {
+          "section": "General Information",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "General Information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Vitamin C is an essential nutrient that has redox functions, is a cofactor for several enzymes , and plays an important role in the synthesis of collagen .[ 1 ] A severe deficiency in vitamin C results in scurvy, which is associated with malaise, lethargy , easy bruising, and spontaneous bleeding.[ 2 ] One of the effects of scurvy is a change in collagen structure to a thinner consistency. Normal consistency is achieved with administration of vitamin C.\nIn the mid-20th century, a study hypothesized that cancer may be related to changes in connective tissue , which may be a consequence of vitamin C deficiency.[ 3 ] A review of evidence published in 1974 suggested that high- dose ascorbic acid may increase host resistance and be a potential cancer therapy .[ 4 ]\nVitamin C is synthesized from D- glucose or D-galactose by many plants and animals. However, humans lack the enzyme L-gulonolactone oxidase required for ascorbic acid synthesis and must obtain vitamin C through food or supplements .[ 1 ]\nSome companies distribute vitamin C as dietary supplements . In the United States, dietary supplements are regulated by the U.S. Food and Drug Administration (FDA) as a separate category from foods, cosmetics, and drugs. Unlike drugs, dietary supplements do not require premarket evaluation and approval by the FDA unless specific disease prevention or treatment claims are made. The quality and amount of ingredients in dietary supplements are also regulated by the FDA through Good Manufacturing Practices (GMPs). The FDA GMPs requires that every finished batch of dietary supplement meets each product specification for identity, purity, strength, composition, and limits on contamination that may adulterate dietary supplements. Because dietary supplements are not formally reviewed for manufacturing consistency every year, ingredients may vary considerably from lot to lot and there is no guarantee that ingredients claimed on product labels are present (or are present in the specified amounts). The FDA has not approved the use of high-dose vitamin C as a treatment for cancer."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "General Information",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Naidu KA: Vitamin C in human health and disease is still a mystery? An overview. Nutr J 2: 7, 2003. [PUBMED Abstract]\n- Padayatty S, Espey MG, Levine M: Vitamin C. In: Coates PM, Betz JM, Blackman MR, et al., eds.: Encyclopedia of Dietary Supplements. 2nd ed. Informa Healthcare, 2010, pp 821-31.\n- McCORMICK WJ: Cancer: a collagen disease, secondary to a nutritional deficiency. Arch Pediatr 76 (4): 166-71, 1959. [PUBMED Abstract]\n- Cameron E, Pauling L: The orthomolecular treatment of cancer. I. The role of ascorbic acid in host resistance. Chem Biol Interact 9 (4): 273-83, 1974. [PUBMED Abstract]"
+        },
+        {
+          "section": "History",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "History"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The earliest experience of using both oral and intravenous (IV) vitamin C for cancer treatment was by a Scottish surgeon , Ewan Cameron, and his colleague, Allan Campbell, in the 1970s.[ 1 ] This work led to a collaboration between Cameron and the Nobel Prize–winning chemist Linus Pauling, further promoting the potential of vitamin C therapy in cancer management.[ 2 , 3 ] As a result, two clinical trials of oral vitamin C were conducted in the late 1970s and early 1980s.[ 4 , 5 ] These two trials did not use IV vitamin C.\nFor more information about these early studies, see the Human Studies section.\nPharmacokinetic studies later revealed substantial differences in the maximum achieved blood concentrations of vitamin C based on the route of administration . When vitamin C is taken orally, plasma concentrations of the vitamin are tightly controlled, with a peak achievable concentration less than 300 µM . However, this tight control is bypassed with IV administration of the vitamin, resulting in very high levels of vitamin C plasma concentration (i.e., levels up to 20 mM ).[ 6 , 7 ] Further research suggests that pharmacological concentrations of ascorbate, such as those achieved with IV administration, may result in cell death in many cancer cell lines .[ 8 ]\nHealth care practitioners attending complementary and alternative medicine conferences in 2006 and 2008 were surveyed about usage of high-dose IV vitamin C in patients. Of the 199 total respondents, 172 had administered vitamin C to patients. In general, IV vitamin C was commonly used to treat infections , cancer, and fatigue .[ 9 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "History",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Cameron E, Campbell A: The orthomolecular treatment of cancer. II. Clinical trial of high-dose ascorbic acid supplements in advanced human cancer. Chem Biol Interact 9 (4): 285-315, 1974. [PUBMED Abstract]\n- Cameron E, Pauling L: Supplemental ascorbate in the supportive treatment of cancer: Prolongation of survival times in terminal human cancer. Proc Natl Acad Sci U S A 73 (10): 3685-9, 1976. [PUBMED Abstract]\n- Cameron E, Pauling L: Supplemental ascorbate in the supportive treatment of cancer: reevaluation of prolongation of survival times in terminal human cancer. Proc Natl Acad Sci U S A 75 (9): 4538-42, 1978. [PUBMED Abstract]\n- Creagan ET, Moertel CG, O'Fallon JR, et al.: Failure of high-dose vitamin C (ascorbic acid) therapy to benefit patients with advanced cancer. A controlled trial. N Engl J Med 301 (13): 687-90, 1979. [PUBMED Abstract]\n- Moertel CG, Fleming TR, Creagan ET, et al.: High-dose vitamin C versus placebo in the treatment of patients with advanced cancer who have had no prior chemotherapy. A randomized double-blind comparison. N Engl J Med 312 (3): 137-41, 1985. [PUBMED Abstract]\n- Padayatty SJ, Sun H, Wang Y, et al.: Vitamin C pharmacokinetics: implications for oral and intravenous use. Ann Intern Med 140 (7): 533-7, 2004. [PUBMED Abstract]\n- Hoffer LJ, Levine M, Assouline S, et al.: Phase I clinical trial of i.v. ascorbic acid in advanced malignancy. Ann Oncol 19 (11): 1969-74, 2008. [PUBMED Abstract]\n- Verrax J, Calderon PB: Pharmacologic concentrations of ascorbate are achieved by parenteral administration and exhibit antitumoral effects. Free Radic Biol Med 47 (1): 32-40, 2009. [PUBMED Abstract]\n- Padayatty SJ, Sun AY, Chen Q, et al.: Vitamin C: intravenous use by complementary and alternative medicine practitioners and adverse effects. PLoS One 5 (7): e11414, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "In Vitro Studies",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Laboratory/Animal/Preclinical Studies",
+            "In Vitro Studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Numerous studies have demonstrated that supraphysiologic concentrations of ascorbic acid (0.1–100 mM) decrease cell proliferation in a variety of cancer cell lines .[ 1 - 5 ] Specifically, decreases in cell proliferation after ascorbic acid treatment have been reported for prostate ,[ 6 ] pancreatic ,[ 7 , 8 ] hepatocellular ,[ 9 ] colon ,[ 10 ] mesothelioma ,[ 11 ] and neuroblastoma [ 12 ] cell lines.\nThe potential mechanisms through which treatment with pharmacological doses of ascorbic acid may exert its effects on cancer cells have been extensively investigated. Several studies have demonstrated that the in vitro direct cytotoxic effect of ascorbic acid on various types of cancer cells is mediated through a chemical reaction that generates hydrogen peroxide .[ 1 , 7 , 13 , 14 ] Treating colon cancer cells with 2 mM to 3 mM of ascorbic acid resulted in downregulation of specificity protein (Sp) transcription factors, iron metabolism disruption, and Sp-regulated genes involved in cancer progression .[ 10 , 15 ] One study suggested that ascorbate-mediated prostate cancer cell death may occur through activation of an autophagy pathway.[ 6 ] Data from a 2018 study demonstrated that labile iron and hydrogen peroxide play important roles in the mechanisms of selective toxicity of ascorbate and induction of oxidative DNA damage/cancer cell death.[ 16 ] Another in vitro study found that ascorbic acid killed colorectal cancer cells with KRAS or BRAF mutations by inhibiting the enzyme glyceraldehyde 3-phosphate dehydrogenase.[ 17 ]\nDifferences in chemosensitivity to ascorbate treatment in breast cancer cell lines may depend on expression of the sodium -dependent vitamin C transporter 2 (SVCT-2).[ 18 ]\nResearch has suggested that pharmacological doses of ascorbic acid enhance the effects of the following:\n- Arsenic trioxide on ovarian cancer cells.[ 19 ]\n- Gemcitabine on pancreatic cancer cells.[ 8 ]\n- A combination treatment of gemcitabine and epigallocatechin-3-gallate (EGCG) on mesothelioma cells.[ 20 ]\nFindings from one study reported in 2012 suggested that high-dose ascorbate increases radiosensitivity of glioblastoma multiforme cells, resulting in more cell death than from radiation alone.[ 21 ]\nHowever, not all studies combining vitamin C with chemotherapy have shown improved outcomes. Treating leukemia and lymphoma cells with dehydroascorbic acid (the oxidized form of vitamin C that increases levels of intracellular ascorbic acid) reduced the cytotoxic effects of various antineoplastic agents tested, including doxorubicin , methotrexate , and cisplatin (relative reductions in cytotoxicity ranged from 30% to 70%).[ 22 ] In another study, multiple myeloma cells were treated with bortezomib and/or plasma obtained from healthy volunteers who had taken oral vitamin C supplements . Cells treated with a combination of bortezomib and volunteers’ plasma exhibited lower cytotoxicity than did cells treated with bortezomib alone.[ 23 ]"
+        },
+        {
+          "section": "Animal Studies",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Laboratory/Animal/Preclinical Studies",
+            "Animal Studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "In 2007, researches showed that oral N-acetylcysteine and vitamin C, both thought to act predominantly as antioxidants , may have antitumorigenic actions in vivo by decreasing levels of hypoxia -inducible factor-1, a transcription factor that targets vascular endothelial growth factor and plays a role in angiogenesis .[ 24 ]\nStudies have demonstrated tumor growth inhibition after treatment with pharmacological ascorbate in animal models with the following:\n- Pancreatic cancer.[ 1 , 7 , 8 ]\n- Liver cancer .[ 3 ]\n- Prostate cancer.[ 25 ]\n- Sarcoma .[ 26 ]\n- Mesothelioma.[ 11 ]\n- Ovarian cancer.[ 4 ]\nThe effects of parenterally administered ascorbic acid in combination with standard treatments on tumors have been investigated. In a mouse model of pancreatic cancer, the combination of gemcitabine (30 or 60 mg / kg every 4 days) and intraperitoneal injection of ascorbate (4 g /kg daily) resulted in greater decreases in tumor volume and weight, compared with gemcitabine treatment alone.[ 8 ] A study of mouse models of ovarian cancer found that ascorbate enhanced the tumor inhibitory effect of carboplatin and paclitaxel , first-line chemotherapy used in ovarian cancer.[ 27 ] One study working with xenograft models of non-small cell lung cancer and glioblastoma multiforme showed that the combination of chemotherapy (carboplatin for lung cancer and temozolomide for glioblastoma), radiation therapy, and pharmacologic ascorbate (4 g/kg/d) intraperitoneal injection resulted in prolonged survival compared with just the combination of chemotherapy and radiation therapy.[ 15 ]\nA study explored the efficacy of parenterally injected ascorbate with gemcitabine or radiation treatment in a mouse sarcoma xenograft model. Treatment involved intraperitoneally administered doses of ascorbate (4 g/kg) combined with gemcitabine (60 mg/kg) or radiation therapy (12 Gy in 2 fractions). Compared with the control group , the combination treatments produced significantly greater inhibition of tumor growth, greater survival rate , and no increase in toxicity, suggesting cancer cell selective toxicity.[ 16 ]\nThere have also been reports of animal studies in which vitamin C has interfered with the anticancer activity of various drugs. In a study reported in 2008, administration of dehydroascorbic acid to lymphoma-xenograft mice prior to doxorubicin treatment resulted in significantly larger tumors than did treatment with doxorubicin alone.[ 22 ] Notably, this study used dehydroascorbate, the oxidized form of vitamin C that is known to be transported actively into cells and then reduced to vitamin C, but is not routinely used. Treating multiple myeloma xenograft mice with a combination of oral vitamin C and bortezomib resulted in significantly greater tumor volume than did treatment with bortezomib alone.[ 23 ] This increase in tumor volume was caused by a chemical reaction that occurs in the gastrointestinal tract but does not appear to be relevant to intravenous administration."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Laboratory/Animal/Preclinical Studies",
+            "Animal Studies",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 27,
+          "text": "- Chen P, Stone J, Sullivan G, et al.: Anti-cancer effect of pharmacologic ascorbate and its interaction with supplementary parenteral glutathione in preclinical cancer models. Free Radic Biol Med 51 (3): 681-7, 2011. [PUBMED Abstract]\n- Chen Q, Espey MG, Krishna MC, et al.: Pharmacologic ascorbic acid concentrations selectively kill cancer cells: action as a pro-drug to deliver hydrogen peroxide to tissues. Proc Natl Acad Sci U S A 102 (38): 13604-9, 2005. [PUBMED Abstract]\n- Verrax J, Calderon PB: Pharmacologic concentrations of ascorbate are achieved by parenteral administration and exhibit antitumoral effects. Free Radic Biol Med 47 (1): 32-40, 2009. [PUBMED Abstract]\n- Chen Q, Espey MG, Sun AY, et al.: Pharmacologic doses of ascorbate act as a prooxidant and decrease growth of aggressive tumor xenografts in mice. Proc Natl Acad Sci U S A 105 (32): 11105-9, 2008. [PUBMED Abstract]\n- Frömberg A, Gutsch D, Schulze D, et al.: Ascorbate exerts anti-proliferative effects through cell cycle inhibition and sensitizes tumor cells towards cytostatic drugs. Cancer Chemother Pharmacol 67 (5): 1157-66, 2011. [PUBMED Abstract]\n- Chen P, Yu J, Chalmers B, et al.: Pharmacological ascorbate induces cytotoxicity in prostate cancer cells through ATP depletion and induction of autophagy. Anticancer Drugs 23 (4): 437-44, 2012. [PUBMED Abstract]\n- Du J, Martin SM, Levine M, et al.: Mechanisms of ascorbate-induced cytotoxicity in pancreatic cancer. Clin Cancer Res 16 (2): 509-20, 2010. [PUBMED Abstract]\n- Espey MG, Chen P, Chalmers B, et al.: Pharmacologic ascorbate synergizes with gemcitabine in preclinical models of pancreatic cancer. Free Radic Biol Med 50 (11): 1610-9, 2011. [PUBMED Abstract]\n- Lin ZY, Chuang WL: Pharmacologic concentrations of ascorbic acid cause diverse influence on differential expressions of angiogenic chemokine genes in different hepatocellular carcinoma cell lines. Biomed Pharmacother 64 (5): 348-51, 2010. [PUBMED Abstract]\n- Pathi SS, Lei P, Sreevalsan S, et al.: Pharmacologic doses of ascorbic acid repress specificity protein (Sp) transcription factors and Sp-regulated genes in colon cancer cells. Nutr Cancer 63 (7): 1133-42, 2011. [PUBMED Abstract]\n- Takemura Y, Satoh M, Satoh K, et al.: High dose of ascorbic acid induces cell death in mesothelioma cells. Biochem Biophys Res Commun 394 (2): 249-53, 2010. [PUBMED Abstract]\n- Hardaway CM, Badisa RB, Soliman KF: Effect of ascorbic acid and hydrogen peroxide on mouse neuroblastoma cells. Mol Med Report 5 (6): 1449-52, 2012. [PUBMED Abstract]\n- Du J, Cullen JJ, Buettner GR: Ascorbic acid: chemistry, biology and the treatment of cancer. Biochim Biophys Acta 1826 (2): 443-57, 2012. [PUBMED Abstract]\n- Levine M, Padayatty SJ, Espey MG: Vitamin C: a concentration-function approach yields pharmacology and therapeutic discoveries. Adv Nutr 2 (2): 78-88, 2011. [PUBMED Abstract]\n- Schoenfeld JD, Sibenaller ZA, Mapuskar KA, et al.: O2⋅- and H2O2-Mediated Disruption of Fe Metabolism Causes the Differential Susceptibility of NSCLC and GBM Cancer Cells to Pharmacological Ascorbate. Cancer Cell 32 (2): 268, 2017. [PUBMED Abstract]\n- Schoenfeld JD, Sibenaller ZA, Mapuskar KA, et al.: Redox active metals and H2O2 mediate the increased efficacy of pharmacological ascorbate in combination with gemcitabine or radiation in pre-clinical sarcoma models. Redox Biol 14: 417-422, 2018. [PUBMED Abstract]\n- Yun J, Mullarky E, Lu C, et al.: Vitamin C selectively kills KRAS and BRAF mutant colorectal cancer cells by targeting GAPDH. Science 350 (6266): 1391-6, 2015. [PUBMED Abstract]\n- Hong SW, Lee SH, Moon JH, et al.: SVCT-2 in breast cancer acts as an indicator for L-ascorbate treatment. Oncogene 32 (12): 1508-17, 2013. [PUBMED Abstract]\n- Ong PS, Chan SY, Ho PC: Differential augmentative effects of buthionine sulfoximine and ascorbic acid in As2O3-induced ovarian cancer cell death: oxidative stress-independent and -dependent cytotoxic potentiation. Int J Oncol 38 (6): 1731-9, 2011. [PUBMED Abstract]\n- Martinotti S, Ranzato E, Burlando B: In vitro screening of synergistic ascorbate-drug combinations for the treatment of malignant mesothelioma. Toxicol In Vitro 25 (8): 1568-74, 2011. [PUBMED Abstract]\n- Herst PM, Broadley KW, Harper JL, et al.: Pharmacological concentrations of ascorbate radiosensitize glioblastoma multiforme primary cells by increasing oxidative DNA damage and inhibiting G2/M arrest. Free Radic Biol Med 52 (8): 1486-93, 2012. [PUBMED Abstract]\n- Heaney ML, Gardner JR, Karasavvas N, et al.: Vitamin C antagonizes the cytotoxic effects of antineoplastic drugs. Cancer Res 68 (19): 8031-8, 2008. [PUBMED Abstract]\n- Perrone G, Hideshima T, Ikeda H, et al.: Ascorbic acid inhibits antitumor activity of bortezomib in vivo. Leukemia 23 (9): 1679-86, 2009. [PUBMED Abstract]\n- Gao P, Zhang H, Dinavahi R, et al.: HIF-dependent antitumorigenic effect of antioxidants in vivo. Cancer Cell 12 (3): 230-8, 2007. [PUBMED Abstract]\n- Pollard HB, Levine MA, Eidelman O, et al.: Pharmacological ascorbic acid suppresses syngeneic tumor growth and metastases in hormone-refractory prostate cancer. In Vivo 24 (3): 249-55, 2010 May-Jun. [PUBMED Abstract]\n- Yeom CH, Lee G, Park JH, et al.: High dose concentration administration of ascorbic acid inhibits tumor growth in BALB/C mice implanted with sarcoma 180 cancer cells via the restriction of angiogenesis. J Transl Med 7: 70, 2009. [PUBMED Abstract]\n- Ma Y, Chapman J, Levine M, et al.: High-dose parenteral ascorbate enhanced chemosensitivity of ovarian cancer and reduced toxicity of chemotherapy. Sci Transl Med 6 (222): 222ra18, 2014. [PUBMED Abstract]"
+        },
+        {
+          "section": "Early Case Series Studies and Clinical Trials With Ascorbate Only",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Early Case Series Studies and Clinical Trials With Ascorbate Only"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "In the early 1970s, a consecutive case series was conducted in which 50 patients with advanced cancer were treated with intravenous (IV) and oral doses of ascorbic acid .[ 1 ] These patients began ascorbic acid treatment after conventional therapies were deemed unlikely to be effective. Patients received IV ascorbic acid (10 g /day for 10 consecutive days; some patients received higher doses), oral ascorbic acid (10 g/day), or both. The patients exhibited a wide variety of responses to treatment, including the following:\n- No or minimal response.\n- Tumor regression .\n- Tumor hemorrhage .\nHowever, the authors noted that lack of controls prevented definitive assignment of any beneficial responses to the ascorbic acid treatment.[ 1 ] A case report published in 1975 detailed one of the patients who had experienced tumor regression.[ 2 ] Diagnosed with reticulum cell sarcoma , the patient exhibited improvement in well-being and resolution of lung masses after being treated with IV and oral ascorbic acid. When the patient's daily dose of ascorbic acid was reduced, some signs of the disease returned; however, remission was achieved again after the patient reverted to the higher initial dose.\nA larger case series of patients with terminal cancer treated with ascorbate was reported in 1976. In this study, 100 patients with terminal cancer (50 of whom were reported on previously) [ 1 ] were treated with ascorbate (10 g/day for 10 days IV, then orally) and compared with 1,000 matched controls from the same hospital. The mean survival time for ascorbate-treated patients was 300 days longer than that of the matched controls.[ 3 , 4 ]\nTwo studies tried to reproduce earlier results. These studies were randomized , placebo-controlled trials in which patients with cancer received either 10 g of oral vitamin C or placebo daily until signs of cancer progression. No IV vitamin C was given in these studies. At the end of each study, no significant differences were noted between the two ascorbate-treated and placebo-treated groups for symptoms , performance status , or survival .[ 5 , 6 ]"
+        },
+        {
+          "section": "Recent Case Series Studies and Clinical Trials With Ascorbate Only",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Recent Case Series Studies and Clinical Trials With Ascorbate Only"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "One study reported three case reports of patients with cancer who received IV vitamin C as their main therapy . During vitamin C therapy, the patients used additional treatments, including vitamins , minerals , and botanicals . According to the authors, the cases were reviewed in accordance with the NCI Best Case Series guidelines . Histopathologic examination suggested poor prognoses for these patients, but they had long survival times after being treated with IV vitamin C.[ 7 ] Vitamin C was given at doses ranging from 15 g to 65 g, initially once or twice a week for several months; two patients then received it less frequently for 1 to 4 years.\nOne study demonstrated that IV vitamin C treatment resulted in improved quality of life and a decrease in cancer-related side effects in patients with cancer.[ 8 ]\nA single-arm pilot study of weekly infusions of 60 g of ascorbic acid for 9 weeks in patients with castration -resistant prostate cancer failed to observe a reduction in serum prostate-specific antigen or tumor regression.[ 9 ]\nStudies have shown that vitamin C can be safely administered to healthy volunteers or patients with cancer at doses up to 1.5 g/ kg and with screening to eliminate treating individuals with risk factors for toxicity (e.g., glucose-6-phosphate dehydrogenase deficiency , renal diseases, or urolithiasis). These studies have also found that plasma concentrations of vitamin C are higher with IV administration than with oral administration and are maintained for more than 4 hours.[ 10 , 11 ]"
+        },
+        {
+          "section": "Early Phase Ascorbate Trials Combined With Standard Cancer Therapies",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Early Phase Ascorbate Trials Combined With Standard Cancer Therapies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 42,
+          "text": "A phase I study published in 2012 examined the safety and efficacy of combining IV ascorbate with gemcitabine and erlotinib in patients with stage IV pancreatic cancer . Fourteen patients entered the study and planned to receive IV gemcitabine (1,000 mg /m 2 over 30 minutes, once a week for 7 weeks), oral erlotinib (100 mg daily for 8 weeks), and IV ascorbate (50 g/ infusion , 75 g/infusion, or 100 g/infusion 3 times per week for 8 weeks). Minimal adverse effects were reported for ascorbic acid treatment. Five patients received fewer than 18 of the planned 24 ascorbate infusions and thus did not have follow-up imaging to assess response. Three of those patients had clinically determined progressive disease . The other nine patients had repeat imaging to assess tumor size, and each met the criteria for having stable disease .[ 12 ]\nA 2013 phase I clinical study ( NCT01049880 ) evaluated the safety of combining pharmacological ascorbate with gemcitabine in treating patients with stage IV pancreatic cancer. During each 4-week cycle, patients received gemcitabine weekly for 3 weeks (1,000 mg/m 2 over 30 minutes) and twice-weekly ascorbate infusions for 4 weeks (15 g over 30 minutes during the first week, followed by weekly escalations in dose until plasma levels reached at least 350 mg/dL [20 mM ]). Among nine patients, mean progression-free survival (PFS) was 26 weeks and overall survival (OS) was 12 months. The combination treatment was well tolerated, and no significant adverse events were reported.[ 13 ]\nIn 2014, a phase I/IIA clinical trial evaluated the toxicities of combining IV ascorbate with carboplatin and paclitaxel in patients with stage III / IV ovarian cancer . Twenty-seven patients were randomly assigned to receive either chemotherapy alone or chemotherapy and IV vitamin C concurrently. Chemotherapy was given for 6 months, and IV vitamin C was given for 12 months. The addition of IV vitamin C was associated with reduced chemotherapy-related toxicities.[ 14 ]\nA 2015 phase I/II clinical trial of high-dose IV vitamin C (approximately 1.5 g/kg body weight) combined with various chemotherapies, depending on the specific cancer diagnosis, was conducted to do the following:[ 15 ]\n- Observe the associated adverse events.\n- Assess the pharmacokinetic profiles of vitamin C and oxalic acid levels prechemotherapy- and postchemotherapy.\n- Assess clinical responses.\n- Assess changes in mood.\n- Assess changes in quality of life.\nHigh-dose IV vitamin C was analyzed in 14 patients and was generally well tolerated and safe. Minor temporary adverse effects included increased urinary flow, thirst, nausea , vomiting , and chills, some of which could be prevented. Chemotherapy administration did not affect the plasma concentration of vitamin C. Although a few patients experienced temporary stable disease, functional improvement, and increased energy, the sample size is so small that the generalizability of these results is uncertain.[ 15 ]\nIn 2017, a phase I/IIA study reported using IV vitamin C with standard-of-care gemcitabine chemotherapy in patients with newly diagnosed pancreatic cancer.[ 16 ] Seven participants were initially enrolled. When safety was confirmed, an additional seven participants were enrolled. Twelve of the 14 enrolled participants completed the phase I pharmacokinetic evaluation. The evaluation consisted of IV vitamin C and gemcitabine pharmacokinetic measurements, each as single drugs , and then followed by the pharmacokinetic measurement of IV vitamin C combined with gemcitabine. IV vitamin C administration did not interfere with gemcitabine.\nIn May 2019, a phase I study was published that examined the safety, pharmacokinetics , and efficacy of high-dose IV vitamin C combined with the combination chemotherapy regimens mFOLFOX6 ( oxaliplatin + leucovorin + fluorouracil ) or FOLFIRI (leucovorin + fluorouracil + irinotecan hydrochloride). This study consisted of 36 patients with metastatic colorectal cancer or gastric cancer . The main goal was to determine the maximum-tolerated dose and the recommended phase II dose of ascorbic acid with coadministration of either mFOLFOX6 or FOLFIRI. Patients received chemotherapy treatment on a 14-day cycle with vitamin C infusions occurring for 3 consecutive days for 3 hours at a time. For the dose-escalation portion of the study, ascorbic acid doses ranged from 0.2 g/kg to 1.5 g/kg. To determine the optimal administration rate of ascorbic acid, patient cohorts received infusion rates set at 0.6 g/min, 0.8 g/min, or 1 g/min. The study showed no dose-limiting toxicity for all doses and dosing rates; thus a maximum-tolerated dose was not reached, leading to a recommended phase II dose of 1.5 g/kg for ascorbic acid. Overall, no severe adverse reactions occurred, and the treatments were deemed safe and tolerable. A randomized phase III trial ( NCT02969681 ) is being conducted to determine the clinical efficacy of ascorbic acid with mFOLFOX6 with or without bevacizumab in patients with metastatic colorectal cancer.[ 17 ]\nA phase II clinical trial published in 2024 evaluated the clinical benefit of combining pharmacologic IV vitamin C with docetaxel in patients with progressive metastatic castration-resistant prostate cancer. Forty-seven patients were randomly assigned 2:1 to receive docetaxel (75 mg/m 2 IV) with either pharmacologic IV vitamin C (1 g/kg) or placebo. The study found that the addition of the vitamin C to docetaxel did not improve PSA response, toxicity, or other clinical outcomes when compared with docetaxel alone.[ 18 ]\nAnother phase II clinical trial published in 2024 assessed the effect of pharmacological ascorbate (P-AscH-) combined with gemcitabine and nab-paclitaxel in patients with stage IV pancreatic cancer. Thirty-four patients were randomly assigned 1:1 to receive gemcitabine and nab-paclitaxel only or gemcitabine and nab-paclitaxel with concomitant P-AscH- (75 g three times weekly). The study found that the addition of P-AscH− to gemcitabine and nab-paclitaxel prolonged OS and PFS in patients with metastatic pancreatic cancer, without detected detriment to quality of life or added toxicity.[ 19 ]\nReference | Trial Design | Condition or Cancer Type | Dose | Treatment Groups (Enrolled; Treated; Placebo or No Treatment Control) b | Results | Concurrent Therapy Used | Level of Evidence Score c\na For additional information and definition of terms, see text and the NCI Dictionary of Cancer Terms .\nb Number of patients treated plus number of patient controls may not equal number of patients enrolled; number of patients enrolled equals number of patients initially recruited/considered by the researchers who conducted a study; number of patients treated equals number of enrolled patients who were given the treatment being studied AND for whom results were reported.\nc For information about levels of evidence analysis and scores, see Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies .\n[ 16 ] | Phase I/IIA trial | Newly diagnosed pancreatic cancer | 6 doses of 25–75 g/infusion for phase I and 64 doses of 100 g/infusion for phase II | 14; 12; none | Ascorbic acid did not interfere with gemcitabine pharmacokinetics | Gemcitabine | 2Dii\n[ 12 ] | Phase I, open label trial | Metastatic stage IV pancreatic cancer | 50 g/infusion, 75 g/infusion, or 100 g/infusion 3x/wk for 8 wk | 14; 14 (9 analyzed); none | Ascorbic acid was well tolerated with gemcitabine and erlotinib | Gemcitabine, erlotinib | 2Dii\n[ 13 ] | Phase I, open label trial | Stage IV pancreatic adenocarcinoma | 15 g/wk until the plasma level reached at least 350 mg/dL (20 mM) | 15; 11 (9 completed); none | Ascorbate acid was well tolerated with gemcitabine | Gemcitabine | 2Dii\n[ 14 ] | Pilot phase I/IIA trial | Stage III/IV ovarian cancer | Up to 75 g or 100 g 2x/wk for 12 mo | 27; 14 (chemotherapy), 13 (chemotherapy and intravenous vitamin C); none | Ascorbate acid added to carboplatin and paclitaxel therapy reduced chemotherapy-related toxicities | Carboplatin, paclitaxel | 2C\nTrials of high-dose IV vitamin C combined with other drugs are ongoing.[ 12 , 14 ] A number of studies have included small doses of IV ascorbic acid treatment (1,000 mg) with arsenic trioxide regimens, with mixed results. For study results, see Table 2 .\nReference | Trial Design | Condition or Cancer Type | Dose | Treatment Groups (Enrolled; Treated; Placebo or No Treatment Control) b | Results | Concurrent Therapy Used | Level of Evidence Score c\nN = number of patients; RCT = randomized controlled trial.\na For additional information and definition of terms, see text and the NCI Dictionary of Cancer Terms .\nb Number of patients treated plus number of patient controls may not equal number of patients enrolled; number of patients enrolled equals number of patients initially recruited/considered by the researchers who conducted a study; number of patients treated equals number of enrolled patients who were given the treatment being studied AND for whom results were reported.\nc For information about levels of evidence analysis and scores, see Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies .\n[ 20 ] | RCT | Multiple myeloma | 1,000 mg | 48; arm 1 (N = 16), arm 2 (N = 17), arm 3 (N = 15); none | The addition of arsenic trioxide and ascorbic acid to high-dose melphalan was reported safe and well tolerated | Melphalan | 1iiDii\n[ 21 ] | Phase II , open label | Relapsed or refractory multiple myeloma | 1,000 mg | 20; 20; none | Clinical efficacy and tolerability with arsenic trioxide, dexamethasone , and ascorbic acid was reported | Dexamethasone | 3iDii\n[ 22 ] | Phase I/II, open label | Relapsed or refractory multiple myeloma | 1,000 mg | 22; 22; none | Arsenic trioxide, bortezomib , and ascorbic acid was well tolerated with signs of clinical efficacy | Bortezomib | 3iDii\n[ 23 ] | Phase II | Relapsed or refractory multiple myeloma | 1,000 mg | 65; 65; none | Melphalan, arsenic trioxide, and ascorbic acid was effective and well tolerated | Melphalan | 3iDii\n[ 24 ] | Phase II | Refractory metastatic colorectal carcinoma | 1,000 mg | 5; 5; none | Patients developed moderate to severe toxic side effects without clinical response | None | 3iDii\n[ 25 ] | Phase II, open label | Metastatic melanoma | 1,000 mg | 11; 10; none | Patients developed toxic side effects without clinical response | Temozolomide | 3iDii\nInformed by their preclinical data,[ 21 ] researchers at the University of Iowa treated patients with non-small cell lung carcinoma (NSCLC) and glioblastoma multiforme (GBM) in two pilot clinical trials ( NCT02420314 and NCT01752491 ).[ 26 ] Participants in both trials were given conventional therapy plus IV vitamin C, with dosing individualized to achieve a 20 mM peak plasma concentration of ascorbate in each patient. The GBM study was a phase I design with 13 total patients. IV vitamin C was given with both radiation therapy and temozolomide and toxicity, progression-free survival, and overall survival all compared favorably to the outcomes of historical controls. The NSCLC trial was a phase II design of 14 patients with advanced cancer who received both chemotherapy and IV vitamin C (median maximum plasma concentration, 16.4 mM). The disease control and confirmed objective response rates of the study group again compared favorably with those of historical controls. Limitations of these studies included the use of historical controls and small numbers of enrolled participants.\nVarious trials of high-dose IV vitamin C with other drugs are ongoing. There are currently five trials being conducted by researchers at the University of Iowa; four phase II studies and one phase IB/II study. The four phase II clinical trials are investigating the efficacy of high-dose ascorbate combined with standard anticancer regimens. The studies are exploring the combination of high-dose ascorbate with the following:\n- Standard non-small cell lung cancer therapy, including radiation therapy, carboplatin, and paclitaxel ( NCT02905591 ).\n- Standard therapy for metastatic pancreatic adenocarcinoma, including gemcitabine and nab-paclitaxel ( NCT02905578 ).\n- Standard therapy for localized pancreatic adenocarcinoma with gemcitabine and radiation therapy ( NCT03541486 ).\n- Standard therapy for glioblastoma multiforme, including temozolomide and radiation therapy ( NCT02344355 ).\nAnother phase IB/II trial ( NCT03508726 ) is studying the safety and efficacy of high-dose ascorbate with preoperative radiation therapy in patients with locally advanced soft tissue sarcoma .\nSeveral studies have included IV ascorbic acid treatment at a fixed dose of 1,000 mg with arsenic trioxide regimens, with mixed results. Researchers using this approach suggested that the pro-oxidant properties of IV ascorbic acid may have helped to increase the effects of arsenic trioxide by sensitization of malignant cells to arsenic’s cytotoxic effects.[ 27 ] The combination therapies were well tolerated and suggested beneficial effects in patients with multiple myeloma, although the specific contribution of vitamin C could not be determined.[ 20 - 23 ] However, similar combination regimens resulted in severe side effects, disease progression , and no anticancer effect in patients with refractory metastatic colorectal cancer [ 24 ] and metastatic melanoma.[ 25 ] Because these were not placebo-controlled trials, the extent that ascorbate contributed to the toxicity or efficacy demonstrated in these studies is unclear."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 27,
+          "text": "- Cameron E, Campbell A: The orthomolecular treatment of cancer. II. Clinical trial of high-dose ascorbic acid supplements in advanced human cancer. Chem Biol Interact 9 (4): 285-315, 1974. [PUBMED Abstract]\n- Cameron E, Campbell A, Jack T: The orthomolecular treatment of cancer. III. Reticulum cell sarcoma: double complete regression induced by high-dose ascorbic acid therapy. Chem Biol Interact 11 (5): 387-93, 1975. [PUBMED Abstract]\n- Cameron E, Pauling L: Supplemental ascorbate in the supportive treatment of cancer: Prolongation of survival times in terminal human cancer. Proc Natl Acad Sci U S A 73 (10): 3685-9, 1976. [PUBMED Abstract]\n- Cameron E, Pauling L: Supplemental ascorbate in the supportive treatment of cancer: reevaluation of prolongation of survival times in terminal human cancer. Proc Natl Acad Sci U S A 75 (9): 4538-42, 1978. [PUBMED Abstract]\n- Creagan ET, Moertel CG, O'Fallon JR, et al.: Failure of high-dose vitamin C (ascorbic acid) therapy to benefit patients with advanced cancer. A controlled trial. N Engl J Med 301 (13): 687-90, 1979. [PUBMED Abstract]\n- Moertel CG, Fleming TR, Creagan ET, et al.: High-dose vitamin C versus placebo in the treatment of patients with advanced cancer who have had no prior chemotherapy. A randomized double-blind comparison. N Engl J Med 312 (3): 137-41, 1985. [PUBMED Abstract]\n- Padayatty SJ, Riordan HD, Hewitt SM, et al.: Intravenously administered vitamin C as cancer therapy: three cases. CMAJ 174 (7): 937-42, 2006. [PUBMED Abstract]\n- Yeom CH, Jung GC, Song KJ: Changes of terminal cancer patients' health-related quality of life after high dose vitamin C administration. J Korean Med Sci 22 (1): 7-11, 2007. [PUBMED Abstract]\n- Nielsen TK, Højgaard M, Andersen JT, et al.: Weekly ascorbic acid infusion in castration-resistant prostate cancer patients: a single-arm phase II trial. Transl Androl Urol 6 (3): 517-528, 2017. [PUBMED Abstract]\n- Padayatty SJ, Sun H, Wang Y, et al.: Vitamin C pharmacokinetics: implications for oral and intravenous use. Ann Intern Med 140 (7): 533-7, 2004. [PUBMED Abstract]\n- Hoffer LJ, Levine M, Assouline S, et al.: Phase I clinical trial of i.v. ascorbic acid in advanced malignancy. Ann Oncol 19 (11): 1969-74, 2008. [PUBMED Abstract]\n- Monti DA, Mitchell E, Bazzan AJ, et al.: Phase I evaluation of intravenous ascorbic acid in combination with gemcitabine and erlotinib in patients with metastatic pancreatic cancer. PLoS One 7 (1): e29794, 2012. [PUBMED Abstract]\n- Welsh JL, Wagner BA, van't Erve TJ, et al.: Pharmacological ascorbate with gemcitabine for the control of metastatic and node-positive pancreatic cancer (PACMAN): results from a phase I clinical trial. Cancer Chemother Pharmacol 71 (3): 765-75, 2013. [PUBMED Abstract]\n- Ma Y, Chapman J, Levine M, et al.: High-dose parenteral ascorbate enhanced chemosensitivity of ovarian cancer and reduced toxicity of chemotherapy. Sci Transl Med 6 (222): 222ra18, 2014. [PUBMED Abstract]\n- Hoffer LJ, Robitaille L, Zakarian R, et al.: High-dose intravenous vitamin C combined with cytotoxic chemotherapy in patients with advanced cancer: a phase I-II clinical trial. PLoS One 10 (4): e0120228, 2015. [PUBMED Abstract]\n- Polireddy K, Dong R, Reed G, et al.: High Dose Parenteral Ascorbate Inhibited Pancreatic Cancer Growth and Metastasis: Mechanisms and a Phase I/IIa study. Sci Rep 7 (1): 17188, 2017. [PUBMED Abstract]\n- Wang F, He MM, Wang ZX, et al.: Phase I study of high-dose ascorbic acid with mFOLFOX6 or FOLFIRI in patients with metastatic colorectal cancer or gastric cancer. BMC Cancer 19 (1): 460, 2019. [PUBMED Abstract]\n- Paller CJ, Zahurak ML, Mandl A, et al.: High-Dose Intravenous Vitamin C Combined with Docetaxel in Men with Metastatic Castration-Resistant Prostate Cancer: A Randomized Placebo-Controlled Phase II Trial. Cancer Res Commun 4 (8): 2174-2182, 2024. [PUBMED Abstract]\n- Bodeker KL, Smith BJ, Berg DJ, et al.: A randomized trial of pharmacological ascorbate, gemcitabine, and nab-paclitaxel for metastatic pancreatic cancer. Redox Biol 77: 103375, 2024. [PUBMED Abstract]\n- Qazilbash MH, Saliba RM, Nieto Y, et al.: Arsenic trioxide with ascorbic acid and high-dose melphalan: results of a phase II randomized trial. Biol Blood Marrow Transplant 14 (12): 1401-7, 2008. [PUBMED Abstract]\n- Abou-Jawde RM, Reed J, Kelly M, et al.: Efficacy and safety results with the combination therapy of arsenic trioxide, dexamethasone, and ascorbic acid in multiple myeloma patients: a phase 2 trial. Med Oncol 23 (2): 263-72, 2006. [PUBMED Abstract]\n- Berenson JR, Matous J, Swift RA, et al.: A phase I/II study of arsenic trioxide/bortezomib/ascorbic acid combination therapy for the treatment of relapsed or refractory multiple myeloma. Clin Cancer Res 13 (6): 1762-8, 2007. [PUBMED Abstract]\n- Berenson JR, Boccia R, Siegel D, et al.: Efficacy and safety of melphalan, arsenic trioxide and ascorbic acid combination therapy in patients with relapsed or refractory multiple myeloma: a prospective, multicentre, phase II, single-arm study. Br J Haematol 135 (2): 174-83, 2006. [PUBMED Abstract]\n- Subbarayan PR, Lima M, Ardalan B: Arsenic trioxide/ascorbic acid therapy in patients with refractory metastatic colorectal carcinoma: a clinical experience. Acta Oncol 46 (4): 557-61, 2007. [PUBMED Abstract]\n- Bael TE, Peterson BL, Gollob JA: Phase II trial of arsenic trioxide and ascorbic acid with temozolomide in patients with metastatic melanoma with or without central nervous system metastases. Melanoma Res 18 (2): 147-51, 2008. [PUBMED Abstract]\n- Schoenfeld JD, Sibenaller ZA, Mapuskar KA, et al.: O2⋅- and H2O2-Mediated Disruption of Fe Metabolism Causes the Differential Susceptibility of NSCLC and GBM Cancer Cells to Pharmacological Ascorbate. Cancer Cell 32 (2): 268, 2017. [PUBMED Abstract]\n- Campbell RA, Sanchez E, Steinberg JA, et al.: Antimyeloma effects of arsenic trioxide are enhanced by melphalan, bortezomib and ascorbic acid. Br J Haematol 138 (4): 467-78, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Adverse Effects",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Adverse Effects"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Intravenous (IV) high- dose ascorbic acid has been generally well tolerated in clinical trials .[ 1 - 9 ] Renal failure after ascorbic acid treatment has been reported in patients with preexisting renal disorders .[ 10 ] One study reported fluid overload related to ascorbic acid infusion , but this may be caused by the delivery method and not the product.[ 11 ]\nCase reports have indicated that patients with glucose-6-phosphate dehydrogenase (G-6-PD) deficiency should not receive high doses of vitamin C because of the risk of developing hemolysis .[ 12 - 14 ]\nAdministration of IV vitamin C at high doses has been shown to interfere with the measurement of serum biochemical parameters. A study of the administration of high-dose IV vitamin C has been observed to interfere with certain laboratory tests such as strip-based glucose meters, showing false elevations in the glucose measurements.[ 15 , 16 ]"
+        },
+        {
+          "section": "Drug Interactions",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Adverse Effects",
+            "Drug Interactions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "When administered in high doses, vitamin C may result in adverse interactions with some anticancer agents. These interactions have primarily been detected in preclinical studies . Two early clinical studies evaluated the safety of combining high-dose IV ascorbate with gemcitabine in patients with stage IV pancreatic cancer . The combination therapy was well tolerated by patients, and no significant adverse events were reported.[ 9 , 17 ]\nIn vitro and in vivo animal studies have suggested that combining oral vitamin C with bortezomib interferes with the drug’s ability to act as a proteasome inhibitor and blocks bortezomib-initiated apoptosis .[ 18 - 20 ] This interference occurred even with the oral administration of vitamin C (40 mg / kg /day) to animals. Studies in cell culture and performed by adding blood plasma from healthy volunteers given oral vitamin C (1 g /day) also showed a significant decrease in bortezomib’s growth inhibitory effect on multiple myeloma cells. Another study found similar results. Plasma from healthy volunteers who took 1 g of oral vitamin C per day was shown to decrease bortezomib growth inhibition in multiple myeloma cells and to block its inhibitory effect on 20S proteasome activity.[ 20 ] However, a study that utilized mice harboring human prostate cancer cell xenografts failed to find any significant effect of oral vitamin C (40 mg/kg/day or 500 mg/kg/day) on the tumor growth inhibitory action of bortezomib.[ 21 ] Because IV administration of vitamin C is known to produce higher concentrations of ascorbate than oral administration, these results should be a warning for patients with cancer who are receiving treatment with bortezomib. Study results of the co-administration of IV vitamin C and bortezomib in humans would help guide clinical recommendations.\nSeveral studies have been performed to assess the potential synergistic or inhibitory action of vitamin C on certain chemotherapy drugs , with variable results. A series of studies in cell culture and in animals bearing tumors has shown that when given at high concentrations or dosages, dehydroascorbic acid (an oxidized form of vitamin C) can interfere with the cytotoxic effects of several chemotherapy drugs.[ 22 ] However, dehydroascorbic acid is generally present only at low concentrations in dietary supplements and fresh foods."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Adverse Effects",
+            "Drug Interactions",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "- Padayatty SJ, Sun H, Wang Y, et al.: Vitamin C pharmacokinetics: implications for oral and intravenous use. Ann Intern Med 140 (7): 533-7, 2004. [PUBMED Abstract]\n- Hoffer LJ, Levine M, Assouline S, et al.: Phase I clinical trial of i.v. ascorbic acid in advanced malignancy. Ann Oncol 19 (11): 1969-74, 2008. [PUBMED Abstract]\n- Chen Q, Espey MG, Sun AY, et al.: Pharmacologic doses of ascorbate act as a prooxidant and decrease growth of aggressive tumor xenografts in mice. Proc Natl Acad Sci U S A 105 (32): 11105-9, 2008. [PUBMED Abstract]\n- Monti DA, Mitchell E, Bazzan AJ, et al.: Phase I evaluation of intravenous ascorbic acid in combination with gemcitabine and erlotinib in patients with metastatic pancreatic cancer. PLoS One 7 (1): e29794, 2012. [PUBMED Abstract]\n- Abou-Jawde RM, Reed J, Kelly M, et al.: Efficacy and safety results with the combination therapy of arsenic trioxide, dexamethasone, and ascorbic acid in multiple myeloma patients: a phase 2 trial. Med Oncol 23 (2): 263-72, 2006. [PUBMED Abstract]\n- Berenson JR, Matous J, Swift RA, et al.: A phase I/II study of arsenic trioxide/bortezomib/ascorbic acid combination therapy for the treatment of relapsed or refractory multiple myeloma. Clin Cancer Res 13 (6): 1762-8, 2007. [PUBMED Abstract]\n- Qazilbash MH, Saliba RM, Nieto Y, et al.: Arsenic trioxide with ascorbic acid and high-dose melphalan: results of a phase II randomized trial. Biol Blood Marrow Transplant 14 (12): 1401-7, 2008. [PUBMED Abstract]\n- Ma Y, Chapman J, Levine M, et al.: High-dose parenteral ascorbate enhanced chemosensitivity of ovarian cancer and reduced toxicity of chemotherapy. Sci Transl Med 6 (222): 222ra18, 2014. [PUBMED Abstract]\n- Polireddy K, Dong R, Reed G, et al.: High Dose Parenteral Ascorbate Inhibited Pancreatic Cancer Growth and Metastasis: Mechanisms and a Phase I/IIa study. Sci Rep 7 (1): 17188, 2017. [PUBMED Abstract]\n- Padayatty SJ, Sun AY, Chen Q, et al.: Vitamin C: intravenous use by complementary and alternative medicine practitioners and adverse effects. PLoS One 5 (7): e11414, 2010. [PUBMED Abstract]\n- Nielsen TK, Højgaard M, Andersen JT, et al.: Weekly ascorbic acid infusion in castration-resistant prostate cancer patients: a single-arm phase II trial. Transl Androl Urol 6 (3): 517-528, 2017. [PUBMED Abstract]\n- Campbell GD, Steinberg MH, Bower JD: Letter: Ascorbic acid-induced hemolysis in G-6-PD deficiency. Ann Intern Med 82 (6): 810, 1975. [PUBMED Abstract]\n- Mehta JB, Singhal SB, Mehta BC: Ascorbic-acid-induced haemolysis in G-6-PD deficiency. Lancet 336 (8720): 944, 1990. [PUBMED Abstract]\n- Rees DC, Kelsey H, Richards JD: Acute haemolysis induced by high dose ascorbic acid in glucose-6-phosphate dehydrogenase deficiency. BMJ 306 (6881): 841-2, 1993. [PUBMED Abstract]\n- Katzman BM, Kelley BR, Deobald GR, et al.: Unintended Consequence of High-Dose Vitamin C Therapy for an Oncology Patient: Evaluation of Ascorbic Acid Interference With Three Hospital-Use Glucose Meters. J Diabetes Sci Technol 15 (4): 897-900, 2021. [PUBMED Abstract]\n- Martinello F, da Silva EL: Ascorbic acid interference in the measurement of serum biochemical parameters: in vivo and in vitro studies. Clin Biochem 39 (4): 396-403, 2006. [PUBMED Abstract]\n- Welsh JL, Wagner BA, van't Erve TJ, et al.: Pharmacological ascorbate with gemcitabine for the control of metastatic and node-positive pancreatic cancer (PACMAN): results from a phase I clinical trial. Cancer Chemother Pharmacol 71 (3): 765-75, 2013. [PUBMED Abstract]\n- Zou W, Yue P, Lin N, et al.: Vitamin C inactivates the proteasome inhibitor PS-341 in human cancer cells. Clin Cancer Res 12 (1): 273-80, 2006. [PUBMED Abstract]\n- Llobet D, Eritja N, Encinas M, et al.: Antioxidants block proteasome inhibitor function in endometrial carcinoma cells. Anticancer Drugs 19 (2): 115-24, 2008. [PUBMED Abstract]\n- Perrone G, Hideshima T, Ikeda H, et al.: Ascorbic acid inhibits antitumor activity of bortezomib in vivo. Leukemia 23 (9): 1679-86, 2009. [PUBMED Abstract]\n- Bannerman B, Xu L, Jones M, et al.: Preclinical evaluation of the antitumor activity of bortezomib in combination with vitamin C or with epigallocatechin gallate, a component of green tea. Cancer Chemother Pharmacol 68 (5): 1145-54, 2011. [PUBMED Abstract]\n- Heaney ML, Gardner JR, Karasavvas N, et al.: Vitamin C antagonizes the cytotoxic effects of antineoplastic drugs. Cancer Res 68 (19): 8031-8, 2008. [PUBMED Abstract]"
+        },
+        {
+          "section": "Summary of the Evidence for Intravenous Vitamin C",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Summary of the Evidence for Intravenous Vitamin C"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "To assist readers in evaluating the results of human studies of integrative, alternative, and complementary therapies for cancer , the strength of the evidence (i.e., the levels of evidence ) associated with each type of treatment is provided whenever possible. To qualify for a level of evidence analysis , a study must:\n- Be published in a peer-reviewed scientific journal .\n- Report on a therapeutic outcome or outcomes, such as tumor response , improvement in survival, or measured improvement in quality of life .\n- Describe clinical findings in sufficient detail that a meaningful evaluation can be made.\nSeparate levels of evidence scores are assigned to qualifying human studies on the basis of statistical strength of the study design and scientific strength of the treatment outcomes (i.e., endpoints ) measured. The resulting two scores are then combined to produce an overall score. For an explanation of the scores and additional information about levels of evidence analysis for cancer, see Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies ."
+        },
+        {
+          "section": "Latest Updates to This Summary (05/13/2025)",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (05/13/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nHuman/Clinical Studies\nAdded text to state that a phase II clinical trial published in 2024 evaluated the clinical benefit of combining pharmacologic IV vitamin C with docetaxel in patients with progressive metastatic castration-resistant prostate cancer. Forty-seven patients were randomly assigned 2:1 to receive docetaxel with either pharmacologic IV vitamin C or placebo. The study found that the addition of the vitamin C to docetaxel did not improve prostate-specific antigen response, toxicity, or other clinical outcomes when compared with docetaxel alone (cited Paller et al. as reference 18).\nAdded text to state that a phase II clinical trial published in 2024 assessed the effect of pharmacological ascorbate (P-AscH-) combined with gemcitabine and nab-paclitaxel in patients with stage IV pancreatic cancer. Thirty-four patients were randomly assigned 1:1 to receive gemcitabine and nab-paclitaxel only or gemcitabine and nab-paclitaxel with concomitant P-AscH-. The study found that the addition of P-AscH- to gemcitabine and nab-paclitaxel prolonged overall survival and progression-free survival in patients with metastatic pancreatic cancer, without detected detriment to quality of life or added toxicity (cited Bodeker et al. as reference 19).\nThis summary is written and maintained by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the use of intravenous vitamin C in the treatment of people with cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 7,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Integrative, Alternative, and Complementary Therapies Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Integrative, Alternative, and Complementary Therapies Editorial Board. PDQ Intravenous Vitamin C. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/treatment/cam/hp/vitamin-c-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389504]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\bde5c7cd7be90471ff91.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "integrative_therapies"
+      ],
+      "topic": "integrative_therapies",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Intravenous Vitamin C (PDQ®)–Patient Version",
+      "summary_name": "Intravenous Vitamin C",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 28, 2024",
+      "retrieved_at": "2026-08-31T07:07:50.044766+00:00",
+      "content_sha256": "293f005dcf6ab5ee2d0b6525be7165e3b7e78c6d9944690672c6cb0f8f2591dc",
+      "section_count": 13,
+      "sections": [
+        {
+          "section": "Overview",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Vitamin C is a nutrient found in food and dietary supplements . It is an antioxidant and also plays a key role in making collagen (see Question 1 ).\n- Vitamin C may be taken by mouth or given by an intravenous (IV) infusion . When taken by IV infusion, vitamin C can reach higher levels in the blood than when the same amount is taken by mouth (see Question 2 ).\n- Some studies of IV vitamin C use in people with cancer showed it improved quality of life and reduced cancer-related side effects (see Question 4 ).\n- In general, vitamin C given by IV infusion has caused very few side effects in clinical trials . However, IV vitamin C may cause serious side effects in people with kidney disease, G6PD deficiency , or hemochromatosis (see Question 5 ).\n- The U.S. Food and Drug Administration (FDA) has not approved the use of IV vitamin C as a treatment for cancer (see Question 7 )."
+        },
+        {
+          "section": "Questions and Answers About Intravenous Vitamin C",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "Questions and Answers About Intravenous Vitamin C"
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "- What is vitamin C? Vitamin C is a nutrient that is found in food, such as oranges, grapefruit, kiwi, peppers, and broccoli, and in dietary supplements . Vitamin C is an antioxidant and helps prevent damage to cells caused by free radicals . It also works with enzymes to play a key role in making collagen . Vitamin C is also called L-ascorbic acid or ascorbate.\n- How is vitamin C given or taken? Vitamin C may be given by intravenous (IV) infusion or taken by mouth. When given by IV infusion, vitamin C can reach much higher levels in the blood than when it is taken by mouth.\n- Have any laboratory or animal studies been done using IV vitamin C? In laboratory studies, tumor cells are used to test a substance to find out if it is likely to have any anticancer effects. In animal studies , tests are done to see if a drug , procedure, or treatment is safe and effective. Laboratory and animal studies are done in animals before a substance is tested in people. Laboratory and animal studies have tested the effects of IV vitamin C. Laboratory studies suggest that high levels of vitamin C may kill cancer cells. For information on laboratory and animal studies done using intravenous vitamin C, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Intravenous Vitamin C.\n- Have any studies of IV vitamin C been done in people with cancer? Several studies of IV vitamin C given alone or in combination with other drugs in people with cancer include the following: Studies of IV vitamin C alone Studies of IV vitamin C combined with other drugs Studies of IV vitamin C given with other drugs have shown mixed results. More studies of combining IV vitamin C with other drugs are being done. These include a number of clinical trials combining IV vitamin C with arsenic trioxide, showing mixed results.\n- One study found that people with cancer who received IV vitamin C had better quality of life and fewer cancer-related side effects than those who did not receive it.\n- In a single-arm pilot study of people with castration-resistant prostate cancer , IV vitamin C did not lower prostate-specific antigen levels or stop tumors from growing.\n- In a study of healthy volunteers and people with cancer, vitamin C was shown to be safe at doses up to 1.5 g/kg in people who do not have kidney stones, other kidney diseases, or G6PD deficiency . Studies have also shown that vitamin C levels in the blood are higher when given by IV than when taken by mouth, and last for more than 4 hours.\n- In a small study of 14 people with advanced pancreatic cancer , IV vitamin C was given along with chemotherapy and targeted therapy ( erlotinib ). Five study participants did not complete the vitamin C treatment because the tumor continued to grow during treatment. The nine participants who completed the treatment had stable disease as shown by imaging studies. Very few side effects were reported from the vitamin C treatment.\n- In a study of people newly diagnosed with pancreatic cancer, IV vitamin C did not interfere with gemcitabine .\n- In another small study, 9 people with advanced pancreatic cancer were given chemotherapy once a week for 3 weeks along with IV vitamin C twice a week for 4 weeks during each treatment cycle . The cancer did not progress over an average of 6 months in these patients. No serious side effects were reported with the combined treatment.\n- In a study of 27 people with advanced ovarian cancer , chemotherapy alone was compared with chemotherapy and IV vitamin C. IV vitamin C was given during chemotherapy and for 6 months after chemotherapy ended. Those who received IV vitamin C had fewer side effects from the chemotherapy.\n- People with refractory metastatic colorectal cancer or metastatic melanoma were treated with IV vitamin C given along with arsenic trioxide and other drugs. The treatment had no anticancer effect, the tumor continued to grow during treatment, and patients had serious side effects. These studies did not have a comparison group, so it is unclear how much the IV vitamin C affected the side effects.\n- In two pilot trials, people with non-small cell lung cancer or glioblastoma multiforme were given standard therapy plus IV vitamin C. Those who received standard therapy plus IV vitamin C had better overall survival and fewer side effects than the control groups .\n- Have any side effects or risks been reported from IV vitamin C? IV vitamin C has caused very few side effects in clinical trials . However, IV vitamin C may be harmful in people with certain risk factors .\n- In people with a history of kidney disease, kidney failure has been reported after treatment with IV vitamin C. People who are likely to develop kidney stones should not be treated with IV vitamin C.\n- One study reported too much fluid in the body (fluid overload) related to IV vitamin C. This may have been caused by the IV delivery method and not the vitamin C.\n- Case reports have shown that people with an inherited disorder called G6PD deficiency should not be given high doses of vitamin C because it may cause hemolysis .\n- Because vitamin C may make iron more easily absorbed and used by the body, high doses of vitamin C are not recommended for people with hemochromatosis (a condition in which the body takes up and stores more iron than it needs).\n- Have any drug interactions been reported from adding IV vitamin C to treatment with anticancer drugs? A drug interaction is a change in the way a drug acts in the body when taken with certain other drugs. When IV vitamin C is combined with certain anticancer drugs, the anticancer drugs may not work as well. So far, these effects have been seen only in some laboratory and animal studies. For information on drug interactions while using IV vitamin C, see the Adverse Effects section of the health professional version of Intravenous Vitamin C.\n- Is IV vitamin C approved by the FDA for use as a cancer treatment in the United States? The FDA has not approved the use of IV vitamin C as a treatment for cancer. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of IV vitamin C may not be the same."
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the use of intravenous vitamin C in the treatment of people with cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Integrative, Alternative, and Complementary Therapies Editorial Board. PDQ Intravenous Vitamin C. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389507]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        },
+        {
+          "section": "General CAM Information",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "General CAM Information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Complementary and alternative medicine (CAM)—also called integrative medicine—includes a broad range of healing philosophies, approaches, and therapies. A therapy is generally called complementary when it is used in addition to conventional treatments; it is often called alternative when it is used instead of conventional treatment. (Conventional treatments are those that are widely accepted and practiced by the mainstream medical community.) Depending on how they are used, some therapies can be considered either complementary or alternative. Complementary and alternative therapies are used in an effort to prevent illness, reduce stress, prevent or reduce side effects and symptoms, or control or cure disease.\nUnlike conventional treatments for cancer, complementary and alternative therapies are often not covered by insurance companies. Patients should check with their insurance provider to find out about coverage for complementary and alternative therapies.\nCancer patients considering complementary and alternative therapies should discuss this decision with their doctor, nurse, or pharmacist as they would any type of treatment. Some complementary and alternative therapies may affect their standard treatment or may be harmful when used with conventional treatment."
+        },
+        {
+          "section": "Evaluation of CAM Therapies",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "Evaluation of CAM Therapies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "It is important that the same scientific methods used to test conventional therapies are used to test CAM therapies. The National Cancer Institute and the National Center for Complementary and Integrative Health (NCCIH) are sponsoring a number of clinical trials (research studies) at medical centers to test CAM therapies for use in cancer.\nConventional approaches to cancer treatment have generally been studied for safety and effectiveness through a scientific process that includes clinical trials with large numbers of patients. Less is known about the safety and effectiveness of complementary and alternative methods. Few CAM therapies have been tested using demanding scientific methods. A small number of CAM therapies that were thought to be purely alternative approaches are now being used in cancer treatment—not as cures, but as complementary therapies that may help patients feel better and recover faster. One example is acupuncture. According to a panel of experts at a National Institutes of Health (NIH) meeting in November 1997, acupuncture has been found to help control nausea and vomiting caused by chemotherapy and pain related to surgery. However, some approaches, such as the use of laetrile, have been studied and found not to work and to possibly cause harm.\nThe NCI Best Case Series Program which was started in 1991, is one way CAM approaches that are being used in practice are being studied. The program is overseen by the NCI’s Office of Cancer Complementary and Alternative Medicine (OCCAM). Health care professionals who offer alternative cancer therapies submit their patients’ medical records and related materials to OCCAM. OCCAM carefully reviews these materials to see if any seem worth further research."
+        },
+        {
+          "section": "Questions to Ask Your Health Care Provider About CAM",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "Questions to Ask Your Health Care Provider About CAM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "When considering complementary and alternative therapies, patients should ask their health care provider the following questions:\n- What side effects can be expected?\n- What are the risks related to this therapy?\n- What benefits can be expected from this therapy?\n- Do the known benefits outweigh the risks?\n- Will the therapy affect conventional treatment?\n- Is this therapy part of a clinical trial?\n- If so, who is the sponsor of the trial?\n- Will the therapy be covered by health insurance?"
+        },
+        {
+          "section": "To Learn More About CAM",
+          "section_path": [
+            "Intravenous Vitamin C (PDQ®)–Patient Version",
+            "To Learn More About CAM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 32,
+          "text": "National Center for Complementary and Integrative Health (NCCIH)\nThe National Center for Complementary and Integrative Health (NCCIH) at the National Institutes of Health (NIH) facilitates research and evaluation of complementary and alternative practices, and provides information about a variety of approaches to health professionals and the public.\n- NCCIH Clearinghouse\n- Post Office Box 7923 Gaithersburg, MD 20898–7923\n- Telephone: 1-888-644-6226 (toll free)\n- TTY (for deaf and hard of hearing callers): 1-866-464-3615\n- E-mail: info@nccih.nih.gov\n- Website: https://nccih.nih.gov\nCAM on PubMed\nNCCIH and the NIH National Library of Medicine (NLM) jointly developed CAM on PubMed , a free and easy-to-use search tool for finding CAM-related journal citations. As a subset of the NLM's PubMed bibliographic database, CAM on PubMed features more than 230,000 references and abstracts for CAM-related articles from scientific journals. This database also provides links to the websites of over 1,800 journals, allowing users to view full-text articles. (A subscription or other fee may be required to access full-text articles.)\nOffice of Cancer Complementary and Alternative Medicine\nThe NCI Office of Cancer Complementary and Alternative Medicine (OCCAM) coordinates the activities of the NCI in the area of complementary and alternative medicine (CAM). OCCAM supports CAM cancer research and provides information about cancer-related CAM to health providers and the general public via the NCI website .\nNational Cancer Institute (NCI) Cancer Information Service\nU.S. residents may call the Cancer Information Service (CIS), NCI's contact center, toll free at 1-800-4-CANCER (1-800-422-6237) Monday through Friday from 9:00 am to 9:00 pm. A trained Cancer Information Specialist is available to answer your questions.\nFood and Drug Administration\nThe Food and Drug Administration (FDA) regulates drugs and medical devices to ensure that they are safe and effective.\n- Food and Drug Administration\n- 10903 New Hampshire Avenue\n- Silver Spring, MD 20993\n- Telephone: 1-888-463-6332 (toll free)\n- Website: http://www.fda.gov\nFederal Trade Commission\nThe Federal Trade Commission (FTC) enforces consumer protection laws. Publications available from the FTC include:\n- Who Cares: Sources of Information About Health Care Products and Services\n- Fraudulent Health Claims: Don’t Be Fooled\n- Consumer Response Center\n- Federal Trade Commission\n- 600 Pennsylvania Avenue, NW\n- Washington, DC 20580\n- Telephone: 1-877-FTC-HELP (1-877-382-4357) (toll free)\n- TTY (for deaf and hard of hearing callers): 202-326-2502\n- Website: http://www.ftc.gov"
+        }
+      ],
+      "raw_html_file": "raw_html\\5a1739d6707b1068e961.html"
+    }
+  ]
+}

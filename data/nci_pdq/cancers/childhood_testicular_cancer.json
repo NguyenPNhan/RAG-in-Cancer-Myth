@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Childhood Testicular Cancer",
+  "generated_at": "2026-08-31T07:15:23.195387+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Childhood Testicular Cancer",
+      "title": "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Childhood Testicular Cancer Treatment",
+      "url": "https://www.cancer.gov/types/testicular/hp/child-testicular-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "September 5, 2024",
+      "retrieved_at": "2026-08-31T07:14:45.193365+00:00",
+      "content_sha256": "bfd5eb2538176a7d7818e5532e6b1af2487d77408e009e4f066e92ea0515ebe8",
+      "section_count": 16,
+      "sections": [
+        {
+          "section": "Incidence, Risk Factors, and Clinical Presentation",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "Incidence, Risk Factors, and Clinical Presentation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Testicular tumors are very rare in young boys and account for 1% to 2% of all childhood tumors.[ 1 , 2 ] The most common testicular tumors are benign teratomas, followed by malignant nonseminomatous germ cell tumors. For more information, see Childhood Extracranial Germ Cell Tumors Treatment .\nNon–germ cell tumors such as sex cord–stromal tumors are exceedingly rare in prepubertal boys.[ 3 ] In a small series, gonadal stromal tumors accounted for 8% to 13% of pediatric testicular tumors.[ 4 , 5 ] Most gonadal stromal tumors present as painless testicular masses, while 10% to 20% of patients may have endocrine manifestations, such as precocious puberty.[ 6 ]\nIn newborns and infants, juvenile granulosa cell and Sertoli cell tumors are the most common stromal cell tumors. Sertoli cell tumors present later in infancy (median age, 7 months). Juvenile granulosa cell tumors usually present early in infancy (median age, 6 days).[ 6 ] These tumors account for less than 5% of all neoplasms in the prepubertal testis. Testicular juvenile granulosa cell tumors harbor recurrent loss of chromosome 10 and lack the GNAS and AKT1 variants described in their ovarian tumor counterparts.[ 7 ]\nIn older males, Leydig cell tumors are more common.[ 8 ] In a report of 12 patients with Leydig cell tumors (aged 4.2–14.7 years), precocious puberty was the presenting symptom in 7 of 12 patients.[ 9 ][ Level of evidence C1 ]\nTesticular Sertoli cell tumors and, possibly, Leydig cell tumors are associated with DICER1 syndrome. Patients with these tumors should undergo genetic testing for DICER1 germline pathogenic variants.[ 10 ]\nLarge-cell calcifying Sertoli cell tumors are rare testicular sex cord–stromal tumors that primarily affects young males. These tumors are usually benign, may occur in both testes, and often have slow and indolent courses.[ 11 ] One study included 18 patients with large-cell calcifying Sertoli cell tumors. Eight tumors were clinically benign (≥18 months of follow-up without metastasis), eight were clinically ambiguous (lacking sufficient follow-up to determine tumor behavior; <18 months of follow-up without metastasis), and two were clinically malignant (documented metastasis). For the patients with clinically benign tumors, median age at diagnosis was 15.5 years, and median tumor size was 1.9 cm. For the patients with clinically ambiguous tumors, median age at diagnosis was 19 years, and median tumor size was 1.6 cm. For the patients with clinically malignant tumors, median age at diagnosis was 28.5 years, and median tumor size was 2.3 cm. All patients survived except for one with a metastatic tumor (median follow-up, 33 months).[ 12 ] Large-cell calcifying Sertoli cell tumors may be indicative of an underlying genetic predisposition, such as Peutz-Jeghers syndrome or Carney complex.[ 13 ] Carney complex is an autosomal dominant, multisystem tumor disorder [ 14 ] that is most frequently caused by germline pathogenic variants in the PRKAR1A gene.[ 15 ] A retrospective multi-institutional analysis of 15 patients with large-cell calcifying Sertoli tumor (median age, 16 years) included 4 patients with Carney complex.[ 16 ] Loss of cytoplasmic PRKAR1A expression (evaluated by immunohistochemistry) was observed in all but one patient (14 of 15; 93%). PRKAR1A expression was retained in all other sex cord–stromal tumors, indicating that this testing may aid in diagnosis of this rare tumor."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "Incidence, Risk Factors, and Clinical Presentation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "- Hartke DM, Agarwal PK, Palmer JS: Testicular neoplasms in the prepubertal male. J Mens Health Gend 3 (2): 131-8, 2006.\n- Ahmed HU, Arya M, Muneer A, et al.: Testicular and paratesticular tumours in the prepubertal population. Lancet Oncol 11 (5): 476-83, 2010. [PUBMED Abstract]\n- Schultz KA, Schneider DT, Pashankar F, et al.: Management of ovarian and testicular sex cord-stromal tumors in children and adolescents. J Pediatr Hematol Oncol 34 (Suppl 2): S55-63, 2012. [PUBMED Abstract]\n- Pohl HG, Shukla AR, Metcalf PD, et al.: Prepubertal testis tumors: actual prevalence rate of histological types. J Urol 172 (6 Pt 1): 2370-2, 2004. [PUBMED Abstract]\n- Schwentner C, Oswald J, Rogatsch H, et al.: Stromal testis tumors in infants. a report of two cases. Urology 62 (6): 1121, 2003. [PUBMED Abstract]\n- Cecchetto G, Alaggio R, Bisogno G, et al.: Sex cord-stromal tumors of the testis in children. A clinicopathologic report from the Italian TREP project. J Pediatr Surg 45 (9): 1868-73, 2010. [PUBMED Abstract]\n- Collins K, Sholl LM, Vargas SO, et al.: Testicular Juvenile Granulosa Cell Tumors Demonstrate Recurrent Loss of Chromosome 10 and Absence of Molecular Alterations Described in Ovarian Counterparts. Mod Pathol 36 (6): 100142, 2023. [PUBMED Abstract]\n- Carmignani L, Colombo R, Gadda F, et al.: Conservative surgical therapy for leydig cell tumor. J Urol 178 (2): 507-11; discussion 511, 2007. [PUBMED Abstract]\n- Luckie TM, Danzig M, Zhou S, et al.: A Multicenter Retrospective Review of Pediatric Leydig Cell Tumor of the Testis. J Pediatr Hematol Oncol 41 (1): 74-76, 2019. [PUBMED Abstract]\n- Golmard L, Vasta LM, Duflos V, et al.: Testicular Sertoli cell tumour and potentially testicular Leydig cell tumour are features of DICER1 syndrome. J Med Genet 59 (4): 346-350, 2022. [PUBMED Abstract]\n- Lai JP, Lee CC, Crocker M, et al.: Isolated Large Cell Calcifying Sertoli Cell Tumor in a Young Boy, not Associated with Peutz-Jeghers Syndrome or Carney Complex. Ann Clin Lab Res 3 (1): 2, 2015. [PUBMED Abstract]\n- Al-Obaidy KI, Idrees MT, Abdulfatah E, et al.: Large Cell Calcifying Sertoli Cell Tumor: A Clinicopathologic Study of 18 Cases With Comprehensive Review of the Literature and Reappraisal of Prognostic Features. Am J Surg Pathol 46 (5): 688-700, 2022. [PUBMED Abstract]\n- Gourgari E, Saloustros E, Stratakis CA: Large-cell calcifying Sertoli cell tumors of the testes in pediatrics. Curr Opin Pediatr 24 (4): 518-22, 2012. [PUBMED Abstract]\n- Carney JA: Carney complex: the complex of myxomas, spotty pigmentation, endocrine overactivity, and schwannomas. Semin Dermatol 14 (2): 90-8, 1995. [PUBMED Abstract]\n- Kirschner LS, Carney JA, Pack SD, et al.: Mutations of the gene encoding the protein kinase A type I-alpha regulatory subunit in patients with the Carney complex. Nat Genet 26 (1): 89-92, 2000. [PUBMED Abstract]\n- Anderson WJ, Gordetsky JB, Idrees MT, et al.: Large cell calcifying Sertoli cell tumour: a contemporary multi-institutional case series highlighting the diagnostic utility of PRKAR1A immunohistochemistry. Histopathology 80 (4): 677-685, 2022. [PUBMED Abstract]"
+        },
+        {
+          "section": "Prognosis",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "Prognosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The prognosis for patients with sex cord–stromal tumors is usually excellent after orchiectomy.[ 1 - 3 ]; [ 4 ][ Level of evidence C1 ] In a review of the literature, 79 patients younger than 12 years were identified. No patient had high-risk pathological findings after orchiectomy, and none had evidence of occult metastatic disease, suggesting a role for a limited surveillance strategy.[ 5 ][ Level of evidence C1 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "Prognosis",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Agarwal PK, Palmer JS: Testicular and paratesticular neoplasms in prepubertal males. J Urol 176 (3): 875-81, 2006. [PUBMED Abstract]\n- Dudani R, Giordano L, Sultania P, et al.: Juvenile granulosa cell tumor of testis: case report and review of literature. Am J Perinatol 25 (4): 229-31, 2008. [PUBMED Abstract]\n- Cecchetto G, Alaggio R, Bisogno G, et al.: Sex cord-stromal tumors of the testis in children. A clinicopathologic report from the Italian TREP project. J Pediatr Surg 45 (9): 1868-73, 2010. [PUBMED Abstract]\n- Hofmann M, Schlegel PG, Hippert F, et al.: Testicular sex cord stromal tumors: analysis of patients from the MAKEI study. Pediatr Blood Cancer 60 (10): 1651-5, 2013. [PUBMED Abstract]\n- Rove KO, Maroni PD, Cost CR, et al.: Pathologic Risk Factors in Pediatric and Adolescent Patients With Clinical Stage I Testicular Stromal Tumors. J Pediatr Hematol Oncol 37 (8): e441-6, 2015. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Childhood Testicular Cancer",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Testicular Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "The European Cooperative Study Group for Pediatric Rare Tumors within the PARTNER project (Paediatric Rare Tumours Network - European Registry) has published comprehensive recommendations for the diagnosis and treatment of sex cord–stromal tumors in children and adolescents.[ 1 ]\nTreatment options for childhood testicular cancer (non–germ cell tumors) include the following:\n- Surgery.\nThere are conflicting data about malignant potential in older males. Most case reports suggest that in pediatric patients, these tumors can be treated with surgery alone.[ 2 , 3 ][ Level of evidence C1 ]; [ 4 ][ Level of evidence C2 ] It is prudent to check alpha-fetoprotein (AFP) levels before surgery. Elevated AFP levels usually indicate a malignant germ cell tumor. However, AFP levels and decay in levels are often difficult to interpret in infants younger than 1 year.[ 5 ]\nEvidence (surgery):\n- In a study of patients prospectively reported to the German Maligne Keimzelltumoren (MAKEI) registry, 42 patients with sex cord–stromal tumors were identified. All tumors were confined to the testes. Patients were treated with surgery alone, according to specific germ cell tumor guidelines.[ 6 ][ Level of evidence C1 ]\n- There were no tumor recurrences.\n- A French registry identified 11 boys with localized sex cord–stromal testicular tumors. All 11 boys were treated with surgery alone.[ 7 ][ Level of evidence C1 ]\n- There were no tumor recurrences.\n- The benign behavior of pediatric non–germ cell testicular tumors has led to reports of testis-sparing surgery.[ 8 - 12 ] In one series of 12 patients with Leydig cell tumors (aged 4.2–14.7 years), 3 were treated with enucleation alone, and 9 were treated with orchiectomy.[ 13 ][ Level of evidence C1 ]\n- All patients were alive at the last follow-up.\nGiven the rarity of this tumor, the best surgical approach in pediatrics has not yet been defined."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Testicular Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "- Schneider DT, Orbach D, Ben-Ami T, et al.: Consensus recommendations from the EXPeRT/PARTNER groups for the diagnosis and therapy of sex cord stromal tumors in children and adolescents. Pediatr Blood Cancer 68 (Suppl 4): e29017, 2021. [PUBMED Abstract]\n- Agarwal PK, Palmer JS: Testicular and paratesticular neoplasms in prepubertal males. J Urol 176 (3): 875-81, 2006. [PUBMED Abstract]\n- Thomas JC, Ross JH, Kay R: Stromal testis tumors in children: a report from the prepubertal testis tumor registry. J Urol 166 (6): 2338-40, 2001. [PUBMED Abstract]\n- Cecchetto G, Alaggio R, Bisogno G, et al.: Sex cord-stromal tumors of the testis in children. A clinicopathologic report from the Italian TREP project. J Pediatr Surg 45 (9): 1868-73, 2010. [PUBMED Abstract]\n- Blohm ME, Vesterling-Hörner D, Calaminus G, et al.: Alpha 1-fetoprotein (AFP) reference values in infants up to 2 years of age. Pediatr Hematol Oncol 15 (2): 135-42, 1998 Mar-Apr. [PUBMED Abstract]\n- Hofmann M, Schlegel PG, Hippert F, et al.: Testicular sex cord stromal tumors: analysis of patients from the MAKEI study. Pediatr Blood Cancer 60 (10): 1651-5, 2013. [PUBMED Abstract]\n- Fresneau B, Orbach D, Faure-Conter C, et al.: Sex-Cord Stromal Tumors in Children and Teenagers: Results of the TGM-95 Study. Pediatr Blood Cancer 62 (12): 2114-9, 2015. [PUBMED Abstract]\n- Cosentino M, Algaba F, Saldaña L, et al.: Juvenile granulosa cell tumor of the testis: a bilateral and synchronous case. Should testis-sparing surgery be mandatory? Urology 84 (3): 694-6, 2014. [PUBMED Abstract]\n- Kao CS, Cornejo KM, Ulbright TM, et al.: Juvenile granulosa cell tumors of the testis: a clinicopathologic study of 70 cases with emphasis on its wide morphologic spectrum. Am J Surg Pathol 39 (9): 1159-69, 2015. [PUBMED Abstract]\n- Emre S, Ozcan R, Elicevik M, et al.: Testis sparing surgery for Leydig cell pathologies in children. J Pediatr Urol 13 (1): 51.e1-51.e4, 2017. [PUBMED Abstract]\n- Bois JI, Vagni RL, de Badiola FI, et al.: Testis-sparing surgery for testicular tumors in children: a 20 year single center experience and systematic review of the literature. Pediatr Surg Int 37 (5): 607-616, 2021. [PUBMED Abstract]\n- Woo LL, Ross JH: The role of testis-sparing surgery in children and adolescents with testicular tumors. Urol Oncol 34 (2): 76-83, 2016. [PUBMED Abstract]\n- Luckie TM, Danzig M, Zhou S, et al.: A Multicenter Retrospective Review of Pediatric Leydig Cell Tumor of the Testis. J Pediatr Hematol Oncol 41 (1): 74-76, 2019. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options Under Clinical Evaluation for Childhood Testicular Cancer",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Options Under Clinical Evaluation for Childhood Testicular Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about National Cancer Institute (NCI)–supported clinical trials can be found on the NCI website . For information about clinical trials sponsored by other organizations, see the ClinicalTrials.gov website ."
+        },
+        {
+          "section": "Special Considerations for the Treatment of Children With Cancer",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "Cancer in children and adolescents is rare, although the overall incidence has slowly increased since 1975.[ 1 ] Children and adolescents with cancer should be referred to medical centers that have a multidisciplinary team of cancer specialists with experience treating the cancers that occur during childhood and adolescence. This multidisciplinary team approach incorporates the skills of the following pediatric specialists and others to ensure that children receive treatment, supportive care, and rehabilitation to achieve optimal survival and quality of life:\n- Primary care physicians.\n- Pediatric surgeons.\n- Pathologists.\n- Pediatric radiation oncologists.\n- Pediatric medical oncologists and hematologists.\n- Ophthalmologists.\n- Rehabilitation specialists.\n- Pediatric oncology nurses.\n- Social workers.\n- Child-life professionals.\n- Psychologists.\n- Nutritionists.\nFor specific information about supportive care for children and adolescents with cancer, see the summaries on Supportive and Palliative Care .\nThe American Academy of Pediatrics has outlined guidelines for pediatric cancer centers and their role in the treatment of children and adolescents with cancer.[ 2 ] At these centers, clinical trials are available for most types of cancer that occur in children and adolescents, and the opportunity to participate is offered to most patients and their families. Clinical trials for children and adolescents diagnosed with cancer are generally designed to compare potentially better therapy with current standard therapy. Other types of clinical trials test novel therapies when there is no standard therapy for a cancer diagnosis. Most of the progress in identifying curative therapies for childhood cancers has been achieved through clinical trials. Information about ongoing clinical trials is available from the NCI website .\nDramatic improvements in survival have been achieved for children and adolescents with cancer. Between 1975 and 2020, childhood cancer mortality decreased by more than 50%.[ 3 - 5 ] Childhood and adolescent cancer survivors require close monitoring because side effects of cancer therapy may persist or develop months or years after treatment. For information about the incidence, type, and monitoring of late effects in childhood and adolescent cancer survivors, see Late Effects of Treatment for Childhood Cancer .\nChildhood cancer is a rare disease, with about 15,000 cases diagnosed annually in the United States in individuals younger than 20 years.[ 6 ] The U.S. Rare Diseases Act of 2002 defines a rare disease as one that affects populations smaller than 200,000 people in the United States. Therefore, all pediatric cancers are considered rare.\nThe designation of a rare tumor is not uniform among pediatric and adult groups. In adults, rare cancers are defined as those with an annual incidence of fewer than six cases per 100,000 people. They account for up to 24% of all cancers diagnosed in the European Union and about 20% of all cancers diagnosed in the United States.[ 7 , 8 ] In children and adolescents, the designation of a rare tumor is not uniform among international groups, as follows:\n- A consensus effort between the European Union Joint Action on Rare Cancers and the European Cooperative Study Group for Rare Pediatric Cancers estimated that 11% of all cancers in patients younger than 20 years could be categorized as very rare. This consensus group defined very rare cancers as those with annual incidences of fewer than two cases per 1 million people. However, three additional histologies (thyroid carcinoma, melanoma, and testicular cancer) with incidences of more than two cases per 1 million people were also included in the very rare group due to a lack of knowledge and expertise in the management of these tumors.[ 9 ]\n- The Children's Oncology Group defines rare pediatric cancers as those listed in the International Classification of Childhood Cancer subgroup XI, which includes thyroid cancers, melanomas and nonmelanoma skin cancers, and multiple types of carcinomas (e.g., adrenocortical carcinomas, nasopharyngeal carcinomas, and most adult-type carcinomas such as breast cancers and colorectal cancers).[ 10 ] These diagnoses account for about 5% of the cancers diagnosed in children aged 0 to 14 years and about 27% of the cancers diagnosed in adolescents aged 15 to 19 years.[ 4 ] Most cancers in subgroup XI are either melanomas or thyroid cancers, with other cancer types accounting for only 2% of the cancers diagnosed in children aged 0 to 14 years and 9.3% of the cancers diagnosed in adolescents aged 15 to 19 years.\nThese rare cancers are extremely challenging to study because of the relatively few patients with any individual diagnosis, the predominance of rare cancers in the adolescent population, and the small number of clinical trials for adolescents with rare cancers.\nInformation about these tumors may also be found in sources relevant to adults with cancer, such as Testicular Cancer Treatment ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Smith MA, Seibel NL, Altekruse SF, et al.: Outcomes for children and adolescents with cancer: challenges for the twenty-first century. J Clin Oncol 28 (15): 2625-34, 2010. [PUBMED Abstract]\n- American Academy of Pediatrics: Standards for pediatric cancer centers. Pediatrics 134 (2): 410-4, 2014. Also available online . Last accessed February 25, 2025.\n- Smith MA, Altekruse SF, Adamson PC, et al.: Declining childhood and adolescent cancer mortality. Cancer 120 (16): 2497-506, 2014. [PUBMED Abstract]\n- National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed February 25, 2025.\n- Surveillance Research Program, National Cancer Institute: SEER*Explorer: An interactive website for SEER cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed December 30, 2024.\n- Ward E, DeSantis C, Robbins A, et al.: Childhood and adolescent cancer statistics, 2014. CA Cancer J Clin 64 (2): 83-103, 2014 Mar-Apr. [PUBMED Abstract]\n- Gatta G, Capocaccia R, Botta L, et al.: Burden and centralised treatment in Europe of rare tumours: results of RARECAREnet-a population-based study. Lancet Oncol 18 (8): 1022-1039, 2017. [PUBMED Abstract]\n- DeSantis CE, Kramer JL, Jemal A: The burden of rare cancers in the United States. CA Cancer J Clin 67 (4): 261-272, 2017. [PUBMED Abstract]\n- Ferrari A, Brecht IB, Gatta G, et al.: Defining and listing very rare cancers of paediatric age: consensus of the Joint Action on Rare Cancers in cooperation with the European Cooperative Study Group for Pediatric Rare Tumors. Eur J Cancer 110: 120-126, 2019. [PUBMED Abstract]\n- Pappo AS, Krailo M, Chen Z, et al.: Infrequent tumor initiative of the Children's Oncology Group: initial lessons learned and their impact on future plans. J Clin Oncol 28 (33): 5011-6, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (09/05/2024)",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (09/05/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nThis summary was comprehensively reviewed.\nThis summary is written and maintained by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of pediatric testicular cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 17,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Childhood Testicular Cancer Treatment are:\n- Denise Adams, MD (Children's Hospital Boston)\n- Karen J. Marcus, MD, FACR (Dana-Farber of Boston Children's Cancer Center and Blood Disorders Harvard Medical School)\n- William H. Meyer, MD\n- Paul A. Meyers, MD (Memorial Sloan-Kettering Cancer Center)\n- Thomas A. Olson, MD (Aflac Cancer and Blood Disorders Center of Children's Healthcare of Atlanta - Egleston Campus)\n- Alberto S. Pappo, MD (St. Jude Children's Research Hospital)\n- Arthur Kim Ritchey, MD (Children's Hospital of Pittsburgh of UPMC)\n- Carlos Rodriguez-Galindo, MD (St. Jude Children's Research Hospital)\n- Stephen J. Shochat, MD (St. Jude Children's Research Hospital)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Pediatric Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Testicular Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/testicular/hp/child-testicular-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 31846265]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Testicular Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\df62018559c2f8644ab3.html"
+    }
+  ]
+}

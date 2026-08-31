@@ -1,0 +1,2681 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "base_url": "https://www.cancer.gov",
+  "generated_at": "2026-08-31T07:15:23.795810+00:00",
+  "collections_requested": [
+    "adult_treatment",
+    "pediatric_treatment",
+    "screening",
+    "prevention",
+    "genetics",
+    "supportive_care",
+    "integrative_therapies"
+  ],
+  "index_urls": {
+    "adult_treatment": "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment",
+    "pediatric_treatment": "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment",
+    "screening": "https://www.cancer.gov/publications/pdq/information-summaries/screening",
+    "prevention": "https://www.cancer.gov/publications/pdq/information-summaries/prevention",
+    "genetics": "https://www.cancer.gov/publications/pdq/information-summaries/genetics",
+    "supportive_care": "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care",
+    "integrative_therapies": "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+  },
+  "discovered_url_count": 381,
+  "success_count": 381,
+  "failure_count": 0,
+  "cancer_file_count": 168,
+  "general_topic_file_count": 59,
+  "cancer_files": [
+    {
+      "cancer_type": "AIDS-Related Lymphoma",
+      "file": "cancers\\aids_related_lymphoma.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Acute Lymphoblastic Leukemia",
+      "file": "cancers\\acute_lymphoblastic_leukemia.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Acute Myeloid Leukemia",
+      "file": "cancers\\acute_myeloid_leukemia.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Adrenocortical Carcinoma",
+      "file": "cancers\\adrenocortical_carcinoma.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Adult Central Nervous System Tumors",
+      "file": "cancers\\adult_central_nervous_system_tumors.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Aggressive B-Cell Non-Hodgkin Lymphoma",
+      "file": "cancers\\aggressive_b_cell_non_hodgkin_lymphoma.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Agnostic Cancer Therapies",
+      "file": "cancers\\agnostic_cancer_therapies.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Anal Cancer",
+      "file": "cancers\\anal_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment",
+        "prevention"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Bile Duct Cancer (Cholangiocarcinoma)",
+      "file": "cancers\\bile_duct_cancer_cholangiocarcinoma.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Bladder Cancer",
+      "file": "cancers\\bladder_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Bladder and Other Urothelial Cancers",
+      "file": "cancers\\bladder_and_other_urothelial_cancers.json",
+      "page_count": 1,
+      "topics": [
+        "screening"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Breast Cancer",
+      "file": "cancers\\breast_cancer.json",
+      "page_count": 3,
+      "topics": [
+        "adult_treatment",
+        "prevention",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Breast Cancer Treatment During Pregnancy",
+      "file": "cancers\\breast_cancer_treatment_during_pregnancy.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Cancer of Unknown Primary (CUP)",
+      "file": "cancers\\cancer_of_unknown_primary_cup.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Carcinoma of Unknown Primary",
+      "file": "cancers\\carcinoma_of_unknown_primary.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Central Nervous System Tumors",
+      "file": "cancers\\central_nervous_system_tumors.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Cervical Cancer",
+      "file": "cancers\\cervical_cancer.json",
+      "page_count": 3,
+      "topics": [
+        "adult_treatment",
+        "prevention",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Cervical Cancer Treatment During Pregnancy",
+      "file": "cancers\\cervical_cancer_treatment_during_pregnancy.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Acute Lymphoblastic Leukemia",
+      "file": "cancers\\childhood_acute_lymphoblastic_leukemia.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Acute Myeloid Leukemia",
+      "file": "cancers\\childhood_acute_myeloid_leukemia.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies",
+      "file": "cancers\\childhood_acute_myeloid_leukemia_other_myeloid_malignancies.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Acute Promyelocytic Leukemia",
+      "file": "cancers\\childhood_acute_promyelocytic_leukemia.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Adrenocortical Carcinoma",
+      "file": "cancers\\childhood_adrenocortical_carcinoma.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Astrocytomas, Other Gliomas, and Glioneuronal/Neuronal Tumors",
+      "file": "cancers\\childhood_astrocytomas_other_gliomas_and_glioneuronal_neuronal_tumors.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Basal Cell Carcinoma and Squamous Cell Carcinoma of the Skin",
+      "file": "cancers\\childhood_basal_cell_carcinoma_and_squamous_cell_carcinoma_of_the_skin.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Bladder Cancer",
+      "file": "cancers\\childhood_bladder_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Brain and Spinal Cord Tumors Summary Index",
+      "file": "cancers\\childhood_brain_and_spinal_cord_tumors_summary_index.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Breast Tumors",
+      "file": "cancers\\childhood_breast_tumors.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Cancer Genomics",
+      "file": "cancers\\childhood_cancer_genomics.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Cancer of Unknown Primary (CUP)",
+      "file": "cancers\\childhood_cancer_of_unknown_primary_cup.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Carcinoma of Unknown Primary",
+      "file": "cancers\\childhood_carcinoma_of_unknown_primary.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Cardiac Tumors",
+      "file": "cancers\\childhood_cardiac_tumors.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Central Nervous System Atypical Teratoid/Rhabdoid Tumor",
+      "file": "cancers\\childhood_central_nervous_system_atypical_teratoid_rhabdoid_tumor.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Central Nervous System Germ Cell Tumors",
+      "file": "cancers\\childhood_central_nervous_system_germ_cell_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Cervical and Vaginal Cancer",
+      "file": "cancers\\childhood_cervical_and_vaginal_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Chordoma",
+      "file": "cancers\\childhood_chordoma.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Chronic Myeloid Leukemia",
+      "file": "cancers\\childhood_chronic_myeloid_leukemia.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Colorectal Cancer",
+      "file": "cancers\\childhood_colorectal_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Craniopharyngioma",
+      "file": "cancers\\childhood_craniopharyngioma.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Ependymoma",
+      "file": "cancers\\childhood_ependymoma.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Esophageal Cancer",
+      "file": "cancers\\childhood_esophageal_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Esthesioneuroblastoma",
+      "file": "cancers\\childhood_esthesioneuroblastoma.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Extracranial Germ Cell Tumors",
+      "file": "cancers\\childhood_extracranial_germ_cell_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Gastrointestinal Neuroendocrine Tumors",
+      "file": "cancers\\childhood_gastrointestinal_neuroendocrine_tumors.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Gastrointestinal Stromal Tumors",
+      "file": "cancers\\childhood_gastrointestinal_stromal_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Heart Tumors",
+      "file": "cancers\\childhood_heart_tumors.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Hodgkin Lymphoma",
+      "file": "cancers\\childhood_hodgkin_lymphoma.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Intraocular (Uveal) Melanoma",
+      "file": "cancers\\childhood_intraocular_uveal_melanoma.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Laryngeal Tumors",
+      "file": "cancers\\childhood_laryngeal_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Liver Cancer",
+      "file": "cancers\\childhood_liver_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Medulloblastoma and Other Central Nervous System Embryonal Tumors",
+      "file": "cancers\\childhood_medulloblastoma_and_other_central_nervous_system_embryonal_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Melanoma",
+      "file": "cancers\\childhood_melanoma.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Mesothelioma",
+      "file": "cancers\\childhood_mesothelioma.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Multiple Endocrine Neoplasia (MEN) Syndromes",
+      "file": "cancers\\childhood_multiple_endocrine_neoplasia_men_syndromes.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Myelodysplastic Neoplasms",
+      "file": "cancers\\childhood_myelodysplastic_neoplasms.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Myeloid Proliferations Associated With Down Syndrome",
+      "file": "cancers\\childhood_myeloid_proliferations_associated_with_down_syndrome.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood NUT Carcinoma",
+      "file": "cancers\\childhood_nut_carcinoma.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Nasopharyngeal Cancer",
+      "file": "cancers\\childhood_nasopharyngeal_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Non-Hodgkin Lymphoma",
+      "file": "cancers\\childhood_non_hodgkin_lymphoma.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Oral Cavity Cancer",
+      "file": "cancers\\childhood_oral_cavity_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Ovarian Cancer",
+      "file": "cancers\\childhood_ovarian_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Pancreatic Cancer",
+      "file": "cancers\\childhood_pancreatic_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Pheochromocytoma and Paraganglioma",
+      "file": "cancers\\childhood_pheochromocytoma_and_paraganglioma.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Pleuropulmonary Blastoma",
+      "file": "cancers\\childhood_pleuropulmonary_blastoma.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Pulmonary Inflammatory Myofibroblastic Tumors",
+      "file": "cancers\\childhood_pulmonary_inflammatory_myofibroblastic_tumors.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Rhabdomyosarcoma",
+      "file": "cancers\\childhood_rhabdomyosarcoma.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Salivary Gland Tumors",
+      "file": "cancers\\childhood_salivary_gland_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Soft Tissue Sarcoma",
+      "file": "cancers\\childhood_soft_tissue_sarcoma.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Testicular Cancer",
+      "file": "cancers\\childhood_testicular_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Thymoma and Thymic Carcinoma",
+      "file": "cancers\\childhood_thymoma_and_thymic_carcinoma.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Thyroid Cancer",
+      "file": "cancers\\childhood_thyroid_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Tracheobronchial Tumors",
+      "file": "cancers\\childhood_tracheobronchial_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Childhood Vascular Tumors",
+      "file": "cancers\\childhood_vascular_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Chronic Lymphocytic Leukemia",
+      "file": "cancers\\chronic_lymphocytic_leukemia.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Chronic Myeloid Leukemia",
+      "file": "cancers\\chronic_myeloid_leukemia.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Cigarette Smoking: Health Risks and How to Quit",
+      "file": "cancers\\cigarette_smoking_health_risks_and_how_to_quit.json",
+      "page_count": 2,
+      "topics": [
+        "prevention"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Colon Cancer",
+      "file": "cancers\\colon_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Colorectal Cancer",
+      "file": "cancers\\colorectal_cancer.json",
+      "page_count": 4,
+      "topics": [
+        "prevention",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Endometrial Cancer",
+      "file": "cancers\\endometrial_cancer.json",
+      "page_count": 6,
+      "topics": [
+        "adult_treatment",
+        "prevention",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Esophageal Cancer",
+      "file": "cancers\\esophageal_cancer.json",
+      "page_count": 3,
+      "topics": [
+        "adult_treatment",
+        "prevention",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Ewing Sarcoma",
+      "file": "cancers\\ewing_sarcoma.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Ewing Sarcoma and Undifferentiated Small Round Cell Sarcomas of Bone and Soft Tissue",
+      "file": "cancers\\ewing_sarcoma_and_undifferentiated_small_round_cell_sarcomas_of_bone_and_soft_tissue.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Extragonadal Germ Cell Tumors",
+      "file": "cancers\\extragonadal_germ_cell_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Financial Toxicity (Financial Distress) and Cancer",
+      "file": "cancers\\financial_toxicity_financial_distress_and_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Financial Toxicity and Cancer",
+      "file": "cancers\\financial_toxicity_and_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Gallbladder Cancer",
+      "file": "cancers\\gallbladder_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Gastrointestinal Neuroendocrine Tumors",
+      "file": "cancers\\gastrointestinal_neuroendocrine_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Gastrointestinal Stromal Tumors",
+      "file": "cancers\\gastrointestinal_stromal_tumors.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Gastrointestinal Stromal Tumors Treatment (Adult)",
+      "file": "cancers\\gastrointestinal_stromal_tumors_treatment_adult.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Gestational Trophoblastic Disease",
+      "file": "cancers\\gestational_trophoblastic_disease.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Hairy Cell Leukemia",
+      "file": "cancers\\hairy_cell_leukemia.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Hepatocellular (Liver) Cancer",
+      "file": "cancers\\hepatocellular_liver_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "prevention",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Hodgkin Lymphoma",
+      "file": "cancers\\hodgkin_lymphoma.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Hodgkin Lymphoma Treatment During Pregnancy",
+      "file": "cancers\\hodgkin_lymphoma_treatment_during_pregnancy.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Hypopharyngeal Cancer",
+      "file": "cancers\\hypopharyngeal_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Indolent B-Cell Non-Hodgkin Lymphoma",
+      "file": "cancers\\indolent_b_cell_non_hodgkin_lymphoma.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Intraocular (Uveal) Melanoma",
+      "file": "cancers\\intraocular_uveal_melanoma.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Juvenile Myelomonocytic Leukemia",
+      "file": "cancers\\juvenile_myelomonocytic_leukemia.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Kaposi Sarcoma",
+      "file": "cancers\\kaposi_sarcoma.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Kidney (Renal Cell) Cancer",
+      "file": "cancers\\kidney_renal_cell_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Langerhans Cell Histiocytosis",
+      "file": "cancers\\langerhans_cell_histiocytosis.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Laryngeal Cancer",
+      "file": "cancers\\laryngeal_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Late Effects of Treatment for Childhood Cancer",
+      "file": "cancers\\late_effects_of_treatment_for_childhood_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Lip and Oral Cavity Cancer",
+      "file": "cancers\\lip_and_oral_cavity_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Lung Cancer",
+      "file": "cancers\\lung_cancer.json",
+      "page_count": 4,
+      "topics": [
+        "prevention",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Male Breast Cancer",
+      "file": "cancers\\male_breast_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Malignant Mesothelioma",
+      "file": "cancers\\malignant_mesothelioma.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Melanoma",
+      "file": "cancers\\melanoma.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Merkel Cell Carcinoma",
+      "file": "cancers\\merkel_cell_carcinoma.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Metastatic Squamous Neck Cancer With Occult Primary",
+      "file": "cancers\\metastatic_squamous_neck_cancer_with_occult_primary.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Metastatic Squamous Neck Cancer with Occult Primary",
+      "file": "cancers\\metastatic_squamous_neck_cancer_with_occult_primary.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Mycosis Fungoides (Including Sézary Syndrome)",
+      "file": "cancers\\mycosis_fungoides_including_sezary_syndrome.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Mycosis Fungoides and Other Cutaneous T-Cell Lymphomas",
+      "file": "cancers\\mycosis_fungoides_and_other_cutaneous_t_cell_lymphomas.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Myelodysplastic Syndromes",
+      "file": "cancers\\myelodysplastic_syndromes.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Myelodysplastic/ Myeloproliferative Neoplasms",
+      "file": "cancers\\myelodysplastic_myeloproliferative_neoplasms.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Myelodysplastic/Myeloproliferative Neoplasms",
+      "file": "cancers\\myelodysplastic_myeloproliferative_neoplasms.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Myeloproliferative Neoplasms",
+      "file": "cancers\\myeloproliferative_neoplasms.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Nasopharyngeal Cancer",
+      "file": "cancers\\nasopharyngeal_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Nasopharyngeal Carcinoma",
+      "file": "cancers\\nasopharyngeal_carcinoma.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Neuroblastoma",
+      "file": "cancers\\neuroblastoma.json",
+      "page_count": 4,
+      "topics": [
+        "pediatric_treatment",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Non-Hodgkin Lymphoma",
+      "file": "cancers\\non_hodgkin_lymphoma.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Non-Hodgkin Lymphoma Treatment During Pregnancy",
+      "file": "cancers\\non_hodgkin_lymphoma_treatment_during_pregnancy.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Non-Small Cell Lung Cancer",
+      "file": "cancers\\non_small_cell_lung_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Oral Cavity and Nasopharyngeal Cancers",
+      "file": "cancers\\oral_cavity_and_nasopharyngeal_cancers.json",
+      "page_count": 2,
+      "topics": [
+        "screening"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+      "file": "cancers\\oral_cavity_oropharyngeal_hypopharyngeal_and_laryngeal_cancers.json",
+      "page_count": 2,
+      "topics": [
+        "prevention"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Oropharyngeal Cancer",
+      "file": "cancers\\oropharyngeal_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Osteosarcoma",
+      "file": "cancers\\osteosarcoma.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Osteosarcoma and Undifferentiated Pleomorphic Sarcoma of Bone",
+      "file": "cancers\\osteosarcoma_and_undifferentiated_pleomorphic_sarcoma_of_bone.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Ovarian Borderline Tumors",
+      "file": "cancers\\ovarian_borderline_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancer",
+      "file": "cancers\\ovarian_epithelial_fallopian_tube_and_primary_peritoneal_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancers",
+      "file": "cancers\\ovarian_epithelial_fallopian_tube_and_primary_peritoneal_cancers.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Ovarian Germ Cell Tumors",
+      "file": "cancers\\ovarian_germ_cell_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Ovarian, Fallopian Tube, and Primary Peritoneal Cancers",
+      "file": "cancers\\ovarian_fallopian_tube_and_primary_peritoneal_cancers.json",
+      "page_count": 4,
+      "topics": [
+        "prevention",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Pancreatic Cancer",
+      "file": "cancers\\pancreatic_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+      "file": "cancers\\pancreatic_neuroendocrine_tumors_islet_cell_tumors.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Paranasal Sinus and Nasal Cavity Cancer",
+      "file": "cancers\\paranasal_sinus_and_nasal_cavity_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Parathyroid Cancer",
+      "file": "cancers\\parathyroid_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Pediatric Gastric Cancer",
+      "file": "cancers\\pediatric_gastric_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Pediatric Gastrointestinal Neuroendocrine Tumors",
+      "file": "cancers\\pediatric_gastrointestinal_neuroendocrine_tumors.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Penile Cancer",
+      "file": "cancers\\penile_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Peripheral T-Cell Non-Hodgkin Lymphoma",
+      "file": "cancers\\peripheral_t_cell_non_hodgkin_lymphoma.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Pheochromocytoma and Paraganglioma",
+      "file": "cancers\\pheochromocytoma_and_paraganglioma.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Pituitary Tumors",
+      "file": "cancers\\pituitary_tumors.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Plasma Cell Neoplasms (Including Multiple Myeloma)",
+      "file": "cancers\\plasma_cell_neoplasms_including_multiple_myeloma.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Pleuropulmonary Blastoma",
+      "file": "cancers\\pleuropulmonary_blastoma.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Primary CNS Lymphoma",
+      "file": "cancers\\primary_cns_lymphoma.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Primary Central Nervous System Lymphoma",
+      "file": "cancers\\primary_central_nervous_system_lymphoma.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Primary Liver Cancer",
+      "file": "cancers\\primary_liver_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Prostate Cancer",
+      "file": "cancers\\prostate_cancer.json",
+      "page_count": 6,
+      "topics": [
+        "adult_treatment",
+        "prevention",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Rare Cancers of Childhood",
+      "file": "cancers\\rare_cancers_of_childhood.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Rectal Cancer",
+      "file": "cancers\\rectal_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Retinoblastoma",
+      "file": "cancers\\retinoblastoma.json",
+      "page_count": 2,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Salivary Gland Cancer",
+      "file": "cancers\\salivary_gland_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Skin Cancer",
+      "file": "cancers\\skin_cancer.json",
+      "page_count": 6,
+      "topics": [
+        "adult_treatment",
+        "prevention",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Small Cell Lung Cancer",
+      "file": "cancers\\small_cell_lung_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Small Intestine Cancer",
+      "file": "cancers\\small_intestine_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Soft Tissue Sarcoma",
+      "file": "cancers\\soft_tissue_sarcoma.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Stomach (Gastric) Cancer",
+      "file": "cancers\\stomach_gastric_cancer.json",
+      "page_count": 3,
+      "topics": [
+        "adult_treatment",
+        "prevention",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Testicular Cancer",
+      "file": "cancers\\testicular_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Thymoma and Thymic Carcinoma",
+      "file": "cancers\\thymoma_and_thymic_carcinoma.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Thyroid Cancer",
+      "file": "cancers\\thyroid_cancer.json",
+      "page_count": 4,
+      "topics": [
+        "adult_treatment",
+        "screening"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Transitional Cell Cancer of the Renal Pelvis and Ureter",
+      "file": "cancers\\transitional_cell_cancer_of_the_renal_pelvis_and_ureter.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Urethral Cancer",
+      "file": "cancers\\urethral_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Uterine Sarcoma",
+      "file": "cancers\\uterine_sarcoma.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Vaginal Cancer",
+      "file": "cancers\\vaginal_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Vulvar Cancer",
+      "file": "cancers\\vulvar_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "adult_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "cancer_type": "Wilms Tumor",
+      "file": "cancers\\wilms_tumor.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "cancer_type": "Wilms Tumor and Other Childhood Kidney Tumors",
+      "file": "cancers\\wilms_tumor_and_other_childhood_kidney_tumors.json",
+      "page_count": 1,
+      "topics": [
+        "pediatric_treatment"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    }
+  ],
+  "general_topic_files": [
+    {
+      "summary_name": "714-X",
+      "file": "general_topics\\714_x.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Acupuncture",
+      "file": "general_topics\\acupuncture.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Adjustment to Cancer: Anxiety and Distress",
+      "file": "general_topics\\adjustment_to_cancer_anxiety_and_distress.json",
+      "page_count": 2,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Antineoplastons",
+      "file": "general_topics\\antineoplastons.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Aromatherapy With Essential Oils",
+      "file": "general_topics\\aromatherapy_with_essential_oils.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Black Cohosh",
+      "file": "general_topics\\black_cohosh.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Cancell/Cantron/Protocel",
+      "file": "general_topics\\cancell_cantron_protocel.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Cancer Pain",
+      "file": "general_topics\\cancer_pain.json",
+      "page_count": 2,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Cancer Prevention Overview",
+      "file": "general_topics\\cancer_prevention_overview.json",
+      "page_count": 2,
+      "topics": [
+        "prevention"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Cancer Screening Overview",
+      "file": "general_topics\\cancer_screening_overview.json",
+      "page_count": 2,
+      "topics": [
+        "screening"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Cancer Therapy Interactions With Foods and Dietary Supplements",
+      "file": "general_topics\\cancer_therapy_interactions_with_foods_and_dietary_supplements.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Cancer-Related Post-Traumatic Stress",
+      "file": "general_topics\\cancer_related_post_traumatic_stress.json",
+      "page_count": 2,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Cannabis and Cannabinoids",
+      "file": "general_topics\\cannabis_and_cannabinoids.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Cardiopulmonary Syndromes",
+      "file": "general_topics\\cardiopulmonary_syndromes.json",
+      "page_count": 2,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Cartilage (Bovine and Shark)",
+      "file": "general_topics\\cartilage_bovine_and_shark.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Coenzyme Q10",
+      "file": "general_topics\\coenzyme_q10.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Cognitive Impairment in Adults With Cancer",
+      "file": "general_topics\\cognitive_impairment_in_adults_with_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Cognitive Impairment in Adults with Cancer",
+      "file": "general_topics\\cognitive_impairment_in_adults_with_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Communication in Cancer Care",
+      "file": "general_topics\\communication_in_cancer_care.json",
+      "page_count": 2,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Curcumin (Curcuma, Turmeric) and Cancer",
+      "file": "general_topics\\curcumin_curcuma_turmeric_and_cancer.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Depression",
+      "file": "general_topics\\depression.json",
+      "page_count": 2,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Essiac/Flor Essence",
+      "file": "general_topics\\essiac_flor_essence.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Fatigue",
+      "file": "general_topics\\fatigue.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Gastrointestinal Complications",
+      "file": "general_topics\\gastrointestinal_complications.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Genetics of Breast and Gynecologic Cancers",
+      "file": "general_topics\\genetics_of_breast_and_gynecologic_cancers.json",
+      "page_count": 1,
+      "topics": [
+        "genetics"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Genetics of Colorectal Cancer",
+      "file": "general_topics\\genetics_of_colorectal_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "genetics"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Genetics of Endocrine and Neuroendocrine Neoplasias",
+      "file": "general_topics\\genetics_of_endocrine_and_neuroendocrine_neoplasias.json",
+      "page_count": 1,
+      "topics": [
+        "genetics"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Genetics of Gastric Cancer",
+      "file": "general_topics\\genetics_of_gastric_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "genetics"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Genetics of Prostate Cancer",
+      "file": "general_topics\\genetics_of_prostate_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "genetics"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Genetics of Skin Cancer",
+      "file": "general_topics\\genetics_of_skin_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "genetics"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Gerson Therapy",
+      "file": "general_topics\\gerson_therapy.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Gonzalez Regimen",
+      "file": "general_topics\\gonzalez_regimen.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Grief, Bereavement, and Coping With Loss",
+      "file": "general_topics\\grief_bereavement_and_coping_with_loss.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Grief, Bereavement, and Loss",
+      "file": "general_topics\\grief_bereavement_and_loss.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Hereditary Kidney Cancer Syndromes",
+      "file": "general_topics\\hereditary_kidney_cancer_syndromes.json",
+      "page_count": 1,
+      "topics": [
+        "genetics"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Hospice",
+      "file": "general_topics\\hospice.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Hot Flashes and Night Sweats",
+      "file": "general_topics\\hot_flashes_and_night_sweats.json",
+      "page_count": 2,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Hydrazine Sulfate",
+      "file": "general_topics\\hydrazine_sulfate.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Informal Caregivers in Cancer",
+      "file": "general_topics\\informal_caregivers_in_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Informal Caregivers in Cancer: Roles, Burden, and Support",
+      "file": "general_topics\\informal_caregivers_in_cancer_roles_burden_and_support.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Intravenous Vitamin C",
+      "file": "general_topics\\intravenous_vitamin_c.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Laetrile/Amygdalin",
+      "file": "general_topics\\laetrile_amygdalin.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Last Days of Life",
+      "file": "general_topics\\last_days_of_life.json",
+      "page_count": 2,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Lymphedema",
+      "file": "general_topics\\lymphedema.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Medicinal Mushrooms",
+      "file": "general_topics\\medicinal_mushrooms.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Milk Thistle",
+      "file": "general_topics\\milk_thistle.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Mistletoe Extracts",
+      "file": "general_topics\\mistletoe_extracts.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Nausea and Vomiting Related to Cancer Treatment",
+      "file": "general_topics\\nausea_and_vomiting_related_to_cancer_treatment.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Newcastle Disease Virus",
+      "file": "general_topics\\newcastle_disease_virus.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Nutrition in Cancer Care",
+      "file": "general_topics\\nutrition_in_cancer_care.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Oral Complications of Cancer Therapies",
+      "file": "general_topics\\oral_complications_of_cancer_therapies.json",
+      "page_count": 2,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "PC-SPES",
+      "file": "general_topics\\pc_spes.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Planning the Transition to End-of-Life Care in Advanced Cancer",
+      "file": "general_topics\\planning_the_transition_to_end_of_life_care_in_advanced_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    },
+    {
+      "summary_name": "Prostate Cancer, Nutrition, and Dietary Supplements",
+      "file": "general_topics\\prostate_cancer_nutrition_and_dietary_supplements.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Pruritus",
+      "file": "general_topics\\pruritus.json",
+      "page_count": 2,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Selected Vegetables/Sun's Soup",
+      "file": "general_topics\\selected_vegetables_sun_s_soup.json",
+      "page_count": 2,
+      "topics": [
+        "integrative_therapies"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Sleep Disorders",
+      "file": "general_topics\\sleep_disorders.json",
+      "page_count": 2,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Spirituality in Cancer Care",
+      "file": "general_topics\\spirituality_in_cancer_care.json",
+      "page_count": 2,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional",
+        "patient"
+      ]
+    },
+    {
+      "summary_name": "Symptom Clusters in Cancer",
+      "file": "general_topics\\symptom_clusters_in_cancer.json",
+      "page_count": 1,
+      "topics": [
+        "supportive_care"
+      ],
+      "audiences": [
+        "health_professional"
+      ]
+    }
+  ],
+  "failures": [],
+  "notes": [
+    "Patient and health-professional pages are kept as separate page records.",
+    "Treatment, screening, and prevention pages are grouped into per-cancer files when a safe title-based grouping is possible.",
+    "Genetics, supportive/palliative care, and integrative/complementary therapy summaries are stored under general_topics to avoid incorrect single-cancer assignment.",
+    "Section hierarchy is preserved for later RAG chunking."
+  ]
+}

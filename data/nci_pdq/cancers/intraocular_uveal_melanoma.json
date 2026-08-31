@@ -1,0 +1,1167 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Intraocular (Uveal) Melanoma",
+  "generated_at": "2026-08-31T07:15:23.297021+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Intraocular (Uveal) Melanoma",
+      "title": "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Intraocular (Uveal) Melanoma Treatment",
+      "url": "https://www.cancer.gov/types/eye/hp/intraocular-melanoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "May 16, 2025",
+      "retrieved_at": "2026-08-31T07:10:08.579398+00:00",
+      "content_sha256": "c83e4543ea9053ad344e32717ced5fdaf48074126c060af4ee02ef1c9c5064a2",
+      "section_count": 52,
+      "sections": [
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Intraocular (Uveal) Melanoma Treatment",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Melanoma of the uveal tract (iris, ciliary body, and choroid) is rare, but it is the most common primary intraocular malignancy in adults. The mean age-adjusted incidence of uveal melanoma in the United States is approximately 4.3 new cases per million people, with no clear variation by latitude. The incidence is higher in men (4.9 cases per million) than in women (3.7 cases per million).[ 1 ] The age-adjusted incidence of this cancer has remained stable since at least the early 1970s.[ 1 , 2 ] U.S. incidence rates are lower than the rates of other reporting countries, which vary from about 5.3 to 10.9 cases per million. Some of the variation may be the result of differences in inclusion criteria and methods of calculation.[ 1 ]\nUveal melanoma is most often diagnosed in older individuals, with a progressively rising, age-specific incidence rate that peaks near age 70 years.[ 3 ]\nHost susceptibility factors associated with the development of this cancer include:[ 2 - 4 ]\n- White race and ethnicity.\n- Light eye color.\n- Fair skin.\n- The ability to tan.\nIn view of these susceptibility factors, numerous observational studies have explored the relationship between sunlight exposure and risk of uveal melanoma. These studies have found only weak associations or yielded contradictory results.[ 3 ] Similarly, there is no consistent evidence that occupational exposure to UV light or other agents is a risk factor for uveal melanoma.[ 3 , 5 ]"
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Intraocular (Uveal) Melanoma Treatment",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Uveal melanomas can arise in the anterior (iris) or the posterior (ciliary body or choroid) uveal tract.[ 6 ] Most uveal tract melanomas originate in the choroid. The ciliary body is a less common site of origin, and the iris is the least common. The comparatively low incidence of iris melanomas has been attributed to the characteristic features of these tumors; they tend to be smaller, slower growing, and relatively dormant compared with their posterior counterparts. Iris melanomas rarely metastasize.[ 7 ] Melanomas of the posterior uveal tract generally have a more malignant histological appearance; are detected later; and metastasize more frequently than iris melanomas. The typical choroidal melanoma is a brown, elevated, dome-shaped subretinal mass. The degree of pigmentation ranges from dark brown to totally amelanotic.\nMost uveal melanomas are initially completely asymptomatic. As the tumor enlarges, it may cause distortion of the pupil (iris melanoma), blurred vision (ciliary body melanoma), or markedly decreased visual acuity caused by secondary retinal detachment (choroidal melanoma). Serous detachment of the retina may occur. If extensive detachment occurs, secondary angle-closure glaucoma occasionally develops. Clinically, several lesions simulate uveal melanoma, including metastatic carcinoma, posterior scleritis, and benign tumors, such as nevi and hemangiomas.[ 8 ] Enlarge Anatomy of the eye."
+        },
+        {
+          "section": "Diagnosis",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Intraocular (Uveal) Melanoma Treatment",
+            "Diagnosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Careful examination by an experienced clinician remains the most important test to diagnose intraocular melanoma. A small uveal melanoma cannot be distinguished from a nevus. Small uveal lesions are observed for growth before making a diagnosis of melanoma. Clinical findings that may help to identify melanoma include:[ 6 ]\n- Orange pigment on the tumor surface.\n- Subretinal fluid.\n- Tumor thickness of more than 2 mm.\n- Low internal reflectivity on ultrasound examination.\nAncillary diagnostic testing, including fluorescein angiography and ultrasonography, can be extremely valuable in establishing and confirming the diagnosis.[ 9 ] In a large, retrospective, single-center series of 2,514 consecutive patients with choroidal nevi, the progression rate to melanoma was 8.6% at 5 years, 12.8% at 10 years, and 17.3% at 15 years.[ 10 ]"
+        },
+        {
+          "section": "Prognostic Factors",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Intraocular (Uveal) Melanoma Treatment",
+            "Prognostic Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Several factors influence prognosis. The most important factors include:\n- Cell type. For more information, see the Cellular Classification of Intraocular (Uveal) Melanoma section.\n- Tumor size.\n- Location of the anterior margin of the tumor.\n- Degree of ciliary body involvement.\n- Extraocular extension.\nSeveral additional microscopic features can affect the prognosis of intraocular melanoma, including:\n- Mitotic activity.\n- Lymphocytic infiltration.\n- Fibrovascular loops (possibly).\nCell type is the most commonly used predictor of outcome following enucleation. Patients with spindle-A cell melanomas have the best prognosis and patients with epithelioid cell melanomas have the least favorable prognosis.[ 1 , 4 , 9 ] Nevertheless, most tumors have an admixture of cell types, and there is no clear consensus regarding the proportion of epithelioid cells that constitutes designation of a tumor as mixed or epithelioid.[ 6 ]\nExtraocular extension, recurrence, and metastasis are associated with an extremely poor prognosis, and long-term survival cannot be expected for patients with these features.[ 11 ] The 5-year mortality rate for patients with metastasis from ciliary body or choroidal melanoma is approximately 30%, compared with a rate of 2% to 3% for patients with iris melanomas.[ 12 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Intraocular (Uveal) Melanoma Treatment",
+            "Prognostic Factors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- Singh AD, Topham A: Incidence of uveal melanoma in the United States: 1973-1997. Ophthalmology 110 (5): 956-61, 2003. [PUBMED Abstract]\n- Inskip PD, Devesa SS, Fraumeni JF: Trends in the incidence of ocular melanoma in the United States, 1974-1998. Cancer Causes Control 14 (3): 251-7, 2003. [PUBMED Abstract]\n- Singh AD, Bergman L, Seregard S: Uveal melanoma: epidemiologic aspects. Ophthalmol Clin North Am 18 (1): 75-84, viii, 2005. [PUBMED Abstract]\n- Weis E, Shah CP, Lajous M, et al.: The association between host susceptibility factors and uveal melanoma: a meta-analysis. Arch Ophthalmol 124 (1): 54-60, 2006. [PUBMED Abstract]\n- Harris RB, Griffith K, Moon TE: Trends in the incidence of nonmelanoma skin cancers in southeastern Arizona, 1985-1996. J Am Acad Dermatol 45 (4): 528-36, 2001. [PUBMED Abstract]\n- Uveal melanoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 805–17.\n- Yap-Veloso MI, Simmons RB, Simmons RJ: Iris melanomas: diagnosis and management. Int Ophthalmol Clin 37 (4): 87-100, 1997 Fall. [PUBMED Abstract]\n- Eye and ocular adnexa. In: Rosai J: Ackerman’s Surgical Pathology. 8th ed. Mosby, 1996, pp 2449-2508.\n- Albert DM, Kulkarni AD: Intraocular melanoma. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 2090-8.\n- Shields CL, Furuta M, Berman EL, et al.: Choroidal nevus transformation into melanoma: analysis of 2514 consecutive cases. Arch Ophthalmol 127 (8): 981-7, 2009. [PUBMED Abstract]\n- Gragoudas ES, Egan KM, Seddon JM, et al.: Survival of patients with metastases from uveal melanoma. Ophthalmology 98 (3): 383-9; discussion 390, 1991. [PUBMED Abstract]\n- Introduction to melanocytic tumors of the uvea. In: Shields JA, Shields CL: Intraocular Tumors: A Text and Atlas. Saunders, 1992, pp 45-59."
+        },
+        {
+          "section": "Cellular Classification of Intraocular (Uveal) Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Intraocular (Uveal) Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Primary intraocular melanomas originate from melanocytes in the uveal tract.[ 1 ] The following four distinct cellular types are recognized in intraocular melanoma (revised Callender classification):[ 2 ]\n- Spindle-A cells (spindle-shaped cells with slender nuclei and lacking visible nucleoli).\n- Spindle-B cells (spindle-shaped cells with larger nuclei and distinct nucleoli).\n- Epithelioid cells (larger polygonal cells with one or more prominent nucleoli).\n- Intermediate cells (similar to but smaller than epithelioid cells).\nMost primary intraocular melanomas contain variable proportions of epithelioid, spindle-A, and spindle-B cells (mixed-cell melanomas). Pure epithelioid-cell primary melanomas are infrequent (approximately 3% of cases).[ 1 ] In the Collaborative Ocular Melanoma Study, mixed-cell melanomas predominated (86% of cases).[ 3 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Intraocular (Uveal) Melanoma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Klintworth GK, Scroggs MW: The eye and ocular adnexa. In: Sternberg SS, ed.: Diagnostic Surgical Pathology. Lippincott Williams & Wilkins, 1999, pp 994-6.\n- Grossniklaus HE, Green WR: Uveal tumors. In: Garner A, Klintworth GK, eds.: Pathobiology of Ocular Disease: A Dynamic Approach. 2nd ed. M. Dekker, 1994, pp 1423-77.\n- Histopathologic characteristics of uveal melanomas in eyes enucleated from the Collaborative Ocular Melanoma Study. COMS report no. 6. Am J Ophthalmol 125 (6): 745-66, 1998. [PUBMED Abstract]"
+        },
+        {
+          "section": "Tumor Size",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Classification and Stage Information for Intraocular (Uveal) Melanoma",
+            "Tumor Size"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Uveal melanoma most often assumes a nodular or dome-shaped configuration. Occasionally, tumors are flat or diffuse and involve extensive areas of the uvea with little elevation.\nTumor size classifications according to boundary lines used in a Collaborative Ocular Melanoma Study (COMS) are as follows:[ 1 ]\n- Small : Range from 1.0 to 3.0 mm in apical height and largest basal diameter of 5.0 to 16.0 mm.[ 1 ]\n- Medium : Range from 3.1 to 8.0 mm in apical height and a basal diameter of not more than 16.0 mm.[ 2 ]\n- Large : Greater than 8.0 mm in apical height or a basal diameter more than 16.0 mm, when the apical height is at least 2.0 mm.\nAlthough most ocular melanomas have a raised configuration, about 5% grow in a diffuse pattern that also may have prognostic significance. The tumors have a horizontal, flat-growth pattern, with the thickness measuring approximately 20% or less than the greatest basal dimension. This uncommon variant of uveal melanoma seems to be associated with a poorer prognosis, particularly when the diameter is large and the margins are poorly defined.[ 3 ]\nIn clinical practice, the tumor base may be estimated in average optic disc diameters (1 dd = 1.5 mm). The average elevation may be estimated in diopters (3 diopters = 1 mm). Other techniques, such as ultrasonography, are used to provide more accurate measurements.\nAn important function of ophthalmic ultrasonography is the detection of extrascleral extension.[ 4 , 5 ] Extrascleral extension measuring 2 mm or more in thickness can be demonstrated, provided it is located behind the equator where the intraocular tumor, sclera, and adjacent orbital fat are readily imaged.[ 6 ] Orbital extraocular extension of choroidal melanoma may be found in eyes with medium and large tumors, but it is very rare in eyes with small melanomas."
+        },
+        {
+          "section": "Metastatic Disease",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Classification and Stage Information for Intraocular (Uveal) Melanoma",
+            "Metastatic Disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Systemic metastases are evident in only 2% to 3% of patients at the time of diagnosis of the primary ocular melanoma.[ 7 ] Because the uveal tract is a vascular structure without lymphatic channels, tumor spread occurs principally by local extension and by dissemination through the bloodstream.[ 7 ] Lymphatic spread is rare but may occur after local extension into the conjunctiva and its lymphatics.[ 8 ] Given the rarity of nodal metastases, sentinel node biopsies of nonclinically involved nodes are not done as part of the staging procedure.[ 7 ]\nSystemic metastases are generally hematogenous in origin, and the first site identified is usually the liver.[ 9 ] Lung, bone, and subcutaneous sites are also common.[ 9 ] In the COMS trials, the liver was the only site of detectable metastasis in 46% of patients with metastases reported during follow-up or at the time of death; 43% had metastases diagnosed in the liver and other sites.[ 9 ] In patients with a history of ocular melanoma who present with hepatic metastases of unknown origin, metastatic melanoma is considered in the differential diagnosis.\nIt is particularly unusual for choroidal melanomas of any size to invade the optic nerve or its meninges.[ 10 ] Metastasis of choroidal melanoma to the contralateral choroid is also rare.[ 9 , 11 ]"
+        },
+        {
+          "section": "American Joint Committee on Cancer (AJCC) stage groupings and definitions of TNM",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Classification and Stage Information for Intraocular (Uveal) Melanoma",
+            "Staging",
+            "American Joint Committee on Cancer (AJCC) stage groupings and definitions of TNM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 139,
+          "text": "The AJCC has designated staging by TNM (tumor, node, metastasis) classification to define melanoma of the uveal tract.[ 7 ]\nAs in the seventh edition of the AJCC Cancer Staging Manual , there is no staging system for iris melanomas in the eighth edition. However, TNM should still be recorded for this site and histology combination.\nT Category | T Criteria\na Reprinted with permission from AJCC: Uveal melanoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 805–17.\nb Iris melanomas originate from, and are predominantly located in, this region of the uvea. If less than half the tumor volume is located within the iris, the tumor may have originated in the ciliary body, and consideration should be given to classifying it accordingly.\nTX | Primary tumor cannot be assessed.\nT0 | No evidence of primary tumor.\nT1 | Tumor limited to the iris.\n–T1a | Tumor limited to the iris, not more than 3 clock hours in size.\n–T1b | Tumor limited to the iris, more than 3 clock hours in size.\n–T1c | Tumor limited to the iris with secondary glaucoma.\nT2 | Tumor confluent with or extending into the ciliary body, choroid, or both.\n–T2a | Tumor confluent with or extending into the ciliary body, without secondary glaucoma.\n–T2b | Tumor confluent with or extending into the ciliary body and choroid, without secondary glaucoma.\n–T2c | Tumor confluent with or extending into the ciliary body, choroid, or both, with secondary glaucoma.\nT3 | Tumor confluent with or extending into the ciliary body, choroid, or both, with scleral extension.\nT4 | Tumor with extrascleral extension.\n–T4a | Tumor with extrascleral extension ≤5 mm in largest diameter.\n–T4b | Tumor with extrascleral extension >5 mm in largest diameter.\nN Category | N Criteria\na Reprinted with permission from AJCC: Uveal melanoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 805–17.\nNX | Regional lymph nodes cannot be assessed.\nN0 | No regional lymph node involvement.\nN1 | Regional lymph node metastases or discrete tumor deposits in the orbit.\n–N1a | Metastasis in one or more regional lymph node(s).\n–N1b | No regional lymph nodes are positive, but there are discrete tumor deposits in the orbit that are not contiguous to the eye (choroidal and ciliary body).\nM Category | M Criteria\na Reprinted with permission from AJCC: Uveal melanoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 805–17.\nM0 | No distant metastasis by clinical classification.\nM1 | Distant metastasis.\n–M1a | Largest diameter of the largest metastasis ≤3.0 cm.\n–M1b | Largest diameter of the largest metastasis 3.1–8.0 cm.\n–M1c | Largest diameter of the largest metastasis ≥8.1 cm.\nCategory | Tumor Size\na Adapted from AJCC: Uveal melanoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 805–17.\n1 | Tumor is ≤12 mm in diameter and ≤3 mm in thickness; or\nTumor is ≤9 mm in diameter and 3.1–6 mm in thickness.\n2 | Tumor is 12.1–18 mm in diameter and ≤3 mm in thickness; or\nTumor is 9.1–15 mm in diameter and 3.1– 6 mm in thickness; or\nTumor is ≤12 mm in diameter and 6.1–9 mm in thickness.\n3 | Tumor is 15.1–18 mm in diameter and 3.1–6 mm in thickness; or\nTumor is 12.1–18 mm in diameter and 6.1–9 mm in thickness; or\nTumor is ≤18 mm in diameter and 9.1–12 mm in thickness; or\nTumor is ≤15 mm in diameter and 12.1–15 mm in thickness.\n4 | Tumor is >18 mm in diameter and may be any thickness; or\nTumor is 15.1–18 mm in diameter and >12 mm in thickness; or\nTumor is ≤15 mm in diameter and >15 mm in thickness.\nStage | TNM | Description\nM = distant metastasis; N = regional lymph node; T = primary tumor.\na Reprinted with permission from AJCC: Uveal melanoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 805–17.\nb 1) Primary ciliary body and choroidal melanomas are classified according to four tumor-size categories based on thickness and diameter. See Table 4 . 2) In clinical practice, the largest tumor basal diameter may be estimated in optic disc diameters (DD) (average: 1 DD = 1.5 mm), and tumor thickness may be estimated in diopters (average: 2.5 diopters = 1 mm). Ultrasonography and fundus photography are used to provide more accurate measurements. 3) When histopathological measurements are recorded after fixation, tumor diameter and thickness may be underestimated because of tissue shrinkage.\nI | T1a, N0, M0 | –T1a = Tumor size category 1 without ciliary body involvement and extraocular extension.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis by clinical classification.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Uveal melanoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 805–17.\nb 1) Primary ciliary body and choroidal melanomas are classified according to four tumor-size categories based on thickness and diameter. See Table 4 . 2) In clinical practice, the largest tumor basal diameter may be estimated in optic disc diameters (DD) (average: 1 DD = 1.5 mm), and tumor thickness may be estimated in diopters (average: 2.5 diopters = 1 mm). Ultrasonography and fundus photography are used to provide more accurate measurements. 3) When histopathological measurements are recorded after fixation, tumor diameter and thickness may be underestimated because of tissue shrinkage.\nIIA | T1b–d, N0, M0 | –T1b = Tumor size category 1 with ciliary body involvement.\n–T1c = Tumor size category 1 without ciliary body involvement but with extraocular extension ≤5 mm in largest diameter.\n–T1d = Tumor size category 1 with ciliary body involvement and extraocular extension ≤5 mm in largest diameter.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis by clinical classification.\nT2a, N0, M0 | –T2a = Tumor size category 2 without ciliary body involvement and extraocular extension.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis by clinical classification.\nIIB | T2b, N0, M0 | –T2b = Tumor size category 2 with ciliary body involvement.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis by clinical classification.\nT3a, N0, M0 | –T3a = Tumor size category 3 without ciliary body involvement and extraocular extension.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis by clinical classification.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Uveal melanoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 805–17.\nb 1) Primary ciliary body and choroidal melanomas are classified according to four tumor-size categories based on thickness and diameter. See Table 4 . 2) In clinical practice, the largest tumor basal diameter may be estimated in optic disc diameters (DD) (average: 1 DD = 1.5 mm), and tumor thickness may be estimated in diopters (average: 2.5 diopters = 1 mm). Ultrasonography and fundus photography are used to provide more accurate measurements. 3) When histopathological measurements are recorded after fixation, tumor diameter and thickness may be underestimated because of tissue shrinkage.\nIIIA | T2c–d, N0, M0 | –T2c = Tumor size category 2 without ciliary body involvement but with extraocular extension ≤5 mm in largest diameter.\n–T2d = Tumor size category 2 with ciliary body involvement and extraocular extension ≤5 mm in largest diameter.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis by clinical classification.\nT3b–c, N0, M0 | –T3b = Tumor size category 3 with ciliary body involvement.\n–T3c = Tumor size category 3 without ciliary body involvement but with extraocular extension ≤5 mm in largest diameter.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis by clinical classification.\nT4a, N0, M0 | –T4a = Tumor size category 4 without ciliary body involvement and extraocular extension.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis by clinical classification.\nIIIB | T3d, N0, M0 | –T3d = Tumor size category 3 with ciliary body involvement and extraocular extension ≤5 mm in largest diameter.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis by clinical classification.\nT4b–c, N0, M0 | –T4b = Tumor size category 4 with ciliary body involvement.\n–T4c = Tumor size category 4 without ciliary body involvement but with extraocular extension ≤5 mm in largest diameter.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis by clinical classification.\nIIIC | T4d–e, N0, M0 | –T4d = Tumor size category 4 with ciliary body involvement and extraocular extension ≤5 mm in largest diameter.\n–T4e = Any tumor size category with extraocular extension >5 mm in largest diameter.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis by clinical classification.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Uveal melanoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 805–17.\nb 1) Primary ciliary body and choroidal melanomas are classified according to four tumor-size categories based on thickness and diameter. See Table 4 . 2) In clinical practice, the largest tumor basal diameter may be estimated in optic disc diameters (DD) (average: 1 DD = 1.5 mm), and tumor thickness may be estimated in diopters (average: 2.5 diopters = 1 mm). Ultrasonography and fundus photography are used to provide more accurate measurements. 3) When histopathological measurements are recorded after fixation, tumor diameter and thickness may be underestimated because of tissue shrinkage.\nIV | Any T, N1, M0 | TX = Primary tumor cannot be assessed.\nT0 = No evidence of primary tumor.\nT1 = Tumor size category 1.\n–T1a = Tumor size category 1 without ciliary body involvement and extraocular extension.\n–T1b = Tumor size category 1 with ciliary body involvement.\n–T1c = Tumor size category 1 without ciliary body involvement but with extraocular extension ≤5 mm in largest diameter.\n–T1d = Tumor size category 1 with ciliary body involvement and extraocular extension ≤5 mm in largest diameter.\nT2 = Tumor size category 2.\n–T2a = Tumor size category 2 without ciliary body involvement and extraocular extension.\n–T2b = Tumor size category 2 with ciliary body involvement.\n–T2c = Tumor size category 2 without ciliary body involvement but with extraocular extension ≤5 mm in largest diameter.\n–T2d = Tumor size category 2 with ciliary body involvement and extraocular extension ≤5 mm in largest diameter.\nT3 = Tumor size category 3.\n–T3a = Tumor size category 3 without ciliary body involvement and extraocular extension.\n–T3b = Tumor size category 3 with ciliary body involvement.\n–T3c = Tumor size category 3 without ciliary body involvement but with extraocular extension ≤5 mm in largest diameter.\n–T3d = Tumor size category 3 with ciliary body involvement and extraocular extension ≤5 mm in largest diameter.\nT4 = Tumor size category 4.\n–T4a = Tumor size category 4 without ciliary body involvement and extraocular extension.\n–T4b = Tumor size category 4 with ciliary body involvement.\n–T4c = Tumor size category 4 without ciliary body involvement but with extraocular extension ≤5 mm in largest diameter.\n–T4d = Tumor size category 4 with ciliary body involvement and extraocular extension ≤5 mm in largest diameter.\n–T4e = Any tumor size category with extraocular extension >5 mm in largest diameter.\nN1 = Regional lymph node metastases or discrete tumor deposits in the orbit.\n–N1a = Metastasis in one or more regional lymph nodes(s).\n–N1b = No regional lymph nodes are positive, but there are discrete tumor deposits in the orbit that are not contiguous to the eye.\nM0 = No distant metastasis by clinical classification.\nAny T, Any N, M1a–c | Any T = See descriptions above in this table, stage IV, Any T, N1, M0.\nNX = Regional lymph nodes cannot be assessed.\nN0 = No regional lymph node involvement.\nN1 = Regional lymph node metastases or discrete tumor deposits in the orbit.\n–N1a = Metastasis in one or more regional lymph node(s).\n–N1b = No regional lymph nodes are positive, but there are discrete tumor deposits in the orbit that are not contiguous to the eye (choroidal and ciliary body).\nM1 = Distant metastasis.\n–M1a = Largest diameter of the largest metastasis ≤3.0 cm.\n–M1b = Largest diameter of the largest metastasis 3.1–8.0 cm.\n–M1c = Largest diameter of the largest metastasis ≥8.1 cm."
+        },
+        {
+          "section": "Prognostic features",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Classification and Stage Information for Intraocular (Uveal) Melanoma",
+            "Staging",
+            "Prognostic features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "There are several key prognostic features that are important to collect in malignant melanoma of the uvea, even though they are not included in staging algorithms. These include:[ 7 ]"
+        },
+        {
+          "section": "Molecular features",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Classification and Stage Information for Intraocular (Uveal) Melanoma",
+            "Staging",
+            "Prognostic features",
+            "Molecular features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 26,
+          "text": "- Chromosomal alterations.\n- Chromosome 3 status (loss or no loss, complete or partial).\n- Chromosome 6p status (gain or no gain).\n- Chromosome 8q status (gain or no gain). Indicate:\n- Technique used for assessing chromosome status may include:\n- Karyotyping.\n- Fluorescence in situ hybridization.\n- Comparative genomic hybridization.\n- Loss of heterozygosity using DNA polymorphism analysis (e.g., single nucleotide polymorphism, microsatellite).\n- Other.\n- How specimen was obtained may include:\n- Enucleation.\n- Local resection.\n- Biopsy.\n- Fine-needle aspiration biopsy.\n- For needle biopsies, whether cytopathological evaluation was performed to confirm the presence of tumor cells.\n- Gene-expression profile: class 1 or class 2. Indicate:\n- Technique used for gene-expression profiling may include:\n- Microarray.\n- Pathological complete response.\n- How specimen was obtained may include:\n- Enucleation.\n- Local resection.\n- Biopsy.\n- Fine-needle aspiration biopsy.\n- For needle biopsies, whether cytopathological evaluation was performed to confirm the presence of tumor cells."
+        },
+        {
+          "section": "Clinical and histopathological features",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Classification and Stage Information for Intraocular (Uveal) Melanoma",
+            "Staging",
+            "Prognostic features",
+            "Clinical and histopathological features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 32,
+          "text": "- Clinical.\n- Positron emission tomography/computed tomography.\n- Fluorine F 18-fludeoxyglucose standardized uptake values (higher values in primary tumor may be associated with shorter survival).\n- Confocal indocyanine green angiography.\n- Identification of complex monocirculatory patterns (i.e., loops, networks, arcs with branching, parallel with cross-linking or a combination of these patterns may be associated with shorter survival).\n- Histopathological.\n- Mitotic count.\n- Number of mitotic figures per 40 high-power fields (typical field area 0.15–0.19 mm 2 , higher counts are associated with shorter survival).\n- Mean diameter of the ten largest nucleoli.\n- Mean of the longest nucleoli (MLN) is measured along a central 5-mm long strip, e.g., after silver staining (larger values are associated with shorter survival).\n- Presence of extravascular matrix patterns.\n- Loops.\n- Absent.\n- Present (shorter survival).\n- Loops forming networks.\n- Absent.\n- Present (shorter survival).\n- Other complex patterns (arcs with branching, parallel with cross-linking; absent or present). The patterns are assessed with light microscopy under a dark green filter after staining with periodic-acid Schiff without counterstain.\n- Microvascular density.\n- Number of immunopositive elements labeled with markers for vascular endothelial cells (e.g., CD34 epitope, factor VIII-related antigen) in areas of densest vascularization (typical field area 0.31 mm 2 , higher counts are associated with shorter survival).\n- Insulin-like growth factor 1 receptor (IGF1-R).\n- Percentage of immunopositive tumor cells (high expression is associated with shorter survival).\n- Tumor-infiltrating lymphocytes.\n- Few (longest survival).\n- Moderate numbers.\n- Many (shortest survival).\n- Tumor-infiltrating macrophages.\n- Few (longest survival).\n- Moderate numbers.\n- Many (shortest survival). The number can be compared with standard photographs.[ 12 ]\n- HLA class I expression.\n- Percentage of immunopositive tumor cells (low expression is associated with longer survival)."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Classification and Stage Information for Intraocular (Uveal) Melanoma",
+            "Staging",
+            "Prognostic features",
+            "Clinical and histopathological features",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- Factors predictive of growth and treatment of small choroidal melanoma: COMS Report No. 5. The Collaborative Ocular Melanoma Study Group. Arch Ophthalmol 115 (12): 1537-44, 1997. [PUBMED Abstract]\n- Diener-West M, Earle JD, Fine SL, et al.: The COMS randomized trial of iodine 125 brachytherapy for choroidal melanoma, II: characteristics of patients enrolled and not enrolled. COMS Report No. 17. Arch Ophthalmol 119 (7): 951-65, 2001. [PUBMED Abstract]\n- Shields CL, Shields JA, De Potter P, et al.: Diffuse choroidal melanoma. Clinical features predictive of metastasis. Arch Ophthalmol 114 (8): 956-63, 1996. [PUBMED Abstract]\n- Scott IU, Murray TG, Hughes JR: Evaluation of imaging techniques for detection of extraocular extension of choroidal melanoma. Arch Ophthalmol 116 (7): 897-9, 1998. [PUBMED Abstract]\n- Romero JM, Finger PT, Iezzi R, et al.: Three-dimensional ultrasonography of choroidal melanoma: extrascleral extension. Am J Ophthalmol 126 (6): 842-4, 1998. [PUBMED Abstract]\n- Echography (ultrasound) procedures for the Collaborative Ocular Melanoma Study (COMS), Report no. 12, Part I. J Ophthalmic Nurs Technol 18 (4): 143-9, 1999 Jul-Aug. [PUBMED Abstract]\n- Uveal melanoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 805–17.\n- Dithmar S, Diaz CE, Grossniklaus HE: Intraocular melanoma spread to regional lymph nodes: report of two cases. Retina 20 (1): 76-9, 2000. [PUBMED Abstract]\n- Diener-West M, Reynolds SM, Agugliaro DJ, et al.: Development of metastatic disease after enrollment in the COMS trials for treatment of choroidal melanoma: Collaborative Ocular Melanoma Study Group Report No. 26. Arch Ophthalmol 123 (12): 1639-43, 2005. [PUBMED Abstract]\n- Shields CL, Santos MC, Shields JA, et al.: Extraocular extension of unrecognized choroidal melanoma simulating a primary optic nerve tumor: report of two cases. Ophthalmology 106 (7): 1349-52, 1999. [PUBMED Abstract]\n- Singh AD, Shields JA, Shields CL, et al.: Choroidal melanoma metastatic to the contralateral choroid. Am J Ophthalmol 132 (6): 941-3, 2001. [PUBMED Abstract]\n- Mäkitie T, Summanen P, Tarkkanen A, et al.: Tumor-infiltrating macrophages (CD68(+) cells) and prognosis in malignant uveal melanoma. Invest Ophthalmol Vis Sci 42 (7): 1414-21, 2001. [PUBMED Abstract]"
+        },
+        {
+          "section": "Observation",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Intraocular (Uveal) Melanoma",
+            "Observation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Patients with iris melanomas have relatively good outcomes, with 5-year survival rates exceeding 95%. Iris melanomas are predominantly of the spindle-cell type and are usually smaller in size than posterior melanomas because they are detected earlier. Conservative management is generally advocated whenever possible, but surgical intervention may be justified with unequivocal tumor growth or with extensive disease at initial examination.\nThe management of small choroidal melanomas is controversial, and it is not clear whether treating small tumors prevents metastasis.[ 1 ] The natural history of small choroidal melanomas is poorly understood. Small, pigmented, choroidal lesions cannot always be differentiated reliably on examination. Growth is a presumed indicator of malignant potential.[ 2 ] The likelihood of progression from the time of diagnosis to the time when tumor growth warrants treatment has not been well characterized. Some ophthalmologists advocate observation. This course has been justified on several grounds, including the difficulty of establishing a correct diagnosis, the lack of any documented efficacy for globe-conserving treatments, and concerns for severe treatment-related morbidity. Others have advocated earlier therapeutic intervention.[ 1 , 3 , 4 ]\nAlthough patients diagnosed with small choroidal tumors were not eligible for participation in the Collaborative Ocular Melanoma Study (COMS), these patients could participate in a prospective follow-up study to evaluate the natural history of small lesions. The 2-year tumor growth estimates were 21%, and the 5-year tumor growth estimates were 31%.[ 5 ] Clinical risk factors associated with tumor growth included:[ 3 , 5 ]\n- Increased tumor thickness.\n- Presence of subretinal fluid.\n- Orange pigmentation.\n- Absence of drusen.\n- Absence of retinal pigment.\n- Margin at the optic disc.\n- Epithelial changes surrounding the tumor."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Intraocular (Uveal) Melanoma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The selection of treatment depends on the following:\n- Site of origin (choroid, ciliary body, or iris).\n- Size and location of the lesion.\n- Age of the patient.\n- Occurrence of extraocular invasion, recurrence, or metastasis."
+        },
+        {
+          "section": "Enucleation",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Intraocular (Uveal) Melanoma",
+            "Surgery",
+            "Enucleation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In the past, enucleation (eye removal) was the standard treatment for primary choroidal melanoma, and it is still used when large tumors are present. However, enucleation has been largely replaced by radiation therapy (i.e., brachytherapy with radioactive plaques or external-beam, charged-particle radiation therapy) to spare the affected eye.[ 6 , 7 ]"
+        },
+        {
+          "section": "Pre-enucleation external-beam radiation therapy (EBRT)",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Intraocular (Uveal) Melanoma",
+            "Surgery",
+            "Pre-enucleation external-beam radiation therapy (EBRT)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A randomized trial evaluated the role of pre-enucleation EBRT for large choroidal tumors that required enucleation. The study found that EBRT had no impact on overall survival (OS).[ 8 , 9 ][ Level of evidence A1 ] A COMS trial included 1,003 patients with large choroidal melanomas (≥2 mm in height and ≥16 mm in diameter, or ≥10 mm in height irrespective of diameter, or ≥8 mm in height and border <2 mm from the optic disc) with no known metastases. Patients were randomly assigned to receive enucleation alone or enucleation after preoperative external photon-beam radiation from cobalt 60 or accelerators (20 Gy in 5 daily fractions) to the orbit and globe.[ 8 , 9 ] Through 10 years of follow-up, the median survival in both arms was approximately 7 years, and the 10-year all-cause mortality rate was 61% in both arms (relative risk [RR] death , 1.00; 95% confidence interval [CI], 0.85–1.18). Metastasis-free survival was also nearly identical in both arms."
+        },
+        {
+          "section": "Transscleral local resection",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Intraocular (Uveal) Melanoma",
+            "Surgery",
+            "Transscleral local resection"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Eye-sparing transscleral local resection plays a limited role in the management of uveal melanoma. It is used in patients with large choroidal and ciliary body tumors who are not candidates for radiation therapy but are highly motivated to retain their eye.[ 10 - 12 ] The procedure is technically demanding and is generally performed only in centers with specialized expertise in this surgery. There is a substantial risk of retinal detachment, intraocular bleeding, and complications associated with the anesthesia-induced hypotension used to decrease the risk of bleeding. Either adjuvant brachytherapy or neoadjuvant proton-beam therapy are administered. Experience is limited to retrospective, single-center, case series.[ 10 - 12 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Surgical resection of metastases",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Intraocular (Uveal) Melanoma",
+            "Surgery",
+            "Surgical resection of metastases"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Surgical resection of metastases from ocular melanoma has been reported in case series of highly selected patients with occasional favorable outcomes.[ 13 , 14 ] However, the favorable outcomes may be the result of strong patient-selection factors, and the role of resection in this setting is unclear.[ 13 , 14 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Radiation Therapy",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Intraocular (Uveal) Melanoma",
+            "Radiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "Episcleral brachytherapy using plaques containing small radioactive seeds is the most common form of radiation used in the management of intraocular melanoma. Iodine I 125 (125I), cobalt Co 60 (60Co), palladium Pd 103 (103Pd), iridium Ir 192 (192Ir), and ruthenium Ru 106 (106Ru) are examples of radioactive isotopes used in the brachytherapy plaques. Isotopes with relatively low photon and electron emissions (125I, 103Pd, and 106Ru) are more easily shielded to reduce the exposure to adjacent normal tissues, and 125I is probably the most commonly used radioisotope.[ 15 ] Although plaque radiation therapy allows preservation of the eye, visual acuity is frequently lost over time.\nIn a case series of 1,106 patients who were treated with plaque radiation therapy for uveal melanoma and who had an initial acuity of at least 20/100, 68% developed poor acuity (i.e., 20/200 or worse) within 10 years.[ 16 ]\nFactors associated with worse acuity outcomes included:[ 16 ]\n- Age older than 60 years.\n- Diminished baseline acuity.\n- Diabetes.\n- Increased tumor size and thickness.\n- Location near the fovea or optic disc.\n- Type of isotope therapy (106Ru, 60Co, or 192Ir vs. 125I).\n125I brachytherapy yields equivalent overall and melanoma metastasis-specific survival rates to enucleation for medium-sized melanomas.[ 17 ][ Level of evidence A1 ] The randomized COMS Medium Tumor Trial compared 125I episcleral-plaque brachytherapy (85 Gy at 0.42–1.06 Gy/hr) with enucleation in 1,317 patients with medium-sized choroidal tumors (tumor height 2.5–10.0 mm and tumor diameter ≤16.0 mm that were not contiguous with the optic disc).[ 17 ] Eighty-five percent of the patients treated with 125I brachytherapy retained their eye for 5 years or more, and 37% of them had visual acuity better than 20/200 in the irradiated eye 5 years after treatment.[ 17 ] No statistically significant differences in mortality were observed between the two study arms after 12 years of follow-up, either for death from all causes or death with histopathologically confirmed melanoma metastasis.[ 18 ] The 5- and 10-year all-cause mortality rates were 19% and 35% in both study arms. The cumulative all-cause mortality rate at 12 years was 43% in the 125I arm versus 41% in the enucleation arm (RR, 1.04; 95% CI, 0.86–1.24). The 5-year metastasis-specific mortality rates were 13% in both arms; at 10 years, the rates were 21% and 22% (RR for metastasis-specific mortality, 1.07; 95% CI, 0.81–1.41 through 12 years).\nIn a companion study within the COMS, 209 patients were prospectively assessed for quality of life during the first 5 years of follow-up.[ 19 ] Both study groups reported increasing difficulty with vision-oriented daily activities and ocular pain as time elapsed. Most measures of visual function were similar between the two groups. However, there were statistically significant differences favoring the brachytherapy group in comfort with driving for the first year after therapy and in reported peripheral vision for the first 2 years after therapy. These differences disappeared by year 5 of follow-up.[ 19 ][ Level of evidence A3 ]\nCharged-particle EBRT (using protons, carbon ions, or helium ions) is the other major form of radiation therapy used in the management of ocular melanomas.[ 20 - 23 ] This form of radiation therapy requires sophisticated equipment available only at selected centers. In addition, charged-particle EBRT involves patient cooperation during treatment (e.g., voluntarily fixating the eye on a particular point so the tumor is positioned properly in the radiation beam). A lower risk of early and late local radiation failures has been reported after charged-particle EBRT than after the use of brachytherapy, possibly resulting from differences in dose distribution in the two techniques.[ 20 ][Levels of evidence B3 and C3 ]\nIn a single-center, single-surgeon study, 184 patients with uveal melanomas smaller than 15 mm in diameter and smaller than 10 mm in thickness were randomly assigned to receive 125I brachytherapy versus helium ion radiation (to an estimated dose of 70 Gy equivalents in 5 fractions over 7 to 11 days in each arm).[ 24 ] The local tumor regrowth rate by 4 years was 13.3% in the brachytherapy arm compared with 0% in the helium ion arm ( P < .001). However, the rates of metastasis, death from metastasis, and overall mortality were similar in both arms.[ 24 ][ Level of evidence B3 ]\nBecause of its dose distribution, charged-particle irradiation can be better used than plaque brachytherapy to treat larger tumors and tumors closer to the fovea or optic disc. A large, single-center, single-surgeon series of 2,069 patients treated with proton-beam therapy had an actuarial local control rate of 95% (95% CI, 93%–96%) at 15 years. The cumulative rate of enucleation was 16% (95% CI, 13%–20%). Enucleations were primarily the result of neovascular glaucoma (46% of enucleations), blind uncomfortable eyes (31% of enucleations), or local recurrence (23% of enucleations). As with plaque radiation, risk factors for deterioration in visual acuity after charged-particle radiation were tumor size, location near the fovea or optic disc, baseline acuity, and underlying diabetes.[ 21 ]\nSimilarly, another large, single-center, single-surgeon, consecutive series of 886 patients treated with proton-beam irradiation reported a local control rate of 92.1% (95% CI, 89.8%–94.6%) and ocular conservation rate of 87.3% (95% CI, 83.9%–90.9%) at 10 years.[ 22 ][ Level of evidence C3 ] The actuarial OS rate at 10 years was 64.1% (95% CI, 59.5%–69.0%).\nIn a single-center, phase I/II study of 57 evaluable patients treated with carbon ion-beam irradiation and followed for a median of 26 months, 26 patients developed neovascular glaucoma or severe eye pain from increased intraocular pressure, and 3 patients underwent enucleation. One patient had a local tumor recurrence.[ 23 ]\nIn an attempt to lower the complication rate and improve functional outcomes, one study compared a decreased dose of 50 cobalt Gy equivalents (CGE) with 70 CGE proton beam (each delivered in 5 fractions, usually within a 7-day period). Patients (n = 188) with tumors smaller than 15 mm in diameter and smaller than 5 mm in height, which were located near the optic disc or macula, were randomly assigned to the two doses in a double-masked study design. At 5 years, there were no statistically significant differences in local tumor control, rate of metastasis, visual acuity, or complication rates. However, the visual fields were better in the 50-CGE group.[ 25 ][ Level of evidence B3 ]\nAs noted in the Surgery section, the role of pre-enucleation external photon-beam radiation therapy has been tested in a randomized trial and has shown no impact on OS for large choroidal tumors treated with enucleation.[ 8 , 9 ]\nExternal-beam–photon-beam (gamma-ray) radiation therapy with gamma-knife stereotactic radiation surgery as a single-fraction [ 26 ] or fractionated stereotactic radiation [ 27 , 28 ] is being investigated as an alternative to brachytherapy or charged-beam radiation for posterior uveal melanomas, particularly for tumors too large or too close to the optic disc or macula to treat with brachytherapy. Because the dose rate of radiation has a slower delivery time than is the case with charged particles, specialized techniques are used to immobilize the eye [ 26 ] or to avoid delivery of the photons while the eye is moving or closed.[ 28 ] Experience is more limited with external-beam–photon therapy than for either brachytherapy or charged-particle EBRT, and there are no controlled comparisons with either of the other techniques. Early results from single-center series suggest similar levels of local tumor control and eye retention rates, but patient-selection factors may play a role.[ 28 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Transpupillary Thermotherapy",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Intraocular (Uveal) Melanoma",
+            "Transpupillary Thermotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Transpupillary thermotherapy (TTT) directs an infrared laser, usually at a wavelength of 810 nm, through a dilated pupil in one or more sessions to induce heat necrosis of uveal melanomas. This method carries the theoretical advantage of high-precision destruction of tumor tissue under direct visualization. However, TTT has important limitations that confine its use to specific circumstances.[ 1 , 29 ] The limited ability of TTT to penetrate thick tumors with sufficient energy restricts its use to small melanomas or tumors of a size that some ophthalmologists recommend for follow-up without any initial therapy. For more information, see the Observation section. When used as the primary therapy, there are relatively high rates of local recurrence and retinal vascular damage. Recurrence rates are particularly high when the tumor abuts the optic nerve and overhangs the optic disc.[ 1 ][ Level of evidence C3 ]\nIn a single-center study, 95 patients with small choroidal melanomas (diameter <10 mm and thickness <3.5 mm) were randomly assigned to receive either TTT or 125I brachytherapy (100 Gy).[ 30 ] The tumor regression rate was 92% in the TTT arm and 98% in the 125I arm ( P = .4). With a mean follow-up time of 56.2 months, there were four recurrences in the TTT arm and one in the 125I arm. However, the study was too small to provide clear information on efficacy differences.\nTTT is also under evaluation as an adjunct to primary therapy with proton-beam radiation. In large uveal melanomas, proton-beam therapy is associated with exudative, inflammatory, and glaucomatous complications that may require enucleation. In a single-center trial, 151 patients with uveal melanomas at least 7 mm thick or at least 15 mm in diameter were randomly assigned to receive proton-beam radiation (60 CGEs over four daily fractions) with or without TTT (810 nm wavelength at 1, 6, and 12 months after therapy) and followed for a median of 38 months.[ 31 ] There were no differences between the two groups in maculopathy, papillopathy, or glaucoma. The enucleation rate was lower in the TTT group (about 2% vs. 18% at 5 years, P = .02). However, the study was not masked, and replication of the results would be important.\nThere are uncertainties at all stages about the optimal management of intraocular melanoma. Physicians should discuss clinical trial opportunities with eligible patients. Information about ongoing clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Intraocular (Uveal) Melanoma",
+            "Transpupillary Thermotherapy",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 31,
+          "text": "- Shields CL, Shields JA, Perez N, et al.: Primary transpupillary thermotherapy for small choroidal melanoma in 256 consecutive cases: outcomes and limitations. Ophthalmology 109 (2): 225-34, 2002. [PUBMED Abstract]\n- Augsburger JJ: Is observation really appropriate for small choroidal melanomas. Trans Am Ophthalmol Soc 91: 147-68; discussion 169-75, 1993. [PUBMED Abstract]\n- Shields CL, Cater J, Shields JA, et al.: Combination of clinical factors predictive of growth of small choroidal melanocytic tumors. Arch Ophthalmol 118 (3): 360-4, 2000. [PUBMED Abstract]\n- Robertson DM, Buettner H, Bennett SR: Transpupillary thermotherapy as primary treatment for small choroidal melanomas. Arch Ophthalmol 117 (11): 1512-9, 1999. [PUBMED Abstract]\n- Factors predictive of growth and treatment of small choroidal melanoma: COMS Report No. 5. The Collaborative Ocular Melanoma Study Group. Arch Ophthalmol 115 (12): 1537-44, 1997. [PUBMED Abstract]\n- Zimmerman LE, McLean IW, Foster WD: Statistical analysis of follow-up data concerning uveal melanomas, and the influence of enucleation. Ophthalmology 87 (6): 557-64, 1980. [PUBMED Abstract]\n- De Potter P, Shields CL, Shields JA: New treatment modalities for uveal melanoma. Curr Opin Ophthalmol 7 (3): 27-32, 1996. [PUBMED Abstract]\n- The Collaborative Ocular Melanoma Study (COMS) randomized trial of pre-enucleation radiation of large choroidal melanoma II: initial mortality findings. COMS report no. 10. Am J Ophthalmol 125 (6): 779-96, 1998. [PUBMED Abstract]\n- Hawkins BS; Collaborative Ocular Melanoma Study Group: The Collaborative Ocular Melanoma Study (COMS) randomized trial of pre-enucleation radiation of large choroidal melanoma: IV. Ten-year mortality findings and prognostic factors. COMS report number 24. Am J Ophthalmol 138 (6): 936-51, 2004. [PUBMED Abstract]\n- Damato B: The role of eyewall resection in uveal melanoma management. Int Ophthalmol Clin 46 (1): 81-93, 2006. [PUBMED Abstract]\n- Bechrakis NE, Bornfeld N, Zöller I, et al.: Iodine 125 plaque brachytherapy versus transscleral tumor resection in the treatment of large uveal melanomas. Ophthalmology 109 (10): 1855-61, 2002. [PUBMED Abstract]\n- Bechrakis NE, Petousis V, Willerding G, et al.: Ten-year results of transscleral resection of large uveal melanomas: local tumour control and metastatic rate. Br J Ophthalmol 94 (4): 460-6, 2010. [PUBMED Abstract]\n- Hsueh EC, Essner R, Foshag LJ, et al.: Prolonged survival after complete resection of metastases from intraocular melanoma. Cancer 100 (1): 122-9, 2004. [PUBMED Abstract]\n- Pawlik TM, Zorzi D, Abdalla EK, et al.: Hepatic resection for metastatic melanoma: distinct patterns of recurrence and prognosis for ocular versus cutaneous disease. Ann Surg Oncol 13 (5): 712-20, 2006. [PUBMED Abstract]\n- Albert DM, Kulkarni AD: Intraocular melanoma. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 2090-8.\n- Shields CL, Shields JA, Cater J, et al.: Plaque radiotherapy for uveal melanoma: long-term visual outcome in 1106 consecutive patients. Arch Ophthalmol 118 (9): 1219-28, 2000. [PUBMED Abstract]\n- Diener-West M, Earle JD, Fine SL, et al.: The COMS randomized trial of iodine 125 brachytherapy for choroidal melanoma, III: initial mortality findings. COMS Report No. 18. Arch Ophthalmol 119 (7): 969-82, 2001. [PUBMED Abstract]\n- Collaborative Ocular Melanoma Study Group: The COMS randomized trial of iodine 125 brachytherapy for choroidal melanoma: V. Twelve-year mortality rates and prognostic factors: COMS report No. 28. Arch Ophthalmol 124 (12): 1684-93, 2006. [PUBMED Abstract]\n- Melia M, Moy CS, Reynolds SM, et al.: Quality of life after iodine 125 brachytherapy vs enucleation for choroidal melanoma: 5-year results from the Collaborative Ocular Melanoma Study: COMS QOLS Report No. 3. Arch Ophthalmol 124 (2): 226-38, 2006. [PUBMED Abstract]\n- Char DH, Kroll S, Phillips TL, et al.: Late radiation failures after iodine 125 brachytherapy for uveal melanoma compared with charged-particle (proton or helium ion) therapy. Ophthalmology 109 (10): 1850-4, 2002. [PUBMED Abstract]\n- Gragoudas E, Li W, Goitein M, et al.: Evidence-based estimates of outcome in patients irradiated for intraocular melanoma. Arch Ophthalmol 120 (12): 1665-71, 2002. [PUBMED Abstract]\n- Caujolle JP, Mammar H, Chamorey E, et al.: Proton beam radiotherapy for uveal melanomas at nice teaching hospital: 16 years' experience. Int J Radiat Oncol Biol Phys 78 (1): 98-103, 2010. [PUBMED Abstract]\n- Tsuji H, Ishikawa H, Yanagi T, et al.: Carbon-ion radiotherapy for locally advanced or unfavorably located choroidal melanoma: a Phase I/II dose-escalation study. Int J Radiat Oncol Biol Phys 67 (3): 857-62, 2007. [PUBMED Abstract]\n- Char DH, Quivey JM, Castro JR, et al.: Helium ions versus iodine 125 brachytherapy in the management of uveal melanoma. A prospective, randomized, dynamically balanced trial. Ophthalmology 100 (10): 1547-54, 1993. [PUBMED Abstract]\n- Gragoudas ES, Lane AM, Regan S, et al.: A randomized controlled trial of varying radiation doses in the treatment of choroidal melanoma. Arch Ophthalmol 118 (6): 773-8, 2000. [PUBMED Abstract]\n- Modorati G, Miserocchi E, Galli L, et al.: Gamma knife radiosurgery for uveal melanoma: 12 years of experience. Br J Ophthalmol 93 (1): 40-4, 2009. [PUBMED Abstract]\n- Muller K, Nowak PJ, de Pan C, et al.: Effectiveness of fractionated stereotactic radiotherapy for uveal melanoma. Int J Radiat Oncol Biol Phys 63 (1): 116-22, 2005. [PUBMED Abstract]\n- Dieckmann K, Georg D, Bogner J, et al.: Optimizing LINAC-based stereotactic radiotherapy of uveal melanomas: 7 years' clinical experience. Int J Radiat Oncol Biol Phys 66 (4 Suppl 1): 47-52, 2006.\n- Harbour JW, Meredith TA, Thompson PA, et al.: Transpupillary thermotherapy versus plaque radiotherapy for suspected choroidal melanomas. Ophthalmology 110 (11): 2207-14; discussion 2215, 2003. [PUBMED Abstract]\n- Pilotto E, Vujosevic S, De Belvis V, et al.: Long-term choroidal vascular changes after iodine brachytherapy versus transpupillary thermotherapy for choroidal melanoma. Eur J Ophthalmol 19 (4): 646-53, 2009 Jul-Aug. [PUBMED Abstract]\n- Desjardins L, Lumbroso-Le Rouic L, Levy-Gabriel C, et al.: Combined proton beam radiotherapy and transpupillary thermotherapy for large uveal melanomas: a randomized study of 151 patients. Ophthalmic Res 38 (5): 255-60, 2006. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Iris Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Iris Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Melanocytic stromal proliferations and nevi of the iris are the most common tumors of the iris, but melanoma is rare.[ 1 , 2 ] Clinical differentiation between an iris nevus and a melanoma might sometimes be difficult and, at times, impossible. Melanomas of the iris are usually small discrete lesions, although they may occasionally be diffuse, infiltrative, or multiple and may result in heterochromia, chronic uveitis, or spontaneous hemorrhage into the anterior chamber of the eye (hyphema). Iris melanomas that involve more than 66% of the angle circumference are associated with secondary glaucoma.[ 3 ]\nRoutine evaluation of iris melanomas includes gonioscopy, transillumination of the globe, and indirect ophthalmoscopy with 360° of scleral depression. Photographic documentation is essential to verify progression in size or growth of the tumor.[ 4 ] Anterior segment fluorescein angiography may be helpful to demonstrate the vascularity of the lesion but is not diagnostic. High-resolution ultrasound biomicroscopy can be used to measure small lesions (basal dimensions and thickness) and to assess tumor involvement of the anterior ciliary body, angle, and overlying sclera.[ 5 ] The main disadvantage with this technology is its limited penetration of large lesions. In these cases, conventional ultrasonography is more accurate.\nIn general, patients with iris melanomas have relatively good outcomes. Only about 3% of these melanomas metastasize within 5 years.[ 1 ] Iris melanomas are predominantly of the spindle-cell type and are usually smaller in size than posterior melanomas. Clinical features, including prominent tumor vascularity, rapid growth, and heterogeneous pigmentation, are associated with an epithelioid cell component.[ 6 ] Involvement of the iridocorneal angles is frequently associated with ciliary body invasion.[ 6 ]\nBecause iris melanomas are rare and have a good prognosis, clinical trials with sufficient power are impractical. Therefore, treatment experience is based principally on case series and case reports. Conservative management is generally advocated whenever possible, but surgical intervention may be justified with unequivocal tumor growth or extensive disease at initial examination."
+        },
+        {
+          "section": "Treatment Options for Iris Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Iris Melanoma",
+            "Treatment Options for Iris Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for iris melanoma include:\n- Observation with careful follow-up . This option is used in asymptomatic patients with stable lesions; follow-up includes serial photography.[ 3 ]\n- Local resection . This option is used when progressive and pronounced growth is documented.[ 2 ]\n- Enucleation . This option is used if the tumor is not amenable to local resection because of diffuse involvement of the iris, involvement of more than 50% of the iris and anterior chamber angle, intractable glaucoma, or extraocular extension.[ 7 ]\n- Plaque radiation therapy . This option is offered as an alternative for large, diffuse, surgically nonresectable lesions of the iris.[ 8 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Iris Melanoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Iris Melanoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- Albert DM, Kulkarni AD: Intraocular melanoma. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 2090-8.\n- Starr OD, Patel DV, Allen JP, et al.: Iris melanoma: pathology, prognosis and surgical intervention. Clin Experiment Ophthalmol 32 (3): 294-6, 2004. [PUBMED Abstract]\n- Marcus DM, Sahel JA, Jakobiec FA, et al.: Pigmented tumors of the iris. In: Albert DM, Jakobiec FA, eds.: Principles and Practice of Ophthalmology. WB Saunders Co., 1994, pp 3198-3208.\n- Yap-Veloso MI, Simmons RB, Simmons RJ: Iris melanomas: diagnosis and management. Int Ophthalmol Clin 37 (4): 87-100, 1997 Fall. [PUBMED Abstract]\n- Pavlin CJ, McWhae JA, McGowan HD, et al.: Ultrasound biomicroscopy of anterior segment tumors. Ophthalmology 99 (8): 1220-8, 1992. [PUBMED Abstract]\n- Conway RM, Chua WC, Qureshi C, et al.: Primary iris melanoma: diagnostic features and outcome of conservative surgical treatment. Br J Ophthalmol 85 (7): 848-54, 2001. [PUBMED Abstract]\n- Melanocytic tumors of the iris stroma. In: Shields JA: Diagnosis and Management of Intraocular Tumors. C.V. Mosby Company, 1983, pp 83-121.\n- Shields CL, Shields JA, De Potter P, et al.: Treatment of non-resectable malignant iris tumours with custom designed plaque radiotherapy. Br J Ophthalmol 79 (4): 306-12, 1995. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Ciliary Body Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Ciliary Body Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Melanoma involving the ciliary body is rare and patients have a poor prognosis. In some cases, diagnosis may be difficult because of similarity to other eye diseases. The differential diagnosis of ciliary body melanoma is considered in cases of unilateral pigmentary glaucoma and chronic uveitis.[ 1 ]\nUltrasound biomicroscopy can be used to evaluate tumor shape, thickness, margins, reflectivity, and local invasion.[ 2 , 3 ] Patients with tumors greater than 7 mm in thickness are at increased risk of metastatic disease and melanoma-related death compared with patients with thinner tumors.[ 4 ]"
+        },
+        {
+          "section": "Treatment Options for Ciliary Body Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Ciliary Body Melanoma",
+            "Treatment Options for Ciliary Body Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "There are several options for management of ciliary body melanoma. All of them are reported from case series.[ Level of evidence C3 ] The choice of therapy, however, depends on many factors.\nTreatment options for ciliary body melanoma include:\n- Plaque radiation therapy . Local control rates are high, but treatment is associated with a high incidence of secondary cataract.[ 4 , 5 ]\n- External-beam, charged-particle radiation therapy . This approach is offered at specialized referral centers. It requires careful patient cooperation, with voluntary fixation of gaze.[ 6 - 8 ]\n- Local tumor resection . This option is mainly suitable for selected ciliary body or anterior choroidal tumors with smaller basal dimension and greater thickness.[ 9 , 10 ]\n- Enucleation . This option is generally reserved for large melanomas when regaining useful vision is unlikely. It is also indicated in the presence of intractable secondary glaucoma and extraocular extension.[ 5 , 8 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Ciliary Body Melanoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Ciliary Body Melanoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Nguyen QD, Foster CS: Ciliary body melanoma masquerading as chronic uveitis. Ocul Immunol Inflamm 6 (4): 253-6, 1998. [PUBMED Abstract]\n- Marigo FA, Finger PT, McCormick SA, et al.: Iris and ciliary body melanomas: ultrasound biomicroscopy with histopathologic correlation. Arch Ophthalmol 118 (11): 1515-21, 2000. [PUBMED Abstract]\n- Daftari I, Barash D, Lin S, et al.: Use of high-frequency ultrasound imaging to improve delineation of anterior uveal melanoma for proton irradiation. Phys Med Biol 46 (2): 579-90, 2001. [PUBMED Abstract]\n- Gündüz K, Shields CL, Shields JA, et al.: Plaque radiotherapy of uveal melanoma with predominant ciliary body involvement. Arch Ophthalmol 117 (2): 170-7, 1999. [PUBMED Abstract]\n- Finger PT: Plaque radiation therapy for malignant melanoma of the iris and ciliary body. Am J Ophthalmol 132 (3): 328-35, 2001. [PUBMED Abstract]\n- Munzenrider JE: Uveal melanomas. Conservation treatment. Hematol Oncol Clin North Am 15 (2): 389-402, 2001. [PUBMED Abstract]\n- Char DH, Kroll SM, Castro J: Ten-year follow-up of helium ion therapy for uveal melanoma. Am J Ophthalmol 125 (1): 81-9, 1998. [PUBMED Abstract]\n- De Potter P: [Choroidal melanoma: current therapeutic approaches] J Fr Ophtalmol 25 (2): 203-11, 2002. [PUBMED Abstract]\n- De Potter P, Shields CL, Shields JA: New treatment modalities for uveal melanoma. Curr Opin Ophthalmol 7 (3): 27-32, 1996. [PUBMED Abstract]\n- Char DH, Miller T, Crawford JB: Uveal tumour resection. Br J Ophthalmol 85 (10): 1213-9, 2001. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Small Choroidal Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Small Choroidal Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "A wide range of 5-year mortality rates has been reported for patients with small choroidal melanomas, with an average rate of about 16%.[ 1 , 2 ] Several studies indicate that the two most important clinical factors predictive of mortality are larger tumor size at the time of treatment and documentation of tumor growth.[ 3 ]\nThe management of small choroidal melanomas is controversial. The likelihood of progression from the time of diagnosis to growth warranting treatment has not been well characterized. Many ophthalmologists advocate initial observation. This initial management strategy is justified on several grounds, including difficulty in establishing a correct diagnosis, lack of documented efficacy for globe-conserving treatments, and concerns for severe treatment-related morbidity. Others have advocated earlier therapeutic intervention.[ 4 - 6 ]"
+        },
+        {
+          "section": "Treatment Options for Small Choroidal Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Small Choroidal Melanoma",
+            "Treatment Options for Small Choroidal Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment options for small choroidal melanoma include:\n- Observation . This strategy is important for patients with an uncertain diagnosis or whose tumor growth has not been documented. It is also used for asymptomatic patients with stable lesions (particularly older or debilitated patients) and for patients with a tumor in their only useful eye.[ 2 ]\n- Plaque radiation therapy . This treatment is used for small- or medium-sized uveal melanomas, amelanotic tumors, or tumors that touch the optic disc for greater than 3 clock-hours of optic disk circumference.[ 7 , 8 ]\n- External-beam, charged-particle radiation therapy . This approach is offered at specialized referral centers. It requires careful patient cooperation, with voluntary fixation of gaze.[ 7 - 10 ]\n- Gamma-knife radiation surgery . This treatment may be a feasible option for small- to medium-sized melanomas.[ 11 - 13 ]\n- Transpupillary thermotherapy . As noted above, this approach has very limited use, but it can be used as a primary treatment or as an adjunctive method to plaque radiation therapy.[ 5 , 6 , 14 - 18 ] For more information, see the Transpupillary Thermotherapy section.\n- Local tumor resection . This strategy is used mainly for selected ciliary body or anterior choroidal tumors with smaller basal dimensions and greater thickness.[ 19 ]\n- Enucleation . This approach is used when severe intraocular pressure elevation is a factor. It may also be considered with small- and medium-sized melanomas that are invading the tissues of the optic nerve.[ 20 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Small Choroidal Melanoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Small Choroidal Melanoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "- Diener-West M, Hawkins BS, Markowitz JA, et al.: A review of mortality from choroidal melanoma. II. A meta-analysis of 5-year mortality rates following enucleation, 1966 through 1988. Arch Ophthalmol 110 (2): 245-50, 1992. [PUBMED Abstract]\n- Mortality in patients with small choroidal melanoma. COMS report no. 4. The Collaborative Ocular Melanoma Study Group. Arch Ophthalmol 115 (7): 886-93, 1997. [PUBMED Abstract]\n- Shields CL, Shields JA, Kiratli H, et al.: Risk factors for growth and metastasis of small choroidal melanocytic lesions. Ophthalmology 102 (9): 1351-61, 1995. [PUBMED Abstract]\n- Shields CL, Cater J, Shields JA, et al.: Combination of clinical factors predictive of growth of small choroidal melanocytic tumors. Arch Ophthalmol 118 (3): 360-4, 2000. [PUBMED Abstract]\n- Shields CL, Shields JA, Perez N, et al.: Primary transpupillary thermotherapy for small choroidal melanoma in 256 consecutive cases: outcomes and limitations. Ophthalmology 109 (2): 225-34, 2002. [PUBMED Abstract]\n- Robertson DM, Buettner H, Bennett SR: Transpupillary thermotherapy as primary treatment for small choroidal melanomas. Arch Ophthalmol 117 (11): 1512-9, 1999. [PUBMED Abstract]\n- Shields CL, Shields JA, Gündüz K, et al.: Radiation therapy for uveal malignant melanoma. Ophthalmic Surg Lasers 29 (5): 397-409, 1998. [PUBMED Abstract]\n- Finger PT: Radiation therapy for choroidal melanoma. Surv Ophthalmol 42 (3): 215-32, 1997 Nov-Dec. [PUBMED Abstract]\n- Munzenrider JE: Uveal melanomas. Conservation treatment. Hematol Oncol Clin North Am 15 (2): 389-402, 2001. [PUBMED Abstract]\n- Char DH, Kroll SM, Castro J: Ten-year follow-up of helium ion therapy for uveal melanoma. Am J Ophthalmol 125 (1): 81-9, 1998. [PUBMED Abstract]\n- Woodburn R, Danis R, Timmerman R, et al.: Preliminary experience in the treatment of choroidal melanoma with gamma knife radiosurgery. J Neurosurg 93 (Suppl 3): 177-9, 2000. [PUBMED Abstract]\n- Modorati G, Miserocchi E, Galli L, et al.: Gamma knife radiosurgery for uveal melanoma: 12 years of experience. Br J Ophthalmol 93 (1): 40-4, 2009. [PUBMED Abstract]\n- Muller K, Nowak PJ, de Pan C, et al.: Effectiveness of fractionated stereotactic radiotherapy for uveal melanoma. Int J Radiat Oncol Biol Phys 63 (1): 116-22, 2005. [PUBMED Abstract]\n- Shields CL, Shields JA: Transpupillary thermotherapy for choroidal melanoma. Curr Opin Ophthalmol 10 (3): 197-203, 1999. [PUBMED Abstract]\n- Godfrey DG, Waldron RG, Capone A: Transpupillary thermotherapy for small choroidal melanoma. Am J Ophthalmol 128 (1): 88-93, 1999. [PUBMED Abstract]\n- Bartlema YM, Oosterhuis JA, Journée-De Korver JG, et al.: Combined plaque radiotherapy and transpupillary thermotherapy in choroidal melanoma: 5 years' experience. Br J Ophthalmol 87 (11): 1370-3, 2003. [PUBMED Abstract]\n- Harbour JW, Meredith TA, Thompson PA, et al.: Transpupillary thermotherapy versus plaque radiotherapy for suspected choroidal melanomas. Ophthalmology 110 (11): 2207-14; discussion 2215, 2003. [PUBMED Abstract]\n- Pilotto E, Vujosevic S, De Belvis V, et al.: Long-term choroidal vascular changes after iodine brachytherapy versus transpupillary thermotherapy for choroidal melanoma. Eur J Ophthalmol 19 (4): 646-53, 2009 Jul-Aug. [PUBMED Abstract]\n- Char DH, Miller T, Crawford JB: Uveal tumour resection. Br J Ophthalmol 85 (10): 1213-9, 2001. [PUBMED Abstract]\n- Shields JA, Shields CL: Atlas of Intraocular Tumors. Lippincott Williams & Wilkins, 1999."
+        },
+        {
+          "section": "Treatment of Medium and Large Choroidal Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Medium and Large Choroidal Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Eye-sparing radiation therapy, either by plaque brachytherapy or external beam, is the preferred option for most patients with medium-sized choroidal melanoma. Enucleation remains the standard therapy for large choroidal melanomas and melanomas that cause severe glaucoma or invade the optic nerve."
+        },
+        {
+          "section": "Treatment Options for Medium and Large Choroidal Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Medium and Large Choroidal Melanoma",
+            "Treatment Options for Medium and Large Choroidal Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Tumor growth pattern is a factor in the therapeutic decision. Enucleation is considered for a diffuse melanoma or extraocular extension, but radiation therapy can be employed for less extensive disease.\nTreatment options for medium and large choroidal melanoma include:\nMedium-sized choroidal melanomas\n- Plaque radiation therapy. [ 1 - 4 ]\n- External-beam, charged-particle radiation therapy . This approach is offered at specialized referral centers. It requires careful patient cooperation, with voluntary fixation of gaze.[ 5 - 7 ]\n- Local eye-wall resection. [ 8 , 9 ]\n- Combined therapy, with ablative laser coagulation or transpupillary thermotherapy to supplement plaque treatment. [ 10 , 11 ] For more information, see the Transpupillary Thermotherapy section.\n- Enucleation. This approach is considered primarily for diffuse melanomas or extraocular extension. Enucleation may be necessary when there are radiation complications or tumor recurrences.[ 10 ]\nLarge choroidal melanomas\n- Enucleation when the tumor is judged to be too large for eye-sparing approaches ."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Medium and Large Choroidal Melanoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Medium and Large Choroidal Melanoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Karvat A, Duzenli C, Ma R, et al.: The treatment of choroidal melanoma with 198 Au plaque brachytherapy. Radiother Oncol 59 (2): 153-6, 2001. [PUBMED Abstract]\n- Tabandeh H, Chaudhry NA, Murray TG, et al.: Intraoperative echographic localization of iodine-125 episcleral plaque for brachytherapy of choroidal melanoma. Am J Ophthalmol 129 (2): 199-204, 2000. [PUBMED Abstract]\n- Diener-West M, Earle JD, Fine SL, et al.: The COMS randomized trial of iodine 125 brachytherapy for choroidal melanoma, III: initial mortality findings. COMS Report No. 18. Arch Ophthalmol 119 (7): 969-82, 2001. [PUBMED Abstract]\n- Melia BM, Abramson DH, Albert DM, et al.: Collaborative ocular melanoma study (COMS) randomized trial of I-125 brachytherapy for medium choroidal melanoma. I. Visual acuity after 3 years COMS report no. 16. Ophthalmology 108 (2): 348-66, 2001. [PUBMED Abstract]\n- Char DH, Quivey JM, Castro JR, et al.: Helium ions versus iodine 125 brachytherapy in the management of uveal melanoma. A prospective, randomized, dynamically balanced trial. Ophthalmology 100 (10): 1547-54, 1993. [PUBMED Abstract]\n- Fuss M, Loredo LN, Blacharski PA, et al.: Proton radiation therapy for medium and large choroidal melanoma: preservation of the eye and its functionality. Int J Radiat Oncol Biol Phys 49 (4): 1053-9, 2001. [PUBMED Abstract]\n- Char DH, Kroll SM, Castro J: Ten-year follow-up of helium ion therapy for uveal melanoma. Am J Ophthalmol 125 (1): 81-9, 1998. [PUBMED Abstract]\n- Char DH, Miller T, Crawford JB: Uveal tumour resection. Br J Ophthalmol 85 (10): 1213-9, 2001. [PUBMED Abstract]\n- Peyman GA, Juarez CP, Diamond JG, et al.: Ten years experience with eye wall resection for uveal malignant melanomas. Ophthalmology 91 (12): 1720-5, 1984. [PUBMED Abstract]\n- Seregard S, Landau I: Transpupillary thermotherapy as an adjunct to ruthenium plaque radiotherapy for choroidal melanoma. Acta Ophthalmol Scand 79 (1): 19-22, 2001. [PUBMED Abstract]\n- Shields JA: The expanding role of laser photocoagulation for intraocular tumors. The 1993 H. Christian Zweng Memorial Lecture. Retina 14 (4): 310-22, 1994. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Extraocular Extension and Metastatic Intraocular Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extraocular Extension and Metastatic Intraocular Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Extrascleral extension is associated with a poor prognosis. For patients with gross tumor involvement of the orbit, treatment requires orbital exenteration. However, there is no evidence that such radical surgery will prolong survival. Most patients with localized or encapsulated extraocular extension are not exenterated. This subject is controversial.[ 1 - 5 ]\nNo effective method of systemic treatment has been identified for patients with metastatic ocular melanoma. Clinical trials are an option for these patients."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extraocular Extension and Metastatic Intraocular Melanoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extraocular Extension and Metastatic Intraocular Melanoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Shammas HF, Blodi FC: Prognostic factors in choroidal and ciliary body melanomas. Arch Ophthalmol 95 (1): 63-9, 1977. [PUBMED Abstract]\n- Pach JM, Robertson DM, Taney BS, et al.: Prognostic factors in choroidal and ciliary body melanomas with extrascleral extension. Am J Ophthalmol 101 (3): 325-31, 1986. [PUBMED Abstract]\n- Kersten RC, Tse DT, Anderson RL, et al.: The role of orbital exenteration in choroidal melanoma with extrascleral extension. Ophthalmology 92 (3): 436-43, 1985. [PUBMED Abstract]\n- Hykin PG, McCartney AC, Plowman PN, et al.: Postenucleation orbital radiotherapy for the treatment of malignant melanoma of the choroid with extrascleral extension. Br J Ophthalmol 74 (1): 36-9, 1990. [PUBMED Abstract]\n- Gündüz K, Shields CL, Shields JA, et al.: Plaque radiotherapy for management of ciliary body and choroidal melanoma with extraocular extension. Am J Ophthalmol 130 (1): 97-102, 2000. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Recurrent Intraocular Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Intraocular Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The prognosis for any patient with recurring or relapsing disease is poor, regardless of cell type or stage. The question and selection of further treatment depends on many factors, including the extent of the lesion, age and health of the patient, prior treatment, site of recurrence, and individual patient considerations. Surgical resection of metastases diagnosed after initial management of ocular melanoma in single-center case series of highly selected patients has been reported. The extent to which the occasional favorable outcomes are the result of strong selection factors is not clear, so this approach cannot be considered standard.[ 1 ]\nEligible patients should consider participation in clinical trials whenever possible."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Intraocular Melanoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Intraocular Melanoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Hsueh EC, Essner R, Foshag LJ, et al.: Prolonged survival after complete resection of metastases from intraocular melanoma. Cancer 100 (1): 122-9, 2004. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (05/16/2025)",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (05/16/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of intraocular melanoma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 9,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewer for Intraocular (Uveal) Melanoma Treatment is:\n- Shaheer A. Khan, DO (Columbia University Irving Medical Center)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Intraocular (Uveal) Melanoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/eye/hp/intraocular-melanoma-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389482]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\424f2107b042e3a3cad0.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Intraocular (Uveal) Melanoma",
+      "title": "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+      "summary_name": "Intraocular (Uveal) Melanoma Treatment",
+      "url": "https://www.cancer.gov/types/eye/patient/intraocular-melanoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "February 14, 2025",
+      "retrieved_at": "2026-08-31T07:10:10.810749+00:00",
+      "content_sha256": "3b3f77130a15a98b62791a523c918918e6802892c9b0567c342d25ea7127a612",
+      "section_count": 46,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Intraocular (Uveal) Melanoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Intraocular melanoma is a disease in which malignant (cancer) cells form in the tissues of the eye.\n- Being older and having fair skin may increase the risk of intraocular melanoma.\n- Signs and symptoms of intraocular melanoma may include blurred vision or a dark spot on the iris.\n- Tests that examine the eye are used to diagnose intraocular melanoma.\n- A biopsy of the tumor is rarely needed to diagnose intraocular melanoma.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Intraocular melanoma is a disease in which malignant (cancer) cells form in the tissues of the eye.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Intraocular (Uveal) Melanoma",
+            "Intraocular melanoma is a disease in which malignant (cancer) cells form in the tissues of the eye."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Intraocular melanoma begins in the middle of three layers of the wall of the eye. The outer layer includes the white sclera (the \"white of the eye\") and the clear cornea at the front of the eye. The inner layer has a lining of nerve tissue , called the retina , which senses light and sends images along the optic nerve to the brain .\nThe middle layer, where intraocular melanoma forms, is called the uvea or uveal tract, and has three main parts:\n- Iris The iris is the colored area at the front of the eye (the \"eye color\"). It can be seen through the clear cornea. The pupil is in the center of the iris, and it changes size to let more or less light into the eye. Intraocular melanoma of the iris is usually a small tumor that grows slowly and rarely spreads to other parts of the body.\n- Ciliary body The ciliary body is a ring of tissue with muscle fibers that change the shape of the lens . It is found behind the iris. Changes in the shape of the lens help the eye focus. The ciliary body also makes the clear fluid that fills the space between the cornea and the iris. Intraocular melanoma of the ciliary body is often larger and more likely to spread to other parts of the body than intraocular melanoma of the iris.\n- Choroid The choroid is a layer of blood vessels that bring oxygen and nutrients to the eye. Most intraocular melanomas begin in the choroid. Intraocular melanoma of the choroid is often larger and more likely to spread to other parts of the body than intraocular melanoma of the iris.\nIntraocular melanoma is a rare cancer that forms from cells that make melanin in the iris, ciliary body, and choroid. It is the most common eye cancer in adults."
+        },
+        {
+          "section": "Being older and having fair skin may increase the risk of intraocular melanoma.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Intraocular (Uveal) Melanoma",
+            "Being older and having fair skin may increase the risk of intraocular melanoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Anything that increases a person's chance of getting a disease is called a risk factor . Not every person with one or more of these risk factors will develop intraocular melanoma, and it will develop in some people who don't have any known risk factors. Talk with your doctor if you think you may be at risk.\nRisk factors for intraocular melanoma include:\n- Having a fair complexion, which includes:\n- Fair skin that freckles and burns easily, does not tan, or tans poorly.\n- Blue or green or other light-colored eyes.\n- Older age.\n- Being White."
+        },
+        {
+          "section": "Signs and symptoms of intraocular melanoma may include blurred vision or a dark spot on the iris.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Intraocular (Uveal) Melanoma",
+            "Signs and symptoms of intraocular melanoma may include blurred vision or a dark spot on the iris."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Intraocular melanoma may not cause early signs or symptoms . It is sometimes found during a regular eye exam when the doctor dilates the pupil and looks into the eye. These and other signs and symptoms may be caused by intraocular melanoma or by other conditions. Check with your doctor if you have any of the following symptoms that do not go away:\n- Blurred vision or other change in vision.\n- Floaters (spots that drift in your field of vision) or flashes of light.\n- A dark spot on the iris.\n- A change in the size or shape of the pupil.\n- A change in the position of the eyeball in the eye socket ."
+        },
+        {
+          "section": "Tests that examine the eye are used to diagnose intraocular melanoma.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Intraocular (Uveal) Melanoma",
+            "Tests that examine the eye are used to diagnose intraocular melanoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Eye exam with dilated pupil : An exam of the eye in which the pupil is dilated (enlarged) with medicated eye drops to allow the doctor to look through the lens and pupil to the retina. The inside of the eye, including the retina and the optic nerve, is checked. Pictures may be taken over time to keep track of changes in the size of the tumor. There are several types of eye exams:\n- Ophthalmoscopy : An exam of the inside of the back of the eye to check the retina and optic nerve using a small magnifying lens and a light.\n- Slit-lamp biomicroscopy : An exam of the inside of the eye to check the retina, optic nerve, and other parts of the eye using a strong beam of light and a microscope.\n- Gonioscopy : An exam of the front part of the eye between the cornea and iris. A special instrument is used to see if the area where fluid drains out of the eye is blocked.\n- Ultrasound exam of the eye : A procedure in which high-energy sound waves (ultrasound) are bounced off the internal tissues of the eye to make echoes. Eye drops are used to numb the eye, and a small probe that sends and receives sound waves is placed gently on the surface of the eye. The echoes make a picture of the inside of the eye, and the distance from the cornea to the retina is measured. The picture, called a sonogram , shows on the screen of the ultrasound monitor .\n- High-resolution ultrasound biomicroscopy : A procedure in which high-energy sound waves (ultrasound) are bounced off the internal tissues of the eye to make echoes. Eye drops are used to numb the eye, and a small probe that sends and receives sound waves is placed gently on the surface of the eye. The echoes make a more detailed picture of the inside of the eye than a regular ultrasound. The tumor is checked for its size, shape, and thickness, and for signs that the tumor has spread to nearby tissue.\n- Transillumination of the globe and iris : An exam of the iris, cornea, lens, and ciliary body with a light placed on either the upper or lower lid.\n- Fluorescein angiography : A procedure to look at blood vessels and the flow of blood inside the eye. An orange fluorescent dye (fluorescein) is injected into a blood vessel in the arm and goes into the bloodstream. As the dye travels through blood vessels of the eye, a special camera takes pictures of the retina and choroid to find any areas that are blocked or leaking.\n- Indocyanine green angiography : A procedure to look at blood vessels in the choroid layer of the eye. A green dye (indocyanine green) is injected into a blood vessel in the arm and goes into the bloodstream. As the dye travels through blood vessels of the eye, a special camera takes pictures of the retina and choroid to find any areas that are blocked or leaking.\n- Ocular coherence tomography : An imaging test that uses light waves to take cross-section pictures of the retina, and sometimes the choroid, to see if there is swelling or fluid beneath the retina."
+        },
+        {
+          "section": "A biopsy of the tumor is rarely needed to diagnose intraocular melanoma.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Intraocular (Uveal) Melanoma",
+            "A biopsy of the tumor is rarely needed to diagnose intraocular melanoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "A biopsy is the removal of cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer. Rarely, a biopsy of the tumor is needed to diagnose intraocular melanoma. Tissue that is removed during a biopsy or surgery to remove the tumor may be tested to get more information about prognosis and which treatment options are best.\nThe following tests may be done on the sample of tissue:\n- Cytogenetic analysis : A laboratory test in which the chromosomes of cells in a sample of tissue are counted and checked for any changes, such as broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes may be a sign of cancer. Cytogenetic analysis is used to help diagnose cancer, plan treatment, or find out how well treatment is working.\n- Gene expression profiling : A laboratory test that identifies all of the genes in a cell or tissue that are making (expressing) messenger RNA . Messenger RNA molecules carry the genetic information that is needed to make proteins from the DNA in the cell nucleus to the protein-making machinery in the cell cytoplasm .\nA biopsy may result in retinal detachment (the retina separates from other tissues in the eye). This can be repaired by surgery."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Intraocular (Uveal) Melanoma",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "The prognosis and treatment options depend on:\n- How the melanoma cells look under a microscope.\n- The size and thickness of the tumor.\n- Whether the tumor is in the iris, ciliary body, or choroid part of the eye.\n- Whether the tumor has spread within the eye or to other places in the body.\n- Whether there are certain changes in the genes linked to intraocular melanoma.\n- The patient's age and general health.\n- Whether the tumor has recurred (come back) after treatment."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "- After intraocular melanoma has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- The following sizes are used to describe intraocular melanoma and plan treatment:\n- Small\n- Medium\n- Large\n- There is no staging system for intraocular melanoma of the iris .\n- The following stages are used for intraocular melanoma of the ciliary body and choroid :\n- Stage I\n- Stage II\n- Stage III\n- Stage IV\n- Intraocular melanoma can recur (come back) after it has been treated."
+        },
+        {
+          "section": "After intraocular melanoma has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "After intraocular melanoma has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "The process used to find out if cancer has spread to other parts of the body is called staging . The information gathered from the staging process determines the stage of the disease. It is important to know the stage in order to plan treatment.\nThe following tests and procedures may be used in the staging process:\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease.\n- Liver function tests : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by the liver . A higher-than-normal amount of a substance can be a sign the cancer has spread to the liver.\n- Ultrasound exam : A procedure in which high-energy sound waves (ultrasound) are bounced off internal tissues or organs, such as the liver, and make echoes. The echoes form a picture of body tissues called a sonogram .\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body, such as the liver. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, such as the chest, abdomen , or pelvis , taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- PET scan (positron emission tomography scan) : A procedure to find malignant tumor cells in the body. A very small amount of radioactive glucose (sugar) is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do. Sometimes a PET scan and a CT scan are done at the same time. If there is any cancer, this increases the chance that it will be found."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body.\nIf intraocular melanoma spreads to the optic nerve or nearby tissue of the eye socket , it is called extraocular extension."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of cancer as the primary tumor. For example, if intraocular melanoma spreads to the liver, the cancer cells in the liver are actually intraocular melanoma cells. The disease is metastatic intraocular melanoma, not liver cancer."
+        },
+        {
+          "section": "Small",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "The following sizes are used to describe intraocular melanoma and plan treatment:",
+            "Small"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The tumor is 5 to 16 millimeters in diameter and from 1 to 3 millimeters thick. Enlarge Millimeters (mm). A sharp pencil point is about 1 mm, a new crayon point is about 2 mm, and a new pencil eraser is about 5 mm."
+        },
+        {
+          "section": "Medium",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "The following sizes are used to describe intraocular melanoma and plan treatment:",
+            "Medium"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The tumor is 16 millimeters or smaller in diameter and from 3.1 to 8 millimeters thick."
+        },
+        {
+          "section": "Large",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "The following sizes are used to describe intraocular melanoma and plan treatment:",
+            "Large"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The tumor is:\n- more than 8 millimeters thick and any diameter; or\n- at least 2 millimeters thick and more than 16 millimeters in diameter.\nThough most intraocular melanoma tumors are raised, some are flat. These diffuse tumors grow widely across the uvea ."
+        },
+        {
+          "section": "The following stages are used for intraocular melanoma of the ciliary body and choroid :",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "The following stages are used for intraocular melanoma of the ciliary body and choroid :"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "Intraocular melanoma of the ciliary body and choroid has four size categories. The category depends on how wide and thick the tumor is. Category 1 tumors are the smallest, and category 4 tumors are the largest.\nCategory 1:\n- The tumor is not more than 12 millimeters wide and not more than 3 millimeters thick; or\n- the tumor is not more than 9 millimeters wide and 3.1 to 6 millimeters thick.\nCategory 2:\n- The tumor is 12.1 to 18 millimeters wide and not more than 3 millimeters thick; or\n- the tumor is 9.1 to 15 millimeters wide and 3.1 to 6 millimeters thick; or\n- the tumor is not more than 12 millimeters wide and 6.1 to 9 millimeters thick.\nCategory 3:\n- The tumor is 15.1 to 18 millimeters wide and 3.1 to 6 millimeters thick; or\n- the tumor is 12.1 to 18 millimeters wide and 6.1 to 9 millimeters thick; or\n- the tumor is not more than 18 millimeters wide and 9.1 to 12 millimeters thick; or\n- the tumor is not more than 15 millimeters wide and 12.1 to 15 millimeters thick.\nCategory 4:\n- The tumor is more than 18 millimeters wide and may be any thickness; or\n- the tumor is 15.1 to 18 millimeters wide and more than 12 millimeters thick; or\n- the tumor is not more than 15 millimeters wide and more than 15 millimeters thick."
+        },
+        {
+          "section": "Stage I",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "The following stages are used for intraocular melanoma of the ciliary body and choroid :",
+            "Stage I"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage I , the tumor is size category 1 and is in the choroid only."
+        },
+        {
+          "section": "Stage II",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "The following stages are used for intraocular melanoma of the ciliary body and choroid :",
+            "Stage II"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Stage II is divided into stages IIA and IIB.\n- In stage IIA , the tumor :\n- is size category 1 and has spread to the ciliary body ; or\n- is size category 1 and has spread through the sclera to the outside of the eyeball. The part of the tumor outside the eyeball is not more than 5 millimeters thick. The tumor may have spread to the ciliary body; or\n- is size category 2 and is in the choroid only.\n- In stage IIB , the tumor :\n- is size category 2 and has spread to the ciliary body ; or\n- is size category 3 and is in the choroid only."
+        },
+        {
+          "section": "Stage III",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "The following stages are used for intraocular melanoma of the ciliary body and choroid :",
+            "Stage III"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Stage III is divided into stages IIIA, IIIB, and IIIC.\n- In stage IIIA , the tumor :\n- is size category 2 and has spread through the sclera to the outside of the eyeball. The part of the tumor outside the eyeball is not more than 5 millimeters thick. The tumor may have spread to the ciliary body ; or\n- is size category 3 and has spread to the ciliary body; or\n- is size category 3 and has spread through the sclera to the outside of the eyeball. The part of the tumor outside the eyeball is not more than 5 millimeters thick. The tumor has not spread to the ciliary body; or\n- is size category 4 and is in the choroid only.\n- In stage IIIB , the tumor :\n- is size category 3 and has spread through the sclera to the outside of the eyeball. The part of the tumor outside the eyeball is not more than 5 millimeters thick. The tumor has spread to the ciliary body ; or\n- is size category 4 and has spread to the ciliary body; or\n- is size category 4 and has spread through the sclera to the outside of the eyeball. The part of the tumor outside the eyeball is not more than 5 millimeters thick. The tumor has not spread to the ciliary body.\n- In stage IIIC , the tumor :\n- is size category 4 and has spread through the sclera to the outside of the eyeball. The part of the tumor outside the eyeball is not more than 5 millimeters thick. The tumor has spread to the ciliary body ; or\n- may be any size and has spread through the sclera to the outside of the eyeball. The part of the tumor outside the eyeball is more than 5 millimeters thick."
+        },
+        {
+          "section": "Stage IV",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "The following stages are used for intraocular melanoma of the ciliary body and choroid :",
+            "Stage IV"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In stage IV , the tumor may be any size and has spread:\n- to one or more nearby lymph nodes or to the eye socket separate from the primary tumor ; or\n- to other parts of the body, such as the liver , lung , bone, brain , or tissue under the skin."
+        },
+        {
+          "section": "Intraocular melanoma can recur (come back) after it has been treated.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Intraocular (Uveal) Melanoma",
+            "Intraocular melanoma can recur (come back) after it has been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The melanoma may come back in the eye or in other parts of the body."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- There are different types of treatment for patients with intraocular melanoma.\n- The following types of treatment are used:\n- Surgery\n- Watchful waiting\n- Radiation therapy\n- Photocoagulation\n- Thermotherapy\n- New types of treatment are being tested in clinical trials.\n- Treatment for intraocular (uveal) melanoma may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with intraocular melanoma.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with intraocular melanoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatment are available for patients with intraocular melanoma . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer. When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Surgery is the most common treatment for intraocular melanoma. The following types of surgery may be used:\n- Resection: Surgery to remove the tumor and a small amount of healthy tissue around it.\n- Enucleation: Surgery to remove the eye and part of the optic nerve . This is done if vision cannot be saved and the tumor is large, has spread to the optic nerve, or causes high pressure inside the eye. After surgery, the patient is usually fitted for an artificial eye to match the size and color of the other eye.\n- Exenteration: Surgery to remove the eye and eyelid, and muscles, nerves , and fat in the eye socket . After surgery, the patient may be fitted for an artificial eye to match the size and color of the other eye or a facial prosthesis ."
+        },
+        {
+          "section": "Watchful waiting",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Watchful waiting"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Watchful waiting is closely monitoring a patient’s condition without giving any treatment until signs or symptoms appear or change. Pictures are taken over time to keep track of changes in the size of the tumor and how fast it is growing.\nWatchful waiting is used for patients who do not have signs or symptoms, and the tumor is not growing. It is also used when the tumor is in the only eye with useful vision."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. There are two types of radiation therapy:\n- External radiation therapy uses a machine outside the body to send radiation toward the cancer. Certain ways of giving radiation therapy can help keep radiation from damaging nearby healthy tissue. These types of external radiation therapy include:\n- Charged-particle external-beam radiation therapy is a type of external-beam radiation therapy. A special radiation therapy machine aims tiny, invisible particles, called protons or helium ions , at the cancer cells to kill them with little damage to nearby normal tissues. Charged-particle radiation therapy uses a different type of radiation than the x-ray type of radiation therapy.\n- Gamma Knife therapy is a type of stereotactic radiosurgery used for some melanomas . This treatment can be given in one treatment. It aims tightly focused gamma rays directly at the tumor so there is little damage to healthy tissue. Gamma Knife therapy does not use a knife to remove the tumor and is not an operation.\n- Internal radiation therapy uses a radioactive substance sealed in needles, seeds , wires, or catheters that are placed directly into or near the cancer. Certain ways of giving radiation therapy can help keep radiation from damaging healthy tissue. This type of internal radiation therapy may include:\n- Localized plaque radiation therapy is a type of internal radiation therapy that may be used for tumors of the eye. Radioactive seeds are attached to one side of a disk, called a plaque, and placed directly on the outside wall of the eye near the tumor. The side of the plaque with the seeds on it faces the eyeball, aiming radiation at the tumor. The plaque helps protect other nearby tissue from the radiation.\nThe way the radiation therapy is given depends on the type and stage of the cancer being treated. External and internal radiation therapy are used to treat intraocular melanoma."
+        },
+        {
+          "section": "Photocoagulation",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Photocoagulation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Photocoagulation is a procedure that uses laser light to destroy blood vessels that bring nutrients to the tumor, causing the tumor cells to die. Photocoagulation may be used to treat small tumors. This is also called light coagulation."
+        },
+        {
+          "section": "Thermotherapy",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Thermotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Thermotherapy is the use of heat from a laser to destroy cancer cells and shrink the tumor."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Treatment for intraocular (uveal) melanoma may cause side effects.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for intraocular (uveal) melanoma may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Intraocular (Uveal) Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Intraocular (Uveal) Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section."
+        },
+        {
+          "section": "Iris Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Intraocular (Uveal) Melanoma",
+            "Iris Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of iris melanoma may include:\n- Watchful waiting .\n- Surgery ( resection or enucleation ).\n- Plaque radiation therapy , for tumors that cannot be removed by surgery.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Ciliary Body Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Intraocular (Uveal) Melanoma",
+            "Ciliary Body Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of ciliary body melanoma may include:\n- Plaque radiation therapy .\n- Charged-particle external-beam radiation therapy .\n- Surgery ( resection or enucleation ).\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Choroid Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Intraocular (Uveal) Melanoma",
+            "Choroid Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Treatment of small choroid melanoma may include:\n- Watchful waiting .\n- Plaque radiation therapy .\n- Charged-particle external-beam radiation therapy .\n- Gamma Knife therapy .\n- Thermotherapy .\n- Surgery ( resection or enucleation ).\nTreatment of medium choroid melanoma may include:\n- Plaque radiation therapy with or without photocoagulation or thermotherapy.\n- Charged-particle external-beam radiation therapy.\n- Surgery (resection or enucleation).\nTreatment of large choroid melanoma may include:\n- Enucleation when the tumor is too large for treatments that save the eye.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Extraocular Extension Melanoma and Metastatic Intraocular (Uveal) Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Intraocular (Uveal) Melanoma",
+            "Extraocular Extension Melanoma and Metastatic Intraocular (Uveal) Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of extraocular extension melanoma that has spread to the bone around the eye may include:\n- Surgery ( exenteration ).\n- A clinical trial .\nAn effective treatment for metastatic intraocular melanoma has not been found. A clinical trial may be a treatment option. Talk with your doctor about your treatment options.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Recurrent Intraocular (Uveal) Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Intraocular (Uveal) Melanoma",
+            "Recurrent Intraocular (Uveal) Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "An effective treatment for recurrent intraocular melanoma has not been found. A clinical trial may be a treatment option. Talk with your doctor about your treatment options.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Intraocular (Uveal) Melanoma",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "To Learn More About Intraocular (Uveal) Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "For more information from the National Cancer Institute about intraocular (uveal) melanoma, see the Intraocular (Eye) Melanoma Home Page .\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of intraocular melanoma. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Intraocular (Uveal) Melanoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/eye/patient/intraocular-melanoma-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389277]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Intraocular (Uveal) Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\60e0dcca459c72a52869.html"
+    }
+  ]
+}

@@ -1,0 +1,1159 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Gestational Trophoblastic Disease",
+  "generated_at": "2026-08-31T07:15:23.271048+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Gestational Trophoblastic Disease",
+      "title": "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Gestational Trophoblastic Disease Treatment",
+      "url": "https://www.cancer.gov/types/gestational-trophoblastic/hp/gtd-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "July 19, 2024",
+      "retrieved_at": "2026-08-31T07:10:14.341339+00:00",
+      "content_sha256": "fe9c0c52c862df8a594df93563a06444250df2f1572685be9726e7ee40804635",
+      "section_count": 50,
+      "sections": [
+        {
+          "section": "General Information About Gestational Trophoblastic Disease",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "General Information About Gestational Trophoblastic Disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Gestational trophoblastic disease (GTD) is a broad term encompassing both benign and malignant growths arising from products of conception in the uterus.[ 1 ]"
+        },
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The reported incidence of GTD varies widely worldwide, from a low of 23 per 100,000 pregnancies (Paraguay) to a high of 1,299 per 100,000 pregnancies (Indonesia).[ 2 ] However, at least part of this variability is caused by differences in diagnostic criteria and reporting. The reported incidence in the United States is about 110 to 120 per 100,000 pregnancies. In the United States, the reported incidence of choriocarcinoma, the most aggressive form of GTD, is about 2 to 7 per 100,000 pregnancies. The U.S. age-standardized (1960 World Population Standard) incidence rate of choriocarcinoma is about 0.18 per 100,000 women between the ages of 15 years and 49 years.[ 2 ]"
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Two factors have consistently been associated with an increased risk of GTD:[ 2 ]\n- Maternal age.\n- History of hydatidiform mole (HM).\nIf a woman has been previously diagnosed with an HM, she carries a 1% risk of HM in subsequent pregnancies. This increases to approximately 25% with more than one prior HM. The risk associated with maternal age is bimodal, with increased risk both for mothers younger than 20 years and older than 35 years (and particularly for mothers >45 years). Relative risks are in the range of 1.1 to 11 for both the younger and older age ranges compared with ages 20 to 35 years. However, a population-based HM registry study suggests that the age-related patterns of the two major types of HM—complete and partial HM—are distinct.[ 3 ] For more information, see the Cellular Classification of Gestational Trophoblastic Disease section. In that study, the rate of complete HM was highest in women younger than 20 years and then decreased monotonically with age. However, the rates of partial HM increased for the entire age spectrum, suggesting possible differences in etiology. The association with paternal age is inconsistent.[ 2 ] A variety of exposures have been examined, with no clear associations found with tobacco smoking, alcohol consumption, diet, and oral contraceptive use.[ 2 ]"
+        },
+        {
+          "section": "Clinical Features",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Clinical Features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "GTDs contain paternal chromosomes and are placental, rather than maternal, in origin. The most common presenting symptoms are vaginal bleeding and a rapidly enlarging uterus, and GTD should be considered whenever a premenopausal woman presents with these findings. Because the vast majority of GTD types are associated with elevated human chorionic gonadotropin (hCG) levels, an hCG blood level and pelvic ultrasound are the initial steps in the diagnostic evaluation. In addition to vaginal bleeding and uterine enlargement, other presenting symptoms or signs may include the following:\n- Pelvic pain or sensation of pressure.\n- Anemia.\n- Hyperemesis gravidarum.\n- Hyperthyroidism (secondary to the homology between the beta-subunits of hCG and thyroid-stimulating hormone [TSH], which causes hCG to have weak TSH-like activity).\n- Preeclampsia early in pregnancy.\nThe most common antecedent pregnancy in GTD is that of an HM.\nChoriocarcinoma most commonly follows a molar pregnancy but can follow a normal pregnancy, ectopic pregnancy, or abortion, and it should always be considered when a patient has continued vaginal bleeding in the postdelivery period. Other possible signs include neurologic symptoms (resulting from brain metastases) in a female within the reproductive age group and asymptomatic lesions on routine chest x-ray."
+        },
+        {
+          "section": "Prognostic Factors and Survivorship",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Prognostic Factors and Survivorship"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "The prognosis for cure of patients with GTDs is good even when the disease has spread to distant organs, especially when only the lungs are involved. Therefore, the traditional TNM (tumor, node, metastasis) staging system has limited prognostic value.[ 4 ] The probability of cure depends on the following:\n- Histological type (invasive mole or choriocarcinoma).\n- Extent of spread of the disease/largest tumor size.\n- Level of serum beta-hCG.\n- Duration of disease from the initial pregnancy event to start of treatment.\n- Number and specific sites of metastases.\n- Nature of antecedent pregnancy.\n- Extent of prior treatment.\nSelection of treatment depends on these factors plus the patient’s desire for future pregnancies. Beta-hCG is a sensitive marker to indicate the presence or absence of disease before, during, and after treatment. Given the extremely good therapeutic outcomes of most of these tumors, an important goal is to distinguish patients who need less-intensive therapies from those who require more-intensive regimens to achieve a cure."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Prognostic Factors and Survivorship",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Ngan HY, Kohorn EI, Cole LA, et al.: Trophoblastic disease. Int J Gynaecol Obstet 119 (Suppl 2): S130-6, 2012. [PUBMED Abstract]\n- Altieri A, Franceschi S, Ferlay J, et al.: Epidemiology and aetiology of gestational trophoblastic diseases. Lancet Oncol 4 (11): 670-8, 2003. [PUBMED Abstract]\n- Altman AD, Bentley B, Murray S, et al.: Maternal age-related rates of gestational trophoblastic disease. Obstet Gynecol 112 (2 Pt 1): 244-50, 2008. [PUBMED Abstract]\n- Gestational trophoblastic neoplasms. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 691-7."
+        },
+        {
+          "section": "Cellular Classification of Gestational Trophoblastic Disease",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Gestational Trophoblastic Disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Gestational trophoblastic disease (GTD) may be classified as follows:[ 1 ]\n- Hydatidiform mole (HM) .\n- Complete HM .\n- Partial HM .\n- Gestational trophoblastic neoplasia.\n- Invasive mole .\n- Choriocarcinoma .\n- Placental-site trophoblastic tumor (PSTT) (very rare).\n- Epithelioid trophoblastic tumor (ETT) (extremely rare).\nChoriocarcinoma, PSTT, and ETT are often grouped under the heading gestational trophoblastic tumors."
+        },
+        {
+          "section": "Hydatidiform Mole (HM)",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Gestational Trophoblastic Disease",
+            "Hydatidiform Mole (HM)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "HM is defined as products of conception that show gross cyst-like swellings of the chorionic villi that are caused by an accumulation of fluid. There is disintegration and loss of blood vessels in the villous core."
+        },
+        {
+          "section": "Complete HM",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Gestational Trophoblastic Disease",
+            "Hydatidiform Mole (HM)",
+            "Complete HM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A complete mole occurs when an ovum that has extruded its maternal nucleus is fertilized by either a single sperm, with subsequent chromosome duplication, or two sperm, resulting in either case in a diploid karyotype. The former case always yields a mole with a karyotype of 46 XX, since at least one X chromosome is required for viability and a karyotype of 46 YY is rapidly lethal to the ovum. The latter case may yield a karyotype of 46 XX or 46 XY. About 90% of complete HMs are 46 XX. On ultrasound examination, complete moles rarely reveal a fetus or amniotic fluid."
+        },
+        {
+          "section": "Partial HM",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Gestational Trophoblastic Disease",
+            "Hydatidiform Mole (HM)",
+            "Partial HM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "A partial mole occurs when the ovum retains its nucleus but is fertilized by a single sperm, with subsequent chromosome duplication, or is fertilized by two sperm; the possible resulting triploid karyotypes are 69 XXY, 69 XXX, or 69 XYY. Therefore, in contrast to a complete mole, the partial mole chromosomes of a partial mole are only two-thirds paternal in origin. In contrast to complete moles, partial moles usually show a fetus, which may even be viable, and amniotic fluid is visible.\nComplete HMs have a 15% to 25% risk of developing into an invasive mole, but transformation to malignancy is much more rare (<5%) in the case of partial moles."
+        },
+        {
+          "section": "Invasive mole",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Gestational Trophoblastic Disease",
+            "Gestational Trophoblastic Neoplasias",
+            "Invasive mole"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Invasive moles (chorioadenoma destruens) are locally invasive, rarely metastatic lesions characterized microscopically by trophoblastic invasion of the myometrium with identifiable villous structures. These may be preceded by either complete or partial molar pregnancy. They are usually diploid in karyotype, but may be aneuploid. Microscopically, these lesions are characterized by hyperplasia of cytotrophoblastic and syncytial elements and persistence of villous structures. They may histologically resemble choriocarcinoma. Invasive moles have more aggressive behavior than either complete or partial HMs, and they are treated similarly to choriocarcinoma (i.e., with chemotherapy). However, unlike choriocarcinoma, they may regress spontaneously."
+        },
+        {
+          "section": "Choriocarcinoma",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Gestational Trophoblastic Disease",
+            "Gestational Trophoblastic Neoplasias",
+            "Choriocarcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Choriocarcinoma is a malignant tumor of the trophoblastic epithelium. Uterine muscle and blood vessels are invaded with areas of hemorrhage and necrosis. Columns and sheets of trophoblastic tissue invade normal tissues and spread to distant sites, the most common of which are lungs, brain, liver, pelvis, vagina, spleen, intestines, and kidney. Most choriocarcinomas have an aneuploid karyotype, and about three-quarters of them contain a Y chromosome. Most follow an HM pregnancy, spontaneous abortion, or ectopic pregnancy; but, about one-quarter of them are preceded by a full-term pregnancy. Nearly all GTDs that are preceded by nonmolar pregnancies are choriocarcinomas; the rare exceptions generally are PSTTs."
+        },
+        {
+          "section": "PSTT",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Gestational Trophoblastic Disease",
+            "Gestational Trophoblastic Neoplasias",
+            "PSTT"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "PSTT disease is the result of a very rare tumor arising from the placental implantation site and resembles an exaggerated form of syncytial endometritis. Trophoblastic cells infiltrate the myometrium, and there is vascular invasion. Human placental lactogen is present in the tumor cells, whereas immunoperoxidase staining for human chorionic gonadotropin (hCG) is positive in only scattered cells, and elevations in serum hCG are relatively low compared with the marked elevations seen in choriocarcinoma. hCG is not a reliable marker of tumor volume.[ 2 , 3 ] PSTTs have much lower growth rates than choriocarcinoma, and presentation after a full-term pregnancy is often delayed by months or years. They are generally resistant to chemotherapy. Therefore, hysterectomy is the standard primary treatment if the tumor is confined to the uterus. However, about 35% of PSTTs have distant metastases at diagnosis.[ 3 , 4 ] Common sites of metastasis include the lungs, pelvis, and lymph nodes. Central nervous system, renal, and liver metastases have also been observed."
+        },
+        {
+          "section": "ETT",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Gestational Trophoblastic Disease",
+            "Gestational Trophoblastic Neoplasias",
+            "ETT"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "ETT is an extremely rare gestational trophoblastic tumor.[ 5 , 6 ] Although this tumor was originally called an atypical choriocarcinoma, ETT appears to be less aggressive than choriocarcinoma and is now regarded as a distinct entity. Pathologically, it has a monomorphic cellular pattern of epithelioid cells and may resemble squamous cell cancer of the cervix when arising in the cervical canal. Its clinical behavior appears to be closer to that of PSTT than to choriocarcinoma. It has a spectrum of clinical behavior from benign to malignant. About one-third of patients present with metastases, usually in the lungs."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Gestational Trophoblastic Disease",
+            "Gestational Trophoblastic Neoplasias",
+            "ETT",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Altieri A, Franceschi S, Ferlay J, et al.: Epidemiology and aetiology of gestational trophoblastic diseases. Lancet Oncol 4 (11): 670-8, 2003. [PUBMED Abstract]\n- Lurain JR: Gestational trophoblastic tumors. Semin Surg Oncol 6 (6): 347-53, 1990. [PUBMED Abstract]\n- Feltmate CM, Genest DR, Goldstein DP, et al.: Advances in the understanding of placental site trophoblastic tumor. J Reprod Med 47 (5): 337-41, 2002. [PUBMED Abstract]\n- Schmid P, Nagai Y, Agarwal R, et al.: Prognostic markers and long-term outcome of placental-site trophoblastic tumours: a retrospective observational study. Lancet 374 (9683): 48-55, 2009. [PUBMED Abstract]\n- Shih IM, Kurman RJ: Epithelioid trophoblastic tumor: a neoplasm distinct from choriocarcinoma and placental site trophoblastic tumor simulating carcinoma. Am J Surg Pathol 22 (11): 1393-403, 1998. [PUBMED Abstract]\n- Palmer JE, Macdonald M, Wells M, et al.: Epithelioid trophoblastic tumor: a review of the literature. J Reprod Med 53 (7): 465-75, 2008. [PUBMED Abstract]"
+        },
+        {
+          "section": "Hydatidiform Mole (HM)",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Gestational Trophoblastic Disease",
+            "Hydatidiform Mole (HM)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "HM (molar pregnancy) is disease limited to the uterine cavity."
+        },
+        {
+          "section": "Definitions: FIGO",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Gestational Trophoblastic Disease",
+            "Gestational Trophoblastic Neoplasia",
+            "Definitions: FIGO"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The Fédération Internationale de Gynécologie et d’Obstétrique (FIGO) and the American Joint Committee on Cancer (AJCC) have designated staging to define gestational trophoblastic neoplasia; the FIGO system is most commonly used.[ 1 , 2 ] Some tumor registrars encourage the recording of staging in both systems."
+        },
+        {
+          "section": "FIGO staging system (and modified World Health Organization [WHO] prognostic scoring system)",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Gestational Trophoblastic Disease",
+            "Gestational Trophoblastic Neoplasia",
+            "Definitions: FIGO",
+            "FIGO staging system (and modified World Health Organization [WHO] prognostic scoring system)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "The FIGO staging system is as follows:[ 1 ]\nFIGO Anatomical Staging\nFIGO = Fédération Internationale de Gynécologie et d’Obstétrique; hCG = human chorionic gonadotropin; WHO = World Health Organization.\na Adapted from FIGO Committee on Gynecologic Oncology.[ 1 ]\nb To stage and allot a risk factor score, a patient's diagnosis is allocated to a stage as represented by a Roman numeral I, II, III, and IV. This is then separated by a colon from the sum of all the actual risk factor scores expressed in Arabic numerals, i.e., stage II:4, stage IV:9. This stage and score will be allotted for each patient.\nc Size of the tumor in the uterus.\nStage\nI | Gestational trophoblastic tumors strictly confined to the uterine corpus.\nII | Gestational trophoblastic tumors extending to the adnexa or to the vagina, but limited to the genital structures.\nIII | Gestational trophoblastic tumors extending to the lungs, with or without genital tract involvement.\nIV | All other metastatic sites.\nModified WHO Prognostic Scoring System as Adapted by FIGO b\nScores | 0 | 1 | 2 | 4\nAge | <40 | ≥40 | – | –\nAntecedent pregnancy | mole | abortion | term | –\nInterval months from index pregnancy | <4 | 4–6 | 7–12 | >12\nPretreatment serum hCG (IU/L) | <10 3 | 10 3 –10 4 | 10 4 –10 5 | >10 5\nLargest tumor size (including uterus c ) | <3 | 3–4 cm | ≥5 cm | –\nSite of metastases, including uterus | lung | spleen, kidney | gastrointestinal tract | liver, brain\nNumber of metastases | – | 1–4 | 5–8 | >8\nPrevious failed chemotherapy | – | – | single drug | ≥2 drugs\nIn addition, the FIGO staging system incorporates a modified WHO prognostic scoring system. The scores from the eight risk factors are summed and incorporated into the FIGO stage, separated by a colon (e.g., stage II:4, stage IV:9, etc.). Unfortunately, a variety of risk scoring systems have been published, making comparisons of results difficult."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Gestational Trophoblastic Disease",
+            "Gestational Trophoblastic Neoplasia",
+            "Definitions: FIGO",
+            "FIGO staging system (and modified World Health Organization [WHO] prognostic scoring system)",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Ngan HYS, Seckl MJ, Berkowitz RS, et al.: Diagnosis and management of gestational trophoblastic disease: 2021 update. Int J Gynaecol Obstet 155 (Suppl 1): 86-93, 2021. [PUBMED Abstract]\n- Gestational trophoblastic neoplasms. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 691-7."
+        },
+        {
+          "section": "Treatment Option Overview for Gestational Trophoblastic Disease",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Gestational Trophoblastic Disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Most hydatidiform moles (HMs) are benign and are treated conservatively by dilation, suction evacuation, and curettage. However, since they carry a risk of persistence or progression to malignant gestational trophoblastic disease (GTD), they must be followed carefully with weekly serum human chorionic gonadotropin (hCG) levels to normalization. Monthly follow-up for 6 months is generally recommended, although the duration of this phase of follow-up is not based on empiric study.[ 1 ]\nPrompt institution of therapy for GTD and continuing follow-up at very close intervals until normal beta-hCG titers are obtained is the cornerstone of management. When chemotherapy is instituted, the interval between courses should rarely exceed 14 to 21 days, depending on the regimen used. It is recommended that patients receive one to three courses of chemotherapy after the first normal beta-hCG titer, depending on the extent of disease. The modified World Health Organization (WHO) Prognostic Scoring System (see Table 1 ) should be used, and combination chemotherapy should be initiated when warranted by the patient's score. If a diagnosis of GTD is made, routine work-up includes the following:\n- Serum beta-hCG.\n- Blood work of liver, renal, and marrow function.\n- Chest x-ray.\n- Pelvic ultrasound.\n- Head computed tomography or magnetic resonance imaging (in the case of choriocarcinoma or central nervous system signs).\nTreatment of GTD depends on the risk category determined by the modified WHO Prognostic Scoring System as adapted by the Fédération Internationale de Gynécologie et d’Obstétrique (see Table 1 ). Since the very rare placental-site trophoblastic tumors and the even more rare epithelioid trophoblastic tumors are biologically distinct entities, their management is discussed separately."
+        },
+        {
+          "section": "Low Levels of hCG",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Gestational Trophoblastic Disease",
+            "Low Levels of hCG"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Accurate monitoring of hCG is critical to successfully diagnose and monitor the treatment course of gestational trophoblastic disease. False-positive results may lead to inappropriate diagnoses and treatment, and must be minimized. The following are possible alternate diagnoses to be considered in cases of low-level hCG."
+        },
+        {
+          "section": "False-positive hCG",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Gestational Trophoblastic Disease",
+            "Low Levels of hCG",
+            "False-positive hCG"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Serum hCG testing relies on detecting two antibodies on the hCG molecule. The antibodies are polyclonal or monoclonal antibodies derived from various animals: mouse, rabbit, goat or sheep. Humans with heterophilic (or cross-species) antibodies bind the antibodies in the assay, leading to a false-positive result. This was a common problem with one of the commercially available assays until it was re-engineered in 2003. Heterophilic antibodies cannot cross the glomerular filtration barrier, so the performance of a urinary hCG can eliminate this source for a positive test result. The urine sample should be run using the same system generally reserved for serum, as opposed to over-the-counter urine-pregnancy tests, to avoid decreased sensitivity in the latter."
+        },
+        {
+          "section": "Pituitary hCG",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Gestational Trophoblastic Disease",
+            "Low Levels of hCG",
+            "Pituitary hCG"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The anterior stalk of the pituitary secretes luteinizing hormone (LH), which shares an alpha subunit with hCG. In normal menstrual cycles, pituitary-generated hCG may be detectable at the time of the LH surge. Estrogen provides negative feedback for this LH secretion and acts as a suppressing agent. In patients in low-estrogen states (perimenopause, menopause, and status postoophorectomy), pituitary hCG may be secreted in increasing amounts, although only levels between 1 to 32 IU/L have been recorded.[ 2 ] To confirm a pituitary source for the hCG, patients are started on high-dose oral contraceptive pills to produce an exogenous source of estrogen. In general, patients with pituitary hCG will have their hCG levels suppressed after 3 weeks on this regimen.[ 2 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Gestational Trophoblastic Disease",
+            "Low Levels of hCG",
+            "Pituitary hCG",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Sita-Lumsden A, Short D, Lindsay I, et al.: Treatment outcomes for 618 women with gestational trophoblastic tumours following a molar pregnancy at the Charing Cross Hospital, 2000-2009. Br J Cancer 107 (11): 1810-4, 2012. [PUBMED Abstract]\n- Muller CY, Cole LA: The quagmire of hCG and hCG testing in gynecologic oncology. Gynecol Oncol 112 (3): 663-72, 2009. [PUBMED Abstract]"
+        },
+        {
+          "section": "Management of Hydatidiform Mole",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Management of Hydatidiform Mole"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "Treatment of hydatidiform mole (HM) is within the purview of the obstetrician/gynecologist and is not discussed separately here. However, following the diagnosis and treatment of HM, patients should be monitored to rule out the possibility of metastatic gestational trophoblastic neoplasia. In almost all cases, this can be performed with routine monitoring of serum beta human chorionic gonadotropin (beta-hCG) to document its return to normal. An effective form of contraception is important during the follow-up period to avoid the confusion that can occur with a rising beta-hCG as a result of pregnancy.\nChemotherapy is necessary when there is the following:\n- A rising beta-hCG titer for 2 weeks (3 titers).\n- A tissue diagnosis of choriocarcinoma.\n- A plateau of the beta-hCG for 3 weeks.\n- Persistence of detectable beta-hCG 6 months after mole evacuation.\n- Metastatic disease.\n- An elevation in beta-hCG after a normal value.\n- Postevacuation hemorrhage not caused by retained tissues.\nChemotherapy is ultimately required for persistence or neoplastic transformation in about 15% to 20% of patients after evacuation of a complete HM but for fewer than 5% of patients with partial HM. Chemotherapy is determined by the patient's modified World Health Organization score.\nIn women with complete HM, risk of persistence or neoplastic transformation is approximately doubled in the setting of certain characteristics, which include the following:\n- Age older than 35 years or younger than 20 years.\n- Pre-evacuation serum beta-hCG greater than 100,000 IU/L.\n- Large-for-date uterus.\n- Large uterine molar mass.\n- Large (>6 cm) ovarian cysts.\n- Preeclampsia.\n- Hyperthyroidism.\n- Hyperemesis of pregnancy.\n- Trophoblastic embolization.\n- Disseminated intravascular coagulation.\nStudies have shown that a single course of prophylactic dactinomycin or methotrexate can decrease the risk of a postmolar gestational trophoblastic disease (GTD).[ 1 - 3 ] However, there is concern that chemoprophylaxis increases tumor resistance to standard therapy in the women who subsequently develop GTD.[ 1 ] Therefore, this practice is generally limited to countries in which a large number of women do not return for follow-up."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Management of Hydatidiform Mole",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Management of Hydatidiform Mole",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Kim DS, Moon H, Kim KT, et al.: Effects of prophylactic chemotherapy for persistent trophoblastic disease in patients with complete hydatidiform mole. Obstet Gynecol 67 (5): 690-4, 1986. [PUBMED Abstract]\n- Limpongsanurak S: Prophylactic actinomycin D for high-risk complete hydatidiform mole. J Reprod Med 46 (2): 110-6, 2001. [PUBMED Abstract]\n- Uberti EM, Fajardo Mdo C, Ferreira SV, et al.: Reproductive outcome after discharge of patients with high-risk hydatidiform mole with or without use of one bolus dose of actinomycin D, as prophylactic chemotherapy, during the uterine evacuation of molar pregnancy. Gynecol Oncol 115 (3): 476-81, 2009. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Low-Risk Gestational Trophoblastic Neoplasia (FIGO Score 0–6)",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Low-Risk Gestational Trophoblastic Neoplasia (FIGO Score 0–6)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 29,
+          "text": "There is no consensus on the best chemotherapy regimen for initial management of low-risk gestational trophoblastic neoplasia (GTN), and first-line regimens vary by geography and institutional preference. Most regimens have not been compared head-to-head, and the level of evidence for efficacy is often limited to C2 except as noted below. Even if there are differences in initial remission rate among the regimens, salvage with alternate regimens is very effective, and the ultimate cure rates are generally 99% or more. The initial regimen is generally given until a normal beta human chorionic gonadotropin (beta-hCG) (for the institution) is achieved and sustained for 3 consecutive weeks (or at least for one treatment cycle beyond normalization of the beta-hCG). A salvage regimen is instituted if any of the following occur:\n- A plateau of the beta-hCG for 3 weeks (defined as a beta-hCG decrease of 10% or less for 3 consecutive weeks).\n- A rise in beta-hCG of greater than 20% for 2 consecutive weeks.\n- Appearance of metastases.\nThe use of chemotherapy in the first-line management of low-risk GTN has been assessed in a Cochrane Collaboration systematic review.[ 1 ] In that systematic review, four randomized controlled trials were identified.[ 2 - 5 ]\nThree of the randomized trials [ 3 - 5 ] compared the same two commonly used regimens:\n- Biweekly (pulsed) dactinomycin (1.25 mg/m 2 intravenously [IV]).\n- Weekly intramuscular (IM) methotrexate (30 mg/m 2 ).\nThese three trials included a total of 392 patients. In all three trials, patients who received pulsed dactinomycin had better primary complete response rates without the need for additional salvage therapy (relative risk [RR] of cure, 3.00; 95% confidence interval [CI], 1.10–8.17), even though the magnitude of benefit showed substantial heterogeneity (I 2 statistic = 79%).[ 3 - 5 ][ Level of evidence B1 ] Fewer courses of dactinomycin therapy were needed to achieve complete response and cure. As expected, salvage chemotherapy was nearly uniformly successful, because almost all low-risk GTN patients are ultimately cured, irrespective of the initial chemotherapeutic regimen. There were no statistically significant differences in most toxicities, including the following:\n- Nausea and vomiting.\n- Diarrhea.\n- Hematologic toxicity.\n- Hepatic toxicity.\nThere was a statistically significant increase in dermatologic toxicity, including alopecia, associated with dactinomycin. However, in the largest study,[ 5 ] there was more low-grade gastrointestinal toxicity, grade 2 nausea, grade 1 to 2 vomiting, and grades 1 to 3 neutropenia in the dactinomycin group. These values were statistically significant. In this study, patients with choriocarcinoma and risk scores of 5 to 6 had worse complete response rates to initial treatment with single-agent therapy. Methotrexate was virtually ineffective.[ 5 ]\nThe fourth randomized trial was very small and included 45 patients. The study compared a 5-day regimen of dactinomycin (10 μg/kg) with an 8-day regimen of methotrexate (1 mg/kg) and leucovorin (0.1 mg/kg) on alternate days. There was a statistically significant decrease in risk of failure to achieve primary cure without the need for salvage therapy in the dactinomycin arm (RR, 0.57; 95% CI, 0.40–0.81).[ 2 ][ Level of evidence B1 ] There was less alopecia associated with methotrexate but more hepatic toxicity.\nThe Cochrane systematic review also summarized the evidence from four nonrandomized trials, but comparisons across studies are difficult. The regimens evaluated in those studies are included in the lists below.[ 1 ][ Level of evidence C2 ]\nCommonly used treatment regimens include the following:\n- The 8-day Charing Cross regimen. Methotrexate (50 mg IM on days 1, 3, 5, and 7) and leucovorin (7.5 mg orally on days 2, 4, 6, and 8). This may be the most common regimen worldwide,[ 1 , 6 ] but it has not been directly compared with other regimens.\n- Biweekly pulsed dactinomycin (1.25 mg/m 2 IV).\n- Weekly methotrexate (30 mg/m 2 IM). Efficacy of this regimen appears to be low for choriocarcinoma and for patients with Fédération Internationale de Gynécologie et d’Obstétrique (FIGO) risk scores of 5 to 6.\nOther regimens in less-common use include the following:[ 1 ]\n- An 8-day regimen of methotrexate (1 mg/kg IM on days 1, 3, 5, and 7) and leucovorin (0.1 mg/kg IM on days 2, 4, 6, and 8).\n- Methotrexate 20 mg/m 2 IM on days 1 to 5, repeated every 14 days.\n- Dactinomycin 12 μg/kg/day IV on days 1 to 5, repeated every 2 to 3 weeks. This regimen is used less often because of substantial alopecia and nausea.\n- Methotrexate 20 mg IM daily on days 1 to 5; and dactinomycin 500 μg IV daily on days 1 to 5, repeated every 14 days.\n- Dactinomycin 10 μg/kg/day on days 1 to 5, repeated every 2 weeks.\n- Methotrexate 0.4 mg/kg/day IM daily on days 1 to 5, repeated after 7 days.\n- Etoposide 100 mg/m 2 /day IV on days 1 to 5, or 250 mg/m 2 IV on days 1 and 3, at 10-day intervals.[ 7 ]\nThe unusual patient with a tumor that becomes refractory to single-agent chemotherapy is treated with one of the combination regimens described below for high-risk GTN. For more information, see the Treatment of High-Risk Gestational Trophoblastic Neoplasia (FIGO Score ≥7) section."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Low-Risk Gestational Trophoblastic Neoplasia (FIGO Score 0–6)",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Low-Risk Gestational Trophoblastic Neoplasia (FIGO Score 0–6)",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Alazzam M, Tidy J, Hancock BW, et al.: First line chemotherapy in low risk gestational trophoblastic neoplasia. Cochrane Database Syst Rev (1): CD007102, 2009. [PUBMED Abstract]\n- Lertkhachonsuk AA, Israngura N, Wilailak S, et al.: Actinomycin d versus methotrexate-folinic acid as the treatment of stage I, low-risk gestational trophoblastic neoplasia: a randomized controlled trial. Int J Gynecol Cancer 19 (5): 985-8, 2009. [PUBMED Abstract]\n- Gilani MM, Yarandi F, Eftekhar Z, et al.: Comparison of pulse methotrexate and pulse dactinomycin in the treatment of low-risk gestational trophoblastic neoplasia. Aust N Z J Obstet Gynaecol 45 (2): 161-4, 2005. [PUBMED Abstract]\n- Yarandi F, Eftekhar Z, Shojaei H, et al.: Pulse methotrexate versus pulse actinomycin D in the treatment of low-risk gestational trophoblastic neoplasia. Int J Gynaecol Obstet 103 (1): 33-7, 2008. [PUBMED Abstract]\n- Osborne RJ, Filiaci V, Schink JC, et al.: Phase III trial of weekly methotrexate or pulsed dactinomycin for low-risk gestational trophoblastic neoplasia: a gynecologic oncology group study. J Clin Oncol 29 (7): 825-31, 2011. [PUBMED Abstract]\n- Khan F, Everard J, Ahmed S, et al.: Low-risk persistent gestational trophoblastic disease treated with low-dose methotrexate: efficacy, acute and long-term effects. Br J Cancer 89 (12): 2197-201, 2003. [PUBMED Abstract]\n- Hitchins RN, Holden L, Newlands ES, et al.: Single agent etoposide in gestational trophoblastic tumours. Experience at Charing Cross Hospital 1978-1987. Eur J Cancer Clin Oncol 24 (6): 1041-6, 1988. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of High-Risk Gestational Trophoblastic Neoplasia (FIGO Score ≥7)",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of High-Risk Gestational Trophoblastic Neoplasia (FIGO Score ≥7)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 24,
+          "text": "Multiagent chemotherapy is standard for the initial management of high-risk gestational trophoblastic neoplasia (GTN). A systematic literature review revealed only one randomized controlled trial (and no high-quality trials)—conducted in the 1980s—comparing multiagent chemotherapy regimens for high-risk GTN.[ 1 ] In the trial, only 42 women were randomly assigned to either a CHAMOMA regimen (i.e., methotrexate, leucovorin, hydroxyurea, dactinomycin, vincristine, melphalan, and doxorubicin) or MAC (i.e., methotrexate, dactinomycin, and chlorambucil).[ 2 ] There was substantially more life-threatening toxicity in the CHAMOMA arm and no evidence of higher efficacy. However, there were serious methodological problems with this trial. It was reportedly designed as an equivalency trial, but owing to the small sample size, the trial was inadequately powered to assess equivalence. In addition, the characteristics of the patients randomly assigned to the two study arms were not reported (although the authors stated that there were no major differences in the patient populations assigned to each arm), nor was the method of randomization or allocation concealment described.\nThere are no randomized trials comparing regimens in common use to establish the superiority of one over another. Therefore, the literature does not permit firm conclusions about the best chemotherapeutic regimen.[ 1 ][ Level of evidence C2 ] However, since EMA/CO (i.e., etoposide, methotrexate, and dactinomycin/cyclophosphamide and vincristine) is the most commonly used regimen, the specifics are provided in Table 2 below.[ 3 - 5 ]\nDay | Drug | Dose\nIV = intravenously; PO = orally.\na Adapted from Bower et al.[ 3 ]\nb Adapted from Escobar et al.[ 4 ]\nc Adapted from Lurain et al.[ 5 ]\n1 | Etoposide | 100 mg/m 2 IV for 30 min\nDactinomycin | 0.5 mg IV push\nMethotrexate | 300 mg/m 2 IV for 12 h\n2 | Etoposide | 100 mg/m 2 IV for 30 min\nDactinomycin | 0.5 mg IV push\nLeucovorin | 15 mg or PO every 12 h × 4 doses, beginning 24 h after the start of methotrexate\n8 | Cyclophosphamide | 600 mg/m 2 IV infusion\nVincristine | 0.8–1.0 mg/m 2 IV push (maximum dose 2 mg)\nCycles are repeated every 2 weeks (on days 15, 16, and 22) until any metastases present at diagnosis disappear and serum beta-human chorionic gonadotropin (beta-hCG) has normalized, then the treatment is usually continued for an additional three to four cycles.\nResults of a large, consecutive case series of 272 patients with up to 16 years of follow-up showed a complete remission rate of 78% using this regimen, and these results are consistent with other case series in the literature that employed EMA/CO.[ 3 ] More than two-thirds of the women who did not have a complete response or subsequently had disease recurrence could be salvaged with cisplatin-containing regimens (with or without resection of metastases), yielding a long-term cure rate of 86.2% (95% confidence interval, 81.9%–90.5%).[ 3 ][ Level of evidence C1 ] Moreover, routinely when the addition of cisplatin plus etoposide was added to EMA/CO, a 9% improvement was reported in the survival results of these high-risk patients.[ 6 ] Among the women who had an intact uterus, about 50% retained their fertility. Patients with documented brain metastases received higher doses of systemic methotrexate as part of the EMA component of EMA/CO (1 g/m 2 intravenously [IV] for 24 hours, followed by leucovorin rescue, 15 mg orally every 6 hours for 12 doses starting 32 hours after methotrexate). Patients with brain metastases received an increased dose of systemic methotrexate of 1 g/m 2 for 24 hours followed by leucovorin (15 mg orally every 6 hours for 12 doses starting 32 hours after methotrexate). Patients with lung metastases received cranial prophylaxis with irradiation and intrathecal methotrexate 12.5 mg every 2 weeks with the CO (i.e., cyclophosphamide and vincristine) cycles.\nExamples of other regimens that have been used include the following:[ 1 ]\n- MAC: Methotrexate, leucovorin, dactinomycin, and cyclophosphamide.\n- Another MAC: Methotrexate, dactinomycin, and chlorambucil.\n- EMA: Etoposide, methotrexate, leucovorin, and dactinomycin (EMA/CO without the CO).\n- CHAMOCA: Methotrexate, dactinomycin, cyclophosphamide, doxorubicin, melphalan, hydroxyurea, and vincristine.\n- CHAMOMA: Methotrexate, leucovorin, hydroxyurea, dactinomycin, vincristine, melphalan, and doxorubicin.\nBrain metastases are associated with poor prognosis, particularly when liver metastases are also present.[ 7 - 9 ] However, even patients with brain metastases may achieve long-term remission in 50% to 80% of cases.[ 3 , 4 , 9 ] Patients with central nervous system (CNS) metastases receive additional therapy simultaneously with the initiation of systemic chemotherapy. Some centers use whole-brain irradiation (30 Gy in 2 Gy fractions) with or without intrathecal methotrexate.[ 7 ] However, some investigators omit the cranial radiation, relying on replacement of the standard dose of methotrexate in the EMA/CO regimen with the higher dose of 1,000 mg/m 2 IV for 24 hours on the first day, as noted above, to achieve therapeutic CNS levels.[ 9 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of High-Risk Gestational Trophoblastic Neoplasia (FIGO Score ≥7)",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of High-Risk Gestational Trophoblastic Neoplasia (FIGO Score ≥7)",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Deng L, Yan X, Zhang J, et al.: Combination chemotherapy for high-risk gestational trophoblastic tumour. Cochrane Database Syst Rev (2): CD005196, 2009. [PUBMED Abstract]\n- Curry SL, Blessing JA, DiSaia PJ, et al.: A prospective randomized comparison of methotrexate, dactinomycin, and chlorambucil versus methotrexate, dactinomycin, cyclophosphamide, doxorubicin, melphalan, hydroxyurea, and vincristine in \"poor prognosis\" metastatic gestational trophoblastic disease: a Gynecologic Oncology Group study. Obstet Gynecol 73 (3 Pt 1): 357-62, 1989. [PUBMED Abstract]\n- Bower M, Newlands ES, Holden L, et al.: EMA/CO for high-risk gestational trophoblastic tumors: results from a cohort of 272 patients. J Clin Oncol 15 (7): 2636-43, 1997. [PUBMED Abstract]\n- Escobar PF, Lurain JR, Singh DK, et al.: Treatment of high-risk gestational trophoblastic neoplasia with etoposide, methotrexate, actinomycin D, cyclophosphamide, and vincristine chemotherapy. Gynecol Oncol 91 (3): 552-7, 2003. [PUBMED Abstract]\n- Lurain JR, Singh DK, Schink JC: Management of metastatic high-risk gestational trophoblastic neoplasia: FIGO stages II-IV: risk factor score > or = 7. J Reprod Med 55 (5-6): 199-207, 2010 May-Jun. [PUBMED Abstract]\n- Alifrangis C, Agarwal R, Short D, et al.: EMA/CO for high-risk gestational trophoblastic neoplasia: good outcomes with induction low-dose etoposide-cisplatin and genetic analysis. J Clin Oncol 31 (2): 280-6, 2013. [PUBMED Abstract]\n- Small W, Lurain JR, Shetty RM, et al.: Gestational trophoblastic disease metastatic to the brain. Radiology 200 (1): 277-80, 1996. [PUBMED Abstract]\n- Crawford RA, Newlands E, Rustin GJ, et al.: Gestational trophoblastic disease with liver metastases: the Charing Cross experience. Br J Obstet Gynaecol 104 (1): 105-9, 1997. [PUBMED Abstract]\n- Newlands ES, Holden L, Seckl MJ, et al.: Management of brain metastases in patients with high-risk gestational trophoblastic tumors. J Reprod Med 47 (6): 465-71, 2002. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Placental-Site Trophoblastic Tumor",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Placental-Site Trophoblastic Tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Because placental-site trophoblastic tumors (PSTTs) are rare, reports of therapeutic results are confined to relatively small case series with accrual extending for very long time periods. Therefore, few reliable comparisons among surgical approaches or chemotherapeutic regimens can be made. Nevertheless, there are distinctions in underlying biology between PSTTs and the other gestational trophoblastic tumors—particularly resistance to chemotherapy—that justify specific treatment strategies, such as the following:\n- Tumors confined to the uterus (Fédération Internationale de Gynécologie et d’Obstétrique [FIGO] Stage I). Hysterectomy is the treatment of choice.[ 1 , 2 ] In a relatively large, retrospective, population-based, consecutive case series of 62 women with PSTT, 33 had disease confined to the uterus and were treated with hysterectomy (n = 17) or with hysterectomy plus chemotherapy (n = 16). Overall survival rates at 10 years were virtually identical between the two groups (90% and 91%, respectively). There was only one recurrence in the surgery group and two in the combination therapy group.[ 2 ][ Level of evidence C2 ] There is little evidence to guide the optimal extent of surgery (e.g., lymph node resection or oophorectomy).\n- Tumors with extrauterine spread to genital structures (FIGO stage II). Complete resection with or without adjuvant chemotherapy. Because the relapse rate is high after surgery and overall mortality in patients is high, adjuvant multiple-agent chemotherapy should be considered.[ 1 , 2 ][ Level of evidence C2 ] However, the impact of adjuvant therapy on overall mortality is uncertain.\n- Metastatic tumors (FIGO stages III and IV). Polyagent chemotherapy. A variety of regimens have been used with no direct comparisons to determine whether one is superior. Some of the regimens include the following:[ 1 , 2 ]\n- EMA/CO: Etoposide, methotrexate with leucovorin rescue, dactinomycin, cyclophosphamide, and vincristine. This appears to be the most commonly used regimen.\n- EP/EMA: Etoposide and cisplatin with etoposide, methotrexate, and dactinomycin.\n- MAE: Methotrexate with leucovorin rescue, dactinomycin, and etoposide.\nIn part because of the inherent chemoresistance of PSTTs, resection of tumors is often considered in addition to chemotherapy regimens used for high-risk gestational trophoblastic neoplasias. In retrospective series, adjuvant surgery, such as hysterectomy, excision of lung metastases, or removal of obstructing abdominal lesions, has been associated with favorable disease control. However, it is not clear which component of the favorable outcomes is attributable to the surgery or to patient selection factors.[ 2 , 3 ][ Level of evidence C2 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Placental-Site Trophoblastic Tumor",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Placental-Site Trophoblastic Tumor",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Lurain JR: Gestational trophoblastic tumors. Semin Surg Oncol 6 (6): 347-53, 1990. [PUBMED Abstract]\n- Schmid P, Nagai Y, Agarwal R, et al.: Prognostic markers and long-term outcome of placental-site trophoblastic tumours: a retrospective observational study. Lancet 374 (9683): 48-55, 2009. [PUBMED Abstract]\n- Feltmate CM, Genest DR, Goldstein DP, et al.: Advances in the understanding of placental site trophoblastic tumor. J Reprod Med 47 (5): 337-41, 2002. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Epithelioid Trophoblastic Tumor",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Epithelioid Trophoblastic Tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Epithelioid trophoblastic tumors (ETTs) are exceedingly rare, and there is little information to guide therapy. However, these tumors are similar in behavior and prognosis to placental-site trophoblastic tumors, so it is reasonable to manage them similarly. For more information, see the Treatment of Placental-Site Trophoblastic Tumor section. Few ETTs are malignant in nature, but they are not very responsive to systemic therapy. A variety of chemotherapy regimens have been used.[ 1 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Epithelioid Trophoblastic Tumor",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Epithelioid Trophoblastic Tumor",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Palmer JE, Macdonald M, Wells M, et al.: Epithelioid trophoblastic tumor: a review of the literature. J Reprod Med 53 (7): 465-75, 2008. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Recurrent or Chemoresistant Gestational Trophoblastic Neoplasia",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent or Chemoresistant Gestational Trophoblastic Neoplasia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Recurrent disease indicates failure of prior chemotherapy unless initial therapy was surgery alone. One study found recurrence of disease in 2.5% of patients with nonmetastatic disease, 3.7% of patients with good-prognosis metastatic disease, and 13% of patients with poor-prognosis metastatic disease.[ 1 ] Nearly all recurrences occur within 3 years of remission (85% before 18 months). A patient whose disease progresses after primary surgical therapy is generally treated with single-agent chemotherapy unless one of the poor-prognosis factors that requires combination chemotherapy supervenes. Relapse after failure of prior chemotherapy automatically places the patient in the high-risk category. These patients should be treated with aggressive chemotherapy.\nReports of combination chemotherapy come from small retrospective case series. Long-term disease-free survival, in excess of 50%, is achievable with combination drug regimens.[ 2 ][ Level of evidence C2 ] A variety of regimens have been reported that include combinations of the following:[ 3 - 7 ]\n- Cisplatin.\n- Etoposide.\n- Bleomycin.\n- Ifosfamide.\n- Paclitaxel.\n- Fluorouracil.\n- Floxuridine.\nA select group of patients with chemotherapy-resistant and clinically detectable gestational trophoblastic neoplasia may benefit from salvage surgery.[ 8 ][ Level of evidence C2 ]"
+        },
+        {
+          "section": "Fluorouracil Dosing",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent or Chemoresistant Gestational Trophoblastic Neoplasia",
+            "Fluorouracil Dosing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The DPYD gene encodes an enzyme that catabolizes pyrimidines and fluoropyrimidines, like capecitabine and fluorouracil. An estimated 1% to 2% of the population has germline pathogenic variants in DPYD , which lead to reduced DPD protein function and an accumulation of pyrimidines and fluoropyrimidines in the body.[ 9 , 10 ] Patients with the DPYD*2A variant who receive fluoropyrimidines may experience severe, life-threatening toxicities that are sometimes fatal. Many other DPYD variants have been identified, with a range of clinical effects.[ 9 - 11 ] Fluoropyrimidine avoidance or a dose reduction of 50% may be recommended based on the patient's DPYD genotype and number of functioning DPYD alleles.[ 12 - 14 ] DPYD genetic testing costs less than $200, but insurance coverage varies due to a lack of national guidelines.[ 15 ] In addition, testing may delay therapy by 2 weeks, which would not be advisable in urgent situations. This controversial issue requires further evaluation.[ 16 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent or Chemoresistant Gestational Trophoblastic Neoplasia",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent or Chemoresistant Gestational Trophoblastic Neoplasia",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "- Mutch DG, Soper JT, Babcock CJ, et al.: Recurrent gestational trophoblastic disease. Experience of the Southeastern Regional Trophoblastic Disease Center. Cancer 66 (5): 978-82, 1990. [PUBMED Abstract]\n- Newlands ES: The management of recurrent and drug-resistant gestational trophoblastic neoplasia (GTN). Best Pract Res Clin Obstet Gynaecol 17 (6): 905-23, 2003. [PUBMED Abstract]\n- Matsui H, Iitsuka Y, Suzuka K, et al.: Salvage chemotherapy for high-risk gestational trophoblastic tumor. J Reprod Med 49 (6): 438-42, 2004. [PUBMED Abstract]\n- Xiang Y, Sun Z, Wan X, et al.: EMA/EP chemotherapy for chemorefractory gestational trophoblastic tumor. J Reprod Med 49 (6): 443-6, 2004. [PUBMED Abstract]\n- Lurain JR, Nejad B: Secondary chemotherapy for high-risk gestational trophoblastic neoplasia. Gynecol Oncol 97 (2): 618-23, 2005. [PUBMED Abstract]\n- Wan X, Xiang Y, Yang X, et al.: Efficacy of the FAEV regimen in the treatment of high-risk, drug-resistant gestational trophoblastic tumor. J Reprod Med 52 (10): 941-4, 2007. [PUBMED Abstract]\n- Wang J, Short D, Sebire NJ, et al.: Salvage chemotherapy of relapsed or high-risk gestational trophoblastic neoplasia (GTN) with paclitaxel/cisplatin alternating with paclitaxel/etoposide (TP/TE). Ann Oncol 19 (9): 1578-83, 2008. [PUBMED Abstract]\n- Lehman E, Gershenson DM, Burke TW, et al.: Salvage surgery for chemorefractory gestational trophoblastic disease. J Clin Oncol 12 (12): 2737-42, 1994. [PUBMED Abstract]\n- Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021. [PUBMED Abstract]\n- Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016. [PUBMED Abstract]\n- Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021. [PUBMED Abstract]\n- Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018. [PUBMED Abstract]\n- Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018. [PUBMED Abstract]\n- Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022. [PUBMED Abstract]\n- Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022. [PUBMED Abstract]\n- Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (07/19/2024)",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (07/19/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nTreatment of Recurrent or Chemoresistant Gestational Trophoblastic Neoplasia\nAdded Fluorouracil Dosing as a new subsection.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of gestational trophoblastic disease. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 7,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Gestational Trophoblastic Disease Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/gestational-trophoblastic/hp/gtd-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389414]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\971a3c1b3f0ceb968a60.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Gestational Trophoblastic Disease",
+      "title": "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+      "summary_name": "Gestational Trophoblastic Disease Treatment",
+      "url": "https://www.cancer.gov/types/gestational-trophoblastic/patient/gtd-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "February 25, 2022",
+      "retrieved_at": "2026-08-31T07:10:15.468538+00:00",
+      "content_sha256": "3b045408a00842289e2ccacb304b2c1cb98b9721b42a6fb30c75cc1c8c6739be",
+      "section_count": 47,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Gestational trophoblastic disease (GTD) is a group of rare diseases in which abnormal trophoblast cells grow inside the uterus after conception.\n- Hydatidiform mole (HM) is the most common type of GTD.\n- Gestational trophoblastic neoplasia (GTN) is a type of gestational trophoblastic disease (GTD) that is almost always malignant.\n- Invasive moles\n- Choriocarcinomas\n- Placental-site trophoblastic tumors\n- Epithelioid trophoblastic tumors\n- Age and a previous molar pregnancy affect the risk of GTD.\n- Signs of GTD include abnormal vaginal bleeding and a uterus that is larger than normal.\n- Tests that examine the uterus are used to detect (find) and diagnose gestational trophoblastic disease.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Gestational trophoblastic disease (GTD) is a group of rare diseases in which abnormal trophoblast cells grow inside the uterus after conception.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Gestational trophoblastic disease (GTD) is a group of rare diseases in which abnormal trophoblast cells grow inside the uterus after conception."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "In gestational trophoblastic disease (GTD), a tumor develops inside the uterus from tissue that forms after conception (the joining of sperm and egg). This tissue is made of trophoblast cells and normally surrounds the fertilized egg in the uterus. Trophoblast cells help connect the fertilized egg to the wall of the uterus and form part of the placenta (the organ that passes nutrients from the mother to the fetus ).\nSometimes there is a problem with the fertilized egg and trophoblast cells. Instead of a healthy fetus developing, a tumor forms. Until there are signs or symptoms of the tumor, the pregnancy will seem like a normal pregnancy.\nMost GTD is benign (not cancer ) and does not spread, but some types become malignant (cancer) and spread to nearby tissues or distant parts of the body.\nGestational trophoblastic disease (GTD) is a general term that includes different types of disease:\n- Hydatidiform Moles (HM)\n- Complete HM.\n- Partial HM.\n- Gestational Trophoblastic Neoplasia (GTN)\n- Invasive moles .\n- Choriocarcinomas .\n- Placental-site trophoblastic tumors (PSTT; very rare).\n- Epithelioid trophoblastic tumors (ETT; even more rare)."
+        },
+        {
+          "section": "Hydatidiform mole (HM) is the most common type of GTD.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Hydatidiform mole (HM) is the most common type of GTD."
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "HMs are slow-growing tumors that look like sacs of fluid . An HM is also called a molar pregnancy. The cause of hydatidiform moles is not known.\nHMs may be complete or partial:\n- A complete HM forms when sperm fertilizes an egg that does not contain the mother’s DNA . The egg has DNA from the father and the cells that were meant to become the placenta are abnormal .\n- A partial HM forms when sperm fertilizes a normal egg and there are two sets of DNA from the father in the fertilized egg. Only part of the fetus forms and the cells that were meant to become the placenta are abnormal.\nMost hydatidiform moles are benign, but they sometimes become cancer. Having one or more of the following risk factors increases the risk that a hydatidiform mole will become cancer:\n- A pregnancy before 20 or after 35 years of age.\n- A very high level of beta human chorionic gonadotropin (beta-hCG), a hormone made by the body during pregnancy.\n- A large tumor in the uterus.\n- An ovarian cyst larger than 6 centimeters .\n- High blood pressure during pregnancy.\n- An overactive thyroid gland (extra thyroid hormone is made).\n- Severe nausea and vomiting during pregnancy.\n- Trophoblastic cells in the blood , which may block small blood vessels .\n- Serious blood clotting problems caused by the HM."
+        },
+        {
+          "section": "Gestational trophoblastic neoplasia (GTN) is a type of gestational trophoblastic disease (GTD) that is almost always malignant.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Gestational trophoblastic neoplasia (GTN) is a type of gestational trophoblastic disease (GTD) that is almost always malignant."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Gestational trophoblastic neoplasia (GTN) includes the following:"
+        },
+        {
+          "section": "Invasive moles",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Gestational trophoblastic neoplasia (GTN) is a type of gestational trophoblastic disease (GTD) that is almost always malignant.",
+            "Invasive moles"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Invasive moles are made up of trophoblast cells that grow into the muscle layer of the uterus. Invasive moles are more likely to grow and spread than a hydatidiform mole. Rarely, a complete or partial HM may become an invasive mole. Sometimes an invasive mole will disappear without treatment."
+        },
+        {
+          "section": "Choriocarcinomas",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Gestational trophoblastic neoplasia (GTN) is a type of gestational trophoblastic disease (GTD) that is almost always malignant.",
+            "Choriocarcinomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "A choriocarcinoma is a malignant tumor that forms from trophoblast cells and spreads to the muscle layer of the uterus and nearby blood vessels. It may also spread to other parts of the body, such as the brain, lungs , liver , kidney , spleen , intestines , pelvis , or vagina . A choriocarcinoma is more likely to form in women who have had any of the following:\n- Molar pregnancy , especially with a complete hydatidiform mole.\n- Normal pregnancy.\n- Tubal pregnancy (the fertilized egg implants in the fallopian tube rather than the uterus).\n- Miscarriage."
+        },
+        {
+          "section": "Placental-site trophoblastic tumors",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Gestational trophoblastic neoplasia (GTN) is a type of gestational trophoblastic disease (GTD) that is almost always malignant.",
+            "Placental-site trophoblastic tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A placental-site trophoblastic tumor (PSTT) is a rare type of gestational trophoblastic neoplasia that forms where the placenta attaches to the uterus. The tumor forms from trophoblast cells and spreads into the muscle of the uterus and into blood vessels. It may also spread to the lungs, pelvis, or lymph nodes . A PSTT grows very slowly and signs or symptoms may appear months or years after a normal pregnancy."
+        },
+        {
+          "section": "Epithelioid trophoblastic tumors",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Gestational trophoblastic neoplasia (GTN) is a type of gestational trophoblastic disease (GTD) that is almost always malignant.",
+            "Epithelioid trophoblastic tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "An epithelioid trophoblastic tumor (ETT) is a very rare type of gestational trophoblastic neoplasia that may be benign or malignant. When the tumor is malignant, it may spread to the lungs."
+        },
+        {
+          "section": "Age and a previous molar pregnancy affect the risk of GTD.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Age and a previous molar pregnancy affect the risk of GTD."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Anything that increases your risk of getting a disease is called a risk factor. Having a risk factor does not mean that you will get cancer; not having risk factors doesn't mean that you will not get cancer. Talk to your doctor if you think you may be at risk. Risk factors for GTD include the following:\n- Being pregnant when you are younger than 20 or older than 35 years of age.\n- Having a personal history of hydatidiform mole."
+        },
+        {
+          "section": "Signs of GTD include abnormal vaginal bleeding and a uterus that is larger than normal.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Signs of GTD include abnormal vaginal bleeding and a uterus that is larger than normal."
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "These and other signs and symptoms may be caused by gestational trophoblastic disease or by other conditions . Check with your doctor if you have any of the following:\n- Vaginal bleeding not related to menstruation .\n- A uterus that is larger than expected during pregnancy.\n- Pain or pressure in the pelvis.\n- Severe nausea and vomiting during pregnancy.\n- High blood pressure with headache and swelling of feet and hands early in the pregnancy.\n- Vaginal bleeding that continues for longer than normal after delivery.\n- Fatigue , shortness of breath, dizziness, and a fast or irregular heartbeat caused by anemia .\nGTD sometimes causes an overactive thyroid. Signs and symptoms of an overactive thyroid include the following:\n- Fast or irregular heartbeat.\n- Shakiness.\n- Sweating.\n- Frequent bowel movements.\n- Trouble sleeping.\n- Feeling anxious or irritable.\n- Weight loss."
+        },
+        {
+          "section": "Tests that examine the uterus are used to detect (find) and diagnose gestational trophoblastic disease.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Tests that examine the uterus are used to detect (find) and diagnose gestational trophoblastic disease."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The following tests and procedures may be used:\n- Physical exam and history : An exam of the body to check general signs of health, including checking for signs of disease, such as lumps or anything else that seems unusual. A history of the patient’s health habits and past illnesses and treatments will also be taken.\n- Pelvic exam : An exam of the vagina, cervix , uterus, fallopian tubes, ovaries , and rectum . A speculum is inserted into the vagina and the doctor or nurse looks at the vagina and cervix for signs of disease. A Pap test of the cervix is usually done. The doctor or nurse also inserts one or two lubricated , gloved fingers of one hand into the vagina and places the other hand over the lower abdomen to feel the size, shape, and position of the uterus and ovaries. The doctor or nurse also inserts a lubricated, gloved finger into the rectum to feel for lumps or abnormal areas. Enlarge Pelvic exam. A doctor or nurse inserts one or two lubricated, gloved fingers of one hand into the vagina and presses on the lower abdomen with the other hand. This is done to feel the size, shape, and position of the uterus and ovaries. The vagina, cervix, fallopian tubes, and rectum are also checked.\n- Ultrasound exam of the pelvis : A procedure in which high-energy sound waves (ultrasound) are bounced off internal tissues or organs in the pelvis and make echoes. The echoes form a picture of body tissues called a sonogram . Sometimes a transvaginal ultrasound (TVUS) will be done. For TVUS, an ultrasound transducer (probe) is inserted into the vagina to make the sonogram.\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease. Blood is also tested to check the liver, kidney, and bone marrow .\n- Serum tumor marker test : A procedure in which a sample of blood is checked to measure the amounts of certain substances made by organs, tissues, or tumor cells in the body. Certain substances are linked to specific types of cancer when found in increased levels in the body. These are called tumor markers . For GTD, the blood is checked for the level of beta human chorionic gonadotropin (beta-hCG), a hormone that is made by the body during pregnancy. Beta-hCG in the blood of a woman who is not pregnant may be a sign of GTD.\n- Urinalysis : A test to check the color of urine and its contents, such as sugar, protein , blood, bacteria , and the level of beta-hCG."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "General Information About Gestational Trophoblastic Disease",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Gestational trophoblastic disease usually can be cured . Treatment and prognosis depend on the following:\n- The type of GTD.\n- Whether the tumor has spread to the uterus, lymph nodes, or distant parts of the body.\n- The number of tumors and where they are in the body.\n- The size of the largest tumor.\n- The level of beta-hCG in the blood.\n- How soon the tumor was diagnosed after the pregnancy began.\n- Whether GTD occurred after a molar pregnancy, miscarriage, or normal pregnancy.\n- Previous treatment for gestational trophoblastic neoplasia.\nTreatment options also depend on whether the woman wishes to become pregnant in the future."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Stages of Gestational Trophoblastic Tumors and Neoplasia",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- After gestational trophoblastic neoplasia has been diagnosed, tests are done to find out if cancer has spread from where it started to other parts of the body.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- There is no staging system for hydatidiform moles.\n- The following stages are used for gestational trophoblastic neoplasia:\n- Stage I\n- Stage II\n- Stage III\n- Stage IV\n- The treatment of gestational trophoblastic neoplasia is based on the type of disease, stage, or risk group."
+        },
+        {
+          "section": "After gestational trophoblastic neoplasia has been diagnosed, tests are done to find out if cancer has spread from where it started to other parts of the body.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Stages of Gestational Trophoblastic Tumors and Neoplasia",
+            "After gestational trophoblastic neoplasia has been diagnosed, tests are done to find out if cancer has spread from where it started to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The process used to find out the extent or spread of cancer is called staging , The information gathered from the staging process helps determine the stage of disease. For gestational trophoblastic neoplasia (GTN), stage is one of the factors used to plan treatment.\nThe following tests and procedures may be done to help find out the stage of the disease:\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body onto film, making pictures of areas inside the body.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- MRI (magnetic resonance imaging) with gadolinium : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body, such as brain and spinal cord . A substance called gadolinium is injected into a vein. The gadolinium collects around the cancer cells so they show up brighter in the picture. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- Lumbar puncture : A procedure used to collect cerebrospinal fluid (CSF) from the spinal column . This is done by placing a needle between two bones in the spine and into the CSF around the spinal cord and removing a sample of the fluid. The sample of CSF is checked under a microscope for signs that the cancer has spread to the brain and spinal cord. This procedure is also called an LP or spinal tap."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Stages of Gestational Trophoblastic Tumors and Neoplasia",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Stages of Gestational Trophoblastic Tumors and Neoplasia",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of cancer as the primary tumor. For example, if choriocarcinoma spreads to the lung , the cancer cells in the lung are actually choriocarcinoma cells. The disease is metastatic choriocarcinoma, not lung cancer."
+        },
+        {
+          "section": "There is no staging system for hydatidiform moles.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Stages of Gestational Trophoblastic Tumors and Neoplasia",
+            "There is no staging system for hydatidiform moles."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Hydatidiform moles (HM) are found in the uterus only and do not spread to other parts of the body."
+        },
+        {
+          "section": "Stage I",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Stages of Gestational Trophoblastic Tumors and Neoplasia",
+            "The following stages are used for gestational trophoblastic neoplasia:",
+            "Stage I"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage I , the tumor is in the uterus only."
+        },
+        {
+          "section": "Stage II",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Stages of Gestational Trophoblastic Tumors and Neoplasia",
+            "The following stages are used for gestational trophoblastic neoplasia:",
+            "Stage II"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage II , the tumor has spread beyond the uterus to the ovary , fallopian tube , vagina , and/or the connective tissues around the uterus."
+        },
+        {
+          "section": "Stage III",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Stages of Gestational Trophoblastic Tumors and Neoplasia",
+            "The following stages are used for gestational trophoblastic neoplasia:",
+            "Stage III"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage III , the tumor has spread to the lung, with or without spread to the ovary , fallopian tube , vagina , and/or the connective tissues around the uterus ."
+        },
+        {
+          "section": "Stage IV",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Stages of Gestational Trophoblastic Tumors and Neoplasia",
+            "The following stages are used for gestational trophoblastic neoplasia:",
+            "Stage IV"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage IV , the tumor has spread to distant parts of the body other than the lungs ."
+        },
+        {
+          "section": "The treatment of gestational trophoblastic neoplasia is based on the type of disease, stage, or risk group.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Stages of Gestational Trophoblastic Tumors and Neoplasia",
+            "The treatment of gestational trophoblastic neoplasia is based on the type of disease, stage, or risk group."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Invasive moles and choriocarcinomas are treated based on risk groups . The stage of the invasive mole or choriocarcinoma is one factor used to determine risk group. Other factors include the following:\n- The age of the patient when the diagnosis is made.\n- Whether the GTN occurred after a molar pregnancy , miscarriage, or normal pregnancy .\n- How soon the tumor was diagnosed after the pregnancy began.\n- The level of beta human chorionic gonadotropin (beta-hCG) in the blood.\n- The size of the largest tumor.\n- Where the tumor has spread to and the number of tumors in the body.\n- How many chemotherapy drugs the tumor has been treated with (for recurrent or resistant tumors).\nThere are two risk groups for invasive moles and choriocarcinomas: low risk and high risk. Patients with low-risk disease usually receive less aggressive treatment than patients with high-risk disease.\nPlacental-site trophoblastic tumor (PSTT) and epithelioid trophoblastic tumor (ETT) treatments depend on the stage of disease."
+        },
+        {
+          "section": "Recurrent and Resistant Gestational Trophoblastic Neoplasia",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Recurrent and Resistant Gestational Trophoblastic Neoplasia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Recurrent gestational trophoblastic neoplasia (GTN) is cancer that has recurred (come back) after it has been treated. The cancer may come back in the uterus or in other parts of the body.\nGestational trophoblastic neoplasia that does not respond to treatment is called resistant GTN."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- There are different types of treatment for patients with gestational trophoblastic disease.\n- Three types of standard treatment are used:\n- Surgery\n- Chemotherapy\n- Radiation therapy\n- New types of treatment are being tested in clinical trials.\n- Treatment for gestational trophoblastic disease may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with gestational trophoblastic disease.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with gestational trophoblastic disease."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Different types of treatment are available for patients with gestational trophoblastic disease . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . Before starting treatment, patients may want to think about taking part in a clinical trial. A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment , the new treatment may become the standard treatment.\nClinical trials are taking place in many parts of the country. Information about ongoing clinical trials is available from the NCI website . Choosing the most appropriate cancer treatment is a decision that ideally involves the patient, family, and health care team."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Three types of standard treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The doctor may remove the cancer using one of the following operations:\n- Dilatation and curettage (D&C) with suction evacuation : A surgical procedure to remove abnormal tissue and parts of the inner lining of the uterus . The cervix is dilated and the material inside the uterus is removed with a small vacuum-like device . The walls of the uterus are then gently scraped with a curette (spoon-shaped instrument) to remove any material that may remain in the uterus. This procedure may be used for molar pregnancies. Enlarge Dilatation and curettage (D and C). A speculum is inserted into the vagina to widen it in order to look at the cervix (first panel). A dilator is used to widen the cervix (middle panel). A curette is put through the cervix into the uterus to scrape out abnormal tissue (last panel).\n- Hysterectomy : Surgery to remove the uterus, and sometimes the cervix. If the uterus and cervix are taken out through the vagina , the operation is called a vaginal hysterectomy. If the uterus and cervix are taken out through a large incision (cut) in the abdomen , the operation is called a total abdominal hysterectomy. If the uterus and cervix are taken out through a small incision (cut) in the abdomen using a laparoscope , the operation is called a total laparoscopic hysterectomy. Enlarge Hysterectomy. The uterus is surgically removed with or without other organs or tissues. In a total hysterectomy, the uterus and cervix are removed. In a total hysterectomy with salpingo-oophorectomy, (a) the uterus plus one (unilateral) ovary and fallopian tube are removed; or (b) the uterus plus both (bilateral) ovaries and fallopian tubes are removed. In a radical hysterectomy, the uterus, cervix, both ovaries, both fallopian tubes, and nearby tissue are removed. These procedures are done using a low transverse incision or a vertical incision.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, some patients may be given chemotherapy after surgery to kill any cancer cells that are left. Treatment given after the surgery, to lower the risk that the cancer will come back, is called adjuvant therapy ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Three types of standard treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). When chemotherapy is placed directly into the cerebrospinal fluid , an organ , or a body cavity such as the abdomen, the drugs mainly affect cancer cells in those areas ( regional chemotherapy ). The way the chemotherapy is given depends on the type and stage of the cancer being treated, or whether the tumor is low-risk or high-risk.\nCombination chemotherapy is treatment using more than one anticancer drug.\nSee Drugs Approved for Gestational Trophoblastic Disease for more information."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Three types of standard treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. There are two types of radiation therapy:\n- External radiation therapy uses a machine outside the body to send radiation toward the cancer.\n- Internal radiation therapy uses a radioactive substance sealed in needles, seeds , wires, or catheters that are placed directly into or near the cancer.\nThe way the radiation therapy is given depends on the type of gestational trophoblastic disease being treated. External radiation therapy is used to treat gestational trophoblastic disease."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about ongoing clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Treatment for gestational trophoblastic disease may cause side effects.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for gestational trophoblastic disease may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back).\nBlood levels of beta human chorionic gonadotropin (beta-hCG) will be checked for up to 6 months after treatment has ended. This is because a beta-hCG level that is higher than normal may mean that the tumor has not responded to treatment or it has become cancer."
+        },
+        {
+          "section": "Treatment Options for Gestational Trophoblastic Disease",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Options for Gestational Trophoblastic Disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section."
+        },
+        {
+          "section": "Hydatidiform Moles",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Options for Gestational Trophoblastic Disease",
+            "Hydatidiform Moles"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of a hydatidiform mole may include the following:\n- Surgery ( Dilatation and curettage with suction evacuation ) to remove the tumor .\nAfter surgery, beta human chorionic gonadotropin (beta-hCG) blood tests are done every week until the beta-hCG level returns to normal. Patients also have follow-up doctor visits monthly for up to 6 months. If the level of beta-hCG does not return to normal or increases, it may mean the hydatidiform mole was not completely removed and it has become cancer . Pregnancy causes beta-hCG levels to increase, so your doctor will ask you not to become pregnant until follow-up is finished.\nFor disease that remains after surgery, treatment is usually chemotherapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Low-risk Gestational Trophoblastic Neoplasia",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Options for Gestational Trophoblastic Disease",
+            "Gestational Trophoblastic Neoplasia",
+            "Low-risk Gestational Trophoblastic Neoplasia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment of low-risk gestational trophoblastic neoplasia (GTN) ( invasive mole or choriocarcinoma ) may include the following:\n- Chemotherapy with one or more anticancer drugs . Treatment is given until the beta human chorionic gonadotropin (beta-hCG) level is normal for at least 3 weeks after treatment ends.\nIf the level of beta-hCG in the blood does not return to normal or the tumor spreads to distant parts of the body, chemotherapy regimens used for high-risk metastatic GTN are given.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "High-risk Metastatic Gestational Trophoblastic Neoplasia",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Options for Gestational Trophoblastic Disease",
+            "Gestational Trophoblastic Neoplasia",
+            "High-risk Metastatic Gestational Trophoblastic Neoplasia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of high-risk metastatic gestational trophoblastic neoplasia ( invasive mole or choriocarcinoma ) may include the following:\n- Combination chemotherapy .\n- Intrathecal chemotherapy and radiation therapy to the brain (for cancer that has spread to the lung , to keep it from spreading to the brain).\n- High-dose chemotherapy or intrathecal chemotherapy and/or radiation therapy to the brain (for cancer that has spread to the brain).\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Placental-Site Gestational Trophoblastic Tumors and Epithelioid Trophoblastic Tumors",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Options for Gestational Trophoblastic Disease",
+            "Gestational Trophoblastic Neoplasia",
+            "Placental-Site Gestational Trophoblastic Tumors and Epithelioid Trophoblastic Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment of stage I placental-site gestational trophoblastic tumors and epithelioid trophoblastic tumors may include the following:\n- Surgery to remove the uterus .\nTreatment of stage II placental-site gestational trophoblastic tumors and epithelioid trophoblastic tumors may include the following:\n- Surgery to remove the tumor, which may be followed by combination chemotherapy .\nTreatment of stage III and IV placental-site gestational trophoblastic tumors and epithelioid trophoblastic tumors may include following:\n- Combination chemotherapy.\n- Surgery to remove cancer that has spread to other places, such as the lung or abdomen .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Recurrent or Resistant Gestational Trophoblastic Neoplasia",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "Treatment Options for Gestational Trophoblastic Disease",
+            "Recurrent or Resistant Gestational Trophoblastic Neoplasia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of recurrent or resistant gestational trophoblastic tumor may include the following:\n- Chemotherapy with one or more anticancer drugs for tumors previously treated with surgery .\n- Combination chemotherapy for tumors previously treated with chemotherapy.\n- Surgery for tumors that do not respond to chemotherapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Gestational Trophoblastic Disease",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "To Learn More About Gestational Trophoblastic Disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "For more information from the National Cancer Institute about gestational trophoblastic tumors and neoplasia, see the following:\n- Gestational Trophoblastic Disease Home Page\n- Drugs Approved for Gestational Trophoblastic Disease\n- Metastatic Cancer\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of gestational trophoblastic disease. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Gestational Trophoblastic Disease Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/gestational-trophoblastic/patient/gtd-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389509]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Gestational Trophoblastic Disease Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\0d5f8647e91fdd3c75a6.html"
+    }
+  ]
+}

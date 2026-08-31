@@ -1,0 +1,800 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Childhood Colorectal Cancer",
+  "generated_at": "2026-08-31T07:15:23.062870+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Childhood Colorectal Cancer",
+      "title": "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Childhood Colorectal Cancer Treatment",
+      "url": "https://www.cancer.gov/types/colorectal/hp/child-colorectal-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "August 27, 2024",
+      "retrieved_at": "2026-08-31T07:09:34.989941+00:00",
+      "content_sha256": "de153fdebf317f158b695f0f6aefd11a448f313c8ca75cacbd06442d345a427b",
+      "section_count": 31,
+      "sections": [
+        {
+          "section": "Incidence",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Incidence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Carcinoma of the large bowel is rare in children and adolescents.[ 1 ] Colorectal cancer is seen in 0.5 cases per 100,000 people younger than 20 years in the United States annually.[ 2 ] Fewer than 100 cases are diagnosed in children each year in the United States.[ 3 ] From 1973 to 2006, the Surveillance, Epidemiology, and End Results (SEER) Program database recorded 174 cases of colorectal cancer in patients younger than 19 years.[ 4 ]\nColorectal carcinoma accounts for about 5% of all malignancies in people aged 15 to 29 years.[ 2 ] An analysis of SEER data identified 5,350 adolescents and young adults between the ages of 15 and 39 years with colorectal cancer from 2010 to 2015.[ 5 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Incidence",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- da Costa Vieira RA, Tramonte MS, Lopes LF: Colorectal carcinoma in the first decade of life: a systematic review. Int J Colorectal Dis 30 (8): 1001-6, 2015. [PUBMED Abstract]\n- Surveillance Research Program, National Cancer Institute: SEER*Explorer: An interactive website for SEER cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed December 30, 2024.\n- Saab R, Furman WL: Epidemiology and management options for colorectal cancer in children. Paediatr Drugs 10 (3): 177-92, 2008. [PUBMED Abstract]\n- Ferrari A, Casanova M, Massimino M, et al.: Peculiar features and tailored management of adult cancers occurring in pediatric age. Expert Rev Anticancer Ther 10 (11): 1837-51, 2010. [PUBMED Abstract]\n- Holowatyj AN, Lewis MA, Pannier ST, et al.: Clinicopathologic and Racial/Ethnic Differences of Colorectal Cancer Among Adolescents and Young Adults. Clin Transl Gastroenterol 10 (7): e00059, 2019. [PUBMED Abstract]"
+        },
+        {
+          "section": "Inflammatory Bowel Disease Associated With Colorectal Cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Inflammatory Bowel Disease Associated With Colorectal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "A register-based nationwide cohort study was conducted in Sweden and Denmark to assess the risk of colorectal cancer related to childhood-onset Crohn disease (n = 6,937) and ulcerative colitis (n = 8,514). Patients with Crohn disease were monitored until a median age of 27 years, and patients with ulcerative colitis were monitored until age 29 years.[ 1 ]\n- During the follow-up period, 25 patients with Crohn disease (0.36%) were diagnosed with colorectal cancer, versus 43 reference individuals (0.06%).\n- During the follow-up period, 113 patients with ulcerative colitis (1.33%) were diagnosed with colorectal cancer, versus 45 reference individuals (0.05%).\n- The hazard ratio (HR) for colorectal cancer was 6.46 (95% confidence interval [CI], 3.95–10.6) in patients with Crohn disease and 32.5 (95% CI, 23.0–45.9) in patients with ulcerative colitis. The HR increased with decreasing age of diagnosis.\n- The relative risk of colorectal cancer is very high in both childhood-onset Crohn disease and ulcerative colitis, and age at diagnosis is an additional risk factor.\n- These factors are potentially important when implementing a colorectal cancer surveillance program for patients with inflammatory bowel disease."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Inflammatory Bowel Disease Associated With Colorectal Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Everhov ÅH, Ludvigsson JF, Järås J, et al.: Colorectal Cancer in Childhood-onset Inflammatory Bowel Disease: A Scandinavian Register-based Cohort Study, 1969-2017. J Pediatr Gastroenterol Nutr 75 (4): 480-484, 2022. [PUBMED Abstract]"
+        },
+        {
+          "section": "Genetic Syndromes Associated With Colorectal Cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Genetic Syndromes Associated With Colorectal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "About 20% to 30% of adult patients with colorectal cancer have a significant history of familial cancer; of these, about 5% have a well-defined genetic syndrome.[ 1 ] Hereditary colorectal cancer has two well-described forms:[ 2 , 3 ]\n- Polyposis (including familial adenomatous polyposis [FAP] and attenuated FAP, which are caused by germline pathogenic variants in the APC gene, and MUTYH -associated polyposis, which is caused by germline pathogenic variants in the MUTYH gene). Familial polyposis is inherited as a dominant trait, which confers a high degree of risk. Early diagnosis and surgical removal of the colon eliminates the risk of developing carcinomas of the large bowel.[ 4 , 5 ] Some colorectal carcinomas in young people, however, may be associated with a variant of the APC gene, which also is associated with an increased risk of brain tumors and hepatoblastoma.[ 6 ] FAP syndrome is caused by a gene variant on chromosome 5q, which normally suppresses proliferation of cells lining the intestine and later development of polyps.[ 7 ] A double-blind, placebo-controlled, randomized phase I trial in children aged 10 to 14 years with FAP reported that celecoxib at a dose of 16 mg/kg per day is safe for up to 3 months. At this dose, there was a significant decrease in the number of polyps detected by colonoscopy.[ 8 ][ Level of evidence B3 ] The role of celecoxib in the management of FAP in children is not clear.\n- Lynch syndrome (often referred to as hereditary nonpolyposis colorectal cancer), which is caused by germline pathogenic variants in DNA mismatch repair genes ( MLH1 , MSH2 , MSH6 , and PMS2 ) and EPCAM . Despite the increased risk of multiple malignancies in families with Lynch syndrome, the risk of malignant neoplasms during childhood in those families does not seem to be increased when compared with the risk in children from families with colorectal carcinoma that is not associated with Lynch syndrome.[ 9 ]\nOther colorectal cancer syndromes and their associated genes include oligopolyposis ( POLE , POLD1 ),[ 3 ] NTHL1 ,[ 10 ] juvenile polyposis syndrome ( BMPR1A , SMAD4 ), Cowden syndrome ( PTEN ), and Peutz-Jeghers syndrome ( STK11 ).[ 2 ] For more information about these syndromes, see Genetics of Colorectal Cancer\nAnother tumor suppressor gene on chromosome 18 is associated with progression of polyps to malignant tumors. Multiple colon carcinomas have been associated with neurofibromatosis type I and several other rare syndromes.[ 11 ]\nIn a cohort study of 201 patients with constitutional mismatch repair deficiency, 59 developed colorectal cancer at a median age of 20.1 years (range, 13.9–24.9 years). The cumulative incidence of gastrointestinal cancers by age 20 years was 42% (95% confidence interval, 30%–54%).[ 12 ]\nThe incidence of these genetic syndromes in children is not well defined, but several studies have examined it, as follows:\n- In one review, 16% of patients younger than 40 years had a predisposing factor for the development of colorectal cancer.[ 13 ]\n- A later study documented immunohistochemical evidence of mismatch repair deficiency in 31% of colorectal carcinoma samples in patients aged 30 years or younger.[ 14 ]\n- A retrospective review of patients younger than 18 years in Germany identified 31 patients with colorectal carcinoma.[ 15 ] Eleven of the 26 patients who were tested for a genetic predisposition syndrome tested positive (eight cases of Lynch syndrome, one patient with FAP, and two patients with constitutional mismatch repair deficiency). When compared with the patients without a genetic predisposition syndrome, the 11 patients with a genetic predisposition syndrome presented with more localized disease, allowing complete surgical resection and improved outcome (100% survival rate)."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Genetic Syndromes Associated With Colorectal Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "- Gatalica Z, Torlakovic E: Pathology of the hereditary colorectal carcinoma. Fam Cancer 7 (1): 15-26, 2008. [PUBMED Abstract]\n- Hampel H: Genetic testing for hereditary colorectal cancer. Surg Oncol Clin N Am 18 (4): 687-703, 2009. [PUBMED Abstract]\n- Briggs S, Tomlinson I: Germline and somatic polymerase ε and δ mutations define a new class of hypermutated colorectal and endometrial cancers. J Pathol 230 (2): 148-53, 2013. [PUBMED Abstract]\n- Erdman SH: Pediatric adenomatous polyposis syndromes: an update. Curr Gastroenterol Rep 9 (3): 237-44, 2007. [PUBMED Abstract]\n- Vitellaro M, Piozzi G, Signoroni S, et al.: Short-term and long-term outcomes after preventive surgery in adolescent patients with familial adenomatous polyposis. Pediatr Blood Cancer 67 (3): e28110, 2020. [PUBMED Abstract]\n- Turcot J, Despres JP, St Pierre F: Malignant tumors of the central nervous system associated with familial polyposis of the colon: report of two cases. Dis Colon Rectum 2: 465-8, 1959 Sep-Oct. [PUBMED Abstract]\n- Vogelstein B, Fearon ER, Hamilton SR, et al.: Genetic alterations during colorectal-tumor development. N Engl J Med 319 (9): 525-32, 1988. [PUBMED Abstract]\n- Lynch PM, Ayers GD, Hawk E, et al.: The safety and efficacy of celecoxib in children with familial adenomatous polyposis. Am J Gastroenterol 105 (6): 1437-43, 2010. [PUBMED Abstract]\n- Heath JA, Reece JC, Buchanan DD, et al.: Childhood cancers in families with and without Lynch syndrome. Fam Cancer 14 (4): 545-51, 2015. [PUBMED Abstract]\n- Broderick P, Dobbins SE, Chubb D, et al.: Validation of Recently Proposed Colorectal Cancer Susceptibility Gene Variants in an Analysis of Families and Patients-a Systematic Review. Gastroenterology 152 (1): 75-77.e4, 2017. [PUBMED Abstract]\n- Pratt CB, Jane JA: Multiple colorectal carcinomas, polyposis coli, and neurofibromatosis, followed by multiple glioblastoma multiforme. J Natl Cancer Inst 83 (12): 880-1, 1991. [PUBMED Abstract]\n- Ercan AB, Aronson M, Fernandez NR, et al.: Clinical and biological landscape of constitutional mismatch-repair deficiency syndrome: an International Replication Repair Deficiency Consortium cohort study. Lancet Oncol 25 (5): 668-682, 2024. [PUBMED Abstract]\n- O'Connell JB, Maggard MA, Livingston EH, et al.: Colorectal cancer in the young. Am J Surg 187 (3): 343-8, 2004. [PUBMED Abstract]\n- Goel A, Nagasaka T, Spiegel J, et al.: Low frequency of Lynch syndrome among young patients with non-familial colorectal cancer. Clin Gastroenterol Hepatol 8 (11): 966-71, 2010. [PUBMED Abstract]\n- Weber ML, Schneider DT, Offenmüller S, et al.: Pediatric Colorectal Carcinoma is Associated With Excellent Outcome in the Context of Cancer Predisposition Syndromes. Pediatr Blood Cancer 63 (4): 611-7, 2016. [PUBMED Abstract]"
+        },
+        {
+          "section": "Clinical Presentation",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Clinical Presentation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "Colorectal tumors can occur in any location in the large bowel. Large series and reviews suggest that ascending and descending colon tumors are each seen in approximately 30% of cases, with rectal tumors occurring in approximately 25% of cases.[ 1 - 3 ]\nRight-sided tumors (cecum to transverse colon) were diagnosed in 28.6% of adolescent and young adult (AYA) cases. The proportion of right-sided colorectal cancers differed significantly by age group at diagnosis (38.3% of AYA patients aged 15–19 years vs. 27.3% of AYA patients aged 35–39 years). The incidence of mucinous adenocarcinoma and signet ring cell carcinoma histopathological subtypes was higher in younger patients.\nTumors of the ascending colon (right colon) may cause more subtle symptoms but are often associated with the following:\n- Abdominal mass.\n- Weight loss.\n- Decreased appetite.\n- Blood in the stool.\n- Iron-deficiency anemia.\nSigns and symptoms in children with descending colon tumors include the following:\n- Abdominal pain (most common).\n- Rectal bleeding.\n- Change in bowel habits.\n- Weight loss.\n- Nausea and vomiting.\nThe median duration of symptoms before diagnosis was about 3 months in one series.[ 4 , 5 ]\nChanges in bowel habits may be associated with tumors of the rectum or lower colon.\nAny tumor that causes complete obstruction of the large bowel can cause bowel perforation and spread of the tumor cells within the abdominal cavity."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Clinical Presentation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Kaplan MA, Isikdogan A, Gumus M, et al.: Childhood, adolescents, and young adults (≤25 y) colorectal cancer: study of Anatolian Society of Medical Oncology. J Pediatr Hematol Oncol 35 (2): 83-9, 2013. [PUBMED Abstract]\n- Kim G, Baik SH, Lee KY, et al.: Colon carcinoma in childhood: review of the literature with four case reports. Int J Colorectal Dis 28 (2): 157-64, 2013. [PUBMED Abstract]\n- Sultan I, Rodriguez-Galindo C, El-Taani H, et al.: Distinct features of colorectal cancer in children and adolescents: a population-based study of 159 cases. Cancer 116 (3): 758-65, 2010. [PUBMED Abstract]\n- Hill DA, Furman WL, Billups CA, et al.: Colorectal carcinoma in childhood and adolescence: a clinicopathologic review. J Clin Oncol 25 (36): 5808-14, 2007. [PUBMED Abstract]\n- Saab R, Furman WL: Epidemiology and management options for colorectal cancer in children. Paediatr Drugs 10 (3): 177-92, 2008. [PUBMED Abstract]"
+        },
+        {
+          "section": "Diagnostic Evaluation",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Diagnostic Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Diagnostic studies include the following:[ 1 , 2 ]\n- Examination of the stool for blood.\n- Studies of liver and kidney function.\n- Measurement of carcinoembryonic antigen (CEA).\n- Various medical imaging studies, including direct examination using colonoscopy to detect polyps in the large bowel. Other conventional radiographic studies include barium enema or video-capsule endoscopy followed by computed tomography of the chest and bone scans.[ 3 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Diagnostic Evaluation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Pratt CB, Rao BN, Merchant TE, et al.: Treatment of colorectal carcinoma in adolescents and young adults with surgery, 5-fluorouracil/leucovorin/interferon-alpha 2a and radiation therapy. Med Pediatr Oncol 32 (6): 459-60, 1999. [PUBMED Abstract]\n- Kauffman WM, Jenkins JJ, Helton K, et al.: Imaging features of ovarian metastases from colonic adenocarcinoma in adolescents. Pediatr Radiol 25 (4): 286-8, 1995. [PUBMED Abstract]\n- Postgate A, Hyer W, Phillips R, et al.: Feasibility of video capsule endoscopy in the management of children with Peutz-Jeghers syndrome: a blinded comparison with barium enterography for the detection of small bowel polyps. J Pediatr Gastroenterol Nutr 49 (4): 417-23, 2009. [PUBMED Abstract]"
+        },
+        {
+          "section": "Histology and Genomic Alterations",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Histology and Genomic Alterations"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "There is a higher incidence of mucinous adenocarcinoma in pediatric and adolescent patients (40%–50%), with many lesions of the signet ring cell type.[ 1 - 5 ] In comparison, only about 15% of adult lesions involve this histology. Tumors with mucinous histology arise from the surface of the bowel, usually at the site of an adenomatous polyp.[ 5 ] The tumor may extend into the muscle layer surrounding the bowel, or the tumor may perforate the bowel entirely and seed through the spaces around the bowel, including intra-abdominal fat, lymph nodes, liver, ovaries, and the surface of other loops of bowel. A high incidence of metastasis involving the pelvis, ovaries, or both may be present in girls.[ 6 ]\nThe tumors of younger patients with the mucinous histological variant may not respond well to chemotherapy. In the adolescent and young adult (AYA) population with this histology, there is a higher incidence of signet ring cells, microsatellite instability, and variants in the mismatch repair genes.[ 5 , 7 , 8 ]\nColorectal cancers in younger patients with noninherited sporadic tumors often lack KRAS variants and other cytogenetic anomalies seen in older patients.[ 9 ] A genomic study used exome and RNA sequencing to identify variant differences in colorectal carcinomas of adults (n = 30), AYA patients (n = 30), and children (n = 2). Five of the identified genes ( MYCBP2 , BRCA2 , PHLPP1 , TOPORS , and ATR ) were more frequently altered in AYA patients. These genes contained a damaging variant and were identified through whole-exome sequencing and RNA sequencing. In addition, higher variant rates in DNA mismatch and DNA repair pathways, such as MSH2 , BRCA2 , and RAD9B , were more prevalent in AYA samples, but the results were not validated by RNA sequencing.[ 10 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Histology and Genomic Alterations",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Saab R, Furman WL: Epidemiology and management options for colorectal cancer in children. Paediatr Drugs 10 (3): 177-92, 2008. [PUBMED Abstract]\n- Hill DA, Furman WL, Billups CA, et al.: Colorectal carcinoma in childhood and adolescence: a clinicopathologic review. J Clin Oncol 25 (36): 5808-14, 2007. [PUBMED Abstract]\n- Ferrari A, Rognone A, Casanova M, et al.: Colorectal carcinoma in children and adolescents: the experience of the Istituto Nazionale Tumori of Milan, Italy. Pediatr Blood Cancer 50 (3): 588-93, 2008. [PUBMED Abstract]\n- da Costa Vieira RA, Tramonte MS, Lopes LF: Colorectal carcinoma in the first decade of life: a systematic review. Int J Colorectal Dis 30 (8): 1001-6, 2015. [PUBMED Abstract]\n- Poles GC, Clark DE, Mayo SW, et al.: Colorectal carcinoma in pediatric patients: A comparison with adult tumors, treatment and outcomes from the National Cancer Database. J Pediatr Surg 51 (7): 1061-6, 2016. [PUBMED Abstract]\n- Kauffman WM, Jenkins JJ, Helton K, et al.: Imaging features of ovarian metastases from colonic adenocarcinoma in adolescents. Pediatr Radiol 25 (4): 286-8, 1995. [PUBMED Abstract]\n- Tricoli JV, Seibel NL, Blair DG, et al.: Unique characteristics of adolescent and young adult acute lymphoblastic leukemia, breast cancer, and colon cancer. J Natl Cancer Inst 103 (8): 628-35, 2011. [PUBMED Abstract]\n- Khan SA, Morris M, Idrees K, et al.: Colorectal cancer in the very young: a comparative study of tumor markers, pathology and survival in early onset and adult onset patients. J Pediatr Surg 51 (11): 1812-1817, 2016. [PUBMED Abstract]\n- Bleyer A, Barr R, Hayes-Lattin B, et al.: The distinctive biology of cancer in adolescents and young adults. Nat Rev Cancer 8 (4): 288-98, 2008. [PUBMED Abstract]\n- Tricoli JV, Boardman LA, Patidar R, et al.: A mutational comparison of adult and adolescent and young adult (AYA) colon cancer. Cancer 124 (5): 1070-1082, 2018. [PUBMED Abstract]"
+        },
+        {
+          "section": "Prognosis and Prognostic Factors",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Prognosis and Prognostic Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 23,
+          "text": "Several retrospective studies of adolescent and young adult (AYA) patients with colorectal cancer are summarized.\n- An analysis from the National Cancer Database, which tracks outcomes of patients with malignancies across 1,500 Commission on Cancer–accredited facilities, identified 531,462 patients with colon cancer between 2004 and 2016. There were 947 patients aged 25 years or younger.[ 1 ]\n- Compared with patients older than 25 years, younger patients had more advanced disease (stage III: 44.4% vs. 33.4%; stage IV: 27.5% vs.15.3%) and higher rates of total colectomy (8.9% vs. 2.7%) and proctocolectomy (5.0% vs. 0.0%).\n- Stage-for-stage, the 5-year survival rates were higher in patients aged 25 years or younger than in those older than 25 years.\n- This study had several limitations. The data presented in this study are registry based, and not all data points were collected for all patients. In addition, only 30% of hospitals in the United States are accredited by the Commission on Cancer.\n- A retrospective analysis of patients examined at three tertiary referral hospitals in China between September 2000 and July 2019 identified 70 patients younger than 20 years with colorectal carcinoma.[ 2 ]\n- The most common primary tumor location was the left hemicolon (35.7%).\n- The prominent pathological types were mucinous adenocarcinoma (22.9%) and signet ring cell carcinoma (22.9%).\n- Nearly one-half (47.1%) of the patients presented with distant metastasis at diagnosis.\n- Of the patients who received additional tumor testing, 23.8% (5 of 21) had deficient mismatch repair protein expression and 71.4% (5 of 7) had microsatellite instability-high disease.\n- Another study from the National Cancer Database described the features and outcomes of 918 pediatric patients (aged <21 years), 157,577 young adult patients (aged 22–50 years), and 1,303,655 older adult patients (aged >50 years) with colorectal cancer.[ 3 ]\n- Signet ring, mucinous, and poorly differentiated histology were more commonly seen in pediatric patients.\n- Children and older patients had poorer 5-year overall survival rates than early-onset adults when adjusted for other covariates, such as stage and pathology.\n- Age younger than 21 years was a significant predictor of mortality caused by colon and rectal cancer.\n- As with other publications from this group, the data presented in this study are registry based, which underestimates several variables, including outpatient therapy and predisposing factors and symptoms. This limitation may explain why a specific course for inferior outcomes in patients younger than 21 years could not be identified.\n- A single-institution retrospective review compared 94 pediatric and young adult patients (aged <25 years) with 765 older patients.[ 4 ]\n- This study reported a worse prognosis (stage-for-stage) and a higher rate of peritoneal metastasis for the younger patients.\n- Nearly 30% of the pediatric patients in the cohort were known to have a predisposing cancer susceptibility diagnosis, most commonly Lynch syndrome, familial adenomatous polyposis, or Li-Fraumeni syndrome.\n- A pediatric oncology group in the Netherlands performed a retrospective analysis of adolescents and adults aged 25 years or younger with colorectal cancer. They analyzed clinical data and molecular and genetic features of colorectal tumor tissues from 139 AYA patients (age, ≤25 years; median age, 23 years; 58% male), collected between 2000 and 2017.[ 5 ]\n- Mucinous and/or signet ring cell components were observed in 33% of tumor samples.\n- A genetic tumor-risk syndrome was confirmed in 39% of the patients.\n- Factors associated with shorter survival time included younger age at diagnosis, signet ring cell carcinoma histology, the absence of a genetic tumor-risk syndrome, and advanced stage of disease at diagnosis.\nSurvival is consistent with the advanced stage of disease observed in most children with colorectal cancer, with an overall mortality rate of approximately 70%. For patients with a complete surgical resection or for those with low-stage/localized disease, survival is significantly prolonged, with the potential for cure.[ 6 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Prognosis and Prognostic Factors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Akinkuotu AC, Maduekwe UN, Hayes-Jordan A: Surgical outcomes and survival rates of colon cancer in children and young adults. Am J Surg 221 (4): 718-724, 2021. [PUBMED Abstract]\n- Zhou C, Xiao W, Wang X, et al.: Colorectal cancer under 20 years old: a retrospective analysis from three tertiary hospitals. J Cancer Res Clin Oncol 147 (4): 1145-1155, 2021. [PUBMED Abstract]\n- Poles GC, Clark DE, Mayo SW, et al.: Colorectal carcinoma in pediatric patients: A comparison with adult tumors, treatment and outcomes from the National Cancer Database. J Pediatr Surg 51 (7): 1061-6, 2016. [PUBMED Abstract]\n- Hayes-Jordan AA, Sandler G, Malakorn S, et al.: Colon Cancer in Patients Under 25 Years Old: A Different Disease? J Am Coll Surg 230 (4): 648-656, 2020. [PUBMED Abstract]\n- de Voer RM, Diets IJ, van der Post RS, et al.: Clinical, Pathology, Genetic, and Molecular Features of Colorectal Tumors in Adolescents and Adults 25 Years or Younger. Clin Gastroenterol Hepatol 19 (8): 1642-1651.e8, 2021. [PUBMED Abstract]\n- Kaplan MA, Isikdogan A, Gumus M, et al.: Childhood, adolescents, and young adults (≤25 y) colorectal cancer: study of Anatolian Society of Medical Oncology. J Pediatr Hematol Oncol 35 (2): 83-9, 2013. [PUBMED Abstract]"
+        },
+        {
+          "section": "Staging",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Staging"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Most reports suggest that children present with more advanced disease than adults, with 80% to 90% of pediatric patients presenting with Dukes stage C/D or TNM stage III/IV disease.[ 1 - 16 ] For more information, see the Stage Information for Colon Cancer section in Colon Cancer Treatment."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Staging",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "- Hill DA, Furman WL, Billups CA, et al.: Colorectal carcinoma in childhood and adolescence: a clinicopathologic review. J Clin Oncol 25 (36): 5808-14, 2007. [PUBMED Abstract]\n- Saab R, Furman WL: Epidemiology and management options for colorectal cancer in children. Paediatr Drugs 10 (3): 177-92, 2008. [PUBMED Abstract]\n- Chantada GL, Perelli VB, Lombardi MG, et al.: Colorectal carcinoma in children, adolescents, and young adults. J Pediatr Hematol Oncol 27 (1): 39-41, 2005. [PUBMED Abstract]\n- Durno C, Aronson M, Bapat B, et al.: Family history and molecular features of children, adolescents, and young adults with colorectal carcinoma. Gut 54 (8): 1146-50, 2005. [PUBMED Abstract]\n- Ferrari A, Rognone A, Casanova M, et al.: Colorectal carcinoma in children and adolescents: the experience of the Istituto Nazionale Tumori of Milan, Italy. Pediatr Blood Cancer 50 (3): 588-93, 2008. [PUBMED Abstract]\n- Karnak I, Ciftci AO, Senocak ME, et al.: Colorectal carcinoma in children. J Pediatr Surg 34 (10): 1499-504, 1999. [PUBMED Abstract]\n- LaQuaglia MP, Heller G, Filippa DA, et al.: Prognostic factors and outcome in patients 21 years and under with colorectal carcinoma. J Pediatr Surg 27 (8): 1085-9; discussion 1089-90, 1992. [PUBMED Abstract]\n- Radhakrishnan CN, Bruce J: Colorectal cancers in children without any predisposing factors. A report of eight cases and review of the literature. Eur J Pediatr Surg 13 (1): 66-8, 2003. [PUBMED Abstract]\n- Sharma AK, Gupta CR: Colorectal cancer in children: case report and review of literature. Trop Gastroenterol 22 (1): 36-9, 2001 Jan-Mar. [PUBMED Abstract]\n- Taguchi T, Suita S, Hirata Y, et al.: Carcinoma of the colon in children: a case report and review of 41 Japanese cases. J Pediatr Gastroenterol Nutr 12 (3): 394-9, 1991. [PUBMED Abstract]\n- Pratt CB, Rao BN, Merchant TE, et al.: Treatment of colorectal carcinoma in adolescents and young adults with surgery, 5-fluorouracil/leucovorin/interferon-alpha 2a and radiation therapy. Med Pediatr Oncol 32 (6): 459-60, 1999. [PUBMED Abstract]\n- Sultan I, Rodriguez-Galindo C, El-Taani H, et al.: Distinct features of colorectal cancer in children and adolescents: a population-based study of 159 cases. Cancer 116 (3): 758-65, 2010. [PUBMED Abstract]\n- Kaplan MA, Isikdogan A, Gumus M, et al.: Childhood, adolescents, and young adults (≤25 y) colorectal cancer: study of Anatolian Society of Medical Oncology. J Pediatr Hematol Oncol 35 (2): 83-9, 2013. [PUBMED Abstract]\n- Kim G, Baik SH, Lee KY, et al.: Colon carcinoma in childhood: review of the literature with four case reports. Int J Colorectal Dis 28 (2): 157-64, 2013. [PUBMED Abstract]\n- Poles GC, Clark DE, Mayo SW, et al.: Colorectal carcinoma in pediatric patients: A comparison with adult tumors, treatment and outcomes from the National Cancer Database. J Pediatr Surg 51 (7): 1061-6, 2016. [PUBMED Abstract]\n- Akinkuotu AC, Maduekwe UN, Hayes-Jordan A: Surgical outcomes and survival rates of colon cancer in children and young adults. Am J Surg 221 (4): 718-724, 2021. [PUBMED Abstract]"
+        },
+        {
+          "section": "Special Considerations for the Treatment of Children With Cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "Cancer in children and adolescents is rare, although the overall incidence has slowly increased since 1975.[ 1 ] Children and adolescents with cancer should be referred to medical centers that have a multidisciplinary team of cancer specialists with experience treating the cancers that occur during childhood and adolescence. This multidisciplinary team approach incorporates the skills of the following pediatric specialists and others to ensure that children receive treatment, supportive care, and rehabilitation to achieve optimal survival and quality of life:\n- Primary care physicians.\n- Pediatric surgeons.\n- Pathologists.\n- Pediatric radiation oncologists.\n- Pediatric medical oncologists and hematologists.\n- Ophthalmologists.\n- Rehabilitation specialists.\n- Pediatric oncology nurses.\n- Social workers.\n- Child-life professionals.\n- Psychologists.\n- Nutritionists.\nFor specific information about supportive care for children and adolescents with cancer, see the summaries on Supportive and Palliative Care .\nThe American Academy of Pediatrics has outlined guidelines for pediatric cancer centers and their role in the treatment of children and adolescents with cancer.[ 2 ] At these centers, clinical trials are available for most types of cancer that occur in children and adolescents, and the opportunity to participate is offered to most patients and their families. Clinical trials for children and adolescents diagnosed with cancer are generally designed to compare potentially better therapy with current standard therapy. Other types of clinical trials test novel therapies when there is no standard therapy for a cancer diagnosis. Most of the progress in identifying curative therapies for childhood cancers has been achieved through clinical trials. Information about ongoing clinical trials is available from the NCI website .\nDramatic improvements in survival have been achieved for children and adolescents with cancer. Between 1975 and 2020, childhood cancer mortality decreased by more than 50%.[ 3 - 5 ] Childhood and adolescent cancer survivors require close monitoring because side effects of cancer therapy may persist or develop months or years after treatment. For information about the incidence, type, and monitoring of late effects in childhood and adolescent cancer survivors, see Late Effects of Treatment for Childhood Cancer .\nChildhood cancer is a rare disease, with about 15,000 cases diagnosed annually in the United States in individuals younger than 20 years.[ 6 ] The U.S. Rare Diseases Act of 2002 defines a rare disease as one that affects populations smaller than 200,000 people in the United States. Therefore, all pediatric cancers are considered rare.\nThe designation of a rare tumor is not uniform among pediatric and adult groups. In adults, rare cancers are defined as those with an annual incidence of fewer than six cases per 100,000 people. They account for up to 24% of all cancers diagnosed in the European Union and about 20% of all cancers diagnosed in the United States.[ 7 , 8 ] In children and adolescents, the designation of a rare tumor is not uniform among international groups, as follows:\n- A consensus effort between the European Union Joint Action on Rare Cancers and the European Cooperative Study Group for Rare Pediatric Cancers estimated that 11% of all cancers in patients younger than 20 years could be categorized as very rare. This consensus group defined very rare cancers as those with annual incidences of fewer than two cases per 1 million people. However, three additional histologies (thyroid carcinoma, melanoma, and testicular cancer) with incidences of more than two cases per 1 million people were also included in the very rare group due to a lack of knowledge and expertise in the management of these tumors.[ 9 ]\n- The Children's Oncology Group defines rare pediatric cancers as those listed in the International Classification of Childhood Cancer subgroup XI, which includes thyroid cancers, melanomas and nonmelanoma skin cancers, and multiple types of carcinomas (e.g., adrenocortical carcinomas, nasopharyngeal carcinomas, and most adult-type carcinomas such as breast cancers and colorectal cancers).[ 10 ] These diagnoses account for about 5% of the cancers diagnosed in children aged 0 to 14 years and about 27% of the cancers diagnosed in adolescents aged 15 to 19 years.[ 4 ] Most cancers in subgroup XI are either melanomas or thyroid cancers, with other cancer types accounting for only 2% of the cancers diagnosed in children aged 0 to 14 years and 9.3% of the cancers diagnosed in adolescents aged 15 to 19 years.\nThese rare cancers are extremely challenging to study because of the relatively few patients with any individual diagnosis, the predominance of rare cancers in the adolescent population, and the small number of clinical trials for adolescents with rare cancers.\nInformation about these tumors may also be found in sources relevant to adults with cancer, such as Colon Cancer Treatment and Rectal Cancer Treatment ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Smith MA, Seibel NL, Altekruse SF, et al.: Outcomes for children and adolescents with cancer: challenges for the twenty-first century. J Clin Oncol 28 (15): 2625-34, 2010. [PUBMED Abstract]\n- American Academy of Pediatrics: Standards for pediatric cancer centers. Pediatrics 134 (2): 410-4, 2014. Also available online . Last accessed February 25, 2025.\n- Smith MA, Altekruse SF, Adamson PC, et al.: Declining childhood and adolescent cancer mortality. Cancer 120 (16): 2497-506, 2014. [PUBMED Abstract]\n- National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed February 25, 2025.\n- Surveillance Research Program, National Cancer Institute: SEER*Explorer: An interactive website for SEER cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed December 30, 2024.\n- Ward E, DeSantis C, Robbins A, et al.: Childhood and adolescent cancer statistics, 2014. CA Cancer J Clin 64 (2): 83-103, 2014 Mar-Apr. [PUBMED Abstract]\n- Gatta G, Capocaccia R, Botta L, et al.: Burden and centralised treatment in Europe of rare tumours: results of RARECAREnet-a population-based study. Lancet Oncol 18 (8): 1022-1039, 2017. [PUBMED Abstract]\n- DeSantis CE, Kramer JL, Jemal A: The burden of rare cancers in the United States. CA Cancer J Clin 67 (4): 261-272, 2017. [PUBMED Abstract]\n- Ferrari A, Brecht IB, Gatta G, et al.: Defining and listing very rare cancers of paediatric age: consensus of the Joint Action on Rare Cancers in cooperation with the European Cooperative Study Group for Pediatric Rare Tumors. Eur J Cancer 110: 120-126, 2019. [PUBMED Abstract]\n- Pappo AS, Krailo M, Chen Z, et al.: Infrequent tumor initiative of the Children's Oncology Group: initial lessons learned and their impact on future plans. J Clin Oncol 28 (33): 5011-6, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Childhood Colorectal Cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Colorectal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Most pediatric patients with colorectal cancer present with evidence of metastatic disease,[ 1 ] either as gross tumor or as microscopic deposits in lymph nodes, on the surface of the bowel, or on intra-abdominal organs.[ 2 , 3 ]\nTreatment options for childhood colorectal cancer include the following:\n- Surgery .\n- Radiation therapy and chemotherapy .\n- Other agents ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Colorectal Cancer",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Complete surgical excision is the most important prognostic factor and the primary goal of surgery, but it is often impossible. Removal of large portions of tumor provides little benefit for those with extensive metastatic disease.[ 4 ] Most patients with microscopic metastatic disease generally develop gross metastatic disease. Few individuals with metastatic disease at diagnosis become long-term survivors."
+        },
+        {
+          "section": "Radiation Therapy and Chemotherapy",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Colorectal Cancer",
+            "Radiation Therapy and Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Current therapy includes the use of radiation for rectal and lower colon tumors, in conjunction with chemotherapy using fluorouracil (5-FU) with leucovorin.[ 5 ] Other agents, including irinotecan, may be of value.[ 1 ][ Level of evidence C1 ]\nA review of nine clinical trials involving 138 patients younger than 40 years demonstrated that the use of combination chemotherapy improved progression-free survival and overall survival (OS) in these patients. Furthermore, OS and response rates to chemotherapy were similar to those observed in older patients.[ 6 ][ Level of evidence B4 ]\nNo significant benefit has been determined for interferon-alfa given in conjunction with 5-FU/leucovorin.[ 7 ]"
+        },
+        {
+          "section": "Other Agents",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Colorectal Cancer",
+            "Other Agents"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "No prospective pediatric clinical trials have been conducted using checkpoint inhibitors. However, the U.S. Food and Drug Administration has granted accelerated approval to nivolumab for patients aged 12 years and older with microsatellite instability-high (MSI-H) or mismatch repair deficient metastatic colorectal cancer that has progressed following treatment with combination fluoropyrimidine, oxaliplatin, and irinotecan. This approval was based on extrapolation of the results of the CheckMate 142 trial. The trial showed an objective response rate of 31% and a disease control rate of 69% in patients with MSI-H or mismatch repair deficient colorectal cancers that had progressed after a regimen of fluoropyrimidine, oxaliplatin, and irinotecan.[ 8 ]\nPembrolizumab has also been approved for adult and pediatric patients with unresectable or metastatic MSI-H or mismatch repair deficient cancer, including colorectal cancer that has progressed after fluoropyrimidine, oxaliplatin, and irinotecan therapy. This approval was based on the KEYNOTE-164 trial, which demonstrated an objective response rate of 33% in patients with MSI-H or mismatch repair deficient metastatic colorectal cancer.[ 9 ] The approval was also based on the results of the KEYNOTE-117 trial, which included 307 treatment-naive patients with MSI-H or mismatch repair deficient colorectal cancer who were randomly assigned to receive pembrolizumab or a 5-FU–containing regimen. The trial showed that pembrolizumab was superior to chemotherapy, with respect to progression-free survival (median, 16.5 vs. 8.2 months; hazard ratio, 0.60; 95% confidence interval, 0.45–0.80; P = .0002).[ 10 ]\nOther active agents used in adults include oxaliplatin, bevacizumab, panitumumab, cetuximab, aflibercept, and regorafenib.[ 11 - 14 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Colorectal Cancer",
+            "Other Agents",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "- Hill DA, Furman WL, Billups CA, et al.: Colorectal carcinoma in childhood and adolescence: a clinicopathologic review. J Clin Oncol 25 (36): 5808-14, 2007. [PUBMED Abstract]\n- Ferrari A, Rognone A, Casanova M, et al.: Colorectal carcinoma in children and adolescents: the experience of the Istituto Nazionale Tumori of Milan, Italy. Pediatr Blood Cancer 50 (3): 588-93, 2008. [PUBMED Abstract]\n- Chantada GL, Perelli VB, Lombardi MG, et al.: Colorectal carcinoma in children, adolescents, and young adults. J Pediatr Hematol Oncol 27 (1): 39-41, 2005. [PUBMED Abstract]\n- Saab R, Furman WL: Epidemiology and management options for colorectal cancer in children. Paediatr Drugs 10 (3): 177-92, 2008. [PUBMED Abstract]\n- Madajewicz S, Petrelli N, Rustum YM, et al.: Phase I-II trial of high-dose calcium leucovorin and 5-fluorouracil in advanced colorectal cancer. Cancer Res 44 (10): 4667-9, 1984. [PUBMED Abstract]\n- Blanke CD, Bot BM, Thomas DM, et al.: Impact of young age on treatment efficacy and safety in advanced colorectal cancer: a pooled analysis of patients from nine first-line phase III chemotherapy trials. J Clin Oncol 29 (20): 2781-6, 2011. [PUBMED Abstract]\n- Wolmark N, Bryant J, Smith R, et al.: Adjuvant 5-fluorouracil and leucovorin with or without interferon alfa-2a in colon carcinoma: National Surgical Adjuvant Breast and Bowel Project protocol C-05. J Natl Cancer Inst 90 (23): 1810-6, 1998. [PUBMED Abstract]\n- Overman MJ, McDermott R, Leach JL, et al.: Nivolumab in patients with metastatic DNA mismatch repair-deficient or microsatellite instability-high colorectal cancer (CheckMate 142): an open-label, multicentre, phase 2 study. Lancet Oncol 18 (9): 1182-1191, 2017. [PUBMED Abstract]\n- Le DT, Kim TW, Van Cutsem E, et al.: Phase II Open-Label Study of Pembrolizumab in Treatment-Refractory, Microsatellite Instability-High/Mismatch Repair-Deficient Metastatic Colorectal Cancer: KEYNOTE-164. J Clin Oncol 38 (1): 11-19, 2020. [PUBMED Abstract]\n- André T, Shiu KK, Kim TW, et al.: Pembrolizumab in Microsatellite-Instability-High Advanced Colorectal Cancer. N Engl J Med 383 (23): 2207-2218, 2020. [PUBMED Abstract]\n- Saltz LB, Clarke S, Díaz-Rubio E, et al.: Bevacizumab in combination with oxaliplatin-based chemotherapy as first-line therapy in metastatic colorectal cancer: a randomized phase III study. J Clin Oncol 26 (12): 2013-9, 2008. [PUBMED Abstract]\n- Heinemann V, von Weikersthal LF, Decker T, et al.: FOLFIRI plus cetuximab versus FOLFIRI plus bevacizumab as first-line treatment for patients with metastatic colorectal cancer (FIRE-3): a randomised, open-label, phase 3 trial. Lancet Oncol 15 (10): 1065-75, 2014. [PUBMED Abstract]\n- Van Cutsem E, Tabernero J, Lakomy R, et al.: Addition of aflibercept to fluorouracil, leucovorin, and irinotecan improves survival in a phase III randomized trial in patients with metastatic colorectal cancer previously treated with an oxaliplatin-based regimen. J Clin Oncol 30 (28): 3499-506, 2012. [PUBMED Abstract]\n- Grothey A, Van Cutsem E, Sobrero A, et al.: Regorafenib monotherapy for previously treated metastatic colorectal cancer (CORRECT): an international, multicentre, randomised, placebo-controlled, phase 3 trial. Lancet 381 (9863): 303-12, 2013. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options Under Clinical Evaluation for Childhood Colorectal Cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Options Under Clinical Evaluation for Childhood Colorectal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about National Cancer Institute (NCI)–supported clinical trials can be found on the NCI website . For information about clinical trials sponsored by other organizations, see the ClinicalTrials.gov website ."
+        },
+        {
+          "section": "Latest Updates to This Summary (08/27/2024)",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (08/27/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nThis summary was comprehensively reviewed.\nThis summary is written and maintained by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of pediatric colorectal cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 18,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Childhood Colorectal Cancer Treatment are:\n- Denise Adams, MD (Children's Hospital Boston)\n- Karen J. Marcus, MD, FACR (Dana-Farber of Boston Children's Cancer Center and Blood Disorders Harvard Medical School)\n- William H. Meyer, MD\n- Paul A. Meyers, MD (Memorial Sloan-Kettering Cancer Center)\n- Thomas A. Olson, MD (Aflac Cancer and Blood Disorders Center of Children's Healthcare of Atlanta - Egleston Campus)\n- Alberto S. Pappo, MD (St. Jude Children's Research Hospital)\n- D. Williams Parsons, MD, PhD (Texas Children's Hospital)\n- Arthur Kim Ritchey, MD (Children's Hospital of Pittsburgh of UPMC)\n- Carlos Rodriguez-Galindo, MD (St. Jude Children's Research Hospital)\n- Stephen J. Shochat, MD (St. Jude Children's Research Hospital)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Pediatric Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Colorectal Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/colorectal/hp/child-colorectal-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 31661210]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Colorectal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\19f198997047af39bc7a.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Childhood Colorectal Cancer",
+      "title": "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+      "summary_name": "Childhood Colorectal Cancer",
+      "url": "https://www.cancer.gov/types/colorectal/patient/child-colorectal-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 14, 2025",
+      "retrieved_at": "2026-08-31T07:09:47.401237+00:00",
+      "content_sha256": "f3c448f240e33dbef68c0c2dee4f511d78e031b76034199778b3855f02700bcd",
+      "section_count": 37,
+      "sections": [
+        {
+          "section": "What is childhood colorectal cancer?",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "What is childhood colorectal cancer?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Childhood colorectal cancer is a rare cancer that forms in the tissues of the colon or the rectum . In the United States, there are fewer than 100 children diagnosed with colorectal cancer each year.\nThe colon is part of the body's digestive system . The digestive system removes and processes nutrients ( vitamins , minerals , carbohydrates , fats, proteins , and water) from foods and helps pass waste material out of the body. The digestive system is made up of the mouth, throat , esophagus , stomach , and the small and large intestines . The colon (large bowel ) is the main part of the large intestine and is about 5 feet long in an adult. Together, the rectum and anal canal make up the last part of the large intestine and are 6 to 8 inches long. The anal canal ends at the anus (the opening of the large intestine to the outside of the body). Enlarge Anatomy of the lower gastrointestinal (digestive) system showing the colon, rectum, and anus. Other organs that make up the digestive system are also shown."
+        },
+        {
+          "section": "Causes and risk factors for childhood colorectal cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Causes and risk factors for childhood colorectal cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "Childhood colorectal cancer is caused by certain changes to the way the cells in the colon or rectum function, especially how they grow and divide into new cells. Often, the exact cause of these changes is unknown. Learn more about how cancer develops at What Is Cancer?\nA risk factor is anything that increases the chance of getting a disease. Not every child with one or more of these risk factors will develop colorectal cancer. And it will develop in some children who don't have a known risk factor.\nChildhood colorectal cancer may be part of an inherited cancer syndrome . Inherited cancer syndromes are caused by changes in certain genes passed from parents to children. The following inherited cancer syndromes increase a child's risk of colorectal cancer:\n- familial adenomatous polyposis (FAP)\n- attenuated FAP\n- MUTYH-associated polyposis\n- oligopolyposis\n- change in the NTHL1 gene\n- juvenile polyposis syndrome\n- Cowden syndrome\n- Peutz-Jeghers syndrome\n- neurofibromatosis type 1 (NF1)\n- constitutional mismatch repair deficiency\nChildren with Crohn disease or ulcerative colitis may be at increased risk of colorectal cancer.\nPolyps that form in the colon of children who do not have an inherited syndrome are not linked to an increased risk of cancer.\nTalk with your child's doctor if you think your child may be at risk."
+        },
+        {
+          "section": "Genetic counseling for children with colorectal cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Genetic counseling for children with colorectal cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "It may not be clear from the family medical history whether your child's colorectal cancer is part of an inherited condition. Genetic counseling can assess the likelihood that your child's cancer is inherited and whether genetic testing is needed. Genetic counselors and other specially trained health professionals can discuss your child's diagnosis and your family's medical history to help you understand the:\n- options for testing for changes in the APC , NF1 , MUTYH , NTHL1 , and other genes\n- risk of other cancers for your child\n- risk of colorectal cancer or other cancers for your child's siblings\n- risks and benefits of learning genetic information\nGenetic counselors can also help you cope with your child's genetic testing results, including how to discuss the results with family members. They can also advise about whether other members of your family should receive genetic testing.\nLearn more about Genetic Testing for Inherited Cancer Risk ."
+        },
+        {
+          "section": "Symptoms of childhood colorectal cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Symptoms of childhood colorectal cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Symptoms of childhood colorectal cancer usually depend on where the tumor forms. It's important to check with your child's doctor if your child has:\n- pain in the abdomen\n- constipation\n- diarrhea\n- blood in the stool\n- nausea and vomiting\n- weight loss for no known reason\n- a lump in the abdomen\n- loss of appetite\n- anemia (tiredness, dizziness, fast or irregular heartbeat, shortness of breath, pale skin)\nThese symptoms may be caused by problems other than colorectal cancer. The only way to know is for your child to see a doctor."
+        },
+        {
+          "section": "Tests to diagnose childhood colorectal cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Tests to diagnose childhood colorectal cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If your child has symptoms that suggest colorectal cancer, the doctor will need to find out if these are due to cancer or another problem. The doctor will ask when the symptoms started and how often your child has been having them. They will also ask about your child's personal and family medical history and do a physical exam . Depending on these results, they may recommend other tests."
+        },
+        {
+          "section": "Diagnosis of childhood colorectal cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Tests to diagnose childhood colorectal cancer",
+            "Diagnosis of childhood colorectal cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The following tests and procedures are used to diagnose colorectal cancer. The results will also help you and your child's doctor plan treatment."
+        },
+        {
+          "section": "Colonoscopy",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Tests to diagnose childhood colorectal cancer",
+            "Diagnosis of childhood colorectal cancer",
+            "Colonoscopy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A colonoscopy looks inside the rectum and colon for polyps, abnormal areas, or cancer. A colonoscope is inserted through the rectum into the colon. A colonoscope is a thin, tube-like instrument with a light and a lens for viewing. It also has a tool to remove polyps or tissue samples, which are checked under a microscope for cancer."
+        },
+        {
+          "section": "Barium enema",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Tests to diagnose childhood colorectal cancer",
+            "Diagnosis of childhood colorectal cancer",
+            "Barium enema"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A barium enema is a series of x-rays of the lower gastrointestinal tract . A liquid that contains barium (a silver-white metallic compound ) is put into the rectum. The barium coats the lower gastrointestinal tract and x-rays are taken. This procedure is also called a lower GI series."
+        },
+        {
+          "section": "Fecal occult blood test",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Tests to diagnose childhood colorectal cancer",
+            "Diagnosis of childhood colorectal cancer",
+            "Fecal occult blood test"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A fecal occult blood test checks stool for blood that can only be seen with a microscope. Small samples of stool are placed on special cards and returned to the doctor or laboratory for testing."
+        },
+        {
+          "section": "Complete blood count (CBC)",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Tests to diagnose childhood colorectal cancer",
+            "Diagnosis of childhood colorectal cancer",
+            "Complete blood count (CBC)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "A CBC checks a sample of blood for:\n- the number of red blood cells , white blood cells , and platelets\n- the amount of hemoglobin (the protein that carries oxygen ) in the red blood cells\n- the amount of hematocrit (whole blood that is made up of red blood cells)"
+        },
+        {
+          "section": "Carcinoembryonic antigen (CEA) assay",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Tests to diagnose childhood colorectal cancer",
+            "Diagnosis of childhood colorectal cancer",
+            "Carcinoembryonic antigen (CEA) assay"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A CEA test measures the level of carcinoembryonic antigen (CEA) in the blood. CEA is released into the bloodstream from both cancer cells and normal cells. When found in higher-than-normal amounts, CEA can be a sign of colorectal cancer or other conditions."
+        },
+        {
+          "section": "Molecular testing",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Tests to diagnose childhood colorectal cancer",
+            "Diagnosis of childhood colorectal cancer",
+            "Molecular testing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "A molecular test checks for certain genes, proteins, or other molecules in a sample of tissue, blood, or bone marrow . Molecular tests also check for certain changes in a gene or chromosome that may cause or affect the chance of developing colorectal cancer. A molecular test may be used to help plan treatment, find out how well treatment is working, or make a prognosis.\nThe Molecular Characterization Initiative offers free molecular testing to children, adolescents, and young adults with certain types of newly diagnosed cancer. The program is offered through NCI's Childhood Cancer Data Initiative. To learn more, visit About the Molecular Characterization Initiative ."
+        },
+        {
+          "section": "Tests to stage childhood colorectal cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Tests to diagnose childhood colorectal cancer",
+            "Tests to stage childhood colorectal cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "If your child has been diagnosed with colorectal cancer, your child will be referred to a pediatric oncologist. This is a doctor who specializes in diagnosing and treating childhood cancers. Your child's doctor will recommend tests to find out if the cancer has spread and if so, how far. The process of learning the extent of cancer in the body is called staging. At the time of diagnosis, colorectal cancer in children has often spread to the lymph nodes , outside the colon or rectum, or to other organs in the abdomen.\nThe following imaging tests and procedures may be used to determine the stage of colorectal cancer:"
+        },
+        {
+          "section": "PET scan",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Tests to diagnose childhood colorectal cancer",
+            "Tests to stage childhood colorectal cancer",
+            "PET scan"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A PET scan (positron emission tomography scan) uses a small amount of radioactive sugar (also called radioactive glucose) that is injected into a vein. The PET scanner rotates around the body and makes a picture of where sugar is being used by the body. Cancer cells show up brighter in the pictures because they are more active and take up more sugar than normal cells do. When this procedure is done at the same time as a CT scan or an MRI, it is called a PET-CT scan or a PET-MRI."
+        },
+        {
+          "section": "Magnetic resonance imaging (MRI)",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Tests to diagnose childhood colorectal cancer",
+            "Tests to stage childhood colorectal cancer",
+            "Magnetic resonance imaging (MRI)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "MRI uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas in the body, such as the chest, abdomen, and pelvis . This procedure is also called nuclear magnetic resonance imaging (NMRI)."
+        },
+        {
+          "section": "CT scan",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Tests to diagnose childhood colorectal cancer",
+            "Tests to stage childhood colorectal cancer",
+            "CT scan"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body, such as the chest. The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more at Computed Tomography (CT) Scans and Cancer ."
+        },
+        {
+          "section": "Getting a second opinion",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Getting a second opinion"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your child's cancer diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the genetic test results, pathology report, slides, and scans. This doctor may agree with the first doctor, suggest changes to the treatment plan, or provide more information about your child's cancer.\nTo learn more about choosing a doctor and getting a second opinion, visit Finding Cancer Care . You can contact NCI's Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor or hospital that can provide a second opinion. For questions you might want to ask at your child's appointments, visit Questions to Ask Your Doctor About Cancer ."
+        },
+        {
+          "section": "Stages of childhood colorectal cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Stages of childhood colorectal cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Cancer stage describes the extent of cancer in the body, such as the size of the tumor, whether it has spread, and how far it has spread from where it first formed. It is important to know the stage of colorectal cancer to plan the best treatment.\nThere are several staging systems for cancer that describe the extent of the cancer. Colorectal cancer staging for adults and children usually uses the TNM staging system. You may see your child's cancer described by this staging system in your pathology report. Based on the TNM results, a stage (I, II, III, or IV, also written as 1, 2, 3, 4) is assigned to your child's cancer. When talking to you about your child's cancer, the doctor may describe it as one of these stages.\nFor information about how doctors stage colorectal cancer, visit the Tests to stage colorectal cancer section. Learn more about the TNM colorectal cancer staging system in the Stages of Colon Cancer section of Colon Cancer Treatment ."
+        },
+        {
+          "section": "Who treats children with colorectal cancer?",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Types of treatment for childhood cancer",
+            "Who treats children with colorectal cancer?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "A pediatric oncologist, a doctor who specializes in treating children with cancer, oversees treatment of colorectal cancer. The pediatric oncologist works with other health care providers who are experts in treating children with cancer and also specialize in certain areas of medicine. Other specialists may include:\n- pediatrician\n- pediatric gastroenterologist\n- pediatric surgeon\n- radiation oncologist\n- pathologist\n- genetic counselor\n- pediatric nurse specialist\n- social worker\n- rehabilitation specialist\n- psychologist\n- child-life specialist\nThere are different types of treatment for children and adolescents with colorectal cancer. You and your child's care team will work together to decide treatment. Many factors will be considered, such as your child's overall health and whether the cancer is newly diagnosed or has come back.\nYour child's treatment plan will include information about the cancer, the goals of treatment, treatment options, and the possible side effects. It will be helpful to talk with your child's care team before treatment begins about what to expect. For help every step of the way, visit our booklet, Children with Cancer: A Guide for Parents .\nTypes of treatment your child might have include:"
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Types of treatment for childhood cancer",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Surgery to remove the cancer is done if the cancer has not spread to other parts of the body at diagnosis. Learn more about Surgery to Treat Cancer ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Types of treatment for childhood cancer",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Radiation therapy uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. Colorectal cancer may be treated with external beam radiation therapy. This type of radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer. Radiation therapy may be given alone or with other treatments, such as chemotherapy.\nLearn more about External Beam Radiation Therapy for Cancer and Radiation Therapy Side Effects ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Types of treatment for childhood cancer",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells. Chemotherapy either kills the cancer cells or stops them from dividing. Chemotherapy may be given alone or with other types of treatment, such as radiation therapy.\nFor colorectal cancer, chemotherapy is taken by mouth or injected into a vein. When given this way, the drugs enter the bloodstream to reach cancer cells throughout the body. Chemotherapy drugs used alone or in combination to treat colorectal cancer in children include:\n- capecitabine\n- fluorouracil (5-FU)\n- irinotecan\n- oxaliplatin\nOther chemotherapy drugs not listed here may also be used.\nTo learn more about how chemotherapy works, how it is given, common side effects, and more, visit Chemotherapy to Treat Cancer ."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Types of treatment for childhood cancer",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Immunotherapy helps a child's immune system fight cancer. Immunotherapy drugs that may be used to treat colorectal cancer include:\n- nivolumab\n- pembrolizumab\nLearn more about how immunotherapy works against cancer, how it is given, possible side effects, and more at Immunotherapy to Treat Cancer ."
+        },
+        {
+          "section": "Clinical trials",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Types of treatment for childhood cancer",
+            "Clinical trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some children, joining a clinical trial may be an option. There are different types of clinical trials for childhood cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your child's age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment of childhood colorectal cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Types of treatment for childhood cancer",
+            "Treatment of childhood colorectal cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment of newly diagnosed colorectal cancer in children may include:\n- surgery to remove the tumor if it has not spread\n- radiation therapy and chemotherapy for tumors in the rectum or lower colon\n- combination chemotherapy, for advanced colorectal cancer\nChildren with certain inherited cancer syndromes may be treated with:\n- surgery to remove the colon before cancer forms\n- medicine to decrease the number of polyps in the colon\nTreatment of colorectal cancer that cannot be removed by surgery, has spread to other parts of the body, or has continued to grow and spread after treatment may include immunotherapy with nivolumab or pembrolizumab. Immunotherapy is only given if your child has certain inherited cancer syndromes or if the cancer has specific gene changes.\nIf the cancer comes back after treatment, your child's doctor will talk with you about what to expect and possible next steps. There might be treatment options that may shrink the cancer or control its growth. If there are no treatments, your child can receive care to control symptoms from cancer so they can be as comfortable as possible."
+        },
+        {
+          "section": "Prognostic factors for childhood colorectal cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Prognostic factors for childhood colorectal cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "If your child has been diagnosed with colorectal cancer, you likely have questions about how serious the cancer is and your child's chances of survival. The likely outcome or course of a disease is called prognosis.\nThe prognosis depends on:\n- whether the tumor was completely removed by surgery\n- whether the cancer has spread to other parts of the body, such as the lymph nodes, lung , liver , pelvis, ovaries , or bone\n- whether the cancer has just been diagnosed or has recurred (come back)\nChildhood colorectal cancer is challenging to treat because it has usually spread to other areas in the body at diagnosis. Your child's care team is in the best position to talk with you about your child's prognosis."
+        },
+        {
+          "section": "Side effects and late effects of treatment",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Side effects and late effects of treatment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Cancer treatments can cause side effects. Which side effects your child might have depends on the type of treatment they receive, the dose, and how their body reacts. Talk with your child's treatment team about which side effects to look for and ways to manage them.\nTo learn more about side effects that begin during treatment for cancer, visit Side Effects .\nProblems from cancer treatment that begin 6 months or later after treatment and continue for months or years are called late effects. Late effects of cancer treatment may include:\n- physical problems\n- changes in mood, feelings, thinking, learning, or memory\n- second cancers (new types of cancer) or other problems\nSome late effects may be treated or controlled. It is important to talk with your child's doctors about the possible late effects caused by some treatments. Learn more about Late Effects of Treatment for Childhood Cancer ."
+        },
+        {
+          "section": "Follow-up care",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Follow-up care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "As your child goes through treatment, they will have follow-up tests or check-ups. Some of the tests that were done to diagnose the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your child's condition has changed or if the cancer has recurred (come back).\nTo learn more about follow-up tests, visit Tests to diagnose childhood colorectal cancer ."
+        },
+        {
+          "section": "Coping with your child's cancer",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Coping with your child's cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "When your child has cancer, every member of the family needs support. Taking care of yourself during this difficult time is important. Reach out to your child's treatment team and to people in your family and community for support. Learn more at Support for Families: Childhood Cancer and in the booklet Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Related resources",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "Related resources"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "For more childhood cancer information and other general cancer resources, visit:\n- Colorectal Cancer Home Page\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Adolescents and Young Adults with Cancer\n- Cancer in Children and Adolescents\n- Cancer Staging\n- Coping with Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of childhood colorectal cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Colorectal Cancer. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/colorectal/patient/child-colorectal-treatment-pdq . Accessed <MM/DD/YYYY>.\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Colorectal Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\36545fe956b92cfdedb3.html"
+    }
+  ]
+}

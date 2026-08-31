@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Non-Hodgkin Lymphoma Treatment During Pregnancy",
+  "generated_at": "2026-08-31T07:15:23.398937+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Non-Hodgkin Lymphoma Treatment During Pregnancy",
+      "title": "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+      "summary_name": "Non-Hodgkin Lymphoma Treatment During Pregnancy",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/non-hodgkin-lymphoma-treatment-during-pregnancy-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "February 18, 2025",
+      "retrieved_at": "2026-08-31T07:12:28.097898+00:00",
+      "content_sha256": "1ab45830729dbb2fea25a482a5800cbb75acd97582bb96ca6ff6ac7f5dd282fe",
+      "section_count": 18,
+      "sections": [
+        {
+          "section": "General Information About Non-Hodgkin Lymphoma Treatment During Pregnancy",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "General Information About Non-Hodgkin Lymphoma Treatment During Pregnancy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Non-Hodgkin lymphoma (NHL) is more common in older patients, with a median age at diagnosis of 68 years.[ 1 ] Hodgkin lymphoma is most common in early adulthood and in patients older than 65 years.[ 2 ] This age distribution may explain why there are fewer reports of NHL in pregnant patients.[ 3 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "General Information About Non-Hodgkin Lymphoma Treatment During Pregnancy",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Surveillance, Epidemiology, and End Results Program: SEER Cancer Stat Facts: Non-Hodgkin Lymphoma. Bethesda, Md: National Cancer Institute, DCCPS, Surveillance Research Program. Available online . Last accessed December 16, 2024.\n- Surveillance, Epidemiology, and End Results Program: SEER Cancer Stat Facts: Hodgkin Lymphoma. Bethesda, Md: National Cancer Institute. Available online . Last accessed December 16, 2024.\n- Ward FT, Weiss RB: Lymphoma and pregnancy. Semin Oncol 16 (5): 397-409, 1989. [PUBMED Abstract]"
+        },
+        {
+          "section": "Stage Information for Non-Hodgkin Lymphoma During Pregnancy",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Stage Information for Non-Hodgkin Lymphoma During Pregnancy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To avoid exposure to ionizing radiation, magnetic resonance imaging is the preferred tool for staging evaluation.[ 1 ] For more information, see the Stage Information for Indolent B-Cell Non-Hodgkin Lymphoma section in Indolent B-Cell Non-Hodgkin Lymphoma Treatment."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Stage Information for Non-Hodgkin Lymphoma During Pregnancy",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Nicklas AH, Baker ME: Imaging strategies in the pregnant cancer patient. Semin Oncol 27 (6): 623-32, 2000. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Option Overview for Non-Hodgkin Lymphoma During Pregnancy",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Non-Hodgkin Lymphoma During Pregnancy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Stage | Treatment Options\nIndolent NHL During Pregnancy | Delay treatment until after delivery\nAggressive NHL During Pregnancy | Immediate therapy\nEarly delivery, when feasible\nTermination of pregnancy"
+        },
+        {
+          "section": "Treatment of Indolent Non-Hodgkin Lymphoma During Pregnancy",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Indolent Non-Hodgkin Lymphoma During Pregnancy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Treatment may be delayed for women with an indolent non-Hodgkin lymphoma."
+        },
+        {
+          "section": "Immediate Therapy",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Aggressive Non-Hodgkin Lymphoma During Pregnancy",
+            "Immediate Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "According to anecdotal case series, most non-Hodgkin lymphomas (NHLs) in pregnant patients are aggressive, and delay of therapy until after delivery appears to have poor outcomes.[ 1 - 4 ] Consequently, some investigators favor immediate therapy, even during pregnancy.[ 4 ] In a review of 121 patient case reports from 74 papers, one-half of the patients had very aggressive lymphomas, such as Burkitt lymphoma, and one-half of the patients had involvement of the breast, ovaries, uterus, or placenta.[ 5 ] One-half of the patients received therapy antepartum, and the 6-month survival rate was 53%, with a live-birth rate of 83%.[ 5 ][ Level of evidence C3 ]\nA multicenter retrospective analysis of 50 patients described pregnancy termination in 3 patients, deferral of therapy to postpartum in 15 patients (median 30 weeks gestation), and antenatal therapy in the remaining 32 patients (median 21 weeks gestation, all done after the first trimester).[ 6 ] With a median follow-up of 41 months, the 3-year progression-free survival rate was 53%, and the overall survival rate was 82%, using R-CHOP (rituximab, cyclophosphamide, doxorubicin hydrochloride, vincristine sulfate, and prednisone) or modifications of this regimen.[ 6 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Early Delivery, When Feasible",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Aggressive Non-Hodgkin Lymphoma During Pregnancy",
+            "Early Delivery, When Feasible"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For some women, early delivery, when feasible, may minimize or avoid fetal exposure to chemotherapy or radiation therapy."
+        },
+        {
+          "section": "Termination of Pregnancy",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Aggressive Non-Hodgkin Lymphoma During Pregnancy",
+            "Termination of Pregnancy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Termination of pregnancy in the first trimester may allow immediate therapy for women with aggressive NHL."
+        },
+        {
+          "section": "Effects of Treatment on Children",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Aggressive Non-Hodgkin Lymphoma During Pregnancy",
+            "Effects of Treatment on Children"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Evidence (treatment effect on children exposed in utero):\n- With follow-up ranging from several months to 11 years, children who were exposed to high-dose doxorubicin-containing combination chemotherapy in utero (especially during the second and third trimester) had normal growth and no evidence of congenital malformations.[ 4 , 7 - 9 ] For most of the chemotherapeutic agents used for the treatment of NHL, there are no data regarding long-term effects on children exposed in utero.\n- In one anecdotal case, a newborn exposed to a rituximab-containing regimen in utero was born with no circulating B lymphocytes. The newborn was otherwise healthy and recovered the circulating B lymphocytes by age 6 months with no unusual or persisting intercurrent infections.[ 10 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Aggressive Non-Hodgkin Lymphoma During Pregnancy",
+            "Effects of Treatment on Children",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Ward FT, Weiss RB: Lymphoma and pregnancy. Semin Oncol 16 (5): 397-409, 1989. [PUBMED Abstract]\n- Steiner-Salz D, Yahalom J, Samuelov A, et al.: Non-Hodgkin's lymphoma associated with pregnancy. A report of six cases, with a review of the literature. Cancer 56 (8): 2087-91, 1985. [PUBMED Abstract]\n- Spitzer M, Citron M, Ilardi CF, et al.: Non-Hodgkin's lymphoma during pregnancy. Gynecol Oncol 43 (3): 309-12, 1991. [PUBMED Abstract]\n- Gelb AB, van de Rijn M, Warnke RA, et al.: Pregnancy-associated lymphomas. A clinicopathologic study. Cancer 78 (2): 304-10, 1996. [PUBMED Abstract]\n- Horowitz NA, Benyamini N, Wohlfart K, et al.: Reproductive organ involvement in non-Hodgkin lymphoma during pregnancy: a systematic review. Lancet Oncol 14 (7): e275-82, 2013. [PUBMED Abstract]\n- Evens AM, Advani R, Press OW, et al.: Lymphoma occurring during pregnancy: antenatal therapy, complications, and maternal survival in a multicenter analysis. J Clin Oncol 31 (32): 4132-9, 2013. [PUBMED Abstract]\n- Avilés A, Díaz-Maqueo JC, Torras V, et al.: Non-Hodgkin's lymphomas and pregnancy: presentation of 16 cases. Gynecol Oncol 37 (3): 335-7, 1990. [PUBMED Abstract]\n- Moore DT, Taslimi MM: Multi-agent chemotherapy in a case of non-Hodgkin's lymphoma in second trimester of pregnancy. J Tenn Med Assoc 84 (9): 435-6, 1991. [PUBMED Abstract]\n- Nantel S, Parboosingh J, Poon MC: Treatment of an aggressive non-Hodgkin's lymphoma during pregnancy with MACOP-B chemotherapy. Med Pediatr Oncol 18 (2): 143-5, 1990. [PUBMED Abstract]\n- Mandal PK, Dolai TK, Bagchi B, et al.: B cell suppression in newborn following treatment of pregnant diffuse large B-cell lymphoma patient with rituximab containing regimen. Indian J Pediatr 81 (10): 1092-4, 2014. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (02/18/2025)",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (02/18/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of non-Hodgkin lymphoma during pregnancy. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 10,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Non-Hodgkin Lymphoma Treatment During Pregnancy are:\n- Eric J. Seifter, MD (Johns Hopkins University)\n- Cole H. Sterling, MD (Johns Hopkins University)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Non-Hodgkin Lymphoma Treatment During Pregnancy. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/lymphoma/hp/non-hodgkin-lymphoma-treatment-during-pregnancy-pdq . Accessed <MM/DD/YYYY>. [PMID: 37437081]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Non-Hodgkin Lymphoma Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\fd532a14f7d8c00811c5.html"
+    }
+  ]
+}

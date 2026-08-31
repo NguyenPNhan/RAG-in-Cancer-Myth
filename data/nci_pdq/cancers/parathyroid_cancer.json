@@ -1,0 +1,756 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Parathyroid Cancer",
+  "generated_at": "2026-08-31T07:15:23.462281+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Parathyroid Cancer",
+      "title": "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Parathyroid Cancer Treatment",
+      "url": "https://www.cancer.gov/types/parathyroid/hp/parathyroid-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "July 5, 2024",
+      "retrieved_at": "2026-08-31T07:13:25.021519+00:00",
+      "content_sha256": "d5d70eeaf33cab5db6dd1890113244204d8a3a71fb53ba4dced2da7900e058f8",
+      "section_count": 30,
+      "sections": [
+        {
+          "section": "Incidence",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Parathyroid Cancer",
+            "Incidence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Parathyroid adenomas represent a common endocrine problem, whereas parathyroid carcinomas are very rare tumors. With an estimated incidence of 0.015 per 100,000 population and an estimated prevalence of 0.005% in the United States, parathyroid cancer is one of the rarest of all human cancers.[ 1 , 2 ] In Europe, the United States, and Japan, parathyroid carcinoma has been estimated to cause hyperparathyroidism (HPT) in 0.017% to 5.2% of cases; however, many series report this entity to account for less than 1% of patients with primary HPT.[ 1 , 3 - 5 ] The median age in most series is between 45 and 51 years.[ 1 ] The ratio of affected women to men is 1:1 in contrast to primary HPT in which there is a significant female predominance (ratio of 3–4:1).[ 5 ]"
+        },
+        {
+          "section": "Anatomy and Histopathology",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Parathyroid Cancer",
+            "Anatomy and Histopathology"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Operatively, parathyroid cancers may be distinguished from adenomas by their firm, stony-hard consistency and lobulation; adenomas tend to be soft, round, or oval in shape, and of a reddish-brown color.[ 5 ] In most series, the median maximal diameter of parathyroid carcinoma is between 3.0 cm and 3.5 cm compared with approximately 1.5 cm for benign adenomas.[ 1 ] In approximately 50% of patients, the malignant tumor is surrounded by a dense, fibrous, grayish-white capsule that infiltrates adjacent tissues.[ 5 ]\nHistopathologically, as with other endocrine neoplasms, it is difficult to make the distinction between benign and malignant parathyroid tumors.[ 1 , 5 , 6 ] The extent to which capsular and vascular invasion appears to be unequivocally correlated with tumor recurrences and metastases makes a strong case for these findings to be considered the sole pathognomonic markers of malignancy.[ 6 , 7 ]"
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Parathyroid Cancer",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The etiology of parathyroid carcinoma is unknown. However, an increased risk of parathyroid cancer has been associated with multiple endocrine neoplasia type 1 and with autosomal dominant familial isolated hyperparathyroidism.[ 8 - 10 ] Parathyroid cancer has also been associated with external radiation exposure; however, most reports describe an association between radiation and the more common parathyroid adenoma.[ 1 , 5 ]"
+        },
+        {
+          "section": "Clinical Factors",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Parathyroid Cancer",
+            "Clinical Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Parathyroid cancer typically runs an indolent, albeit tenacious, course because the tumor has a rather low malignant potential. At initial presentation, few patients with parathyroid carcinoma have metastases either to regional lymph nodes (<5%) or distant sites (<2%).[ 1 ] In a National Cancer Database series of 286 patients, only 16 (5.6%) had lymph node metastases noted at the time of initial surgery.[ 2 ] A higher proportion of parathyroid cancers locally invade the thyroid gland, overlying strap muscles, recurrent laryngeal nerve, trachea, or esophagus. Some patients are not identified preoperatively or intraoperatively as having parathyroid carcinoma and undergo parathyroid procedures devised to treat parathyroid adenoma. Only after review of the postsurgical pathology, or when these patients experience local or distant recurrence, is a correct diagnosis of parathyroid carcinoma made.[ 1 ] Parathyroid carcinoma tends to be localized in the inferior parathyroid glands. One series reported that a primary tumor originating in the inferior parathyroid glands was found in 15 of 19 cases involving local invasion.[ 11 , 12 ]\nParathyroid cancers are hyperfunctional unlike other endocrine tumors that become less hormonally active when malignant.[ 1 ] The clinical features of parathyroid carcinoma are caused primarily by the effects of excessive secretion of parathormone (PTH) by the tumor rather than by the infiltration of vital organs by tumor cells. Serum PTH levels may be three to ten times above the upper limit of normal for the assay employed. This marked elevation is uncommon in primary HPT where serum PTH concentrations are typically less than twice that of normal.[ 5 ] Accordingly, signs and symptoms of hypercalcemia typically dominate the clinical picture and may include typical hyperparathyroid bone disease and features of renal involvement, such as nephrolithiasis or nephrocalcinosis.[ 1 ] Renal colic is a frequent presenting complaint of patients with parathyroid carcinoma.[ 5 ] In a study involving 43 cases, the prevalence of nephrolithiasis was reported to be 56%, and the prevalence of renal insufficiency was reported to be 84%.[ 13 ]\nThe prevalence of bone disease is much greater in patients with parathyroid carcinoma than it is in patients with parathyroid adenoma, with 70% or fewer patients manifesting symptoms related to calcium absorption with osteoporosis and bone pain.[ 14 , 15 ] In benign parathyroid disease, it is unusual to have both renal and bone symptomatology documented at the time of diagnosis.[ 16 ] These symptoms are present simultaneously at diagnosis in 50% or fewer patients with parathyroid cancer.[ 1 ] In contrast, simultaneous renal and overt skeletal involvement is distinctly unusual in primary HPT.[ 5 ] For more information about bone pain, see Cancer Pain ."
+        },
+        {
+          "section": "Diagnosis",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Parathyroid Cancer",
+            "Diagnosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 26,
+          "text": "The following signs and symptoms of the hyperparathyroid state associated with parathyroid cancer may be found at diagnosis:[ 1 , 5 ]\n- Subcortical bone resorption.\n- Bone pain.\n- Pathological fractures.\n- Palpable neck mass.\n- Renal calculi.\n- Renal disease.\n- Renal colic.\n- Peptic ulcer.\n- Recurrent pancreatitis.\n- Fatigue.\n- Muscle weakness.\n- Weight loss.\n- Anorexia.\n- Polyuria.\n- Polydipsia.\n- Dehydration.\n- Nausea and vomiting.\nFor more information about some of these symptoms, see Cancer Pain , Nutrition in Cancer Care (for weight loss information), and Nausea and Vomiting Related to Cancer Treatment .\nCertain clinical features may help distinguish parathyroid carcinoma from parathyroid adenoma.\nParathyroid carcinoma should be suspected clinically if the patient presents with the following diagnostic features:[ 1 , 5 , 17 , 18 ]\n- Hypercalcemia greater than 14 milligrams per deciliter.\n- Serum PTH levels greater than twice that of normal.\n- A cervical mass palpated in a hypercalcemic patient.\n- Hypercalcemia associated with unilateral vocal cord paralysis.\n- Concomitant renal and skeletal disease observed in a patient with a markedly elevated serum PTH."
+        },
+        {
+          "section": "Clinical Treatment and Management",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Parathyroid Cancer",
+            "Clinical Treatment and Management"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The medical management of hypercalcemia, particularly in patients with unresectable disease or without measurable disease, is critical and must be the initial treatment goal in all patients with HPT. Conventional treatment with intravenous fluids, diuretics, and antiresorptive agents such as bisphosphonates, gallium, or mithramycin may help control the hypercalcemia.[ 12 ] Calcimimetic agents that directly block secretion of the parathyroid hormone from the glands may offer an important approach to medical therapy of primary HPT associated with parathyroid cancer.[ 19 , 20 ]\nSurgery is the only effective therapy for parathyroid carcinoma.[ 1 , 5 , 6 ] Preoperative suspicion and intraoperative recognition of parathyroid carcinoma is critical to achieve a favorable outcome, which involves en bloc resection of the tumor with all potential areas of invasion at the initial operation.[ 12 , 21 , 22 ]\nOne analysis of the literature indicated a local recurrence rate of 8% after an en bloc resection and 51% after a standard parathyroidectomy.[ 23 ] En bloc excision during the initial procedure for parathyroid cancer may involve resection of the recurrent laryngeal nerve because the nerve is at risk for invasion by any residual tumor and subsequent loss of function. The increased potential for long-term local control achieved by en bloc excision outweighs the complication of postoperative vocal cord paralysis, which can be improved with techniques such as Teflon injection into the paralyzed cord. Cervical lymph node dissection should be performed only for enlarged or firm nodes, particularly those found in the level VI paratracheal nodes and levels III and IV internal jugular nodes.[ 1 ]\nBecause of the fairly indolent biology of this cancer, the management of recurrent or metastatic disease is primarily surgical. Significant palliation may result from the resection of even very small tumor deposits in the neck, lymph nodes, lungs, or liver.[ 2 , 13 , 16 , 24 , 25 ] Accessible distant metastases should be resected when possible.[ 5 ] Localization studies performed before the first operation or reoperation may include technetium Tc 99m-sestamibi (MIBI) scan, single photon emission computed tomography, computed tomography (CT)-MIBI image fusion, ultrasound, CT, selective angiogram, and selective venous sampling for PTH.[ 3 ] CT and magnetic resonance imaging are useful imaging adjuncts for the localization of distant metastases.[ 5 , 26 ]\nNonsurgical forms of therapy for parathyroid carcinoma generally have poor results.[ 1 , 5 , 6 , 11 ] Some investigators have advocated the use of adjuvant radiation therapy to decrease the local recurrence rate.[ 27 , 28 ] Patients with this disease should be monitored for life because they may be at a relatively high risk of multiple relapses over prolonged periods of time.[ 11 ] Patients rarely die of the tumor itself; rather, they die of the metabolic complications of uncontrolled HPT."
+        },
+        {
+          "section": "Follow-Up and Survivorship",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Parathyroid Cancer",
+            "Follow-Up and Survivorship"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Approximately 40% to 60% of patients experience a postsurgical recurrence, typically within 2 to 5 years after the initial resection.[ 17 , 21 ] In most cases, hypercalcemia precedes physical evidence of recurrent disease. The location of recurrence is typically regional, either in the tissues of the neck or in cervical lymph nodes, and accounts for approximately two-thirds of recurrent cases.[ 18 ] Often, local recurrences in the neck are difficult to identify because they may be small and multifocal, and they may involve scar tissue from a previous surgical procedure. Use of ultrasonography, sestamibi-thallium scanning, and positron emission tomography may help to identify difficult-to-detect recurrent disease.[ 29 - 31 ]\nIn older studies, distant metastases were reported in 25% of patients, primarily in the lungs but also in the bone and liver.[ 18 , 32 ] Other series indicate that the incidence of recurrence may be higher, possibly because of more accurate pathological diagnoses that exclude patients with atypical adenomas.[ 1 ] Because of its low malignant potential, the morbidity and mortality associated with parathyroid cancer primarily result from the metabolic consequences of the disease and not directly from malignant growth.[ 11 , 32 ] In a National Cancer Database series of 286 patients, the 10-year survival rate was approximately 49%.[ 2 ] A smaller series reported a 10-year survival rate of 77%, which might be related to improvements in supportive medical care and in the prevention of fatal hypercalcemia.[ 11 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Parathyroid Cancer",
+            "Follow-Up and Survivorship",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 32,
+          "text": "- Rahbari R, Kebebew E: Parathyroid tumors. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 1473-9.\n- Hundahl SA, Fleming ID, Fremgen AM, et al.: Two hundred eighty-six cases of parathyroid carcinoma treated in the U.S. between 1985-1995: a National Cancer Data Base Report. The American College of Surgeons Commission on Cancer and the American Cancer Society. Cancer 86 (3): 538-44, 1999. [PUBMED Abstract]\n- Fraker DL: Update on the management of parathyroid tumors. Curr Opin Oncol 12 (1): 41-8, 2000. [PUBMED Abstract]\n- Favia G, Lumachi F, Polistina F, et al.: Parathyroid carcinoma: sixteen new cases and suggestions for correct management. World J Surg 22 (12): 1225-30, 1998. [PUBMED Abstract]\n- Shane E: Clinical review 122: Parathyroid carcinoma. J Clin Endocrinol Metab 86 (2): 485-93, 2001. [PUBMED Abstract]\n- Iacobone M, Lumachi F, Favia G: Up-to-date on parathyroid carcinoma: analysis of an experience of 19 cases. J Surg Oncol 88 (4): 223-8, 2004. [PUBMED Abstract]\n- Levin KE, Galante M, Clark OH: Parathyroid carcinoma versus parathyroid adenoma in patients with profound hypercalcemia. Surgery 101 (6): 649-60, 1987. [PUBMED Abstract]\n- Mallette LE, Bilezikian JP, Ketcham AS, et al.: Parathyroid carcinoma in familial hyperparathyroidism. Am J Med 57 (4): 642-8, 1974. [PUBMED Abstract]\n- Dionisi S, Minisola S, Pepe J, et al.: Concurrent parathyroid adenomas and carcinoma in the setting of multiple endocrine neoplasia type 1: presentation as hypercalcemic crisis. Mayo Clin Proc 77 (8): 866-9, 2002. [PUBMED Abstract]\n- Wassif WS, Moniz CF, Friedman E, et al.: Familial isolated hyperparathyroidism: a distinct genetic entity with an increased risk of parathyroid cancer. J Clin Endocrinol Metab 77 (6): 1485-9, 1993. [PUBMED Abstract]\n- Busaidy NL, Jimenez C, Habra MA, et al.: Parathyroid carcinoma: a 22-year experience. Head Neck 26 (8): 716-26, 2004. [PUBMED Abstract]\n- Clayman GL, Gonzalez HE, El-Naggar A, et al.: Parathyroid carcinoma: evaluation and interdisciplinary management. Cancer 100 (5): 900-5, 2004. [PUBMED Abstract]\n- Wynne AG, van Heerden J, Carney JA, et al.: Parathyroid carcinoma: clinical and pathologic features in 43 patients. Medicine (Baltimore) 71 (4): 197-205, 1992. [PUBMED Abstract]\n- Lafferty FW: Primary hyperparathyroidism. Changing clinical spectrum, prevalence of hypertension, and discriminant analysis of laboratory tests. Arch Intern Med 141 (13): 1761-6, 1981. [PUBMED Abstract]\n- Nikkilä MT, Saaristo JJ, Koivula TA: Clinical and biochemical features in primary hyperparathyroidism. Surgery 105 (2 Pt 1): 148-53, 1989. [PUBMED Abstract]\n- Vetto JT, Brennan MF, Woodruf J, et al.: Parathyroid carcinoma: diagnosis and clinical history. Surgery 114 (5): 882-92, 1993. [PUBMED Abstract]\n- Anderson BJ, Samaan NA, Vassilopoulou-Sellin R, et al.: Parathyroid carcinoma: features and difficulties in diagnosis and management. Surgery 94 (6): 906-15, 1983. [PUBMED Abstract]\n- Obara T, Fujimoto Y: Diagnosis and treatment of patients with parathyroid carcinoma: an update and review. World J Surg 15 (6): 738-44, 1991 Nov-Dec. [PUBMED Abstract]\n- Collins MT, Skarulis MC, Bilezikian JP, et al.: Treatment of hypercalcemia secondary to parathyroid carcinoma with a novel calcimimetic agent. J Clin Endocrinol Metab 83 (4): 1083-8, 1998. [PUBMED Abstract]\n- Strewler GJ: Medical approaches to primary hyperparathyroidism. Endocrinol Metab Clin North Am 29 (3): 523-39, vi, 2000. [PUBMED Abstract]\n- Sandelin K, Auer G, Bondeson L, et al.: Prognostic factors in parathyroid cancer: a review of 95 cases. World J Surg 16 (4): 724-31, 1992 Jul-Aug. [PUBMED Abstract]\n- Cohn K, Silverman M, Corrado J, et al.: Parathyroid carcinoma: the Lahey Clinic experience. Surgery 98 (6): 1095-100, 1985. [PUBMED Abstract]\n- Koea JB, Shaw JH: Parathyroid cancer: biology and management. Surg Oncol 8 (3): 155-65, 1999. [PUBMED Abstract]\n- Obara T, Okamoto T, Ito Y, et al.: Surgical and medical management of patients with pulmonary metastasis from parathyroid carcinoma. Surgery 114 (6): 1040-8; discussion 1048-9, 1993. [PUBMED Abstract]\n- Sandelin K: Parathyroid carcinoma. Cancer Treat Res 89: 183-92, 1997. [PUBMED Abstract]\n- Pasieka JL: What's new in general surgery: endocrine surgery. J Am Coll Surg 199 (3): 437-45, 2004. [PUBMED Abstract]\n- Munson ND, Foote RL, Northcutt RC, et al.: Parathyroid carcinoma: is there a role for adjuvant radiation therapy? Cancer 98 (11): 2378-84, 2003. [PUBMED Abstract]\n- Chow E, Tsang RW, Brierley JD, et al.: Parathyroid carcinoma--the Princess Margaret Hospital experience. Int J Radiat Oncol Biol Phys 41 (3): 569-72, 1998. [PUBMED Abstract]\n- Lu G, Shih WJ, Xiu JY: Technetium-99m MIBI uptake in recurrent parathyroid carcinoma and brown tumors. J Nucl Med 36 (5): 811-3, 1995. [PUBMED Abstract]\n- Al-Sobhi S, Ashari LH, Ingemansson S: Detection of metastatic parathyroid carcinoma with Tc-99m sestamibi imaging. Clin Nucl Med 24 (1): 21-3, 1999. [PUBMED Abstract]\n- Neumann DR, Esselstyn CB, Kim EY: Recurrent postoperative parathyroid carcinoma: FDG-PET and sestamibi-SPECT findings. J Nucl Med 37 (12): 2000-1, 1996. [PUBMED Abstract]\n- Sandelin K, Tullgren O, Farnebo LO: Clinical course of metastatic parathyroid cancer. World J Surg 18 (4): 594-8; discussion 599, 1994 Jul-Aug. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of Parathyroid Cancer",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Parathyroid Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The histological distinction between benign and malignant parathyroid tumors is difficult to make.[ 1 ] Although cell type is not known to be of prognostic significance, histological cell types include chief cell, transitional clear cell, and mixed cell types. Standard criteria of malignancy often cannot be confirmed in retrospective reviews of patients with carcinoma. Macroscopic and microscopic infiltrations often do not correlate, and adhesion to surrounding structures does not necessarily imply malignancy. Features such as dense fibrous trabeculae, trabecular growth patterns, mitoses, and capsular invasions, which have been classically associated with carcinomas, have also been found in parathyroid adenomas.[ 2 - 4 ] Capsular and vascular invasion appears to correlate best with tumor recurrence.[ 3 , 5 ] In a study of 286 patients, pathologists described well-differentiated carcinomas in approximately 80% of the patients.[ 6 ]\nAn aneuploid DNA pattern is more common, and mean nuclear DNA content is greater in carcinomas than in adenomas. When present in a carcinoma, aneuploidy appears to be associated with a poorer prognosis.[ 7 - 9 ] Aneuploidy occurs too frequently in parathyroid adenomas to be significant in differentiating benign from malignant parathyroid lesions.[ 9 - 11 ] In general, the clinical course and the gross pathology observed at surgery are as important as the histology to define a lesion as a parathyroid carcinoma.[ 12 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Parathyroid Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- Shane E: Clinical review 122: Parathyroid carcinoma. J Clin Endocrinol Metab 86 (2): 485-93, 2001. [PUBMED Abstract]\n- Schantz A, Castleman B: Parathyroid carcinoma. A study of 70 cases. Cancer 31 (3): 600-5, 1973. [PUBMED Abstract]\n- Levin KE, Galante M, Clark OH: Parathyroid carcinoma versus parathyroid adenoma in patients with profound hypercalcemia. Surgery 101 (6): 649-60, 1987. [PUBMED Abstract]\n- Bondeson L, Sandelin K, Grimelius L: Histopathological variables and DNA cytometry in parathyroid carcinoma. Am J Surg Pathol 17 (8): 820-9, 1993. [PUBMED Abstract]\n- Iacobone M, Lumachi F, Favia G: Up-to-date on parathyroid carcinoma: analysis of an experience of 19 cases. J Surg Oncol 88 (4): 223-8, 2004. [PUBMED Abstract]\n- Hundahl SA, Fleming ID, Fremgen AM, et al.: Two hundred eighty-six cases of parathyroid carcinoma treated in the U.S. between 1985-1995: a National Cancer Data Base Report. The American College of Surgeons Commission on Cancer and the American Cancer Society. Cancer 86 (3): 538-44, 1999. [PUBMED Abstract]\n- Levin KE, Chew KL, Ljung BM, et al.: Deoxyribonucleic acid cytometry helps identify parathyroid carcinomas. J Clin Endocrinol Metab 67 (4): 779-84, 1988. [PUBMED Abstract]\n- Obara T, Fujimoto Y: Diagnosis and treatment of patients with parathyroid carcinoma: an update and review. World J Surg 15 (6): 738-44, 1991 Nov-Dec. [PUBMED Abstract]\n- Sandelin K, Auer G, Bondeson L, et al.: Prognostic factors in parathyroid cancer: a review of 95 cases. World J Surg 16 (4): 724-31, 1992 Jul-Aug. [PUBMED Abstract]\n- Mallette LE: DNA quantitation in the study of parathyroid lesions. A review. Am J Clin Pathol 98 (3): 305-11, 1992. [PUBMED Abstract]\n- Obara T, Okamoto T, Kanbe M, et al.: Functioning parathyroid carcinoma: clinicopathologic features and rational treatment. Semin Surg Oncol 13 (2): 134-41, 1997 Mar-Apr. [PUBMED Abstract]\n- Rahbari R, Kebebew E: Parathyroid tumors. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 1473-9."
+        },
+        {
+          "section": "Stage Information for Parathyroid Cancer",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Parathyroid Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Because of the low incidence of parathyroid carcinoma, an American Joint Committee on Cancer staging system has not yet been formulated and, thus, is not applicable to this malignancy. In addition, neither tumor size nor lymph node status appear to be important prognostic markers for this malignancy.[ 1 ]\nPatients are considered to have either localized or metastatic disease.[ 2 , 3 ]\nLocalized Parathyroid Cancer\nLocalized parathyroid cancer is disease that involves the parathyroid gland with or without invasion of adjacent tissues.\nMetastatic Parathyroid Cancer\nMetastatic parathyroid cancer is disease that spreads beyond the tissues adjacent to the involved parathyroid gland(s). Parathyroid carcinoma most frequently metastasizes to regional lymph nodes and lungs, and it may involve other distant sites, such as liver, bone, pleura, pericardium, and pancreas.[ 4 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Parathyroid Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Hundahl SA, Fleming ID, Fremgen AM, et al.: Two hundred eighty-six cases of parathyroid carcinoma treated in the U.S. between 1985-1995: a National Cancer Data Base Report. The American College of Surgeons Commission on Cancer and the American Cancer Society. Cancer 86 (3): 538-44, 1999. [PUBMED Abstract]\n- Chow E, Tsang RW, Brierley JD, et al.: Parathyroid carcinoma--the Princess Margaret Hospital experience. Int J Radiat Oncol Biol Phys 41 (3): 569-72, 1998. [PUBMED Abstract]\n- Busaidy NL, Jimenez C, Habra MA, et al.: Parathyroid carcinoma: a 22-year experience. Head Neck 26 (8): 716-26, 2004. [PUBMED Abstract]\n- Shane E: Clinical review 122: Parathyroid carcinoma. J Clin Endocrinol Metab 86 (2): 485-93, 2001. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Option Overview for Parathyroid Cancer",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Parathyroid Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The rarity of this tumor does not allow for large published series of treatment experience or permit the systematic evaluation of combination therapies.[ 1 , 2 ] The relatively slow cell-doubling time for this tumor makes radical surgery a therapeutic option even for patients with metastatic disease. Treatment and control of secondary hypercalcemia must be the initial treatment goal in all patients with hyperparathyroidism."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Parathyroid Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Rahbari R, Kebebew E: Parathyroid tumors. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 1473-9.\n- Shane E: Clinical review 122: Parathyroid carcinoma. J Clin Endocrinol Metab 86 (2): 485-93, 2001. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Localized Parathyroid Cancer",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Parathyroid Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for localized parathyroid cancer include the following:[ 1 - 4 ]\n- The initial operation should include an en bloc resection of the tumor that takes care to avoid rupture of the tumor capsule and to ensure that the margins are free of tumor. This procedure will involve a parathyroidectomy, typically an ipsilateral thyroidectomy (thyroid lobectomy), and possibly resection of adjacent cervical muscles, paratracheal tissues, and the recurrent laryngeal nerve, if involved. Lymphadenectomy, beyond that necessary to achieve an en bloc excision of the primary malignancy, is not indicated unless enlarged or firm nodes clinically indicate the presence of nodal disease. Local recurrence may be minimized by this en bloc resection approach. Preoperative medical management to lower elevated calcium levels and to correct other metabolic disturbances that are due to hyperparathyroidism is critical.\n- Surgery followed by radiation therapy.[ 4 - 6 ]\n- Radiation therapy."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Parathyroid Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Parathyroid Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Rahbari R, Kebebew E: Parathyroid tumors. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 1473-9.\n- Sandelin K, Auer G, Bondeson L, et al.: Prognostic factors in parathyroid cancer: a review of 95 cases. World J Surg 16 (4): 724-31, 1992 Jul-Aug. [PUBMED Abstract]\n- Koea JB, Shaw JH: Parathyroid cancer: biology and management. Surg Oncol 8 (3): 155-65, 1999. [PUBMED Abstract]\n- Clayman GL, Gonzalez HE, El-Naggar A, et al.: Parathyroid carcinoma: evaluation and interdisciplinary management. Cancer 100 (5): 900-5, 2004. [PUBMED Abstract]\n- Munson ND, Foote RL, Northcutt RC, et al.: Parathyroid carcinoma: is there a role for adjuvant radiation therapy? Cancer 98 (11): 2378-84, 2003. [PUBMED Abstract]\n- Chow E, Tsang RW, Brierley JD, et al.: Parathyroid carcinoma--the Princess Margaret Hospital experience. Int J Radiat Oncol Biol Phys 41 (3): 569-72, 1998. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Metastatic Parathyroid Cancer",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic Parathyroid Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Metastatic disease can appear shortly after the initial diagnosis and operation or for up to 20 years later.[ 1 ] Because of the difficulty in making a histological diagnosis, the appearance of recurrent or metastatic disease in a patient previously operated on for hypercalcemia can be the first indicator that the tumor was malignant.[ 2 ] Approximately 50% of patients who experience recurrence will have distant metastases.[ 3 ] The most common site of distant metastasis is the lung.[ 4 , 5 ] Some patients experience years of survival even after the diagnosis of distant metastases.[ 5 ] Aggressive surgical resection has been associated with a 30% long-term survival rate in retrospective series.[ 3 , 6 ]\nTreatment options for metastatic parathyroid cancer include the following:[ 1 , 3 - 10 ]\n- Metastasectomy: Because parathyroid carcinoma can be slow-growing, resection of distant metastases can be effective for palliation and occasional cure.\n- Medical management of hypercalcemia.[ 5 , 10 - 12 ]\n- Surgery plus radiation therapy.\n- Radiation therapy.\n- Chemotherapy. Anecdotal reports show that short-term remissions with chemotherapy are possible.[ 5 , 10 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic Parathyroid Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic Parathyroid Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- Wynne AG, van Heerden J, Carney JA, et al.: Parathyroid carcinoma: clinical and pathologic features in 43 patients. Medicine (Baltimore) 71 (4): 197-205, 1992. [PUBMED Abstract]\n- Busaidy NL, Jimenez C, Habra MA, et al.: Parathyroid carcinoma: a 22-year experience. Head Neck 26 (8): 716-26, 2004. [PUBMED Abstract]\n- Sandelin K, Tullgren O, Farnebo LO: Clinical course of metastatic parathyroid cancer. World J Surg 18 (4): 594-8; discussion 599, 1994 Jul-Aug. [PUBMED Abstract]\n- Favia G, Lumachi F, Polistina F, et al.: Parathyroid carcinoma: sixteen new cases and suggestions for correct management. World J Surg 22 (12): 1225-30, 1998. [PUBMED Abstract]\n- Shane E: Clinical review 122: Parathyroid carcinoma. J Clin Endocrinol Metab 86 (2): 485-93, 2001. [PUBMED Abstract]\n- Obara T, Okamoto T, Ito Y, et al.: Surgical and medical management of patients with pulmonary metastasis from parathyroid carcinoma. Surgery 114 (6): 1040-8; discussion 1048-9, 1993. [PUBMED Abstract]\n- Vetto JT, Brennan MF, Woodruf J, et al.: Parathyroid carcinoma: diagnosis and clinical history. Surgery 114 (5): 882-92, 1993. [PUBMED Abstract]\n- Sandelin K: Parathyroid carcinoma. Cancer Treat Res 89: 183-92, 1997. [PUBMED Abstract]\n- Iacobone M, Lumachi F, Favia G: Up-to-date on parathyroid carcinoma: analysis of an experience of 19 cases. J Surg Oncol 88 (4): 223-8, 2004. [PUBMED Abstract]\n- Rahbari R, Kebebew E: Parathyroid tumors. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 1473-9.\n- Clayman GL, Gonzalez HE, El-Naggar A, et al.: Parathyroid carcinoma: evaluation and interdisciplinary management. Cancer 100 (5): 900-5, 2004. [PUBMED Abstract]\n- Peacock M, Bilezikian JP, Klassen PS, et al.: Cinacalcet hydrochloride maintains long-term normocalcemia in patients with primary hyperparathyroidism. J Clin Endocrinol Metab 90 (1): 135-41, 2005. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Recurrent Parathyroid Cancer",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Parathyroid Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Approximately 40% to 60% of patients experience a postsurgical recurrence, typically between 2 to 5 years after the initial resection.[ 1 , 2 ] Because it is difficult to establish a histological diagnosis of parathyroid cancer at the time of initial surgery, the appearance of recurrent or metastatic tumor can be the first sign of malignancy.[ 3 ]\nBecause these tumors are slow-growing, repeated resection of local recurrences and/or distant metastases can result in significant palliation.[ 4 - 8 ] Pulmonary metastases and bone metastases should be resected, if possible, to decrease the magnitude of the hypercalcemia.[ 7 , 9 ] Occasionally, long-term salvage is achieved in this group of patients with aggressive surgical treatment.[ 10 ] The major morbidity of recurrent or metastatic parathyroid cancer results from severe hypercalcemia, which can be difficult to control. For patients not fit for surgery, treatment with bisphosphonates, plicamycin, calcitonin, and gallium pamidronate may control hypercalcemia.[ 11 ] Control of malignant hypercalcemia with these medical measures is often only temporary.\nTreatment options for recurrent parathyroid cancer include the following:[ 4 - 10 ]\n- Surgical removal of the local recurrence with surgical removal of metastases when possible. Because parathyroid carcinoma can be slow-growing, resection of local recurrences or distant metastases can bring effective palliation but can rarely cure. Debulking of functional carcinomas may help reduce parathormone production.\n- Medical management of hypercalcemia.[ 11 , 10 , 12 , 13 ]\n- Surgery plus radiation therapy.\n- Radiation therapy.\n- Chemotherapy. Anecdotal reports show that short-term remissions with chemotherapy are possible.[ 10 , 11 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Parathyroid Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Parathyroid Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "- Anderson BJ, Samaan NA, Vassilopoulou-Sellin R, et al.: Parathyroid carcinoma: features and difficulties in diagnosis and management. Surgery 94 (6): 906-15, 1983. [PUBMED Abstract]\n- Sandelin K, Auer G, Bondeson L, et al.: Prognostic factors in parathyroid cancer: a review of 95 cases. World J Surg 16 (4): 724-31, 1992 Jul-Aug. [PUBMED Abstract]\n- Busaidy NL, Jimenez C, Habra MA, et al.: Parathyroid carcinoma: a 22-year experience. Head Neck 26 (8): 716-26, 2004. [PUBMED Abstract]\n- Vetto JT, Brennan MF, Woodruf J, et al.: Parathyroid carcinoma: diagnosis and clinical history. Surgery 114 (5): 882-92, 1993. [PUBMED Abstract]\n- Wynne AG, van Heerden J, Carney JA, et al.: Parathyroid carcinoma: clinical and pathologic features in 43 patients. Medicine (Baltimore) 71 (4): 197-205, 1992. [PUBMED Abstract]\n- Hundahl SA, Fleming ID, Fremgen AM, et al.: Two hundred eighty-six cases of parathyroid carcinoma treated in the U.S. between 1985-1995: a National Cancer Data Base Report. The American College of Surgeons Commission on Cancer and the American Cancer Society. Cancer 86 (3): 538-44, 1999. [PUBMED Abstract]\n- Obara T, Okamoto T, Ito Y, et al.: Surgical and medical management of patients with pulmonary metastasis from parathyroid carcinoma. Surgery 114 (6): 1040-8; discussion 1048-9, 1993. [PUBMED Abstract]\n- Sandelin K: Parathyroid carcinoma. Cancer Treat Res 89: 183-92, 1997. [PUBMED Abstract]\n- Flye MW, Brennan MF: Surgical resection of metastatic parathyroid carcinoma. Ann Surg 193 (4): 425-35, 1981. [PUBMED Abstract]\n- Rahbari R, Kebebew E: Parathyroid tumors. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 1473-9.\n- Shane E: Clinical review 122: Parathyroid carcinoma. J Clin Endocrinol Metab 86 (2): 485-93, 2001. [PUBMED Abstract]\n- Clayman GL, Gonzalez HE, El-Naggar A, et al.: Parathyroid carcinoma: evaluation and interdisciplinary management. Cancer 100 (5): 900-5, 2004. [PUBMED Abstract]\n- Peacock M, Bilezikian JP, Klassen PS, et al.: Cinacalcet hydrochloride maintains long-term normocalcemia in patients with primary hyperparathyroidism. J Clin Endocrinol Metab 90 (1): 135-41, 2005. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (07/05/2024)",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (07/05/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of parathyroid cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 9,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewer for Parathyroid Cancer Treatment is:\n- Jaydira del Rivero, MD (National Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Parathyroid Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/parathyroid/hp/parathyroid-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389236]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\5f968ed5cb85c6b035fa.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Parathyroid Cancer",
+      "title": "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+      "summary_name": "Parathyroid Cancer Treatment",
+      "url": "https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "March 7, 2025",
+      "retrieved_at": "2026-08-31T07:13:26.944689+00:00",
+      "content_sha256": "ffc26b1b2edae221604c8c5b804673b8b06634485dd10398ce7be02c2ae71212",
+      "section_count": 33,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Parathyroid Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Parathyroid cancer is a rare disease in which malignant (cancer) cells form in the tissues of a parathyroid gland.\n- Having certain inherited disorders can increase the risk of developing parathyroid cancer.\n- Signs and symptoms of parathyroid cancer include weakness, feeling tired, and a lump in the neck.\n- Tests that examine the neck and blood are used to diagnose parathyroid cancer.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Parathyroid cancer is a rare disease in which malignant (cancer) cells form in the tissues of a parathyroid gland.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Parathyroid Cancer",
+            "Parathyroid cancer is a rare disease in which malignant (cancer) cells form in the tissues of a parathyroid gland."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The parathyroid glands are four pea-sized organs found in the neck near the thyroid gland . The parathyroid glands make parathyroid hormone (PTH or parathormone). PTH helps the body use and store calcium to keep the calcium in the blood at normal levels.\nA parathyroid gland may become overactive and make too much PTH, a condition called hyperparathyroidism . Hyperparathyroidism can occur when a benign tumor (noncancer), called an adenoma , forms on one of the parathyroid glands, and causes it to grow and become overactive. Sometimes hyperparathyroidism can be caused by parathyroid cancer , but this is very rare.\nThe extra PTH causes:\n- The calcium stored in the bones to move into the blood.\n- The intestines to absorb more calcium from the food we eat.\nThis condition is called hypercalcemia (too much calcium in the blood).\nThe hypercalcemia caused by hyperparathyroidism is more serious and life-threatening than parathyroid cancer itself and treating hypercalcemia is as important as treating the cancer ."
+        },
+        {
+          "section": "Having certain inherited disorders can increase the risk of developing parathyroid cancer.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Parathyroid Cancer",
+            "Having certain inherited disorders can increase the risk of developing parathyroid cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Anything that increases the chance of getting a disease is called a risk factor . Risk factors for parathyroid cancer include the following rare disorders that are inherited (passed down from parent to child):\n- Familial isolated hyperparathyroidism (FIHP).\n- Multiple endocrine neoplasia type 1 (MEN1) syndrome .\nTreatment with radiation therapy may increase the risk of developing a parathyroid adenoma."
+        },
+        {
+          "section": "Signs and symptoms of parathyroid cancer include weakness, feeling tired, and a lump in the neck.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Parathyroid Cancer",
+            "Signs and symptoms of parathyroid cancer include weakness, feeling tired, and a lump in the neck."
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "Most parathyroid cancer signs and symptoms are caused by the hypercalcemia that develops. Signs and symptoms of hypercalcemia include:\n- Weakness.\n- Feeling very tired.\n- Nausea and vomiting .\n- Loss of appetite .\n- Weight loss for no known reason.\n- Being much more thirsty than usual.\n- Urinating much more than usual.\n- Constipation .\n- Trouble thinking clearly.\nOther signs and symptoms of parathyroid cancer include:\n- Pain in the abdomen , side, or back that doesn't go away.\n- Pain in the bones.\n- A broken bone.\n- A lump in the neck.\n- Change in voice such as hoarseness.\n- Trouble swallowing.\nOther conditions may cause the same signs and symptoms as parathyroid cancer. Check with your doctor if you have any of these problems.\nTo learn more about some of these symptoms, visit:\n- Cancer Pain\n- Nutrition During Cancer Treatment (for weight loss information)\n- Nausea and Vomiting and Cancer Treatment"
+        },
+        {
+          "section": "Tests that examine the neck and blood are used to diagnose parathyroid cancer.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Parathyroid Cancer",
+            "Tests that examine the neck and blood are used to diagnose parathyroid cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Once blood tests are done and hyperparathyroidism is diagnosed , imaging tests may be done to help find which of the parathyroid glands is overactive. Sometimes the parathyroid glands are hard to find and imaging tests are done to find exactly where they are.\nParathyroid cancer may be hard to diagnose because the cells of a benign parathyroid adenoma and a malignant parathyroid cancer look alike. The patient's symptoms, blood levels of calcium and parathyroid hormone , and characteristics of the tumor are also used to make a diagnosis.\nIn addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease. To diagnose parathyroid cancer, the sample of blood is checked for its calcium level.\n- Parathyroid hormone test : A procedure in which a blood sample is checked to measure the amount of parathyroid hormone released into the blood by the parathyroid glands. A higher than normal amount of parathyroid hormone can be a sign of disease.\n- Sestamibi scan (MIBG scan) : A type of radionuclide scan used to find an overactive parathyroid gland. A very small amount of a radioactive substance called technetium 99 is injected into a vein and travels through the bloodstream to the parathyroid gland. The radioactive substance will collect in the overactive gland and show up brightly on a special camera that detects radioactivity.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Enlarge Computed tomography (CT) scan of the head and neck. The patient lies on a table that slides through the CT scanner, which takes x-ray pictures of the inside of the head and neck.\n- SPECT scan (single photon emission computed tomography scan) : A procedure to find malignant tumor cells in the neck. A small amount of a radioactive substance is injected into a vein or inhaled through the nose. As the substance travels through the blood, a camera rotates around the body and takes pictures of the neck. A computer uses the pictures to make a 3-dimensional (3-D) image of the neck. There will be increased blood flow and more activity in areas where cancer cells are growing. These areas will show up brighter in the picture.\n- Ultrasound exam : A procedure in which high-energy sound waves (ultrasound) are bounced off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram .\n- Angiogram : A procedure to look at blood vessels and the flow of blood. A contrast dye is injected into the blood vessel. As the contrast dye moves through the blood vessel, x-rays are taken to see if there are any blockages.\n- Venous sampling : A procedure in which a sample of blood is taken from specific veins and checked to measure the amounts of certain substances released into the blood by nearby organs and tissues. If imaging tests do not show which parathyroid gland is overactive, blood samples may be taken from veins near each parathyroid gland to find which one is making too much PTH."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Parathyroid Cancer",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The prognosis and treatment options depend on:\n- Whether the calcium level in the blood can be controlled.\n- The stage of the cancer.\n- Whether the tumor and the capsule around the tumor can be completely removed by surgery .\n- The patient's general health."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Parathyroid Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- After parathyroid cancer has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- Parathyroid cancer is described as either localized or metastatic.\n- Parathyroid cancer can recur (come back) after it has been treated."
+        },
+        {
+          "section": "After parathyroid cancer has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Parathyroid Cancer",
+            "After parathyroid cancer has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The process used to find out if cancer has spread to other parts of the body is called staging . There is no standard staging system for parathyroid cancer . The following imaging tests may be used to find out if the cancer has spread to other parts of the body such as the lungs , liver , bone, heart, pancreas , or lymph nodes :\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Enlarge Computed tomography (CT) scan of the head and neck. The patient lies on a table that slides through the CT scanner, which takes x-ray pictures of the inside of the head and neck.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI)."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Parathyroid Cancer",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Parathyroid Cancer",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of cancer as the primary tumor. For example, if parathyroid cancer spreads to the lung, the cancer cells in the lung are actually parathyroid cancer cells. The disease is metastatic parathyroid cancer, not lung cancer."
+        },
+        {
+          "section": "Parathyroid cancer is described as either localized or metastatic.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Parathyroid Cancer",
+            "Parathyroid cancer is described as either localized or metastatic."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Localized parathyroid cancer is found in a parathyroid gland and may have spread to nearby tissues.\n- Metastatic parathyroid cancer has spread to other parts of the body, such as the lungs, liver, bone, sac around the heart, pancreas, or lymph nodes."
+        },
+        {
+          "section": "Parathyroid cancer can recur (come back) after it has been treated.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Parathyroid Cancer",
+            "Parathyroid cancer can recur (come back) after it has been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer may come back in the tissues or lymph nodes of the neck or in other parts of the body. More than half of patients have a recurrence. The parathyroid cancer usually recurs between 2 and 5 years after the first surgery , but can recur up to 20 years later. It usually comes back in the tissues or lymph nodes of the neck. High blood calcium levels that appear after treatment may be the first sign of recurrence."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- There are different types of treatment for patients with parathyroid cancer.\n- Treatment includes control of hypercalcemia (too much calcium in the blood) in patients who have an overactive parathyroid gland.\n- The following types of treatment are used:\n- Surgery\n- Radiation therapy\n- Chemotherapy\n- Supportive care\n- New types of treatment are being tested in clinical trials.\n- Treatment for parathyroid cancer may cause side effects.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with parathyroid cancer.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with parathyroid cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatment are available for patients with parathyroid cancer . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Treatment includes control of hypercalcemia (too much calcium in the blood) in patients who have an overactive parathyroid gland.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment includes control of hypercalcemia (too much calcium in the blood) in patients who have an overactive parathyroid gland."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In order to reduce the amount of parathyroid hormone that is being made and control the level of calcium in the blood , as much of the tumor as possible is removed in surgery . For patients who cannot have surgery, medication may be used."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Surgery (removing the cancer in an operation) is the most common treatment for parathyroid cancer that is in the parathyroid glands or has spread to other parts of the body. Because parathyroid cancer grows very slowly, cancer that has spread to other parts of the body may be removed by surgery in order to cure the patient or control the effects of the disease for a long time. Before surgery, treatment is given to control hypercalcemia .\nThe following surgical procedures may be used:\n- En bloc resection : Surgery to remove the entire parathyroid gland and the capsule around it. Sometimes lymph nodes , half of the thyroid gland on the same side of the body as the cancer, and muscles, tissues , and a nerve in the neck are also removed.\n- Tumor debulking : A surgical procedure in which as much of the tumor as possible is removed. Some tumors cannot be completely removed.\n- Metastasectomy : Surgery to remove any cancer that has spread to distant organs such as the lung .\nSurgery for parathyroid cancer sometimes damages nerves of the vocal cords . There are treatments to help with speech problems caused by this nerve damage."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. There are two types of radiation therapy:\n- External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\n- Internal radiation therapy uses a radioactive substance sealed in needles, seeds , wires, or catheters that are placed directly into or near the cancer.\nThe way the radiation therapy is given depends on the type and stage of the cancer being treated. External radiation therapy is used to treat parathyroid cancer."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). When chemotherapy is placed directly into the cerebrospinal fluid , an organ, or a body cavity such as the abdomen , the drugs mainly affect cancer cells in those areas ( regional chemotherapy ). The way the chemotherapy is given depends on the type and stage of the cancer being treated."
+        },
+        {
+          "section": "Supportive care",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Supportive care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Supportive care is given to lessen the problems caused by the disease or its treatment. Supportive care for caused by parathyroid cancer may include:\n- Intravenous (IV) fluids .\n- Drugs that increase how much urine the body makes.\n- Drugs that stop the body from absorbing calcium from the food we eat.\n- Drugs that stop the parathyroid gland from making parathyroid hormone."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some people, joining a clinical trial may be an option. There are different types of clinical trials for people with cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment for parathyroid cancer may cause side effects.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for parathyroid cancer may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back).\nParathyroid cancer often recurs . Patients should have regular check-ups for the rest of their lives, to find and treat recurrences early."
+        },
+        {
+          "section": "Treatment of Localized Parathyroid Cancer",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Localized Parathyroid Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment of localized parathyroid cancer may include:\n- Surgery (en bloc resection ).\n- Surgery followed by radiation therapy .\n- Radiation therapy.\n- Supportive care to treat (too much calcium in the blood ).\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Metastatic Parathyroid Cancer",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Metastatic Parathyroid Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment of metastatic parathyroid cancer may include:\n- Surgery ( metastasectomy ) to remove cancer from the places where it has spread.\n- Surgery followed by radiation therapy .\n- Radiation therapy.\n- Chemotherapy .\n- Supportive care to treat hypercalcemia (too much calcium in the blood ).\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Parathyroid Cancer",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Parathyroid Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment of recurrent parathyroid cancer may include:\n- Surgery ( metastasectomy ) to remove cancer from the places where it has recurred .\n- Surgery ( tumor debulking ).\n- Surgery followed by radiation therapy .\n- Radiation therapy.\n- Chemotherapy .\n- Supportive care to treat hypercalcemia (too much calcium in the blood ).\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Parathyroid Cancer",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "To Learn More About Parathyroid Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "For more information from the National Cancer Institute about parathyroid cancer, visit the Parathyroid Cancer Home Page .\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of parathyroid cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Parathyroid Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389349]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Parathyroid Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\4ca6604b16be4d5dfc7b.html"
+    }
+  ]
+}

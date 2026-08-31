@@ -1,0 +1,526 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Oral Cavity and Nasopharyngeal Cancers",
+  "generated_at": "2026-08-31T07:15:23.415449+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "screening"
+      ],
+      "topic": "screening",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Oral Cavity and Nasopharyngeal Cancers",
+      "title": "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+      "summary_name": "Oral Cavity and Nasopharyngeal Cancers Screening",
+      "url": "https://www.cancer.gov/types/head-and-neck/hp/oral-screening-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "April 14, 2025",
+      "retrieved_at": "2026-08-31T07:10:43.545301+00:00",
+      "content_sha256": "0491ebd3ff62825fc8e169bac849301ab071b874f47056951042103022a481cb",
+      "section_count": 21,
+      "sections": [
+        {
+          "section": "Overview",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers may be referred to as head and neck squamous cell cancers. Oral cavity squamous cell cancers most commonly arise from the mucosal surfaces lining the oral cavity. Pharyngeal squamous cell cancers can be categorized into nasopharyngeal, oropharyngeal, and hypopharyngeal cancers on the basis of anatomical landmarks. Figure 1 shows the anatomy of the pharynx.\nNote: The Overview section summarizes the published evidence on this topic. The rest of the summary describes the evidence in more detail.\nOther PDQ summaries on Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention and Lip and Oral Cavity Cancer Treatment are also available."
+        },
+        {
+          "section": "Benefits",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Overview",
+            "Benefits"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "There is inadequate evidence to establish whether screening would result in a decrease in mortality from oral cavity and nasopharyngeal cancers.\nMagnitude of Effect : No evidence of benefit, and harms have not been quantified.\n- Study Design : Evidence obtained from one randomized controlled trial and observational studies.\n- Internal Validity : Poor.\n- Consistency : Not applicable (N/A).\n- External Validity : Poor."
+        },
+        {
+          "section": "Harms",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Overview",
+            "Harms"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Harms, although unavoidable, have not been quantified on the basis of the literature. However, there are some unavoidable harms that would be associated with routine screening, including:\n- Unnecessary treatment associated with overdiagnosis.\n- Psychological consequences of false-positive tests.\n- Misdiagnosis because of variability in assessment of biopsies.\nMagnitude of Effect : Unknown.\n- Study Design : Observational studies.\n- Internal Validity : Poor.\n- Consistency : N/A.\n- External Validity : Poor."
+        },
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "An estimated 59,660 new cases of oral cavity and oropharynx cancers will be diagnosed in the United States in 2025, and an estimated 12,770 people will die of these diseases.[ 1 ] The overall annual incidence in the United States is about 11 cases per 100,000 men and women; the incidence rate is highest in individuals aged 75 to 84 years.[ 2 ]\nBetween 2012 and 2021, incidence rates increased by 0.7% per year.[ 1 ] The incidence has been increasing for oral cavity and oropharyngeal cancers related to human papillomavirus (HPV) infection. About 60% of oral/pharyngeal cancers are moderately advanced (regional stage) or metastatic at the time of diagnosis.[ 2 ] The 5-year relative survival rate is 69%.[ 1 ]\nThe estimated annual worldwide number of cases of oral cavity and oropharyngeal cancers is about 275,000, with an approximate 20-fold variation geographically.[ 3 ] South and Southeast Asia (India, Sri Lanka, Pakistan, and Bangladesh), France, and Brazil have particularly high rates. In most countries, men have higher rates of oral cavity cancer than women (caused by tobacco use) and higher rates of lip cancer (caused by sunlight exposure from outdoor occupations).[ 3 ]\nNasopharyngeal cancers are rare in the United States, with an annual incidence rate of 0.7 cases per 100,000 persons.[ 4 ] However, there are marked geographic differences, with an overall incidence in China that is 40- to 380-fold higher than that in the United States.[ 4 ] There are elevated rates of nasopharyngeal cancers in the Cantonese population of southern China (including Hong Kong), and intermediate rates are observed in several indigenous populations in Southeast Asia and in natives of the Arctic region, North Africa, and the Middle East. First-generation Chinese immigrants to the United States maintain a high incidence rate, while their descendants born in the United States show a decreased incidence. The 5-year survival rate for keratinizing squamous cell carcinoma, the most common subtype of nasopharyngeal cancer in the United States, is 46%.[ 5 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Incidence and Mortality",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. Available online . Last accessed January 16, 2025.\n- Surveillance Research Program, National Cancer Institute: SEER*Explorer: An interactive website for SEER cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed December 30, 2024.\n- Warnakulasuriya S: Global epidemiology of oral and oropharyngeal cancer. Oral Oncol 45 (4-5): 309-16, 2009 Apr-May. [PUBMED Abstract]\n- Richey LM, Olshan AF, George J, et al.: Incidence and survival rates for young blacks with nasopharyngeal carcinoma in the United States. Arch Otolaryngol Head Neck Surg 132 (10): 1035-40, 2006. [PUBMED Abstract]\n- Ou SH, Zell JA, Ziogas A, et al.: Epidemiology of nasopharyngeal carcinoma in the United States: improved survival of Chinese patients within the keratinizing squamous cell carcinoma histology. Ann Oncol 18 (1): 29-35, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The primary risk factors for oral cavity cancers in American men and women are tobacco (including smokeless tobacco) use, alcohol use, betel-quid chewing, and human papillomavirus infection (HPV).\nRisk factors for nasopharyngeal cancer include Epstein-Barr virus (EBV) persistent infection.[ 1 ]\nFor more information about factors associated with an increased or decreased risk of oral cavity squamous cell cancers, see Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention and Lip and Oral Cavity Cancer Treatment ."
+        },
+        {
+          "section": "Epstein-Barr Virus (EBV) Infection",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "Epstein-Barr Virus (EBV) Infection"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Based on solid evidence, EBV infection causes nasopharyngeal cancer in high-incidence areas.[ 1 ] Collective evidence includes numerous case-control studies and cohort studies that show a higher proportion of patients with nasopharyngeal cancer who have anti-EBV antibodies than controls and that seropositive status precedes tumor diagnosis.[ 2 , 3 ] Recent studies have also found circulating cell-free EBV DNA in patients with nasopharyngeal cancer but not in controls.[ 4 ] EBV alone is not a sufficient cause because 90% of adults worldwide are infected with the virus, but only a small proportion develop nasopharyngeal cancer.[ 5 ] EBV infection is subclinical and occurs early in childhood. The pathogenesis is thought to involve the virus establishing latency in epithelial cells that have already undergone premalignant genetic changes.\nOne of the first studies to show an association was a cohort study that found higher anti-EBV titers in 84% of the 235 East African and Chinese patients with nasopharyngeal carcinoma.[ 2 , 5 ] The same study found higher anti-EBV titers with higher-stage tumor, and a case-control component of the study revealed that high anti-EBV titers were six times more likely in patients with nasopharyngeal carcinoma than in patients with head and neck cancers at other sites.\nOther studies show elevation in both IgG and IgA antibody titers to EBV viral capsid antigen and other latent viral antigens, which precede tumor development by several years and are correlated with tumor burden, remission, and recurrence.[ 2 , 3 ] A large cohort study with 9,699 men measured both IgA antibodies against EBV capsid antigen and neutralizing antibodies against EBV-specific DNase and followed them for a later diagnosis of nasopharyngeal cancer.[ 3 ] The relative risk of nasopharyngeal carcinoma was 32.8 for individuals with both antibody markers (95% confidence interval [CI], 7.3–147.2; P < .001), and 4.0 for individuals with one marker (95% CI, 1.6–10.2; P = .003), compared with individuals with neither marker. There was a temporal relationship in that the difference in cumulative incidence between seropositive and seronegative patients increased with a longer duration of follow-up. Another study found circulating cell-free EBV DNA in 95% of patients with advanced nasopharyngeal cancer but not in controls or cured patients.[ 4 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "Epstein-Barr Virus (EBV) Infection",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- IARC Working Group on the Evaluation of Carcinogenic Risks to Humans: Biological agents. Volume 100 B. A review of human carcinogens. IARC Monogr Eval Carcinog Risks Hum 100 (Pt B): 1-441, 2012. [PUBMED Abstract]\n- Henle W, Henle G, Ho HC, et al.: Antibodies to Epstein-Barr virus in nasopharyngeal carcinoma, other head and neck neoplasms, and control groups. J Natl Cancer Inst 44 (1): 225-31, 1970. [PUBMED Abstract]\n- Chien YC, Chen JY, Liu MY, et al.: Serologic markers of Epstein-Barr virus infection and nasopharyngeal carcinoma in Taiwanese men. N Engl J Med 345 (26): 1877-82, 2001. [PUBMED Abstract]\n- Lin JC, Wang WY, Chen KY, et al.: Quantification of plasma Epstein-Barr virus DNA in patients with advanced nasopharyngeal carcinoma. N Engl J Med 350 (24): 2461-70, 2004. [PUBMED Abstract]\n- Chang ET, Adami HO: The enigmatic epidemiology of nasopharyngeal carcinoma. Cancer Epidemiol Biomarkers Prev 15 (10): 1765-77, 2006. [PUBMED Abstract]"
+        },
+        {
+          "section": "Evidence of Benefit Associated With Screening",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Evidence of Benefit Associated With Screening"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "No population-based screening programs for oral cavity squamous cell cancers have been implemented in developed countries, although opportunistic screening or screening as part of a periodic health examination has been advocated for the oral cavity, which is the only site accessible without endoscopy.[ 1 , 2 ]"
+        },
+        {
+          "section": "Screening for Oral Cavity Cancers",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Evidence of Benefit Associated With Screening",
+            "Screening for Oral Cavity Cancers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "There are different methods of screening for oral cavity cancers. Oral cavity cancers occur in a region of the body that is generally accessible to physical examination by the patient, the dentist, and the physician. Visual examination is the most common method used to detect visible lesions. Other methods have been used to augment clinical detection of oral lesions and include toluidine blue, brush biopsy, and fluorescence staining.\nAn inspection of the oral cavity is often part of a physical examination in a dentist's or physician's office. Of note, high-risk individuals visit their medical doctors more frequently than they visit their dentists. Although physicians are more likely to provide risk-factor counseling (such as tobacco cessation), they are less likely than dentists to perform an oral cancer examination.[ 3 ] Overall, only a fraction (~20%) of Americans receive an oral cancer examination. Black patients, Hispanic patients, and those who have a lower level of education are less likely to have such an examination, perhaps because they lack access to medical care.[ 3 ] An oral examination often includes looking for leukoplakia and erythroplakia lesions, which can progress to cancer.[ 4 , 5 ] One study has shown that direct fluorescence visualization (using a simple hand-held device in the operating room) could identify subclinical high-risk fields with cancerous or precancerous changes extending up to 25 mm beyond the primary tumor in 19 of 20 patients undergoing oral surgery for invasive or in situ squamous cell tumors.[ 6 ] However, this finding has not yet been tested in a screening setting. Data suggest that molecular markers may be useful in the prognosis of these premalignant oral lesions.[ 7 ]\nThe routine examination of asymptomatic and symptomatic patients can lead to detection of earlier-stage cancers and premalignant lesions. There is no definitive evidence, however, to show that this screening can reduce oral cancer mortality, and there are no randomized controlled trials (RCTs) in any Western or other low-risk populations.[ 5 , 8 - 11 ]\nIn a single RCT of screening versus usual care, 13 geographic clusters in the Trivandrum district of Kerala, India, were randomly assigned to receive systematic oral visual screening by trained health workers (seven screened clusters, six control clusters) every 3 years for four screening rounds between 1996 and 2008. During a 15-year follow-up period, there were 138 deaths from oral cancer in the screening group, with a cause-specific mortality rate of 15.4 per 100,000 person-years, and 154 deaths in the control group, with a mortality rate of 17.1 per 100,000 person-years (relative risk [RR], 0.88; 95% confidence interval [CI], 0.69–1.12). In a subset analysis restricted to tobacco or alcohol users, the mortality rates were 30 and 39 per 100,000 person-years, respectively (RR, 0.76; 95% CI, 0.60–0.97). There was no apparent adjustment of the CIs for the cluster design. In another subgroup analysis, mortality hazard ratios were calculated for groups defined by number of times screened, but the inappropriate comparison in each case was to the control group of the whole study. No data on treatment of oral cancers were presented.[ 12 - 15 ]\nAside from the issues of generalizability to other populations and lack of an overall statistically significant result in cause-specific mortality, interpretation of the results is made difficult by serious lacks in methodological detail about the randomization process, allocation concealment, adjustment for clustering effect, and information about treatment. The total number of clusters randomized was small, and there were different distributions of income and household possessions between the two study arms. Withdrawals and dropouts were not clearly described. In summary, the sole randomized trial does not provide solid evidence of a cause-specific mortality benefit associated with systematic oral cavity visual examination.\nTechniques such as toluidine blue staining, brush biopsy/cytology, or fluorescence imaging as the primary screening tool or as an adjunct for screening have not been shown to have superior sensitivity and specificity for visual examination alone or to yield better health outcomes.[ 5 , 16 ] In an RCT conducted in Keelung County, Taiwan, 7,975 individuals at high risk of oral cancer due to cigarette smoking or betel-quid chewing were randomly assigned to receive a one-time oral cancer examination after gargling with toluidine blue or a blue placebo dye.[ 17 ] The positive test rates were 9.5% versus 8.3%, respectively ( P = .047). The detection of premalignant lesions was not statistically different (rate ratio, 1.05; 95% CI, 0.74–1.41). The number of overall oral cancers diagnosed within the short follow-up period of 5 years was too small for valid comparison (six in each group).\nThe operating characteristics of the various techniques used as an adjunct to oral visual examination are not well established. A systematic literature review of toluidine blue, a variety of other visualization adjuncts, and cytopathology in the screening setting revealed a very broad range of reported sensitivities, specificities, and positive predictive values when biopsy confirmation was used as the gold standard outcome.[ 18 ] In part, this range of findings can be attributed to varying study populations, sample size and settings, and criteria for positive-clinical examinations and for scoring a biopsy as positive."
+        },
+        {
+          "section": "Screening for Nasopharyngeal Cancer",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Evidence of Benefit Associated With Screening",
+            "Screening for Nasopharyngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Serum Epstein-Barr virus (EBV)–associated antibodies and circulating cell-free EBV DNA testing have been used for nasopharyngeal cancer diagnosis and screening. In an observational study of 20,349 men aged 40 to 62 years, circulating cell-free EBV DNA testing was used to screen for nasopharyngeal cancer.[ 19 , 20 ] A total of 1.5% of participants tested positive twice for EBV DNA and had further workup, leading to a diagnosis of nasopharyngeal cancer for 34 patients. The EBV DNA test had a sensitivity of 97.1% (95% CI, 95.5%–98.7%) and specificity of 98.6% (95% CI, 98.6%–98.7%). Without a control group, the study compared stage of disease at diagnosis with a historical cohort and found a higher proportion of stage I and stage II disease (71% vs. 20%; P < .001) and superior 3-year progression-free survival in the screen-detected population. However, the survival benefit in the study may also be caused by lead-time bias.\nOther screening programs in southern China use EBV-associated antibodies, but their effects are difficult to determine because of lack of controls for comparison of survival outcomes.[ 20 - 22 ] In summary, current screening studies for nasopharyngeal cancer do not provide solid evidence of a benefit associated with screening for nasopharyngeal cancer, especially in nonendemic regions such as the United States."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Evidence of Benefit Associated With Screening",
+            "Screening for Nasopharyngeal Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "- Opportunistic oral cancer screening: a management strategy for dental practice. BDA Occasional Paper 6: 1-36, 2000. Also available online . Last accessed April 14, 2025.\n- Smith RA, Cokkinides V, Brooks D, et al.: Cancer screening in the United States, 2011: A review of current American Cancer Society guidelines and issues in cancer screening. CA Cancer J Clin 61 (1): 8-30, 2011 Jan-Feb. [PUBMED Abstract]\n- Kerr AR, Changrani JG, Gany FM, et al.: An academic dental center grapples with oral cancer disparities: current collaboration and future opportunities. J Dent Educ 68 (5): 531-41, 2004. [PUBMED Abstract]\n- Warnakulasuriya S, Johnson NW, van der Waal I: Nomenclature and classification of potentially malignant disorders of the oral mucosa. J Oral Pathol Med 36 (10): 575-80, 2007. [PUBMED Abstract]\n- Brocklehurst P, Kujan O, Glenny AM, et al.: Screening programmes for the early detection and prevention of oral cancer. Cochrane Database Syst Rev (11): CD004150, 2010. [PUBMED Abstract]\n- Poh CF, Zhang L, Anderson DW, et al.: Fluorescence visualization detection of field alterations in tumor margins of oral cancer patients. Clin Cancer Res 12 (22): 6716-22, 2006. [PUBMED Abstract]\n- Poh CF, Zhang L, Lam WL, et al.: A high frequency of allelic loss in oral verrucous lesions may explain malignant risk. Lab Invest 81 (4): 629-34, 2001. [PUBMED Abstract]\n- Screening for oral cancer. In: Fisher M, Eckhart C, eds.: Guide to Clinical Preventive Services: an Assessment of the Effectiveness of 169 Interventions. Report of the U.S. Preventive Services Task Force. Williams & Wilkins, 1989, pp 91-94.\n- Antunes JL, Biazevic MG, de Araujo ME, et al.: Trends and spatial distribution of oral cancer mortality in São Paulo, Brazil, 1980-1998. Oral Oncol 37 (4): 345-50, 2001. [PUBMED Abstract]\n- U.S. Preventive Services Task Force: Screening for Oral Cancer: Recommendation Statement. Rockville, Md: U.S. Preventive Services Task Force, 2013. Available online . Last accessed April 14, 2025.\n- Scattoloni J: Screening for Oral Cancer: Brief Evidence Update. Rockville, Md: U.S. Preventive Services Task Force, 2004. Available online . Last accessed April 14, 2025.\n- Sankaranarayanan R, Mathew B, Jacob BJ, et al.: Early findings from a community-based, cluster-randomized, controlled oral cancer screening trial in Kerala, India. The Trivandrum Oral Cancer Screening Study Group. Cancer 88 (3): 664-73, 2000. [PUBMED Abstract]\n- Ramadas K, Sankaranarayanan R, Jacob BJ, et al.: Interim results from a cluster randomized controlled oral cancer screening trial in Kerala, India. Oral Oncol 39 (6): 580-8, 2003. [PUBMED Abstract]\n- Sankaranarayanan R, Ramadas K, Thomas G, et al.: Effect of screening on oral cancer mortality in Kerala, India: a cluster-randomised controlled trial. Lancet 365 (9475): 1927-33, 2005 Jun 4-10. [PUBMED Abstract]\n- Sankaranarayanan R, Ramadas K, Thara S, et al.: Long term effect of visual screening on oral cancer incidence and mortality in a randomized trial in Kerala, India. Oral Oncol 49 (4): 314-21, 2013. [PUBMED Abstract]\n- Lingen MW, Kalmar JR, Karrison T, et al.: Critical evaluation of diagnostic aids for the detection of oral cancer. Oral Oncol 44 (1): 10-22, 2008. [PUBMED Abstract]\n- Su WW, Yen AM, Chiu SY, et al.: A community-based RCT for oral cancer screening with toluidine blue. J Dent Res 89 (9): 933-7, 2010. [PUBMED Abstract]\n- Patton LL, Epstein JB, Kerr AR: Adjunctive techniques for oral cancer examination and lesion diagnosis: a systematic review of the literature. J Am Dent Assoc 139 (7): 896-905; quiz 993-4, 2008. [PUBMED Abstract]\n- Chan KCA, Woo JKS, King A, et al.: Analysis of Plasma Epstein-Barr Virus DNA to Screen for Nasopharyngeal Cancer. N Engl J Med 377 (6): 513-522, 2017. [PUBMED Abstract]\n- Cao SM, Simons MJ, Qian CN: The prevalence and prevention of nasopharyngeal carcinoma in China. Chin J Cancer 30 (2): 114-9, 2011. [PUBMED Abstract]\n- Zeng Y, Zhang LG, Li HY, et al.: Serological mass survey for early detection of nasopharyngeal carcinoma in Wuzhou City, China. Int J Cancer 29 (2): 139-41, 1982. [PUBMED Abstract]\n- Zeng Y, Zhong JM, Li LY, et al.: Follow-up studies on Epstein-Barr virus IgA/VCA antibody-positive persons in Zangwu County, China. Intervirology 20 (4): 190-4, 1983. [PUBMED Abstract]"
+        },
+        {
+          "section": "Evidence of Harm Associated With Screening",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Evidence of Harm Associated With Screening"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Harms associated with screening for oral cavity squamous cell cancers are poorly studied in any quantifiable way.[ 1 ] However, there are some unavoidable harms that would be associated with routine screening, including:\n- Unnecessary treatment of lesions that would not have progressed (overdiagnosis).\n- Psychological consequences of false-positive tests.[ 2 ]\nAn additional potential harm is misdiagnosis and resulting under- or overtreatment, given the subjective pathology judgments in the reading of biopsies of oral lesions. When 87 biopsy diagnoses of oral lesions were compared between 21 local pathologists and double-reading by two of three central pathologists in a multicenter study of patients with prior upper aerodigestive tract cancers, agreement was only fair to good (kappa-weighted statistic, 0.59; 95% confidence interval [CI], 0.45–0.72).[ 3 ] In a bivariate categorization of carcinoma in situ plus carcinoma versus less serious lesions, the agreement was poor, but with very wide CIs (kappa statistic, 0.39; 95% CI, -0.12 to -0.97). The investigators in the same study analyzed an agreement between the local and central pathologists on clinically normal tissue adjacent to 67 biopsied, clinically suspicious lesions. The agreement on clinically normal tissue was better than for visibly abnormal lesions, but still not in the excellent range (kappa-weighted statistic, 0.75; 95% CI, 0.64–0.86).[ 4 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Evidence of Harm Associated With Screening",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Scattoloni J: Screening for Oral Cancer: Brief Evidence Update. Rockville, Md: U.S. Preventive Services Task Force, 2004. Available online . Last accessed April 14, 2025.\n- Speight PM, Zakrzewska J, Downer MC: Screening for oral cancer and precancer. Eur J Cancer B Oral Oncol 28B (1): 45-8, 1992. [PUBMED Abstract]\n- Fischer DJ, Epstein JB, Morton TH, et al.: Interobserver reliability in the histopathologic diagnosis of oral pre-malignant and malignant lesions. J Oral Pathol Med 33 (2): 65-70, 2004. [PUBMED Abstract]\n- Fischer DJ, Epstein JB, Morton TH, et al.: Reliability of histologic diagnosis of clinically normal intraoral tissue adjacent to clinically suspicious lesions in former upper aerodigestive tract cancer patients. Oral Oncol 41 (5): 489-96, 2005. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (04/14/2025)",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (04/14/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nIncidence and Mortality\nUpdated statistics with estimated new cases and deaths for 2025 (cited American Cancer Society as reference 1).\nRevised text to state that between 2012 and 2021, incidence rates increased by 0.7% per year.\nThis summary is written and maintained by the PDQ Screening and Prevention Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about oral cavity and nasopharyngeal cancers screening. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 7,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Screening and Prevention Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Screening and Prevention Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Screening and Prevention Editorial Board. PDQ Oral Cavity and Nasopharyngeal Cancers Screening. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/hp/oral-screening-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389219]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\a1f3a47018a5e51a41e9.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "screening"
+      ],
+      "topic": "screening",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Oral Cavity and Nasopharyngeal Cancers",
+      "title": "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+      "summary_name": "Oral Cavity and Nasopharyngeal Cancers Screening",
+      "url": "https://www.cancer.gov/types/head-and-neck/patient/oral-screening-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 8, 2025",
+      "retrieved_at": "2026-08-31T07:11:03.392594+00:00",
+      "content_sha256": "1c3c3ab46d31421df7bf5c342e84630ddc03979f8842d3c6b0987694a0a2d4d3",
+      "section_count": 21,
+      "sections": [
+        {
+          "section": "What Is Screening?",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "What Is Screening?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Screening is looking for cancer before a person has any symptoms . This can help find cancer at an early stage . When abnormal tissue or cancer is found early, it may be easier to treat. By the time symptoms appear, cancer may have begun to spread.\nScientists are trying to better understand which people are more likely to get certain types of cancer. They also study the things we do and the things around us to see if they cause cancer. This information helps doctors recommend who should be screened for cancer, which screening tests should be used, and how often the tests should be done.\nIt is important to remember that your doctor does not necessarily think you have cancer if he or she suggests a screening test. Screening tests are given when you have no cancer symptoms.\nIf a screening test result is abnormal, you may need to have more tests done to find out if you have cancer. These are called diagnostic tests ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "General Information About Oral Cavity and Nasopharyngeal Cancers",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Oral cavity and nasopharyngeal cancers are diseases in which malignant (cancer) cells form in the mouth and throat.\n- The number of new cases of oral cavity and nasopharyngeal cancers and the number of deaths from these cancers vary by sex and geographic region.\n- Different factors increase or decrease the risk of oral cavity and nasopharyngeal cancers."
+        },
+        {
+          "section": "Oral cavity and nasopharyngeal cancers are diseases in which malignant (cancer) cells form in the mouth and throat.",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "General Information About Oral Cavity and Nasopharyngeal Cancers",
+            "Oral cavity and nasopharyngeal cancers are diseases in which malignant (cancer) cells form in the mouth and throat."
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Oral cavity cancer usually forms in the squamous cells (thin, flat cells lining the inside of the oral cavity ).\nOral cavity cancer forms in any of these tissues of the oral cavity:\n- the lips\n- the front two thirds of the tongue\n- the gingiva (gums)\n- the buccal mucosa (the lining of the inside of the cheeks)\n- the floor (bottom) of the mouth under the tongue\n- the hard palate (the front of the roof of the mouth)\n- the retromolar trigone (the small area behind the wisdom teeth )\nPharyngeal cancer forms in the tissues of the pharynx (throat), including the nasopharynx , oropharynx , and hypopharynx . This summary covers nasopharyngeal cancer , which forms in the tissue of the nasopharynx (the upper part of the throat behind the nose).\nOther PDQ summaries containing information related to oral cavity and nasopharyngeal cancers include:\n- Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention\n- Lip and Oral Cavity Cancer Treatment\n- Nasopharyngeal Cancer Treatment"
+        },
+        {
+          "section": "The number of new cases of oral cavity and nasopharyngeal cancers and the number of deaths from these cancers vary by sex and geographic region.",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "General Information About Oral Cavity and Nasopharyngeal Cancers",
+            "The number of new cases of oral cavity and nasopharyngeal cancers and the number of deaths from these cancers vary by sex and geographic region."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "From 2012 to 2021, the number of new cases of oral cavity cancer in the United States increased slightly each year.\nOral cavity cancer is more common in men than in women. Although oral cavity cancer may occur in adults of any age, it occurs most often in those aged 75 to 84 years.\nFrance, Brazil, and parts of Asia have much higher rates of oral cavity cancer than most other countries.\nNasopharyngeal cancer is rare in the United States. Some indigenous populations in Southeast Asia, the Arctic, North Africa, and the Middle East have higher rates of nasopharyngeal cancers."
+        },
+        {
+          "section": "Different factors increase or decrease the risk of oral cavity and nasopharyngeal cancers.",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "General Information About Oral Cavity and Nasopharyngeal Cancers",
+            "Different factors increase or decrease the risk of oral cavity and nasopharyngeal cancers."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Anything that increases your chance of getting a disease is called a risk factor . Anything that decreases your chance of getting a disease is called a protective factor .\nBeing infected with Epstein-Barr virus (EBV) increases the risk of nasopharyngeal cancer.\nOther PDQ summaries containing information related to oral cavity and nasopharyngeal cancers include:\n- Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention\n- Lip and Oral Cavity Cancer Treatment"
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "Oral Cavity and Nasopharyngeal Cancers Screening",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Tests are used to screen for different types of cancer when a person does not have symptoms.\n- There are no standard or routine screening tests for oral cavity and nasopharyngeal cancers.\n- Screening tests for oral cavity and nasopharyngeal cancers are being studied in clinical trials."
+        },
+        {
+          "section": "Tests are used to screen for different types of cancer when a person does not have symptoms.",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "Oral Cavity and Nasopharyngeal Cancers Screening",
+            "Tests are used to screen for different types of cancer when a person does not have symptoms."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Scientists study screening tests to find those with the fewest harms and most benefits. Cancer screening trials also are meant to show whether early detection (finding cancer before it causes symptoms ) helps a person live longer or decreases a person's chance of dying from the disease. For some types of cancer, the chance of recovery is better if the disease is found and treated at an early stage ."
+        },
+        {
+          "section": "There are no standard or routine screening tests for oral cavity and nasopharyngeal cancers.",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "Oral Cavity and Nasopharyngeal Cancers Screening",
+            "There are no standard or routine screening tests for oral cavity and nasopharyngeal cancers."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "No studies have shown that screening for oral cavity cancer and nasopharyngeal cancer would lower the risk of dying from these diseases.\nA dentist or medical doctor may check the oral cavity during a routine check-up. The exam will include looking for lesions , including areas of leukoplakia (an abnormal white patch of cells) and erythroplakia (an abnormal red patch of cells). Leukoplakia and erythroplakia lesions on the mucous membranes may become cancerous.\nIf lesions are seen in the mouth, the following procedures may be used to find abnormal tissue that might become oral cavity cancer:\n- Toluidine blue stain: A procedure in which lesions in the mouth are coated with a blue dye. Areas that stain darker are more likely to be cancer or become cancer.\n- Fluorescence staining: A procedure in which lesions in the mouth are viewed using a special light. After the patient uses a fluorescent mouth rinse, normal tissue looks different from abnormal tissue when seen under the light.\n- Exfoliative cytology : A procedure to collect cells from the oral cavity. A piece of cotton, a brush, or a small wooden stick is used to gently scrape cells from the lips, tongue, or mouth. The cells are viewed under a microscope to find out if they are abnormal.\n- Brush biopsy : The removal of cells using a brush that is designed to collect cells from all layers of a lesion. The cells are viewed under a microscope to find out if they are abnormal.\nMore than half of oral cancers have already spread to lymph nodes or other areas by the time they are found.\nEpstein-Barr virus (EBV) has been linked to nasopharyngeal cancer. Screening for nasopharyngeal cancer using the EBV antibody test or EBV DNA test has been studied. These are laboratory tests used to check the blood for EBV antibodies or EBV DNA. If EBV antibodies or DNA are found in the blood, more tests may be done to check for nasopharyngeal cancer. No studies have shown that screening would decrease the risk of dying from this disease."
+        },
+        {
+          "section": "Screening tests for oral cavity and nasopharyngeal cancers are being studied in clinical trials.",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "Oral Cavity and Nasopharyngeal Cancers Screening",
+            "Screening tests for oral cavity and nasopharyngeal cancers are being studied in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "Risks of Oral Cavity and Nasopharyngeal Cancers Screening",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Screening tests have risks.\n- The risks of screening for oral cavity and nasopharyngeal cancers include:\n- Finding these cancers may not improve health or help a person live longer.\n- False-negative test results can occur.\n- False-positive test results can occur."
+        },
+        {
+          "section": "Screening tests have risks.",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "Risks of Oral Cavity and Nasopharyngeal Cancers Screening",
+            "Screening tests have risks."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Decisions about screening tests can be difficult. Not all screening tests are helpful and most have risks. Before having any screening test, you may want to discuss the test with your doctor. It is important to know the risks of the test and whether it has been proven to reduce the risk of dying from cancer."
+        },
+        {
+          "section": "Finding these cancers may not improve health or help a person live longer.",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "Risks of Oral Cavity and Nasopharyngeal Cancers Screening",
+            "The risks of screening for oral cavity and nasopharyngeal cancers include:",
+            "Finding these cancers may not improve health or help a person live longer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Some cancers never cause symptoms or become life-threatening, but if found by a screening test, the cancer may be treated. Finding these cancers is called overdiagnosis . It is not known if treatment of oral cavity cancer or nasopharyngeal cancer would help you live longer than if no treatment were given, and treatments for cancer, such as surgery and radiation therapy , may have serious side effects ."
+        },
+        {
+          "section": "False-negative test results can occur.",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "Risks of Oral Cavity and Nasopharyngeal Cancers Screening",
+            "The risks of screening for oral cavity and nasopharyngeal cancers include:",
+            "False-negative test results can occur."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Screening test results may appear to be normal even though oral cavity cancer or nasopharyngeal cancer is present. A person who receives a false-negative test result (one that shows there is no cancer when there really is) may delay seeking medical care even if there are symptoms."
+        },
+        {
+          "section": "False-positive test results can occur.",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "Risks of Oral Cavity and Nasopharyngeal Cancers Screening",
+            "The risks of screening for oral cavity and nasopharyngeal cancers include:",
+            "False-positive test results can occur."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Screening test results may appear to be abnormal even though no cancer is present. A false-positive test result (one that shows there is cancer when there really isn't) can cause anxiety and is usually followed by more tests and procedures (such as biopsy ), which also have risks."
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about oral cavity and nasopharyngeal cancers screening. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Screening and Prevention Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Screening and Prevention Editorial Board. PDQ Oral Cavity and Nasopharyngeal Cancers Screening. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/patient/oral-screening-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389441]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Oral Cavity and Nasopharyngeal Cancers Screening (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\5c93e91faebc67ade068.html"
+    }
+  ]
+}

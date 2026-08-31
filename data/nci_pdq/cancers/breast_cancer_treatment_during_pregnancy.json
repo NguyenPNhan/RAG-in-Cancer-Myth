@@ -1,0 +1,348 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Breast Cancer Treatment During Pregnancy",
+  "generated_at": "2026-08-31T07:15:22.958844+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Breast Cancer Treatment During Pregnancy",
+      "title": "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+      "summary_name": "Breast Cancer Treatment During Pregnancy",
+      "url": "https://www.cancer.gov/types/breast/hp/pregnancy-breast-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "December 4, 2024",
+      "retrieved_at": "2026-08-31T07:09:11.463380+00:00",
+      "content_sha256": "a8469c6896feb671ec0eed5d0fa175d553439bd44ca05b56ebd8e4504b7a55ab",
+      "section_count": 28,
+      "sections": [
+        {
+          "section": "Incidence",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "General Information About Breast Cancer Treatment During Pregnancy",
+            "Incidence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Breast cancer is the most common cancer in pregnant and postpartum women and occurs in about 1 in 3,000 pregnant women. The average patient is between the ages of 32 years and 38 years. Because many women are choosing to delay childbearing, it is likely that the incidence of breast cancer during pregnancy will increase."
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "General Information About Breast Cancer Treatment During Pregnancy",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Enlarge The female breast contains lobes, lobules, and ducts that produce and transport milk to the nipple. Fatty tissue gives the breast its shape, while muscles and the chest wall provide support. The lymphatic system, including lymph nodes, filter lymph and store white blood cells that help fight infection and disease."
+        },
+        {
+          "section": "Diagnostic Evaluation",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "General Information About Breast Cancer Treatment During Pregnancy",
+            "Diagnostic Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "The natural tenderness and engorgement of the breasts of pregnant and lactating women may hinder detection of discrete masses and early diagnosis of breast cancer. Delays in diagnosis are common, with an average reported delay of 5 to 15 months from the onset of symptoms.[ 1 - 4 ] Because of this delay, cancers are typically detected at a later stage than in a nonpregnant, age-matched population.[ 5 ]\nThe following tests and procedures may be used to diagnose breast cancer during pregnancy:\n- Breast self-examination.\n- Clinical breast examination.\n- Ultrasound.\n- Biopsy and hormone receptor assays.\n- Mammography.\nTo detect breast cancer, pregnant and lactating women should consider practicing self-examination and undergo a clinical breast examination as part of the routine prenatal examination by a doctor. If an abnormality is found, diagnostic approaches such as ultrasound and mammography may be used. With proper shielding, mammography poses little risk of radiation exposure to the fetus.[ 6 ] However, mammograms are only used to evaluate dominant masses and to locate occult carcinomas in the presence of other suspicious physical findings.[ 6 ]\nBecause at least 25% of mammograms in pregnancy may be negative in the presence of cancer, a biopsy is essential for the diagnosis of any palpable mass. Diagnosis may be safely accomplished with a fine-needle aspiration, core biopsy, or excisional biopsy under local anesthesia. To avoid a false-positive diagnosis as a result of misinterpretation of pregnancy-related changes, the pathologist should be advised that the patient is pregnant.[ 7 ]\nBreast cancer pathology is similar in age-matched pregnant and nonpregnant women. Hormone receptor assays using a competitive binding assay are usually negative in pregnant patients with breast cancer, but this may be the result of receptor binding by high serum estrogen levels associated with the pregnancy. Enzyme immunocytochemical receptor assays are more sensitive than competitive binding assays. A study that used both assay methods indicated similar receptor positivity between pregnant and nonpregnant women with breast cancer.[ 8 ] The study concluded that increased estrogen levels during pregnancy could result in a higher incidence of receptor positivity detected with immunohistochemistry than is detected by radiolabeled ligand-binding assay because of competitive inhibition by high levels of endogenous estrogen.\nFor more information, see the Diagnosis section in Breast Cancer Treatment."
+        },
+        {
+          "section": "Prognosis",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "General Information About Breast Cancer Treatment During Pregnancy",
+            "Prognosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The overall survival of pregnant women with breast cancer may be worse than that of nonpregnant women at all stages.[ 6 ] However, this discrepancy may be primarily the result of delayed diagnosis.[ 9 ] Termination of pregnancy has not shown any beneficial effect on breast cancer outcome and is not usually considered as a therapeutic option.[ 1 , 2 , 4 , 10 , 11 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "General Information About Breast Cancer Treatment During Pregnancy",
+            "Prognosis",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Hoover HC: Breast cancer during pregnancy and lactation. Surg Clin North Am 70 (5): 1151-63, 1990. [PUBMED Abstract]\n- Gwyn K, Theriault R: Breast cancer during pregnancy. Oncology (Huntingt) 15 (1): 39-46; discussion 46, 49-51, 2001. [PUBMED Abstract]\n- Moore HC, Foster RS: Breast cancer and pregnancy. Semin Oncol 27 (6): 646-53, 2000. [PUBMED Abstract]\n- Rugo HS: Management of breast cancer diagnosed during pregnancy. Curr Treat Options Oncol 4 (2): 165-73, 2003. [PUBMED Abstract]\n- Clark RM, Chua T: Breast cancer and pregnancy: the ultimate challenge. Clin Oncol (R Coll Radiol) 1 (1): 11-8, 1989. [PUBMED Abstract]\n- Yang WT, Dryden MJ, Gwyn K, et al.: Imaging of breast cancer diagnosed and treated with chemotherapy during pregnancy. Radiology 239 (1): 52-60, 2006. [PUBMED Abstract]\n- Middleton LP, Amin M, Gwyn K, et al.: Breast carcinoma in pregnant women: assessment of clinicopathologic and immunohistochemical features. Cancer 98 (5): 1055-60, 2003. [PUBMED Abstract]\n- Elledge RM, Ciocca DR, Langone G, et al.: Estrogen receptor, progesterone receptor, and HER-2/neu protein in breast cancers from pregnant patients. Cancer 71 (8): 2499-506, 1993. [PUBMED Abstract]\n- Petrek JA, Dukoff R, Rogatko A: Prognosis of pregnancy-associated breast cancer. Cancer 67 (4): 869-72, 1991. [PUBMED Abstract]\n- Barnavon Y, Wallack MK: Management of the pregnant patient with carcinoma of the breast. Surg Gynecol Obstet 171 (4): 347-52, 1990. [PUBMED Abstract]\n- Gallenberg MM, Loprinzi CL: Breast cancer and pregnancy. Semin Oncol 16 (5): 369-76, 1989. [PUBMED Abstract]"
+        },
+        {
+          "section": "Staging Evaluation",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Stage Information for Breast Cancer Treatment and Pregnancy",
+            "Staging Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "The following procedures are used to determine the extent of the cancer:\n- Chest x-ray.\n- Bone scan.\n- Ultrasound of the liver.\n- Magnetic resonance imaging (MRI) of the brain.\nProcedures used for determining the stage of breast cancer are modified for pregnant women to avoid radiation exposure to the fetus. Nuclear scans cause fetal radiation exposure.[ 1 ] If such scans are essential for evaluation, hydration and Foley catheter drainage of the bladder can be used to prevent retention of radioactivity. Timing of the exposure to radiation relative to the gestational age of the fetus may be more critical than the actual dose of radiation delivered.[ 2 ] Radiation exposure during the first trimester (>0.1 Gy) may lead to congenital malformations, intellectual disability, and increased relative risk of carcinogenesis.\nChest x-rays with abdominal shielding are considered safe, but as with all radiological procedures, they are used only when essential for making treatment decisions.[ 1 , 3 ] A chest x-ray delivers 0.00008 Gy.[ 4 ]\nFor the diagnosis of bone metastases, a bone scan is preferable to a skeletal series because the bone scan delivers a smaller amount of radiation and is more sensitive. A bone scan delivers 0.001 Gy.[ 5 ]\nEvaluation of the liver can be performed with ultrasound, and brain metastases can be diagnosed with an MRI scan. Data on MRI during pregnancy are not available, but gadolinium crosses the placenta and is associated with fetal abnormalities in rats.[ 5 ]"
+        },
+        {
+          "section": "American Joint Committee on Cancer (AJCC) Stage Groupings and Definitions of TNM",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Stage Information for Breast Cancer Treatment and Pregnancy",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and Definitions of TNM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see the Stage Information for Breast Cancer section in Breast Cancer Treatment."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Stage Information for Breast Cancer Treatment and Pregnancy",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and Definitions of TNM",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Gwyn K, Theriault R: Breast cancer during pregnancy. Oncology (Huntingt) 15 (1): 39-46; discussion 46, 49-51, 2001. [PUBMED Abstract]\n- Barnavon Y, Wallack MK: Management of the pregnant patient with carcinoma of the breast. Surg Gynecol Obstet 171 (4): 347-52, 1990. [PUBMED Abstract]\n- Nicklas AH, Baker ME: Imaging strategies in the pregnant cancer patient. Semin Oncol 27 (6): 623-32, 2000. [PUBMED Abstract]\n- Gallenberg MM, Loprinzi CL: Breast cancer and pregnancy. Semin Oncol 16 (5): 369-76, 1989. [PUBMED Abstract]\n- Yang WT, Dryden MJ, Gwyn K, et al.: Imaging of breast cancer diagnosed and treated with chemotherapy during pregnancy. Radiology 239 (1): 52-60, 2006. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Early/Localized/Operable Breast Cancer During Pregnancy",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Early/Localized/Operable Breast Cancer During Pregnancy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Generally, pregnant women with stage I or stage II breast cancer are treated in the same way as nonpregnant patients, with some modifications to protect the fetus.\nTreatment options for early/localized/operable breast cancer in pregnant women include:\n- Surgery . Postpartum radiation therapy may also be given to women diagnosed with breast cancer late in pregnancy.\n- Chemotherapy (after the first trimester).\n- Endocrine therapy (after delivery).\nThe use of trastuzumab during pregnancy is contraindicated."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Early/Localized/Operable Breast Cancer During Pregnancy",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Surgery is recommended as the primary treatment of breast cancer in pregnant women.\nThe data regarding safety of sentinel lymph node biopsy in pregnant patients are limited to several retrospective case series. One study examined sentinel lymph node biopsy in eight patients in the first trimester, nine patients in the second trimester, and eight patients in the third trimester. Technetium Tc 99m alone was used in 16 patients, methylene blue dye alone was used in seven patients, and two patients had unknown mapping methods. All 25 patients had live-born infants, of whom 24 were healthy, and one had a cleft palate (in the setting of other maternal risk factors).[ 1 ]\nBecause radiation in therapeutic doses may expose the fetus to potentially harmful scatter radiation,[ 2 ] modified radical mastectomy is the treatment of choice if the breast cancer was diagnosed early in pregnancy. If diagnosed late in pregnancy, breast-conserving surgery with postpartum radiation therapy has been used for breast preservation.[ 3 ] An analysis has been performed that helps to predict the risk of waiting to have radiation.[ 4 , 5 ]"
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Early/Localized/Operable Breast Cancer During Pregnancy",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Data suggest that it is safe to administer certain chemotherapeutic drugs after the first trimester, with most pregnancies resulting in live births with low rates of morbidity in the newborns.\nAnthracycline-based chemotherapy (doxorubicin plus cyclophosphamide or fluorouracil, doxorubicin, and cyclophosphamide [FAC]) appears to be safe to administer during the second and/or third trimester on the basis of limited prospective data.[ 6 - 8 ] Safety data on the use of taxanes during pregnancy are limited.\nEvidence (use of chemotherapy during the second and/or third trimester of pregnancy):\n- A multicenter case-control study compared pediatric outcomes of 129 children whose mothers had breast cancer with matched children of women without cancer. In the pregnancy study group, 96 children (74.4%) were exposed to chemotherapy, 11 (8.5%) to radiation therapy, 13 (10.1%) to surgery alone, 2 (1.7%) to other drug treatments, and 14 (10.9%) to no treatment.[ 9 ]\n- The study showed that there was no significant difference in birth weight below the 10th percentile (22% in the breast cancer treatment‒exposed group vs. 15.2% in the control group, P = .16) or in cognitive development based on the Bayley score ( P = .08). The gestational age at birth was correlated with cognitive outcome in the two study groups.\n- Evaluation of cardiac function among 47 children, who were age 36 months in the study group, showed normal cardiac findings.\n- In a prospective single-arm study, 57 pregnant patients with breast cancer were treated with FAC in the adjuvant or neoadjuvant setting.[ 6 ]\n- Survey data collected when the children were aged 2 months to 157 months revealed that no stillbirths, miscarriages, or perinatal deaths occurred.\n- One child born vaginally at a gestational age of 38 weeks had a subarachnoid hemorrhage on day 2 postpartum, one child had Down syndrome, and two children had congenital anomalies (club foot and bilateral ureteral reflux).\n- The findings of the prospective single-arm study above were consistent with other smaller retrospective series of anthracycline-based chemotherapy.[ 7 , 8 ]\n- A systematic review studied 40 case reports of taxane administration during the second or third trimesters of pregnancy.[ 10 ]\n- Minimal maternal, fetal, or neonatal toxicity was observed."
+        },
+        {
+          "section": "Fluorouracil dosing",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Early/Localized/Operable Breast Cancer During Pregnancy",
+            "Chemotherapy",
+            "Fluorouracil dosing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The DPYD gene encodes an enzyme that catabolizes pyrimidines and fluoropyrimidines, like capecitabine and fluorouracil. An estimated 1% to 2% of the population has germline pathogenic variants in DPYD , which lead to reduced DPD protein function and an accumulation of pyrimidines and fluoropyrimidines in the body.[ 11 , 12 ] Patients with the DPYD*2A variant who receive fluoropyrimidines may experience severe, life-threatening toxicities that are sometimes fatal. Many other DPYD variants have been identified, with a range of clinical effects.[ 11 - 13 ] Fluoropyrimidine avoidance or a dose reduction of 50% may be recommended based on the patient's DPYD genotype and number of functioning DPYD alleles.[ 14 - 16 ] DPYD genetic testing costs less than $200, but insurance coverage varies due to a lack of national guidelines.[ 17 ] In addition, testing may delay therapy by 2 weeks, which would not be advisable in urgent situations. This controversial issue requires further evaluation.[ 18 ]"
+        },
+        {
+          "section": "Endocrine Therapy",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Early/Localized/Operable Breast Cancer During Pregnancy",
+            "Endocrine Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Endocrine therapy is generally avoided until after delivery. Case reports and a literature review of tamoxifen during pregnancy show that tamoxifen administration during pregnancy is associated with vaginal bleeding, miscarriage, congenital abnormalities such as Goldenhar syndrome, and fetal death.[ 19 - 21 ] Breastfeeding is also not recommended concurrently with endocrine therapy.[ 22 ]"
+        },
+        {
+          "section": "Targeted Therapy",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Early/Localized/Operable Breast Cancer During Pregnancy",
+            "Targeted Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The use of trastuzumab during pregnancy is contraindicated based on results of a systematic review of 17 studies (18 pregnancies, 19 newborns).[ 23 ] Of the fetal complications noted, occurrence of oligohydramnios/anhydramnios was the most common (61.1%) adverse event. Of the pregnancies exposed to trastuzumab during the second or third trimester, 73.3% of the pregnancies were complicated with oligohydramnios/anhydramnios. Of the pregnancies exposed to trastuzumab exclusively during the first trimester, 0% ( P = .043) of the pregnancies were complicated with oligohydramnios/anhydramnios. The mean gestational age at delivery was 33.8 weeks, and the mean weight of newborns at delivery was 2,261 grams or 4.984 pounds. In 52.6% of cases, a healthy neonate was born. At the long-term evaluation, all children who were without complications at birth were healthy, with a median follow-up of 9 months, and four of nine children with complications at birth had died within an interval ranging from birth to 5.25 months. All children exposed to trastuzumab in utero exclusively in the first trimester were completely healthy at birth. The data suggest that for women who become pregnant during trastuzumab administration and wish to continue pregnancy, trastuzumab should be stopped and pregnancy would be allowed to continue."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Early/Localized/Operable Breast Cancer During Pregnancy",
+            "Targeted Therapy",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 23,
+          "text": "- Gropper AB, Calvillo KZ, Dominici L, et al.: Sentinel lymph node biopsy in pregnant women with breast cancer. Ann Surg Oncol 21 (8): 2506-11, 2014. [PUBMED Abstract]\n- Kal HB, Struikmans H: Radiotherapy during pregnancy: fact and fiction. Lancet Oncol 6 (5): 328-33, 2005. [PUBMED Abstract]\n- Gwyn K, Theriault R: Breast cancer during pregnancy. Oncology (Huntingt) 15 (1): 39-46; discussion 46, 49-51, 2001. [PUBMED Abstract]\n- Nettleton J, Long J, Kuban D, et al.: Breast cancer during pregnancy: quantifying the risk of treatment delay. Obstet Gynecol 87 (3): 414-8, 1996. [PUBMED Abstract]\n- Kuerer HM, Gwyn K, Ames FC, et al.: Conservative surgery and chemotherapy for breast carcinoma during pregnancy. Surgery 131 (1): 108-10, 2002. [PUBMED Abstract]\n- Hahn KM, Johnson PH, Gordon N, et al.: Treatment of pregnant breast cancer patients and outcomes of children exposed to chemotherapy in utero. Cancer 107 (6): 1219-26, 2006. [PUBMED Abstract]\n- Turchi JJ, Villasis C: Anthracyclines in the treatment of malignancy in pregnancy. Cancer 61 (3): 435-40, 1988. [PUBMED Abstract]\n- Zemlickis D, Lishner M, Degendorfer P, et al.: Fetal outcome after in utero exposure to cancer chemotherapy. Arch Intern Med 152 (3): 573-6, 1992. [PUBMED Abstract]\n- Amant F, Vandenbroucke T, Verheecke M, et al.: Pediatric Outcome after Maternal Cancer Diagnosed during Pregnancy. N Engl J Med 373 (19): 1824-34, 2015. [PUBMED Abstract]\n- Mir O, Berveiller P, Goffinet F, et al.: Taxanes for breast cancer during pregnancy: a systematic review. Ann Oncol 21 (2): 425-6, 2010. [PUBMED Abstract]\n- Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021. [PUBMED Abstract]\n- Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016. [PUBMED Abstract]\n- Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021. [PUBMED Abstract]\n- Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018. [PUBMED Abstract]\n- Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018. [PUBMED Abstract]\n- Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022. [PUBMED Abstract]\n- Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022. [PUBMED Abstract]\n- Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023. [PUBMED Abstract]\n- Cullins SL, Pridjian G, Sutherland CM: Goldenhar's syndrome associated with tamoxifen given to the mother during gestation. JAMA 271 (24): 1905-6, 1994 Jun 22-29. [PUBMED Abstract]\n- Tewari K, Bonebrake RG, Asrat T, et al.: Ambiguous genitalia in infant exposed to tamoxifen in utero. Lancet 350 (9072): 183, 1997. [PUBMED Abstract]\n- Isaacs RJ, Hunter W, Clark K: Tamoxifen as systemic treatment of advanced breast cancer during pregnancy--case report and literature review. Gynecol Oncol 80 (3): 405-8, 2001. [PUBMED Abstract]\n- Helewa M, Lévesque P, Provencher D, et al.: Breast cancer, pregnancy, and breastfeeding. J Obstet Gynaecol Can 24 (2): 164-80; quiz 181-4, 2002. [PUBMED Abstract]\n- Zagouri F, Sergentanis TN, Chrysikos D, et al.: Trastuzumab administration during pregnancy: a systematic review and meta-analysis. Breast Cancer Res Treat 137 (2): 349-57, 2013. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Advanced Breast Cancer During Pregnancy",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Advanced Breast Cancer During Pregnancy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "There is no standard treatment for patients with advanced (stage III or stage IV) breast cancer during pregnancy. Most studies show a 5-year survival rate of 10% in pregnant patients with stage III or IV disease.\nFirst-trimester radiation therapy should be avoided. Chemotherapy may be given after the first trimester as discussed in the section on Treatment of Early/Localized/Operable Breast Cancer During Pregnancy .\nBecause the mother's life span may be limited, and there is a risk of fetal damage with treatment during the first trimester,[ 1 , 2 ] issues regarding continuation of the pregnancy should be discussed with the patient and her family. Therapeutic abortion does not improve prognosis.[ 1 - 5 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Treatment of Advanced Breast Cancer During Pregnancy",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Hoover HC: Breast cancer during pregnancy and lactation. Surg Clin North Am 70 (5): 1151-63, 1990. [PUBMED Abstract]\n- Rugo HS: Management of breast cancer diagnosed during pregnancy. Curr Treat Options Oncol 4 (2): 165-73, 2003. [PUBMED Abstract]\n- Gwyn K, Theriault R: Breast cancer during pregnancy. Oncology (Huntingt) 15 (1): 39-46; discussion 46, 49-51, 2001. [PUBMED Abstract]\n- Clark RM, Chua T: Breast cancer and pregnancy: the ultimate challenge. Clin Oncol (R Coll Radiol) 1 (1): 11-8, 1989. [PUBMED Abstract]\n- Barnavon Y, Wallack MK: Management of the pregnant patient with carcinoma of the breast. Surg Gynecol Obstet 171 (4): 347-52, 1990. [PUBMED Abstract]"
+        },
+        {
+          "section": "Lactation",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Special Considerations for Pregnancy and Breast Cancer",
+            "Lactation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Suppression of lactation does not improve prognosis. If surgery is planned, however, lactation is suppressed to decrease the size and vascularity of the breasts. If chemotherapy is to be given, lactation is also suppressed because many antineoplastic agents (i.e., cyclophosphamide and methotrexate), when given systemically, may occur in high levels in breast milk and would affect the nursing baby. Women receiving chemotherapy should not breastfeed.[ 1 ]"
+        },
+        {
+          "section": "Fetal Consequences of Maternal Breast Cancer",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Special Considerations for Pregnancy and Breast Cancer",
+            "Fetal Consequences of Maternal Breast Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "No damaging effects on the fetus from maternal breast cancer have been demonstrated,[ 2 ] and there are no reported cases of maternal-fetal transfer of breast cancer cells."
+        },
+        {
+          "section": "Pregnancy in Patients With a History of Breast Cancer",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Special Considerations for Pregnancy and Breast Cancer",
+            "Pregnancy in Patients With a History of Breast Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Based on limited retrospective data, pregnancy does not appear to compromise the survival of women with a previous history of breast cancer, and no deleterious effects have been demonstrated in the fetus.[ 3 - 11 ] Some physicians recommend that patients wait 2 years after diagnosis before attempting to conceive. This allows early recurrence to become manifest, which may influence the decision to become a parent.\nLittle is known about pregnancy after bone marrow transplant and high-dose chemotherapy with or without total-body irradiation. In one report of pregnancies after bone marrow transplant for hematologic disorders, a 25% incidence of preterm labor and low birth weight for gestational-age infants was noted.[ 12 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Special Considerations for Pregnancy and Breast Cancer",
+            "Pregnancy in Patients With a History of Breast Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- Helewa M, Lévesque P, Provencher D, et al.: Breast cancer, pregnancy, and breastfeeding. J Obstet Gynaecol Can 24 (2): 164-80; quiz 181-4, 2002. [PUBMED Abstract]\n- Amant F, Vandenbroucke T, Verheecke M, et al.: Pediatric Outcome after Maternal Cancer Diagnosed during Pregnancy. N Engl J Med 373 (19): 1824-34, 2015. [PUBMED Abstract]\n- Clark RM, Chua T: Breast cancer and pregnancy: the ultimate challenge. Clin Oncol (R Coll Radiol) 1 (1): 11-8, 1989. [PUBMED Abstract]\n- Harvey JC, Rosen PP, Ashikari R, et al.: The effect of pregnancy on the prognosis of carcinoma of the breast following radical mastectomy. Surg Gynecol Obstet 153 (5): 723-5, 1981. [PUBMED Abstract]\n- Petrek JA: Pregnancy safety after breast cancer. Cancer 74 (1 Suppl): 528-31, 1994. [PUBMED Abstract]\n- von Schoultz E, Johansson H, Wilking N, et al.: Influence of prior and subsequent pregnancy on breast cancer prognosis. J Clin Oncol 13 (2): 430-4, 1995. [PUBMED Abstract]\n- Kroman N, Mouridsen HT: Prognostic influence of pregnancy before, around, and after diagnosis of breast cancer. Breast 12 (6): 516-21, 2003. [PUBMED Abstract]\n- Malamos NA, Stathopoulos GP, Keramopoulos A, et al.: Pregnancy and offspring after the appearance of breast cancer. Oncology 53 (6): 471-5, 1996 Nov-Dec. [PUBMED Abstract]\n- Gelber S, Coates AS, Goldhirsch A, et al.: Effect of pregnancy on overall survival after the diagnosis of early-stage breast cancer. J Clin Oncol 19 (6): 1671-5, 2001. [PUBMED Abstract]\n- Gwyn K, Theriault R: Breast cancer during pregnancy. Oncology (Huntingt) 15 (1): 39-46; discussion 46, 49-51, 2001. [PUBMED Abstract]\n- Rugo HS: Management of breast cancer diagnosed during pregnancy. Curr Treat Options Oncol 4 (2): 165-73, 2003. [PUBMED Abstract]\n- Sanders JE, Hawley J, Levy W, et al.: Pregnancies following high-dose cyclophosphamide with or without high-dose busulfan or total-body irradiation and bone marrow transplantation. Blood 87 (7): 3045-52, 1996. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (12/04/2024)",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (12/04/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of breast cancer during pregnancy. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 12,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Breast Cancer Treatment During Pregnancy are:\n- Fumiko Chino, MD (MD Anderson Cancer Center)\n- Tarek Hijal, MD (McGill University Health Centre)\n- Joseph L. Pater, MD (NCIC-Clinical Trials Group)\n- Carol Tweed, MD (Maryland Oncology Hematology)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Breast Cancer Treatment During Pregnancy. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/breast/hp/pregnancy-breast-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389427]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Breast Cancer Treatment During Pregnancy (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\56b2ae828237274012ad.html"
+    }
+  ]
+}

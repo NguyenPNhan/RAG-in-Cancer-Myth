@@ -1,0 +1,1034 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Rare Cancers of Childhood",
+  "generated_at": "2026-08-31T07:15:23.512003+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Rare Cancers of Childhood",
+      "title": "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Rare Cancers of Childhood Treatment",
+      "url": "https://www.cancer.gov/types/childhood-cancers/hp/rare-childhood-cancers-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "September 27, 2024",
+      "retrieved_at": "2026-08-31T07:09:22.370745+00:00",
+      "content_sha256": "82de28ff7e2bbbc3706a3a1ebe4d32b69fc87e8f3a33101140b017d2d4d0e775",
+      "section_count": 49,
+      "sections": [
+        {
+          "section": "Introduction",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "General Information About Rare Cancers of Childhood",
+            "Introduction"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Cancer in children and adolescents is rare, although the overall incidence has slowly increased since 1975.[ 1 ] Children and adolescents with cancer should be referred to medical centers that have a multidisciplinary team of cancer specialists with experience treating the cancers that occur during childhood and adolescence. This multidisciplinary team approach incorporates the skills of primary care physicians, pediatric surgeons, pathologists, pediatric radiation oncologists, pediatric medical oncologists and hematologists, rehabilitation specialists, pediatric oncology nurses, social workers, child-life professionals, psychologists, nutritionists, and others to ensure that children receive treatment, supportive care, and rehabilitation to achieve optimal survival and quality of life. For specific information about supportive care for children and adolescents with cancer, see the summaries on Supportive and Palliative Care .\nThe American Academy of Pediatrics has outlined guidelines for pediatric cancer centers and their role in the treatment of children and adolescents with cancer.[ 2 ] At these centers, clinical trials are available for most types of cancer that occur in children and adolescents, and the opportunity to participate is offered to most patients and their families. Clinical trials for children and adolescents diagnosed with cancer are generally designed to compare potentially better therapy with current standard therapy. Other types of clinical trials test novel therapies when there is no standard therapy for a cancer diagnosis. Most of the progress in identifying curative therapies for childhood cancers has been achieved through clinical trials. Information about ongoing clinical trials is available from the NCI website .\nDramatic improvements in survival have been achieved for children and adolescents with cancer. Between 1975 and 2020, childhood cancer mortality decreased by more than 50%.[ 3 - 5 ] Childhood and adolescent cancer survivors require close monitoring because side effects of cancer therapy may persist or develop months or years after treatment. For information about the incidence, type, and monitoring of late effects in childhood and adolescent cancer survivors, see Late Effects of Treatment for Childhood Cancer .\nChildhood cancer is a rare disease, with about 15,000 cases diagnosed annually in the United States in individuals younger than 20 years.[ 6 ] The U.S. Rare Diseases Act of 2002 defines a rare disease as one that affects populations smaller than 200,000 people. Therefore, all pediatric cancers are considered rare.\nThe designation of a rare tumor is not uniform among pediatric and adult groups. In adults, rare cancers are defined as those with an annual incidence of fewer than six cases per 100,000 people. They account for up to 24% of all cancers diagnosed in the European Union and about 20% of all cancers diagnosed in the United States.[ 7 , 8 ] In children and adolescents, the designation of a rare tumor is not uniform among international groups, as follows:\n- A consensus effort between the European Union Joint Action on Rare Cancers and the European Cooperative Study Group for Rare Pediatric Cancers (EXPeRT) estimated that 11% of all cancers in patients younger than 20 years could be categorized as very rare. This consensus group defined very rare cancers as those with annual incidences of fewer than 2 cases per 1 million people. However, three additional histologies (thyroid carcinoma, melanoma, and testicular cancer) with incidences of more than 2 cases per 1 million people were also included in the very rare group due to a lack of knowledge and expertise in the management of these tumors.[ 9 ]\n- The Children's Oncology Group (COG) defines rare pediatric cancers as those listed in the International Classification of Childhood Cancer subgroup XI, which includes thyroid cancers, melanomas and nonmelanoma skin cancers, and multiple types of carcinomas (e.g., adrenocortical carcinomas, nasopharyngeal carcinomas, and most adult-type carcinomas such as breast cancers and colorectal cancers).[ 10 ] These diagnoses account for about 5% of the cancers diagnosed in children aged 0 to 14 years and about 27% of the cancers diagnosed in adolescents aged 15 to 19 years.[ 4 ] Most cancers in subgroup XI are either melanomas or thyroid cancers, with other cancer types accounting for only 2% of the cancers in children aged 0 to 14 years and 9.3% of the cancers in adolescents aged 15 to 19 years.\nThese rare cancers are extremely challenging to study because of the relatively few patients with any individual diagnosis, the predominance of rare cancers in the adolescent population, and the small number of clinical trials for adolescents with rare cancers.\nSome investigators have used large databases, such as the Surveillance, Epidemiology, and End Results (SEER) Program and the National Cancer Database, to gain more insight into these rare childhood cancers. However, these database studies are limited. Several initiatives to study rare pediatric cancers have been developed by the COG and other international groups, including the Société Internationale D'Oncologie Pédiatrique (SIOP). The Gesellschaft für Pädiatrische Onkologie und Hämatologie (GPOH) rare tumor project was founded in Germany in 2006.[ 11 ] The Italian Tumori Rari in Eta Pediatrica (TREP) group was launched in 2000,[ 12 ] and the Polish Pediatric Rare Tumor Study Group was launched in 2002.[ 13 ] In Europe, the rare tumor study groups from France, Germany, Italy, Poland, and the United Kingdom joined to become the EXPeRT group, focusing on international collaboration and analyses of specific rare tumor entities.[ 14 ] Within the COG, efforts have concentrated on increasing accrual to COG registries (Project Every Child) and tumor banking protocols, developing single-arm clinical trials, and increasing cooperation with adult cooperative group trials.[ 15 ] The accomplishments and challenges of this initiative have been described in detail.[ 10 , 16 ]\nThe tumors listed in this summary are very diverse. They are arranged in descending anatomic order, from infrequent tumors of the head and neck to rare tumors of the urogenital tract and skin. All of these cancers are rare enough that pediatric hospitals might see less than a handful of some histologies in several years. Most of the histologies listed here occur more frequently in adults. Information about these tumors may also be found in sources relevant to adults with cancer.\nThe Rare Cancers of Childhood Treatment summary has been separated into individual summaries for each topic. Please use the lists below or the following link to find the individual summaries: PDQ Cancer Information Summaries: Pediatric Treatment ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "General Information About Rare Cancers of Childhood",
+            "Introduction",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "- Smith MA, Seibel NL, Altekruse SF, et al.: Outcomes for children and adolescents with cancer: challenges for the twenty-first century. J Clin Oncol 28 (15): 2625-34, 2010. [PUBMED Abstract]\n- American Academy of Pediatrics: Standards for pediatric cancer centers. Pediatrics 134 (2): 410-4, 2014. Also available online . Last accessed February 25, 2025.\n- Smith MA, Altekruse SF, Adamson PC, et al.: Declining childhood and adolescent cancer mortality. Cancer 120 (16): 2497-506, 2014. [PUBMED Abstract]\n- National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed February 25, 2025.\n- Surveillance Research Program, National Cancer Institute: SEER*Explorer: An interactive website for SEER cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed December 30, 2024.\n- Ward E, DeSantis C, Robbins A, et al.: Childhood and adolescent cancer statistics, 2014. CA Cancer J Clin 64 (2): 83-103, 2014 Mar-Apr. [PUBMED Abstract]\n- Gatta G, Capocaccia R, Botta L, et al.: Burden and centralised treatment in Europe of rare tumours: results of RARECAREnet-a population-based study. Lancet Oncol 18 (8): 1022-1039, 2017. [PUBMED Abstract]\n- DeSantis CE, Kramer JL, Jemal A: The burden of rare cancers in the United States. CA Cancer J Clin 67 (4): 261-272, 2017. [PUBMED Abstract]\n- Ferrari A, Brecht IB, Gatta G, et al.: Defining and listing very rare cancers of paediatric age: consensus of the Joint Action on Rare Cancers in cooperation with the European Cooperative Study Group for Pediatric Rare Tumors. Eur J Cancer 110: 120-126, 2019. [PUBMED Abstract]\n- Pappo AS, Krailo M, Chen Z, et al.: Infrequent tumor initiative of the Children's Oncology Group: initial lessons learned and their impact on future plans. J Clin Oncol 28 (33): 5011-6, 2010. [PUBMED Abstract]\n- Brecht IB, Graf N, Schweinitz D, et al.: Networking for children and adolescents with very rare tumors: foundation of the GPOH Pediatric Rare Tumor Group. Klin Padiatr 221 (3): 181-5, 2009 May-Jun. [PUBMED Abstract]\n- Ferrari A, Bisogno G, De Salvo GL, et al.: The challenge of very rare tumours in childhood: the Italian TREP project. Eur J Cancer 43 (4): 654-9, 2007. [PUBMED Abstract]\n- Balcerska A, Godziński J, Bień E, et al.: [Rare tumours--are they really rare in the Polish children population?]. Przegl Lek 61 (Suppl 2): 57-61, 2004. [PUBMED Abstract]\n- Bisogno G, Ferrari A, Bien E, et al.: Rare cancers in children - The EXPeRT Initiative: a report from the European Cooperative Study Group on Pediatric Rare Tumors. Klin Padiatr 224 (6): 416-20, 2012. [PUBMED Abstract]\n- Musselman JR, Spector LG, Krailo MD, et al.: The Children's Oncology Group Childhood Cancer Research Network (CCRN): case catchment in the United States. Cancer 120 (19): 3007-15, 2014. [PUBMED Abstract]\n- Pappo AS, Furman WL, Schultz KA, et al.: Rare Tumors in Children: Progress Through Collaboration. J Clin Oncol 33 (27): 3047-54, 2015. [PUBMED Abstract]"
+        },
+        {
+          "section": "Head and Neck Cancers",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Head and Neck Cancers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "These cancers are seen very infrequently in patients younger than 15 years, and most of the evidence is derived from small case series or cohorts combining pediatric and adult patients.\nChildhood sarcomas often occur in the head and neck area and they are described in other summaries. Rare pediatric head and neck cancers include the following:"
+        },
+        {
+          "section": "Nasopharyngeal Carcinoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Head and Neck Cancers",
+            "Nasopharyngeal Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Nasopharyngeal Cancer Treatment ."
+        },
+        {
+          "section": "Esthesioneuroblastoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Head and Neck Cancers",
+            "Esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Esthesioneuroblastoma Treatment ."
+        },
+        {
+          "section": "Thyroid Tumors",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Head and Neck Cancers",
+            "Thyroid Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Thyroid Cancer Treatment ."
+        },
+        {
+          "section": "Oral Cavity Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Head and Neck Cancers",
+            "Oral Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Oral Cavity Cancer Treatment ."
+        },
+        {
+          "section": "Salivary Gland Tumors",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Head and Neck Cancers",
+            "Salivary Gland Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Salivary Gland Tumors Treatment ."
+        },
+        {
+          "section": "Laryngeal Cancer and Papillomatosis",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Head and Neck Cancers",
+            "Laryngeal Cancer and Papillomatosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Laryngeal Tumors Treatment ."
+        },
+        {
+          "section": "NUT Carcinoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Head and Neck Cancers",
+            "NUT Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood NUT Carcinoma Treatment ."
+        },
+        {
+          "section": "Thoracic Cancers",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Thoracic Cancers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The prognosis, diagnosis, classification, and treatment of pediatric thoracic cancers are discussed below. These cancers are seen very infrequently in patients younger than 15 years, and most of the evidence is derived from case series.\nRare pediatric thoracic cancers include the following:"
+        },
+        {
+          "section": "Breast Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Thoracic Cancers",
+            "Breast Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Breast Tumors Treatment ."
+        },
+        {
+          "section": "Lung Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Thoracic Cancers",
+            "Lung Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Most pulmonary malignant neoplasms in children result from metastatic disease. The approximate ratio of primary malignant tumors to metastatic disease is 1:5.[ 1 ]\nThe most common malignant primary tumors of the lung include the following:\n- Pulmonary inflammatory myofibroblastic tumors .\n- Tracheobronchial tumors .\n- Pleuropulmonary blastoma ."
+        },
+        {
+          "section": "Pulmonary Inflammatory Myofibroblastic Tumors",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Thoracic Cancers",
+            "Lung Cancer",
+            "Pulmonary Inflammatory Myofibroblastic Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Pulmonary Inflammatory Myofibroblastic Tumors Treatment ."
+        },
+        {
+          "section": "Tracheobronchial Tumors",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Thoracic Cancers",
+            "Lung Cancer",
+            "Tracheobronchial Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Tracheobronchial Tumors Treatment ."
+        },
+        {
+          "section": "Pleuropulmonary Blastoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Thoracic Cancers",
+            "Lung Cancer",
+            "Pleuropulmonary Blastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Pleuropulmonary Blastoma Treatment ."
+        },
+        {
+          "section": "Esophageal Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Thoracic Cancers",
+            "Esophageal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Esophageal Cancer Treatment ."
+        },
+        {
+          "section": "Thymoma and Thymic Carcinoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Thoracic Cancers",
+            "Thymoma and Thymic Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Thymoma and Thymic Carcinoma Treatment ."
+        },
+        {
+          "section": "Cardiac Tumors",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Thoracic Cancers",
+            "Cardiac Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Cardiac Tumors Treatment ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Thoracic Cancers",
+            "Cardiac Tumors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Weldon CB, Shamberger RC: Pediatric pulmonary tumors: primary and metastatic. Semin Pediatr Surg 17 (1): 17-29, 2008. [PUBMED Abstract]"
+        },
+        {
+          "section": "Abdominal Cancers",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Abdominal Cancers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The prognosis, diagnosis, classification, and treatment of pediatric abdominal cancers are discussed below. These cancers are seen very infrequently in patients younger than 15 years, and most of the evidence is derived from case series. For information about kidney tumors, see Wilms Tumor and Other Childhood Kidney Tumors Treatment .\nRare pediatric abdominal cancers include the following:"
+        },
+        {
+          "section": "Adrenocortical Carcinoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Abdominal Cancers",
+            "Adrenocortical Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Adrenocortical Carcinoma Treatment ."
+        },
+        {
+          "section": "Gastric Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Abdominal Cancers",
+            "Gastric Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Pediatric Gastric Cancer Treatment ."
+        },
+        {
+          "section": "Pancreatic Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Abdominal Cancers",
+            "Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Pancreatic Cancer Treatment ."
+        },
+        {
+          "section": "Colorectal Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Abdominal Cancers",
+            "Colorectal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Colorectal Cancer Treatment ."
+        },
+        {
+          "section": "Gastrointestinal Neuroendocrine Tumors",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Abdominal Cancers",
+            "Gastrointestinal Neuroendocrine Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Pediatric Gastrointestinal Neuroendocrine Tumors Treatment ."
+        },
+        {
+          "section": "Gastrointestinal Stromal Tumors (GIST)",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Abdominal Cancers",
+            "Gastrointestinal Stromal Tumors (GIST)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Gastrointestinal Stromal Tumors Treatment ."
+        },
+        {
+          "section": "Genital/Urinary Tumors",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Genital/Urinary Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The prognosis, diagnosis, classification, and treatment of pediatric genital/urinary tumors are discussed below. These tumors are seen very infrequently in patients younger than 15 years, and most of the evidence is derived from case series.\nRare pediatric genital/urinary tumors include the following:"
+        },
+        {
+          "section": "Bladder Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Genital/Urinary Tumors",
+            "Bladder Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Bladder Cancer Treatment ."
+        },
+        {
+          "section": "Testicular Cancer (Non–Germ Cell)",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Genital/Urinary Tumors",
+            "Testicular Cancer (Non–Germ Cell)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Testicular Cancer Treatment ."
+        },
+        {
+          "section": "Ovarian Cancer (Non–Germ Cell)",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Genital/Urinary Tumors",
+            "Ovarian Cancer (Non–Germ Cell)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Ovarian Cancer Treatment ."
+        },
+        {
+          "section": "Cervical and Vaginal Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Genital/Urinary Tumors",
+            "Cervical and Vaginal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Cervical and Vaginal Cancer Treatment ."
+        },
+        {
+          "section": "Other Rare Childhood Cancers",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Other Rare Childhood Cancers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The prognosis, diagnosis, classification, and treatment of other rare childhood cancers are discussed below. These cancers are seen very infrequently in patients younger than 15 years, and most of the evidence is derived from case series.\nOther rare childhood cancers include the following:"
+        },
+        {
+          "section": "Mesothelioma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Other Rare Childhood Cancers",
+            "Mesothelioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Mesothelioma Treatment ."
+        },
+        {
+          "section": "Multiple Endocrine Neoplasia (MEN) Syndromes",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Other Rare Childhood Cancers",
+            "Multiple Endocrine Neoplasia (MEN) Syndromes"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Multiple Endocrine Neoplasia (MEN) Syndromes Treatment ."
+        },
+        {
+          "section": "Pheochromocytoma and Paraganglioma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Other Rare Childhood Cancers",
+            "Pheochromocytoma and Paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Pheochromocytoma and Paraganglioma Treatment ."
+        },
+        {
+          "section": "Skin Cancer (Melanoma, Basal Cell Carcinoma [BCC], and Squamous Cell Carcinoma [SCC])",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Other Rare Childhood Cancers",
+            "Skin Cancer (Melanoma, Basal Cell Carcinoma [BCC], and Squamous Cell Carcinoma [SCC])"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information about specific genetic variants and related hereditary skin cancer syndromes, see Genetics of Skin Cancer . For information about uveal melanoma in children, see Childhood Intraocular (Uveal) Melanoma Treatment ."
+        },
+        {
+          "section": "Melanoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Other Rare Childhood Cancers",
+            "Skin Cancer (Melanoma, Basal Cell Carcinoma [BCC], and Squamous Cell Carcinoma [SCC])",
+            "Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Melanoma Treatment ."
+        },
+        {
+          "section": "BCC and SCC",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Other Rare Childhood Cancers",
+            "Skin Cancer (Melanoma, Basal Cell Carcinoma [BCC], and Squamous Cell Carcinoma [SCC])",
+            "BCC and SCC"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Basal Cell Carcinoma and Squamous Cell Carcinoma of the Skin Treatment ."
+        },
+        {
+          "section": "Intraocular (Uveal) Melanoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Other Rare Childhood Cancers",
+            "Intraocular (Uveal) Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Intraocular (Uveal) Melanoma Treatment ."
+        },
+        {
+          "section": "Chordoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Other Rare Childhood Cancers",
+            "Chordoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Chordoma Treatment ."
+        },
+        {
+          "section": "Cancer of Unknown Primary (CUP) Site",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Other Rare Childhood Cancers",
+            "Cancer of Unknown Primary (CUP) Site"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Childhood Cancer of Unknown Primary (CUP) Treatment ."
+        },
+        {
+          "section": "Latest Updates to This Summary (09/27/2024)",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (09/27/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nThis summary was comprehensively reviewed.\nThis summary is written and maintained by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of rare cancers of childhood. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 19,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Rare Cancers of Childhood Treatment are:\n- Denise Adams, MD (Children's Hospital Boston)\n- Sally J. Cohen-Cutler, MD, MS (Children's Hospital of Philadelphia)\n- Karen J. Marcus, MD, FACR (Dana-Farber of Boston Children's Cancer Center and Blood Disorders Harvard Medical School)\n- William H. Meyer, MD\n- Paul A. Meyers, MD (Memorial Sloan-Kettering Cancer Center)\n- Thomas A. Olson, MD (Aflac Cancer and Blood Disorders Center of Children's Healthcare of Atlanta - Egleston Campus)\n- Alberto S. Pappo, MD (St. Jude Children's Research Hospital)\n- D. Williams Parsons, MD, PhD (Texas Children's Hospital)\n- Arthur Kim Ritchey, MD (Children's Hospital of Pittsburgh of UPMC)\n- Carlos Rodriguez-Galindo, MD (St. Jude Children's Research Hospital)\n- Stephen J. Shochat, MD (St. Jude Children's Research Hospital)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Pediatric Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Rare Cancers of Childhood Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/childhood-cancers/hp/rare-childhood-cancers-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389315]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\f2f02b64708ced755931.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Rare Cancers of Childhood",
+      "title": "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+      "summary_name": "Rare Cancers of Childhood Treatment",
+      "url": "https://www.cancer.gov/types/childhood-cancers/patient/rare-childhood-cancers-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "April 4, 2025",
+      "retrieved_at": "2026-08-31T07:09:29.701590+00:00",
+      "content_sha256": "9b96fad3907b3669c781fa4b2e2c96e6868dfdc4b8748eb2807b9fdc7dcd4499",
+      "section_count": 39,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "General Information About Rare Cancers of Childhood",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Rare cancers of childhood are cancers not usually seen in children."
+        },
+        {
+          "section": "Rare cancers of childhood are cancers not usually seen in children.",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "General Information About Rare Cancers of Childhood",
+            "Rare cancers of childhood are cancers not usually seen in children."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Cancer in children and adolescents is rare. Since 1975, the number of new cases of childhood cancer has slowly increased. Since 1975, the number of deaths from childhood cancer has decreased by more than half.\nThe cancers listed in this summary are so rare that most children's hospitals are likely to see less than a handful of some types in several years. Because these cancers are so rare, there is not a lot of information about what treatment works best. A child's treatment is often based on what has been learned from treating other children. Sometimes, information is available only from reports of the diagnosis , treatment, and follow-up of one child or a small group of children who were given the same type of treatment.\nMolecular testing of tumors can sometimes help plan treatment. Children newly diagnosed with a rare cancer listed below may be eligible for molecular testing through the Molecular Characterization Initiative.\nThe Molecular Characterization Initiative offers free molecular testing to children, adolescents, and young adults with certain types of newly diagnosed cancer. The program is offered through NCI's Childhood Cancer Data Initiative. To learn more, visit About the Molecular Characterization Initiative .\nMany different cancers are listed in this summary. They are grouped by where they are found in the body.\nThe Rare Cancers of Childhood Treatment summary has been separated into individual summaries for each topic. Please use the lists below or visit the individual summaries at PDQ Cancer Information Summaries: Pediatric Treatment ."
+        },
+        {
+          "section": "Nasopharyngeal Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Head and Neck",
+            "Nasopharyngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Nasopharyngeal Cancer ."
+        },
+        {
+          "section": "Esthesioneuroblastoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Head and Neck",
+            "Esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Esthesioneuroblastoma ."
+        },
+        {
+          "section": "Thyroid Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Head and Neck",
+            "Thyroid Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Thyroid Cancer ."
+        },
+        {
+          "section": "Oral Cavity Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Head and Neck",
+            "Oral Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Oral Cavity Cancer ."
+        },
+        {
+          "section": "Salivary Gland Tumors",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Head and Neck",
+            "Salivary Gland Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Salivary Gland Tumors ."
+        },
+        {
+          "section": "Laryngeal Cancer and Papillomatosis",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Head and Neck",
+            "Laryngeal Cancer and Papillomatosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Laryngeal Tumors ."
+        },
+        {
+          "section": "NUT Carcinoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Head and Neck",
+            "NUT Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood NUT Carcinoma ."
+        },
+        {
+          "section": "Breast Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Chest",
+            "Breast Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Breast Cancer Treatment ."
+        },
+        {
+          "section": "Lung Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Chest",
+            "Lung Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "To learn more, visit:\n- Childhood Tracheobronchial Tumors\n- Pleuropulmonary Blastoma"
+        },
+        {
+          "section": "Esophageal Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Chest",
+            "Esophageal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Esophageal Cancer ."
+        },
+        {
+          "section": "Thymoma and Thymic Carcinoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Chest",
+            "Thymoma and Thymic Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Thymoma and Thymic Carcinoma Treatment ."
+        },
+        {
+          "section": "Heart Tumors",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Chest",
+            "Heart Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Heart Tumors ."
+        },
+        {
+          "section": "Adrenocortical Carcinoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Abdomen",
+            "Adrenocortical Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Adrenocortical Carcinoma ."
+        },
+        {
+          "section": "Stomach Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Abdomen",
+            "Stomach Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Stomach Cancer ."
+        },
+        {
+          "section": "Pancreatic Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Abdomen",
+            "Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Pancreatic Cancer Treatment ."
+        },
+        {
+          "section": "Colorectal Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Abdomen",
+            "Colorectal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Colorectal Cancer Treatment ."
+        },
+        {
+          "section": "Gastrointestinal Neuroendocrine Tumors",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Abdomen",
+            "Gastrointestinal Neuroendocrine Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Gastrointestinal Neuroendocrine Tumors Treatment ."
+        },
+        {
+          "section": "Gastrointestinal Stromal Tumors",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Abdomen",
+            "Gastrointestinal Stromal Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Gastrointestinal Stromal Tumors Treatment ."
+        },
+        {
+          "section": "Bladder Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Reproductive and Urinary Systems",
+            "Bladder Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Bladder Cancer ."
+        },
+        {
+          "section": "Testicular Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Reproductive and Urinary Systems",
+            "Testicular Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Testicular Cancer ."
+        },
+        {
+          "section": "Ovarian Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Reproductive and Urinary Systems",
+            "Ovarian Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Ovarian Cancer ."
+        },
+        {
+          "section": "Cervical and Vaginal Cancers",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Rare Cancers of the Reproductive and Urinary Systems",
+            "Cervical and Vaginal Cancers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Cervical and Vaginal Cancers ."
+        },
+        {
+          "section": "Mesothelioma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Other Rare Cancers of Childhood",
+            "Mesothelioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Mesothelioma ."
+        },
+        {
+          "section": "Multiple Endocrine Neoplasia Syndromes",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Other Rare Cancers of Childhood",
+            "Multiple Endocrine Neoplasia Syndromes"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Multiple Endocrine Neoplasia (MEN) Syndromes Treatment."
+        },
+        {
+          "section": "Pheochromocytoma and Paraganglioma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Other Rare Cancers of Childhood",
+            "Pheochromocytoma and Paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Pheochromocytoma and Paraganglioma Treatment ."
+        },
+        {
+          "section": "Skin Cancer (Melanoma, Basal Cell Carcinoma, and Squamous Cell Carcinoma of the Skin)",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Other Rare Cancers of Childhood",
+            "Skin Cancer (Melanoma, Basal Cell Carcinoma, and Squamous Cell Carcinoma of the Skin)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "To learn more, visit:\n- Childhood Melanoma Treatment\n- Childhood Basal Cell Carcinoma and Squamous Cell Carcinoma of the Skin Treatment"
+        },
+        {
+          "section": "Intraocular (Uveal) Melanoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Other Rare Cancers of Childhood",
+            "Intraocular (Uveal) Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Intraocular (Uveal) Melanoma Treatment ."
+        },
+        {
+          "section": "Chordoma",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Other Rare Cancers of Childhood",
+            "Chordoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Chordoma ."
+        },
+        {
+          "section": "Carcinoma of Unknown Primary",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "Other Rare Cancers of Childhood",
+            "Carcinoma of Unknown Primary"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more, visit Childhood Carcinoma of Unknown Primary Treatment ."
+        },
+        {
+          "section": "To Learn More About Childhood Cancer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "To Learn More About Childhood Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "For more information from the National Cancer Institute about rare cancers of childhood, visit:\n- Genetic Testing for Inherited Cancer Risk\n- Computed Tomography (CT) Scans and Cancer\n- MyPART - My Pediatric and Adult Rare Tumor Network\nFor more childhood cancer information and other general cancer resources, visit:\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Late Effects of Treatment for Childhood Cancer\n- Adolescents and Young Adults with Cancer\n- Children with Cancer: A Guide for Parents\n- Cancer in Children and Adolescents\n- Cancer Staging\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of rare cancers of childhood. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Rare Cancers of Childhood Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/childhood-cancers/patient/rare-childhood-cancers-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389276]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Rare Cancers of Childhood Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\6bce2204fae033eafe6f.html"
+    }
+  ]
+}

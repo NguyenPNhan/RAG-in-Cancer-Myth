@@ -1,0 +1,601 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "scope": "general_or_multi_cancer",
+  "summary_name": "Curcumin (Curcuma, Turmeric) and Cancer",
+  "generated_at": "2026-08-31T07:15:23.653534+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "integrative_therapies"
+      ],
+      "topic": "integrative_therapies",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+      "summary_name": "Curcumin (Curcuma, Turmeric) and Cancer",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/curcumin-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "May 13, 2025",
+      "retrieved_at": "2026-08-31T07:07:02.974476+00:00",
+      "content_sha256": "76f04e19ddba147817ac53d5f31434a85b0593452cecea10f7b3b19aafe0ac83",
+      "section_count": 35,
+      "sections": [
+        {
+          "section": "Overview",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "This cancer information summary provides an overview of the use of curcumin as a treatment for people with cancer.\nThis summary contains the following key information:\n- Curcumin (diarylheptanoid) is one member of a group of natural compounds called curcuminoids, derived from the rhizome of Curcuma longa , an East Indian plant, contained in an extract commonly called turmeric .\n- Turmeric has a long history of therapeutic application in traditional Asian medicine .\n- Extensive research over the past two decades suggests that curcuminoids, the active ingredient in turmeric ( C. longa ), interfere with multiple cell signaling pathways, providing support for the potential role of curcumin in modulating cancer development and progression .\n- With varying formulations and doses tested in phase I clinical trials , there is evidence of bioavailability of curcumin and curcumin conjugates in plasma , urine , and tissue .\n- Results from early-phase trials of curcumin-containing products in the chemoprevention of colon , oral , and hepatic carcinoma appear promising. However, the findings from these early trials have to be confirmed in well-powered trials evaluating safety and effectiveness as indicated by modulation of clinical outcomes.\n- Data from early-phase trials of the safety and effectiveness of curcumin-containing products in cancer treatment are at most from pilot trials that targeted various stages of cancer and cancer patient populations, and utilized different formulations and doses of curcumin and durations of intervention . Thus, the evidence is currently inadequate to recommend curcumin-containing products for the treatment of cancer.\n- Data from early-phase trials of the safety and effectiveness of curcumin-containing products as adjuncts to traditional cancer therapies are from pilot trials that had small sample sizes, targeted various stages of cancer and cancer patient populations, and utilized different formulations and doses of curcumin and durations of intervention. Thus, the evidence is currently inadequate to recommend curcumin-containing products to be used as adjuncts for the treatment of cancer.\n- Data from early-phase trials on the use of curcumin formulations to ameliorate cancer treatment–related effects have demonstrated (a) improved oxidative status in patients who received chemotherapy and radiation therapy , (b) delayed onset and severity of mucositis , (c) reduced severity of radiation dermatitis , and (d) improved quality of life , without adverse effects with curcumin-containing products at these doses. However, these studies were short in duration and used varying doses and formulations of curcumin. Thus, these results should be interpreted with caution. The findings from these early trials have to be confirmed in well-powered trials evaluating safety or effectiveness."
+        },
+        {
+          "section": "General Information and History",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "General Information and History"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Curcumin is a member of the diarylheptanoid class of natural products (curcuminoids) derived from the rhizome of Curcuma longa L., an East Indian plant, commonly called turmeric . The other major curcuminoids present in turmeric are demethoxycurcumin, bisdemethoxycurcumin, and cyclocurcumin; together, they are termed the curcuminoid complex . The turmeric plant and preparations derived from it have a long history of therapeutic application in traditional Asian medicine . The crude and often dried plant material is widely consumed as a food additive, as part of curry spices, which typically contain numerous other ingredients. Turmeric and its preparations also have a long history of use as herbal medicines and dietary supplements , primarily to treat various inflammatory disorders .\nSignificant confusion exists in the scientific biomedical literature, as well as the popular literature, about the meaning of curcumin. Consequently, one group has developed a classification scheme that is described below.[ 1 ]\nSeveral companies distribute curcumin as a dietary supplement. In the United States, dietary supplements are regulated by the U.S. Food and Drug Administration (FDA) as a separate category from foods, cosmetics, and drugs. Unlike drugs, dietary supplements do not require premarket evaluation and approval by the FDA unless specific disease prevention or treatment claims are made. The quality and amount of ingredients in dietary supplements are also regulated by the FDA through Good Manufacturing Practices (GMPs). The FDA GMPs requires that every finished batch of dietary supplement meets each product specification for identity, purity, strength, composition, and limits on contamination that may adulterate dietary supplements. The FDA can remove dietary supplements from the market that are deemed unsafe. Because dietary supplements are not formally reviewed for manufacturing consistency every year, ingredients may vary considerably from lot to lot. In addition, there is no guarantee that ingredients claimed on product labels are present at all or are present in the specified amounts. The FDA has not approved the use of curcumin as a treatment for cancer or any other medical condition .\nCaution/Awareness Notice: Several cases of severe liver toxicity have occurred in Europe and the United States after consumption of products that were labeled as containing curcumin.[ 2 , 3 ] These toxic events may be the result of contamination with toxins known to be in some of these products and/or adulteration or individual patient susceptibility. Various organizations, including international government regulatory agencies, have released cautionary safety advisory notices regarding curcumin-containing products."
+        },
+        {
+          "section": "Categories of Curcumin-Type Products",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "General Information and History",
+            "Categories of Curcumin-Type Products"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "The materials that have received the moniker curcumin may be divided into five categories:\n- Turmeric (T): Raw C. longa rhizomes.\n- Turmeric extract (TE): A solvent extract of dried or fresh C. longa rhizomes.\n- Curcuminoids-enriched turmeric extract (CTE): Typically the deep-yellow precipitate collected from the solvent extract upon concentration under reduced temperature.\n- Curcuminoids-enriched material (CEM): Obtained by additional, often large-scale, chromatographic purification of CTE.\n- Curcumin (CUR): A single-chemical entity, in a purity that is commensurate with that of a validated and/or metrological reference material.\nIt is important to note that materials often referred to as curcumin are not identical to the pure, single-chemical entity. Because of the deficiency in the adequate chemical characterization of the immense diversity of crude turmeric (T), extracts (CE), enriched materials (CTE, CEM), and even materials considered pure , augmented by the fact that the materials often share the same name (curcumin), the usefulness of the biological data acquired from the plethora of these preparations is questionable.[ 1 ] Furthermore, attributing biological activity of a complex mixture solely to the major component, however prominent, is problematic.[ 4 ]\nThis summary refers to all turmeric-derived intervention materials by using the collective term, curcumin-containing products. Tables at the end of each section specify the exact intervention material used in each cited study."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "General Information and History",
+            "Categories of Curcumin-Type Products",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Nelson KM, Dahlin JL, Bisson J, et al.: The Essential Medicinal Chemistry of Curcumin. J Med Chem 60 (5): 1620-1637, 2017. [PUBMED Abstract]\n- Lombardi N, Crescioli G, Maggini V, et al.: Acute liver injury following turmeric use in Tuscany: An analysis of the Italian Phytovigilance database and systematic review of case reports. Br J Clin Pharmacol 87 (3): 741-753, 2021. [PUBMED Abstract]\n- Halegoua-DeMarzio D, Navarro V, Ahmad J, et al.: Liver Injury Associated with Turmeric-A Growing Problem: Ten Cases from the Drug-Induced Liver Injury Network [DILIN]. Am J Med 136 (2): 200-206, 2023. [PUBMED Abstract]\n- Pauli GF, Chen SN, Friesen JB, et al.: Analysis and purification of bioactive natural products: the AnaPurNa study. J Nat Prod 75 (6): 1243-55, 2012. [PUBMED Abstract]"
+        },
+        {
+          "section": "Laboratory/Preclinical Studies",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Laboratory/Preclinical Studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Extensive research over the past two decades suggests that curcuminoids belonging to the diferuloylmethane class of natural products, the major constituents in turmeric ( Curcuma longa ), interfere with multiple cell signaling pathways, which provides support for the potential role of curcumin in modulating carcinogenesis . These pathways include the following:[ 1 - 12 ]\n- Cell cycle ( cyclin D1 and cyclin E).\n- Apoptosis (activation of caspases and down-regulation of antiapoptotic gene products).\n- Proliferation ( human epidermal growth factor receptor-2 [HER-2], epidermal growth factor receptor [EGFR], and activating protein-1 [AP-1]).\n- Survival ( phosphoinositide 3-kinase [PI3K]/ protein kinase B [AKT]) invasion ( matrix metallopeptidase-9 [MMP-9] and adhesion molecules ).\n- Angiogenesis ( vascular endothelial growth factor [VEGF]).\n- Metastasis (CXC-chemokine receptor-4 [CXCR-4]).\n- Inflammation ( nuclear factor-kappa B [NF-kappa B], tumor necrosis factor [TNF], interleukin- 1 [IL-1], interleukin-8 [IL-8], interleukin-12 [IL-12], cyclooxygenase-2 [COX-2], and 5-lipoxygenase [5-LOX]).\nWhile these reports can possibly provide support for the potential role of curcumin-containing products in modulating carcinogenesis, definitive conclusions cannot be made, especially in light of the widespread confusion and/or misconception regarding the chemical nature of curcumin-containing products outlined above.\nBecause of the abundance of in vitro and preclinical studies in the past two decades, there has been a significant increase in the number of clinical trials investigating the therapeutic potential of curcumin-containing products. These clinical trials have used varying formulations and doses of curcuminoids for the prevention and treatment of cancer and to ameliorate symptoms of cancer treatment. This summary will focus on the bioavailability , safety, and effectiveness of curcumin-containing products reported in clinical trials that targeted individuals at high risk of cancer and cancer patients for the prevention and treatment of cancer and ameliorating the symptoms of cancer treatment."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Laboratory/Preclinical Studies",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- Alexandrow MG, Song LJ, Altiok S, et al.: Curcumin: a novel Stat3 pathway inhibitor for chemoprevention of lung cancer. Eur J Cancer Prev 21 (5): 407-12, 2012. [PUBMED Abstract]\n- Panahi Y, Darvishi B, Ghanei M, et al.: Molecular mechanisms of curcumins suppressing effects on tumorigenesis, angiogenesis and metastasis, focusing on NF-κB pathway. Cytokine Growth Factor Rev 28: 21-9, 2016. [PUBMED Abstract]\n- Cho JW, Lee KS, Kim CW: Curcumin attenuates the expression of IL-1beta, IL-6, and TNF-alpha as well as cyclin E in TNF-alpha-treated HaCaT cells; NF-kappaB and MAPKs as potential upstream targets. Int J Mol Med 19 (3): 469-74, 2007. [PUBMED Abstract]\n- Pal S, Bhattacharyya S, Choudhuri T, et al.: Amelioration of immune cell number depletion and potentiation of depressed detoxification system of tumor-bearing mice by curcumin. Cancer Detect Prev 29 (5): 470-8, 2005. [PUBMED Abstract]\n- Sehgal A, Kumar M, Jain M, et al.: Synergistic effects of piperine and curcumin in modulating benzo(a)pyrene induced redox imbalance in mice lungs. Toxicol Mech Methods 22 (1): 74-80, 2012. [PUBMED Abstract]\n- Dance-Barnes ST, Kock ND, Moore JE, et al.: Lung tumor promotion by curcumin. Carcinogenesis 30 (6): 1016-23, 2009. [PUBMED Abstract]\n- Moghaddam SJ, Barta P, Mirabolfathinejad SG, et al.: Curcumin inhibits COPD-like airway inflammation and lung cancer progression in mice. Carcinogenesis 30 (11): 1949-56, 2009. [PUBMED Abstract]\n- Lee JC, Kinniry PA, Arguiri E, et al.: Dietary curcumin increases antioxidant defenses in lung, ameliorates radiation-induced pulmonary fibrosis, and improves survival in mice. Radiat Res 173 (5): 590-601, 2010. [PUBMED Abstract]\n- Sharma RA, Euden SA, Platton SL, et al.: Phase I clinical trial of oral curcumin: biomarkers of systemic activity and compliance. Clin Cancer Res 10 (20): 6847-54, 2004. [PUBMED Abstract]\n- Cheng AL, Hsu CH, Lin JK, et al.: Phase I clinical trial of curcumin, a chemopreventive agent, in patients with high-risk or pre-malignant lesions. Anticancer Res 21 (4B): 2895-900, 2001 Jul-Aug. [PUBMED Abstract]\n- Carroll RE, Benya RV, Turgeon DK, et al.: Phase IIa clinical trial of curcumin for the prevention of colorectal neoplasia. Cancer Prev Res (Phila) 4 (3): 354-64, 2011. [PUBMED Abstract]\n- Aggarwal BB, Kumar A, Bharti AC: Anticancer potential of curcumin: preclinical and clinical studies. Anticancer Res 23 (1A): 363-98, 2003 Jan-Feb. [PUBMED Abstract]"
+        },
+        {
+          "section": "Bioavailability of Curcumin-Containing Products (Phase I Clinical Trials)",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Bioavailability of Curcumin-Containing Products (Phase I Clinical Trials)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "At least six phase I clinical trials of curcumin -containing products have investigated the pharmacokinetics and pharmacodynamics of pure curcumin (CUR) alone in humans. These studies have shown that systemic exposure to curcumin-containing products at doses of up to 8,000 mg /day was safe and tolerable and did not cause serious adverse events. In these studies, the peak serum concentrations ranged from 47 ng/ mL (at a dose of 200 mg of oral curcumin daily) to 1,380 ng/mL (at a dose of 8,000 mg of oral curcumin daily).[ 1 - 6 ]\nThese concentrations refer to total curcumin , meaning that studies do not differentiate between free (unconjugated) curcumin and curcumin conjugated with glucuronic acid or sulfate. Conjugated curcumin is the more abundant metabolite in circulation. While studies indicate that conjugated curcumin is less bioactive than free curcumin, there are also indications for the enzymatic release of free curcumin from the conjugated forms at sites of inflammation .[ 7 , 8 ]\nThe assessment of curcuminoid bioavailability , including that of CUR, is confounded by the pronounced metabolic and (photo)chemical instability of these compounds . Because of the varying preparations, formulations, and doses of intervention materials tested in the phase I clinical trials , it is unclear which curcumin-containing products and doses of CUR and/or other constituents of Curcuma longa are required to produce a clinically significant modulation of biomarkers or even clinical outcomes . The general consensus that the plasma levels of CUR required to achieve any biological effects in patients are much higher than what has been observed clinically to date. Studies have directly compared the bioavailability of unformulated curcumin-containing preparations with CUR that is formulated for enhanced bioavailability. These studies have consistently shown an increase in plasma levels using formulated CUR; however, these levels are still relatively low and do not exceed therapeutically insufficient concentrations.[ 9 , 10 ]\nSource | Description of Curcuminoid-Containing Product | Supplier | Type of Product a\nCEM = further processed curcuminoid-enriched materials; CUR = curcumin as a single-chemical entity; TE = turmeric extract .\na For a more detailed definition of these terms, see the General Information and History section.\n[ 1 , 3 , 5 ] | Standardized turmeric extract formulated in capsules (curcumin C3 complex); each capsule contained 450 mg of curcumin, 30 mg of demethoxycurcumin, and 20 mg of bisdemethoxycurcumin | Sabinsa Corp. (Piscataway, NJ, USA and East Windsor, NJ, USA) | TE\n[ 2 ] | Theracurmin (200 mg, then escalated to 400 mg) | Theravalues Corp. (Tokyo) | CEM\n[ 4 ] | P54FP formulated in soft gelatin capsules. Each capsule contained 20 mg of curcuminoids (18 mg of curcumin and 2 mg of demethoxycurcumin) suspended in 200 mg of essential oils derived from Curcuma spp. Typical constituents of Curcuma essential oils are tumerone, atlantone, and zingiberene. | Phytopharm plc. (Godmanchester, United Kingdom) | CEM\n[ 6 ] | Diferuloylmethane (99.3% pure; 500 mg per tablet) | Yung-Shin Pharmaceutical Co. (Taiwan) | CUR"
+        },
+        {
+          "section": "Cancer Prevention and Treatment of Precancerous Lesions",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Prevention and Treatment of Precancerous Lesions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Investigations into products that may aid in the prevention of cancer and the treatment of precancerous lesions are important for the development of early intervention strategies and treatments. A few studies have investigated the potential clinical benefit of curcumin -containing products, and other studies are under way. See ClinicalTrials.gov ."
+        },
+        {
+          "section": "Colorectal cancer",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Prevention and Treatment of Precancerous Lesions",
+            "Colorectal cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Researchers have explored curcumin’s potential in curcumin-containing products for the prevention of colon cancer through its effects on precancerous lesions.\nPublished results (curcumin-containing product for prevention of colon cancer):\n- One small study (N = 5) assessed patients with familial adenomatous polyposis (FAP). The patients, all of whom had previous colectomies (four patients with retained rectums and one patient with an ileal anal pouch), received 480 mg of curcumin and 20 mg of quercetin 3 times per day orally for 6 months.[ 11 ]\n- At 3 months, four of five patients had a decrease in polyp number and size from baseline .\n- At 6 months, this decrease continued for four of the patients, one patient was lost to follow-up after 3 months of treatment.\n- This same group conducted a controlled trial of 100% pure CUR (1,500 mg orally, 2 times/day) in a similar population of individuals with FAP (N = 44; placebo = 23; curcumin = 21).[ 12 ]\n- Results of this study contradicted previous findings. No significant difference was found between the two treatment arms in this study.\n- A third study that investigated oral curcumin used 2 doses (2,000 mg and 4,000 mg) of curcuminoid-containing powder (98%) given orally once daily for 30 days.[ 13 ] The study investigated the potential efficacy of curcumin-containing products in reducing the concentrations of prostaglandin E2 (PGE2) and 5-hydroxyeicosatetraenoic acid (5-HETE) (procarcinogenic factors) within aberrant crypt foci (ACF) ( primary endpoint ) and associated normal mucosa . The secondary endpoints included total ACF number (visible on endoscopy ) and an estimate of proliferation in normal mucosa using the proliferation marker Ki-67. Forty patients were evaluable, with 20 participants in each dose group.[ 13 ]\n- There was no significant decrease in primary or secondary endpoints in either group of patients, except for a 40% decrease in the number of ACF in the group of patients who received 4,000 mg doses.\n- The ACF reduction in the 4,000 mg group was associated with a significant, five-fold increase in posttreatment plasma curcumin and conjugate levels."
+        },
+        {
+          "section": "Head and neck cancer",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Prevention and Treatment of Precancerous Lesions",
+            "Head and neck cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment of patients with oral leukoplakia using a curcumin-containing product was investigated in a randomized trial .[ 14 ]\nPublished results (curcumin-containing product to treat oral leukoplakia):\n- In one trial, 223 patients with oral leukoplakia were randomly assigned to receive either 3,600 mg of an oral curcumin-containing product (N = 111) or a placebo (N = 112) twice daily after food for 6 months.[ 14 ] The intervention material contained a curcuminoid-enriched material (CEM) reconstituted with turmeric oil and dispensed in capsules (BCM95–Biocurcumax). Clinical response (primary endpoint) was determined by measurement of leukoplakia at baseline and at 6 months. At 6 months, 213 patients were evaluable (curcumin, N = 105; placebo, N = 108).\n- Of these patients, complete or partial responses were observed in 75 patients from the curcumin-containing product group and in 62 patients from the placebo group (a statistically significant difference).\n- One hundred three patients with a clinical response at 6 months continued the curcumin-containing product or placebo treatment to evaluate long-term treatment effects.\n- There was no statistically significant difference between treatment arms at 12 months, suggesting no additional benefits with treatment longer than 6 months.\n- Histological response (complete reversal of dysplasia/hyperplasia vs. partial reversal vs. no response vs. increased severity; secondary endpoint) between the groups was not significant, but combined histological and clinical response showed a significantly better response to the curcumin-containing product."
+        },
+        {
+          "section": "Multiple myeloma",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Prevention and Treatment of Precancerous Lesions",
+            "Multiple myeloma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The effect of a curcumin-containing product was investigated in patients with monoclonal gammopathy of undetermined significance (MGUS) or smoldering multiple myeloma (SMM).\nPublished results (effectiveness of curcumin-containing product on MGUS and SMM):\n- A double-blind , placebo-controlled , crossover study followed by an open-label extension study explored the effectiveness of a curcumin-containing product in patients with MGUS or SMM. Thirty-six patients (19 with MGUS and 17 with SMM) were randomly assigned to receive either 4,000 mg of the curcumin-containing product (curcumin stick-pack contained 3,600 mg of curcumin, 320 mg of demethoxycurcumin, and 80 mg of bisdemethoxycurcumin; one-half in the morning and one-half in the evening as a divided dose) or 4,000 mg of placebo, crossing over at 3 months. At completion of the first study, patients were given the option to begin the open-label 8,000 mg dose-extension study. Twenty-five patients (9 with SMM and 16 with MGUS) completed the crossover study and 18 patients (7 with SMM and 11 with MGUS) completed the extension study.[ 15 ]\n- Serum analysis revealed decreases in free light-chain ratio (rFLC); a difference between clonal and nonclonal light-chain (dFLC) and involved free light-chain (iFLC) was observed but not statistically significant in patients who received the curcumin-containing product in the crossover study.\n- In patients who received the placebo and then crossed over to receive the curcumin-containing product, no significant changes occurred after crossover. Urinary deoxypyridinoline (uDPYD), a marker of bone resorption, decreased in the curcumin-containing product arm and increased in the placebo arm.\n- Significant decrease in rFLC and uDPYD occurred in the open-label study."
+        },
+        {
+          "section": "Hepatoma (liver cancer)",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Prevention and Treatment of Precancerous Lesions",
+            "Hepatoma (liver cancer)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "The efficacy and safety of curcumin-containing products have been studied in patients with nonalcoholic fatty liver disease (NAFLD).\nPublished results (effectiveness of curcumin-containing product on NAFLD):\n- A study evaluated the efficacy and safety of supplementation with a phytosomal curcumin-containing product in patients with NAFLD (grades 1–3 according to liver ultrasonography ) These patients were randomly assigned to receive either the curcumin-containing product (phytosomal form; 1,000 mg/day in 2 divided doses; N = 50) or the placebo (N = 52) for a period of 8 weeks.[ 16 ]\n- Results indicated that supplementation with the curcumin-containing product was associated with a reduction in body mass index (-0.99 ± 1.25 in the curcumin-containing product group vs. -0.15 ± 1.31 in the placebo group; P = .003) and waist circumference (1.74 ± 2.58 in the curcumin-containing product group vs. -0.23 ± 3.49 in the placebo group; P = .024).\n- Ultrasonographic findings were improved in 75.0% of patients in the curcumin-containing product group, while the rate of improvement in the control group was 4.7% ( P < .001).\n- Serum levels of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) were reduced by the end of the trial in the patients in the curcumin-containing product group ( P < .001) but elevated in the patients in the control group ( P < .001).\n- The curcumin-containing product was safe and well-tolerated during the trial.\n- A 2019 meta-analysis examined four randomized controlled trials that included 228 patients.[ 17 ] Based on these findings, the authors suggested that curcumin-containing products, at higher dosages, might have a favorable effect on patients with NAFLD.[ 17 ]\n- Results indicated a trend toward significant reduction of ALT blood concentrations in a subgroup of patients who received ≥1,000 mg/day of curcumin-containing product supplementation (-11.36 IU/L; 95% confidence interval [CI], -22.75 to 0.02; I 2 : 51%).\n- The meta-analysis showed a significant reduction of AST levels in patients who received curcumin-containing products in studies with 8 weeks of administration (-9.22 IU/L; 95% CI, -12.77 to -5.67; I 2 : 49%).\nSource | Description of Curcuminoid-Containing Product | Supplier | Type of Product a\nCEM = further processed curcuminoid-enriched materials; CUR = curcumin as a single-chemical entity; HPLC = high-performance liquid chromatography ; TE = turmeric extract .\na For a more detailed definition of these terms, see the General Information and History section.\n[ 11 ] | Curcumin-containing product (480 mg) and quercetin (20 mg) using Oxy-Q tablets | Farr Laboratories (Santa Clarita, CA, USA) | CEM\n[ 12 ] | 100% pure curcumin (CUR) | No source given | CUR\n[ 13 ] | Pure curcumin (CUR) powder; 98.0% by HPLC | Sabinsa Corp. (East Windsor, NJ, USA) | TE\n[ 14 ] | Curcumin-containing product, reconstituted with turmeric oil and dispensed in capsules (BCM95–Biocurcumax) | Arjuna Natural Extracts Ltd. (Kerela, India) | CEM\n[ 15 ] | C3 curcuminoid granule stick-packs (Allepey finger turmeric); each curcumin-containing product stick-pack contained 4,000 mg of curcuminoids (3,600 mg of curcumin [CUR], 320 mg of demethoxycurcumin, and 80 mg of bisdemethoxycurcumin) | Sabinsa Corp. (Piscataway, NJ, USA) | TE\n[ 16 ] | A phytosomal formulation that contained a complex of curcuminoids and soy phosphatidylcholine in a 1:2 weight ratio, and 2 parts of microcrystalline cellulose , with an overall content of curcumin in the final product of around 20% | Meriva; Indena S.p.A, (Milan, Italy) | CEM"
+        },
+        {
+          "section": "Biomarker studies",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Treatment",
+            "Biomarker studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "Biomarkers have long been used to identify and understand the etiology of various diseases. In cancer research, there are different types of cancer biomarkers. Prognostic biomarkers determine the likely outcome of the disease and if further treatment is warranted and predictive biomarkers ascertain the likelihood the disease will respond to treatment.[ 18 ]\nFive clinical studies have been performed to evaluate the effects of supplementation with curcumin -containing products on predictive biomarkers in patients with different types of cancer. Various biomarkers from these studies were evaluated as potential efficacy measures to ascertain the usefulness of curcumin-containing products alone and as an adjunctive therapy . Different curcumin-containing products were used. Curcuminoid doses used in these studies ranged from 20 mg/day to 3,000 mg/day. One of the studies did not identify the amount of curcuminoids administered, but used 5 g of turmeric powder dissolved in 150 mL of milk 3 times/day.[ 19 ]\nThe main biomarkers used in these studies were serum levels of the following:\n- Total antioxidant capacity (TAC).[ 20 ]\n- Superoxide dismutase (SOD).[ 20 ]\n- Glutathione peroxidase (GPx).[ 20 ]\n- Tumor necrosis factor-alpha (TNF-alpha).[ 21 , 22 ]\n- Transforming growth factor-beta (TGF-beta).[ 22 ]\n- Interleukin-6 (IL-6).[ 22 ]\n- Cyclooxygenase-2 (COX-2).[ 23 ]\n- Prostaglandin E2 (PGE2).[ 23 ]\n- Nitric oxide.[ 19 ]\n- Histological expression of p53 on cancer cells. [ 21 ]\nResults from four of the studies indicated an association between a positive change in a biomarker and patient outcome as follows:\n- TAC increased and SOD decreased.[ 20 ]\n- p53 expression increased and TNF-alpha decreased.[ 21 , 22 ]\n- TGF-beta and IL-6 decreased.[ 22 ]\n- Reduction in nitric oxide.[ 19 ]\nHowever, another study found no statistically significant difference between comparison groups when accounting for the observed biomarker, PGE2.[ 23 ] Additionally, a different study found no significant change in GPx.[ 20 ]\nAnother study conducted using a proprietary lecithin delivery system of a curcumin-containing product (500 mg tablet) given 3 times/day found that curcumin-containing product supplementation consistently improved oxidative status in patients who received chemotherapy and radiation therapy .[ 24 ]"
+        },
+        {
+          "section": "Curcumin-containing products alone",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Treatment",
+            "Curcumin-containing products alone"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Two studies have been published that suggest a possible antitumor effect of curcumin-containing products.\nPublished results (possible antitumor effect of curcumin-containing product):\n- One report described a patient with treatment-resistant myeloma who began a daily oral regime of a curcumin-containing product. A single 8,000 mg dose of the curcumin-containing product (containing curcuminoids complexed with bioperine to aid with absorption ) was taken on an empty stomach each evening. The patient also underwent hyperbaric oxygen treatment.[ 25 ]\n- Over the course of 60 months, the patient’s cancer remained stable with minor fluctuations in paraprotein levels.\n- An open-label phase II trial investigated the efficacy and toxicity of curcumin-containing products alone in patients with advanced pancreatic cancer .[ 26 ] The study enrolled 25 patients who received 8,000 mg (orally) of a curcuminoid-containing product daily until disease progression ; each 1 g capsule contained 900 mg of curcumin, 80 mg of demethoxycurcumin, and 20 mg of bisdemethoxycurcumin. Of the 25 patients, 21 were evaluable for response and 24 for toxicity.\n- No treatment-related toxicity was reported.\n- One patient had stable disease for more than18 months and another patient had a brief tumor regression."
+        },
+        {
+          "section": "Imatinib and curcumin-containing products",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Treatment",
+            "Imatinib and curcumin-containing products"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Imatinib and curcumin-containing products have been studied in patients with metastatic adenoid cystic carcinoma (ACC).\nPublished results (treatment of c-kit –positive metastatic ACC with imatinib and a curcumin-containing product):\n- A published case report described the successful treatment of a patient with a c-kit–positive metastatic ACC using imatinib and a curcumin-containing product. Imatinib was administered orally at 400 mg/day along with 225 mg/m 2 of a curcumin-containing product in 1,000 mL of normal saline intravenously (IV) over 2 to 3 hours, twice a week. An oral curcumin-containing product was also administered, two capsules twice daily (42 mg curcumin per capsule). This regimen was continued for 6 months.[ 27 ] Given the known activity of imatinib against c-kit–positive tumors, the contribution of curcumin-containing products to the efficacy of this patient’s treatment regimen is unclear.\n- Stable disease was observed after 2 months of treatment, and a significant reduction in tumor mass (80% decrease in tumor volume in lungs ) was observed at 6 months.\n- After cessation of IV treatment at 6 months, but with steady use of an oral curcumin-containing product and imatinib, the patient showed continuous clinical and radiographic improvements."
+        },
+        {
+          "section": "Docetaxel and curcumin-containing products",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Treatment",
+            "Docetaxel and curcumin-containing products"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Two studies have explored the efficacy, tolerability, and feasibility of docetaxel plus curcumin-containing products in the treatment of cancer.[ 28 , 29 ]\nPublished results (efficacy of docetaxel and a curcumin-containing product):\n- A 2010 study conducted in France examined docetaxel plus curcumin-containing products in patients with advanced and metastatic breast cancer .[ 28 ] Six dose levels of oral curcumin-containing products were studied. Doses varied from 500 mg to 8,000 mg daily along with docetaxel (100 mg/m 2 ) administered as a 1-hour IV infusion on day 1 of each 3-week cycle for six cycles. Fourteen patients were enrolled in the study, and ten patients completed the treatments of docetaxel plus a curcumin-containing product. Diarrhea and headaches were the main dose-limiting toxicities, and three patients considered the amount of the curcumin-containing product (16 capsules a day) as unacceptable. A curcumin-containing product dose of 6,000 mg/day for 7 consecutive days every 3 weeks was determined to be the recommended dose for further investigation in combination with a standard dose of docetaxel.[ 28 ]\n- Among the evaluable patients enrolled on the study, no disease progression was observed with the combination treatment.\n- One patient had evaluable bone lesions that were stable after six cycles of treatment.\n- Five patients had partial responses, and three patients had stable disease.\n- A biological response was documented with a decrease of tumor markers in seven patients.\n- A randomized phase II study compared docetaxel and curcumin with docetaxel and placebo in patients with metastatic castration -resistant prostate cancer .[ 29 ] Patients received 75 mg/m 2 of docetaxel on day 1 every 3 weeks for six cycles and 5 mg of prednisone or prednisolone twice a day. Patients also received either 6 g of curcumin or placebo daily (4 capsules, 500 mg each, 3 times per day: morning, lunchtime, and evening) for 7 consecutive days every 3 weeks.\n- There were no differences in progression-free survival (PFS), prostate-specific antigen response rate, overall survival (OS), or quality of life between the groups.\nA multicenter, phase II, randomized, double-blind study was initiated at the same institution in France and compared docetaxel plus a curcumin-containing product with docetaxel plus placebo in the first-line treatment of patients with metastatic castration-resistant prostate cancer. The study was terminated for futility in view of results from the interim analysis ( NCT02095717 )."
+        },
+        {
+          "section": "Gemcitabine and curcumin-containing products",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Treatment",
+            "Gemcitabine and curcumin-containing products"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "Three studies investigated the efficacy and safety of variable formulations and doses of curcumin-containing products in combination with gemcitabine. All studies administered gemcitabine 1,000 mg/m 2 IV weekly for 3 of 4 weeks, but differed in rate of gemcitabine administration .\nTwo research studies of first-line treatment in patients with advanced and metastatic pancreatic cancer (PC) showed differing results in tolerability and toxicity profiles.\nPublished results (gemcitabine and a curcumin-containing product):\n- A research group from Israel enrolled 17 patients in an open-label, phase II trial.[ 30 ] Patients received 8,000 mg of a curcumin-containing product by mouth daily concurrently with chemotherapy. The authors concluded that this combination of curcumin-containing products and gemcitabine is not feasible in this population of patients.\n- Five patients discontinued the curcumin component of the combined treatment mostly because of gastrointestinal toxicity, and 11 evaluable patients received the planned concurrent treatment of the two drugs until progression of disease (median, 2.5 months); one patient died at home from causes unrelated to the study.\n- Seven patients reported gastrointestinal toxicity, mostly diarrhea.\n- Of the 11 evaluable patients, 1 had a partial response, 4 had stable disease, and 6 had tumor progression.\n- Median overall survival was 5 months.\n- Conversely, an Italian study (N = 44) reported good tolerability using 2,000 mg daily of a curcumin-containing product.[ 31 ]\n- A partial response was observed in 27.3% of patients and stable disease was observed in 34.1% of patients; the overall disease control rate was 61.4%.\n- The median OS was 10.2 months and median time to progression was 8.4 months, which is reported to be higher than the historically observed OS rates of 5.7 to 6.7 months for gemcitabine as a single agent.\n- The researchers also noted that patients using this combination of a curcumin-containing product and gemcitabine reported lower-than-expected hematological toxicity. Grade 3 to grade 4 diarrhea occurred in only one patient.\n- A clinical trial of patients with gemcitabine-resistant PC also found this combination to be safe and effective (N = 21). In addition to gemcitabine, this study administered 60 mg/m 2 of S-1 orally for 14 consecutive days every 3 weeks.[ 32 ] Patients received a mixture of curcuminoids (8,000 mg/day) that they took at their own convenience, while on a standard chemotherapy treatment schedule ; the compliance rate was 90%.\n- No patients experienced a partial or complete response .\n- Five patients demonstrated stable disease.\n- The most common adverse events of fatigue , anorexia , and diarrhea were attributed to chemotherapy or disease progression."
+        },
+        {
+          "section": "FOLFOX and curcumin-containing products",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Treatment",
+            "FOLFOX and curcumin-containing products"
+          ],
+          "is_boilerplate": false,
+          "block_count": 42,
+          "text": "A group from the United Kingdom conducted a combined phase I dose-escalation study and a phase IIA study of daily oral curcumin-containing products with folinic acid , fluorouracil , and oxaliplatin ( FOLFOX ) (CUFOX) in patients with metastatic colorectal cancer to assess safety, tolerability, and a suitable dose of curcumin.[ 33 , 34 ] Both studies used the same curcumin-containing product.\nPublished results (FOLFOX and a curcumin-containing product):\n- In the phase I dose-escalation trial, oral doses of 500 mg, 1,000 mg, or 2,000 mg of curcumin-containing products were given daily with a loading period of 1 week before initiation of FOLFOX chemotherapy.[ 33 ]\n- The curcumin-containing product was determined to be a safe and well-tolerated adjuvant therapy to FOLFOX at doses up to 2,000 mg/day.\n- Of the 12 patients, 11 patients demonstrated stable disease or partial responses to the treatment after six cycles and 8 patients maintained these responses.\n- Median PFS was 34 weeks.\n- The adverse events (AEs) reported were primarily gastrointestinal, mainly diarrhea, which is consistent with those described with FOLFOX alone and in some curcumin-containing product trials.\n- In the phase IIA study, 28 patients were accrued, 18 of whom received CUFOX with or without bevacizumab , while 9 patients were randomly assigned to the control arm and received FOLFOX with or without bevacizumab. One patient was deemed ineligible and was excluded from analyses.[ 34 ]\n- Grade 1 or grade 2 fatigue, peripheral neuropathy , and diarrhea were the most reported AEs in both arms.\n- Three patients who received CUFOX reported grade 3 or grade 4 thromboembolic events.\n- No complete response was observed; however, 22% of patients who received FOLFOX exhibited stable disease and 44% of patients who received FOLFOX exhibited partial responses; 28% of patients who received CUFOX exhibited stable disease and 56% of patients who received CUFOX exhibited partial responses.\n- The median PFS was 171 days for patients who received FOLFOX and 320 days for patients who received CUFOX.\n- The median OS was 200 days for patients who received FOLFOX and 596 days for patients who received CUFOX.\n- The difference in median OS rates between the two arms in this study was statistically significant. However, the small sample size and an imbalance between the two groups regarding the percentage of patients with two or more metastatic sites makes this result difficult to interpret.\nReference | Trial Design | Condition or Cancer Type | Type of Chemotherapy | Treatment Groups | Results | Level of Evidence Score a\nCRLM = colorectal liver metastases; FOLFOX = folinic acid, fluorouracil, and oxaliplatin.\na For information about levels of evidence analysis and scores, see Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies .\n[ 26 ] | Phase II, open-label trial | Advanced pancreatic cancer | N/A | N = 25 patients enrolled; 24 were evaluable for toxicity and 21 were evaluable for response | No treatment-related toxicities were observed; one patient remained stable for >18 months and another patient had a dramatic but brief tumor response | 2Dii\n[ 28 ] | Phase I, dose-escalation trial | Advanced and metastatic breast cancer | Docetaxel | N = 14 | 3 dose-limiting toxicities were observed and 2 of 3 patients at these dose levels refused to continue treatment | 2C\n[ 29 ] | Randomized, phase II | Castration-resistant prostate cancer | Docetaxel | N = 50; 24 patients received placebo and docetaxel and 26 patients received docetaxel and curcumin | No difference between groups was reported | 1iDii\n[ 30 ] | Phase II, open-label trial | Locally advanced and metastatic pancreatic cancer | Gemcitabine | N = 17; 4 locally advanced and 11 metastatic | Median time to tumor progression was 2.5 mo | 2Diii\n[ 31 ] | Phase II trial | Locally advanced and metastatic pancreatic cancer | Gemcitabine | N = 44; 13 locally advanced and 34 metastatic | Partial response in 27.3% of patients and stable disease in 34.1% of patients | 2Diii\n[ 32 ] | Phase I/II trial | Gemcitabine-resistant pancreatic cancer | Gemcitabine | N = 21; 19 patients received combination therapy and 2 patients received gemcitabine monotherapy | Phase I study outcome showed safety of oral curcumin-containing product. Additionally, no patients withdrew from this study because of curcumin-containing product intolerability, thus meeting the primary endpoint of the phase II study | 2C\n[ 33 ] | Phase I, dose-escalation trial | CRLM | FOLFOX | N = 12 | This study revealed curcumin-containing products to be safe and tolerable adjuncts to FOLFOX chemotherapy in patients with CRLM at doses up to 2 g/d | 2C\n[ 34 ] | Phase IIA trial | Colorectal cancer with inoperable liver metastases | FOLFOX | N = 28; 9 received FOLFOX alone and 18 received FOLFOX + a curcumin-containing product | Daily oral curcumin-containing product combined with FOLFOX chemotherapy was safe and tolerable | 2C\nSource | Description of Curcuminoid-Containing Product | Supplier | Type of Product a\nCEM = further processed curcuminoid-enriched materials; CTE = curcuminoid-enriched turmeric extract; CUR = curcumin as a single-chemical entity; T = Turmeric; TE = a hybrid of a CEM and Turmeric essential oil .\na For a more detailed definition of these terms, see the General Information and History section.\n[ 19 ] | Turmeric powder dissolved in 150 mL of milk | No source given | T\n[ 20 ] | Curcumin-containing product capsules (BCM-95 CURCUGREEN) | Arjuna Natural Extracts Ltd. (Kerela, India) | TE\n[ 21 ] | Curcumin-containing product (not further described) | Sigma Aldrich (Shanghai, China) | CUR\n[ 22 , 31 ] | Phytosomal preparation of curcuminoids | Meriva; Indena S.p.A (Milan, Italy) | CEM\n[ 23 ] | P54FP, an extract of Curcuma spp.; a liquid in 220 mg capsules (9% curcumin [CUR] and 1% demethoxycurcumin with the remainder constituted by essential oils derived from Curcuma domestica and Curcuma xanthorrhiza ) | Sigma Chemical Co. (Poole, United Kingdom); Phytopharm plc (Godmanchester, United Kingdom) | CEM\n[ 24 ] | Meriva (ratio of curcumin: demethoxycurcumin: bis-demethoxycurcumin, 33:8:1), 200 mg soy lecithin, and 200 mg microcrystalline cellulose | Meriva; Indena S.p.A (Milan, Italy) | CEM\n[ 25 ] | Curcumin-containing product complexed with bioperine | Patient administered, not prescribed by a physician ; no source given | CEM\n[ 35 ] | Curcumin-containing product (not specified) | No source given | CUR\n[ 26 ] | A preparation containing CUR (87.2%); demethoxycurcumin (10.5%); and bisdemethoxycurcumin (2.3%) | Sabinsa Corp. (Piscataway, NJ, USA) | TE\n[ 27 ] | A proprietary formulation containing 42 mg of CUR in a form that enhances the solubility of CUR in water | Arantal | CTE\n[ 28 ] | Curcuma extract (not specified) | No source given | TE\n[ 29 ] | Each capsule contained 500 mg of CUR | No source given | CUR\n[ 30 ] | Each capsule contained 500 mg of curcuminoids (curcumin [CUR] 450 mg, demethoxycurcumin 40 mg, and bisdemethoxycurcumin 10 mg) | Sabinsa Corp. (Piscataway, NJ, USA) | TE\n[ 32 - 34 ] | Curcumin-containing product in microbead form, containing a mixture of curcuminoids (Curcumin C3 Complex) that contains curcumin (CUR; 73%), demethoxycurcumin (22%), and bisdemethoxycurcumin (4%) | Sabinsa Corp. (Piscataway, NJ, USA) | TE"
+        },
+        {
+          "section": "Quality-of-Life Studies",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Quality-of-Life Studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "One study examined the potential effect of curcumin on the quality of life (QOL) of cancer patients (N = 80) with solid tumors , predominantly gastric , colorectal , and breast cancer.[ 22 ] All patients received standard treatment for their respective cancers while enrolled in the study. Patients were randomly assigned to receive either curcuminoids (180 mg /day) or matched placebo for 8 weeks. Curcuminoids were prepared with phosphatidylcholine to boost bioavailability . Meriva contains 20% curcuminoids; therefore, each patient was asked to take three 300 mg capsules per day (one capsule tid).\nThis study reported an overall increase in self-reported QOL in both groups, with greater improvement in the curcuminoid group. However, because of the higher baseline QOL values in the placebo group when compared with the curcuminoid group, it is difficult to interpret these results.\nSource | Description of Curcuminoid-Containing Product | Supplier | Type of Product a\nCEM = further processed curcuminoid-enriched materials.\na For a more detailed definition of these terms, see the General Information and History section.\n[ 22 ] | Phytosomal preparation of curcuminoids | Meriva; Indena S.p.A, (Milan, Italy) | CEM"
+        },
+        {
+          "section": "Dermatitis",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Therapy Side Effects",
+            "Dermatitis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "The effects of curcumin -containing products on radiation-induced dermatitis were investigated in three studies.[ 36 - 38 ] Two of the studies evaluated oral curcumin-containing products while one study assessed topical application of a curcumin-containing cream.\nPublished results (curcumin-containing products in the treatment of radiation-induced dermatitis):\n- In a randomized , double-blind , placebo-controlled study, 30 adult women with breast cancer who received radiation therapy alone were randomly assigned to receive either experimental treatment ( oral curcumin-containing product; 2,000 mg ) or control treatment ( placebo ) 3 times a day.[ 36 ]\n- Self-reported pain measures showed no significant differences between the treatment arms. However, the severity of radiation dermatitis at the treatment site was reduced in patients who received the oral curcumin-containing product.\n- A multi-site, randomized, double-blind, placebo-controlled study assessed the efficacy of an oral curcumin-containing product to reduce radiation dermatitis severity. Breast cancer patients (N = 686) were randomly assigned to received an oral curcumin-containing product (2,000 mg) or placebo 3 times a day.[ 37 ]\n- While curcumin did not reduce radiation dermatitis severity, fewer curcumin-treated patients with a Radiation Dermatitis Severity scale score of >3.0 suggested a trend towards reduced severity; the outcome lacked statistical significance.\n- In a prospective, investigator -blinded study, 40 adult breast cancer patients underwent radiation therapy and received either a turmeric -containing cream or baby oil (placebo) for 5 weeks. The skin was treated with 5 g of turmeric-containing cream or baby oil 5 times daily, before and after radiation therapy.[ 38 ]\n- Results showed that curcumin was effective in reducing the severity of dermatitis at 2, 3, and 4 weeks, compared with placebo."
+        },
+        {
+          "section": "Mucositis",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Therapy Side Effects",
+            "Mucositis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "Several studies evaluated the tolerability and efficacy of a curcuminoid-containing product by oral application (mouthwash) in the treatment of oral mucositis .[ 39 , 40 ] The studies used several objective outcome measures, including the World Health Organization's mucositis scale and Oral Mucositis Assessment Scale.\nPublished results (curcuminoid-containing products in the treatment of oral mucositis):\n- A study of adult patients who received chemotherapy and radiation therapy aimed to assess the efficacy of turmeric powder with honey on treating oral mucositis. The experimental group of patients (n = 30) were given a mixture of turmeric powder and honey to apply 5 minutes before treatment, maintain during treatment, and then reapplied 5 minutes after treatment. The control group of patients received no supplementation (n = 30).[ 40 ]\n- Good tolerability and a reduction in oral mucositis were noted in patients using the turmeric and honey treatment.\n- No adverse effects were observed.\n- In an investigator-blinded, randomized, controlled trial, 80 patients with head and neck cancer underwent combined carboplatin /radiation therapy and received turmeric (6 times a day) or povidone- iodine (twice a day) mouthwash every other day. Oral mucositis was assessed using the Radiation Therapy Oncology Group (RTOG) grading system.[ 41 ]\n- Turmeric mouthwash delayed and reduced the levels of radiation-induced oral mucositis at all time points.\n- Patients who used the turmeric mouthwash had decreased intolerable mucositis, fewer treatment breaks during the first 4 weeks of treatment, and reduced weight loss.\n- In a double-blind randomized study, 32 adult patients with head and neck cancer received radiation therapy and either an oral nano-encapsulated curcumin-containing product (80 mg a day) or a placebo. Fifteen patients received the nano-encapsulated curcumin-containing product (study group), and 14 patients received the placebo (control group). Oral mucositis was assessed by the National Cancer Institute Common Toxicity Criteria.[ 42 ]\n- In the study group of patients, onset of oral mucositis was delayed.\n- Severity of mucositis increased in all patients, but the grade was significantly lower in patients receiving curcumin.\n- While 50% of patients in the control group (7 of 14) developed grade 4 mucositis, no patients developed grade 4 mucositis in the study group.\n- The study group had reduced weight loss, and no side effects were detectable in this group.\n- In a randomized single-blind study , 61 adult patients with head and neck cancer who underwent radiation therapy received either an oral curcumin-containing product (500 mg capsule ; total dose of 1.5 g a day) or a placebo 3 times a day. Patients were assessed weekly during radiation therapy and 2 months after treatment.[ 43 ]\n- Beginning with week 3 of treatment, patients who received curcumin had decreased incidence and severity of oral mucositis. Two months after treatment, these patients experienced less severe oral mucositis.\n- Results from the subjective assessment of patients were comparable to those obtained using the objective scale.\n- No systemic toxicity was observed."
+        },
+        {
+          "section": "Multiple effects",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Cancer Therapy Side Effects",
+            "Multiple effects"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "A proprietary lecithin delivery system of a curcuminoid-containing product given 3 times/day (500 mg tablet) was evaluated in a controlled study . The study assessed efficacy in alleviating the side effects of chemotherapy and radiation therapy in patients undergoing these treatments 1 month after surgery for their cancer (N = 160; 80 patients each in the chemotherapy group and the radiation therapy group). These groups were further divided into experimental and control groups, with 40 patients in each subgroup receiving Meriva or a comparable placebo tablet. In both the chemotherapy and radiation therapy groups, frequency and severity of reported symptoms were significantly lower in the Meriva group and no significant changes were reported in the control group.[ 24 ]\nReference | Trial Design | Condition or Cancer Type | Treatment Groups (Enrolled; Treated; Placebo or No Treatment Control) | Results | Level of Evidence Score a\nRCT = randomized controlled trial.\na For information about levels of evidence analysis and scores, see Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies .\n[ 36 ] | RCT | Radiation dermatitis in breast cancer patients | 35; 17; 18 | Reduced severity of radiation dermatitis | 1iC\n[ 37 ] | RCT | Radiation dermatitis in breast cancer patients | 695; 344; 342 | No difference in severity between the groups | 1iC\n[ 38 ] | RCT | Radiation dermatitis in breast cancer patients | 40; 20; 20 | Reduced radiation dermatitis | 1iC\n[ 40 ] | Nonrandomized trial | Oral mucositis | 60; 30; 30 | Reduced oral mucositis | 2C\n[ 41 ] | RCT | Oral mucositis | 80; 40; 40 | Reduced oral mucositis | 1iiC\n[ 42 ] | RCT | Oral mucositis | 32; 15; 14 | Reduced oral mucositis | 1iC\n[ 43 ] | RCT | Oral mucositis | 64; 30; 31 | Reduced oral mucositis | 1iiC\nSource | Description of Curcuminoid-Containing Product | Supplier | Type of Product a\nCEM = further processed curcuminoid-enriched materials; T = Turmeric; TE = turmeric extract ; w/w = weight per weight.\na For a more detailed definition of these terms, see the General Information and History section.\n[ 36 , 37 ] | Curcumin C3 complex, 500 mg/capsule | Sabinsa Corp. (UT, USA) | TE\n[ 39 ] | Curcumall, a liquid formula mouthwash containing a tincture of curcumin (C3 complex), turmeric, and ginger dissolved in glycerin and 0.4% of alcohol | Tumron health products (Jerusalem, Israel); Sabinsa Corp. (UT, USA) | CEM\n[ 40 ] | Mixture of turmeric powder and honey | Made by researchers | T\n[ 24 ] | Meriva (ratio of curcumin: demethoxycurcumin: bis-demethoxycurcumin 33:8:1), 200 mg soy lecithin and 200 mg microcrystalline cellulose | Meriva; Indena S.p.A (Milan, Italy) | CEM\n[ 38 ] | Turmeric extract (16% w/w) and sandalwood oil (0.5% w/w) in a non-greasy base | Vicco Laboratories, (Maharashtra, India) | TE\n[ 41 ] | Turmeric powder, 400 mg suspended in 80 mL water (use of 10 mL for mouthwash) | Himalaya Drug Company (Bangalore, India) | T\n[ 42 ] | SinaCurcumin (nanocurcumin) | Nanotechnology Research Center of Mashhad University of Medical Science (Iran) | Undefined\n[ 43 ] | Turmeric extract capsules (BCM-95/Curcugreen) containing essential oils of turmeric | Arjuna Natural, Aluva (India) | TE"
+        },
+        {
+          "section": "Anticancer effects",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Pediatric Population and Curcumin-Containing Products",
+            "Anticancer effects"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "A case report has been published that suggests a possible antitumor effect of a curcumin-containing product. The case report described a 6 month-old infant with infantile hemangioendothelioma. The curcuminoid-containing product was given at a dose of 400 mg/day over the course of 9 months.[ 35 ]\n- Radiographic improvement was seen within 3 months.\n- There was a notable decrease in liver size at 6 months, and an ultrasound showed no residual lesions within 1 year.\n- The patient was well and thriving with no evidence of disease at the age of 6 years.\nGiven that this disease is known to frequently undergo spontaneous involution, the therapeutic activity of the curcumin-containing product in this case should be questioned. However, the authors indicated that this patient’s tumor had some signs of an adverse prognosis ."
+        },
+        {
+          "section": "Mucositis",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Pediatric Population and Curcumin-Containing Products",
+            "Mucositis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "One pediatric study evaluated the tolerability and efficacy of a curcuminoid-containing product by oral application (mouthwash) in the treatment of oral mucositis.[ 39 ] The study used several objective outcome measures, including the WHO's mucositis scale and Oral Mucositis Assessment Scale. Seven patients (four evaluable) used 10 drops of Curcumall in 50 mL of water along with standard oral care (0.2% chlorohexidine mouthwash for 30 seconds) 2 times a day during doxorubicin-containing chemotherapy treatment. Curcumall is a liquid formula mouthwash containing a tincture of curcumin C3 complex, turmeric, and ginger dissolved in glycerin and 0.4% of alcohol to create a serving dose. Compliance was inconsistent as follows:[ 39 ]\n- Good tolerability and a reduction in oral mucositis were noted in patients using the curcumin/turmeric mouthwash.\n- Except for one patient with gastrointestinal upset, no adverse effects were observed.\nReference | Trial Design | Condition or Cancer Type | Treatment Groups (Enrolled; Treated; Placebo or No Treatment Control) | Results | Level of Evidence Score a\nN/A = not applicable.\na For information about levels of evidence analysis and scores, see Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies .\n[ 35 ] | Case report | Infantile hemangioendothelioma | 1; none; none | A decrease in liver size at 6 months, and an ultrasound showed no residual lesions within 1 year | N/A\n[ 39 ] | Case series | Oral mucositis in pediatric patients | 7; 4; none | Reduced oral mucositis | 3iC"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Human/Clinical Studies",
+            "Pediatric Population and Curcumin-Containing Products",
+            "Mucositis",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 43,
+          "text": "- Garcea G, Berry DP, Jones DJ, et al.: Consumption of the putative chemopreventive agent curcumin by cancer patients: assessment of curcumin levels in the colorectum and their pharmacodynamic consequences. Cancer Epidemiol Biomarkers Prev 14 (1): 120-5, 2005. [PUBMED Abstract]\n- Kanai M, Otsuka Y, Otsuka K, et al.: A phase I study investigating the safety and pharmacokinetics of highly bioavailable curcumin (Theracurmin) in cancer patients. Cancer Chemother Pharmacol 71 (6): 1521-30, 2013. [PUBMED Abstract]\n- Irving GR, Howells LM, Sale S, et al.: Prolonged biologically active colonic tissue levels of curcumin achieved after oral administration--a clinical pilot study including assessment of patient acceptability. Cancer Prev Res (Phila) 6 (2): 119-28, 2013. [PUBMED Abstract]\n- Sharma RA, McLelland HR, Hill KA, et al.: Pharmacodynamic and pharmacokinetic study of oral Curcuma extract in patients with colorectal cancer. Clin Cancer Res 7 (7): 1894-900, 2001. [PUBMED Abstract]\n- Sharma RA, Euden SA, Platton SL, et al.: Phase I clinical trial of oral curcumin: biomarkers of systemic activity and compliance. Clin Cancer Res 10 (20): 6847-54, 2004. [PUBMED Abstract]\n- Cheng AL, Hsu CH, Lin JK, et al.: Phase I clinical trial of curcumin, a chemopreventive agent, in patients with high-risk or pre-malignant lesions. Anticancer Res 21 (4B): 2895-900, 2001 Jul-Aug. [PUBMED Abstract]\n- Kunihiro AG, Brickey JA, Frye JB, et al.: Curcumin, but not curcumin-glucuronide, inhibits Smad signaling in TGFβ-dependent bone metastatic breast cancer cells and is enriched in bone compared to other tissues. J Nutr Biochem 63: 150-156, 2019. [PUBMED Abstract]\n- Kunihiro AG, Luis PB, Brickey JA, et al.: Beta-Glucuronidase Catalyzes Deconjugation and Activation of Curcumin-Glucuronide in Bone. J Nat Prod 82 (3): 500-509, 2019. [PUBMED Abstract]\n- Schiborr C, Kocher A, Behnam D, et al.: The oral bioavailability of curcumin from micronized powder and liquid micelles is significantly increased in healthy humans and differs between sexes. Mol Nutr Food Res 58 (3): 516-27, 2014. [PUBMED Abstract]\n- Stohs SJ, Ji J, Bucci LR, et al.: A Comparative Pharmacokinetic Assessment of a Novel Highly Bioavailable Curcumin Formulation with 95% Curcumin: A Randomized, Double-Blind, Crossover Study. J Am Coll Nutr 37 (1): 51-59, 2018. [PUBMED Abstract]\n- Cruz-Correa M, Shoskes DA, Sanchez P, et al.: Combination treatment with curcumin and quercetin of adenomas in familial adenomatous polyposis. Clin Gastroenterol Hepatol 4 (8): 1035-8, 2006. [PUBMED Abstract]\n- Cruz-Correa M, Hylind LM, Marrero JH, et al.: Efficacy and Safety of Curcumin in Treatment of Intestinal Adenomas in Patients With Familial Adenomatous Polyposis. Gastroenterology 155 (3): 668-673, 2018. [PUBMED Abstract]\n- Carroll RE, Benya RV, Turgeon DK, et al.: Phase IIa clinical trial of curcumin for the prevention of colorectal neoplasia. Cancer Prev Res (Phila) 4 (3): 354-64, 2011. [PUBMED Abstract]\n- Kuriakose MA, Ramdas K, Dey B, et al.: A Randomized Double-Blind Placebo-Controlled Phase IIB Trial of Curcumin in Oral Leukoplakia. Cancer Prev Res (Phila) 9 (8): 683-91, 2016. [PUBMED Abstract]\n- Golombick T, Diamond TH, Manoharan A, et al.: Monoclonal gammopathy of undetermined significance, smoldering multiple myeloma, and curcumin: a randomized, double-blind placebo-controlled cross-over 4g study and an open-label 8g extension study. Am J Hematol 87 (5): 455-60, 2012. [PUBMED Abstract]\n- Panahi Y, Kianpour P, Mohtashami R, et al.: Efficacy and Safety of Phytosomal Curcumin in Non-Alcoholic Fatty Liver Disease: A Randomized Controlled Trial. Drug Res (Stuttg) 67 (4): 244-251, 2017. [PUBMED Abstract]\n- Mansour-Ghanaei F, Pourmasoumi M, Hadi A, et al.: Efficacy of curcumin/turmeric on liver enzymes in patients with non-alcoholic fatty liver disease: A systematic review of randomized controlled trials. Integr Med Res 8 (1): 57-61, 2019. [PUBMED Abstract]\n- La Thangue NB, Kerr DJ: Predictive biomarkers: a paradigm shift towards personalized cancer medicine. Nat Rev Clin Oncol 8 (10): 587-96, 2011. [PUBMED Abstract]\n- Ghalaut VS, Sangwan L, Dahiya K, et al.: Effect of imatinib therapy with and without turmeric powder on nitric oxide levels in chronic myeloid leukemia. J Oncol Pharm Pract 18 (2): 186-90, 2012. [PUBMED Abstract]\n- Hejazi J, Rastmanesh R, Taleban FA, et al.: Effect of Curcumin Supplementation During Radiotherapy on Oxidative Status of Patients with Prostate Cancer: A Double Blinded, Randomized, Placebo-Controlled Study. Nutr Cancer 68 (1): 77-85, 2016. [PUBMED Abstract]\n- He ZY, Shi CB, Wen H, et al.: Upregulation of p53 expression in patients with colorectal cancer by administration of curcumin. Cancer Invest 29 (3): 208-13, 2011. [PUBMED Abstract]\n- Panahi Y, Saadat A, Beiraghdar F, et al.: Adjuvant therapy with bioavailability-boosted curcuminoids suppresses systemic inflammation and improves quality of life in patients with solid tumors: a randomized double-blind placebo-controlled trial. Phytother Res 28 (10): 1461-7, 2014. [PUBMED Abstract]\n- Plummer SM, Hill KA, Festing MF, et al.: Clinical development of leukocyte cyclooxygenase 2 activity as a systemic biomarker for cancer chemopreventive agents. Cancer Epidemiol Biomarkers Prev 10 (12): 1295-9, 2001. [PUBMED Abstract]\n- Belcaro G, Hosoi M, Pellegrini L, et al.: A controlled study of a lecithinized delivery system of curcumin (Meriva®) to alleviate the adverse effects of cancer treatment. Phytother Res 28 (3): 444-50, 2014. [PUBMED Abstract]\n- Zaidi A, Lai M, Cavenagh J: Long-term stabilisation of myeloma with curcumin. BMJ Case Rep 2017: , 2017. [PUBMED Abstract]\n- Dhillon N, Aggarwal BB, Newman RA, et al.: Phase II trial of curcumin in patients with advanced pancreatic cancer. Clin Cancer Res 14 (14): 4491-9, 2008. [PUBMED Abstract]\n- Demiray M, Sahinbas H, Atahan S, et al.: Successful treatment of c-kit-positive metastatic Adenoid Cystic Carcinoma (ACC) with a combination of curcumin plus imatinib: A case report. Complement Ther Med 27: 108-13, 2016. [PUBMED Abstract]\n- Bayet-Robert M, Kwiatkowski F, Leheurteur M, et al.: Phase I dose escalation trial of docetaxel plus curcumin in patients with advanced and metastatic breast cancer. Cancer Biol Ther 9 (1): 8-14, 2010. [PUBMED Abstract]\n- Passildas-Jahanmohan J, Eymard JC, Pouget M, et al.: Multicenter randomized phase II study comparing docetaxel plus curcumin versus docetaxel plus placebo in first-line treatment of metastatic castration-resistant prostate cancer. Cancer Med 10 (7): 2332-2340, 2021. [PUBMED Abstract]\n- Epelbaum R, Schaffer M, Vizel B, et al.: Curcumin and gemcitabine in patients with advanced pancreatic cancer. Nutr Cancer 62 (8): 1137-41, 2010. [PUBMED Abstract]\n- Pastorelli D, Fabricio ASC, Giovanis P, et al.: Phytosome complex of curcumin as complementary therapy of advanced pancreatic cancer improves safety and efficacy of gemcitabine: Results of a prospective phase II trial. Pharmacol Res 132: 72-79, 2018. [PUBMED Abstract]\n- Kanai M, Yoshimura K, Asada M, et al.: A phase I/II study of gemcitabine-based chemotherapy plus curcumin for patients with gemcitabine-resistant pancreatic cancer. Cancer Chemother Pharmacol 68 (1): 157-64, 2011. [PUBMED Abstract]\n- James MI, Iwuji C, Irving G, et al.: Curcumin inhibits cancer stem cell phenotypes in ex vivo models of colorectal liver metastases, and is clinically safe and tolerable in combination with FOLFOX chemotherapy. Cancer Lett 364 (2): 135-41, 2015. [PUBMED Abstract]\n- Howells LM, Iwuji COO, Irving GRB, et al.: Curcumin Combined with FOLFOX Chemotherapy Is Safe and Tolerable in Patients with Metastatic Colorectal Cancer in a Randomized Phase IIa Trial. J Nutr 149 (7): 1133-1139, 2019. [PUBMED Abstract]\n- Hassell LA, Roanh le D: Potential response to curcumin in infantile hemangioendothelioma of the liver. Pediatr Blood Cancer 55 (2): 377-9, 2010. [PUBMED Abstract]\n- Ryan JL, Heckler CE, Ling M, et al.: Curcumin for radiation dermatitis: a randomized, double-blind, placebo-controlled clinical trial of thirty breast cancer patients. Radiat Res 180 (1): 34-43, 2013. [PUBMED Abstract]\n- Ryan Wolf J, Heckler CE, Guido JJ, et al.: Oral curcumin for radiation dermatitis: a URCC NCORP study of 686 breast cancer patients. Support Care Cancer 26 (5): 1543-1552, 2018. [PUBMED Abstract]\n- Rao S, Hegde SK, Baliga-Rao MP, et al.: Sandalwood Oil and Turmeric-Based Cream Prevents Ionizing Radiation-Induced Dermatitis in Breast Cancer Patients: Clinical Study. Medicines (Basel) 4 (3): , 2017. [PUBMED Abstract]\n- Elad S, Meidan I, Sellam G, et al.: Topical curcumin for the prevention of oral mucositis in pediatric patients: case series. Altern Ther Health Med 19 (3): 21-4, 2013 May-Jun. [PUBMED Abstract]\n- Francis M, Williams S: Effectiveness of Indian Turmeric Powder with Honey as Complementary Therapy on Oral Mucositis : A Nursing Perspective among Cancer Patients in Mysore. Nurs J India 105 (6): 258-60, 2014 Nov-Dec. [PUBMED Abstract]\n- Rao S, Dinkar C, Vaishnav LK, et al.: The Indian Spice Turmeric Delays and Mitigates Radiation-Induced Oral Mucositis in Patients Undergoing Treatment for Head and Neck Cancer: An Investigational Study. Integr Cancer Ther 13 (3): 201-10, 2014. [PUBMED Abstract]\n- Delavarian Z, Pakfetrat A, Ghazi A, et al.: Oral administration of nanomicelle curcumin in the prevention of radiotherapy-induced mucositis in head and neck cancers. Spec Care Dentist 39 (2): 166-172, 2019. [PUBMED Abstract]\n- Arun P, Sagayaraj A, Azeem Mohiyuddin SM, et al.: Role of turmeric extract in minimising mucositis in patients receiving radiotherapy for head and neck squamous cell cancer: a randomised, placebo-controlled trial. J Laryngol Otol : 1-6, 2020. [PUBMED Abstract]"
+        },
+        {
+          "section": "Adverse Effects",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Adverse Effects"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Most clinical studies of curcuma-containing products have demonstrated few, if any, associated adverse effects . In one small study (N = 17) of patients who received a curcumin -containing product along with gemcitabine chemotherapy , about 30% of patients (N = 5) who received 8,000 mg/day of the curcumin-containing product discontinued the product because of intractable abdominal fullness. Two other patients had a dose reduction to 4,000 mg , also because of abdominal complaints.[ 1 ] In this study, seven patients had grade 3 gastrointestinal toxicity and two patients had grade 2 gastrointestinal toxicity.\nSource | Description of Curcuminoid-Containing Product | Supplier | Type of Product a\nTE = turmeric extract .\na For a more detailed definition of these terms, see the General Information and History section.\n[ 1 ] | Each capsule contained 500 mg of curcuminoids (curcumin 450 mg, demethoxycurcumin 40 mg, and bisdemethoxycurcumin 10 mg) | Sabinsa Corp. (Piscataway, NJ) | TE"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Adverse Effects",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Epelbaum R, Schaffer M, Vizel B, et al.: Curcumin and gemcitabine in patients with advanced pancreatic cancer. Nutr Cancer 62 (8): 1137-41, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Summary of the Evidence for Curcumin (Curcuma, Turmeric)",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Summary of the Evidence for Curcumin (Curcuma, Turmeric)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "To assist readers in evaluating the results of human studies of integrative, alternative, and complementary therapies for cancer , the strength of the evidence (i.e., the levels of evidence ) associated with each type of treatment is provided whenever possible. To qualify for a level of evidence analysis , a study must:\n- Be published in a peer-reviewed scientific journal .\n- Report on therapeutic outcome or outcomes, such as tumor response , improvement in survival, or measured improvement in quality of life .\n- Describe clinical findings in sufficient detail for a meaningful evaluation to be made.\nSeparate levels of evidence scores are assigned to qualifying human studies on the basis of statistical strength of the study design and scientific strength of the treatment outcomes (i.e., endpoints ) measured. The resulting two scores are then combined to produce an overall score. For an explanation of the scores and additional information about levels of evidence analysis of CAM treatments for cancer, see Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies ."
+        },
+        {
+          "section": "Latest Updates to This Summary (05/13/2025)",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (05/13/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nGeneral Information and History\nAdded text to state several cases of severe liver toxicity have occurred in Europe and the United States after consumption of products that were labeled as containing curcumin (cited Lombardi et al. and Halegoua-DeMarzio et al. as references 2 and ,3 respectively). These toxic events may be the result of contamination with toxins known to be in some of these products and/or adulteration or individual patient susceptibility. Various organizations, including international government regulatory agencies, have released cautionary safety advisory notices regarding curcumin-containing products.\nThis summary is written and maintained by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the use of curcumin in the treatment of people with cancer.. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 7,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Integrative, Alternative, and Complementary Therapies Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Integrative, Alternative, and Complementary Therapies Editorial Board. PDQ Curcumin (Curcuma, Turmeric) and Cancer. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/treatment/cam/hp/curcumin-pdq . Accessed <MM/DD/YYYY>. [PMID: 33651529]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\505237e02e7e11d5fd92.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "integrative_therapies"
+      ],
+      "topic": "integrative_therapies",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+      "summary_name": "Curcumin (Curcuma, Turmeric) and Cancer",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/curcumin-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 28, 2024",
+      "retrieved_at": "2026-08-31T07:07:31.620091+00:00",
+      "content_sha256": "a66aa396cb90000cdb23734b9d51fee6d6b70b8f1c2eee601911692f981f27e3",
+      "section_count": 13,
+      "sections": [
+        {
+          "section": "Overview",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Curcumin is a substance that comes from the underground stem of Curcuma longa , an East Indian plant. It is contained in a spice commonly called turmeric (see Question 1 ).\n- The turmeric plant has been used for many years in traditional Asian medicine to treat many conditions (see Question 1 ).\n- Curcumin can be found in curry powder, taken as a dried extract in pill form, or made into a paste (see Question 2 ).\n- Few side effects have been reported from the use of curcumin products (see Question 5 ).\n- The U.S. Food and Drug Administration (FDA) has not approved curcumin as a treatment for cancer or any other medical condition (see Question 6 )."
+        },
+        {
+          "section": "Questions and Answers About Curcumin",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "Questions and Answers About Curcumin"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "- What is curcumin? Curcumin is a substance that comes from the underground stem of Curcuma longa , an East Indian plant. It is contained in a spice commonly called turmeric . The turmeric plant has been used for many years in traditional Asian medicine to treat many conditions . Curcumin comes in different forms. The amount of curcumin in each product labeled as curcumin can vary, making it hard to know how much to use to treat medical conditions.\n- How is curcumin taken or given? Curcumin is taken by mouth as a dietary supplement . It is also found in curry powder, as a major part of turmeric. Curcumin can also be made into a paste to treat skin conditions.\n- Have any laboratory or animal studies been done using curcumin? In laboratory studies , a substance is tested in tumor cells to find out if it has any anticancer effects. In animal studies, a drug , procedure, or treatment is tested in mice or other animals to see if it is safe and effective in animals. Laboratory and animal studies are done before a substance is tested in people. Laboratory and animal studies have tested the effects of curcumin. For information on laboratory and animal studies done using curcumin, see Laboratory/Preclinical Studies in the health professional version of this summary.\n- Have any studies of curcumin been done in people? Early phase trials have been done with small numbers of people to see if curcumin products are safe and work in the following ways: Researchers have looked at curcumin products for the prevention and treatment of a variety of cancers, including colorectal cancer , oral cancer , and liver cancer . There is not enough evidence to know if curcumin products can prevent or treat cancer. Cancer prevention and treatment trials Curcumin products have been studied in early phase trials to find out their impact on cancer treatment–related side effects and quality of life. Cancer treatment–related side effects trials\n- To prevent cancer .\n- To treat cancer.\n- To improve quality of life .\n- To manage cancer treatment–related side effects .\n- One study looked at the impact of oral curcumin on lesions in the lining of the colon and the rectum known as aberrant crypt foci (ACF). These lesions can be early warning signs of polyps and colorectal cancer. Although patients who received curcumin saw a decrease in ACF, the differences were not significant when compared to the group who did not receive curcumin.\n- A randomized trial looked at the use of an oral curcumin product in 223 patients with oral leukoplakia (thick white patches in the mouth). Compared to the placebo group, patients who received the curcumin product showed improved conditions that were maintained at 6 months. No further benefit was seen with treatment that lasted longer than 6 months.\n- Results from a study of 102 patients with nonalcoholic fatty liver disease (NAFLD) showed that a curcumin product was linked with reduced body mass index and waist size. Many patients who took the curcumin product showed improved liver ultrasound findings and biomarkers of liver inflammation in the blood , compared to the control group .\n- A later study that combined results from four randomized controlled trials of 228 patients with NAFLD who took curcumin products showed similar results for biomarkers of liver inflammation.\n- Results of studies that used curcumin products with traditional cancer treatments have been mixed. Studies of people with adrenocortical cancer , breast cancer , prostate cancer , pancreatic cancer , or colorectal cancer have shown improved results when using a curcumin product as an adjuvant therapy . Other studies did not show an improvement in disease. For more information on these study results, see the Cancer Treatment section in the health professional version of this summary.\n- Although studies have been mixed on oral curcumin given to treat radiation -induced dermatitis , a small study reported a topical cream that contained turmeric reduced dermatitis from radiation therapy .\n- Delayed onset and severity of mucositis (often seen as sores in the mouth) has been reported in trials that used a mouthwash product or oral capsule that had curcumin in it.\n- Have any side effects or risks been reported from curcumin? Few side effects have been reported from the use of products with curcumin. The most common complaint is digestive problems. A small study of patients who took a curcumin product with an anticancer drug found that one in three people stopped using the curcumin product because of constant bloating .\n- Is curcumin approved by the FDA for use as a cancer treatment in the United States? The FDA has not approved the use of curcumin as a treatment for cancer or any other medical condition. Curcumin is available in the United States as a dietary supplement. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of curcumin supplements may not be the same."
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the use of curcumin in the treatment of people with cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Integrative, Alternative, and Complementary Therapies Editorial Board. PDQ Curcumin (Curcuma, Turmeric) and Cancer. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/treatment/cam/patient/curcumin-pdq . Accessed <MM/DD/YYYY>.\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        },
+        {
+          "section": "General CAM Information",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "General CAM Information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Complementary and alternative medicine (CAM)—also called integrative medicine—includes a broad range of healing philosophies, approaches, and therapies. A therapy is generally called complementary when it is used in addition to conventional treatments; it is often called alternative when it is used instead of conventional treatment. (Conventional treatments are those that are widely accepted and practiced by the mainstream medical community.) Depending on how they are used, some therapies can be considered either complementary or alternative. Complementary and alternative therapies are used in an effort to prevent illness, reduce stress, prevent or reduce side effects and symptoms, or control or cure disease.\nUnlike conventional treatments for cancer, complementary and alternative therapies are often not covered by insurance companies. Patients should check with their insurance provider to find out about coverage for complementary and alternative therapies.\nCancer patients considering complementary and alternative therapies should discuss this decision with their doctor, nurse, or pharmacist as they would any type of treatment. Some complementary and alternative therapies may affect their standard treatment or may be harmful when used with conventional treatment."
+        },
+        {
+          "section": "Evaluation of CAM Therapies",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "Evaluation of CAM Therapies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "It is important that the same scientific methods used to test conventional therapies are used to test CAM therapies. The National Cancer Institute and the National Center for Complementary and Integrative Health (NCCIH) are sponsoring a number of clinical trials (research studies) at medical centers to test CAM therapies for use in cancer.\nConventional approaches to cancer treatment have generally been studied for safety and effectiveness through a scientific process that includes clinical trials with large numbers of patients. Less is known about the safety and effectiveness of complementary and alternative methods. Few CAM therapies have been tested using demanding scientific methods. A small number of CAM therapies that were thought to be purely alternative approaches are now being used in cancer treatment—not as cures, but as complementary therapies that may help patients feel better and recover faster. One example is acupuncture. According to a panel of experts at a National Institutes of Health (NIH) meeting in November 1997, acupuncture has been found to help control nausea and vomiting caused by chemotherapy and pain related to surgery. However, some approaches, such as the use of laetrile, have been studied and found not to work and to possibly cause harm.\nThe NCI Best Case Series Program which was started in 1991, is one way CAM approaches that are being used in practice are being studied. The program is overseen by the NCI’s Office of Cancer Complementary and Alternative Medicine (OCCAM). Health care professionals who offer alternative cancer therapies submit their patients’ medical records and related materials to OCCAM. OCCAM carefully reviews these materials to see if any seem worth further research."
+        },
+        {
+          "section": "Questions to Ask Your Health Care Provider About CAM",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "Questions to Ask Your Health Care Provider About CAM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "When considering complementary and alternative therapies, patients should ask their health care provider the following questions:\n- What side effects can be expected?\n- What are the risks related to this therapy?\n- What benefits can be expected from this therapy?\n- Do the known benefits outweigh the risks?\n- Will the therapy affect conventional treatment?\n- Is this therapy part of a clinical trial?\n- If so, who is the sponsor of the trial?\n- Will the therapy be covered by health insurance?"
+        },
+        {
+          "section": "To Learn More About CAM",
+          "section_path": [
+            "Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Patient Version",
+            "To Learn More About CAM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 32,
+          "text": "National Center for Complementary and Integrative Health (NCCIH)\nThe National Center for Complementary and Integrative Health (NCCIH) at the National Institutes of Health (NIH) facilitates research and evaluation of complementary and alternative practices, and provides information about a variety of approaches to health professionals and the public.\n- NCCIH Clearinghouse\n- Post Office Box 7923 Gaithersburg, MD 20898–7923\n- Telephone: 1-888-644-6226 (toll free)\n- TTY (for deaf and hard of hearing callers): 1-866-464-3615\n- E-mail: info@nccih.nih.gov\n- Website: https://nccih.nih.gov\nCAM on PubMed\nNCCIH and the NIH National Library of Medicine (NLM) jointly developed CAM on PubMed , a free and easy-to-use search tool for finding CAM-related journal citations. As a subset of the NLM's PubMed bibliographic database, CAM on PubMed features more than 230,000 references and abstracts for CAM-related articles from scientific journals. This database also provides links to the websites of over 1,800 journals, allowing users to view full-text articles. (A subscription or other fee may be required to access full-text articles.)\nOffice of Cancer Complementary and Alternative Medicine\nThe NCI Office of Cancer Complementary and Alternative Medicine (OCCAM) coordinates the activities of the NCI in the area of complementary and alternative medicine (CAM). OCCAM supports CAM cancer research and provides information about cancer-related CAM to health providers and the general public via the NCI website .\nNational Cancer Institute (NCI) Cancer Information Service\nU.S. residents may call the Cancer Information Service (CIS), NCI's contact center, toll free at 1-800-4-CANCER (1-800-422-6237) Monday through Friday from 9:00 am to 9:00 pm. A trained Cancer Information Specialist is available to answer your questions.\nFood and Drug Administration\nThe Food and Drug Administration (FDA) regulates drugs and medical devices to ensure that they are safe and effective.\n- Food and Drug Administration\n- 10903 New Hampshire Avenue\n- Silver Spring, MD 20993\n- Telephone: 1-888-463-6332 (toll free)\n- Website: http://www.fda.gov\nFederal Trade Commission\nThe Federal Trade Commission (FTC) enforces consumer protection laws. Publications available from the FTC include:\n- Who Cares: Sources of Information About Health Care Products and Services\n- Fraudulent Health Claims: Don’t Be Fooled\n- Consumer Response Center\n- Federal Trade Commission\n- 600 Pennsylvania Avenue, NW\n- Washington, DC 20580\n- Telephone: 1-877-FTC-HELP (1-877-382-4357) (toll free)\n- TTY (for deaf and hard of hearing callers): 202-326-2502\n- Website: http://www.ftc.gov"
+        }
+      ],
+      "raw_html_file": "raw_html\\acea328360ddfa4e919c.html"
+    }
+  ]
+}

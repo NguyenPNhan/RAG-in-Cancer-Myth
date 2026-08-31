@@ -1,0 +1,684 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "scope": "general_or_multi_cancer",
+  "summary_name": "Cancer Therapy Interactions With Foods and Dietary Supplements",
+  "generated_at": "2026-08-31T07:15:23.628157+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "integrative_therapies"
+      ],
+      "topic": "integrative_therapies",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+      "summary_name": "Cancer Therapy Interactions With Foods and Dietary Supplements",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/dietary-interactions-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "April 5, 2024",
+      "retrieved_at": "2026-08-31T07:07:04.010984+00:00",
+      "content_sha256": "ad9e13ea452b6cefb72f97049788f6e3875a5314cfccf6e57f6341b4244256fa",
+      "section_count": 36,
+      "sections": [
+        {
+          "section": "Overview",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "This cancer information summary provides an overview on cancer therapy interactions with different foods and dietary supplements .\nThis summary contains the following key information:\n- The combination of cancer drugs taken by patients and the complementary and alternative medicine used may interact, causing adverse outcomes .\n- Research on dietary supplement and cancer drug pharmacokinetics (PK) interactions is limited, but there is evidence for several possible interactions and adverse reactions.\n- For many specific antioxidant supplements, there is insufficient information available to determine if they are safe and effective as a complementary therapy to standard cancer treatment.\n- Certain constituents of foods and dietary supplements (e.g., St. John’s wort , grapefruit juice, and epigallocatechin gallate from green tea) can alter the PK of specific types of drugs.\n- Some research has shown a dietary supplement/food and drug PK interaction between grapefruit juice and imatinib ."
+        },
+        {
+          "section": "General Information",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "General Information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "For adult cancer patients in the United States, the frequency of complementary and alternative medicine (CAM) use is approximately 36%.[ 1 ] It is possible that the combination of cancer drugs taken by these patients and the CAM they use may interact, causing adverse outcomes .[ 2 - 4 ] When dietary supplements /herbs and cancer drugs are taken together, there is always a risk of the supplement having an impact on the pharmacokinetics (PK) or pharmacodynamics (PD) of the drug. Many drug interactions occur from the effects of the supplement on specific enzymes or on components involved in the PK of the drug, such as how the drug is metabolized and transported. Reporting and studying these interactions is important, so health care professionals can help patients navigate CAM usage with standard cancer therapies , thus avoiding preventable adverse outcomes. Integrative oncology consultations available in a number of cancer care settings can engage patients in evidence-based discussions about recommending or stopping supplements, as well as addressing questions about alternative therapies.[ 5 ]\nIn the United States, dietary supplements are regulated by the U.S. Food and Drug Administration (FDA) as a separate category from foods, cosmetics, and drugs. Unlike drugs, dietary supplements do not require premarket evaluation and approval by the FDA unless specific disease prevention or treatment claims are made. The quality and amount of ingredients in dietary supplements are also regulated by the FDA through Good Manufacturing Practices (GMPs). The FDA GMPs requires that every finished batch of dietary supplement meets each product specification for identity, purity, strength, composition, and limits on contamination that may adulterate dietary supplements. Because dietary supplements are not formally reviewed for manufacturing consistency every year, ingredients may vary considerably from lot to lot and there is no guarantee that ingredients claimed on product labels are present (or are present in the specified amounts). The FDA has not approved the use of dietary supplements as a treatment for cancer patients."
+        },
+        {
+          "section": "Cytochrome P450 Inhibitors/Inducers",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "General Information",
+            "Cytochrome P450 Inhibitors/Inducers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "One of the main group of enzymes involved in the metabolism of many cancer drugs is the cytochrome P450 (CYP) superfamily of enzymes. These enzymes play an important role in the activation and inactivation of various drugs. Another component involved in the metabolism and excretion of many drugs is the transport protein , P-glycoprotein (P-gp). P-gp works in the intestine as a drug efflux pump regulating the bioavailability of the drug. Various anticancer drugs are substrates of P-gp; thus, if P-gp or any CYP enzyme is impacted, the drug it is processing will also be impacted.\nThe PK of a drug predicts therapeutic outcomes for the patient. Various herbs and dietary supplements are known to influence the PK of certain drugs, such as St. John’s wort . Currently, research on dietary supplement and cancer drug PK interactions is limited, but there is evidence for several possible interactions and adverse reactions.[ 1 , 6 , 7 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "General Information",
+            "Cytochrome P450 Inhibitors/Inducers",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Collado-Borrell R, Escudero-Vilaplana V, Romero-Jiménez R, et al.: Oral antineoplastic agent interactions with medicinal plants and food: an issue to take into account. J Cancer Res Clin Oncol 142 (11): 2319-30, 2016. [PUBMED Abstract]\n- Wolf CPJG, Rachow T, Ernst T, et al.: Interactions in cancer treatment considering cancer therapy, concomitant medications, food, herbal medicine and other supplements. J Cancer Res Clin Oncol 148 (2): 461-473, 2022. [PUBMED Abstract]\n- Lee RT, Kwon N, Wu J, et al.: Prevalence of potential interactions of medications, including herbs and supplements, before, during, and after chemotherapy in patients with breast and prostate cancer. Cancer 127 (11): 1827-1835, 2021. [PUBMED Abstract]\n- Harrigan M, McGowan C, Hood A, et al.: Dietary Supplement Use and Interactions with Tamoxifen and Aromatase Inhibitors in Breast Cancer Survivors Enrolled in Lifestyle Interventions. Nutrients 13 (11): , 2021. [PUBMED Abstract]\n- D'Andre SD, Bauer BA, Hofmann MB, et al.: Dietary supplement use and recommendations for discontinuation in an integrative oncology clinic. Support Care Cancer 31 (1): 40, 2022. [PUBMED Abstract]\n- He SM, Yang AK, Li XT, et al.: Effects of herbal products on the metabolism and transport of anticancer agents. Expert Opin Drug Metab Toxicol 6 (10): 1195-213, 2010. [PUBMED Abstract]\n- Meijerman I, Beijnen JH, Schellens JH: Herb-drug interactions in oncology: focus on mechanisms of induction. Oncologist 11 (7): 742-52, 2006 Jul-Aug. [PUBMED Abstract]"
+        },
+        {
+          "section": "General Information",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Antioxidants",
+            "General Information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Some common dietary antioxidants include the following:\n- Vitamin C (ascorbate).\n- Vitamin E .\n- Flavonoids (e.g., soy isoflavones , green tea catechins ).\n- Beta-carotene .\n- Glutathione .\nNumerous anticancer agents generate reactive oxygen species , which cause decreased levels of antioxidants, deoxyribonucleic acid damage, and cancer cell death. Antioxidants are taken by many cancer patients because it is thought that the substances will protect and repair healthy cells damaged by cancer therapy .[ 1 ] There is insufficient information for many specific antioxidant supplements to determine if they are safe and effective as a complementary therapy to standard cancer treatment."
+        },
+        {
+          "section": "Laboratory/Animal/Preclinical Studies",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Antioxidants",
+            "Laboratory/Animal/Preclinical Studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "A study published in 2018 examined the pharmacokinetic interactions between imatinib (25 mg / kg orally ) and vitamin A (12 mg retinol /kg orally), vitamin E (400 IU /kg orally), vitamin D3 (100 IU/kg orally), and vitamin C (500 mg/kg orally) when coadministered in rat animal models . The results showed that there was an increase in the bioavailability of imatinib with vitamins A, E , and D, and a decrease in the bioavailability of imatinib with vitamin C.[ 2 ]\nA study that examined the oxidized form of ascorbate, dehydroascorbate, as a complementary supplement with chemotherapeutic drugs (i.e., doxorubicin , cisplatin , vincristine , methotrexate , and imatinib) initially found that dehydroascorbate given before doxorubicin treatment caused a reduction of therapeutic efficacy in mice with lymphoma (RL) cell–derived xenogeneic tumors . This form of ascorbate is not generally available as a dietary supplement and is not used clinically, and it has different properties and pharmacology from unoxidized or reduced ascorbate; thus, the potential clinical implications of these findings are unknown.[ 3 ]\nAn in vivo mouse model study observed a possible interaction between vitamin C (40 mg/kg/d) and bortezomib . There was a significant reduction in bortezomib’s anticancer activities with consumption of vitamin C.[ 4 ]"
+        },
+        {
+          "section": "Human/Clinical Studies",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Antioxidants",
+            "Human/Clinical Studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "A study examined pre- and post- diagnosis antioxidant dietary supplement ( selenium ; multivitamins; zinc; and vitamins A, C, and E) use in postmenopausal breast cancer survivors. The results showed an increased risk of total mortality and worsened recurrence -free survival with antioxidant dietary supplement use during chemotherapy or radiation therapy .[ 5 ] A similar study investigated the outcomes for breast cancer patients using antioxidant supplements (vitamins A, C, and E; carotenoids ; and coenzyme Q10) before and during treatment with cyclophosphamide , doxorubicin, and paclitaxel . The results showed an increase in hazards of recurrence and death in these patients. Though these hazard ratios are not statistically significant , they both trended in the same direction as those seen in the previous study.[ 6 ] This evidence does give reason to use these supplements with caution and indicates that more research on this topic is needed.\nAlpha-tocopherol , one of eight vitamin E compounds , was investigated in a clinical trial for its impact on adverse effects from chemotherapy and radiation therapy. Initially, some research suggested that alpha-tocopherol may reduce toxicity caused by radiation therapy for head and neck cancer . Two randomized , controlled clinical trials of patients with head and neck cancer who received vitamin E supplementation at a dose of 400 IU/day have shown an association with a higher risk of tumor relapse and a decrease in cancer-free survival.[ 7 , 8 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Antioxidants",
+            "Human/Clinical Studies",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- Ozben T: Antioxidant supplementation on cancer risk and during cancer therapy: an update. Curr Top Med Chem 15 (2): 170-8, 2015. [PUBMED Abstract]\n- Maher HM, Alzoman NZ, Shehata SM: Ultra-performance LC-MS/MS study of the pharmacokinetic interaction of imatinib with selected vitamin preparations in rats. Bioanalysis 10 (14): 1099-1113, 2018. [PUBMED Abstract]\n- Heaney ML, Gardner JR, Karasavvas N, et al.: Vitamin C antagonizes the cytotoxic effects of antineoplastic drugs. Cancer Res 68 (19): 8031-8, 2008. [PUBMED Abstract]\n- Perrone G, Hideshima T, Ikeda H, et al.: Ascorbic acid inhibits antitumor activity of bortezomib in vivo. Leukemia 23 (9): 1679-86, 2009. [PUBMED Abstract]\n- Jung AY, Cai X, Thoene K, et al.: Antioxidant supplementation and breast cancer prognosis in postmenopausal women undergoing chemotherapy and radiation therapy. Am J Clin Nutr 109 (1): 69-78, 2019. [PUBMED Abstract]\n- Ambrosone CB, Zirpoli GR, Hutson AD, et al.: Dietary Supplement Use During Chemotherapy and Survival Outcomes of Patients With Breast Cancer Enrolled in a Cooperative Group Clinical Trial (SWOG S0221). J Clin Oncol 38 (8): 804-814, 2020. [PUBMED Abstract]\n- Bairati I, Meyer F, Gélinas M, et al.: A randomized trial of antioxidant vitamins to prevent second primary cancers in head and neck cancer patients. J Natl Cancer Inst 97 (7): 481-8, 2005. [PUBMED Abstract]\n- Bairati I, Meyer F, Jobin E, et al.: Antioxidant vitamins supplementation and mortality: a randomized trial in head and neck cancer patients. Int J Cancer 119 (9): 2221-4, 2006. [PUBMED Abstract]"
+        },
+        {
+          "section": "General information",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Herbs",
+            "Ginseng",
+            "General information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Ginseng root has commonly been used as a dietary supplement in traditional Asian medicine . There are several types of ginsengs. While there is no conclusive evidence for the health benefits of ginseng, people currently use it for the following reasons:[ 1 , 2 ]\n- To increase overall well-being and concentration.\n- To strengthen the immune system .\n- To improve health conditions , such as heart disease , depression , and anxiety ."
+        },
+        {
+          "section": "Laboratory/animal/preclinical studies",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Herbs",
+            "Ginseng",
+            "Laboratory/animal/preclinical studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Most in vitro research on ginseng’s pharmacokinetic (PK) interactions found little evidence of any effects, determining a low risk of cytochrome P450 (CYP)-dependent herb - drug reactions. Overall, the evidence is mixed and inconclusive.[ 3 - 5 ]"
+        },
+        {
+          "section": "Case study",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Herbs",
+            "Ginseng",
+            "Case study"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Ginseng was suspected of being responsible for an incident of hepatotoxicity that occurred in a 26-year-old male taking imatinib . The hypothesized mechanism for this interaction was inhibition of hepatic CYP3A4, the enzyme primarily responsible for metabolizing imatinib. The ginseng was ingested through a ginseng energy drink, which creates uncertainty about whether the ginseng or the other ingredients in the drink caused the adverse effect . Clinical research is needed to confirm if there are any PK interactions between imatinib and ginseng.[ 6 ]"
+        },
+        {
+          "section": "General information",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Herbs",
+            "Scutellaria baicalensis/wogonin",
+            "General information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Scutellaria baicalensis , also known as wogonin, Chinese skullcap, or Huang Qin, is a plant used in traditional Chinese medicine to treat various medical conditions , such as the following:[ 7 ]\n- Diarrhea .\n- Hepatitis .\n- Infections .\n- Inflammation .\nIn traditional Chinese medicine, there are some herbal mixtures that contain Scutellaria baicalensis , one being Huang Qin Tang. PHY906, a patented formula derived from Huang Qin Tang, is being studied as a potential adjuvant for cancer therapy ; there is some evidence that this herbal mixture potentiates the anticancer effects of certain cancer drugs such as sorafenib .[ 8 ] Some research has shown the inhibitory effect of wogonin on the activity of CYP, but more research is needed to determine interactions with specific drugs.[ 9 ]"
+        },
+        {
+          "section": "Laboratory/animal/preclinical studies",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Herbs",
+            "Scutellaria baicalensis/wogonin",
+            "Laboratory/animal/preclinical studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "A 2016 study investigated the effects of a Scutellariae radix decoction on methotrexate pharmacokinetics in rats. The study revealed an increased systemic methotrexate exposure when given together with the Scutellariae radix decoction. Giving them together is thought to have effects on multidrug resistance –associated proteins and breast cancer resistance protein .[ 10 ]\nA 2018 study examined the PK profile and herb-drug interactions of oral wogonin and intravenous docetaxel in rats with mammary tumors. The investigators found that in rats receiving oral wogonin and docetaxel, the area under the concentration versus time curve (AUC), initial peak serum concentration (C max ), and half-life for docetaxel increased. The investigators speculated that these increases resulted from the inhibitory effect of wogonin on CYP3A and P-glycoprotein (P-gp). More research is needed with human clinical trials , but these results suggest a possible interaction between wogonin and docetaxel.[ 11 ]"
+        },
+        {
+          "section": "General information",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Herbs",
+            "St. John’s Wort",
+            "General information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The flower of the St. John’s wort (SJW) ( Hypericum perforatum ) plant is used traditionally for wound healing, insomnia , and kidney and lung problems, and most commonly today for depression . This flower can be taken through teas, tablets, capsules , and extracts . Currently, the evidence for the clinical efficacy of SJW is varied, but there have been reports of interactions and adverse effects with several drugs .[ 12 ]"
+        },
+        {
+          "section": "Laboratory/animal/preclinical studies",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Herbs",
+            "St. John’s Wort",
+            "Laboratory/animal/preclinical studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A 2012 study observed the effects of SJW on the PK of methotrexate in a rat animal model . After coadministration of SJW (300 mg / kg and 150 mg/kg) and methotrexate, animals that received 300 mg/kg of SJW had a 163% increase in AUC and a 60% increase in C max for methotrexate. For animals that received 150 mg/kg of SJW, an increase in AUC (55%) for methotrexate was observed. Overall, the mortality of the rats treated with SJW combined with methotrexate was higher. The researchers suggested using extreme caution if coadministering these two substances.[ 13 ]"
+        },
+        {
+          "section": "Human/clinical studies",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Herbs",
+            "St. John’s Wort",
+            "Human/clinical studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "There are two well-known examples of herb-drug interactions impacting drug PK that have clinical evidence. These two interactions are between SJW and both irinotecan and imatinib . After patients were treated with both irinotecan (350 mg/m 2 ) and SJW (900 mg/d), one study found a 42% decrease in plasma levels of SN-38, the active metabolite of irinotecan. The researchers hypothesized that components of SJW extract, pseudohypericin and hyperforin, interacted with CYP3A4 isoform and P-gp, causing reduction in SN-38. This interaction may cause a loss of irinotecan efficacy.[ 14 ]\nA similar outcome occurred in two studies that examined treatment with imatinib (400 mg) and SJW (300 mg 3 times a day). In one study, SJW caused a 32% decrease in AUC, a 29% decrease in C max , and a 21% decrease in half-life after two weeks of combined treatment with SJW and imatinib.[ 15 ] The second study found that SJW use caused a 43% increase in the clearance of imatinib and a 30% decrease in AUC. This interaction is also thought to be caused by the impact of SJW on CYP3A4, the major enzyme that metabolizes imatinib.[ 16 ]\nAnother CYP3A4 substrate that may be impacted by SJW is docetaxel . A 2014 study with ten cancer patients investigated the PK interactions of docetaxel (135 mg IV for 60 min) in combination with SJW (300 mg orally for 14 days). The results showed a statistically significant decrease of 12% in mean AUC and an increased clearance of docetaxel.[ 17 ]\nAlthough there is a lack of published research, the use of SJW in patients undergoing treatment with ixabepilone is not recommended. SJW may cause a decrease in plasma concentrations of ixabepilone. The drug label for ixabepilone states a warning for this possible interaction.[ 18 ]"
+        },
+        {
+          "section": "General information",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Herbs",
+            "Thunder God Vine",
+            "General information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Thunder god vine, also known as Tripterygium wilfordii Hook f, is an herb traditionally used in Chinese medicine for its possible anti-inflammatory , immunosuppressant, and anticancer effects.[ 19 ] Studies have found that triptolide and celastrol, the active components of thunder god vine, are responsible for these possible effects. Clinical observations, mostly from China, reported significant multiorgan toxicities from the traditional raw material or the extracts. Deaths associated with ingesting these materials have been frequently reported.[ 20 , 21 ] Frequency of severe-grade adverse events from the extracts ranged from 5% to 8%,[ 22 , 23 ] with the global incidence of adverse events at 30.8% (95% confidence interval, 21.2–40.3).[ 23 ] The most frequently reported adverse events are intestinal toxicity (13.9%), reproductive toxicity (10.2%), hepatotoxicity (6.8%), nephrotoxicity (13.6%), hematotoxicity (5.7%), and cutaneous toxicity (<5%).[ 23 ] Evidence varies for herb-drug interactions and toxicity, which are potentially caused by inhibiting effects on the activity of the CYP450 enzyme system.[ 24 ] Specifically, celastrol inhibits five cytochrome P450 isoenzymes (CYP1A2, CYP2C19, CYP2D6, CYP2E1, and CYP3A4) in vitro .[ 25 ] In addition, a study also found that the coadministration of the CYP3A4 inhibitor, ritonavir , or the inducer, dexamethasone , leads to a significant increase or decrease of the plasma concentration levels of triptolide.[ 26 ]"
+        },
+        {
+          "section": "Laboratory/animal/preclinical studies",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Herbs",
+            "Thunder God Vine",
+            "Laboratory/animal/preclinical studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A 2017 study investigated the effects of triptolide (10 mg/kg) on the PKs of three different sorafenib doses (20, 50, and 100 mg/kg) in rats. The results showed an increase in C max and AUC for each sorafenib dose and a decrease in clearance with pretreatment of triptolide. It is hypothesized that this interaction occurred due to triptolide’s possible inhibiting effects on P-gp and CYP3A4 enzymatic activity.[ 27 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Herbs",
+            "Thunder God Vine",
+            "Laboratory/animal/preclinical studies",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 27,
+          "text": "- Wang CZ, Yuan CS: Ginseng, American. In: Coates PM, Betz JM, Blackman MR, et al., eds.: Encyclopedia of Dietary Supplements. 2nd ed. Informa Healthcare, 2010, pp 339-47.\n- Jia L, Soldati F: Ginseng, Asian. In: Coates PM, Betz JM, Blackman MR, et al., eds.: Encyclopedia of Dietary Supplements. 2nd ed. Informa Healthcare, 2010, pp 348-62.\n- Collado-Borrell R, Escudero-Vilaplana V, Romero-Jiménez R, et al.: Oral antineoplastic agent interactions with medicinal plants and food: an issue to take into account. J Cancer Res Clin Oncol 142 (11): 2319-30, 2016. [PUBMED Abstract]\n- Goey AK, Mooiman KD, Beijnen JH, et al.: Relevance of in vitro and clinical data for predicting CYP3A4-mediated herb-drug interactions in cancer patients. Cancer Treat Rev 39 (7): 773-83, 2013. [PUBMED Abstract]\n- Haefeli WE, Carls A: Drug interactions with phytotherapeutics in oncology. Expert Opin Drug Metab Toxicol 10 (3): 359-77, 2014. [PUBMED Abstract]\n- Bilgi N, Bell K, Ananthakrishnan AN, et al.: Imatinib and Panax ginseng: a potential interaction resulting in liver toxicity. Ann Pharmacother 44 (5): 926-8, 2010. [PUBMED Abstract]\n- Wang ZL, Wang S, Kuang Y, et al.: A comprehensive review on phytochemistry, pharmacology, and flavonoid biosynthesis of Scutellaria baicalensis. Pharm Biol 56 (1): 465-484, 2018. [PUBMED Abstract]\n- Lam W, Jiang Z, Guan F, et al.: PHY906(KD018), an adjuvant based on a 1800-year-old Chinese medicine, enhanced the anti-tumor activity of Sorafenib by changing the tumor microenvironment. Sci Rep 5: 9384, 2015. [PUBMED Abstract]\n- Li T, Li N, Guo Q, et al.: Inhibitory effects of wogonin on catalytic activity of cytochrome P450 enzyme in human liver microsomes. Eur J Drug Metab Pharmacokinet 36 (4): 249-56, 2011. [PUBMED Abstract]\n- Yu CP, Hsieh YC, Shia CS, et al.: Increased Systemic Exposure of Methotrexate by a Polyphenol-Rich Herb via Modulation on Efflux Transporters Multidrug Resistance-Associated Protein 2 and Breast Cancer Resistance Protein. J Pharm Sci 105 (1): 343-9, 2016. [PUBMED Abstract]\n- Wang T, Long F, Jiang G, et al.: Pharmacokinetic properties of wogonin and its herb-drug interactions with docetaxel in rats with mammary tumors. Biomed Chromatogr : e4264, 2018. [PUBMED Abstract]\n- Field HL, Monti DA, Greeson JM, et al.: St. John's Wort. Int J Psychiatry Med 30 (3): 203-19, 2000. [PUBMED Abstract]\n- Yang SY, Juang SH, Tsai SY, et al.: St. John's wort significantly increased the systemic exposure and toxicity of methotrexate in rats. Toxicol Appl Pharmacol 263 (1): 39-43, 2012. [PUBMED Abstract]\n- Mathijssen RH, Verweij J, de Bruijn P, et al.: Effects of St. John's wort on irinotecan metabolism. J Natl Cancer Inst 94 (16): 1247-9, 2002. [PUBMED Abstract]\n- Smith P, Bullock JM, Booker BM, et al.: The influence of St. John's wort on the pharmacokinetics and protein binding of imatinib mesylate. Pharmacotherapy 24 (11): 1508-14, 2004. [PUBMED Abstract]\n- Frye RF, Fitzgerald SM, Lagattuta TF, et al.: Effect of St John's wort on imatinib mesylate pharmacokinetics. Clin Pharmacol Ther 76 (4): 323-9, 2004. [PUBMED Abstract]\n- Goey AK, Meijerman I, Rosing H, et al.: The effect of St John's wort on the pharmacokinetics of docetaxel. Clin Pharmacokinet 53 (1): 103-10, 2014. [PUBMED Abstract]\n- IXEMPRA - ixabepilone. Bristol-Myers Squibb Company, 2009. Available online . Last accessed May 26, 2022.\n- Ziaei S, Halaby R: Immunosuppressive, anti-inflammatory and anti-cancer properties of triptolide: A mini review. Avicenna J Phytomed 6 (2): 149-64, 2016 Mar-Apr. [PUBMED Abstract]\n- Zhang C, Sun PP, Guo HT, et al.: Safety Profiles of Tripterygium wilfordii Hook F: A Systematic Review and Meta-Analysis. Front Pharmacol 7: 402, 2016. [PUBMED Abstract]\n- Chou WC, Wu CC, Yang PC, et al.: Hypovolemic shock and mortality after ingestion of Tripterygium wilfordii hook F.: a case report. Int J Cardiol 49 (2): 173-7, 1995. [PUBMED Abstract]\n- Adverse Drug Reaction Information Circular (no. 46) Focuses on the Drug Safety of Triptolide Preparations. National Medical Products Administration, 2012. Available online . Last accessed March 10, 2022.\n- Ru Y, Luo Y, Zhou Y, et al.: Adverse Events Associated With Treatment of Tripterygium wilfordii Hook F: A Quantitative Evidence Synthesis. Front Pharmacol 10: 1250, 2019. [PUBMED Abstract]\n- Jin C, Wu Z, Wang L, et al.: CYP450s-Activity Relations of Celastrol to Interact with Triptolide Reveal the Reasons of Hepatotoxicity of Tripterygium wilfordii. Molecules 24 (11): , 2019. [PUBMED Abstract]\n- Jin C, He X, Zhang F, et al.: Inhibitory mechanisms of celastrol on human liver cytochrome P450 1A2, 2C19, 2D6, 2E1 and 3A4. Xenobiotica 45 (7): 571-7, 2015. [PUBMED Abstract]\n- Xu Y, Zhang YF, Chen XY, et al.: CYP3A4 inducer and inhibitor strongly affect the pharmacokinetics of triptolide and its derivative in rats. Acta Pharmacol Sin 39 (8): 1386-1392, 2018. [PUBMED Abstract]\n- Wang X, Zhang X, Liu F, et al.: The effects of triptolide on the pharmacokinetics of sorafenib in rats and its potential mechanism. Pharm Biol 55 (1): 1863-1867, 2017. [PUBMED Abstract]"
+        },
+        {
+          "section": "General information",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Foods",
+            "Grapefruit",
+            "General information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Grapefruit and other similar fruits, such as Seville orange, pomelo, and lime, have been known to interact with a variety of drugs , including some anticancer drugs. These pharmacokinetic interactions may be caused by the furanocoumarin components found in the seeds of grapefruit. These components have been observed impacting the metabolism of substrates of CYP3A4.[ 1 - 3 ]"
+        },
+        {
+          "section": "Laboratory/animal/preclinical studies",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Foods",
+            "Grapefruit",
+            "Laboratory/animal/preclinical studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Grapefruit and its furanocoumarin components have been studied for their potential antioxidative , anti-inflammatory , and anticancer effects in in vitro and in vivo studies.[ 4 ]"
+        },
+        {
+          "section": "Human/clinical studies",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Foods",
+            "Grapefruit",
+            "Human/clinical studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Some research has shown a dietary supplement/food and drug PK interaction between grapefruit juice and imatinib . Grapefruit juice may cause plasma levels of imatinib to increase by inhibiting CYP3A4, in turn triggering organ toxicity .[ 5 ]\nAn interaction has been observed between grapefruit juice and etoposide . A randomized , crossover , pilot study of six participants examined the bioavailability of the oral chemotherapy drug etoposide after coadministration of grapefruit juice. The data showed a decrease in bioavailability between the control group and the experimental group , who were treated with etoposide and grapefruit juice. The bioavailability of etoposide (50 mg orally ) reduced from approximately 73% to 52% after pretreatment with grapefruit juice (100 mL ). This resulted in a decrease in the area under the concentration versus time curve (AUC) by 26% for etoposide with grapefruit juice, compared with etoposide alone.[ 6 ]\nOther studies have found an increase in the bioavailability of sunitinib with grapefruit juice exposure,[ 7 ] and an increase in AUC by 29% and an increase in peak serum concentration (C max ) by 60% for nilotinib (400 mg orally) was also observed when combined with grapefruit juice (240 mL).[ 8 ]"
+        },
+        {
+          "section": "General information",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Foods",
+            "Green Tea",
+            "General information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Green tea, green tea extract , and products of green tea components are commonly taken as foods, dietary supplements , and herbal therapies . Some of the traditional and modern uses of green tea include the following:\n- Preventing and treating cancer .\n- Lowering cholesterol .\n- Promoting weight loss.\n- Improving mental alertness.\n- Helping with digestive symptoms .\nResearch has been mixed on whether green tea is safe or effective for these uses as well as for coadministration with anticancer drugs .[ 9 ] Current research shows that green tea and the polyphenol epigallocatechin gallate (EGCG), an antioxidant component of green tea, can impact the PK or pharmacodynamics (PD) of certain drugs , thus impacting the metabolism and effectiveness of these drugs.[ 10 ]"
+        },
+        {
+          "section": "Laboratory/animal/preclinical studies",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Foods",
+            "Green Tea",
+            "Laboratory/animal/preclinical studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "As seen in the literature, green tea and its constituent EGCG may be involved in both PK and PD interactions. An interaction between green tea and bortezomib was examined in an in vitro study with human multiple myeloma and glioblastoma cell lines . EGCG blocked bortezomib’s protease inhibitory function by binding to the boronic acid structure in bortezomib, causing the inability to induce cancer cell death and consequently blocking its anticancer abilities. The second portion of this study investigated this interaction within a plasmacytoma xenograft nude mouse model . Bortezomib’s cancer cell apoptosis -inducing effect was completely prevented with intragastric EGCG administration (50 mg/kg).[ 11 ] This interaction was also reported in another animal study that examined human prostate cancer xenografts in immune-deficient mouse models. High intravenous (IV) doses of EGCG along with the coadministration of bortezomib resulted in the abrogation of bortezomib’s anticancer effects.[ 12 ] Human studies should be conducted to determine clinical significance.\nThe impact of green tea and EGCG on fluorouracil PK was studied in rats. The results of these studies showed a 151% increase in C max and a 425% increase in AUC for fluorouracil. The researchers concluded that green tea greatly impacted the PK of fluorouracil.[ 13 ]\nA similar study examined the PK of irinotecan (10 mg/kg IV) given in combination with EGCG (20 mg/kg IV) in rats and found that EGCG caused elevated plasma levels and reduced hepatobiliary excretion of irinotecan and its metabolite SN-38. This is possibly because of EGCG’s inhibitory effects on P-glycoprotein (P-gp).[ 14 ]\nA 2019 study evaluated the effects of green tea extract on the PK of palbociclib in a rat animal model . The data showed a decrease in the oral bioavailability of palbociclib when it was coadministered with green tea extract, but there was no impact on the elimination of palbociclib. The altered PK was thought to be the result of interference in the absorption of palbociclib. The authors recommended against the coadministration of these compounds .[ 15 ]\nResearch on rat animal models investigated the impact of green tea extract on the oral bioavailability of erlotinib and lapatinib . A decrease in the oral bioavailability for erlotinib and lapatinib was observed after consumption of green tea extract (200 mg/kg). There was a decrease in AUC by 68% for erlotinib and 70% for lapatinib with short-term administration of green tea extract, and a decrease in AUC by 16% for erlotinib and 14% for lapatinib with long-term administration of green tea extract.[ 16 ]\nAn in vivo and in vitro study examined the impacts of intragastric coadministration of sunitinib with EGCG. Coadministration of these two solutions resulted in the formation of a precipitate in the stomachs of the mice, thus decreasing its bioavailability. It was also reported that a decrease in the AUC and C max of plasma sunitinib with EGCG administration in rats resulted in reduced sunitinib absorption.[ 17 ]\nA possible interaction was also found between EGCG and tamoxifen. A 2009 study assessed the bioavailability and PK of tamoxifen (2 mg/kg) and its metabolite, 4-hydroxytamoxifen , with coadministration of EGCG (0.5 mg/kg, 3 mg/kg, and 10 mg/kg) in Sprague-Dawley rats. The coadministration of EGCG at doses of 3 mg/kg and 10 mg/kg caused a 49% to 78% increase in the bioavailability of tamoxifen. In addition, EGCG significantly impacted the formation of 4-hydroxytamoxifen. It is believed that this reaction was caused by EGCG’s inhibitory effect on P-gp and CYP3A.[ 18 ] However, a subsequent study analyzed the effect of a green tea extract (1 g twice daily, 300 mg EGCG) on endoxifen (active metabolite of tamoxifen) levels. The study did not demonstrate a PK interaction between the green tea supplement and endoxifen levels.[ 19 ]\nThe findings of the preclinical studies provide a justification and motivation for human studies to determine appropriate clinical recommendations."
+        },
+        {
+          "section": "Case study",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Foods",
+            "Green Tea",
+            "Case study"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In addition to the in vitro and in vivo EGCG and sunitinib study mentioned above, the same researchers published a case study that might demonstrate a possible adverse effect of green tea consumption with sunitinib treatment. A male patient with metastatic renal cell carcinoma who received sunitinib reported worsened symptoms of hyperemia and eye swelling near the site of a metastatic lesion when drinking green tea; the symptoms improved when he stopped taking green tea. The authors hypothesized that the lack of symptom control may result from EGCG’s effects on sunitinib’s anticancer abilities.[ 17 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Foods",
+            "Green Tea",
+            "Case study",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "- Mouly S, Lloret-Linares C, Sellier PO, et al.: Is the clinical relevance of drug-food and drug-herb interactions limited to grapefruit juice and Saint-John's Wort? Pharmacol Res 118: 82-92, 2017. [PUBMED Abstract]\n- Singh BN: Effects of food on clinical pharmacokinetics. Clin Pharmacokinet 37 (3): 213-55, 1999. [PUBMED Abstract]\n- Paine MF, Widmer WW, Hart HL, et al.: A furanocoumarin-free grapefruit juice establishes furanocoumarins as the mediators of the grapefruit juice-felodipine interaction. Am J Clin Nutr 83 (5): 1097-105, 2006. [PUBMED Abstract]\n- Hung WL, Suh JH, Wang Y: Chemistry and health effects of furanocoumarins in grapefruit. J Food Drug Anal 25 (1): 71-83, 2017. [PUBMED Abstract]\n- He SM, Yang AK, Li XT, et al.: Effects of herbal products on the metabolism and transport of anticancer agents. Expert Opin Drug Metab Toxicol 6 (10): 1195-213, 2010. [PUBMED Abstract]\n- Reif S, Nicolson MC, Bisset D, et al.: Effect of grapefruit juice intake on etoposide bioavailability. Eur J Clin Pharmacol 58 (7): 491-4, 2002. [PUBMED Abstract]\n- van Erp NP, Baker SD, Zandvliet AS, et al.: Marginal increase of sunitinib exposure by grapefruit juice. Cancer Chemother Pharmacol 67 (3): 695-703, 2011. [PUBMED Abstract]\n- Yin OQ, Gallagher N, Li A, et al.: Effect of grapefruit juice on the pharmacokinetics of nilotinib in healthy participants. J Clin Pharmacol 50 (2): 188-94, 2010. [PUBMED Abstract]\n- Sang S, Lambert JD, Ho C, et al.: Green tea polyphenols. In: Coates PM, Betz JM, Blackman MR, et al., eds.: Encyclopedia of Dietary Supplements. 2nd ed. Informa Healthcare, 2010, pp 402-10.\n- Du GJ, Zhang Z, Wen XD, et al.: Epigallocatechin Gallate (EGCG) is the most effective cancer chemopreventive polyphenol in green tea. Nutrients 4 (11): 1679-91, 2012. [PUBMED Abstract]\n- Golden EB, Lam PY, Kardosh A, et al.: Green tea polyphenols block the anticancer effects of bortezomib and other boronic acid-based proteasome inhibitors. Blood 113 (23): 5927-37, 2009. [PUBMED Abstract]\n- Bannerman B, Xu L, Jones M, et al.: Preclinical evaluation of the antitumor activity of bortezomib in combination with vitamin C or with epigallocatechin gallate, a component of green tea. Cancer Chemother Pharmacol 68 (5): 1145-54, 2011. [PUBMED Abstract]\n- Qiao J, Gu C, Shang W, et al.: Effect of green tea on pharmacokinetics of 5-fluorouracil in rats and pharmacodynamics in human cell lines in vitro. Food Chem Toxicol 49 (6): 1410-5, 2011. [PUBMED Abstract]\n- Lin LC, Wang MN, Tsai TH: Food-drug interaction of (-)-epigallocatechin-3-gallate on the pharmacokinetics of irinotecan and the metabolite SN-38. Chem Biol Interact 174 (3): 177-82, 2008. [PUBMED Abstract]\n- Paul D, Surendran S, Chandrakala P, et al.: An assessment of the impact of green tea extract on palbociclib pharmacokinetics using a validated UHPLC-QTOF-MS method. Biomed Chromatogr 33 (4): e4469, 2019. [PUBMED Abstract]\n- Maher HM, Alzoman NZ, Shehata SM, et al.: UPLC-ESI-MS/MS study of the effect of green tea extract on the oral bioavailability of erlotinib and lapatinib in rats: Potential risk of pharmacokinetic interaction. J Chromatogr B Analyt Technol Biomed Life Sci 1049-1050: 30-40, 2017. [PUBMED Abstract]\n- Ge J, Tan BX, Chen Y, et al.: Interaction of green tea polyphenol epigallocatechin-3-gallate with sunitinib: potential risk of diminished sunitinib bioavailability. J Mol Med (Berl) 89 (6): 595-602, 2011. [PUBMED Abstract]\n- Shin SC, Choi JS: Effects of epigallocatechin gallate on the oral bioavailability and pharmacokinetics of tamoxifen and its main metabolite, 4-hydroxytamoxifen, in rats. Anticancer Drugs 20 (7): 584-8, 2009. [PUBMED Abstract]\n- Braal CL, Hussaarts KGAM, Seuren L, et al.: Influence of green tea consumption on endoxifen steady-state concentration in breast cancer patients treated with tamoxifen. Breast Cancer Res Treat 184 (1): 107-113, 2020. [PUBMED Abstract]"
+        },
+        {
+          "section": "Foods, Dietary Supplements, and Cancer Drug Interaction Tables",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Foods, Dietary Supplements, and Cancer Drug Interaction Tables"
+          ],
+          "is_boilerplate": false,
+          "block_count": 55,
+          "text": "Herbal / Dietary Supplement | Anticancer Therapy | Effect | Study Type\nAUC = area under the concentration versus time curve; C max = peak serum concentration; EGCG = epigallocatechin gallate; SJW = St. John's wort.\nSJW | Irinotecan | Increased activity of CYP3A4 and decreased AUC of active metabolite SN38 | Clinical trial [ 1 ]\nSJW | Imatinib | Increased clearance and decreased AUC of imatinib | Clinical trial [ 2 ]\nSJW | Methotrexate | Increased AUC and C max of methotrexate | Animal study [ 3 ]\nSJW | Docetaxel | Increased clearance and decreased AUC of docetaxel | Clinical trial [ 4 ]\nSJW | Ixabepilone | May decrease plasma concentrations of ixabepilone | Label warning for ixabepilone [ 5 ]\nGreen tea | Sunitinib | Decreased drug absorption and bioavailability of sunitinib | Animal study and case report [ 6 ]\nGreen tea | Palbociclib | Decreased oral bioavailability of palbociclib | Animal study [ 7 ]\nGreen tea extract | Erlotinib | Decreased AUC and oral bioavailability of erlotinib | Animal study [ 8 ]\nGreen tea extract | Lapatinib | Decreased AUC and oral bioavailability of lapatinib | Animal study [ 8 ]\nEGCG | Tamoxifen | Increased bioavailability of tamoxifen | Animal study [ 9 ]\nEGCG | Irinotecan | Increased plasma concentration of irinotecan and decreased hepatobiliary excretion of drug and its metabolite SN-38 | Animal study [ 10 ]\nGreen tea and EGCG | Fluorouracil | Increased AUC and C max of fluorouracil | Animal and in vitro study [ 11 ]\nGrapefruit | Imatinib | May increase plasma levels of imatinib by inhibiting CYP3A4 | Review [ 12 ]\nGrapefruit | Etoposide | Decreased AUC and bioavailability of etoposide | Randomized , crossover , pilot study [ 13 ]\nGrapefruit | Sunitinib | Increased bioavailability of sunitinib | Clinical trial [ 14 ]\nGrapefruit | Nilotinib | Increased AUC and C max of nilotinib | Clinical trial [ 15 ]\nVitamin A | Imatinib | Increased bioavailability of imatinib | Animal study [ 8 ]\nVitamin E | Imatinib | Increased bioavailability of imatinib | Animal study [ 8 ]\nVitamin D3 | Imatinib | Increased bioavailability of imatinib | Animal study [ 8 ]\nVitamin C | Imatinib | Decreased bioavailability of imatinib | Animal study [ 8 ]\nScutellaria baicalensis | Docetaxel | Increased AUC of drug and exposure to both drug and herb | Animal study [ 16 ]\nAnticancer Therapy | Herbal/Dietary Supplement | Effect | Study Type\nAUC = area under the concentration versus time curve; C max = peak serum concentration; EGCG = epigallocatechin gallate; SJW = St. John's wort.\nDocetaxel | Scutellaria baicalensis | Increased AUC of drug and exposure to both drug and herb | Animal study [ 16 ]\nDocetaxel | SJW | Increased clearance and decrease AUC of docetaxel | Clinical trial [ 4 ]\nErlotinib | Green tea extract | Decreased AUC and oral bioavailability of erlotinib | Animal study [ 8 ]\nEtoposide | Grapefruit | Decreased AUC and bioavailability of etoposide | Randomized, crossover, pilot study [ 13 ]\nFluorouracil | Green tea and EGCG | Increased AUC and C max of fluorouracil | Animal and in vitro study [ 11 ]\nImatinib | Grapefruit | May increase plasma levels of imatinib by inhibiting CYP3A4 | Review [ 12 ]\nImatinib | Vitamin A | Increased bioavailability of imatinib | Animal study [ 8 ]\nImatinib | Vitamin E | Increased bioavailability of imatinib | Animal study [ 8 ]\nImatinib | Vitamin D3 | Increased bioavailability of imatinib | Animal study [ 8 ]\nImatinib | Vitamin C | Decreased bioavailability of imatinib | Animal study [ 8 ]\nImatinib | SJW | Increased clearance and decreased AUC of imatinib | Clinical trial [ 2 ]\nIrinotecan | SJW | Increased activity of CYP3A4 and decreased AUC of active metabolite SN38 | Clinical trial [ 1 ]\nIrinotecan | EGCG | Increased plasma concentration of irinotecan and decreased hepatobiliary excretion of drug and its metabolite SN-38 | Animal study [ 10 ]\nIxabepilone | SJW | May decrease plasma concentrations of ixabepilone | Label warning for ixabepilone [ 5 ]\nLapatinib | Green tea extract | Decreased AUC and oral bioavailability of lapatinib | Animal study [ 8 ]\nMethotrexate | SJW | Increased AUC and C max of methotrexate | Animal study [ 3 ]\nNilotinib | Grapefruit | Increased AUC and C max of nilotinib | Clinical trial [ 15 ]\nPalbociclib | Green tea | Decreased oral bioavailability of palbociclib | Animal study [ 7 ]\nTamoxifen | EGCG | Increased bioavailability of tamoxifen | Animal study [ 9 ]\nSunitinib | Grapefruit | Increased bioavailability of sunitinib | Clinical trial [ 14 ]\nSunitinib | Green tea | Decreased drug absorption and bioavailability of sunitinib | Animal study and case report [ 6 ]\nHerbal/Dietary Supplement | Cancer Therapy | Adverse Reaction | Study Type\nEGCG = epigallocatechin gallate.\nVitamin C | Doxorubicin , cisplatin , vincristine , methotrexate, and imatinib | Dose-dependent decrease in apoptosis with all chemotherapeutic drugs tested | Animal study [ 17 ]\nVitamin C | Bortezomib | Decreased bortezomib’s anticancer activities | Animal study [ 18 ]\nDl-alpha-tocopherol (vitamin E) | Radiation therapy | Higher risk of tumor relapse and increased all-cause mortality | Clinical trial [ 19 , 20 ]\nGinseng | Imatinib | Incident of hepatotoxicity | Case report [ 21 ]\nEGCG or green tea extract | Bortezomib | Decreased anticancer effect by neutralizing effects of bortezomib | In vitro and animal study [ 22 ]\nEGCG | Bortezomib | Decreased bortezomib’s anticancer effect | Animal study [ 23 ]\nGreen tea | Sunitinib | Decreased anticancer effect, worsened symptoms | Preclinical research and case report [ 6 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Foods, Dietary Supplements, and Cancer Drug Interaction Tables",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 23,
+          "text": "- Mathijssen RH, Verweij J, de Bruijn P, et al.: Effects of St. John's wort on irinotecan metabolism. J Natl Cancer Inst 94 (16): 1247-9, 2002. [PUBMED Abstract]\n- Frye RF, Fitzgerald SM, Lagattuta TF, et al.: Effect of St John's wort on imatinib mesylate pharmacokinetics. Clin Pharmacol Ther 76 (4): 323-9, 2004. [PUBMED Abstract]\n- Yang SY, Juang SH, Tsai SY, et al.: St. John's wort significantly increased the systemic exposure and toxicity of methotrexate in rats. Toxicol Appl Pharmacol 263 (1): 39-43, 2012. [PUBMED Abstract]\n- Clairet AL, Boiteux-Jurain M, Curtit E, et al.: Interaction between phytotherapy and oral anticancer agents: prospective study and literature review. Med Oncol 36 (5): 45, 2019. [PUBMED Abstract]\n- IXEMPRA - ixabepilone. Bristol-Myers Squibb Company, 2009. Available online . Last accessed May 26, 2022.\n- Ge J, Tan BX, Chen Y, et al.: Interaction of green tea polyphenol epigallocatechin-3-gallate with sunitinib: potential risk of diminished sunitinib bioavailability. J Mol Med (Berl) 89 (6): 595-602, 2011. [PUBMED Abstract]\n- Paul D, Surendran S, Chandrakala P, et al.: An assessment of the impact of green tea extract on palbociclib pharmacokinetics using a validated UHPLC-QTOF-MS method. Biomed Chromatogr 33 (4): e4469, 2019. [PUBMED Abstract]\n- Maher HM, Alzoman NZ, Shehata SM: Ultra-performance LC-MS/MS study of the pharmacokinetic interaction of imatinib with selected vitamin preparations in rats. Bioanalysis 10 (14): 1099-1113, 2018. [PUBMED Abstract]\n- Shin SC, Choi JS: Effects of epigallocatechin gallate on the oral bioavailability and pharmacokinetics of tamoxifen and its main metabolite, 4-hydroxytamoxifen, in rats. Anticancer Drugs 20 (7): 584-8, 2009. [PUBMED Abstract]\n- Lin LC, Wang MN, Tsai TH: Food-drug interaction of (-)-epigallocatechin-3-gallate on the pharmacokinetics of irinotecan and the metabolite SN-38. Chem Biol Interact 174 (3): 177-82, 2008. [PUBMED Abstract]\n- Qiao J, Gu C, Shang W, et al.: Effect of green tea on pharmacokinetics of 5-fluorouracil in rats and pharmacodynamics in human cell lines in vitro. Food Chem Toxicol 49 (6): 1410-5, 2011. [PUBMED Abstract]\n- He SM, Yang AK, Li XT, et al.: Effects of herbal products on the metabolism and transport of anticancer agents. Expert Opin Drug Metab Toxicol 6 (10): 1195-213, 2010. [PUBMED Abstract]\n- Reif S, Nicolson MC, Bisset D, et al.: Effect of grapefruit juice intake on etoposide bioavailability. Eur J Clin Pharmacol 58 (7): 491-4, 2002. [PUBMED Abstract]\n- van Erp NP, Baker SD, Zandvliet AS, et al.: Marginal increase of sunitinib exposure by grapefruit juice. Cancer Chemother Pharmacol 67 (3): 695-703, 2011. [PUBMED Abstract]\n- Yin OQ, Gallagher N, Li A, et al.: Effect of grapefruit juice on the pharmacokinetics of nilotinib in healthy participants. J Clin Pharmacol 50 (2): 188-94, 2010. [PUBMED Abstract]\n- Wang T, Long F, Jiang G, et al.: Pharmacokinetic properties of wogonin and its herb-drug interactions with docetaxel in rats with mammary tumors. Biomed Chromatogr : e4264, 2018. [PUBMED Abstract]\n- Heaney ML, Gardner JR, Karasavvas N, et al.: Vitamin C antagonizes the cytotoxic effects of antineoplastic drugs. Cancer Res 68 (19): 8031-8, 2008. [PUBMED Abstract]\n- Perrone G, Hideshima T, Ikeda H, et al.: Ascorbic acid inhibits antitumor activity of bortezomib in vivo. Leukemia 23 (9): 1679-86, 2009. [PUBMED Abstract]\n- Bairati I, Meyer F, Gélinas M, et al.: Randomized trial of antioxidant vitamins to prevent acute adverse effects of radiation therapy in head and neck cancer patients. J Clin Oncol 23 (24): 5805-13, 2005. [PUBMED Abstract]\n- Bairati I, Meyer F, Jobin E, et al.: Antioxidant vitamins supplementation and mortality: a randomized trial in head and neck cancer patients. Int J Cancer 119 (9): 2221-4, 2006. [PUBMED Abstract]\n- Bilgi N, Bell K, Ananthakrishnan AN, et al.: Imatinib and Panax ginseng: a potential interaction resulting in liver toxicity. Ann Pharmacother 44 (5): 926-8, 2010. [PUBMED Abstract]\n- Golden EB, Lam PY, Kardosh A, et al.: Green tea polyphenols block the anticancer effects of bortezomib and other boronic acid-based proteasome inhibitors. Blood 113 (23): 5927-37, 2009. [PUBMED Abstract]\n- Bannerman B, Xu L, Jones M, et al.: Preclinical evaluation of the antitumor activity of bortezomib in combination with vitamin C or with epigallocatechin gallate, a component of green tea. Cancer Chemother Pharmacol 68 (5): 1145-54, 2011. [PUBMED Abstract]"
+        },
+        {
+          "section": "Summary of the Evidence for Cancer Therapy Interactions With Foods and Dietary Supplements",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Summary of the Evidence for Cancer Therapy Interactions With Foods and Dietary Supplements"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "To assist readers in evaluating the results of human studies of integrative, alternative, and complementary therapies for cancer , the strength of the evidence (i.e., the levels of evidence ) associated with each type of treatment is provided whenever possible. To qualify for a level of evidence analysis , a study must:\n- Be published in a peer-reviewed scientific journal .\n- Report on a therapeutic outcome or outcomes, such as tumor response , improvement in survival, or measured improvement in quality of life .\n- Describe clinical findings in sufficient detail that a meaningful evaluation can be made.\nSeparate levels of evidence scores are assigned to qualifying human studies on the basis of statistical strength of the study design and scientific strength of the treatment outcomes (i.e., endpoints ) measured. The resulting two scores are then combined to produce an overall score. For an explanation of the scores and additional information about levels of evidence analysis, see Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies ."
+        },
+        {
+          "section": "Latest Updates to This Summary (04/05/2024)",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (04/05/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nGeneral Information\nRevised text to state that in the United States, dietary supplements are regulated by the U.S. Food and Drug Administration (FDA) as a separate category from foods, cosmetics, and drugs. Unlike drugs, dietary supplements do not require premarket evaluation and approval by the FDA unless specific disease prevention or treatment claims are made. Also added text to state that the quality and amount of ingredients in dietary supplements are also regulated by the FDA through Good Manufacturing Practices (GMPs). The FDA GMPs requires that every finished batch of dietary supplement meets each product specification for identity, purity, strength, composition, and limits on contamination that may adulterate dietary supplements.\nThis summary is written and maintained by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about cancer therapy interactions with foods and dietary supplements in people with cancer.. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 7,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Integrative, Alternative, and Complementary Therapies Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Integrative, Alternative, and Complementary Therapies Editorial Board. PDQ Cancer Therapy Interactions With Foods and Dietary Supplements. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/treatment/cam/hp/dietary-interactions-pdq . Accessed <MM/DD/YYYY>. [PMID: 33079503]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\b2e9e3e3c19fd6cec8ca.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "integrative_therapies"
+      ],
+      "topic": "integrative_therapies",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+      "summary_name": "Cancer Therapy Interactions With Foods and Dietary Supplements",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/dietary-interactions-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "April 25, 2024",
+      "retrieved_at": "2026-08-31T07:07:32.536381+00:00",
+      "content_sha256": "1719ca8c4f7baa42942cc01a44dfce4969b6f0c55ebacd812e158128b2fb53f0",
+      "section_count": 19,
+      "sections": [
+        {
+          "section": "General Information",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "General Information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Over a third of adults with cancer in the United States use some form of complementary and alternative medicine (CAM) product. CAM products may include dietary supplements , herbal products, and special teas. Taking anticancer drugs and CAM products together may cause a person to have an undesired (adverse) reaction. Talk to your doctor about the CAM products you use before you begin treatment.\nWhen dietary supplements, herbs, or other CAM products are taken with an anticancer drug, they could change the way the cancer drug works in a person's body. They may change how the cancer drug is absorbed and distributed ( metabolized ) in the body tissues , or how it is removed ( excreted ) from the body.\nSpecial enzymes and other proteins help drugs work against cancer in the body. The cytochrome P450 superfamily of enzymes are important for how the body metabolizes many cancer drugs. P-glycoprotein , a special protein that helps remove substances from cells , is also involved in how cancer drugs work in a person's body. If a CAM product disturbs these systems, the cancer drug will not work like it should, and the person will not receive the full benefits of the drug.\nSome studies have been done on taking CAM products with cancer drugs. This summary covers some of the possible adverse reactions from taking CAM products and cancer drugs together."
+        },
+        {
+          "section": "Questions and Answers About Antioxidants",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "Antioxidants",
+            "Questions and Answers About Antioxidants"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- What are antioxidants? Antioxidants are natural or man-made substances. They are found in foods and dietary supplements that protect cells from the damage caused by free radicals (unstable molecules made by oxidation during normal metabolism ). Free radicals may play a part in cancer , heart disease , stroke , and other diseases of aging. Some common dietary antioxidants include the following:\n- Vitamin C (ascorbate).\n- Vitamin E .\n- Flavonoids (such as soy isoflavones , green tea catechins ).\n- Beta-carotene .\n- Glutathione .\n- How are antioxidants given or taken? Antioxidants found in fruits, vegetables, and dietary supplements are taken by mouth.\n- Have any laboratory or animal studies been done on antioxidants and drug interactions? For information on laboratory and animal studies done using antioxidants, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.\n- Have any studies been done on antioxidants and drug interactions in people with cancer? One study looked at antioxidant dietary supplement use before and after diagnosis in postmenopausal breast cancer survivors . This study found an increased risk of death and a reduced chance of staying cancer free when antioxidant dietary supplements were used during chemotherapy and radiation therapy . Another study found similar results for people with breast cancer who used antioxidant dietary supplements before and during chemotherapy. Clinical trials of people with head and neck cancer who took vitamin E supplements looked at a compound in the supplements known as alpha-tocopherol . Researchers studied alpha-tocopherol to see if it decreased adverse reactions from chemotherapy and radiation therapy. Although some clinical trials reported that alpha-tocopherol may reduce damage to the body caused by radiation therapy, other clinical trials found there was a higher risk of cancer coming back.\n- Have any side effects or risks been reported from antioxidants? Antioxidant dietary supplements that are taken while being treated with chemotherapy or radiation therapy may lower the chance of staying cancer free. Some people take antioxidants because they think the supplement will protect and repair healthy cells damaged by cancer drugs . More research is needed to find out if antioxidant supplements are safe and effective as a complementary therapy when taken with standard cancer treatment .\n- Are antioxidants approved by the United States Food and Drug Administration (FDA) for use as a cancer treatment in the United States? The FDA has not approved the use of antioxidants as a treatment for cancer or any other medical condition . Antioxidants are available in the United States in food products and dietary supplements. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of antioxidant supplements may not be the same."
+        },
+        {
+          "section": "Questions and Answers About Ginseng",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "Herbs",
+            "Questions and Answers About Ginseng"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "- What is ginseng? Ginseng is a root that has been used as a dietary supplement in traditional Chinese medicine . People take ginseng for the following health benefits:\n- To improve one's focus and quality of life .\n- To build up the immune system .\n- To help with health problems such as heart disease , depression , and anxiety .\n- How is ginseng given or taken? Ginseng is a dietary supplement that is taken by mouth.\n- Have any laboratory or animal studies been done on ginseng and drug interactions? For information on laboratory and animal studies done using ginseng, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.\n- Have any studies been done on ginseng and drug interactions in people with cancer? A case study found that a young man who was treated with an anticancer drug and took ginseng as part of an energy drink was diagnosed with liver damage. More research is needed to find out if the ginseng or something else in the energy drink caused the liver damage.\n- Have any side effects or risks been reported from ginseng? The most common side effect is poor sleep. Other side effects from taking ginseng supplements include the following:\n- Menstrual problems.\n- Breast pain .\n- Fast heart rate .\n- High or low blood pressure .\n- Headache.\n- Loss of appetite .\n- Digestive problems.\n- Is ginseng approved by the FDA for use as a cancer treatment in the United States? The FDA has not approved the use of ginseng as a treatment for cancer or any other medical condition . Ginseng is available in the United States as a dietary supplement. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of ginseng supplements may not be the same."
+        },
+        {
+          "section": "Questions and Answers About Scutellaria baicalensis/Wogonin",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "Herbs",
+            "Questions and Answers About Scutellaria baicalensis/Wogonin"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- What is Scutellaria baicalensis ? Scutellaria baicalensis is a plant used in traditional Chinese medicine to treat medical conditions such as diarrhea , hepatitis , infections , and inflammation . Scutellaria baicalensis is also known as wogonin, Chinese skullcap, or Huang Qin.\n- How is Scutellaria baicalensis given or taken? Scutellaria baicalensis is a dietary supplement that is taken by mouth.\n- Have any laboratory or animal studies been done on Scutellaria baicalensis and drug interactions? For information on laboratory and animal studies done using Scutellaria baicalensis , see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.\n- Have any studies been done on Scutellaria baicalensis and drug interactions in people with cancer? No clinical trials or other studies in people with cancer have been published in peer-reviewed scientific journals to support the safety or effectiveness of Scutellaria baicalensis .\n- Have any side effects or risks been reported from Scutellaria baicalensis ? Information about side effects or risks from taking Scutellaria baicalensis is not available because there have been no clinical trials or other studies done in people with cancer. Some research has shown that Scutellaria baicalensis may change the anticancer effects of certain drugs .\n- Is Scutellaria baicalensis approved by the FDA for use as a cancer treatment in the United States? The FDA has not approved the use of Scutellaria baicalensis as a treatment for cancer or any other medical condition. Scutellaria baicalensis is available in the United States as a dietary supplement. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of Scutellaria baicalensis may not be the same."
+        },
+        {
+          "section": "Questions and Answers About St. John's Wort",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "Herbs",
+            "Questions and Answers About St. John's Wort"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "- What is St. John's wort? St. John’s wort ( Hypericum perforatum ) is a flowering plant that has been used to help with sleep issues, lung and kidney problems, and wound healing. Today, it is often used for depression .\n- How is St. John's wort given or taken? St. John’s wort is a dietary supplement . The flowers from the St. John’s wort plant can be taken in the form of tablets, teas, capsules , or extracts .\n- Have any laboratory or animal studies been done on St. John's wort and drug interactions? For information on laboratory and animal studies done using St. John’s wort, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.\n- Have any studies been done on St. John's wort and drug interactions in people with cancer? Studies have found that patients who took St. John’s wort while receiving anticancer drugs had lower levels of the drugs in their blood . Anticancer drugs may be less effective if taken with St. John’s wort.\n- Have any side effects or risks been reported from St. John's wort? St. John’s wort can interact with how other medicines are absorbed in the body. These interactions can cause side effects , including the following: St. John’s wort can interact with medicines for depression causing unsafe levels of serotonin , a chemical substance found in the brain . When serotonin increases to a certain level, it can be dangerous.\n- Sensitivity to sunlight.\n- Trouble sleeping.\n- Anxiety .\n- Dry mouth.\n- Dizziness.\n- Digestive problems.\n- Fatigue .\n- Headache.\n- Problems with sexual function.\n- Is St. John’s wort approved by the FDA for use as a cancer treatment in the United States? The FDA has not approved the use of St. John’s wort as a treatment for cancer or any other medical condition . St. John’s wort is available in the United States as a dietary supplement. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of St. John's wort may not be the same."
+        },
+        {
+          "section": "Questions and Answers About Thunder God Vine",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "Herbs",
+            "Questions and Answers About Thunder God Vine"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "- What is thunder god vine? Thunder god vine, also known as Tripterygium wilfordii Hook f, is an herb used in traditional Chinese medicine to help with inflammation and lessen immune responses . Two ingredients in thunder god vine—triptolide and celastrol—are being studied for anticancer effects.\n- How is thunder god vine given or taken? Thunder god vine is a dietary supplement that can be taken by mouth. It can also be applied to the skin.\n- Have any laboratory or animal studies been done on thunder god vine and drug interactions? For information on laboratory and animal studies done using thunder god vine, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.\n- Have any studies been done on thunder god vine and drug interactions in people with cancer? No clinical trials or other studies in people with cancer have been published in peer-reviewed scientific journals to support the safety or effectiveness of thunder god vine.\n- Have any side effects or risks been reported from thunder god vine? Thunder god vine can cause many side effects , including the following:\n- Organ damage.\n- Death.\n- Digestive problems.\n- Abnormal heart rate .\n- Low blood count.\n- Kidney problems.\n- Liver problems.\n- Skin conditions.\n- Infertility .\n- Headache.\n- Hair loss.\n- Is thunder god vine approved by the FDA for use as a cancer treatment in the United States? The FDA has not approved the use of thunder god vine as a treatment for cancer or any other medical condition . Thunder god vine is available in the United States as a dietary supplement. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of thunder god vine may not be the same."
+        },
+        {
+          "section": "Questions and Answers About Grapefruit",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "Foods",
+            "Questions and Answers About Grapefruit"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- What is grapefruit? Grapefruit is a fruit in the citrus family. Grapefruit and fruits similar to grapefruit, such as Seville oranges, pomelos, and limes, are known to interact with anticancer drugs . The seeds from the fruit contain furanocoumarin that may cause adverse reactions .\n- How is grapefruit given or taken? People eat grapefruit or take it as a dietary supplement (in the form of an extract made from the seeds). Some people drink grapefruit juice.\n- Have any laboratory or animal studies been done on grapefruit and drug interactions? For information on laboratory and animal studies done using grapefruit, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.\n- Have any studies been done on grapefruit and drug interactions in people with cancer? A small randomized trial found that less of the anticancer drug etoposide reached the bloodstream in people who drank grapefruit juice than in people who did not drink grapefruit juice. However, studies with the anticancer drugs imatinib , sunitinib , and nilotinib have shown that drinking grapefruit juice increased the amount of anticancer drug that reached the bloodstream.\n- Have any side effects or risks been reported from grapefruit? Grapefruit can interact with many medicines used to treat a variety of health problems. Grapefruit juice and the furanocoumarin in grapefruit seeds have been known to interact with some anticancer drugs.\n- Is grapefruit approved by the FDA for use as a cancer treatment in the United States? The FDA has not approved the use of grapefruit as a treatment for cancer or any other medical condition . Grapefruit is available in the United States in food products or as a dietary supplement. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of grapefruit seed extracts may not be the same."
+        },
+        {
+          "section": "Questions and Answers About Green Tea",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "Foods",
+            "Questions and Answers About Green Tea"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- What is green tea? Green tea comes from the Camellia sinensis plant. Green tea has been used to lower cholesterol and improve weight loss, mental alertness, and digestive symptoms . The health benefits studied in green tea are thought to be from compounds called polyphenols . Polyphenols are a group of plant chemicals that include catechins ( antioxidants that help protect cells from damage). Catechins make up most of the polyphenols in green tea.\n- How is green tea given or taken? People usually drink green tea or take it as a dietary supplement in the form of a dried herb or an extract .\n- Have any laboratory or animal studies been done on green tea and drug interactions? For information on laboratory and animal studies done using green tea, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Cancer Therapy Interactions With Foods and Dietary Supplements.\n- Have any studies been done on green tea and drug interactions in people with cancer? Clinical research with people is limited. A case study of a patient with metastatic renal cell carcinoma who drank green tea while he received an anticancer drug reported worse control of symptoms . The symptoms improved when he stopped drinking the green tea.\n- Have any side effects or risks been reported from green tea? Risks and side effects result from drinking large amounts of green tea (more than 8 cups per day). In rare cases, green tea extracts taken in pill form have caused damage to the liver . Green tea may interact with other medicines . Studies have not determined whether green tea is safe or effective when used with anticancer drugs.\n- Is green tea approved by the FDA for use as a cancer treatment in the United States? The FDA has not approved the use of green tea as a treatment for cancer . The FDA Division of Drug Oncology Products recommends that green tea extract be taken with food by participants in clinical trials and that liver function tests be considered during treatment. Green tea is available in the United States in food products and dietary supplements. The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of green tea extract may not be the same."
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about cancer therapy interactions with foods and dietary supplements in people with cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Integrative, Alternative, and Complementary Therapies Editorial Board. PDQ Cancer Therapy Interactions With Foods and Dietary Supplements. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/treatment/cam/patient/dietary-interactions-pdq . Accessed <MM/DD/YYYY>.\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        },
+        {
+          "section": "General CAM Information",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "General CAM Information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Complementary and alternative medicine (CAM)—also called integrative medicine—includes a broad range of healing philosophies, approaches, and therapies. A therapy is generally called complementary when it is used in addition to conventional treatments; it is often called alternative when it is used instead of conventional treatment. (Conventional treatments are those that are widely accepted and practiced by the mainstream medical community.) Depending on how they are used, some therapies can be considered either complementary or alternative. Complementary and alternative therapies are used in an effort to prevent illness, reduce stress, prevent or reduce side effects and symptoms, or control or cure disease.\nUnlike conventional treatments for cancer, complementary and alternative therapies are often not covered by insurance companies. Patients should check with their insurance provider to find out about coverage for complementary and alternative therapies.\nCancer patients considering complementary and alternative therapies should discuss this decision with their doctor, nurse, or pharmacist as they would any type of treatment. Some complementary and alternative therapies may affect their standard treatment or may be harmful when used with conventional treatment."
+        },
+        {
+          "section": "Evaluation of CAM Therapies",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "Evaluation of CAM Therapies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "It is important that the same scientific methods used to test conventional therapies are used to test CAM therapies. The National Cancer Institute and the National Center for Complementary and Integrative Health (NCCIH) are sponsoring a number of clinical trials (research studies) at medical centers to test CAM therapies for use in cancer.\nConventional approaches to cancer treatment have generally been studied for safety and effectiveness through a scientific process that includes clinical trials with large numbers of patients. Less is known about the safety and effectiveness of complementary and alternative methods. Few CAM therapies have been tested using demanding scientific methods. A small number of CAM therapies that were thought to be purely alternative approaches are now being used in cancer treatment—not as cures, but as complementary therapies that may help patients feel better and recover faster. One example is acupuncture. According to a panel of experts at a National Institutes of Health (NIH) meeting in November 1997, acupuncture has been found to help control nausea and vomiting caused by chemotherapy and pain related to surgery. However, some approaches, such as the use of laetrile, have been studied and found not to work and to possibly cause harm.\nThe NCI Best Case Series Program which was started in 1991, is one way CAM approaches that are being used in practice are being studied. The program is overseen by the NCI’s Office of Cancer Complementary and Alternative Medicine (OCCAM). Health care professionals who offer alternative cancer therapies submit their patients’ medical records and related materials to OCCAM. OCCAM carefully reviews these materials to see if any seem worth further research."
+        },
+        {
+          "section": "Questions to Ask Your Health Care Provider About CAM",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "Questions to Ask Your Health Care Provider About CAM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "When considering complementary and alternative therapies, patients should ask their health care provider the following questions:\n- What side effects can be expected?\n- What are the risks related to this therapy?\n- What benefits can be expected from this therapy?\n- Do the known benefits outweigh the risks?\n- Will the therapy affect conventional treatment?\n- Is this therapy part of a clinical trial?\n- If so, who is the sponsor of the trial?\n- Will the therapy be covered by health insurance?"
+        },
+        {
+          "section": "To Learn More About CAM",
+          "section_path": [
+            "Cancer Therapy Interactions With Foods and Dietary Supplements (PDQ®)–Patient Version",
+            "To Learn More About CAM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 32,
+          "text": "National Center for Complementary and Integrative Health (NCCIH)\nThe National Center for Complementary and Integrative Health (NCCIH) at the National Institutes of Health (NIH) facilitates research and evaluation of complementary and alternative practices, and provides information about a variety of approaches to health professionals and the public.\n- NCCIH Clearinghouse\n- Post Office Box 7923 Gaithersburg, MD 20898–7923\n- Telephone: 1-888-644-6226 (toll free)\n- TTY (for deaf and hard of hearing callers): 1-866-464-3615\n- E-mail: info@nccih.nih.gov\n- Website: https://nccih.nih.gov\nCAM on PubMed\nNCCIH and the NIH National Library of Medicine (NLM) jointly developed CAM on PubMed , a free and easy-to-use search tool for finding CAM-related journal citations. As a subset of the NLM's PubMed bibliographic database, CAM on PubMed features more than 230,000 references and abstracts for CAM-related articles from scientific journals. This database also provides links to the websites of over 1,800 journals, allowing users to view full-text articles. (A subscription or other fee may be required to access full-text articles.)\nOffice of Cancer Complementary and Alternative Medicine\nThe NCI Office of Cancer Complementary and Alternative Medicine (OCCAM) coordinates the activities of the NCI in the area of complementary and alternative medicine (CAM). OCCAM supports CAM cancer research and provides information about cancer-related CAM to health providers and the general public via the NCI website .\nNational Cancer Institute (NCI) Cancer Information Service\nU.S. residents may call the Cancer Information Service (CIS), NCI's contact center, toll free at 1-800-4-CANCER (1-800-422-6237) Monday through Friday from 9:00 am to 9:00 pm. A trained Cancer Information Specialist is available to answer your questions.\nFood and Drug Administration\nThe Food and Drug Administration (FDA) regulates drugs and medical devices to ensure that they are safe and effective.\n- Food and Drug Administration\n- 10903 New Hampshire Avenue\n- Silver Spring, MD 20993\n- Telephone: 1-888-463-6332 (toll free)\n- Website: http://www.fda.gov\nFederal Trade Commission\nThe Federal Trade Commission (FTC) enforces consumer protection laws. Publications available from the FTC include:\n- Who Cares: Sources of Information About Health Care Products and Services\n- Fraudulent Health Claims: Don’t Be Fooled\n- Consumer Response Center\n- Federal Trade Commission\n- 600 Pennsylvania Avenue, NW\n- Washington, DC 20580\n- Telephone: 1-877-FTC-HELP (1-877-382-4357) (toll free)\n- TTY (for deaf and hard of hearing callers): 202-326-2502\n- Website: http://www.ftc.gov"
+        }
+      ],
+      "raw_html_file": "raw_html\\e8bfcbfb1cf44a3ed90a.html"
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Financial Toxicity and Cancer",
+  "generated_at": "2026-08-31T07:15:23.254877+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Financial Toxicity and Cancer",
+      "title": "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Financial Toxicity and Cancer Treatment",
+      "url": "https://www.cancer.gov/about-cancer/managing-care/track-care-costs/financial-toxicity-hp-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "May 29, 2024",
+      "retrieved_at": "2026-08-31T07:06:48.524981+00:00",
+      "content_sha256": "ae19d2b132504b8ac7edb35259e7f63b99a55211391909021c0755dd09782885",
+      "section_count": 45,
+      "sections": [
+        {
+          "section": "Introduction",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Financial Toxicity Associated With Cancer Care—Background and Prevalence",
+            "Introduction"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A number of studies demonstrate that individuals with cancer are at higher risk of experiencing financial difficulty than are individuals without cancer.[ 1 - 7 ] This summary reviews the extant literature on financial toxicity among American cancer patients and survivors."
+        },
+        {
+          "section": "Background",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Financial Toxicity Associated With Cancer Care—Background and Prevalence",
+            "Background"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Cancer is one of the most costly medical conditions to treat in the United States.[ 8 ] Patients can receive multiple types of treatment, including surgery, radiation therapy, and systemic treatment. Historically, inpatient hospitalizations have been the major drivers of the costs of cancer care. Compared to a decade ago, patients with cancer are receiving increasingly expensive chemotherapy and biologics, both alone and in combination.[ 9 , 10 ] The use of expensive supportive agents and hematopoietic growth factors has also increased.[ 9 ] The list price of newly introduced systemic therapies and supportive drug-based treatments is growing,[ 9 - 11 ] and prices of both infusion and oral drugs continue to increase after product launch.[ 12 , 13 ] Although prices can vary dramatically among treatments, often data are lacking about the differences in outcomes. Prices higher than $10,000 a month for individual drugs and biologic agents are common.\nAt the same time, commercial insurers in the United States are shifting more direct medical care costs to patients through higher premiums, deductibles, and coinsurance and copayment rates. The 2016 Commonwealth Fund Biennial Health Insurance Survey indicated that 33% of insured adults aged 19 to 64 years had medical bill problems or accrued medical debt.[ 14 ] Infused chemotherapy and supportive agents covered under patients’ medical benefits entail high out-of-pocket costs; these costs also appear to be growing as care shifts from the community into hospital-based outpatient departments.\nOral cancer drug–based treatments are frequently covered under patient pharmacy benefits’ specialty tier, requiring high coinsurance that patients pay out of pocket. High cost-sharing plans, including tiered outpatient prescription formularies (i.e., copays that escalate depending on whether the drug is generic or branded, and by price) may be particularly troublesome for patients with cancer who are prescribed expensive oral chemotherapeutics. The proportion of health care plans with multitiered (>3) prescription formularies, in which expensive oral specialty drugs are associated with the highest cost sharing, increased from 3% in 2004 to nearly 88% in 2017.[ 15 ] These trends in treatment cost and changes in insurance coverage suggest that financial distress associated with acute and chronic cancer is highly prevalent, even among people with health insurance.\nCompared with individuals without a cancer history, cancer survivors have higher out-of-pocket costs, even many years after initial diagnosis,[ 1 - 4 ] reflecting ongoing cancer care and care for any late or lasting treatment effects. In addition, cancer survivors are more likely to report being unable to work because of their health,[ 1 - 4 ] including more missed work days or additional days spent in bed because of poor health.[ 1 - 4 ] Limited ability to work may also reduce employment-based health insurance options and resources to pay for medical care, further magnifying the financial impact of cancer. Combined, these factors contribute to financial toxicity —the phenomenon of adverse financial effects of cancer treatment.\nA number of other terms have been used to describe the financial impact of cancer, its treatment, and the lasting effects of treatment, including financial distress, financial stress, financial hardship, financial burden, economic burden, and economic hardship.[ 16 , 17 ]"
+        },
+        {
+          "section": "Etiology and Risk Factors",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Financial Toxicity Associated With Cancer Care—Background and Prevalence",
+            "Etiology and Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 24,
+          "text": "The interplay between cancer and financial distress is complex and related to a number of factors, as shown in Figure 1 .[ 18 , 19 ] Enlarge Figure 1. Conceptual framework relating severe illness, treatment choice, and health and financial outcomes. Credit: Scott Ramsey, MD, PhD.\nSeveral factors in a household at the time a member of that household is diagnosed with cancer influence vulnerability to financial distress. The risk of severe financial distress and the period between illness and these outcomes are influenced by the following factors:\n- Wage-earner status of the affected household member (primary, secondary, etc.).\n- Pre-illness debt load.\n- Assets.\n- Illness-associated costs.\n- The influence of the illness and its treatment on ability to work.\n- The presence and terms of the health and disability insurance of the patient.\n- Incomes of others in the household.\nAt the time of cancer diagnosis, several factors that determine the long-range risk of financial hardship include the following:\n- The general health and noncancer comorbidities of the patient.\n- Assets.\n- Existing debt.\n- Household income.\n- A household with income from other sources, such as a spouse or family member who works outside the home.\nComponents of these measures include material conditions that arise from increased out-of-pocket expenses, lower income from the inability to work, and psychological response to increased household expenses and reduced income.[ 16 , 17 ]\nThe material conditions of patients and their families that may be adversely affected by a cancer diagnosis and treatment are typically measured as follows:[ 16 , 17 ]\n- Out-of-pocket medical costs.\n- Out-of-pocket costs as a percentage of income.\n- Reduction in income and assets.\n- Medical debt.\n- Trouble paying medical bills and for necessities (e.g., housing, food).\n- Bankruptcy.\nIn addition, a patient's psychological response to increased financial burden associated with a cancer diagnosis and treatment is typically measured as financial stress, distress, or worry.[ 16 , 17 ]"
+        },
+        {
+          "section": "Prevalence",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Financial Toxicity Associated With Cancer Care—Background and Prevalence",
+            "Prevalence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "A number of studies have measured components of at least one aspect of financial hardship,[ 1 , 4 - 6 , 20 - 32 ] although methods and measures vary widely, limiting comparisons across studies. In addition, most studies that have evaluated financial hardship were conducted at single institutions, which are geographically defined, or in other selected samples of cancer survivors. Nationally representative estimates of financial hardship from survey data are generally reported for all cancer survivors, and scant information is available by cancer site or stage of disease at diagnosis. Household surveys generally include few newly diagnosed cancer patients, those with rare cancers, or those with projected short-term survival. Because data about financial hardship are not routinely collected and can be difficult to measure, few studies have reported incidence of financial hardship among the newly diagnosed or newly treated.\nThe following sections describe the prevalence of specific measures of financial hardship, including out-of-pocket costs, productivity loss, asset depletion and medical debt, bankruptcy, and financial distress and worry."
+        },
+        {
+          "section": "Prevalence of high out-of-pocket costs",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Financial Toxicity Associated With Cancer Care—Background and Prevalence",
+            "Prevalence",
+            "Prevalence of high out-of-pocket costs"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Out-of-pocket costs, one of the most common measures of financial hardship, are the amounts that patients pay directly for their medical care. They include insurance copayments, coinsurance, and deductibles for prescription and nonprescription medications, hospitalizations, outpatient services, and other types of medical care.[ 17 ] Cancer survivors generally report higher out-of-pocket expenditures than individuals without a cancer history.[ 1 - 3 , 7 , 20 ] In a nationally representative sample, recently diagnosed cancer survivors aged 18 to 64 years reported $1,107 in annual out-of-pocket spending, compared with $747 for previously diagnosed cancer survivors and $617 for those without a cancer history (all in 2010 dollars).[ 2 ]\nIn a study of long-term breast cancer survivors, 18% paid between $2,001 and $5,000 in out-of-pocket expenses, and 17% paid more than $5,000.[ 24 ] Cancer survivors are also more likely to report a high out-of-pocket burden (i.e., annual out-of-pocket health care spending >20% of annual income) than individuals without a cancer history,[ 4 - 6 ] although estimates vary widely, reflecting differences in population characteristics.\nIn a study conducted using the nationally representative Medical Expenditure Panel Survey (MEPS), 4.3% of cancer survivors aged 18 to 64 years reported a high out-of-pocket burden, compared with 3.4% of those without a cancer history.[ 4 ] In a study using the nationally representative Medicare Current Beneficiary Survey, 28% of cancer survivors reported a high out-of-pocket burden, compared with 16% of those without a cancer history.[ 6 ] Approximately 84% of the Medicare beneficiaries were aged 65 years and older."
+        },
+        {
+          "section": "Prevalence of productivity loss",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Financial Toxicity Associated With Cancer Care—Background and Prevalence",
+            "Prevalence",
+            "Prevalence of productivity loss"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Productivity loss is typically measured as the inability to work or pursue usual activities, days lost from work or disability days, reduction in work hours, and days spent in bed. Productivity loss may be quantified directly from employment data [ 22 , 31 ] or estimated with median wages.[ 1 - 3 ] Several studies have used data from the nationally representative MEPS. Using data from the Panel Study of Income Dynamics, a nationally representative, prospective, population-based observational study, one study found that the probability of being employed among people reporting a cancer diagnosis decreased 9 percentage points 3 years from the date of diagnosis, with no recovery for those alive in years 4 and 5. During this time, survivors’ labor market earnings dropped by up to 40%. Family income dropped by 20% during this time but recovered by year 4.[ 33 ] Another analysis reported that, among the employed, those receiving cancer care missed 22.3 more workdays per year than individuals without any cancer treatment.[ 34 ] An estimated productivity loss for adult survivors of adolescent and young adult cancers was $4,564 compared with $2,314 for adults without a cancer history (in 2011 dollars).[ 3 ] Employed cancer survivors reported that cancer interfered with physical tasks (25%) and mental tasks (14%) required by their jobs.[ 1 ]"
+        },
+        {
+          "section": "Prevalence of asset depletion and medical debt",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Financial Toxicity Associated With Cancer Care—Background and Prevalence",
+            "Prevalence",
+            "Prevalence of asset depletion and medical debt"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Several studies have reported the prevalence of asset depletion and medical debt for cancer survivors, although this information is rarely reported in relation to individuals without a cancer history or before and after a cancer diagnosis. Further, most estimates are based on self-report, and little validation work has been conducted.\nStudies of cancer survivors suggest that between 33% and 80% of the survivors have used savings to finance medical expenses,[ 20 , 24 , 28 , 30 , 32 ] and between 2% and 34% have borrowed money to pay for their care or have medical debt.[ 21 , 24 - 26 , 28 ] In a study of women with breast cancer, self-reported debt varied by race and ethnicity, with 58.9% of Black, 33.5% of Latina, 28.8% of Asian, and 27.1% of White women reporting treatment-related debt.[ 35 ] In a study of colon cancer survivors in Washington state, the mean debt among the survivors with debt was $26,860 (in 2009 dollars).[ 28 ] To cope with expenses, cancer survivors have reported decreasing spending on leisure activities, food, clothing, and utilities; selling stocks, investments, possessions, or property; and changing housing.[ 24 , 28 , 30 , 32 , 34 , 35 ]"
+        },
+        {
+          "section": "Incidence and prevalence of bankruptcy",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Financial Toxicity Associated With Cancer Care—Background and Prevalence",
+            "Prevalence",
+            "Incidence and prevalence of bankruptcy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "One of the few studies to measure the incidence of financial hardship reported that 1.7% of cancer survivors filed for bankruptcy in the 5 years after diagnosis.[ 27 ] Cancer survivors were 2.7 times more likely to file for bankruptcy than individuals without a cancer history.[ 27 ] Other studies have reported a prevalence of bankruptcy ranging from 1.2% to 3% among cancer survivors.[ 20 , 21 , 26 , 36 ]"
+        },
+        {
+          "section": "Prevalence of financial stress, distress, or worry",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Financial Toxicity Associated With Cancer Care—Background and Prevalence",
+            "Prevalence",
+            "Prevalence of financial stress, distress, or worry"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Several studies have found a prevalence of financial stress and worry about paying medical bills for cancer ranging from 22.5% in a nationally representative sample [ 21 ] to 64% in a sample of working-age cancer survivors.[ 21 , 23 ] About 45% of cancer survivors recruited from a single outpatient oncology clinic study reported wage concerns.[ 23 ] In one study, respondents reported being at least somewhat worried about finances as a result of breast cancer or its treatment, with 49.7% of Latina, 48.9% of Black, 35.2% of Asian, and 31.9% of White women reporting at least some worry.[ 35 ] Patients and their families may also experience difficulty and stress in interpreting complex medical bills, although this stress is less studied."
+        },
+        {
+          "section": "Prevalence of financial hardship as a composite measure",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Financial Toxicity Associated With Cancer Care—Background and Prevalence",
+            "Prevalence",
+            "Prevalence of financial hardship as a composite measure"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Several studies combine multiple components of financial hardship using summary measures, scores, or measures, including the Comprehensive Score for Financial Toxicity (COST) measure and the Personal Financial Wellness (PFW) Scale (formerly known as the InCharge Financial Distress/Financial Well-Being [IFDFW] Scale), but the results are rarely presented in relation to the general population and can be difficult to interpret.\nIn a study of patients with multiple myeloma undergoing treatment at a single academic cancer center, cancer survivors had a mean COST score of 23 (range, 0–44, with lower values equivalent to higher burden).[ 37 ] Another study used the IFDFW Scale in a convenience sample of cancer patients receiving radiation therapy or chemotherapy at a single outpatient cancer center and found an average financial distress score of 5 [ 17 ] (range, 1–10, with lower numbers indicating higher distress).[ 25 ] In other studies, financial burden scores were based on the count of affirmative responses to a series of questions,[ 26 , 30 , 34 ] and the mean number (e.g., 2.94 economic burden items related to work and hardship events) was calculated.[ 26 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Financial Toxicity Associated With Cancer Care—Background and Prevalence",
+            "Prevalence",
+            "Prevalence of financial hardship as a composite measure",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 37,
+          "text": "- Ekwueme DU, Yabroff KR, Guy GP, et al.: Medical costs and productivity losses of cancer survivors--United States, 2008-2011. MMWR Morb Mortal Wkly Rep 63 (23): 505-10, 2014. [PUBMED Abstract]\n- Guy GP, Ekwueme DU, Yabroff KR, et al.: Economic burden of cancer survivorship among adults in the United States. J Clin Oncol 31 (30): 3749-57, 2013. [PUBMED Abstract]\n- Guy GP, Yabroff KR, Ekwueme DU, et al.: Estimating the health and economic burden of cancer among those diagnosed as adolescents and young adults. Health Aff (Millwood) 33 (6): 1024-31, 2014. [PUBMED Abstract]\n- Guy GP, Yabroff KR, Ekwueme DU, et al.: Healthcare Expenditure Burden Among Non-elderly Cancer Survivors, 2008-2012. Am J Prev Med 49 (6 Suppl 5): S489-97, 2015. [PUBMED Abstract]\n- Bernard DS, Farr SL, Fang Z: National estimates of out-of-pocket health care expenditure burdens among nonelderly adults with cancer: 2001 to 2008. J Clin Oncol 29 (20): 2821-6, 2011. [PUBMED Abstract]\n- Davidoff AJ, Erten M, Shaffer T, et al.: Out-of-pocket health care expenditure burden for Medicare beneficiaries with cancer. Cancer 119 (6): 1257-65, 2013. [PUBMED Abstract]\n- Langa KM, Fendrick AM, Chernew ME, et al.: Out-of-pocket health-care expenditures among older Americans with cancer. Value Health 7 (2): 186-94, 2004 Mar-Apr. [PUBMED Abstract]\n- Soni A: Trends in the Five Most Costly Conditions among the U.S. Civilian Institutionalized Population, 2002 and 2012. Statistical Brief 470. Rockville, Md: Agency for Healthcare Research and Quality, 2015. Available online . Last accessed May 28, 2024.\n- Bradley CJ, Yabroff KR, Warren JL, et al.: Trends in the Treatment of Metastatic Colon and Rectal Cancer in Elderly Patients. Med Care 54 (5): 490-7, 2016. [PUBMED Abstract]\n- Shih YC, Smieliauskas F, Geynisman DM, et al.: Trends in the Cost and Use of Targeted Cancer Therapies for the Privately Insured Nonelderly: 2001 to 2011. J Clin Oncol 33 (19): 2190-6, 2015. [PUBMED Abstract]\n- Conti RM, Fein AJ, Bhatta SS: National trends in spending on and use of oral oncologics, first quarter 2006 through third quarter 2011. Health Aff (Millwood) 33 (10): 1721-7, 2014. [PUBMED Abstract]\n- Gordon N, Stemmer SM, Greenberg D, et al.: Trajectories of Injectable Cancer Drug Costs After Launch in the United States. J Clin Oncol 36 (4): 319-325, 2018. [PUBMED Abstract]\n- Shih YT, Xu Y, Liu L, et al.: Rising Prices of Targeted Oral Anticancer Medications and Associated Financial Burden on Medicare Beneficiaries. J Clin Oncol 35 (22): 2482-2489, 2017. [PUBMED Abstract]\n- 2016 Biennial Health Insurance Survey. New York, NY: The Commonwealth Fund, 2017. Available online. Last accessed May 28, 2024.\n- 2017 Employer Health Benefits Survey. San Francisco, Calif: Henry J. Kaiser Family Foundation, 2017. Available online. Last accessed May 28, 2024.\n- Tucker-Seeley RD, Yabroff KR: Minimizing the \"financial toxicity\" associated with cancer care: advancing the research agenda. J Natl Cancer Inst 108 (5): , 2016. [PUBMED Abstract]\n- de Souza JA, Yap B, Ratain MJ, et al.: User beware: we need more science and less art when measuring financial toxicity in oncology. J Clin Oncol 33 (12): 1414-5, 2015. [PUBMED Abstract]\n- Smith R, Clarke L, Berry K, et al.: A comparison of methods for linking health insurance claims with clinical records from a large cancer registry. [Abstract] Med Decis Making 21 (6): 530, 2001.\n- Fay S, Hurst E, White MJ: The household bankruptcy decision. Am Econ Rev 92 (3): 706-18, 2002.\n- Banegas MP, Guy GP, de Moor JS, et al.: For Working-Age Cancer Survivors, Medical Debt And Bankruptcy Create Financial Hardships. Health Aff (Millwood) 35 (1): 54-61, 2016. [PUBMED Abstract]\n- Yabroff KR, Dowling EC, Guy GP, et al.: Financial Hardship Associated With Cancer in the United States: Findings From a Population-Based Sample of Adult Cancer Survivors. J Clin Oncol 34 (3): 259-67, 2016. [PUBMED Abstract]\n- Chang S, Long SR, Kutikova L, et al.: Estimating the cost of cancer: results on the basis of claims data analyses for cancer patients diagnosed with seven types of cancer during 1999 to 2000. J Clin Oncol 22 (17): 3524-30, 2004. [PUBMED Abstract]\n- Ell K, Xie B, Wells A, et al.: Economic stress among low-income women with cancer: effects on quality of life. Cancer 112 (3): 616-25, 2008. [PUBMED Abstract]\n- Jagsi R, Pottow JA, Griffith KA, et al.: Long-term financial burden of breast cancer: experiences of a diverse cohort of survivors identified through population-based registries. J Clin Oncol 32 (12): 1269-76, 2014. [PUBMED Abstract]\n- Meisenberg BR, Varner A, Ellis E, et al.: Patient Attitudes Regarding the Cost of Illness in Cancer Care. Oncologist 20 (10): 1199-204, 2015. [PUBMED Abstract]\n- Meneses K, Azuero A, Hassey L, et al.: Does economic burden influence quality of life in breast cancer survivors? Gynecol Oncol 124 (3): 437-43, 2012. [PUBMED Abstract]\n- Ramsey S, Blough D, Kirchhoff A, et al.: Washington State cancer patients found to be at greater risk for bankruptcy than people without a cancer diagnosis. Health Aff (Millwood) 32 (6): 1143-52, 2013. [PUBMED Abstract]\n- Shankaran V, Jolly S, Blough D, et al.: Risk factors for financial hardship in patients receiving adjuvant chemotherapy for colon cancer: a population-based exploratory analysis. J Clin Oncol 30 (14): 1608-14, 2012. [PUBMED Abstract]\n- Regenbogen SE, Veenstra CM, Hawley ST, et al.: The personal financial burden of complications after colorectal cancer surgery. Cancer 120 (19): 3074-81, 2014. [PUBMED Abstract]\n- Veenstra CM, Regenbogen SE, Hawley ST, et al.: A composite measure of personal financial burden among patients with stage III colorectal cancer. Med Care 52 (11): 957-62, 2014. [PUBMED Abstract]\n- Wan Y, Gao X, Mehta S, et al.: Indirect costs associated with metastatic breast cancer. J Med Econ 16 (10): 1169-78, 2013. [PUBMED Abstract]\n- Zafar SY, Peppercorn JM, Schrag D, et al.: The financial toxicity of cancer treatment: a pilot study assessing out-of-pocket expenses and the insured cancer patient's experience. Oncologist 18 (4): 381-90, 2013. [PUBMED Abstract]\n- Zajacova A, Dowd JB, Schoeni RF, et al.: Employment and income losses among cancer survivors: Estimates from a national longitudinal survey of American families. Cancer 121 (24): 4425-32, 2015. [PUBMED Abstract]\n- Finkelstein EA, Tangka FK, Trogdon JG, et al.: The personal financial burden of cancer for the working-aged population. Am J Manag Care 15 (11): 801-6, 2009. [PUBMED Abstract]\n- Jagsi R, Ward KC, Abrahamse PH, et al.: Unmet need for clinician engagement regarding financial toxicity after diagnosis of breast cancer. Cancer 124 (18): 3668-3676, 2018. [PUBMED Abstract]\n- Meisenberg BR: The financial burden of cancer patients: time to stop averting our eyes. Support Care Cancer 23 (5): 1201-3, 2015. [PUBMED Abstract]\n- Huntington SF, Weiss BM, Vogl DT, et al.: Financial toxicity in insured patients with multiple myeloma: a cross-sectional pilot study. Lancet Haematol 2 (10): e408-16, 2015. [PUBMED Abstract]"
+        },
+        {
+          "section": "Risk Factors Associated With Financial Toxicity",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Risk Factors Associated With Financial Toxicity"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Several disease-related, sociodemographic, and health insurance–related factors have been implicated as contributors to increased risk of financial toxicity among cancer patients and survivors."
+        },
+        {
+          "section": "Disease- and Treatment-Related Risk Factors",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Risk Factors Associated With Financial Toxicity",
+            "Disease- and Treatment-Related Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Patients with advanced-stage cancers, cancers requiring chemotherapy or radiation therapy, and underlying comorbidities have a higher risk of financial hardship after diagnosis than those without these characteristics.[ 1 - 4 ] In a study of 1,556 cancer survivors identified from the 2010 National Health Interview Survey (NHIS) who responded to a single survey item assessing financial burden, survivors were more likely to report high financial burden if they received chemotherapy (47.2% vs. 30.8%; P < .001), received radiation therapy (44.7% vs. 31.4%; P < .001), and had recurrent or multiple cancers (40.9% vs. 33.7%; P < .049).[ 3 ]\nA similar association was seen in an analysis using data from the 2008–2010 Medical Expenditures Panel Survey (MEPS) Household Component to measure loss of employment and productivity in individuals with and without cancer.[ 1 ] In this study, survivors with more-aggressive disease processes (i.e., recurrent, multiple, or poor-prognosis cancers) had the highest rates of lost productivity relative to individuals without cancer. Specifically, individuals with cancers associated with short survival were less likely to be employed (66.8% vs. 81.4%; P < .0001) and more likely to face limitations on their ability to participate in activities at home, work, or school (17.5% vs. 8.5%; P < .001) than individuals without cancer. Productivity among survivors of breast, prostate, colorectal, and other single cancers was not as decreased as productivity among those with higher-risk disease.\nAnother study used multiple years of the MEPS (2008‒2013) to evaluate the associations between cancer history, chronic conditions, and productivity losses.[ 5 ] Adult cancer survivors were significantly more likely to have chronic conditions, including heart disease, diabetes, asthma, and arthritis, than were adults without a cancer history. They were also more likely to have multiple chronic conditions. Cancer survivors who had multiple chronic conditions were more likely to be limited in their ability to work than cancer survivors without these other conditions. Among cancer survivors, those with four or more chronic conditions had annual productivity loss of $9,099 (95% confidence interval [CI], $7,224‒$10,973) compared with those without any additional chronic conditions (in 2013 dollars).\nReceipt of cancer-directed treatment and the presence of other comorbidities were also found to be associated with higher out-of-pocket spending in the Medicare population. In a study using data from the Medicare Current Beneficiary Survey linked to Medicare claims (1997–2007), 2-year mean out-of-pocket spending was higher by $1,526 among patients receiving chemotherapy and by $1,470 among patients receiving radiation therapy compared with patients who did not receive treatment ( P < .01).[ 6 ]\nThese studies suggest that cancer survivors across a broad age range with advanced cancers, recurrent cancers, or cancers that require treatment (likely a marker of more-advanced disease) are more likely to face higher out-of-pocket spending and are at higher risk of financial hardship. Chronic treatment-related spending in combination with inability to regain employment and income resulting from progressive disease and debility may contribute to the association between advanced disease and greater financial burden."
+        },
+        {
+          "section": "Age",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Risk Factors Associated With Financial Toxicity",
+            "Sociodemographic Risk Factors",
+            "Age"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "A number of studies have consistently demonstrated an association between younger age at cancer diagnosis and higher risk of various types of financial hardship.[ 3 , 7 - 11 ] In the setting of a health shock such as cancer, younger individuals may be particularly vulnerable to financial hardships because of a lack of savings and assets, as well as competing financial obligations (e.g., children). Moreover, younger survivors lack the protection of Medicare coverage, placing some without insurance or with high-deductible health plans at risk of financial toxicity.\nIn a study of western Washington residents with and without cancer, bankruptcy rates were highest among both cancer survivors and noncancer controls aged 20 to 34 years (10.06 and 3.15 per 1,000 person-years, respectively) and lowest among survivors and controls aged 80 to 90 years (0.94 and 0.57 per 1,000 person-years, respectively).[ 7 ] More notably, the relative risk of bankruptcy filing for cancer survivors versus controls increased with each younger-age cohort. Other studies have similarly shown that younger individuals with cancer are at higher risk of financial hardship.[ 3 , 9 ]\nIn an analysis of data from the 1,202 adult cancer survivors identified from the 2011 MEPS Experiences with Cancer questionnaire, material financial hardship (defined as bankruptcy, loans, debt, inability to pay for care, or making other financial sacrifices) was more common among cancer survivors younger than 65 years compared with those aged 65 years and older (28.4% vs. 13.8%; P < .001).[ 10 ] In a study of 4,719 adult cancer survivors aged 18 to 64 years who completed the 2012 Livestrong survey, debt and bankruptcy were higher among survivors aged 45 to 54 years (risk ratio [RR], 1.66; P < .001) and aged 18 to 44 years (odds ratio [OR], 2.07; P < .001) compared with survivors aged 55 to 64 years.[ 8 ]\nAccumulating evidence suggests that adult survivors of childhood cancers may be especially vulnerable to financial hardship.[ 11 , 12 ] A cancer diagnosis during childhood can interfere with physical, emotional, and mental development and disrupt education and limit employment opportunities. Childhood cancer survivors also face elevated risk of second cancers and other late and lasting effects of their treatment(s). Research from the Childhood Cancer Survivor Study found that adult survivors of childhood cancers were more likely to spend at least 10% of their annual incomes on out-of-pocket medical costs than their siblings (10.2% vs. 2.9%; P < .001).[ 12 ]\nFinancial hardship among younger patients, however, may not solely result from higher out-of-pocket spending for cancer care. In a study using data from the 2001–2008 MEPS, a higher proportion of individuals aged 55 to 64 years reported spending 20% or more of their incomes on health care and premiums relative to younger individuals aged 18 to 39 years (10.1% vs. 7.1%; P = .05). This discrepancy suggests that high out-of-pocket spending alone does not lead to financial hardship."
+        },
+        {
+          "section": "Income",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Risk Factors Associated With Financial Toxicity",
+            "Sociodemographic Risk Factors",
+            "Income"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As might be expected, cancer patients in lower-income household groups are also at increased risk of treatment-related financial hardship. No clear income threshold below which financial hardship risk markedly increases has been identified because annual household income has been categorized differently across studies. For example, in one study of cancer patients aged 18 to 64 years identified from the 2012 Livestrong survey, income between $41,000 and $80,000 and income of $40,000 or below were both associated with increased risk of borrowing money or going into debt compared with income of $81,000 and higher (OR, 2.46 and 3.52, respectively; P < .0001).\nOther studies have shown increased risk of financial hardship among individuals with household incomes below $50,000 or $20,000.[ 9 , 13 ] However, there is currently no consensus about an absolute income below which patients face higher financial-hardship risk. In the Medicare population, this association also seems to hold true, with higher income (represented as percentages above the federal poverty level) being protective against high out-of-pocket cost burden.[ 6 ]"
+        },
+        {
+          "section": "Race and ethnicity",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Risk Factors Associated With Financial Toxicity",
+            "Sociodemographic Risk Factors",
+            "Race and ethnicity"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Race and ethnicity are strongly associated with disparities in cancer health outcomes, including survival.[ 14 , 15 ] A number of studies have explored the experiences of racial and ethnic minority groups and financial hardship after a cancer diagnosis.[ 16 - 18 ]\nIn a study using data from 3,242 lung and colorectal cancer survivors participating in the Cancer Care Outcomes Research and Surveillance Consortium (CanCORS) study, African American race was associated with an increased risk of self-reported economic burden relative to White race among patients with colorectal cancer (OR, 1.69; 95% CI, 1.24–2.30) after researchers adjusted for other sociodemographic and clinical factors.[ 17 ] This association was not seen among Hispanic survivors with either lung or colorectal cancer or African American survivors with lung cancer.\nIn another population-based survey of 3,133 women with breast cancer, Spanish-speaking women were at greater risk of financial decline compared with White women (OR, 2.76; P = .006). English-speaking Latina and African American women did not share this increased risk.[ 16 ] In this same study, African American and English-speaking Latina women were also more likely to report at least one privation as a result of breast cancer (i.e., economically motivated nonadherence or broader hardships related to medical expenses) compared with White women (OR, 2.62; P < .001 and OR, 2.17; P < .017, respectively), but this association was not seen with Spanish-speaking women.\nBoth analyses were adjusted for key demographic variables, including income, age, marital status, and education, which might also influence risk of financial hardship. Strong associations between minority race and ethnicity and financial hardship have not been demonstrated in other studies. However, these findings suggest that further research among cancer survivors is warranted."
+        },
+        {
+          "section": "Employment",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Risk Factors Associated With Financial Toxicity",
+            "Sociodemographic Risk Factors",
+            "Employment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Loss of productivity and employment can be considered both a risk factor for (predictor of) financial toxicity and a measure of financial toxicity (outcome). Several studies have shown that cancer patients experience loss of work, difficulty in returning to work, declines in income, and general loss of productivity as a result of cancer diagnoses.[ 1 , 18 - 20 ] Although employment and productivity loss can themselves be considered poor financial outcomes, employment loss has also been shown to be a risk factor for other material hardships, including debt and bankruptcy, whereas retirement has been shown to be protective.[ 8 , 10 ]\nIn an analysis of data from 1,202 adult cancer survivors from the 2011 MEPS Experiences with Cancer questionnaire, change in employment after diagnosis (switching to part-time work and taking extended leave) was associated with a substantially increased risk of material financial hardship compared with no change (49.1% vs. 20.2%; P < .001).[ 10 ] Particularly for the younger working-age population, loss of employment may be a mediator in the pathway between cancer diagnosis and financial toxicity.\nCompared with those without cancer, cancer survivors are more likely to report being unable to work, or being limited in the amount or type of work they can do, in both the short-term (1 year) and long-term (11+ years) postdiagnosis periods.[ 21 - 27 ] Estimates of nonemployment have typically shown that approximately 20% to 30% of people who worked before a cancer diagnosis did not return to work after a diagnosis.[ 28 ] People who earned a low income, were part of a racial or ethnic minority group, or had advanced-stage disease were less likely to return to work.[ 29 ] Several studies have shown that people who received chemotherapy were less likely to return to work. This may be because of the long-term side effects of therapy or a lack of accommodations by employers while the person was undergoing treatment.[ 27 , 30 - 33 ] People who underwent more extensive surgical procedures also were at risk of stopping work or declining employment.[ 34 - 36 ] For patients with cancer, including those treated in the palliative setting, work promotes a sense of normalcy and control during and after treatment and provides income and insurance benefits.[ 37 , 38 ]"
+        },
+        {
+          "section": "Health Insurance",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Risk Factors Associated With Financial Toxicity",
+            "Health Insurance"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Patients who lack health insurance coverage are at elevated risk of many adverse experiences, including substantial financial hardship, particularly in an era of rapidly rising costs for cancer care. However, the presence of health insurance does not completely shield enrollees from high levels of out-of-pocket spending on health care services.\nIn the Medicare population, access to supplemental insurance and Medicare Part D plans has helped shield patients from some of the out-of-pocket cost burden. In an analysis of data from MEPS 2002–2010, outpatient prescription costs for adults older than 65 years decreased by 43% after the introduction of Medicare Part D, while younger patients (not yet Medicare-eligible) did not experience a similar decline in out-of-pocket expenditures for prescription drugs over the same period.[ 39 ] Another study found that supplemental insurance decreased older Medicare beneficiaries' risk of high out-of-pocket expenditures on cancer care.[ 6 ] Whether these protections against high out-of-pocket spending may translate into other decreases in material financial hardship, financial distress, debt, and bankruptcy is not clearly known.\nAs the number of high-price orally administered anticancer drugs has increased, so has awareness of differences in coverage across infused and orally administered drugs for Medicare beneficiaries. Specifically, Medicare Part D, which covers orally administered or self-administered drugs, requires very high cost sharing for cancer drugs, with no out-of-pocket spending limit. One study showed that the price for a single fill of some of the most common cancer drugs under Medicare Part D (e.g., lenalidomide, ibrutinib, palbociclib, or enzalutamide) would cost a patient over $3,000 out-of-pocket. Cumulative spending over a year would exceed $10,000 for nearly all of these drugs.[ 40 ] In a study of fee-for-service Medicare beneficiaries treated at one of 11 geographically diverse academic medical centers, nearly one in three beneficiaries did not initiate the orally administered anticancer drugs prescribed by their doctors within 90 days of the prescription order date.[ 41 ] In that study, the initiation rate was 35% lower among individuals who did not have subsidies that lowered their out-of-pocket costs (adjusted RR, 0.65; 95% CI, 0.52–0.81), suggesting that costs influenced drug initiation.\nThe influence of type of insurance plan on the risk of financial hardship among patients younger than 65 years has not been thoroughly explored. One study found that patients with public insurance (Medicaid or Medicare) have an increased risk of financial hardship compared with patients who have private insurance (OR, 1.95; P < .0001).[ 8 ] However, having public health insurance may also be associated with lower savings and assets and, therefore, increased financial vulnerability, factors that were not controlled for in this analysis."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Risk Factors Associated With Financial Toxicity",
+            "Health Insurance",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 41,
+          "text": "- Dowling EC, Chawla N, Forsythe LP, et al.: Lost productivity and burden of illness in cancer survivors with and without other chronic conditions. Cancer 119 (18): 3393-401, 2013. [PUBMED Abstract]\n- Allaire BT, Ekwueme DU, Guy GP, et al.: Medical Care Costs of Breast Cancer in Privately Insured Women Aged 18-44 Years. Am J Prev Med 50 (2): 270-7, 2016. [PUBMED Abstract]\n- Kent EE, Forsythe LP, Yabroff KR, et al.: Are survivors who report cancer-related financial problems more likely to forgo or delay medical care? Cancer 119 (20): 3710-7, 2013. [PUBMED Abstract]\n- Regenbogen SE, Veenstra CM, Hawley ST, et al.: The personal financial burden of complications after colorectal cancer surgery. Cancer 120 (19): 3074-81, 2014. [PUBMED Abstract]\n- Guy GP, Yabroff KR, Ekwueme DU, et al.: Economic Burden of Chronic Conditions Among Survivors of Cancer in the United States. J Clin Oncol 35 (18): 2053-2061, 2017. [PUBMED Abstract]\n- Davidoff AJ, Erten M, Shaffer T, et al.: Out-of-pocket health care expenditure burden for Medicare beneficiaries with cancer. Cancer 119 (6): 1257-65, 2013. [PUBMED Abstract]\n- Ramsey S, Blough D, Kirchhoff A, et al.: Washington State cancer patients found to be at greater risk for bankruptcy than people without a cancer diagnosis. Health Aff (Millwood) 32 (6): 1143-52, 2013. [PUBMED Abstract]\n- Banegas MP, Guy GP, de Moor JS, et al.: For Working-Age Cancer Survivors, Medical Debt And Bankruptcy Create Financial Hardships. Health Aff (Millwood) 35 (1): 54-61, 2016. [PUBMED Abstract]\n- Shankaran V, Jolly S, Blough D, et al.: Risk factors for financial hardship in patients receiving adjuvant chemotherapy for colon cancer: a population-based exploratory analysis. J Clin Oncol 30 (14): 1608-14, 2012. [PUBMED Abstract]\n- Yabroff KR, Dowling EC, Guy GP, et al.: Financial Hardship Associated With Cancer in the United States: Findings From a Population-Based Sample of Adult Cancer Survivors. J Clin Oncol 34 (3): 259-67, 2016. [PUBMED Abstract]\n- Nathan PC, Henderson TO, Kirchhoff AC, et al.: Financial Hardship and the Economic Effect of Childhood Cancer Survivorship. J Clin Oncol 36 (21): 2198-2205, 2018. [PUBMED Abstract]\n- Nipp RD, Kirchhoff AC, Fair D, et al.: Financial Burden in Survivors of Childhood Cancer: A Report From the Childhood Cancer Survivor Study. J Clin Oncol 35 (30): 3474-3481, 2017. [PUBMED Abstract]\n- Chino F, Peppercorn J, Taylor DH, et al.: Self-reported financial burden and satisfaction with care among patients with cancer. Oncologist 19 (4): 414-20, 2014. [PUBMED Abstract]\n- Sharrocks K, Spicer J, Camidge DR, et al.: The impact of socioeconomic status on access to cancer clinical trials. Br J Cancer 111 (9): 1684-7, 2014. [PUBMED Abstract]\n- DiMartino LD, Birken SA, Mayer DK: The Relationship Between Cancer Survivors' Socioeconomic Status and Reports of Follow-up Care Discussions with Providers. J Cancer Educ 32 (4): 749-755, 2017. [PUBMED Abstract]\n- Jagsi R, Pottow JA, Griffith KA, et al.: Long-term financial burden of breast cancer: experiences of a diverse cohort of survivors identified through population-based registries. J Clin Oncol 32 (12): 1269-76, 2014. [PUBMED Abstract]\n- Pisu M, Kenzik KM, Oster RA, et al.: Economic hardship of minority and non-minority cancer survivors 1 year after diagnosis: another long-term effect of cancer? Cancer 121 (8): 1257-64, 2015. [PUBMED Abstract]\n- Jagsi R, Ward KC, Abrahamse PH, et al.: Unmet need for clinician engagement regarding financial toxicity after diagnosis of breast cancer. Cancer 124 (18): 3668-3676, 2018. [PUBMED Abstract]\n- Whitney RL, Bell JF, Reed SC, et al.: Predictors of financial difficulties and work modifications among cancer survivors in the United States. J Cancer Surviv 10 (2): 241-50, 2016. [PUBMED Abstract]\n- Palmer JD, Patel TT, Eldredge-Hindy H, et al.: Patients Undergoing Radiation Therapy Are at Risk of Financial Toxicity: A Patient-based Prospective Survey Study. Int J Radiat Oncol Biol Phys 101 (2): 299-305, 2018. [PUBMED Abstract]\n- Yabroff KR, Lawrence WF, Clauser S, et al.: Burden of illness in cancer survivors: findings from a population-based national sample. J Natl Cancer Inst 96 (17): 1322-30, 2004. [PUBMED Abstract]\n- Ekenga CC, Pérez M, Margenthaler JA, et al.: Early-stage breast cancer and employment participation after 2 years of follow-up: A comparison with age-matched controls. Cancer 124 (9): 2026-2035, 2018. [PUBMED Abstract]\n- Blinder VS, Patil S, Thind A, et al.: Return to work in low-income Latina and non-Latina white breast cancer survivors: a 3-year longitudinal study. Cancer 118 (6): 1664-74, 2012. [PUBMED Abstract]\n- Jagsi R, Hawley ST, Abrahamse P, et al.: Impact of adjuvant chemotherapy on long-term employment of survivors of early-stage breast cancer. Cancer 120 (12): 1854-62, 2014. [PUBMED Abstract]\n- Earle CC, Chretien Y, Morris C, et al.: Employment among survivors of lung cancer and colorectal cancer. J Clin Oncol 28 (10): 1700-5, 2010. [PUBMED Abstract]\n- Veenstra CM, Regenbogen SE, Hawley ST, et al.: Association of Paid Sick Leave With Job Retention and Financial Burden Among Working Patients With Colorectal Cancer. JAMA 314 (24): 2688-90, 2015 Dec 22-29. [PUBMED Abstract]\n- McLennan V, Ludvik D, Chambers S, et al.: Work after prostate cancer: a systematic review. J Cancer Surviv 13 (2): 282-291, 2019. [PUBMED Abstract]\n- Mujahid MS, Janz NK, Hawley ST, et al.: Racial/ethnic differences in job loss for women with breast cancer. J Cancer Surviv 5 (1): 102-11, 2011. [PUBMED Abstract]\n- Tevaarwerk AJ, Lee JW, Terhaar A, et al.: Working after a metastatic cancer diagnosis: Factors affecting employment in the metastatic setting from ECOG-ACRIN's Symptom Outcomes and Practice Patterns study. Cancer 122 (3): 438-46, 2016. [PUBMED Abstract]\n- Alleaume C, Bendiane MK, Bouhnik AD, et al.: Chronic neuropathic pain negatively associated with employment retention of cancer survivors: evidence from a national French survey. J Cancer Surviv 12 (1): 115-126, 2018. [PUBMED Abstract]\n- Blinder V, Eberle C, Patil S, et al.: Women With Breast Cancer Who Work For Accommodating Employers More Likely To Retain Jobs After Treatment. Health Aff (Millwood) 36 (2): 274-281, 2017. [PUBMED Abstract]\n- Blinder V, Patil S, Eberle C, et al.: Early predictors of not returning to work in low-income breast cancer survivors: a 5-year longitudinal study. Breast Cancer Res Treat 140 (2): 407-16, 2013. [PUBMED Abstract]\n- Mujahid MS, Janz NK, Hawley ST, et al.: The impact of sociodemographic, treatment, and work support on missed work after breast cancer diagnosis. Breast Cancer Res Treat 119 (1): 213-20, 2010. [PUBMED Abstract]\n- Jagsi R, Abrahamse PH, Lee KL, et al.: Treatment decisions and employment of breast cancer patients: Results of a population-based survey. Cancer 123 (24): 4791-4799, 2017. [PUBMED Abstract]\n- Dahl S, Loge JH, Berge V, et al.: Influence of radical prostatectomy for prostate cancer on work status and working life 3 years after surgery. J Cancer Surviv 9 (2): 172-9, 2015. [PUBMED Abstract]\n- Dahl S, Steinsvik EA, Dahl AA, et al.: Return to work and sick leave after radical prostatectomy: a prospective clinical study. Acta Oncol 53 (6): 744-51, 2014. [PUBMED Abstract]\n- Blinder VS, Murphy MM, Vahdat LT, et al.: Employment after a breast cancer diagnosis: a qualitative study of ethnically diverse urban women. J Community Health 37 (4): 763-72, 2012. [PUBMED Abstract]\n- Glare PA, Nikolova T, Alickaj A, et al.: Work Experiences of Patients Receiving Palliative Care at a Comprehensive Cancer Center: Exploratory Analysis. J Palliat Med 20 (7): 770-773, 2017. [PUBMED Abstract]\n- Kircher SM, Johansen ME, Nimeiri HS, et al.: Impact of Medicare Part D on out-of-pocket drug costs and medical use for patients with cancer. Cancer 120 (21): 3378-84, 2014. [PUBMED Abstract]\n- Dusetzina SB: Your Money or Your Life - The High Cost of Cancer Drugs under Medicare Part D. N Engl J Med 386 (23): 2164-2167, 2022. [PUBMED Abstract]\n- Dusetzina SB, Huskamp HA, Rothman RL, et al.: Many Medicare Beneficiaries Do Not Fill High-Price Specialty Drug Prescriptions. Health Aff (Millwood) 41 (4): 487-496, 2022. [PUBMED Abstract]"
+        },
+        {
+          "section": "Consequences of Financial Toxicity Among Cancer Patients",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Consequences of Financial Toxicity Among Cancer Patients"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Several retrospective cohort and cross-sectional studies have investigated the associations among financial burden from cancer care and treatment adherence, quality of life, satisfaction with care, incurring debt, filing for bankruptcy, and health outcomes. Cohort and cross-sectional studies are prone to study biases inherent to such study designs; therefore, caution must be taken when interpreting the reported findings. So far, no evidence from randomized controlled clinical trials is available to guide patients and physicians about outcomes related to financial toxicity among individuals diagnosed with cancer."
+        },
+        {
+          "section": "Access and Adherence to Treatments",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Consequences of Financial Toxicity Among Cancer Patients",
+            "Access and Adherence to Treatments"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Several retrospective cohort studies have evaluated the effect of prescription copayment amounts for cancer drugs on patient compliance with therapy.[ 1 , 2 ]\nA cross-sectional study using data from the 2011 to 2014 National Health Interview Survey found that individuals aged 18 to 64 years with a recent or previous cancer diagnosis were more likely to report changing their prescription drug use (e.g., not filling prescriptions or skipping doses) for financial reasons than individuals without a history of cancer.[ 3 ] Another study examined the association between imatinib copayment and medication adherence among patients with chronic myeloid leukemia, from 2002 to 2011, using MarketScan health plan claims.[ 1 ] Over the study period, monthly copayments for imatinib ranged from $0 to $4,792, with a mean and median of $108 and $30, respectively. Patients in the highest quantile of monthly copayments for imatinib (mean, $53) compared with patients in the lowest quantile (mean, $17) had a statistically significant adjusted risk ratio (RR) of 1.70 (95% confidence interval [CI], 1.30–2.22) for discontinuing imatinib during the first 180 days of treatment.[ 1 ] Similarly, patients with higher copayments for imatinib (vs. the lower copayment group) had an adjusted RR of 1.42 (95% CI, 1.19–1.69) for nonadherence to their imatinib therapy.[ 1 ]\nOther studies examined the association between copayment amounts for adjuvant endocrine therapy, aromatase inhibitors, and tamoxifen and noncompliance in women with breast cancer.[ 2 , 4 , 5 ] Studies have been relatively consistent in showing that at the highest levels of copayment, cancer patients become less likely to take cancer-related medications on a daily basis (nonadherence), or they discontinue their medications over the long term (nonpersistence of use). Reduced adherence to cancer medications may be worse when the total out-of-pocket cost of all prescription drugs taken by the patient is considered.[ 5 ]\nA cross-sectional survey study of adult patients (N = 300) receiving cancer therapy at Duke Cancer Institute found that 16% of patients reported high or overwhelming financial distress, 27% reported medication nonadherence, and 4.67% reported chemotherapy nonadherence.[ 6 ] Among patients reporting medication nonadherence, 14% specified skipping medication doses to make the prescription last longer, 11% stated they took less medication than prescribed to make the prescription last longer, and 22% indicated that they did not fill a prescription because of cost.[ 6 ] Among the patients reporting chemotherapy nonadherence, 1% skipped chemotherapy doses to make the prescription last longer, 1.67% took less chemotherapy to make the prescription last longer, and 3.33% did not fill a chemotherapy prescription because of cost.\nThis study also found that an increased likelihood of nonadherence was associated with the following characteristics:\n- Previous out-of-pocket cost discussion (adjusted odds ratio [OR], 2.58; 95% CI, 1.14–5.85).\n- Higher financial burden than expected (adjusted OR, 2.90; 95% CI, 1.42–5.89).\n- High financial distress (adjusted OR, 1.64; 95% CI, 1.38–1.96).\nA statistically significant decreased risk of nonadherence was associated with having private insurance (adjusted OR, 0.31; 95% CI, 0.14–0.72).\nA cross-sectional cohort study of 10,508 patients who started oral chemotherapy between 2007 and 2009 examined the association between prescription abandonment rates and cost sharing.[ 7 ] Abandonment was defined as a paid prescription claim gap of more than 90 days. An adjusted analysis found that claims with cost sharing of $251 to $350 had 2.3 times the likelihood of abandonment (95% CI, 1.59–3.36); $351 to $500 had 3.28 times the likelihood of abandonment (95% CI, 2.20–4.88); and more than $500 had 4.46 times the likelihood of abandonment (95% CI, 3.80–5.22) when compared with cost sharing of $100 or less.[ 7 ] Additionally, the study identified a substantially higher proportion of patients who paid more than $500 out of pocket for their first oral chemotherapy claim in the Medicare group compared with the commercially insured group (45.5% vs. 10.7%; P < .001).[ 7 ]\nAnecdotal reports also suggest that terminally ill cancer patients are foregoing the opportunity to obtain lethal doses of barbiturates in states with death-with-dignity laws because the price of these generic medications has increased to approximately $3,000 for a typical prescription.[ 8 ]"
+        },
+        {
+          "section": "Quality of Life and Perceived Quality of Care",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Consequences of Financial Toxicity Among Cancer Patients",
+            "Quality of Life and Perceived Quality of Care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "In a prospective, observational, population- and health care systems–based cohort study, the associations between financial burden, quality of life, and perceived quality of care were investigated using Cancer Care Outcomes Research and Surveillance Consortium (CanCORS) II data. Patient-reported health-related quality of life was measured using the EuroQol five-dimensions questionnaire (EQ-5D).\nFrom 2003 to 2006, patients were enrolled in the U.S. CanCORS study within 3 months of receiving either a colorectal or lung cancer diagnosis. For the CanCORS II study, among the surviving CanCORS patients, one disease-free subcohort and one advanced-disease subcohort were selected and resurveyed about their quality of life. The median time from diagnosis was 7.3 years. An adjusted structural equation modeling analysis found that higher financial distress was negatively associated with health-related quality of life (adjusted beta, -0.06 per burden category; 95% CI, -0.08 to -0.05); however, financial distress was not associated with perceived quality of care (OR, 1.09; 95% CI, 0.93–1.29).[ 9 ] A lower perceived quality of care was associated with a poorer health-related quality of life (OR, 0.85; 95% CI, 0.79–0.92).[ 9 ] Moreover, having advanced disease was strongly associated with a poorer health-related quality of life (OR, -0.04; 95% CI, -0.08 to -0.01), but no association was observed with financial distress (OR, 1.25; 95% CI, 0.79–1.98).[ 9 ]\nAnother cohort study using CanCORS data [ 10 ] found that financial strain was negatively associated with health-related quality of life and positively associated with symptom burden among patients with a lung or colorectal cancer diagnosis. Among patients with lung cancer, those with fewer than 12 months of financial reserves to continue their current standard of living reported increased symptom burden (adjusted mean difference, 5.25; 95% CI, 3.29–0.22), increased pain (adjusted mean difference, 5.03; 95% CI, 3.29–7.22), and lower quality of life (adjusted mean difference, 4.70; 95% CI, 2.82–6.58) compared with patients with more than 12 months of financial reserves.[ 10 ] Similarly, colorectal cancer patients with fewer than 12 months of financial reserves to continue to live at their current standard of living reported increased symptom burden (adjusted mean difference, 5.31; 95% CI, 3.58–7.04), increased pain (adjusted mean difference, 3.45; 95% CI, 1.25–5.66), and lower quality of life (adjusted mean difference, 5.22; 95% CI, 3.61–6.82) compared with those who reported more than 12 months of financial reserves.[ 10 ]\nSeveral cross-sectional studies evaluated the impact of the financial burden of cancer care on patient quality of life. A survey analysis involving 149 patients with advanced-stage cancer in Texas at a public hospital (n = 72) and a comprehensive cancer center (n = 77) found that the median intensity of financial distress was double among patients treated in a public hospital compared with those treated in a comprehensive cancer center (on a scale of 0 = best to 10 = worst; 8 vs. 4; P = .0003).[ 11 ] More than 30% of patients perceived financial distress as being more severe than physical, emotional, social, or family distress.[ 11 ] Additionally, advanced-stage cancer patients in the public hospital reported the impact of financial distress relative to the impact of social and family distress as \"strongly agree\", \"agree\", or \"somewhat agree\" more frequently compared with patients treated in the comprehensive cancer center (54% vs. 33%, P = .0085).[ 11 ] Financial distress was inversely correlated with quality of life ( r = -0.23; P = .0057).\nAnother study analyzed answers to the question, \"To what degree has cancer caused financial problems for you and your family?\" Among 2,108 patients from the 2010 National Health Interview Survey (NHIS), those who responded \"a lot\" (8.6%) were more likely to report the following when compared with those who reported no financial burden:[ 12 ]\n- Poor physical health (18.6% vs. 4.3%; P < .001).\n- Poor mental health (8.3% vs. 1.8%; P < .001).\n- Poor satisfaction with social activities and relationships (11.8% vs. 3.6%; P < .001).\n- Less likely to report their quality of life as at least Good (adjusted OR, 9.24; 95% CI, 0.14–0.40).\nUsing the 2011 Medical Expenditure Panel Survey (MEPS) data, one study [ 13 ] found that among 1,380 identified cancer survivors, 28.7% reported cancer-related financial burden. Additionally, cancer survivors who reported financial burden when compared with those who reported no financial burden were found to have the following outcomes:[ 13 ]\n- A lower Physical Component Score (beta, -2.45; 95% CI, -3.75 to -0.23).\n- A lower Mental Component Score (beta, -3.05; 95% CI, -4.42 to -1.67).\n- A greater likelihood of experiencing a depressed mood (adjusted OR, 1.95; 95% CI, 1.29–2.95).\n- A greater likelihood of cancer recurrence–related worries (adjusted OR, 3.54; 95% CI, 2.65–4.72)."
+        },
+        {
+          "section": "Satisfaction With Care",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Consequences of Financial Toxicity Among Cancer Patients",
+            "Satisfaction With Care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A review study documented that approximately 60% of people across a wide range of studies reported positive attitudes about cost-related discussions with their health care providers. Despite this finding, less than one-third of patients have had these discussions.[ 14 ] One study among women with breast cancer documented unmet need for engagement. Specifically, 72.8% of the 945 women who expressed worrying about finances at least somewhat indicated that cancer physicians and their staff did not help \"at least somewhat\".[ 15 ] Additionally, 55.4% of the 523 women in the same study who expressed a desire to talk to health care providers about the impact of breast cancer on employment or finances reported that they had not had a relevant discussion with their cancer physicians, primary care providers, social workers, or other professionals.[ 15 ]"
+        },
+        {
+          "section": "Adverse Financial Events, Debt, and Bankruptcy",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Consequences of Financial Toxicity Among Cancer Patients",
+            "Adverse Financial Events, Debt, and Bankruptcy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "The impact of the financial burden of cancer care on adverse financial events, debt, and bankruptcy has been studied.[ 16 - 18 ]\nOne cross-sectional study, using the Livestrong 2012 survey data of 4,719 cancer survivors, reported that 63.8% of the survivors had worried about paying large bills related to cancer, 33.6% had gone into debt, 3.1% had filed for bankruptcy, and 39.7% had to make other kinds of financial sacrifices because of their cancer, its treatment, or the lasting effects of treatment.[ 16 ] Of those who reported going into debt, 9.1% had filed for bankruptcy, 55% incurred debt that totaled $10,000 or more, and 68% had to make other kinds of financial sacrifices.[ 16 ]\nFurthermore, this study found that an increased likelihood of filing for bankruptcy was associated with the following characteristics of cancer patients:[ 16 ]\n- Younger age (adjusted OR, 18–44 years, 1.81; 95% CI, 1.10–2.98; adjusted OR, 45–54 years, 1.86; 95% CI, 1.15–3.01; vs. 55–64 years).\n- Lower household income (adjusted OR, ≤$40,000, 4.50; 95% CI, 2.56–7.93; adjusted OR, $41,000–$80,000, 2.80; 95% CI, 1.71–4.60; vs. ≥$80,000).\n- Public health insurance (adjusted OR, 1.82; 95% CI, 1.08–3.06; vs. private health insurance).\nSimilar patient characteristics were reported for those going into medical debt.[ 16 ]\nA retrospective cohort study, using data from the 1995–2009 western Washington Surveillance, Epidemiology, and End Results (SEER) Cancer Registry–linked U.S. Bankruptcy Court for the Western District of Washington, found that patients with cancer diagnoses were more likely (hazard ratio [HR], 2.65; P < .05) to file for bankruptcy compared with patients without cancer.[ 17 ] Patients with thyroid cancer had the highest HR (HR, 3.46; P < .05).[ 17 ]\nAnother retrospective cohort study evaluated the risk of adverse financial events among patients with cancer. Investigators used data from the western Washington SEER Cancer Registry linked with TransUnion quarterly credit records, along with data from a control group selected from state voter registration records.[ 18 ] Adverse financial events reported on credit records included an inability to pay bills (collections or charge-offs), tax liens and delinquent mortgage payments, and foreclosures or repossessions of personal property. Also evaluated were past-due credit card payments as a secondary outcome. The rate of adverse financial events was nearly twice as high for people with cancer than for the control group (4.3% vs. 2.4%; P < .001). The severity of adverse financial events was greater for those with cancer than for the control group (3.8% vs. 1.9%). In addition, Black patients were more likely than White patients to experience adverse financial events (15.2% vs. 4.2%; P < .001).\nA clearly worded grading system has been developed to identify different levels of financial toxicity.[ 19 ] The usefulness of this system for categorizing and monitoring financial outcomes after cancer treatment has not been evaluated."
+        },
+        {
+          "section": "Impact on Caregivers",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Consequences of Financial Toxicity Among Cancer Patients",
+            "Impact on Caregivers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Informal cancer caregivers often share in the experience of financial toxicity by spending money on food, medications, and other patient needs in addition to taking time off from work to provide logistical, emotional, and medical support. In a recent survey of over 5,000 cancer patients whose caregivers were friends or family members, approximately 25% reported that their caregivers made significant employment changes after the cancer diagnosis, and 8% of survivors had caregivers who took at least 2 months of leave from work.[ 20 ] Evidence suggests that the cumulative financial and employment impacts of cancer caregiving can lead to higher caregiver burden, poorer quality of life, and poorer mental health among cancer caregivers.[ 21 - 27 ]\nTerminally ill cancer patients from households reporting financial hardship had a higher likelihood of receiving intensive life-prolonging care (defined as receiving ventilation or resuscitation to prolong life) than did those who did not report financial hardship (OR, 3.22; 95% CI, 1.38−7.53). In a longitudinal survey of 281 terminally ill cancer patients, 29% reported using most or all of their household’s financial savings because of illness.[ 28 ]"
+        },
+        {
+          "section": "Survival",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Consequences of Financial Toxicity Among Cancer Patients",
+            "Survival"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In one retrospective cohort study, using data in the western Washington SEER Cancer Registry, cancer patients who filed for bankruptcy had an increased risk of mortality compared with those who did not file for bankruptcy (adjusted HR, 1.79; 95% CI, 1.64–1.96).[ 29 ] Hazard ratios were highest for patients with prostate cancer (adjusted HR, 2.07; 95% CI, 1.56–2.74) and colorectal cancer (adjusted HR, 2.47; 95% CI, 1.85–3.31).[ 29 ]"
+        },
+        {
+          "section": "Internal and External Validity Concerns With Observational Studies",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Consequences of Financial Toxicity Among Cancer Patients",
+            "Internal and External Validity Concerns With Observational Studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Data from randomized controlled trials offer the strongest evidence for establishing the efficacy of treatment on cancer outcomes. However, because cancer patients cannot ethically be subjected to financial toxicity through randomization, the current body of evidence is primarily from observational data, particularly from cross-sectional and cohort studies. Large nationally representative surveys provide the best estimates of the prevalence of certain conditions.\nHowever, observational studies are prone to biases that may limit the validity of their findings. Several sources of bias are likely to be particularly important in observational studies assessing the association of financial toxicity with future outcomes, creating a challenge in interpreting the results of such studies.\nIn cross-sectional survey studies, high nonresponse rates may lead to possible nonresponse bias in reported estimates if the potential answers of nonrespondents vary from those who did respond. Another source of bias in survey research is reporting bias, which occurs when respondents reveal selective information that they believe is more socially desirable.\nAnother source of bias in observational studies is reverse causality, which may weaken any true association between financial toxicity and its potentially related outcomes. In one study,[ 29 ] investigators provided an example of how reverse causality should be addressed in this type of work. In this instance, the authors performed a sensitivity analysis limiting their sample to early-stage cancer patients who declared bankruptcy within 1 year of diagnosis. They fit their previously developed Cox models, regressing survival on bankruptcy filing status, using this new population sample."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Consequences of Financial Toxicity Among Cancer Patients",
+            "Internal and External Validity Concerns With Observational Studies",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 29,
+          "text": "- Dusetzina SB, Winn AN, Abel GA, et al.: Cost sharing and adherence to tyrosine kinase inhibitors for patients with chronic myeloid leukemia. J Clin Oncol 32 (4): 306-11, 2014. [PUBMED Abstract]\n- Neugut AI, Subar M, Wilde ET, et al.: Association between prescription co-payment amount and compliance with adjuvant hormonal therapy in women with early-stage breast cancer. J Clin Oncol 29 (18): 2534-42, 2011. [PUBMED Abstract]\n- Zheng Z, Han X, Guy GP, et al.: Do cancer survivors change their prescription drug use for financial reasons? Findings from a nationally representative sample in the United States. Cancer 123 (8): 1453-1463, 2017. [PUBMED Abstract]\n- Farias AJ, Du XL: Association Between Out-Of-Pocket Costs, Race/Ethnicity, and Adjuvant Endocrine Therapy Adherence Among Medicare Patients With Breast Cancer. J Clin Oncol 35 (1): 86-95, 2017. [PUBMED Abstract]\n- Kim J, Rajan SS, Du XL, et al.: Association between financial burden and adjuvant hormonal therapy adherence and persistent use for privately insured women aged 18-64 years in BCBS of Texas. Breast Cancer Res Treat 169 (3): 573-586, 2018. [PUBMED Abstract]\n- Bestvina CM, Zullig LL, Rushing C, et al.: Patient-oncologist cost communication, financial distress, and medication adherence. J Oncol Pract 10 (3): 162-7, 2014. [PUBMED Abstract]\n- Streeter SB, Schwartzberg L, Husain N, et al.: Patient and plan characteristics affecting abandonment of oral oncolytic prescriptions. J Oncol Pract 7 (3 Suppl): 46s-51s, 2011. [PUBMED Abstract]\n- Shankaran V, LaFrance RJ, Ramsey SD: Drug Price Inflation and the Cost of Assisted Death for Terminally Ill Patients-Death With Indignity. JAMA Oncol 3 (1): 15-16, 2017. [PUBMED Abstract]\n- Zafar SY, McNeil RB, Thomas CM, et al.: Population-based assessment of cancer survivors' financial burden and quality of life: a prospective cohort study. J Oncol Pract 11 (2): 145-50, 2015. [PUBMED Abstract]\n- Lathan CS, Cronin A, Tucker-Seeley R, et al.: Association of Financial Strain With Symptom Burden and Quality of Life for Patients With Lung or Colorectal Cancer. J Clin Oncol 34 (15): 1732-40, 2016. [PUBMED Abstract]\n- Delgado-Guay M, Ferrer J, Rieber AG, et al.: Financial Distress and Its Associations With Physical and Emotional Symptoms and Quality of Life Among Advanced Cancer Patients. Oncologist 20 (9): 1092-8, 2015. [PUBMED Abstract]\n- Fenn KM, Evans SB, McCorkle R, et al.: Impact of financial burden of cancer on survivors' quality of life. J Oncol Pract 10 (5): 332-8, 2014. [PUBMED Abstract]\n- Kale HP, Carroll NV: Self-reported financial burden of cancer care and its effect on physical and mental health-related quality of life among US cancer survivors. Cancer 122 (8): 283-9, 2016. [PUBMED Abstract]\n- Shih YT, Chien CR: A review of cost communication in oncology: Patient attitude, provider acceptance, and outcome assessment. Cancer 123 (6): 928-939, 2017. [PUBMED Abstract]\n- Jagsi R, Ward KC, Abrahamse PH, et al.: Unmet need for clinician engagement regarding financial toxicity after diagnosis of breast cancer. Cancer 124 (18): 3668-3676, 2018. [PUBMED Abstract]\n- Banegas MP, Guy GP, de Moor JS, et al.: For Working-Age Cancer Survivors, Medical Debt And Bankruptcy Create Financial Hardships. Health Aff (Millwood) 35 (1): 54-61, 2016. [PUBMED Abstract]\n- Ramsey S, Blough D, Kirchhoff A, et al.: Washington State cancer patients found to be at greater risk for bankruptcy than people without a cancer diagnosis. Health Aff (Millwood) 32 (6): 1143-52, 2013. [PUBMED Abstract]\n- Shankaran V, Li L, Fedorenko C, et al.: Risk of Adverse Financial Events in Patients With Cancer: Evidence From a Novel Linkage Between Cancer Registry and Credit Records. J Clin Oncol 40 (8): 884-891, 2022. [PUBMED Abstract]\n- Khera N: Reporting and grading financial toxicity. J Clin Oncol 32 (29): 3337-8, 2014. [PUBMED Abstract]\n- de Moor JS, Dowling EC, Ekwueme DU, et al.: Employment implications of informal cancer caregiving. J Cancer Surviv 11 (1): 48-57, 2017. [PUBMED Abstract]\n- Kent EE, Dionne-Odom JN: Population-Based Profile of Mental Health and Support Service Need Among Family Caregivers of Adults With Cancer. J Oncol Pract 15 (2): e122-e131, 2019. [PUBMED Abstract]\n- Shin JY, Lim JW, Shin DW, et al.: Underestimated caregiver burden by cancer patients and its association with quality of life, depression and anxiety among caregivers. Eur J Cancer Care (Engl) 27 (2): e12814, 2018. [PUBMED Abstract]\n- Ullrich A, Ascherfeld L, Marx G, et al.: Quality of life, psychological burden, needs, and satisfaction during specialized inpatient palliative care in family caregivers of advanced cancer patients. BMC Palliat Care 16 (1): 31, 2017. [PUBMED Abstract]\n- Shaffer KM, Kim Y, Carver CS, et al.: Effects of caregiving status and changes in depressive symptoms on development of physical morbidity among long-term cancer caregivers. Health Psychol 36 (8): 770-778, 2017. [PUBMED Abstract]\n- Rumpold T, Schur S, Amering M, et al.: Informal caregivers of advanced-stage cancer patients: Every second is at risk for psychiatric morbidity. Support Care Cancer 24 (5): 1975-1982, 2016. [PUBMED Abstract]\n- Litzelman K, Kent EE, Rowland JH: Social factors in informal cancer caregivers: The interrelationships among social stressors, relationship quality, and family functioning in the CanCORS data set. Cancer 122 (2): 278-86, 2016. [PUBMED Abstract]\n- Kent EE, Rowland JH, Northouse L, et al.: Caring for caregivers and patients: Research and clinical priorities for informal cancer caregiving. Cancer 122 (13): 1987-95, 2016. [PUBMED Abstract]\n- Tucker-Seeley RD, Abel GA, Uno H, et al.: Financial hardship and the intensity of medical care received near death. Psychooncology 24 (5): 572-8, 2015. [PUBMED Abstract]\n- Ramsey SD, Bansal A, Fedorenko CR, et al.: Financial Insolvency as a Risk Factor for Early Mortality Among Patients With Cancer. J Clin Oncol 34 (9): 980-6, 2016. [PUBMED Abstract]"
+        },
+        {
+          "section": "Evidence Gaps and Areas for Future Research",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Evidence Gaps and Areas for Future Research"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Considering the conceptual framework for cancer and its impact on health care use, health outcomes, and financial effects, based on extant models, allows exploration of current evidence, gaps in evidence, and areas for future research.[ 1 , 2 ]"
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Evidence Gaps and Areas for Future Research",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Although many individual risk factors for financial hardship have been identified, the evidence that demonstrates the degree to which these factors contribute to the risk of later financial hardship is insufficient, as is information about the interplay between these factors and clinical factors at the time of diagnosis.\nSpecific areas in need of further study to address their influence on the risk of financial distress after a cancer diagnosis include the following:\n- Preexisting debt.\n- Prediagnosis conditions (i.e., overall comorbidity burden and the presence of specific illnesses).\n- Types of employment (e.g., hourly vs. salaried).\n- Asset levels.\nBecause ample evidence shows that financial distress occurs even among patients with health insurance, the role of different forms of insurance in protecting individuals from financial distress requires further study. Medicare may at least partially protect older people from financial harm. However, other factors associated with older age might also reduce the risk of financial distress, namely, retired adults typically have higher levels of assets (e.g., owning a home outright), pensions or retirement accounts, and Social Security. Another factor is that physicians may treat older patients less intensively and thus less expensively.\nFor adults of working age, characteristics of work-sponsored or individually purchased commercial insurance that vary from plan to plan—specifically, deductibles, copay levels, and coverage exclusions—may influence the risk of financial distress. These factors also warrant further study.\nAfter patients are diagnosed with cancer and miss work during treatment, their ability to continue to work or return to work greatly influences their risk of financial hardship. Studies are needed that relate particular treatments, modalities of treatment (e.g., infusional therapy vs. oral therapy), and toxicities of treatments with work absenteeism, loss of productivity, and likelihood of returning to the workforce.\nImplementation of the U.S. Affordable Care Act in 2008 provided a natural experiment to determine whether expanding access to health insurance for millions of Americans had an impact on rates of financial distress or insolvency for people with cancer. Proposed pilots for different Medicare payment systems may also offer opportunities for quasi-experimental approaches that compare implementation with nonimplementation.[ 3 ]\nAfter diagnosis, treatment choice could, in theory, influence the likelihood of financial difficulties. For many cancers, guidelines include options that are considered equivalent therapeutically, yet the costs of the treatments might vary by 50-fold or more.[ 4 ] For example, oral medications may come under a different copay structure than office-administered medicines. No retrospective or prospective evidence exists to show that, within an indication such as tumor type and stage, choice of treatment has a differential impact on out-of-pocket expenditure or level of financial distress. Because treatment choice is influenced by many factors, possibly including a patient's financial situation, prospective studies with detailed clinical and financial information are needed to investigate this issue.\nCancer management is unusual among medical interventions because it often involves intensive treatment at specialized facilities for weeks or months. For many patients, nonmedical costs associated with seeking treatment, such as the cost of transportation and lodging during treatment, can take a financial toll on families. The role that nonmedical costs play in financial hardship is an area in need of further study."
+        },
+        {
+          "section": "Financial Distress and Outcomes",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Evidence Gaps and Areas for Future Research",
+            "Financial Distress and Outcomes"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Evidence from multiple retrospective studies shows that patients experiencing financial distress have reduced adherence to planned therapies, lower quality of life, and diminished survival. These studies have limitations because certain unmeasured clinical and financial factors that may influence treatment choice might also influence outcomes. Prospective or retrospective studies that include a more-comprehensive picture of financial status at diagnosis and clinical and patient factors that might influence treatment choice would provide a more accurate picture of the causal pathway between financial distress and outcomes."
+        },
+        {
+          "section": "Interventions Aimed at Reducing Financial Distress Among Cancer Patients",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Evidence Gaps and Areas for Future Research",
+            "Interventions Aimed at Reducing Financial Distress Among Cancer Patients"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Several interventions specifically designed to reduce rates of financial distress among cancer patients have been proposed. Some are being implemented, but, to date, there have been no prospective studies evaluating the impact of these interventions on the rates and severity of financial distress, care choices, quality of life, or survival. Several of the most commonly discussed interventions are reviewed below."
+        },
+        {
+          "section": "Financial navigators",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Evidence Gaps and Areas for Future Research",
+            "Interventions Aimed at Reducing Financial Distress Among Cancer Patients",
+            "Financial navigators"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Financial navigators are being used in community and academic settings to help cancer patients avoid adverse financial consequences after a cancer diagnosis.[ 5 ] The impact of these programs on patients’ financial and health outcomes is an area for future study. Specific issues of interest include the following:\n- The impact of assessing risk factors for financial distress at diagnosis.\n- Socioeconomic correlates of patients seeking and receiving financial counseling and assistance for their cancer care. Patient and family responsibility in relation to the offer of financial assistance for cancer care across different types of interventions and by different provider organizations needs to be better quantified.\n- The impact of various types of financial information and assistance that are offered by care providers.\n- The impact of counseling techniques to manage finances.\nOne prospective study ( S1417CD [NCT02728804]), conducted in the National Cancer Institute Cooperative Cancer Clinical Trials Network, Implementation of a Prospective Financial Impact Assessment Tool in Patients with Metastatic Colorectal Cancer , evaluated the incidence of treatment-related financial hardship among patients with newly diagnosed metastatic colorectal cancer.[ 6 ] In addition to detailed clinical information, patient credit history at baseline and throughout treatment, health-related quality of life, out-of-pocket costs, treatment nonadherence, and caregiver burden was measured over 12 months."
+        },
+        {
+          "section": "Price transparency to facilitate treatment choice",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Evidence Gaps and Areas for Future Research",
+            "Interventions Aimed at Reducing Financial Distress Among Cancer Patients",
+            "Price transparency to facilitate treatment choice"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Studies of price transparency initiatives, such as one that required California hospitals to publish their charges, have not found that they significantly influence patient treatment choice or pricing of goods and services by health care providers.[ 7 ] Looking at price transparency and provider behavior, one controlled study found that providing clinicians with information about test costs in electronic medical record order-entry forms reduced the number of tests ordered compared with not providing this information.[ 8 ] It is not known whether providing price transparency would alter cancer patient or clinician choices for care.\nMore information is needed regarding how responsive cancer patients, their families, and/or their providers might be to offers of pricing transparency, direct or indirect financial assistance, or further reductions in out-of-pocket payment requirements."
+        },
+        {
+          "section": "Value-based pricing",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Evidence Gaps and Areas for Future Research",
+            "Interventions Aimed at Reducing Financial Distress Among Cancer Patients",
+            "Value-based pricing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Closely related to price transparency is the concept of value-based pricing, the idea that patients’ out-of-pocket expenditures are tied to external assessment of value for competing therapies for particular conditions. The objective of value-based pricing is to steer patients to higher-value therapies through financial incentives (higher value = lower out-of-pocket responsibility). Although value-based pricing has been implemented for several clinical conditions (e.g., hypertension, diabetes), and evidence exists that this type of pricing increases the use of higher-value services, it has not been applied in oncology. Because of the ongoing transformation in how medical providers are paid for the care of cancer patients, there is a need study patient financial toxicity in the context of alternative payment models and quality measure reforms.\nIt is also unclear when in the care trajectory more information and financial assistance are needed and will be most effective in encouraging treatment initiation and continuance. For example, most employer-based insurance policies have an annual out-of-pocket maximum, beyond which the insurer assumes 100% of the cost of care. Many patients with late-stage cancer reach the maximum quickly, in which case the insurer bears the full cost of anticancer treatments for the remainder of the benefit year."
+        },
+        {
+          "section": "Health insurance reform",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Evidence Gaps and Areas for Future Research",
+            "Interventions Aimed at Reducing Financial Distress Among Cancer Patients",
+            "Health insurance reform"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "By providing millions of previously uninsured Americans with health insurance, the Massachusetts health insurance plan and the U.S. Affordable Care Act have presented an opportunity for natural pre-post experiments for health care policies that are aimed at reducing the financial exposure of an individual during severe illness. Because insurance appears to mitigate rather than eliminate the risk of financial distress from a cancer diagnosis and treatment, other interventions aimed at improving financial outcomes for insured people are likely needed.\nAnother policy targeting providers and patients would be to require the use of patient decision aids that include benefits-cost and financial-toxicity assessments and assistance through measures-of-quality for fee-for-service Medicare payments under Medicare Access and CHIP (Children’s Health Insurance Program) Reauthorization Act (MACRA) legislation.[ 9 , 10 ] Pursuit of this policy would require endorsement by the Centers for Medicare and Medicaid Services and possibly legislation enacted by the U.S. Congress.\nReducing and/or eliminating patient copayment/coinsurance for pathway-adherent cancer care in the fee-for-service Medicare program and/or commercial plans would also likely reduce patient and family financial burden across multiple treatment modalities—radiation, drugs, inpatient and outpatient coinsurance, and copayments.[ 7 , 8 ] Another set of policies would eliminate the ban on pharmaceutical manufacturer-provided couponing and other patient-assistance programs to Medicare beneficiaries.[ 11 ]"
+        },
+        {
+          "section": "Cancer Treatment Costs References",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Evidence Gaps and Areas for Future Research",
+            "Cancer Treatment Costs References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Cancer treatment cost information can be difficult to access. Listed below are links to publicly available websites that contain updated information on costs related to cancer care:\n- Medicare Part B (office-administered) drug costs .\n- Medicare benefits (includes information on deductibles and copayments)."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Evidence Gaps and Areas for Future Research",
+            "Cancer Treatment Costs References",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Smith R, Clarke L, Berry K, et al.: A comparison of methods for linking health insurance claims with clinical records from a large cancer registry. [Abstract] Med Decis Making 21 (6): 530, 2001.\n- Fay S, Hurst E, White MJ: The household bankruptcy decision. Am Econ Rev 92 (3): 706-18, 2002.\n- Centers for Medicare & Medicaid Services: Oncology Care Model. Baltimore, Md: Centers for Medicare & Medicaid Services, 2016. Available online . Accessed December 8, 2016.\n- Ramsey S, Shankaran V: Managing the financial impact of cancer treatment: the role of clinical practice guidelines. J Natl Compr Canc Netw 10 (8): 1037-42, 2012. [PUBMED Abstract]\n- Conti RM, Bach PB: The 340B drug discount program: hospitals generate profits by expanding to reach more affluent communities. Health Aff (Millwood) 33 (10): 1786-92, 2014. [PUBMED Abstract]\n- Shankaran V; Southwest Oncology Group Cancer Care Delivery, Gastrointestinal Cancer: Implementation of a Prospective Financial Impact Assessment Tool in Patients with Metastatic Colorectal Cancer. April 15, 2016.\n- Kline RM, Bazell C, Smith E, et al.: Centers for medicare and medicaid services: using an episode-based payment model to improve oncology care. J Oncol Pract 11 (2): 114-6, 2015. [PUBMED Abstract]\n- Newcomer LN, Gould B, Page RD, et al.: Changing physician incentives for affordable, quality cancer care: results of an episode payment model. J Oncol Pract 10 (5): 322-6, 2014. [PUBMED Abstract]\n- Cutler DM: Payment reform is about to become a reality. JAMA 313 (16): 1606-7, 2015. [PUBMED Abstract]\n- Press MJ, Rajkumar R, Conway PH: Medicare's New Bundled Payments: Design, Strategy, and Evolution. JAMA 315 (2): 131-2, 2016. [PUBMED Abstract]\n- Howard DH: Drug companies' patient-assistance programs--helping patients or profits? N Engl J Med 371 (2): 97-9, 2014. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (05/29/2024)",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (05/29/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nRisk Factors Associated With Financial Toxicity\nAdded text to state that, compared with those without cancer, cancer survivors are more likely to report being unable to work, or being limited in the amount or type of work they can do, in both the short-term and long-term post-diagnosis periods (cited Yabroff et al., Ekenga et al., 2012 Blinder and Patil et al., 2014 Jagsi et al., Earle et al., Veenstra et al., and McLennan et al. as references 21–27, respectively). Also added text about the demographic and treatment factors that affect a survivor's ability to work (cited 2011 Mujahid et al., Tevaarwerk et al., Alleaume et al., 2017 Blinder et al., 2013 Blinder et al., 2010 Mujahid et al., 2017 Jagsi et al., 2015 Dahl, et al., and 2014 Dahl et al. as references 28–36, respectively). For patients with cancer, including those treated in the palliative setting, work promotes a sense of normalcy and control during and after treatment and provides income and insurance benefits (cited 2012 Blinder and Murphy et al. and Glare et al. as references 37 and 38, respectively).\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of cancer and financial toxicity. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 12,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Financial Toxicity and Cancer Treatment are:\n- Stacie B. Dusetzina, PhD (Vanderbilt University School of Medicine)\n- Scott D. Ramsey, MD, PhD (Fred Hutchinson Cancer Research Center)\n- Veena Shankaran, MD, MS (Fred Hutchinson Cancer Research Center & University of Washington)\n- K. Robin Yabroff, PhD (American Cancer Society)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Financial Toxicity and Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/managing-care/track-care-costs/financial-toxicity-hp-pdq . Accessed <MM/DD/YYYY>. [PMID: 27583328 ]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Financial Toxicity and Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\8b777c375c5e857b94c5.html"
+    }
+  ]
+}

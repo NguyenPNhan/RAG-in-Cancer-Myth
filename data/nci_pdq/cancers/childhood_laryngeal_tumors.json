@@ -1,0 +1,607 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Childhood Laryngeal Tumors",
+  "generated_at": "2026-08-31T07:15:23.115166+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Childhood Laryngeal Tumors",
+      "title": "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Childhood Laryngeal Tumors Treatment",
+      "url": "https://www.cancer.gov/types/head-and-neck/hp/child/laryngeal-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "February 26, 2025",
+      "retrieved_at": "2026-08-31T07:10:37.204762+00:00",
+      "content_sha256": "2475544b4dcfbfb50c8611ce09818dc41eb823f1daee2c34ecfd7dc61625bdc1",
+      "section_count": 21,
+      "sections": [
+        {
+          "section": "Incidence",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Childhood Laryngeal Cancer",
+            "Incidence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Tumors of the larynx are rare. In children, the most common benign vascular laryngeal tumor is subglottic hemangioma.[ 1 ] Malignant laryngeal tumors, which are especially rare, may be associated with benign tumors such as polyps and papillomas.[ 2 , 3 ]"
+        },
+        {
+          "section": "Clinical Presentation",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Childhood Laryngeal Cancer",
+            "Clinical Presentation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Laryngeal tumors may present with the following:\n- Hoarseness.\n- Difficulty swallowing.\n- Stridor.\n- Enlargement of the lymph nodes of the neck."
+        },
+        {
+          "section": "Histology",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Childhood Laryngeal Cancer",
+            "Histology"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A review of Surveillance, Epidemiology, and End Results (SEER) Program data from 1973 to 2016 identified 23 pediatric patients with laryngeal malignancies. Sixteen of the patients had squamous cell carcinoma. The other identified histologies included small cell carcinoma, mucoepidermoid carcinoma, myxosarcoma, embryonal rhabdomyosarcoma, and synovial sarcoma.[ 4 ]"
+        },
+        {
+          "section": "Treatment of Childhood Laryngeal Cancer",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Childhood Laryngeal Cancer",
+            "Treatment of Childhood Laryngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Squamous cell carcinoma of the larynx in children is managed by surgery and radiation therapy, as in adults with carcinoma at this site.[ 4 , 5 ] Laser surgery may be the initial treatment used for these lesions. Outcomes of pediatric patients with squamous cell carcinoma of the larynx are similar to those reported for adult patients.[ 4 ] For more information about the treatment of laryngeal cancer in adults, see Laryngeal Cancer Treatment ."
+        },
+        {
+          "section": "Treatment Options Under Clinical Evaluation for Childhood Laryngeal Cancer",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Childhood Laryngeal Cancer",
+            "Treatment Options Under Clinical Evaluation for Childhood Laryngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about National Cancer Institute (NCI)–supported clinical trials can be found on the NCI website . For information about clinical trials sponsored by other organizations, see the ClinicalTrials.gov website ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Childhood Laryngeal Cancer",
+            "Treatment Options Under Clinical Evaluation for Childhood Laryngeal Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Bitar MA, Moukarbel RV, Zalzal GH: Management of congenital subglottic hemangioma: trends and success over the past 17 years. Otolaryngol Head Neck Surg 132 (2): 226-31, 2005. [PUBMED Abstract]\n- McGuirt WF, Little JP: Laryngeal cancer in children and adolescents. Otolaryngol Clin North Am 30 (2): 207-14, 1997. [PUBMED Abstract]\n- Bauman NM, Smith RJ: Recurrent respiratory papillomatosis. Pediatr Clin North Am 43 (6): 1385-401, 1996. [PUBMED Abstract]\n- Forsyth AM, Camilon PR, Tracy L, et al.: Pediatric laryngeal tumors and demographics, management, and survival in laryngeal squamous cell carcinoma. Int J Pediatr Otorhinolaryngol 140: 110507, 2021. [PUBMED Abstract]\n- Siddiqui F, Sarin R, Agarwal JP, et al.: Squamous carcinoma of the larynx and hypopharynx in children: a distinct clinical entity? Med Pediatr Oncol 40 (5): 322-4, 2003. [PUBMED Abstract]"
+        },
+        {
+          "section": "Special Considerations for the Treatment of Children With Cancer",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "Cancer in children and adolescents is rare, although the overall incidence has slowly increased since 1975.[ 1 ] Children and adolescents with cancer should be referred to medical centers that have a multidisciplinary team of cancer specialists with experience treating the cancers that occur during childhood and adolescence. This multidisciplinary team approach incorporates the skills of the following pediatric specialists and others to ensure that children receive treatment, supportive care, and rehabilitation to achieve optimal survival and quality of life:\n- Primary care physicians.\n- Pediatric surgeons.\n- Pathologists.\n- Pediatric radiation oncologists.\n- Pediatric medical oncologists and hematologists.\n- Ophthalmologists.\n- Rehabilitation specialists.\n- Pediatric oncology nurses.\n- Social workers.\n- Child-life professionals.\n- Psychologists.\n- Nutritionists.\nFor specific information about supportive care for children and adolescents with cancer, see the summaries on Supportive and Palliative Care .\nThe American Academy of Pediatrics has outlined guidelines for pediatric cancer centers and their role in the treatment of children and adolescents with cancer.[ 2 ] At these centers, clinical trials are available for most types of cancer that occur in children and adolescents, and the opportunity to participate is offered to most patients and their families. Clinical trials for children and adolescents diagnosed with cancer are generally designed to compare potentially better therapy with current standard therapy. Other types of clinical trials test novel therapies when there is no standard therapy for a cancer diagnosis. Most of the progress in identifying curative therapies for childhood cancers has been achieved through clinical trials. Information about ongoing clinical trials is available from the NCI website .\nDramatic improvements in survival have been achieved for children and adolescents with cancer. Between 1975 and 2020, childhood cancer mortality decreased by more than 50%.[ 3 - 5 ] Childhood and adolescent cancer survivors require close monitoring because side effects of cancer therapy may persist or develop months or years after treatment. For information about the incidence, type, and monitoring of late effects in childhood and adolescent cancer survivors, see Late Effects of Treatment for Childhood Cancer .\nChildhood cancer is a rare disease, with about 15,000 cases diagnosed annually in the United States in individuals younger than 20 years.[ 6 ] The U.S. Rare Diseases Act of 2002 defines a rare disease as one that affects populations smaller than 200,000 people in the United States. Therefore, all pediatric cancers are considered rare.\nThe designation of a rare tumor is not uniform among pediatric and adult groups. In adults, rare cancers are defined as those with an annual incidence of fewer than six cases per 100,000 people. They account for up to 24% of all cancers diagnosed in the European Union and about 20% of all cancers diagnosed in the United States.[ 7 , 8 ] In children and adolescents, the designation of a rare tumor is not uniform among international groups, as follows:\n- A consensus effort between the European Union Joint Action on Rare Cancers and the European Cooperative Study Group for Rare Pediatric Cancers estimated that 11% of all cancers in patients younger than 20 years could be categorized as very rare. This consensus group defined very rare cancers as those with annual incidences of fewer than two cases per 1 million people. However, three additional histologies (thyroid carcinoma, melanoma, and testicular cancer) with incidences of more than two cases per 1 million people were also included in the very rare group due to a lack of knowledge and expertise in the management of these tumors.[ 9 ]\n- The Children's Oncology Group defines rare pediatric cancers as those listed in the International Classification of Childhood Cancer subgroup XI, which includes thyroid cancers, melanomas and nonmelanoma skin cancers, and multiple types of carcinomas (e.g., adrenocortical carcinomas, nasopharyngeal carcinomas, and most adult-type carcinomas such as breast cancers and colorectal cancers).[ 10 ] These diagnoses account for about 5% of the cancers diagnosed in children aged 0 to 14 years and about 27% of the cancers diagnosed in adolescents aged 15 to 19 years.[ 4 ] Most cancers in subgroup XI are either melanomas or thyroid cancers, with other cancer types accounting for only 2% of the cancers diagnosed in children aged 0 to 14 years and 9.3% of the cancers diagnosed in adolescents aged 15 to 19 years.\nThese rare cancers are extremely challenging to study because of the relatively few patients with any individual diagnosis, the predominance of rare cancers in the adolescent population, and the small number of clinical trials for adolescents with rare cancers.\nInformation about these tumors may also be found in sources relevant to adults with cancer, such as Laryngeal Cancer Treatment ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Smith MA, Seibel NL, Altekruse SF, et al.: Outcomes for children and adolescents with cancer: challenges for the twenty-first century. J Clin Oncol 28 (15): 2625-34, 2010. [PUBMED Abstract]\n- American Academy of Pediatrics: Standards for pediatric cancer centers. Pediatrics 134 (2): 410-4, 2014. Also available online . Last accessed February 25, 2025.\n- Smith MA, Altekruse SF, Adamson PC, et al.: Declining childhood and adolescent cancer mortality. Cancer 120 (16): 2497-506, 2014. [PUBMED Abstract]\n- National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed February 25, 2025.\n- Surveillance Research Program, National Cancer Institute: SEER*Explorer: An interactive website for SEER cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed December 30, 2024.\n- Ward E, DeSantis C, Robbins A, et al.: Childhood and adolescent cancer statistics, 2014. CA Cancer J Clin 64 (2): 83-103, 2014 Mar-Apr. [PUBMED Abstract]\n- Gatta G, Capocaccia R, Botta L, et al.: Burden and centralised treatment in Europe of rare tumours: results of RARECAREnet-a population-based study. Lancet Oncol 18 (8): 1022-1039, 2017. [PUBMED Abstract]\n- DeSantis CE, Kramer JL, Jemal A: The burden of rare cancers in the United States. CA Cancer J Clin 67 (4): 261-272, 2017. [PUBMED Abstract]\n- Ferrari A, Brecht IB, Gatta G, et al.: Defining and listing very rare cancers of paediatric age: consensus of the Joint Action on Rare Cancers in cooperation with the European Cooperative Study Group for Pediatric Rare Tumors. Eur J Cancer 110: 120-126, 2019. [PUBMED Abstract]\n- Pappo AS, Krailo M, Chen Z, et al.: Infrequent tumor initiative of the Children's Oncology Group: initial lessons learned and their impact on future plans. J Clin Oncol 28 (33): 5011-6, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Incidence",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Childhood Laryngeal Papillomatosis",
+            "Incidence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Respiratory papillomatosis is the most common benign laryngeal tumor in children and is associated with human papillomavirus (HPV) infection, most commonly HPV-6 and HPV-11.[ 1 , 2 ] The presence of HPV-11 appears to correlate with a more aggressive clinical course than the presence of HPV-6.[ 3 ] An Australian survey of pediatric otorhinolaryngologists documented a decline in the incidence of laryngeal papillomatosis after the introduction of HPV vaccinations for adolescent girls and young women aged 12 to 26 years.[ 4 ] In another study of laryngeal papillomatosis in patients younger than 18 years, the incidence decreased from 165 cases in children born between 2004 and 2005 to 36 cases in children born between 2012 and 2013. The HPV vaccine was released in 2006. The authors attributed the decline to the widespread use of the vaccine.[ 5 ]"
+        },
+        {
+          "section": "Clinical Presentation",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Childhood Laryngeal Papillomatosis",
+            "Clinical Presentation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Laryngeal papillomatosis can cause hoarseness because of the formation of wart-like nodules on the vocal cords, which may rarely extend into the lung, producing significant morbidity.[ 6 ] Malignant degeneration may occur, with development of laryngeal carcinoma and squamous cell lung cancer, generally reported at rates of 2% to 10% in the pediatric population.[ 7 ]"
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Childhood Laryngeal Papillomatosis",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Exposure to HPV during a vaginal birth appears to be a risk factor for the development of juvenile-onset recurrent respiratory papillomatosis. A multi-institutional registry study identified children with juvenile-onset recurrent respiratory papillomatosis from 23 states between 2015 and 2020.[ 8 ] Of those children, 88.8% were delivered vaginally. Among 190 mothers, the median age at the time of delivery was 22 years. Of 114 mothers (60.0%) who were age-eligible to receive the HPV vaccine, 16 (14.0%) were vaccinated, 1 (0.9%) of whom was vaccinated before delivery. Of 162 tested biopsy specimens from children undergoing papillomatosis surgery, 157 (96.9%) had detectable HPV. All 157 specimens had a vaccine-preventable HPV type."
+        },
+        {
+          "section": "Treatment of Childhood Laryngeal Papillomatosis",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Childhood Laryngeal Papillomatosis",
+            "Treatment of Childhood Laryngeal Papillomatosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Primary treatment for papillomatosis is surgical ablation with laser vaporization.[ 9 ] Frequent recurrences are common. Lung involvement, although rare, can occur.[ 6 ]\nEvidence (surgery):\n- A single-institution retrospective analysis evaluated 121 children with respiratory papillomatosis. The age at initial operation was 4.3 years (±2.9 years), and 47.9% of patients (58 of 121) experienced a recurrence and underwent surgical treatment after the age of 14 years.[ 10 ]\n- At follow-up, 5% of the patients (6 of 121) had died, 41.3% of the patients (50 of 121) had been recurrence free for 5 years or longer (cured group), and 53.7% of the patients (65 of 121) experienced a recurrence in the previous 5 years (recurrent group).\n- There were no significant differences in sex, age at initial operation, or adjuvant therapy between the cured and recurrent groups of patients.\n- In the recurrent group, there was a higher incidence of overall operation frequency, aggressive disease, tracheal dissemination of the papilloma, and HPV infection.\nIf a patient requires more than four surgical procedures per year, other interventions may be necessary. The following therapies are under investigation:\n- Systemic bevacizumab produced good results with minimal toxicity in a report of two patients with aggressive recurrent respiratory papillomatosis.[ 11 ] In another report of seven children treated with bevacizumab, continued responses were noted and subsequent surgical debridements were avoided in most patients. Of the seven patients, five did not require surgical debridement after the initiation of bevacizumab. Four of these five patients had previously required between four and ten debridements per year. Follow-up for these patients was between 8 months and 3.5 years. No serious adverse events were reported.[ 12 ] In a study of 24 patients with recurrent respiratory papillomatosis, 15 had juvenile-onset disease. Patients were treated with systemic bevacizumab (7.5–10 mg/kg) every 3 to 4 weeks. All patients had a reduction in the number and size of lesions after three doses, excluding one patient who was lost to follow-up. Voice outcomes were improved in 87.5% of patients, as measured by Voice Handicap Index-30 (VHI) or pediatric VHI. No grade 3 Common Terminology Criteria for Adverse Events were reported. However, follow-up was limited to a maximum of 14 months after initiation of therapy and 10 months after discontinuation of bevacizumab.[ 13 ] In a study of 17 adult patients (12 with juvenile-onset recurrent or refractory respiratory papillomatosis) who received systemic bevacizumab, the number of recurrences and surgeries were significantly reduced compared with previous treatments.[ 14 ]\n- Interferon therapy.[ 15 ]\n- Immunotherapy with HspE7, a recombinant fusion protein that has shown activity in other HPV-related diseases. A pilot study suggested a marked increase in the amount of time between surgeries.[ 16 ]\n- Laser therapy combined with intralesional bevacizumab.[ 17 ]\n- Intralesional cidofovir has been studied. However, its effectiveness has not been conclusively demonstrated.[ 18 ]\n- Checkpoint inhibitors, such as PD-1 inhibitors, are currently being investigated.[ 19 ]\n- Reports with small numbers of patients have documented that in selected cases, the administration of a quadrivalent HPV vaccine was associated with complete remission and an increase in the intersurgical interval.[ 20 , 21 ] In contrast, other reports have not documented a therapeutic effect of the quadrivalent HPV vaccine.[ 22 ]"
+        },
+        {
+          "section": "Treatment Options Under Clinical Evaluation for Childhood Laryngeal Papillomatosis",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Childhood Laryngeal Papillomatosis",
+            "Treatment Options Under Clinical Evaluation for Childhood Laryngeal Papillomatosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about National Cancer Institute (NCI)–supported clinical trials can be found on the NCI website . For information about clinical trials sponsored by other organizations, see the ClinicalTrials.gov website ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Childhood Laryngeal Papillomatosis",
+            "Treatment Options Under Clinical Evaluation for Childhood Laryngeal Papillomatosis",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "- Fortes HR, von Ranke FM, Escuissato DL, et al.: Recurrent respiratory papillomatosis: A state-of-the-art review. Respir Med 126: 116-121, 2017. [PUBMED Abstract]\n- Derkay CS, Wiatrak B: Recurrent respiratory papillomatosis: a review. Laryngoscope 118 (7): 1236-47, 2008. [PUBMED Abstract]\n- Maloney EM, Unger ER, Tucker RA, et al.: Longitudinal measures of human papillomavirus 6 and 11 viral loads and antibody response in children with recurrent respiratory papillomatosis. Arch Otolaryngol Head Neck Surg 132 (7): 711-5, 2006. [PUBMED Abstract]\n- Novakovic D, Cheng ATL, Zurynski Y, et al.: A Prospective Study of the Incidence of Juvenile-Onset Recurrent Respiratory Papillomatosis After Implementation of a National HPV Vaccination Program. J Infect Dis 217 (2): 208-212, 2018. [PUBMED Abstract]\n- Meites E, Stone L, Amiling R, et al.: Significant Declines in Juvenile-onset Recurrent Respiratory Papillomatosis Following Human Papillomavirus (HPV) Vaccine Introduction in the United States. Clin Infect Dis 73 (5): 885-890, 2021. [PUBMED Abstract]\n- Gélinas JF, Manoukian J, Côté A: Lung involvement in juvenile onset recurrent respiratory papillomatosis: a systematic review of the literature. Int J Pediatr Otorhinolaryngol 72 (4): 433-52, 2008. [PUBMED Abstract]\n- Karatayli-Ozgursoy S, Bishop JA, Hillel A, et al.: Risk Factors for Dysplasia in Recurrent Respiratory Papillomatosis in an Adult and Pediatric Population. Ann Otol Rhinol Laryngol 125 (3): 235-41, 2016. [PUBMED Abstract]\n- Amiling R, Meites E, Querec TD, et al.: Juvenile-Onset Recurrent Respiratory Papillomatosis in the United States, Epidemiology and HPV Types-2015-2020. J Pediatric Infect Dis Soc 10 (7): 774-781, 2021. [PUBMED Abstract]\n- Andrus JG, Shapshay SM: Contemporary management of laryngeal papilloma in adults and children. Otolaryngol Clin North Am 39 (1): 135-58, 2006. [PUBMED Abstract]\n- Xiao Y, Zhang X, Ma L, et al.: Long-term outcomes of juvenile-onset recurrent respiratory papillomatosis. Clin Otolaryngol 46 (1): 161-167, 2021. [PUBMED Abstract]\n- Carnevale C, Ferrán-De la Cierva L, Til-Pérez G, et al.: Safe use of systemic bevacizumab for respiratory recurrent papillomatosis in two children. Laryngoscope 129 (4): 1001-1004, 2019. [PUBMED Abstract]\n- Ruiz R, Balamuth N, Javia LR, et al.: Systemic Bevacizumab Treatment for Recurrent Respiratory Papillomatosis: Long-Term Follow-Up. Laryngoscope 132 (10): 2071-2075, 2022. [PUBMED Abstract]\n- Zhao X, Wang J, Chen Q, et al.: Systemic bevacizumab for treatment of recurrent respiratory papillomatosis. Eur Arch Otorhinolaryngol 281 (4): 1865-1875, 2024. [PUBMED Abstract]\n- So RJ, Rayle C, Joo HH, et al.: Systemic Bevacizumab for Recurrent Respiratory Papillomatosis: A Single Institution's Experience. Laryngoscope 134 (7): 3253-3259, 2024. [PUBMED Abstract]\n- Avidano MA, Singleton GT: Adjuvant drug strategies in the treatment of recurrent respiratory papillomatosis. Otolaryngol Head Neck Surg 112 (2): 197-202, 1995. [PUBMED Abstract]\n- Derkay CS, Smith RJ, McClay J, et al.: HspE7 treatment of pediatric recurrent respiratory papillomatosis: final results of an open-label trial. Ann Otol Rhinol Laryngol 114 (9): 730-7, 2005. [PUBMED Abstract]\n- Sidell DR, Nassar M, Cotton RT, et al.: High-dose sublesional bevacizumab (avastin) for pediatric recurrent respiratory papillomatosis. Ann Otol Rhinol Laryngol 123 (3): 214-21, 2014. [PUBMED Abstract]\n- Chadha NK, James A: Adjuvant antiviral therapy for recurrent respiratory papillomatosis. Cochrane Database Syst Rev 12: CD005053, 2012. [PUBMED Abstract]\n- Ivancic R, Iqbal H, deSilva B, et al.: Current and future management of recurrent respiratory papillomatosis. Laryngoscope Investig Otolaryngol 3 (1): 22-34, 2018. [PUBMED Abstract]\n- Young DL, Moore MM, Halstead LA: The use of the quadrivalent human papillomavirus vaccine (gardasil) as adjuvant therapy in the treatment of recurrent respiratory papilloma. J Voice 29 (2): 223-9, 2015. [PUBMED Abstract]\n- Mészner Z, Jankovics I, Nagy A, et al.: Recurrent laryngeal papillomatosis with oesophageal involvement in a 2 year old boy: successful treatment with the quadrivalent human papillomatosis vaccine. Int J Pediatr Otorhinolaryngol 79 (2): 262-6, 2015. [PUBMED Abstract]\n- Katsuta T, Miyaji Y, Offit PA, et al.: Treatment With Quadrivalent Human Papillomavirus Vaccine for Juvenile-Onset Recurrent Respiratory Papillomatosis: Case Report and Review of the Literature. J Pediatric Infect Dis Soc 6 (4): 380-385, 2017. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (02/26/2025)",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (02/26/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nThis summary was reformatted.\nThis summary is written and maintained by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of childhood laryngeal cancer and papillomatosis. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 16,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Childhood Laryngeal Tumors Treatment are:\n- Denise Adams, MD (Children's Hospital Boston)\n- Karen J. Marcus, MD, FACR (Dana-Farber of Boston Children's Cancer Center and Blood Disorders Harvard Medical School)\n- William H. Meyer, MD\n- Paul A. Meyers, MD (Memorial Sloan-Kettering Cancer Center)\n- Thomas A. Olson, MD (Aflac Cancer and Blood Disorders Center of Children's Healthcare of Atlanta - Egleston Campus)\n- Arthur Kim Ritchey, MD (Children's Hospital of Pittsburgh of UPMC)\n- Carlos Rodriguez-Galindo, MD (St. Jude Children's Research Hospital)\n- Stephen J. Shochat, MD (St. Jude Children's Research Hospital)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Pediatric Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Laryngeal Tumors Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/hp/child/laryngeal-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 29337477]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Laryngeal Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\f2c2b4344cce489a4728.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Childhood Laryngeal Tumors",
+      "title": "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+      "summary_name": "Childhood Laryngeal Tumors",
+      "url": "https://www.cancer.gov/types/head-and-neck/patient/child/laryngeal-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 8, 2025",
+      "retrieved_at": "2026-08-31T07:10:55.431611+00:00",
+      "content_sha256": "261d4a78c2789d9494305e6dd8cae7dd6baf86036fb1767748267c05554fe436",
+      "section_count": 29,
+      "sections": [
+        {
+          "section": "What are childhood laryngeal tumors?",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "What are childhood laryngeal tumors?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Childhood laryngeal tumors form in the voice box, also called the larynx. These tumors may be benign (which means they are not cancer) or cancer. Most laryngeal tumors in children are not cancer and do not spread to other tissues. Both types of tumors need treatment.\nThe most common type of benign laryngeal tumor is papillomatosis of the larynx. In this condition, papillomas (benign tumors that look like warts) form in the lining of the larynx. These tumors may block the airway and cause trouble breathing. They often come back after treatment and, in rare cases, may turn into cancer in the larynx or the lung.\nThe larynx is a part of the throat, between the base of the tongue and the trachea (windpipe). The larynx contains the vocal cords, which vibrate and make sound when air is directed against them. The sound echoes through the pharynx , mouth, and nose to make a person's voice.\nThere are three main parts of the larynx:\n- The supraglottis is the upper part of the larynx above the vocal cords, including the epiglottis .\n- The glottis is the middle part of the larynx where the vocal cords are located.\n- The subglottis is the lower part of the larynx between the vocal cords and the trachea."
+        },
+        {
+          "section": "Causes of childhood laryngeal tumors",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Causes of childhood laryngeal tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Laryngeal cancer in children is caused by certain changes to the way cells in the larynx function, especially how they grow and divide into new cells. Often, the exact cause of these cell changes is unknown. Learn more about how cancer develops at What Is Cancer?\nLaryngeal papillomatosis is caused by infection with low-risk HPV (human papillomavirus), most often types 6 and 11. Children can get the HPV infection that causes laryngeal papillomatosis from an infected mother during birth. Most children with an HPV infection do not develop laryngeal papillomatosis. Talk with your child's doctor if you think your child may be at risk.\nGetting the HPV vaccine can help protect against HPV infection and reduce the risk of transmitting it during childbirth. Learn more about HPV Vaccines ."
+        },
+        {
+          "section": "Symptoms of childhood laryngeal tumors",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Symptoms of childhood laryngeal tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Children may not have symptoms of a laryngeal tumor until the tumor has grown bigger. It's important to check with your child's doctor if your child has:\n- hoarseness or a change in the voice\n- trouble or pain when swallowing\n- trouble breathing\n- a high-pitched sound with breathing\n- a lump in the neck or throat\n- a sore throat\n- a cough that does not go away\nInfants and young children with these tumors may grow slowly and not eat well or meet developmental milestones such as sitting, walking, and talking in sentences.\nThese symptoms may be caused by problems other than a laryngeal tumor. The only way to know is to see your child's doctor."
+        },
+        {
+          "section": "Tests to diagnose childhood laryngeal tumors",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood laryngeal tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "If your child has symptoms that suggest a laryngeal tumor, the doctor will need to find out if these are due to cancer or some other problem. The doctor will ask when the symptoms started and how often your child has been having them. They will also ask about your child's personal and family medical history and do a physical exam . Depending on these results, they may recommend other tests. If your child is diagnosed with a laryngeal tumor, the results of these tests will help you and your child's doctor plan treatment.\nThe tests used to diagnose laryngeal tumors may include:"
+        },
+        {
+          "section": "Oral exam",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood laryngeal tumors",
+            "Oral exam"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In an oral exam, a doctor or dentist checks the mouth for abnormal areas. This exam may be done while under anesthesia. The doctor or dentist will feel the entire inside of the mouth with a gloved finger and examine the area with a small long-handled mirror and lights or a fiberoptic device."
+        },
+        {
+          "section": "Neck and chest x-ray",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood laryngeal tumors",
+            "Neck and chest x-ray"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "An x-ray is a type of radiation that can go through the body and make pictures of the inside of the body. A neck and chest x-ray makes pictures of the organs and bones inside the neck and chest."
+        },
+        {
+          "section": "Magnetic resonance imaging (MRI)",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood laryngeal tumors",
+            "Magnetic resonance imaging (MRI)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "MRI uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas in the body, such as the head and neck. This procedure is also called nuclear magnetic resonance imaging (NMRI)."
+        },
+        {
+          "section": "CT scan",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood laryngeal tumors",
+            "CT scan"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body. The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more about Computed Tomography (CT) Scans and Cancer . Enlarge Computed tomography (CT) scan of the head and neck. The child lies on a table that slides through the CT scanner, which takes a series of detailed x-ray pictures of the inside of the head and neck."
+        },
+        {
+          "section": "PET scan",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood laryngeal tumors",
+            "PET scan"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "PET scan (positron emission tomography scan) uses a small amount of radioactive sugar (also called radioactive glucose) that is injected into a vein. The PET scanner rotates around the body and makes pictures of where sugar is being used by the body. Cancer cells show up brighter in the pictures because they are more active and take up more sugar than normal cells do. Enlarge Positron emission tomography (PET) scan. The child lies on a table that slides through the PET scanner. The head rest and white strap help the child lie still. A small amount of radioactive glucose (sugar) is injected into the child's vein, and a scanner makes a picture of where the glucose is being used in the body. Cancer cells show up brighter in the picture because they take up more glucose than normal cells do."
+        },
+        {
+          "section": "Ultrasound",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood laryngeal tumors",
+            "Ultrasound"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Ultrasound uses high-energy sound waves (ultrasound) that bounce off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram."
+        },
+        {
+          "section": "Barium swallow",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood laryngeal tumors",
+            "Barium swallow"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Barium swallow is a series of x-rays of the esophagus and stomach. For this procedure, the patient drinks a liquid that contains barium (a silver-white metallic compound). The barium coats the esophagus and stomach which helps them show up more clearly in x-rays. This procedure is also called an upper GI series."
+        },
+        {
+          "section": "Biopsy",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood laryngeal tumors",
+            "Biopsy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "A biopsy is a procedure in which a sample of tissue is removed from the tumor so that a pathologist can view it under a microscope to check for signs of disease, such as cancer or laryngeal papillomatosis.\nThe sample of tissue may be removed during a procedure, such as:\n- Laryngoscopy is a procedure in which the doctor checks the larynx (voice box) with a mirror or a laryngoscope to check for abnormal areas. A laryngoscope is a thin, tube-like instrument with a light and a lens for viewing the inside of the throat and voice box. It may also have a tool to remove tissue samples, which are checked under a microscope for signs of disease.\n- Endoscopy is a procedure to look at organs and tissues inside the body, such as the throat, esophagus, and trachea to check for abnormal areas. An endoscope is a thin, tube-like instrument with a light and a lens for viewing that is inserted through an opening in the body, such as the mouth. A special tool on the endoscope may be used to remove samples of tissue."
+        },
+        {
+          "section": "Human papillomavirus (HPV) test",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood laryngeal tumors",
+            "Human papillomavirus (HPV) test"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "An HPV test checks tissue samples from the biopsy for certain types of HPV infection that may be linked to laryngeal papillomatosis."
+        },
+        {
+          "section": "Immunohistochemistry",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood laryngeal tumors",
+            "Immunohistochemistry"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Immunohistochemistry uses antibodies to check for certain antigens (markers) in a sample of a patient's cells or tissue. The antibodies are usually linked to an enzyme or fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and help tell one type of cancer from another type."
+        },
+        {
+          "section": "Getting a second opinion",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Getting a second opinion"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your child's cancer diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report, slides, and scans. This doctor may agree with the first doctor, suggest changes to the treatment plan, or provide more information about your child's cancer.\nTo learn more about choosing a doctor and getting a second opinion, visit Finding Cancer Care . You can contact NCI's Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor or hospital that can provide a second opinion. For questions you might want to ask at your child's appointments, visit Questions to Ask Your Doctor About Cancer ."
+        },
+        {
+          "section": "Who treats children with laryngeal tumors?",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Treatment of childhood laryngeal tumors",
+            "Who treats children with laryngeal tumors?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "A pediatric oncologist, a doctor who specializes in treating children with cancer, oversees treatment of laryngeal tumors. The pediatric oncologist works with other health care providers who are experts in treating children with cancer and who specialize in certain areas of medicine. Other specialists may include:\n- pediatrician\n- pediatric surgeon\n- radiation oncologist\n- pathologist\n- ear, nose, and throat specialist\n- social worker\n- rehabilitation specialist\n- psychologist\n- child-life specialist\nThere are different types of treatment for children with laryngeal tumors. You and your child's care team will work together to decide on treatment. Many factors will be considered, such as your child's overall health and whether the tumor is newly diagnosed or has come back.\nYour child's treatment plan will include information about the tumor, the goals of treatment, treatment options, and the possible side effects. It will be helpful to talk with your child's care team before treatment begins about what to expect. For help every step of the way, see our booklet, Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Treatment of childhood laryngeal cancer",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Treatment of childhood laryngeal tumors",
+            "Treatment of childhood laryngeal cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Laser surgery uses a laser beam (a narrow beam of intense light) to destroy the cancer cells.\nFor laryngeal cancer that is likely to spread, external radiation therapy is also used. This treatment uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. Learn more about External Beam Radiation Therapy for Cancer and Radiation Therapy Side Effects .\nIf the cancer comes back after treatment, your child's doctor will talk with you about what to expect and possible next steps. There might be treatment options that may shrink the cancer or control its growth. If there are no treatments, your child can receive care to control symptoms from cancer so they can be as comfortable as possible."
+        },
+        {
+          "section": "Treatment of childhood laryngeal papillomatosis",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Treatment of childhood laryngeal tumors",
+            "Treatment of childhood laryngeal papillomatosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Laser surgery, which uses a laser beam (a narrow beam of intense light) to destroy cancer cells, may be used to treat newly diagnosed papillomatosis or other benign tumors.\nFor laryngeal papillomatosis that comes back after being removed by laser surgery four times in one year, treatment may include:\n- Immunotherapy. Immunotherapy uses the patient's immune system to fight disease.\n- Laser surgery combined with targeted therapy. Targeted therapy uses drugs or other substances to block the action of specific enzymes, proteins , or other molecules involved in the growth and spread of cancer cells."
+        },
+        {
+          "section": "Clinical trials",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Clinical trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some children, joining a clinical trial may be an option. There are different types of clinical trials for childhood cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your child's age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Follow-up care",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Follow-up care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As your child goes through treatment, they will have follow-up tests or check-ups. Some of the tests that were done to diagnose the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your child's condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Coping with your child's cancer",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Coping with your child's cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "When your child has cancer, every member of the family needs support. Taking care of yourself during this difficult time is important. Reach out to your child's treatment team and to people in your family and community for support. To learn more, visit Support for Families: Childhood Cancer and the booklet Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Related Resources",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "Related Resources"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "For more childhood cancer information and other general cancer resources, visit:\n- Head and Neck Cancer Home Page\n- Immunotherapy to Treat Cancer\n- Targeted Therapy to Treat Cancer\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Late Effects of Treatment for Childhood Cancer\n- Adolescents and Young Adults with Cancer\n- Cancer in Children and Adolescents\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of childhood laryngeal cancer and papillomatosis. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Laryngeal Tumors. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/patient/child/laryngeal-treatment-pdq . Accessed <MM/DD/YYYY>.\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Laryngeal Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\6981660eac0c9b83a005.html"
+    }
+  ]
+}

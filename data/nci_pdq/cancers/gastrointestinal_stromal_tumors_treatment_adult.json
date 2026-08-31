@@ -1,0 +1,422 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Gastrointestinal Stromal Tumors Treatment (Adult)",
+  "generated_at": "2026-08-31T07:15:23.266849+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Gastrointestinal Stromal Tumors Treatment (Adult)",
+      "title": "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+      "summary_name": "Gastrointestinal Stromal Tumors Treatment (Adult)",
+      "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/patient/gist-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "August 28, 2020",
+      "retrieved_at": "2026-08-31T07:14:34.358451+00:00",
+      "content_sha256": "201bdbd2ceaee8e530bf281cb67b62fec9cd892283ddd9d41ea17b6d16942b85",
+      "section_count": 35,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "General Information About Gastrointestinal Stromal Tumors",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Gastrointestinal stromal tumor is a disease in which abnormal cells form in the tissues of the gastrointestinal tract.\n- Genetic factors can increase the risk of having a gastrointestinal stromal tumor.\n- Signs of gastrointestinal stromal tumors include blood in the stool or vomit.\n- Tests that examine the GI tract are used to diagnose gastrointestinal stromal tumors.\n- Very small GISTs are common.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Gastrointestinal stromal tumor is a disease in which abnormal cells form in the tissues of the gastrointestinal tract.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "General Information About Gastrointestinal Stromal Tumors",
+            "Gastrointestinal stromal tumor is a disease in which abnormal cells form in the tissues of the gastrointestinal tract."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The gastrointestinal (GI) tract is part of the body’s digestive system . It helps to digest food and takes nutrients ( vitamins , minerals , carbohydrates , fats, proteins , and water) from food so they can be used by the body. The GI tract is made up of the following organs :\n- Stomach .\n- Small intestine .\n- Large intestine ( colon ).\nSome gastrointestinal stromal tumors (GISTs) grow slowly over time and may never cause a problem for a patient, while others can grow and spread very quickly. They are most common in the stomach and small intestine but may be found anywhere in or near the GI tract. Some scientists believe that GISTs begin in cells called interstitial cells of Cajal (ICC), in the wall of the GI tract. Enlarge Gastrointestinal stromal tumors (GISTs) may be found anywhere in or near the gastrointestinal tract.\nSee the PDQ summary about Childhood Gastrointestinal Stromal Tumors Treatment for information on the treatment of GIST in children."
+        },
+        {
+          "section": "Genetic factors can increase the risk of having a gastrointestinal stromal tumor.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "General Information About Gastrointestinal Stromal Tumors",
+            "Genetic factors can increase the risk of having a gastrointestinal stromal tumor."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Anything that increases your risk of getting a disease is called a risk factor . Having a risk factor does not mean that you will get cancer ; not having risk factors doesn't mean that you will not get cancer. Talk with your doctor if you think you may be at risk.\nThe genes in cells carry the hereditary information received from a person’s parents. The risk of GIST is increased in people who have inherited a mutation (change) in a certain gene. In rare cases, GISTs can be found in several members of the same family.\nGIST may be part of a genetic syndrome , but this is rare. A genetic syndrome is a set of symptoms or conditions that occur together and is usually caused by abnormal genes. The following genetic syndromes have been linked to GIST:\n- Neurofibromatosis type 1 (NF1).\n- Carney triad ."
+        },
+        {
+          "section": "Signs of gastrointestinal stromal tumors include blood in the stool or vomit.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "General Information About Gastrointestinal Stromal Tumors",
+            "Signs of gastrointestinal stromal tumors include blood in the stool or vomit."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "These and other signs and symptoms may be caused by a GIST or by other conditions. Check with your doctor if you have any of the following:\n- Blood (either bright red or very dark) in the stool or vomit .\n- Pain in the abdomen , which may be severe.\n- Feeling very tired.\n- Trouble or pain when swallowing.\n- Feeling full after only a little food is eaten."
+        },
+        {
+          "section": "Tests that examine the GI tract are used to diagnose gastrointestinal stromal tumors.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "General Information About Gastrointestinal Stromal Tumors",
+            "Tests that examine the GI tract are used to diagnose gastrointestinal stromal tumors."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "The following tests and procedures may be used:\n- Physical exam and health history : An exam of the body to check general signs of health, including checking for signs of disease, such as lumps or anything else that seems unusual. A history of the patient’s health habits and past illnesses and treatments will also be taken.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- Endoscopic ultrasound and biopsy : Endoscopy and ultrasound are used to make an image of the upper GI tract and a biopsy is done. An endoscope (a thin, tube-like instrument with a light and a lens for viewing) is inserted through the mouth and into the esophagus , stomach, and first part of the small intestine. A probe at the end of the endoscope is used to bounce high-energy sound waves (ultrasound) off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram . This procedure is also called endosonography. Guided by the sonogram, the doctor removes tissue using a thin, hollow needle. A pathologist views the tissue under a microscope to look for cancer cells.\nIf cancer is found, the following tests may be done to study the cancer cells:\n- Immunohistochemistry : A laboratory test that uses antibodies to check for certain antigens ( markers ) in a sample of a patient’s tissue. The antibodies are usually linked to an enzyme or a fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and to help tell one type of cancer from another type of cancer.\n- Mitotic rate : A measure of how fast the cancer cells are dividing and growing. The mitotic rate is found by counting the number of cells dividing in a certain amount of cancer tissue."
+        },
+        {
+          "section": "Very small GISTs are common.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "General Information About Gastrointestinal Stromal Tumors",
+            "Very small GISTs are common."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Sometimes GISTs are smaller than the eraser on top of a pencil. Tumors may be found during a procedure that is done for another reason, such as an x-ray or surgery . Some of these small tumors will not grow and cause signs or symptoms or spread to the abdomen or other parts of the body. Doctors do not agree on whether these small tumors should be removed or whether they should be watched to see if they begin to grow."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "General Information About Gastrointestinal Stromal Tumors",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The prognosis and treatment options depend on the following:\n- How quickly the cancer cells are growing and dividing.\n- The size of the tumor.\n- Where the tumor is in the body.\n- Whether the tumor can be completely removed by surgery.\n- Whether the tumor has spread to other parts of the body."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Stages of Gastrointestinal Stromal Tumors",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- After a gastrointestinal stromal tumor has been diagnosed, tests are done to find out if cancer cells have spread within the gastrointestinal tract or to other parts of the body.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- The results of diagnostic and staging tests are used to plan treatment."
+        },
+        {
+          "section": "After a gastrointestinal stromal tumor has been diagnosed, tests are done to find out if cancer cells have spread within the gastrointestinal tract or to other parts of the body.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Stages of Gastrointestinal Stromal Tumors",
+            "After a gastrointestinal stromal tumor has been diagnosed, tests are done to find out if cancer cells have spread within the gastrointestinal tract or to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The process used to find out if cancer has spread within the gastrointestinal (GI) tract or to other parts of the body is called staging . The information gathered from the staging process determines the stage of the disease. The following tests and procedures may be used in the staging process:\n- PET scan (positron emission tomography scan) : A procedure to find malignant tumor cells in the body. A small amount of radioactive glucose (sugar) is injected into a vein . The PET scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body.\n- Bone scan : A procedure to check if there are rapidly dividing cells, such as cancer cells, in the bone. A very small amount of radioactive material is injected into a vein and travels through the bloodstream. The radioactive material collects in the bones with cancer and is detected by a scanner."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Stages of Gastrointestinal Stromal Tumors",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Stages of Gastrointestinal Stromal Tumors",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of tumor as the primary tumor. For example, if a gastrointestinal stromal tumor (GIST) spreads to the liver , the tumor cells in the liver are actually GIST cells. The disease is metastatic GIST, not liver cancer ."
+        },
+        {
+          "section": "The results of diagnostic and staging tests are used to plan treatment.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Stages of Gastrointestinal Stromal Tumors",
+            "The results of diagnostic and staging tests are used to plan treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "For many cancers it is important to know the stage of the cancer in order to plan treatment. However, the treatment of GIST is not based on the stage of the cancer. Treatment is based on whether the tumor can be removed by surgery and if the tumor has spread to other parts of the abdomen or to distant parts of the body.\nTreatment is based on whether the tumor is:\n- Resectable : These tumors can be removed by surgery .\n- Unresectable : These tumors cannot be completely removed by surgery.\n- Metastatic and recurrent : Metastatic tumors have spread to other parts of the body. Recurrent tumors have recurred (come back) after treatment. Recurrent GISTs may come back in the gastrointestinal tract or in other parts of the body. They are usually found in the abdomen, peritoneum , and/or liver .\n- Refractory : These tumors have not gotten better with treatment."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- There are different types of treatment for patients with gastrointestinal stromal tumors.\n- Four types of standard treatment are used:\n- Surgery\n- Targeted therapy\n- Watchful waiting\n- Supportive care\n- New types of treatment are being tested in clinical trials.\n- Treatment for gastrointestinal stromal tumors may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with gastrointestinal stromal tumors.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with gastrointestinal stromal tumors."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatments are available for patients with gastrointestinal stromal tumors (GISTs). Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Four types of standard treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If the GIST has not spread and is in a place where surgery can be safely done, the tumor and some of the tissue around it may be removed. Sometimes surgery is done using a laparoscope (a thin, lighted tube) to see inside the body. Small incisions (cuts) are made in the wall of the abdomen and a laparoscope is inserted into one of the incisions. Instruments may be inserted through the same incision or through other incisions to remove organs or tissues."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Four types of standard treatment are used:",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells . Targeted therapies usually cause less harm to normal cells than chemotherapy or radiation therapy do.\nTyrosine kinase inhibitors (TKIs) are targeted therapy drugs that block signals needed for tumors to grow. TKIs may be used to treat GISTs that cannot be removed by surgery or to shrink GISTs so they become small enough to be removed by surgery. Imatinib mesylate and sunitinib are two TKIs used to treat GISTs. TKIs are sometimes given for as long as the tumor does not grow and serious side effects do not occur.\nSee Drugs Approved for Gastrointestinal Stromal Tumors for more information."
+        },
+        {
+          "section": "Watchful waiting",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Four types of standard treatment are used:",
+            "Watchful waiting"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Watchful waiting is closely monitoring a patient’s condition without giving any treatment until signs or symptoms appear or change."
+        },
+        {
+          "section": "Supportive care",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Four types of standard treatment are used:",
+            "Supportive care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If a GIST gets worse during treatment or there are side effects, supportive care is usually given. The goal of supportive care is to prevent or treat the symptoms of a disease, side effects caused by treatment, and psychological , social, and spiritual problems related to a disease or its treatment. Supportive care helps improve the quality of life of patients who have a serious or life-threatening disease. Radiation therapy is sometimes given as supportive care to relieve pain in patients with large tumors that have spread."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Treatment for gastrointestinal stromal tumors may cause side effects.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for gastrointestinal stromal tumors may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back).\nFollow-up for GISTs that were removed by surgery may include CT scan of the liver and pelvis or watchful waiting. For GISTs that are treated with tyrosine kinase inhibitors, follow-up tests, such as CT, MRI , or PET scans , may be done to check how well the targeted therapy is working."
+        },
+        {
+          "section": "Treatment of Resectable Gastrointestinal Stromal Tumors",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment of Resectable Gastrointestinal Stromal Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nResectable gastrointestinal stromal tumors (GISTs) can be completely or almost completely removed by surgery . Treatment may include the following:\n- Surgery to remove tumors that are 2 centimeters or larger. Laparoscopic surgery may be done if the tumor is 5 cm or smaller. If there are cancer cells remaining at the edges of the area where the tumor was removed, watchful waiting or targeted therapy with imatinib mesylate may follow.\n- A clinical trial of targeted therapy with imatinib mesylate following surgery, to decrease the chance the tumor will recur (come back)."
+        },
+        {
+          "section": "Treatment of Unresectable Gastrointestinal Stromal Tumors",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment of Unresectable Gastrointestinal Stromal Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nUnresectable GISTs cannot be completely removed by surgery because they are too large or in a place where there would be too much damage to nearby organs if the tumor is removed. Treatment is usually a clinical trial of targeted therapy with imatinib mesylate to shrink the tumor, followed by surgery to remove as much of the tumor as possible."
+        },
+        {
+          "section": "Treatment of Metastatic and Recurrent Gastrointestinal Stromal Tumors",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment of Metastatic and Recurrent Gastrointestinal Stromal Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of GISTs that are metastatic (spread to other parts of the body) or recurrent (came back after treatment) may include the following:\n- Targeted therapy with imatinib mesylate .\n- Targeted therapy with sunitinib , if the tumor begins to grow during imatinib mesylate therapy or if the side effects are too bad.\n- Surgery to remove tumors that have been treated with targeted therapy and are shrinking, stable (not changing), or that have slightly increased in size. Targeted therapy may continue after surgery.\n- Surgery to remove tumors when there are serious complications , such as bleeding, a hole in the gastrointestinal (GI) tract , a blocked GI tract, or infection .\n- A clinical trial of a new treatment."
+        },
+        {
+          "section": "Treatment of Refractory Gastrointestinal Stromal Tumors",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "Treatment of Refractory Gastrointestinal Stromal Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nMany GISTs treated with a tyrosine kinase inhibitor (TKI) become refractory (stop responding) to the drug after a while. Treatment is usually a clinical trial with a different TKI or a clinical trial of a new drug."
+        },
+        {
+          "section": "To Learn More About Gastrointestinal Stromal Tumors",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "To Learn More About Gastrointestinal Stromal Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "For more information from the National Cancer Institute about gastrointestinal stromal tumors, see the following:\n- Soft Tissue Sarcoma Home Page\n- Childhood Gastrointestinal Stromal Tumors Treatment\n- Drugs Approved for Gastrointestinal Stromal Tumors\n- Targeted Cancer Therapies\n- Angiogenesis Inhibitors\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of adult gastrointestinal stromal tumors. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Gastrointestinal Stromal Tumors Treatment (Adult). Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/soft-tissue-sarcoma/patient/gist-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389367]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Gastrointestinal Stromal Tumors Treatment (Adult) (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\1284d1d760102a575603.html"
+    }
+  ]
+}

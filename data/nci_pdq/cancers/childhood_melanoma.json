@@ -1,0 +1,674 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Childhood Melanoma",
+  "generated_at": "2026-08-31T07:15:23.131567+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Childhood Melanoma",
+      "title": "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Childhood Melanoma Treatment",
+      "url": "https://www.cancer.gov/types/skin/hp/child-melanoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "April 3, 2025",
+      "retrieved_at": "2026-08-31T07:13:50.651188+00:00",
+      "content_sha256": "0f624b5daa58779b708719210a2d2710780fd0780a45cd090d8a3a8db23306fe",
+      "section_count": 24,
+      "sections": [
+        {
+          "section": "Incidence",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Incidence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Melanoma is rare in children. However, it is the most common skin cancer in children, followed by basal cell carcinomas and squamous cell carcinomas.[ 1 - 8 ]\nApproximately 300 cases of melanoma are diagnosed each year in patients younger than 20 years in the United States, accounting for 0.3% of all new cases of melanoma.[ 9 ] Melanoma accounts for about 3% of all cancers in children aged 15 to 19 years.[ 10 ]\nMelanoma annual incidence in the United States increases with age, as shown in Figure 1 from the National Childhood Cancer Registry (NCCR).[ 10 ] For children younger than 10 years, the incidence rate is approximately 1 to 2 cases per 1 million. During adolescence, the rates increase steadily with age, although they are much lower than those observed in adults.[ 10 , 11 ]\nFigure 1 also shows that among adolescents aged 15 to 19 years, melanoma rates are significantly higher for females (10.4 per 1 million; 95% confidence interval [CI], 9.4–11.5) than males (5.7 per 1 million; 95% CI, 5.0–6.6). Incidence rates for children younger than 15 years do not differ significantly between girls and boys.\nThe incidence of pediatric melanoma (aged 0–19 years) increased by an average of 1.6% per year between 1975 and 1996. As shown in Figure 2 , melanoma incidence continued to increase through 2003 for adolescents (aged 15–19 years), but it subsequently dropped significantly by approximately 6% per year.[ 10 ] During this same period, the incidence decreased slightly for children aged 0 to 14 years, but the change over time was not significant. The reason for the decline in melanoma incidence among adolescents aged 15 to 19 years is not known, but possible explanations include increased use of sunscreen and protective clothing, increased dermatological care, and reduced access to tanning beds.[ 11 ]\nA retrospective study of 22,524 skin pathology reports from patients younger than 20 years identified 38 melanomas, 33 of which occurred in patients aged 15 to 19 years. Investigators reported that the number of lesions that needed to be excised to identify one melanoma was 479.8, which is 20 times higher than in the adult population.[ 12 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Incidence",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- Sasson M, Mallory SB: Malignant primary skin tumors in children. Curr Opin Pediatr 8 (4): 372-7, 1996. [PUBMED Abstract]\n- Fishman C, Mihm MC, Sober AJ: Diagnosis and management of nevi and cutaneous melanoma in infants and children. Clin Dermatol 20 (1): 44-50, 2002 Jan-Feb. [PUBMED Abstract]\n- Hamre MR, Chuba P, Bakhshi S, et al.: Cutaneous melanoma in childhood and adolescence. Pediatr Hematol Oncol 19 (5): 309-17, 2002 Jul-Aug. [PUBMED Abstract]\n- Ceballos PI, Ruiz-Maldonado R, Mihm MC: Melanoma in children. N Engl J Med 332 (10): 656-62, 1995. [PUBMED Abstract]\n- Schmid-Wendtner MH, Berking C, Baumert J, et al.: Cutaneous melanoma in childhood and adolescence: an analysis of 36 patients. J Am Acad Dermatol 46 (6): 874-9, 2002. [PUBMED Abstract]\n- Pappo AS: Melanoma in children and adolescents. Eur J Cancer 39 (18): 2651-61, 2003. [PUBMED Abstract]\n- Huynh PM, Grant-Kels JM, Grin CM: Childhood melanoma: update and treatment. Int J Dermatol 44 (9): 715-23, 2005. [PUBMED Abstract]\n- Christenson LJ, Borrowman TA, Vachon CM, et al.: Incidence of basal cell and squamous cell carcinomas in a population younger than 40 years. JAMA 294 (6): 681-90, 2005. [PUBMED Abstract]\n- National Cancer Institute: SEER Stat Fact Sheets: Melanoma of the Skin. Bethesda, Md: National Cancer Institute. Available online . Last accessed December 15, 2023.\n- National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed February 25, 2025.\n- Paulson KG, Gupta D, Kim TS, et al.: Age-Specific Incidence of Melanoma in the United States. JAMA Dermatol 156 (1): 57-64, 2020. [PUBMED Abstract]\n- Moscarella E, Zalaudek I, Cerroni L, et al.: Excised melanocytic lesions in children and adolescents - a 10-year survey. Br J Dermatol 167 (2): 368-73, 2012. [PUBMED Abstract]"
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "Conditions associated with an increased risk of developing melanoma in children and adolescents include the following:\n- Giant melanocytic nevi.[ 1 ]\n- Xeroderma pigmentosum. This is a rare recessive disorder characterized by extreme sensitivity to sunlight, keratosis, and various neurological manifestations.[ 1 ] For more information about xeroderma pigmentosum, see Genetics of Skin Cancer .\n- Immunodeficiency or immunosuppression.[ 2 ]\n- Hereditary retinoblastoma.[ 3 ]\n- Werner syndrome.[ 4 , 5 ]\n- Neurocutaneous melanosis. This is an unusual condition that arises in the context of congenital melanocytic nevi and is associated with large or multiple congenital nevi of the skin in association with meningeal melanosis or melanoma. Approximately 2.5% of patients with large congenital nevi develop this condition, and those with increased numbers of satellite nevi are at greatest risk.[ 6 , 7 ] Patients with central nervous system (CNS) melanomas arising in the context of congenital melanocytic nevi syndrome have a poor prognosis, with a mortality rate of 100%. Most of these patients have NRAS variants. Therefore, mitogen-activated protein kinase pathway inhibitors might be used in the treatment of this disease. Four children who received a MEK inhibitor experienced transient symptomatic improvements. However, all patients eventually died of disease progression.[ 8 ] A German registry identified five children with CNS melanomas who had neurocutaneous melanocytosis.[ 9 ] All patients died 0.3 to 0.8 years after they were diagnosed.\n- Family history of melanoma.\nPhenotypic traits associated with an increased risk of melanoma in adults have been documented in children and adolescents with melanoma and include the following:[ 10 - 16 ]\n- Exposure to UV sunlight. Increased exposure to ambient UV radiation increases disease risk.\n- Red hair.\n- Blue eyes.\n- Poor tanning ability.\n- Freckling.\n- Dysplastic nevi.\n- Increased number of melanocytic nevi.\nGermline pathogenic variants associated with an increased risk of melanoma in children include the following:\n- MC1R gene. A multinational consortium performed a retrospective review of germline pathogenic variants in the MC1R gene.[ 17 ] The investigators analyzed data from 233 young patients (aged ≤20 years), 932 adult patients (aged ≥35 years), and 932 healthy adult controls. MC1R variants were more prevalent in childhood and adolescent patients with melanoma than in adult patients with melanoma. This finding was especially true for patients aged 18 years or younger.\n- CDKN2A gene ( p16 gene). Familial melanoma comprises 8% to 12% of melanoma cases. p16 germline pathogenic variants have been described in up to 7% of families with two first-degree relatives with melanoma and in up to 80% of families having one member with multiple primary melanomas.[ 18 ] In a prospective study of 60 families who had more than three members with melanoma,[ 19 ] one-half of the 60 families studied had a germline CDKN2A pathogenic variant. Regardless of CDKN2A status, melanoma-prone families were found to have sixfold to 28-fold higher percentages of members with pediatric melanoma compared with the general population of patients with melanoma in the United States. Within CDKN2A -positive families, pediatric patients with melanoma were significantly more likely to have multiple melanomas compared with their relatives who were older than 20 years at diagnosis (71% vs. 38%, respectively; P = .004). CDKN2A -positive families had significantly higher percentages of pediatric patients with melanoma compared with CDKN2A -negative families (11.1% vs. 2.5%, respectively; P = .004).\n- MITF p.E318K variant. In one series of patients younger than 21 years, 3 of 123 patients (2.4%) had an MITF substitution considered to confer a moderate risk of developing cutaneous melanoma.[ 20 , 21 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "- Ceballos PI, Ruiz-Maldonado R, Mihm MC: Melanoma in children. N Engl J Med 332 (10): 656-62, 1995. [PUBMED Abstract]\n- Pappo AS: Melanoma in children and adolescents. Eur J Cancer 39 (18): 2651-61, 2003. [PUBMED Abstract]\n- Kleinerman RA, Tucker MA, Tarone RE, et al.: Risk of new cancers after radiotherapy in long-term survivors of retinoblastoma: an extended follow-up. J Clin Oncol 23 (10): 2272-9, 2005. [PUBMED Abstract]\n- Shibuya H, Kato A, Kai N, et al.: A case of Werner syndrome with three primary lesions of malignant melanoma. J Dermatol 32 (9): 737-44, 2005. [PUBMED Abstract]\n- Kleinerman RA, Yu CL, Little MP, et al.: Variation of second cancer risk by family history of retinoblastoma among long-term survivors. J Clin Oncol 30 (9): 950-7, 2012. [PUBMED Abstract]\n- Hale EK, Stein J, Ben-Porat L, et al.: Association of melanoma and neurocutaneous melanocytosis with large congenital melanocytic naevi--results from the NYU-LCMN registry. Br J Dermatol 152 (3): 512-7, 2005. [PUBMED Abstract]\n- Makkar HS, Frieden IJ: Neurocutaneous melanosis. Semin Cutan Med Surg 23 (2): 138-44, 2004. [PUBMED Abstract]\n- Kinsler VA, O'Hare P, Jacques T, et al.: MEK inhibition appears to improve symptom control in primary NRAS-driven CNS melanoma in children. Br J Cancer 116 (8): 990-993, 2017. [PUBMED Abstract]\n- Abele M, Forchhammer S, Eigentler TK, et al.: Melanoma of the central nervous system based on neurocutaneous melanocytosis in childhood: A rare but fatal condition. Pediatr Blood Cancer 71 (4): e30859, 2024. [PUBMED Abstract]\n- Heffernan AE, O'Sullivan A: Pediatric sun exposure. Nurse Pract 23 (7): 67-8, 71-8, 83-6, 1998. [PUBMED Abstract]\n- Berg P, Lindelöf B: Differences in malignant melanoma between children and adolescents. A 35-year epidemiological study. Arch Dermatol 133 (3): 295-7, 1997. [PUBMED Abstract]\n- Elwood JM, Jopson J: Melanoma and sun exposure: an overview of published studies. Int J Cancer 73 (2): 198-203, 1997. [PUBMED Abstract]\n- Strouse JJ, Fears TR, Tucker MA, et al.: Pediatric melanoma: risk factor and survival analysis of the surveillance, epidemiology and end results database. J Clin Oncol 23 (21): 4735-41, 2005. [PUBMED Abstract]\n- Whiteman DC, Valery P, McWhirter W, et al.: Risk factors for childhood melanoma in Queensland, Australia. Int J Cancer 70 (1): 26-31, 1997. [PUBMED Abstract]\n- Tucker MA, Fraser MC, Goldstein AM, et al.: A natural history of melanomas and dysplastic nevi: an atlas of lesions in melanoma-prone families. Cancer 94 (12): 3192-209, 2002. [PUBMED Abstract]\n- Ducharme EE, Silverberg NB: Pediatric malignant melanoma: an update on epidemiology, detection, and prevention. Cutis 84 (4): 192-8, 2009. [PUBMED Abstract]\n- Pellegrini C, Botta F, Massi D, et al.: MC1R variants in childhood and adolescent melanoma: a retrospective pooled analysis of a multicentre cohort. Lancet Child Adolesc Health 3 (5): 332-342, 2019. [PUBMED Abstract]\n- Soufir N, Avril MF, Chompret A, et al.: Prevalence of p16 and CDK4 germline mutations in 48 melanoma-prone families in France. The French Familial Melanoma Study Group. Hum Mol Genet 7 (2): 209-16, 1998. [PUBMED Abstract]\n- Goldstein AM, Stidd KC, Yang XR, et al.: Pediatric melanoma in melanoma-prone families. Cancer 124 (18): 3715-3723, 2018. [PUBMED Abstract]\n- Pellegrini C, Raimondi S, Di Nardo L, et al.: Melanoma in children and adolescents: analysis of susceptibility genes in 123 Italian patients. J Eur Acad Dermatol Venereol 36 (2): 213-221, 2022. [PUBMED Abstract]\n- Guhan SM, Artomov M, McCormick S, et al.: Cancer risks associated with the germline MITF(E318K) variant. Sci Rep 10 (1): 17051, 2020. [PUBMED Abstract]"
+        },
+        {
+          "section": "Diagnostic Evaluation",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Diagnostic Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The diagnosis of pediatric melanomas may be difficult, and many of these lesions may be confused with so-called melanocytic lesions with unknown malignant potential.[ 1 ] These lesions are biologically different from melanoma and benign nevi.[ 1 , 2 ] The terms Spitz nevus and spitzoid melanoma are also commonly used, creating additional confusion. One retrospective study found that children aged 10 years or older were more likely to present with amelanotic lesions, bleeding, uniform color, variable diameter, and elevation (such as a de novo bump).[ 3 ][ Level of evidence C1 ]\nThe diagnostic evaluation of pediatric melanomas includes the following:\n- Biopsy or excision. Biopsy or excision is necessary to diagnose any skin cancer and determine additional treatment. Although basal cell carcinomas and squamous cell carcinomas are generally curable with surgery alone, melanoma requires greater consideration because of its potential for metastasis. The width of surgical margins in melanoma is dictated by the site, size, and thickness of the lesion and ranges from 0.5 cm for in situ lesions to 2 cm or more for thicker lesions.[ 4 ] To achieve negative margins in children, wide excision with skin grafting may become necessary in selected cases. Partial shave biopsy may compromise microstaging and is associated with more invasive, definitive surgical treatments.[ 5 ]\n- Lymph node evaluation. Examination of regional lymph nodes using sentinel lymph node biopsy has become routine in many centers.[ 6 , 7 ] Sentinel lymph node biopsy is recommended for patients with lesions measuring 0.8 cm or larger,[ 4 ] as well as for patients whose lesions are less than 0.8 cm and who have ulceration or other unfavorable features such as lymphovascular invasion, high mitotic rate, young age, or a positive margin biopsy.[ 4 , 6 , 8 - 10 ] The indications for this procedure in patients with spitzoid melanomas have not been clearly defined. In a systematic review of 541 patients with atypical Spitz tumors, 303 (56%) underwent sentinel lymph node biopsy and 119 (39%) had a positive sentinel node. Further lymph node dissection in 97 of these patients revealed additional positive nodes in 18 patients (19%).[ 11 ] Despite the high incidence of nodal metastases, only six patients developed disseminated disease. This finding challenges the prognostic and therapeutic benefit of this procedure in children with these lesions. In the future, molecular markers, such as the presence of TERT promoter variants, may help identify which patients might benefit from this procedure.[ 12 ] The role of complete lymph node dissection after a positive sentinel node and the value of adjuvant therapies in these patients is discussed in the Treatment of Childhood Melanoma section.\n- Laboratory and imaging evaluation. Patients who present with conventional or adult-type melanoma should undergo laboratory and imaging evaluations based on adult guidelines. For more information, see the Stage Information for Melanoma section in Melanoma Treatment. In contrast, patients who are diagnosed with spitzoid melanomas have a low risk of recurrence and excellent clinical outcomes and do not require extensive radiographic evaluation either at diagnosis or follow-up.[ 13 ]\nA Children's Oncology Group–led panel of experts from different specialties have developed recommendations for the diagnostic evaluation and surgical management of cutaneous melanomas, atypical Spitz tumors, and non-Spitz melanocytic tumors.[ 14 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Diagnostic Evaluation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "- Berk DR, LaBuz E, Dadras SS, et al.: Melanoma and melanocytic tumors of uncertain malignant potential in children, adolescents and young adults--the Stanford experience 1995-2008. Pediatr Dermatol 27 (3): 244-54, 2010 May-Jun. [PUBMED Abstract]\n- Cerroni L, Barnhill R, Elder D, et al.: Melanocytic tumors of uncertain malignant potential: results of a tutorial held at the XXIX Symposium of the International Society of Dermatopathology in Graz, October 2008. Am J Surg Pathol 34 (3): 314-26, 2010. [PUBMED Abstract]\n- Cordoro KM, Gupta D, Frieden IJ, et al.: Pediatric melanoma: results of a large cohort study and proposal for modified ABCD detection criteria for children. J Am Acad Dermatol 68 (6): 913-25, 2013. [PUBMED Abstract]\n- Ferrari A, Lopez Almaraz R, Reguerre Y, et al.: Cutaneous melanoma in children and adolescents: The EXPeRT/PARTNER diagnostic and therapeutic recommendations. Pediatr Blood Cancer 68 (Suppl 4): e28992, 2021. [PUBMED Abstract]\n- Arjunan A, Wardrop M, Malek MM, et al.: Treatment outcomes following partial shave biopsy of atypical and malignant melanocytic tumors in pediatric patients. Melanoma Res 34 (6): 544-548, 2024. [PUBMED Abstract]\n- Shah NC, Gerstle JT, Stuart M, et al.: Use of sentinel lymph node biopsy and high-dose interferon in pediatric patients with high-risk melanoma: the Hospital for Sick Children experience. J Pediatr Hematol Oncol 28 (8): 496-500, 2006. [PUBMED Abstract]\n- Kayton ML, La Quaglia MP: Sentinel node biopsy for melanocytic tumors in children. Semin Diagn Pathol 25 (2): 95-9, 2008. [PUBMED Abstract]\n- Swetter SM, Thompson JA, Albertini MR, et al.: NCCN Guidelines® Insights: Melanoma: Cutaneous, Version 2.2021. J Natl Compr Canc Netw 19 (4): 364-376, 2021. [PUBMED Abstract]\n- Ariyan CE, Coit DG: Clinical aspects of sentinel lymph node biopsy in melanoma. Semin Diagn Pathol 25 (2): 86-94, 2008. [PUBMED Abstract]\n- Pacella SJ, Lowe L, Bradford C, et al.: The utility of sentinel lymph node biopsy in head and neck melanoma in the pediatric population. Plast Reconstr Surg 112 (5): 1257-65, 2003. [PUBMED Abstract]\n- Lallas A, Kyrgidis A, Ferrara G, et al.: Atypical Spitz tumours and sentinel lymph node biopsy: a systematic review. Lancet Oncol 15 (4): e178-83, 2014. [PUBMED Abstract]\n- Lee S, Barnhill RL, Dummer R, et al.: TERT Promoter Mutations Are Predictive of Aggressive Clinical Behavior in Patients with Spitzoid Melanocytic Neoplasms. Sci Rep 5: 11200, 2015. [PUBMED Abstract]\n- Halalsheh H, Kaste SC, Navid F, et al.: The role of routine imaging in pediatric cutaneous melanoma. Pediatr Blood Cancer 65 (12): e27412, 2018. [PUBMED Abstract]\n- Sargen MR, Barnhill RL, Elder DE, et al.: Evaluation and Surgical Management of Pediatric Cutaneous Melanoma and Atypical Spitz and Non-Spitz Melanocytic Tumors (Melanocytomas): A Report From Children's Oncology Group. J Clin Oncol 43 (9): 1157-1167, 2025. [PUBMED Abstract]"
+        },
+        {
+          "section": "Molecular Features",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Molecular Features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 41,
+          "text": "Accurate diagnosis of pediatric melanocytic lesions is essential for optimal risk stratification and treatment planning.\nMelanoma-related conditions with malignant potential that arise in the pediatric population can be classified into the following three general groups:[ 1 ]\n- Spitzoid melanocytic tumors ranging from atypical Spitz tumors to spitzoid melanomas.\n- Melanoma arising in older adolescents that shares characteristics with adult melanoma (i.e., conventional melanoma).\n- Large/giant congenital melanocytic nevus.\nLesions categorized as Spitz lesions are challenging to diagnose. Morphological assessment alone has significant limitations, and there is low interobserver expert agreement.[ 2 ]\nGenomic alterations involving multiple genes have been reported in melanocytic lesions. The characteristics of each tumor are summarized in Table 1 .\n- The genomic landscape of spitzoid melanomas is characterized by kinase gene fusions involving various genes, including RET , MAP3K8 , ROS1 , NTRK1 , ALK , MET , and BRAF .[ 3 - 6 ] These fusion genes have been reported in approximately 50% of cases and occur in a mutually exclusive manner.[ 1 , 4 ]\n- In a retrospective analysis of spitzoid tumors from 49 patients, whole-genome and transcriptome sequencing (RNA-Seq) found in-frame fusions or C-terminal truncations of MAP3K8 in 33% of cases.[ 6 ]\n- TERT promoter variants are uncommon in spitzoid melanocytic lesions and were observed in only 4 of 56 patients evaluated in one series. However, each of the four cases with TERT promoter variants experienced hematogenous metastases and died. This finding supports the potential for TERT promoter variants to predict aggressive clinical behavior in children with spitzoid melanocytic neoplasms, but additional study is needed to define the role of wild-type TERT promoter status in predicting clinical behavior in patients with primary site spitzoid tumors.[ 4 ]\n- A retrospective analysis of 352 cases of Spitz nevi identified oncogenic drivers in 76% of the patients.[ 7 ] No microscopic features allowed the reliable prediction of ROS1 and NTRK1 overexpressing cases. In contrast, a plexiform pattern was associated with ALK overexpression. The pseudo-schwannoma variant was highly suggestive of NTRK3 -rearranged cases. Atypical/malignant tumor, severe cellular atypia, and p16 loss were associated with MAP3K8 rearrangements. Sheet-like architecture and marked fibrosis of the stroma were associated with BRAF fusions.\nIn another study, 128 lesions were classified as Spitz tumors based on morphology (80 Spitz tumors, 26 Spitz melanomas, 22 melanomas with Spitz features).[ 8 ]\n- Kinase fusions or truncations were present in 81% of Spitz tumor cases and in 77% of Spitz melanoma cases. By comparison, 84% of melanomas with Spitz features had BRAF , NRAS , or NF1 variants, and 61% of these had TERT promoter variants.\n- Among patients in the Spitz tumor group whose melanoma recurred, one patient diagnosed with a BRAF V600E variant and a TERT promoter variant developed a distant recurrence and died. A second patient with a MAP3K8 fusion had a local recurrence.\n- Two patients with Spitz melanoma had recurrences and both had BRAF V600E variants.\n- Of the three patients in the melanoma with spitzoid features group who had a recurrence, all had either a BRAF or NRAS variant with a concomitant TERT promoter variant.\n- After reclassifying these patients by their clinical and genomic characteristics, and by incorporating the BRAF or NRAS variants into the melanoma with Spitz features category, a significant difference in recurrence-free survival rates could be detected among the groups with Spitz tumors. This finding suggests that incorporation of genomic features can greatly improve the classification of these lesions.\nConventional melanoma. The genomic landscape of conventional melanoma in children is represented by many of the genomic alterations that are found in adults with melanoma.[ 1 ] A report from the Pediatric Cancer Genome Project observed that 15 cases of conventional melanoma had high burdens of somatic single-nucleotide variants (SNV), TERT promoter variants (12 of 13), and activating BRAF V600 variants (13 of 15). The melanoma cases also had variant spectrum signatures consistent with UV light damage. In addition, two-thirds of the cases had MC1R variants associated with an increased susceptibility to melanoma. An Australian study compared the whole-genome sequencing of melanomas in adolescents and young adults (age range, 15–30 years) with the sequencing of melanomas in older adults.[ 9 ] The frequencies of somatic variants in BRAF (96%) and PTEN (36%) in the adolescent and young adult cohort were double the rates observed in the adult cohort. Adolescent and young adult melanomas contained a higher proportion of variant signatures unrelated to UV radiation than did mature adult melanomas, as a proportion of total variant burden.\nLarge congenital melanocytic nevi. Large congenital melanocytic nevi are reported to have activating NRAS Q61 variants with no other recurring variants noted.[ 10 ] Somatic mosaicism for NRAS Q61 variants has also been reported in patients with multiple congenital melanocytic nevi and neurocutaneous melanosis.[ 11 ]\nIntegrating genomic analysis in the evaluation of pediatric melanocytic lesions can optimize diagnostic accuracy and provide important prognostic information for the treating physician. In a prospective registry of 70 patients with pediatric melanocytic lesions, the use of an integrated clinicopathological and genomic assessment optimized the pathological diagnosis and improved the ability to predict clinical outcomes in these patients.[ 12 ]\n- Atypical Spitz tumor/Spitz melanoma.\n- Patients with atypical Spitz tumors/Spitz melanomas were younger and had tumors predominantly located in the extremities.\n- Genomic lesions in these patients were characterized by kinase fusions most often involving MAP3K8 and ALK .\n- Even though 62% of patients who had nodes sampled had nodal disease, none developed distant metastases and two developed locoregional recurrences.\n- Of the 33 patients tested, none of them had TERT promoter variants. However, CDKN2A was deleted in 15 patients. These findings suggest that TERT promoter variants might be better predictors of aggressive clinical behavior (development of metastases) in these lesions.\n- Conventional melanoma.\n- Patients with conventional melanoma (n = 17) were older and their tumors were more commonly located on the scalp or trunk.\n- Seven of 12 patients had a positive sentinel node.\n- Eleven of 17 patients had BRAF V600E variants.\n- Seven of 16 patients had TERT promoter variants, and three of these patients died.\n- Giant nevi.\n- Of the four patients with melanoma arising in a giant nevi, all had NRAS Q61 variants and all died of their disease.\nTumor | Affected Gene\nMelanoma | BRAF , NRAS , KIT, NF1\nSpitz melanoma | Kinase fusions ( RET , ROS , MET , ALK , BRAF , MAP3K8 , NTRK1 ); BAP1 loss in the presence of BRAF variant\nSpitz nevus | HRAS ; BRAF and NRAS (uncommon); kinase fusions ( ROS , ALK , NTRK1 , BRAF , RET , MAP3K8 )\nAcquired nevus | BRAF\nDysplastic nevus | BRAF , NRAS\nBlue nevus | GNAQ\nOcular melanoma | GNAQ\nCongenital nevi | NRAS"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Molecular Features",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- Lu C, Zhang J, Nagahawatte P, et al.: The genomic landscape of childhood and adolescent melanoma. J Invest Dermatol 135 (3): 816-23, 2015. [PUBMED Abstract]\n- Gerami P, Busam K, Cochran A, et al.: Histomorphologic assessment and interobserver diagnostic reproducibility of atypical spitzoid melanocytic neoplasms with long-term follow-up. Am J Surg Pathol 38 (7): 934-40, 2014. [PUBMED Abstract]\n- Wiesner T, He J, Yelensky R, et al.: Kinase fusions are frequent in Spitz tumours and spitzoid melanomas. Nat Commun 5: 3116, 2014. [PUBMED Abstract]\n- Lee S, Barnhill RL, Dummer R, et al.: TERT Promoter Mutations Are Predictive of Aggressive Clinical Behavior in Patients with Spitzoid Melanocytic Neoplasms. Sci Rep 5: 11200, 2015. [PUBMED Abstract]\n- Yeh I, Botton T, Talevich E, et al.: Activating MET kinase rearrangements in melanoma and Spitz tumours. Nat Commun 6: 7174, 2015. [PUBMED Abstract]\n- Newman S, Fan L, Pribnow A, et al.: Clinical genome sequencing uncovers potentially targetable truncations and fusions of MAP3K8 in spitzoid and other melanomas. Nat Med 25 (4): 597-602, 2019. [PUBMED Abstract]\n- Kervarrec T, Pissaloux D, Tirode F, et al.: Morphologic features in a series of 352 Spitz melanocytic proliferations help predict their oncogenic drivers. Virchows Arch 480 (2): 369-382, 2022. [PUBMED Abstract]\n- Quan VL, Zhang B, Zhang Y, et al.: Integrating Next-Generation Sequencing with Morphology Improves Prognostic and Biologic Classification of Spitz Neoplasms. J Invest Dermatol 140 (8): 1599-1608, 2020. [PUBMED Abstract]\n- Wilmott JS, Johansson PA, Newell F, et al.: Whole genome sequencing of melanomas in adolescent and young adults reveals distinct mutation landscapes and the potential role of germline variants in disease susceptibility. Int J Cancer 144 (5): 1049-1060, 2019. [PUBMED Abstract]\n- Charbel C, Fontaine RH, Malouf GG, et al.: NRAS mutation is the sole recurrent somatic mutation in large congenital melanocytic nevi. J Invest Dermatol 134 (4): 1067-74, 2014. [PUBMED Abstract]\n- Kinsler VA, Thomas AC, Ishida M, et al.: Multiple congenital melanocytic nevi and neurocutaneous melanosis are caused by postzygotic mutations in codon 61 of NRAS. J Invest Dermatol 133 (9): 2229-36, 2013. [PUBMED Abstract]\n- Pappo AS, McPherson V, Pan H, et al.: A prospective, comprehensive registry that integrates the molecular analysis of pediatric and adolescent melanocytic lesions. Cancer 127 (20): 3825-3831, 2021. [PUBMED Abstract]"
+        },
+        {
+          "section": "Prognosis and Prognostic Factors",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Prognosis and Prognostic Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 27,
+          "text": "Children and adolescents with melanoma generally have a favorable outcome. Table 2 shows the 5-year survival rates for children and adolescents with melanoma in the United States by age for the years between 2013 and 2019.[ 1 ]\nAge (y) | 5-Year Relative Survival Rate (%) | Lower 95% Confidence Interval | Upper 95% Confidence Interval\na Adapted from the National Childhood Cancer Registry. NCCR*Explorer: An interactive website for NCCR cancer statistics [Internet]. National Cancer Institute; 2023 Sep 7. [updated: 2023 Sep 8; cited 2024 Aug 12]. Available from: https://nccrexplorer.ccdi.cancer.gov.\nAge <1 | 85 | 63 | 94\nAges 1–4 | 83 | 71 | 90\nAges 5–9 | 99 | 95 | 100\nAges 10–14 | 95 | 90 | 97\nAges 15–19 | 97 | 95 | 99\nPediatric melanoma shares many similarities with adult melanoma, and the prognosis depends on disease stage.[ 2 ] As in adults, most pediatric patients (about 75%) have localized disease and excellent outcomes.[ 3 - 5 ]\nThe outcome for patients with nodal disease is intermediate, with about 60% expected to survive long term.[ 4 - 6 ] In one study, the outcome for patients with metastatic disease was favorable,[ 4 ] but this result was not duplicated in another study from the National Cancer Database.[ 6 ]\nChildren younger than 10 years who have melanoma often present with the following:[ 2 , 4 , 6 , 7 ]\n- Poor prognostic features.\n- Non-White races.\n- Head and neck primary tumors.\n- Thicker primary lesions.\n- Higher incidence of spitzoid morphology vascular invasion and nodal metastases.\n- Syndromes that predispose them to melanoma.\nThe use of sentinel lymph node biopsy for staging pediatric melanoma has become widespread. Primary tumor thickness and ulceration have been correlated with a higher incidence of nodal involvement.[ 8 ] Studies addressing nodal involvement and the lack of effect on outcome have reported the following findings:\n- Younger patients appear to have a higher incidence of nodal involvement, but this finding does not appear to significantly impact clinical outcomes.[ 7 , 9 ]\n- In other series of pediatric melanoma, a higher incidence of nodal involvement did not appear to impact survival.[ 10 - 12 ]\n- In a retrospective cohort study from the National Cancer Database, all records of patients with an index diagnosis of melanoma from 1998 to 2011 were reviewed. The data were abstracted from medical records, operative reports, and pathology reports and did not undergo central review. A total of 350,928 patients with adequate information were identified; 306 patients were aged 1 to 10 years (pediatric), and 3,659 patients were aged 11 to 20 years (adolescent).[ 13 ]\n- Pediatric patients had longer overall survival (OS) than adolescent patients (hazard ratio [HR], 0.50; 95% confidence interval [CI], 0.25–0.98) and patients older than 20 years (HR, 0.11; 95% CI, 0.06–0.21).\n- Adolescents had longer OS than adults.\n- No difference in OS was found between pediatric node-positive patients and node-negative patients.\n- In pediatric patients, sentinel lymph node biopsy and completion of lymph node dissection were not associated with increased OS.\n- In adolescents, nodal positivity was a significant negative prognostic indicator (HR, 4.82; 95% CI, 3.38–6.87).\nThe association of lesion thickness with clinical outcome is controversial in pediatric melanoma.[ 4 - 6 , 14 - 18 ] In addition, it is unclear why some variables that correlate with survival in adults are not replicated in children. One possible explanation for this difference might be the inclusion of patients who have lesions that are not true melanomas in the adult series, considering the problematic histological distinction between true melanoma and melanocytic lesions with unknown malignant potential. These patients are not included in pediatric trials.[ 19 , 20 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Prognosis and Prognostic Factors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "- National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed February 25, 2025.\n- Paradela S, Fonseca E, Pita-Fernández S, et al.: Prognostic factors for melanoma in children and adolescents: a clinicopathologic, single-center study of 137 Patients. Cancer 116 (18): 4334-44, 2010. [PUBMED Abstract]\n- Wong JR, Harris JK, Rodriguez-Galindo C, et al.: Incidence of childhood and adolescent melanoma in the United States: 1973-2009. Pediatrics 131 (5): 846-54, 2013. [PUBMED Abstract]\n- Strouse JJ, Fears TR, Tucker MA, et al.: Pediatric melanoma: risk factor and survival analysis of the surveillance, epidemiology and end results database. J Clin Oncol 23 (21): 4735-41, 2005. [PUBMED Abstract]\n- Brecht IB, Garbe C, Gefeller O, et al.: 443 paediatric cases of malignant melanoma registered with the German Central Malignant Melanoma Registry between 1983 and 2011. Eur J Cancer 51 (7): 861-8, 2015. [PUBMED Abstract]\n- Lange JR, Palis BE, Chang DC, et al.: Melanoma in children and teenagers: an analysis of patients from the National Cancer Data Base. J Clin Oncol 25 (11): 1363-8, 2007. [PUBMED Abstract]\n- Moore-Olufemi S, Herzog C, Warneke C, et al.: Outcomes in pediatric melanoma: comparing prepubertal to adolescent pediatric patients. Ann Surg 253 (6): 1211-5, 2011. [PUBMED Abstract]\n- Mu E, Lange JR, Strouse JJ: Comparison of the use and results of sentinel lymph node biopsy in children and young adults with melanoma. Cancer 118 (10): 2700-7, 2012. [PUBMED Abstract]\n- Balch CM, Soong SJ, Gershenwald JE, et al.: Age as a prognostic factor in patients with localized melanoma and regional metastases. Ann Surg Oncol 20 (12): 3961-8, 2013. [PUBMED Abstract]\n- Gibbs P, Moore A, Robinson W, et al.: Pediatric melanoma: are recent advances in the management of adult melanoma relevant to the pediatric population. J Pediatr Hematol Oncol 22 (5): 428-32, 2000 Sep-Oct. [PUBMED Abstract]\n- Livestro DP, Kaine EM, Michaelson JS, et al.: Melanoma in the young: differences and similarities with adult melanoma: a case-matched controlled analysis. Cancer 110 (3): 614-24, 2007. [PUBMED Abstract]\n- Han D, Zager JS, Han G, et al.: The unique clinical characteristics of melanoma diagnosed in children. Ann Surg Oncol 19 (12): 3888-95, 2012. [PUBMED Abstract]\n- Lorimer PD, White RL, Walsh K, et al.: Pediatric and Adolescent Melanoma: A National Cancer Data Base Update. Ann Surg Oncol 23 (12): 4058-4066, 2016. [PUBMED Abstract]\n- Rao BN, Hayes FA, Pratt CB, et al.: Malignant melanoma in children: its management and prognosis. J Pediatr Surg 25 (2): 198-203, 1990. [PUBMED Abstract]\n- Aldrink JH, Selim MA, Diesen DL, et al.: Pediatric melanoma: a single-institution experience of 150 patients. J Pediatr Surg 44 (8): 1514-21, 2009. [PUBMED Abstract]\n- Tcheung WJ, Marcello JE, Puri PK, et al.: Evaluation of 39 cases of pediatric cutaneous head and neck melanoma. J Am Acad Dermatol 65 (2): e37-42, 2011. [PUBMED Abstract]\n- Ferrari A, Bisogno G, Cecchetto G, et al.: Cutaneous melanoma in children and adolescents: the Italian rare tumors in pediatric age project experience. J Pediatr 164 (2): 376-82.e1-2, 2014. [PUBMED Abstract]\n- Stanelle EJ, Busam KJ, Rich BS, et al.: Early-stage non-Spitzoid cutaneous melanoma in patients younger than 22 years of age at diagnosis: long-term follow-up and survival analysis. J Pediatr Surg 50 (6): 1019-23, 2015. [PUBMED Abstract]\n- Lohmann CM, Coit DG, Brady MS, et al.: Sentinel lymph node biopsy in patients with diagnostically controversial spitzoid melanocytic tumors. Am J Surg Pathol 26 (1): 47-55, 2002. [PUBMED Abstract]\n- Su LD, Fullen DR, Sondak VK, et al.: Sentinel lymph node biopsy for patients with problematic spitzoid melanocytic lesions: a report on 18 patients. Cancer 97 (2): 499-507, 2003. [PUBMED Abstract]"
+        },
+        {
+          "section": "Special Considerations for the Treatment of Children With Cancer",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "Cancer in children and adolescents is rare, although the overall incidence has slowly increased since 1975.[ 1 ] Children and adolescents with cancer should be referred to medical centers that have a multidisciplinary team of cancer specialists with experience treating the cancers that occur during childhood and adolescence. This multidisciplinary team approach incorporates the skills of the following pediatric specialists and others to ensure that children receive treatment, supportive care, and rehabilitation to achieve optimal survival and quality of life:\n- Primary care physicians.\n- Pediatric surgeons.\n- Pathologists.\n- Pediatric radiation oncologists.\n- Pediatric medical oncologists and hematologists.\n- Ophthalmologists.\n- Rehabilitation specialists.\n- Pediatric oncology nurses.\n- Social workers.\n- Child-life professionals.\n- Psychologists.\n- Nutritionists.\nFor specific information about supportive care for children and adolescents with cancer, see the summaries on Supportive and Palliative Care .\nThe American Academy of Pediatrics has outlined guidelines for pediatric cancer centers and their role in the treatment of children and adolescents with cancer.[ 2 ] At these centers, clinical trials are available for most types of cancer that occur in children and adolescents, and the opportunity to participate is offered to most patients and their families. Clinical trials for children and adolescents diagnosed with cancer are generally designed to compare potentially better therapy with current standard therapy. Other types of clinical trials test novel therapies when there is no standard therapy for a cancer diagnosis. Most of the progress in identifying curative therapies for childhood cancers has been achieved through clinical trials. Information about ongoing clinical trials is available from the NCI website .\nDramatic improvements in survival have been achieved for children and adolescents with cancer. Between 1975 and 2020, childhood cancer mortality decreased by more than 50%.[ 3 - 5 ] Childhood and adolescent cancer survivors require close monitoring because side effects of cancer therapy may persist or develop months or years after treatment. For information about the incidence, type, and monitoring of late effects in childhood and adolescent cancer survivors, see Late Effects of Treatment for Childhood Cancer .\nChildhood cancer is a rare disease, with about 15,000 cases diagnosed annually in the United States in individuals younger than 20 years.[ 6 ] The U.S. Rare Diseases Act of 2002 defines a rare disease as one that affects populations smaller than 200,000 people in the United States. Therefore, all pediatric cancers are considered rare.\nThe designation of a rare tumor is not uniform among pediatric and adult groups. In adults, rare cancers are defined as those with an annual incidence of fewer than six cases per 100,000 people. They account for up to 24% of all cancers diagnosed in the European Union and about 20% of all cancers diagnosed in the United States.[ 7 , 8 ] In children and adolescents, the designation of a rare tumor is not uniform among international groups, as follows:\n- A consensus effort between the European Union Joint Action on Rare Cancers and the European Cooperative Study Group for Rare Pediatric Cancers estimated that 11% of all cancers in patients younger than 20 years could be categorized as very rare. This consensus group defined very rare cancers as those with annual incidences of fewer than two cases per 1 million people. However, three additional histologies (thyroid carcinoma, melanoma, and testicular cancer) with incidences of more than two cases per 1 million people were also included in the very rare group due to a lack of knowledge and expertise in the management of these tumors.[ 9 ]\n- The Children's Oncology Group defines rare pediatric cancers as those listed in the International Classification of Childhood Cancer subgroup XI, which includes thyroid cancers, melanomas and nonmelanoma skin cancers, and multiple types of carcinomas (e.g., adrenocortical carcinomas, nasopharyngeal carcinomas, and most adult-type carcinomas such as breast cancers and colorectal cancers).[ 10 ] These diagnoses account for about 5% of the cancers diagnosed in children aged 0 to 14 years and about 27% of the cancers diagnosed in adolescents aged 15 to 19 years.[ 4 ] Most cancers in subgroup XI are either melanomas or thyroid cancers, with other cancer types accounting for only 2% of the cancers diagnosed in children aged 0 to 14 years and 9.3% of the cancers diagnosed in adolescents aged 15 to 19 years.\nThese rare cancers are extremely challenging to study because of the relatively few patients with any individual diagnosis, the predominance of rare cancers in the adolescent population, and the small number of clinical trials for adolescents with rare cancers.\nInformation about these tumors may also be found in sources relevant to adults with cancer, such as Melanoma Treatment ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Smith MA, Seibel NL, Altekruse SF, et al.: Outcomes for children and adolescents with cancer: challenges for the twenty-first century. J Clin Oncol 28 (15): 2625-34, 2010. [PUBMED Abstract]\n- American Academy of Pediatrics: Standards for pediatric cancer centers. Pediatrics 134 (2): 410-4, 2014. Also available online . Last accessed February 25, 2025.\n- Smith MA, Altekruse SF, Adamson PC, et al.: Declining childhood and adolescent cancer mortality. Cancer 120 (16): 2497-506, 2014. [PUBMED Abstract]\n- National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed February 25, 2025.\n- Surveillance Research Program, National Cancer Institute: SEER*Explorer: An interactive website for SEER cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed December 30, 2024.\n- Ward E, DeSantis C, Robbins A, et al.: Childhood and adolescent cancer statistics, 2014. CA Cancer J Clin 64 (2): 83-103, 2014 Mar-Apr. [PUBMED Abstract]\n- Gatta G, Capocaccia R, Botta L, et al.: Burden and centralised treatment in Europe of rare tumours: results of RARECAREnet-a population-based study. Lancet Oncol 18 (8): 1022-1039, 2017. [PUBMED Abstract]\n- DeSantis CE, Kramer JL, Jemal A: The burden of rare cancers in the United States. CA Cancer J Clin 67 (4): 261-272, 2017. [PUBMED Abstract]\n- Ferrari A, Brecht IB, Gatta G, et al.: Defining and listing very rare cancers of paediatric age: consensus of the Joint Action on Rare Cancers in cooperation with the European Cooperative Study Group for Pediatric Rare Tumors. Eur J Cancer 110: 120-126, 2019. [PUBMED Abstract]\n- Pappo AS, Krailo M, Chen Z, et al.: Infrequent tumor initiative of the Children's Oncology Group: initial lessons learned and their impact on future plans. J Clin Oncol 28 (33): 5011-6, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Childhood Melanoma",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The European Cooperative Study Group for Pediatric Rare Tumors within the PARTNER project (Paediatric Rare Tumours Network - European Registry) has published recommendations for the diagnosis and treatment of children and adolescents with cutaneous melanoma. Some of these recommendations have been incorporated and summarized in the sections below.[ 1 ] A Children's Oncology Group–led panel of experts from different specialties have also developed recommendations for the diagnostic evaluation and surgical management of cutaneous melanomas, atypical Spitz tumors, and non-Spitz melanocytic tumors.[ 2 ]\nTreatment options for childhood melanoma include the following:\n- Surgery and, in certain cases, sentinel lymph node biopsy and lymph node dissection.\n- Immune checkpoint inhibitors or BRAF/MEK inhibitors ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Melanoma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Surgery is the treatment of choice for patients with localized melanoma. Current guidelines recommend margins of resection as follows:\n- 0.5 cm for melanoma in situ .\n- 1 cm for melanoma thickness of less than 1 mm.\n- 1 cm to 2 cm for melanoma thickness of 1.01 mm to 2 mm.\n- 2 cm for tumor thickness of greater than 2 mm.\nSentinel lymph node biopsy should be considered in patients with thin lesions (≤1 mm) and ulceration, mitotic rate greater than 1/mm 2 , young age, and lesions larger than 1 mm with or without adverse features. Younger patients have a higher incidence of sentinel lymph node positivity, and this feature may adversely affect clinical outcomes.[ 3 , 4 ]\nIf the sentinel lymph node is positive, the option to undergo a complete lymph node dissection should be discussed. One adult trial included 1,934 patients with a positive sentinel node, identified by either immunohistochemistry or polymerase chain reaction. The patients were randomly assigned to undergo either complete lymph node dissection or observation. The 3-year melanoma-specific survival rate was similar in both groups (86%), whereas the disease-free survival (DFS) rate was slightly higher in the dissection group (68% vs. 63%; P = .05). This advantage in DFS was related to a decrease in the rate of nodal recurrences because there was no difference in the distant metastases–free survival rates. It remains unknown how these results will affect the future surgical management of children and adolescents with melanoma.[ 5 ]"
+        },
+        {
+          "section": "Immune Checkpoint Inhibitors or BRAF/MEK Inhibitors",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Melanoma",
+            "Immune Checkpoint Inhibitors or BRAF/MEK Inhibitors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 29,
+          "text": "Targeted therapies and immunotherapy that have been effective in adults with melanoma should be pursued in pediatric patients with conventional melanoma and metastatic, recurrent, or progressive disease.\nEvidence (targeted therapy and immunotherapy):\n- A phase I trial of ipilimumab in children and adolescents, at a dose of 5 mg/kg or 10 mg/kg every 3 weeks for four cycles, enrolled 12 patients with melanoma.[ 6 ]\n- One patient had prolonged stable disease.\n- This treatment demonstrated a similar toxicity profile as that seen in adults.\n- A phase II study of ipilimumab for adolescents with melanoma failed to achieve accrual goals and was closed. However, there was reported activity in patients with melanoma who were aged 12 to 17 years, with a similar safety profile as that seen in adults.[ 7 ][ Level of evidence B4 ]\n- At 1 year, three of four patients who received 3 mg/kg and five of eight patients who received 10 mg/kg were alive.\n- Two patients who received 10 mg/kg had partial responses, and one patient who received 3 mg/kg had stable disease.\n- In adults with completely resected stage III cutaneous melanoma, prolonged DFS and overall survival have been seen with ipilimumab given at a dose of 10 mg/kg every 3 weeks for four doses, followed by one dose every 3 months for up to 3 years. This regimen caused little impairment in health-related quality of life.\n- In a phase I/II trial of nivolumab for children and young adults with relapsed or refractory solid tumors or lymphoma, patients were treated with a dose of 3 mg/kg every 14 days.[ 8 ]\n- The one patient with melanoma did not respond to therapy.\n- An open-label, single-arm, phase I/II trial of pembrolizumab for pediatric patients with advanced melanoma or programmed death-ligand 1 (PD-L1)–positive, advanced, relapsed, or refractory solid tumors or lymphoma reported the following:[ 9 ]\n- Eight patients with melanoma were enrolled, and no responses were observed in these patients.\n- Five of these patients were PD-L1 negative.\n- The Children's Oncology Group conducted a phase I/II trial of ipilimumab and nivolumab in 55 children and young adults with refractory or recurrent solid tumors.[ 10 ]\n- The study identified a recommended phase II dose of 3 mg/kg for nivolumab and 1 mg/kg for ipilimumab.\n- No patients with melanoma were enrolled in the trial. However, partial responses were seen in one patient with rhabdomyosarcoma and one patient with Ewing sarcoma.\n- A retrospective review identified 99 patients with melanoma (aged 18 years or younger) who were treated with systemic therapy at 15 Italian academic centers. Eighty-one patients received anti–PD-1 therapy. The median age was 14 years (range, 2–18 years), and 37 patients were aged 12 years or younger. Thirty-eight patients received anti–PD-1 therapy in the adjuvant setting.[ 11 ]\n- Of the patients who received adjuvant anti–PD-1 therapy, the 3-year progression-free survival rate was 70.6%, and the overall survival (OS) rate was 81.1%.\n- Of the 56 patients who received systemic therapy for advanced disease, 43 received first-line anti–PD-1–based therapy, while 12 patients received a second line, and 5 patients received a third line. Among patients who received first-line therapy with anti–PD-1 monotherapy, the objective response rate was 25%, and the 3-year OS rate was 34%.\n- Toxicities were consistent with previous studies that included adult patients with melanoma.\n- Dabrafenib and trametinib have been studied in two trials for pediatric patients with BRAF V600-altered low-grade gliomas. The U.S. Food and Drug Administration (FDA) approved this combination for this indication.[ 12 , 13 ] The FDA has also approved this combination for the treatment of patients with melanoma.\nNo trials have been conducted specifically for the treatment of pediatric patients with melanoma. However, the FDA has approved the following immune and targeted therapies for pediatric and adolescent patients with melanoma based on studies of adult populations with or without pediatric participants:\n- Based on the positive results of two randomized clinical trials, the FDA approved adjuvant pembrolizumab for the treatment of patients aged 12 years and older with resected stage IIb, IIc, and III melanoma.[ 14 , 15 ]\n- Based on the positive results of two randomized clinical trials, the FDA approved adjuvant nivolumab for the treatment of patients aged 12 years and older with resected stage IIb to IV melanoma.[ 16 , 17 ]\n- Based on the positive results of one adult randomized clinical trial, the FDA approved nivolumab and ipilimumab for the treatment of children aged 12 years and older with unresectable or metastatic melanoma.[ 18 ]\n- Based on the positive results of one randomized clinical trial, the FDA approved nivolumab with relatlimab for the treatment of children aged 12 years and older with unresectable or metastatic melanoma.[ 19 ]\n- Although there have not been any prospective clinical trials using BRAF/MEK inhibitors in children and adolescents with melanoma, two adult studies have shown that the adjuvant combination of dabrafenib and trametinib results in a significantly lower risk of recurrence in patients with surgically resected stage III melanoma and in patients with previously untreated BRAF V600-altered metastatic melanoma.[ 20 , 21 ] The FDA granted accelerated approval to this drug combination for the treatment of patients with unresectable or metastatic melanoma who have BRAF V600E or V600K variants and for the adjuvant treatment of patients with melanoma who have BRAF V600E or V600K variants.\nFor more information, see Melanoma Treatment ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Melanoma",
+            "Immune Checkpoint Inhibitors or BRAF/MEK Inhibitors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "- Ferrari A, Lopez Almaraz R, Reguerre Y, et al.: Cutaneous melanoma in children and adolescents: The EXPeRT/PARTNER diagnostic and therapeutic recommendations. Pediatr Blood Cancer 68 (Suppl 4): e28992, 2021. [PUBMED Abstract]\n- Sargen MR, Barnhill RL, Elder DE, et al.: Evaluation and Surgical Management of Pediatric Cutaneous Melanoma and Atypical Spitz and Non-Spitz Melanocytic Tumors (Melanocytomas): A Report From Children's Oncology Group. J Clin Oncol 43 (9): 1157-1167, 2025. [PUBMED Abstract]\n- Mu E, Lange JR, Strouse JJ: Comparison of the use and results of sentinel lymph node biopsy in children and young adults with melanoma. Cancer 118 (10): 2700-7, 2012. [PUBMED Abstract]\n- Han D, Zager JS, Han G, et al.: The unique clinical characteristics of melanoma diagnosed in children. Ann Surg Oncol 19 (12): 3888-95, 2012. [PUBMED Abstract]\n- Eggermont AM, Chiarion-Sileni V, Grob JJ, et al.: Prolonged Survival in Stage III Melanoma with Ipilimumab Adjuvant Therapy. N Engl J Med 375 (19): 1845-1855, 2016. [PUBMED Abstract]\n- Merchant MS, Wright M, Baird K, et al.: Phase I Clinical Trial of Ipilimumab in Pediatric Patients with Advanced Solid Tumors. Clin Cancer Res 22 (6): 1364-70, 2016. [PUBMED Abstract]\n- Geoerger B, Bergeron C, Gore L, et al.: Phase II study of ipilimumab in adolescents with unresectable stage III or IV malignant melanoma. Eur J Cancer 86: 358-363, 2017. [PUBMED Abstract]\n- Davis KL, Fox E, Merchant MS, et al.: Nivolumab in children and young adults with relapsed or refractory solid tumours or lymphoma (ADVL1412): a multicentre, open-label, single-arm, phase 1-2 trial. Lancet Oncol 21 (4): 541-550, 2020. [PUBMED Abstract]\n- Geoerger B, Kang HJ, Yalon-Oren M, et al.: Pembrolizumab in paediatric patients with advanced melanoma or a PD-L1-positive, advanced, relapsed, or refractory solid tumour or lymphoma (KEYNOTE-051): interim analysis of an open-label, single-arm, phase 1-2 trial. Lancet Oncol 21 (1): 121-133, 2020. [PUBMED Abstract]\n- Davis KL, Fox E, Isikwei E, et al.: A Phase I/II Trial of Nivolumab plus Ipilimumab in Children and Young Adults with Relapsed/Refractory Solid Tumors: A Children's Oncology Group Study ADVL1412. Clin Cancer Res 28 (23): 5088-5097, 2022. [PUBMED Abstract]\n- Mandalà M, Ferrari A, Brecht IB, et al.: Efficacy of anti PD-1 therapy in children and adolescent melanoma patients (MELCAYA study). Eur J Cancer 211: 114305, 2024. [PUBMED Abstract]\n- Hargrave DR, Bouffet E, Tabori U, et al.: Efficacy and Safety of Dabrafenib in Pediatric Patients with BRAF V600 Mutation-Positive Relapsed or Refractory Low-Grade Glioma: Results from a Phase I/IIa Study. Clin Cancer Res 25 (24): 7303-7311, 2019. [PUBMED Abstract]\n- Bouffet E, Hansford JR, Garrè ML, et al.: Dabrafenib plus Trametinib in Pediatric Glioma with BRAF V600 Mutations. N Engl J Med 389 (12): 1108-1120, 2023. [PUBMED Abstract]\n- Eggermont AMM, Blank CU, Mandala M, et al.: Adjuvant Pembrolizumab versus Placebo in Resected Stage III Melanoma. N Engl J Med 378 (19): 1789-1801, 2018. [PUBMED Abstract]\n- Luke JJ, Rutkowski P, Queirolo P, et al.: Pembrolizumab versus placebo as adjuvant therapy in completely resected stage IIB or IIC melanoma (KEYNOTE-716): a randomised, double-blind, phase 3 trial. Lancet 399 (10336): 1718-1729, 2022. [PUBMED Abstract]\n- Kirkwood JM, Del Vecchio M, Weber J, et al.: Adjuvant nivolumab in resected stage IIB/C melanoma: primary results from the randomized, phase 3 CheckMate 76K trial. Nat Med 29 (11): 2835-2843, 2023. [PUBMED Abstract]\n- Weber J, Mandala M, Del Vecchio M, et al.: Adjuvant Nivolumab versus Ipilimumab in Resected Stage III or IV Melanoma. N Engl J Med 377 (19): 1824-1835, 2017. [PUBMED Abstract]\n- Wolchok JD, Chiarion-Sileni V, Gonzalez R, et al.: Overall Survival with Combined Nivolumab and Ipilimumab in Advanced Melanoma. N Engl J Med 377 (14): 1345-1356, 2017. [PUBMED Abstract]\n- Tawbi HA, Schadendorf D, Lipson EJ, et al.: Relatlimab and Nivolumab versus Nivolumab in Untreated Advanced Melanoma. N Engl J Med 386 (1): 24-34, 2022. [PUBMED Abstract]\n- Robert C, Karaszewska B, Schachter J, et al.: Improved overall survival in melanoma with combined dabrafenib and trametinib. N Engl J Med 372 (1): 30-9, 2015. [PUBMED Abstract]\n- Long GV, Hauschild A, Santinami M, et al.: Adjuvant Dabrafenib plus Trametinib in Stage III BRAF-Mutated Melanoma. N Engl J Med 377 (19): 1813-1823, 2017. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options Under Clinical Evaluation for Childhood Melanoma",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Options Under Clinical Evaluation for Childhood Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Information about National Cancer Institute (NCI)–supported clinical trials can be found on the NCI website . For information about clinical trials sponsored by other organizations, see the ClinicalTrials.gov website .\nThe following is an example of a national and/or institutional clinical trial that is currently being conducted:\n- NCT02332668 (A Study of Pembrolizumab [MK-3475] in Pediatric Participants With Advanced Melanoma or Advanced, Relapsed, or Refractory PD-L1-Positive Solid Tumors or Lymphoma [MK-3475-051/KEYNOTE-051]) : This is a two-part study of pembrolizumab in pediatric participants who have either advanced melanoma or a programmed cell death ligand 1 (PD-L1)-positive advanced, relapsed, or refractory solid tumor or lymphoma. Part 1 will find the maximum tolerated dose/maximum administered dose, confirm the dose, and find the recommended phase II dose for pembrolizumab therapy. Part 2 will further evaluate the safety and efficacy of the phase II dose recommended for pediatric patients."
+        },
+        {
+          "section": "Latest Updates to This Summary (04/03/2025)",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (04/03/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nDiagnostic Evaluation\nAdded text to state that partial shave biopsy may compromise microstaging and is associated with more invasive, definitive surgical treatments (cited Arjunan et al. as reference 5).\nAdded text to state that a Children's Oncology Group–led panel of experts from different specialties have developed recommendations for the diagnostic evaluation and surgical management of cutaneous melanomas, atypical Spitz tumors, and non-Spitz melanocytic tumors (cited Sargen et al. as reference 14).\nTreatment of Childhood Melanoma\nAdded text to state that a Children's Oncology Group–led panel of experts from different specialties have developed recommendations for the diagnostic evaluation and surgical management of cutaneous melanomas, atypical Spitz tumors, and non-Spitz melanocytic tumors (cited Sargen et al. as reference 2).\nAdded text about the results of a retrospective review that identified 99 patients with melanoma who were treated with systemic therapy, 81 of whom received anti–PD-1 therapy (cited Mandalà et al. as reference 11).\nThis summary is written and maintained by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of pediatric melanoma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 15,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Childhood Melanoma Treatment are:\n- Denise Adams, MD (Children's Hospital Boston)\n- Karen J. Marcus, MD, FACR (Dana-Farber of Boston Children's Cancer Center and Blood Disorders Harvard Medical School)\n- William H. Meyer, MD\n- Paul A. Meyers, MD (Memorial Sloan-Kettering Cancer Center)\n- Thomas A. Olson, MD (Aflac Cancer and Blood Disorders Center of Children's Healthcare of Atlanta - Egleston Campus)\n- Arthur Kim Ritchey, MD (Children's Hospital of Pittsburgh of UPMC)\n- Carlos Rodriguez-Galindo, MD (St. Jude Children's Research Hospital)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Pediatric Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Melanoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/skin/hp/child-melanoma-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 31909946]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\8277915b727fcbae4673.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Childhood Melanoma",
+      "title": "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+      "summary_name": "Childhood Melanoma Treatment",
+      "url": "https://www.cancer.gov/types/skin/patient/child-melanoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "October 18, 2021",
+      "retrieved_at": "2026-08-31T07:14:03.777163+00:00",
+      "content_sha256": "4df6dcffcb2b1590963da1976dc502bdc917289edb90647e1f2f941f575e9bd5",
+      "section_count": 32,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Childhood Melanoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Melanoma is a disease in which malignant (cancer) cells form in melanocytes (cells that color the skin).\n- There are different types of cancer that start in the skin.\n- Unusual moles, exposure to sunlight, and health history can affect the risk of melanoma.\n- Signs of melanoma include a change in the way a mole or pigmented area looks.\n- Tests that examine the skin are used to diagnose melanoma."
+        },
+        {
+          "section": "Melanoma is a disease in which malignant (cancer) cells form in melanocytes (cells that color the skin).",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Childhood Melanoma",
+            "Melanoma is a disease in which malignant (cancer) cells form in melanocytes (cells that color the skin)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The skin is the body’s largest organ . It protects against heat, sunlight, injury, and infection . Skin also helps control body temperature and stores water, fat, and vitamin D . The skin has several layers, but the two main layers are the epidermis (upper or outer layer) and the dermis (lower or inner layer). Skin cancer begins in the epidermis, which is made up of three kinds of cells :\n- Squamous cells : Thin, flat cells that form the top layer of the epidermis.\n- Basal cells : Round cells under the squamous cells.\n- Melanocytes : Cells that make melanin and are found in the lower part of the epidermis. Melanin is the pigment that gives skin its natural color. When skin is exposed to the sun or artificial light, melanocytes make more pigment and cause the skin to darken."
+        },
+        {
+          "section": "There are different types of cancer that start in the skin.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Childhood Melanoma",
+            "There are different types of cancer that start in the skin."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "There are two main forms of skin cancer: melanoma and nonmelanoma ( basal cell carcinoma and squamous cell carcinoma of the skin ).\nMelanoma is a rare form of skin cancer. Even though melanoma is rare, it is the most common skin cancer in children. It occurs more often in adolescents aged 15 to 19 years. Melanoma is more likely to invade nearby tissues and spread to other parts of the body than other types of skin cancer. When melanoma starts in the skin, it is called cutaneous melanoma. Melanoma may also occur in mucous membranes (thin, moist layers of tissue that cover surfaces such as the lips) and the eye ( intraocular melanoma ). This PDQ summary is about cutaneous (skin) melanoma. (See the PDQ summary on Childhood Intraocular (Uveal) Melanoma Treatment for more information about intraocular melanoma).\nTwo other types of skin cancer are basal cell carcinoma and squamous cell carcinoma. They rarely spread to other parts of the body. (See the PDQ summary on Childhood Basal Cell Carcinoma and Squamous Cell Carcinoma of the Skin Treatment for more information on basal cell and squamous cell skin cancer.)"
+        },
+        {
+          "section": "Unusual moles, exposure to sunlight, and health history can affect the risk of melanoma.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Childhood Melanoma",
+            "Unusual moles, exposure to sunlight, and health history can affect the risk of melanoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "Anything that increases your risk of getting a disease is called a risk factor . Having a risk factor does not mean that you will get cancer ; not having risk factors doesn’t mean that you will not get cancer. Talk with your child's doctor if you think your child may be at risk.\nRisk factors for childhood melanoma include the following:\n- Having one of the following conditions :\n- Giant melanocytic nevi (large black spots, which may cover the trunk and thigh).\n- Neurocutaneous melanosis ( congenital melanocytic nevi in the skin and the brain).\n- Xeroderma pigmentosum .\n- Hereditary retinoblastoma .\n- A weakened immune system .\n- Having a fair complexion, which includes the following: Being White or having a fair complexion increases the risk of melanoma, but anyone can have melanoma, including people with dark skin.\n- Fair skin that freckles and burns easily, does not tan, or tans poorly.\n- Blue or green or other light-colored eyes.\n- Red or blond hair.\n- Being exposed to natural sunlight or artificial sunlight (such as from tanning beds).\n- Having several large or many small moles .\n- Having a family history or personal history of unusual moles (atypical nevus syndrome ).\n- Having a family history of melanoma."
+        },
+        {
+          "section": "Signs of melanoma include a change in the way a mole or pigmented area looks.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Childhood Melanoma",
+            "Signs of melanoma include a change in the way a mole or pigmented area looks."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "These and other signs and symptoms may be caused by melanoma or by other conditions.\nCheck with your child's doctor if your child has any of the following:\n- A mole that:\n- changes in size, shape, or color.\n- has irregular edges or borders.\n- is more than one color.\n- is asymmetrical (if the mole is divided in half, the 2 halves are different in size or shape).\n- itches.\n- oozes, bleeds, or is ulcerated (a condition in which the top layer of skin breaks down and the tissue below shows through).\n- A change in pigmented (colored) skin.\n- Satellite moles (new moles that grow near an existing mole)."
+        },
+        {
+          "section": "Tests that examine the skin are used to diagnose melanoma.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "General Information About Childhood Melanoma",
+            "Tests that examine the skin are used to diagnose melanoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "If a mole or pigmented area of the skin changes or looks abnormal , the following tests and procedures can help find and diagnose melanoma:\n- Physical exam and health history : An exam of the body to check general signs of health, including checking for signs of disease, such as lumps or anything else that seems unusual. A history of the patient’s health habits and past illnesses and treatments will also be taken.\n- Skin exam : A doctor or nurse checks the skin for moles, birthmarks, or other pigmented areas that look abnormal in color, size, shape, or texture.\n- Biopsy : A procedure to remove the abnormal tissue and a small amount of normal tissue around it. A pathologist looks at the tissue under a microscope to check for cancer cells. It can be hard to tell the difference between a colored mole and an early melanoma lesion . Patients may want to have the sample of tissue checked by a second pathologist. If the abnormal mole or lesion is cancer, the sample of tissue may also be tested for certain gene changes. There are four main types of skin biopsies:\n- Shave biopsy : A sterile razor blade is used to “shave-off” the abnormal-looking growth.\n- Punch biopsy : A special instrument called a punch or a trephine is used to remove a circle of tissue from the abnormal-looking growth. Enlarge Punch biopsy. A sharp, hollow, circular instrument is used to remove a small, round piece of tissue from a lesion on the skin. The instrument is turned clockwise and counterclockwise to cut about 4 millimeters (mm) down to the layer of fatty tissue below the skin and remove the sample of tissue. Skin thickness is different on different parts of the body.\n- Incisional biopsy : A scalpel is used to remove part of a growth.\n- Excisional biopsy : A scalpel is used to remove the entire growth."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Melanoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- After melanoma has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.\n- There are three ways cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- Sometimes childhood melanoma recurs (comes back) after treatment."
+        },
+        {
+          "section": "After melanoma has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Melanoma",
+            "After melanoma has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "The process used to find out if cancer has spread within the skin or to other parts of the body is called staging . There is no standard staging system for childhood melanoma . To plan treatment, it is important to know whether melanoma has spread to lymph nodes or to other parts of the body.\nThe following procedures may be used to find out if cancer has spread:\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- MRI : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI). Enlarge Magnetic resonance imaging (MRI) scan. The child lies on a table that slides into the MRI machine, which takes a series of detailed pictures of areas inside the body. The positioning of the child on the table depends on the part of the body being imaged.\n- PET scan : A procedure to find malignant tumor cells in the body. A small amount of radioactive glucose (sugar) is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do. Enlarge Positron emission tomography (PET) scan. The child lies on a table that slides through the PET scanner. The head rest and white strap help the child lie still. A small amount of radioactive glucose (sugar) is injected into the child's vein, and a scanner makes a picture of where the glucose is being used in the body. Cancer cells show up brighter in the picture because they take up more glucose than normal cells do.\n- Ultrasound : A procedure in which high-energy sound waves (ultrasound) are bounced off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram . The picture can be printed to be looked at later.\n- Sentinel lymph node biopsy : The removal of the sentinel lymph node during surgery . The sentinel lymph node is the first lymph node in a group of lymph nodes to receive lymphatic drainage from the primary tumor . It is the first lymph node the cancer is likely to spread to from the primary tumor. A radioactive substance and/or blue dye is injected near the tumor. The substance or dye flows through the lymph ducts to the lymph nodes. The first lymph node to receive the substance or dye is removed. A pathologist views the tissue under a microscope to look for cancer cells. If cancer cells are not found, it may not be necessary to remove more lymph nodes. Sometimes, a sentinel lymph node is found in more than one group of nodes. Enlarge Sentinel lymph node biopsy of the skin. A radioactive substance and/or blue dye is injected near the tumor (first panel). The injected material is detected visually and/or with a probe that detects radioactivity (middle panel). The sentinel nodes (the first lymph nodes to take up the material) are removed and checked for cancer cells (last panel).\n- Lymph node dissection : A surgical procedure in which lymph nodes are removed and a sample of tissue is checked under a microscope for signs of cancer. For a regional lymph node dissection , some of the lymph nodes in the tumor area are removed. For a radical lymph node dissection , most or all of the lymph nodes in the tumor area are removed. This procedure is also called a lymphadenectomy."
+        },
+        {
+          "section": "There are three ways cancer spreads in the body.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Melanoma",
+            "There are three ways cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Melanoma",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of cancer as the primary tumor. For example, if melanoma spreads to the lung , the cancer cells in the lung are actually melanoma cells. The disease is metastatic melanoma, not lung cancer ."
+        },
+        {
+          "section": "Sometimes childhood melanoma recurs (comes back) after treatment.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Stages of Melanoma",
+            "Sometimes childhood melanoma recurs (comes back) after treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer may come back in the skin, lymph nodes, or in other parts of the body."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- There are different types of treatment for children with melanoma.\n- Children with melanoma should have their treatment planned by a team of doctors who are experts in treating childhood cancer.\n- Three types of standard treatment are used:\n- Surgery\n- Immunotherapy\n- Targeted therapy\n- New types of treatment are being tested in clinical trials.\n- Treatment for childhood melanoma may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for children with melanoma.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for children with melanoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer. When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment.\nBecause cancer in children is rare, taking part in a clinical trial should be considered. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Children with melanoma should have their treatment planned by a team of doctors who are experts in treating childhood cancer.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Children with melanoma should have their treatment planned by a team of doctors who are experts in treating childhood cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment will be overseen by a pediatric oncologist , a doctor who specializes in treating children with cancer . The pediatric oncologist works with other pediatric health professionals who are experts in treating children with cancer and who specialize in certain areas of medicine . This may include the following specialists and others:\n- Pediatrician .\n- Dermatologist .\n- Pediatric surgeon .\n- Pathologist .\n- Social worker .\n- Rehabilitation specialist .\n- Psychologist .\n- Child-life specialist ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Three types of standard treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Surgery to remove the tumor is used to treat childhood melanoma . A wide local excision is used to remove the melanoma and some of the normal tissue around it. Skin grafting (taking skin from another part of the body to replace the skin that is removed) may be done to cover the wound caused by surgery. Nearby lymph nodes with cancer may also be removed."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Three types of standard treatment are used:",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Immunotherapy is a treatment that uses the patient's immune system to fight cancer. Substances made by the body or made in a laboratory are used to boost, direct, or restore the body's natural defenses against cancer. This type of cancer treatment is also called biotherapy or biologic therapy.\n- Immune checkpoint inhibitor therapy : Immunotherapy uses the body’s immune system to fight cancer. This animation explains one type of immunotherapy that uses immune checkpoint inhibitors to treat cancer. There are different types of immune checkpoint inhibitor therapy:\n- PD-1 inhibitor: PD-1 is a protein on the surface of T cells that helps keep the body’s immune responses in check. When PD-1 attaches to another protein called PDL-1 on a tumor cell , it stops the T cell from killing the tumor cell. PD-1 inhibitors attach to PDL-1 and allow the T cells to kill tumor cells. Pembrolizumab and nivolumab are used to treat melanoma that has spread to lymph nodes and are being studied to treat recurrent melanoma. Enlarge Immune checkpoint inhibitor. Checkpoint proteins, such as PD-L1 on tumor cells and PD-1 on T cells, help keep immune responses in check. The binding of PD-L1 to PD-1 keeps T cells from killing tumor cells in the body (left panel). Blocking the binding of PD-L1 to PD-1 with an immune checkpoint inhibitor (anti-PD-L1 or anti-PD-1) allows the T cells to kill tumor cells (right panel).\n- CTLA-4 inhibitor: CTLA-4 is a protein on the surface of T cells that helps keep the body’s immune responses in check. When CTLA-4 attaches to another protein called B7 on a cancer cell, it stops the T cell from killing the cancer cell. CTLA-4 inhibitors attach to CTLA-4 and allow the T cells to kill cancer cells. Ipilimumab is used to treat melanoma that has spread to lymph nodes or to other parts of the body and is being studied to treat recurrent melanoma. Enlarge Immune checkpoint inhibitor. Checkpoint proteins, such as B7-1/B7-2 on antigen-presenting cells (APC) and CTLA-4 on T cells, help keep the body’s immune responses in check. When the T-cell receptor (TCR) binds to antigen and major histocompatibility complex (MHC) proteins on the APC and CD28 binds to B7-1/B7-2 on the APC, the T cell can be activated. However, the binding of B7-1/B7-2 to CTLA-4 keeps the T cells in the inactive state so they are not able to kill tumor cells in the body (left panel). Blocking the binding of B7-1/B7-2 to CTLA-4 with an immune checkpoint inhibitor (anti-CTLA-4 antibody) allows the T cells to be active and to kill tumor cells (right panel)."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Three types of standard treatment are used:",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Targeted therapy is a type of treatment that uses drugs or other substances to attack cancer cells. Targeted therapies usually cause less harm to normal cells than chemotherapy or radiation therapy do. The following type of targeted therapy is being used or studied in the treatment of melanoma:\n- Signal transduction inhibitor therapy: Signal transduction inhibitors block signals that are passed from one molecule to another inside a cell. Blocking these signals may kill cancer cells. They are used to treat some patients with advanced melanoma or tumors that cannot be removed by surgery. Signal transduction inhibitors include the following:\n- BRAF inhibitors ( dabrafenib , vemurafenib , or encorafenib ) that block the activity of proteins made by mutant BRAF genes .\n- MEK inhibitors ( trametinib or binimetinib ) that block proteins called MEK1 and MEK2 which affect the growth and survival of cancer cells."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Treatment for childhood melanoma may cause side effects.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for childhood melanoma may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more about side effects that begin during treatment for cancer, visit Side Effects ."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As your child goes through treatment, they will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your child's condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Childhood Melanoma",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Childhood Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of newly diagnosed melanoma that has not spread to lymph nodes or other parts of the body includes the following:\n- Surgery to remove the tumor and some healthy tissue around it.\nTreatment of newly diagnosed melanoma that has spread to nearby lymph nodes includes the following:\n- Surgery to remove the tumor and the lymph nodes with cancer .\n- Immunotherapy with immune checkpoint inhibitors ( pembrolizumab , ipilimumab , or nivolumab ).\n- Targeted therapy with BRAF inhibitors ( vemurafenib , dabrafenib , or encorafenib ) alone or with MEK inhibitors ( trametinib or binimetinib ).\nTreatment of newly diagnosed melanoma that has spread to other parts of the body may include the following:\n- Immunotherapy (ipilimumab).\n- A clinical trial of an oral targeted therapy drug (dabrafenib) in children and adolescents .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Childhood Melanoma",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Childhood Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of recurrent melanoma in children may include the following:\n- A clinical trial that checks a sample of the patient's tumor for certain gene changes. The type of targeted therapy that will be given to the patient depends on the type of gene change.\n- A clinical trial of immunotherapy with immune checkpoint inhibitors ( pembrolizumab , nivolumab , or ipilimumab ) in children and adolescents .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Childhood Melanoma",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "To Learn More About Childhood Melanoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "For more information from the National Cancer Institute about melanoma , see the following:\n- Skin Cancer (Including Melanoma) Home Page\n- Skin Cancer Prevention\n- Skin Cancer Screening\n- Sentinel Lymph Node Biopsy\n- Immunotherapy to Treat Cancer\n- Targeted Cancer Therapies\n- Moles to Melanoma: Recognizing the ABCDE Features\nFor more childhood cancer information and other general cancer resources, visit:\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Late Effects of Treatment for Childhood Cancer\n- Adolescents and Young Adults with Cancer\n- Children with Cancer: A Guide for Parents\n- Cancer in Children and Adolescents\n- Cancer Staging\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of childhood melanoma. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Melanoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/skin/patient/child-melanoma-treatment-pdq . Accessed <MM/DD/YYYY>.\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Melanoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\10c546127b09723ae213.html"
+    }
+  ]
+}

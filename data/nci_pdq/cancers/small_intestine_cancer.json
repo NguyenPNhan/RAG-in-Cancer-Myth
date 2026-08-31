@@ -1,0 +1,702 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Small Intestine Cancer",
+  "generated_at": "2026-08-31T07:15:23.544704+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Small Intestine Cancer",
+      "title": "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Small Intestine Cancer Treatment",
+      "url": "https://www.cancer.gov/types/small-intestine/hp/small-intestine-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "March 6, 2025",
+      "retrieved_at": "2026-08-31T07:14:12.794403+00:00",
+      "content_sha256": "6a52987e14fbbf29a1e7eeb3323596b4dce168d0e42b04e554b1934c6f9e56c7",
+      "section_count": 22,
+      "sections": [
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Small Intestine Cancer",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Estimated new cases and deaths from small intestine cancer in the United States in 2025:[ 1 ]\n- New cases: 13,920.\n- Deaths: 2,060.\nSmall intestine cancer types include adenocarcinoma, sarcoma, neuroendocrine tumors, gastrointestinal stromal tumors, and lymphoma. Small intestine cancer accounts for 3.8% of all digestive system malignancies.[ 1 , 2 ]"
+        },
+        {
+          "section": "Follow-Up and Survivorship",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Small Intestine Cancer",
+            "Follow-Up and Survivorship"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As in other gastrointestinal malignancies, the predominant modality of treatment is surgery when resection is possible, and cure relates to the ability to completely resect the cancer.\nNeuroendocrine tumors of the small intestine are covered in another summary as a separate cancer entity. For more information, see Gastrointestinal Neuroendocrine Tumors Treatment ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Small Intestine Cancer",
+            "Follow-Up and Survivorship",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. Available online . Last accessed January 16, 2025.\n- National Cancer Institute: SEER Cancer Stat Facts: Small Intestine Cancer. Bethesda, Md: National Cancer Institute. Available online . Last accessed March 6, 2025."
+        },
+        {
+          "section": "Cellular Classification of Small Intestine Cancer",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Small Intestine Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "The following tumors occur in the small intestine:\n- Adenocarcinoma (most cases).\n- Lymphoma (uncommon), which is usually of the non-Hodgkin type. For more information, see Indolent B-Cell Non-Hodgkin Lymphoma Treatment , Aggressive B-Cell Non-Hodgkin Lymphoma Treatment , and Peripheral T-Cell Non-Hodgkin Lymphoma Treatment .\n- Sarcoma (most commonly leiomyosarcoma and more rarely angiosarcoma or liposarcoma).\n- Neuroendocrine tumors. For more information, see Gastrointestinal Neuroendocrine Tumors Treatment .\n- Gastrointestinal stromal tumors. For more information, see Gastrointestinal Stromal Tumors Treatment .\nApproximately 25% to 50% of the primary malignant tumors in the small intestine are adenocarcinomas, and most occur in the duodenum.[ 1 ] Small intestine carcinomas may occur synchronously or metachronously at multiple sites.\nLeiomyosarcomas occur most often in the ileum.\nAbout 20% of malignant lesions of the small intestine are neuroendocrine tumors, which occur more frequently in the ileum than in the duodenum or jejunum and may be multiple.\nIt is uncommon to find malignant lymphoma as a solitary small intestine lesion."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Small Intestine Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Small Intestine. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 221–34."
+        },
+        {
+          "section": "Stage Information for Small Intestine Cancer",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Small Intestine Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The treatment sections of this summary are organized according to histopathological type rather than stage."
+        },
+        {
+          "section": "AJCC Stage Groupings and TNM Definitions",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Small Intestine Cancer",
+            "AJCC Stage Groupings and TNM Definitions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 33,
+          "text": "The American Joint Committee on Cancer (AJCC) has designated staging by TNM (tumor, node, metastasis) classification to define small intestine cancer. This staging classification applies only to adenocarcinomas arising in the nonampullary duodenum and small intestine. Nonadenocarcinomas arising in the small intestine should have a TNM assigned but are not assigned a stage classification.[ 1 ]\nT Category | T Criteria\na Reprinted with permission from AJCC: Small Intestine. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. New York, NY: Springer, 2017, pp 221–34.\nb For T3 tumors, the nonperitonealized perimuscular tissue is, for the jejunum and ileum, part of the mesentery and, for the duodenum in areas where serosa is lacking, part of the interface with the pancreas.\nTX | Primary tumor cannot be assessed.\nT0 | No evidence of primary tumor.\nTis | High-grade dysplasia/carcinoma in situ .\nT1 | Tumor invades the lamina propria or submucosa.\n−T1a | Tumor invades the lamina propria.\n−T1b | Tumor invades the submucosa.\nT2 | Tumor invades the muscularis propria.\nT3 | Tumor invades through the muscularis propria into the subserosa, or extends into nonperitonealized perimuscular tissue (mesentery or retroperitoneum) without serosal penetration. b\nT4 | Tumor perforates the visceral peritoneum or directly invades other organs or structures (e.g., other loops of small intestine, mesentery of adjacent loops of bowel, and abdominal wall by way of serosa; for duodenum only, invasion of pancreas or bile duct).\nN Category | N Criteria\na Reprinted with permission from AJCC: Small Intestine. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. New York, NY: Springer, 2017, pp 221–34.\nNX | Regional lymph nodes cannot be assessed.\nN0 | No regional lymph node metastasis.\nN1 | Metastasis in one or two regional lymph nodes.\nN2 | Metastasis in three or more regional lymph nodes.\nM Category | M Criteria\na Reprinted with permission from AJCC: Small Intestine. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. New York, NY: Springer, 2017, pp 221–34.\nM0 | No distant metastasis.\nM1 | Distant metastasis present.\nStage | T | N | M\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Small Intestine. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. New York, NY: Springer, 2017, pp 221–34.\n0 | Tis | N0 | M0\nI | T1−2 | N0 | M0\nIIA | T3 | N0 | M0\nIIB | T4 | N0 | M0\nIIIA | Any T | N1 | M0\nIIIB | Any T | N2 | M0\nIV | Any T | Any N | M1"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Small Intestine Cancer",
+            "AJCC Stage Groupings and TNM Definitions",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Small Intestine. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 221–34."
+        },
+        {
+          "section": "Treatment of Small Intestine Adenocarcinoma",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Small Intestine Adenocarcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment options:\n- For resectable primary disease:\n- Radical surgical resection.[ 1 , 2 ]\n- For unresectable primary disease:\n- Surgical bypass of obstructing lesion.\n- Palliative radiation therapy.\n- Clinical trials evaluating methods to improve local control, such as the use of radiation therapy with radiosensitizers with or without systemic chemotherapy.\n- For unresectable metastatic disease:\n- Clinical trials evaluating the value of new anticancer drugs and biological therapy (phase I and phase II studies)."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Small Intestine Adenocarcinoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Small Intestine Adenocarcinoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Rose DM, Hochwald SN, Klimstra DS, et al.: Primary duodenal adenocarcinoma: a ten-year experience with 79 patients. J Am Coll Surg 183 (2): 89-96, 1996. [PUBMED Abstract]\n- North JH, Pack MS: Malignant tumors of the small intestine: a review of 144 cases. Am Surg 66 (1): 46-51, 2000. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Small Intestine Leiomyosarcoma",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Small Intestine Leiomyosarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Treatment options:\n- For resectable primary disease:\n- Radical surgical resection.\n- For unresectable primary disease:\n- Surgical bypass of obstructing lesion and radiation therapy.\n- Clinical trials evaluating the value of new anticancer drugs and biological therapy.\n- For unresectable metastatic disease:\n- Palliative surgery.\n- Palliative radiation therapy.\n- Palliative chemotherapy.\n- Clinical trials evaluating the value of new anticancer drugs and biological therapy."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Small Intestine Leiomyosarcoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Small Intestine Cancer",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Small Intestine Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment options:\n- For metastatic adenocarcinoma or leiomyosarcoma:\n- No standard effective chemotherapy exists for patients with recurrent metastatic adenocarcinoma or leiomyosarcoma of the small intestine. These patients should consider enrolling in phase I or II clinical trials evaluating new anticancer drugs or biological therapy.\n- For locally recurrent disease:\n- Surgery.\n- Palliative radiation therapy.\n- Palliative chemotherapy.\n- Clinical trials evaluating ways of improving local control, such as the use of radiation therapy with radiosensitizers with or without systemic chemotherapy."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Small Intestine Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "Latest Updates to This Summary (03/06/2025)",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (03/06/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nGeneral Information About Small Intestine Cancer\nUpdated statistics with estimated new cases and deaths for 2025 (cited American Cancer Society as reference 1).\nRevised text to state that small intestine cancer accounts for 3.8% of all digestive system malignancies.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of small intestine cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 10,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Small Intestine Cancer Treatment are:\n- Amit Chowdhry, MD, PhD (University of Rochester Medical Center)\n- Leon Pappas, MD, PhD (Massachusetts General Hospital)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Small Intestine Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/small-intestine/hp/small-intestine-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389423]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\f0909e475a03fabfcdcf.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Small Intestine Cancer",
+      "title": "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+      "summary_name": "Small Intestine Cancer Treatment",
+      "url": "https://www.cancer.gov/types/small-intestine/patient/small-intestine-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 17, 2023",
+      "retrieved_at": "2026-08-31T07:14:14.405023+00:00",
+      "content_sha256": "89c829f616777ba74d03ae888abca1307a35eff3e1069366e9ef7c137190769e",
+      "section_count": 36,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Intestine Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Small intestine cancer is a rare disease in which malignant (cancer) cells form in the tissues of the small intestine.\n- There are five types of small intestine cancer.\n- Diet and health history can affect the risk of developing small intestine cancer.\n- Signs and symptoms of small intestine cancer include unexplained weight loss and abdominal pain.\n- Tests that examine the small intestine are used to diagnose and stage small intestine cancer.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Small intestine cancer is a rare disease in which malignant (cancer) cells form in the tissues of the small intestine.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Intestine Cancer",
+            "Small intestine cancer is a rare disease in which malignant (cancer) cells form in the tissues of the small intestine."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The small intestine is part of the body’s digestive system , which also includes the esophagus , stomach , and large intestine . The digestive system removes and processes nutrients ( vitamins , minerals , carbohydrates , fats, proteins , and water) from foods and helps pass waste material out of the body. The small intestine is a long tube that connects the stomach to the large intestine. It folds many times to fit inside the abdomen . Enlarge The small intestine is a long tube-like organ that connects the stomach to the large intestine. The small intestine includes the duodenum, jejunum, and ileum."
+        },
+        {
+          "section": "There are five types of small intestine cancer.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Intestine Cancer",
+            "There are five types of small intestine cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The types of cancer found in the small intestine are adenocarcinoma , sarcoma , neuroendocrine tumors , gastrointestinal stromal tumor , and lymphoma . This summary discusses adenocarcinoma and leiomyosarcoma (a type of sarcoma).\nAdenocarcinoma starts in glandular cells in the lining of the small intestine and is the most common type of small intestine cancer . Most of these tumors occur in the part of the small intestine near the stomach. They may grow and block the intestine.\nLeiomyosarcoma starts in the smooth muscle cells of the small intestine. Most of these tumors occur in the part of the small intestine near the large intestine.\nFor more information on small intestine cancer, see the following:\n- Gastrointestinal Neuroendocrine Tumors Treatment\n- Gastrointestinal Stromal Tumors Treatment"
+        },
+        {
+          "section": "Diet and health history can affect the risk of developing small intestine cancer.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Intestine Cancer",
+            "Diet and health history can affect the risk of developing small intestine cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Anything that increases a person's chance of getting a disease is called a risk factor . Not every person with one or more of these risk factors will develop small intestine cancer, and it will develop in some people who don't have any known risk factors. Talk with your doctor if you think you may be at risk. Risk factors for small intestine cancer include the following:\n- Eating a high-fat diet .\n- Having Crohn disease .\n- Having celiac disease .\n- Having familial adenomatous polyposis (FAP)."
+        },
+        {
+          "section": "Signs and symptoms of small intestine cancer include unexplained weight loss and abdominal pain.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Intestine Cancer",
+            "Signs and symptoms of small intestine cancer include unexplained weight loss and abdominal pain."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "These and other signs and symptoms may be caused by small intestine cancer or by other conditions . Check with your doctor if you have any of the following:\n- Pain or cramps in the middle of the abdomen.\n- Weight loss with no known reason.\n- A lump in the abdomen.\n- Blood in the stool ."
+        },
+        {
+          "section": "Tests that examine the small intestine are used to diagnose and stage small intestine cancer.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Intestine Cancer",
+            "Tests that examine the small intestine are used to diagnose and stage small intestine cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Procedures that make pictures of the small intestine and the area around it help diagnose small intestine cancer and show how far the cancer has spread. The process used to find out if cancer cells have spread within and around the small intestine is called staging .\nIn order to plan treatment, it is important to know the type of small intestine cancer and whether the tumor can be removed by surgery . Tests and procedures to detect, diagnose, and stage small intestine cancer are usually done at the same time. In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease.\n- Liver function tests : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by the liver . A higher than normal amount of a substance can be a sign of liver disease that may be caused by small intestine cancer.\n- Endoscopy : A procedure to look at organs and tissues inside the body to check for abnormal areas. There are different types of endoscopy:\n- Upper endoscopy : A procedure to look at the inside of the esophagus, stomach, and duodenum (first part of the small intestine, near the stomach). An endoscope is inserted through the mouth and into the esophagus, stomach, and duodenum. An endoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue samples, which are checked under a microscope for signs of cancer.\n- Capsule endoscopy : A procedure to look at the inside of the small intestine. A capsule that is about the size of a large pill and contains a light and a tiny wireless camera is swallowed by the patient. The capsule travels through the digestive tract , including the small intestine, and sends many pictures of the inside of the digestive tract to a recorder that is worn around the waist or over the shoulder. The pictures are sent from the recorder to a computer and viewed by the doctor who checks for signs of cancer. The capsule passes out of the body during a bowel movement .\n- Double balloon endoscopy : A procedure to look at the inside of the small intestine. A special instrument made up of two tubes (one inside the other) is inserted through the mouth or rectum and into the small intestine. The inside tube (an endoscope with a light and lens for viewing) is moved through part of the small intestine and a balloon at the end of it is inflated to keep the endoscope in place. Next, the outer tube is moved through the small intestine to reach the end of the endoscope, and a balloon at the end of the outer tube is inflated to keep it in place. Then, the balloon at the end of the endoscope is deflated and the endoscope is moved through the next part of the small intestine. These steps are repeated many times as the tubes move through the small intestine. The doctor is able to see the inside of the small intestine through the endoscope and use a tool to remove samples of abnormal tissue. The tissue samples are checked under a microscope for signs of cancer. This procedure may be done if the results of a capsule endoscopy are abnormal. This procedure is also called double balloon enteroscopy.\n- Laparotomy : A surgical procedure in which an incision (cut) is made in the wall of the abdomen to check the inside of the abdomen for signs of disease. The size of the incision depends on the reason the laparotomy is being done. Sometimes organs or lymph nodes are removed or tissue samples are taken and checked under a microscope for signs of disease.\n- Biopsy : The removal of cells or tissues so they can be viewed under a microscope to check for signs of cancer. This may be done during an endoscopy or laparotomy. The sample is checked by a pathologist to see if it contains cancer cells.\n- Upper GI series with small bowel follow-through : A series of x-rays of the esophagus, stomach, and small bowel. The patient drinks a liquid that contains barium (a silver-white metallic compound ). The liquid coats the esophagus, stomach, and small bowel. X-rays are taken at different times as the barium travels through the upper GI tract and small bowel.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI)."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Intestine Cancer",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The prognosis and treatment options depend on the following:\n- The type of small intestine cancer.\n- Whether the cancer is in the inner lining of the small intestine only or has spread into or beyond the wall of the small intestine.\n- Whether the cancer has spread to other places in the body, such as the lymph nodes, liver, or peritoneum (tissue that lines the wall of the abdomen and covers most of the organs in the abdomen).\n- Whether the cancer can be completely removed by surgery .\n- Whether the cancer is newly diagnosed or has recurred ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Small Intestine Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Tests and procedures to stage small intestine cancer are usually done at the same time as diagnosis.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- Small intestine cancer is grouped according to whether or not the tumor can be completely removed by surgery.\n- Small intestine cancer can recur (come back) after it has been treated."
+        },
+        {
+          "section": "Tests and procedures to stage small intestine cancer are usually done at the same time as diagnosis.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Small Intestine Cancer",
+            "Tests and procedures to stage small intestine cancer are usually done at the same time as diagnosis."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Staging is used to find out how far the cancer has spread, but treatment decisions are not based on stage . See the General Information section for a description of tests and procedures used to detect, diagnose , and stage small intestine cancer."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Small Intestine Cancer",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Small Intestine Cancer",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of cancer as the primary tumor. For example, if small intestine cancer spreads to the liver , the cancer cells in the liver are actually small intestine cancer cells. The disease is metastatic small intestine cancer, not liver cancer ."
+        },
+        {
+          "section": "Small intestine cancer is grouped according to whether or not the tumor can be completely removed by surgery.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Small Intestine Cancer",
+            "Small intestine cancer is grouped according to whether or not the tumor can be completely removed by surgery."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Treatment depends on whether the tumor can be removed by surgery and if the cancer is being treated as a primary tumor or is metastatic cancer ."
+        },
+        {
+          "section": "Small intestine cancer can recur (come back) after it has been treated.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Small Intestine Cancer",
+            "Small intestine cancer can recur (come back) after it has been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer may come back in the small intestine or in other parts of the body."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- There are different types of treatment for patients with small intestine cancer.\n- The following types of treatment are used:\n- Surgery\n- Radiation therapy\n- Chemotherapy\n- New types of treatment are being tested in clinical trials.\n- Immunotherapy\n- Radiation therapy with radiosensitizers\n- Treatment for small intestine cancer may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with small intestine cancer.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with small intestine cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatments are available for patients with small intestine cancer . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer. When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Surgery is the most common treatment of small intestine cancer. One of the following types of surgery may be done:\n- Resection : Surgery to remove part or all of an organ that contains cancer. The resection may include the small intestine and nearby organs (if the cancer has spread). The doctor may remove the section of the small intestine that contains cancer and perform an anastomosis (joining the cut ends of the intestine together). The doctor will usually remove lymph nodes near the small intestine and examine them under a microscope to see whether they contain cancer.\n- Bypass : Surgery to allow food in the small intestine to go around (bypass) a tumor that is blocking the intestine but cannot be removed.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, some patients may be given radiation therapy after surgery to kill any cancer cells that are left. Treatment given after the surgery, to lower the risk that the cancer will come back, is called adjuvant therapy ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\nExternal radiation therapy is used to treat small intestine cancer."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy )."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "This summary section describes treatments that are being studied in clinical trials. It may not mention every new treatment being studied. Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Immunotherapy is a treatment that uses the patient's immune system to fight cancer. Substances made by the body or made in a laboratory are used to boost, direct, or restore the body's natural defenses against cancer."
+        },
+        {
+          "section": "Radiation therapy with radiosensitizers",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "Radiation therapy with radiosensitizers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Radiosensitizers are drugs that make tumor cells more sensitive to radiation therapy. Combining radiation therapy with radiosensitizers may kill more tumor cells."
+        },
+        {
+          "section": "Treatment for small intestine cancer may cause side effects.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for small intestine cancer may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Small Intestine Adenocarcinoma",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Small Intestine Adenocarcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nWhen possible, treatment of small intestine adenocarcinoma will be surgery to remove the tumor and some of the normal tissue around it.\nTreatment of small intestine adenocarcinoma that cannot be removed by surgery may include the following:\n- Surgery to bypass the tumor.\n- Radiation therapy as palliative therapy to relieve symptoms and improve the patient's quality of life .\n- A clinical trial of radiation therapy with radiosensitizers , with or without chemotherapy .\n- A clinical trial of new anticancer drugs .\n- A clinical trial of immunotherapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Small Intestine Leiomyosarcoma",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Small Intestine Leiomyosarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nWhen possible, treatment of small intestine leiomyosarcoma will be surgery to remove the tumor and some of the normal tissue around it.\nTreatment of small intestine leiomyosarcoma that cannot be removed by surgery may include the following:\n- Surgery (to bypass the tumor) and radiation therapy .\n- Surgery, radiation therapy, or chemotherapy as palliative therapy to relieve symptoms and improve the patient's quality of life .\n- A clinical trial of new anticancer drugs.\n- A clinical trial of immunotherapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Small Intestine Cancer",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Small Intestine Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of recurrent small intestine cancer that has spread to other parts of the body is usually a clinical trial of new anticancer drugs or immunotherapy .\nTreatment of locally recurrent small intestine cancer may include the following:\n- Surgery .\n- Radiation therapy or chemotherapy as palliative therapy to relieve symptoms and improve the patient's quality of life .\n- A clinical trial of radiation therapy with radiosensitizers , with or without chemotherapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Small Intestine Cancer",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "To Learn More About Small Intestine Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "For more information from the National Cancer Institute about small intestine cancer, see the following:\n- Small Intestine Cancer Home Page\n- Immunotherapy to Treat Cancer\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of small intestine cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Small Intestine Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/small-intestine/patient/small-intestine-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389461]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Small Intestine Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\96fe2a020cc16bbd1b5b.html"
+    }
+  ]
+}

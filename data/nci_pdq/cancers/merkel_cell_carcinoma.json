@@ -1,0 +1,1041 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Merkel Cell Carcinoma",
+  "generated_at": "2026-08-31T07:15:23.360110+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Merkel Cell Carcinoma",
+      "title": "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Merkel Cell Carcinoma Treatment",
+      "url": "https://www.cancer.gov/types/skin/hp/merkel-cell-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "May 9, 2025",
+      "retrieved_at": "2026-08-31T07:13:55.618653+00:00",
+      "content_sha256": "1b1958f2aba2b933be1849a834a4a9de47a81caccda0bc5ffc23c999d6d7a64d",
+      "section_count": 52,
+      "sections": [
+        {
+          "section": "General Information About Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Merkel cell carcinoma (MCC) was originally described by Toker in 1972 as trabecular carcinoma of the skin.[ 1 ] Other names for MCC include Toker tumor, primary small cell carcinoma of the skin, primary cutaneous neuroendocrine tumor, and malignant trichodiscoma.[ 2 ]\nMCC is an aggressive neuroendocrine carcinoma arising in the dermoepidermal junction (see Figure 1 ), and it is the second most common cause of skin cancer death after melanoma.[ 3 , 4 ] Although the exact origin and function of the Merkel cell remains under investigation, it is thought to have features of both epithelial and neuroendocrine origin and arise in cells with touch-sensitivity function (mechanoreceptors).[ 5 - 11 ]\nTherapeutic options have been historically limited for patients with advanced disease. However, new immunotherapeutic approaches are associated with durable responses.[ 12 ]"
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Enlarge Figure 1. Merkel Cell Anatomy."
+        },
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "MCC incidence increases progressively with age. There are few cases in patients younger than 50 years, and the median age at diagnosis is about 65 years (see Figure 2 ).[ 13 ] Incidence is considerably greater in White individuals than in Black individuals and slightly greater in men than in women.[ 13 - 17 ] Enlarge Figure 2. Frequency of MCC by age and sex of men (square) and women (circle). Reprinted from Journal of the American Academy of Dermatology, 49 (5), Agelli M and Clegg L, Epidemiology of primary Merkel cell carcinoma in the United States, pp. 832–41, Copyright (2003), with permission from Elsevier.\nMCC occurs most frequently in sun-exposed areas of skin, particularly the head and neck, followed by the extremities, and then the trunk.[ 5 , 16 , 18 ] Incidence has been reported to be greater in geographic regions with higher levels of ultraviolet B sunlight.[ 16 ]\nAs of 2013, MCC had an annual incidence of 0.7 cases per 100,000 people in the United States.[ 19 ] The incidence has been increasing over the past several decades, almost doubling in the United States between 2000 and 2013. This rise is potentially related to more accurate diagnostic pathology tools, improved clinical awareness of MCC, an aging population, increased sun exposure in susceptible populations, and improved registry tools. The incidence is also higher in immunosuppressed populations (HIV, hematologic malignancies, immunosuppressive medications, etc.).[ 20 ] Approximately 25,000 cases of MCC have been recorded in the United States since 2000, including more than 2,200 incident cases reported in 2014 to the National Program of Cancer Registries/SEER combined registries, which captures more than 98% of the U.S. population and the ten most common sites of MCC (see Table 1 ).[ 17 ]\nAnatomical Site | Cases (%)\nNOS = not otherwise specified; SEER = Surveillance, Epidemiology, and End Results Program.\na Albores-Saavedra J et al: Merkel cell carcinoma demographics, morphology, and survival based on 3,870 cases: A population-based study. J Cutan Pathol. Reprinted with permission © 2009. Published by Wiley-Blackwell. All rights reserved.[ 17 ]\nSkin, face | 1,041 (26.9)\nSkin of upper limb and shoulder | 853 (22.0)\nSkin of lower limb and hip | 578 (14.9)\nSkin of trunk | 410 (10.6)\nSkin of scalp and neck | 348 (9.0)\nSkin, NOS | 234 (6.0)\nExternal ear | 120 (3.1)\nEyelid | 98 (2.5)\nSkin of lip | 91 (2.4)\nUnknown primary site | 31 (0.8)\nTotal | 3,804 (98.3)\nIn various cases series, up to 97% of MCCs arise in the skin. MCC primaries in other sites were very rare, as were MCCs from unknown primary sites.[ 17 ]\nSEER registry data have shown excess risk of MCC as a first or second cancer in patients with several primary cancers.[ 21 ] National cancer registries from three Scandinavian countries have identified a variety of second cancers diagnosed after MCC.[ 22 ]"
+        },
+        {
+          "section": "Pathogenesis",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Pathogenesis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Increased incidence of MCC has also been seen in people treated heavily with methoxsalen (psoralen) and ultraviolet A (PUVA) for psoriasis (3 of 1,380 patients, 0.2%). This has also been seen in individuals with chronic immune suppression, especially from chronic lymphocytic leukemia, HIV, and previous solid organ transplant.[ 16 , 23 ]\nIn 2008, a novel polyomavirus (Merkel cell polyoma virus [MCPyV]) was first reported in MCC tumor specimens,[ 24 ] a finding subsequently confirmed in other laboratories.[ 25 - 27 ] High levels of viral DNA and clonal integration of the virus in MCC tumors have also been reported, [ 28 ] along with expression of certain viral antigens in MCC cells and the presence of antiviral antibodies. Not all cases of MCC appear to be associated with MCPyV infection.[ 29 ]\nMCPyV has been detected at very low levels in normal skin distant from the MCC primary tumor, in a significant percentage of patients with non-MCC cutaneous disorders, in normal-appearing skin in healthy individuals, and in nonmelanoma skin cancers in immune-suppressed individuals.[ 10 , 30 - 32 ] Various methods have been used to identify and quantify the presence of MCPyV in MCC tumor specimens, other non-MCC tumors, blood, urine, and other tissues.[ 33 , 34 ]\nThe significance of the new MCPyV findings remains uncertain. The prognostic significance of viral load, antibody titer levels, and the role of underlying immunosuppression in hosts (from disease and medications) are under investigation.\nPrevalence of MCPyV appears to differ between MCC patients in the United States and Europe versus Australia. There may be two independent pathways for the development of MCC: one driven by the presence of MCPyV, and the other driven primarily by sun damage, especially as noted in patient series from Australia.[ 25 , 29 , 35 ]\nAlthough no unique marker for MCC has been identified, a variety of molecular and cytogenetic markers of MCC have been reported.[ 7 , 10 , 36 ]"
+        },
+        {
+          "section": "Clinical Presentation",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Clinical Presentation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "MCC usually presents as a painless, indurated, solitary dermal nodule with a slightly erythematous to deeply violaceous color, and rarely, an ulcer. MCC can infiltrate locally via dermal lymphatics, resulting in multiple satellite lesions. Because of its nonspecific clinical appearance, MCC is rarely suspected before a biopsy is performed.[ 5 ] Photographs of MCC skin lesions illustrate its clinical variability.[ 37 ]\nA mnemonic [ 18 ] summarizing typical clinical characteristics of MCC has been proposed:\nAEIOU\n- A = Asymptomatic.\n- E = Expanding rapidly.\n- I = Immune suppressed.\n- O = Older than 50 years.\n- U = UV-exposed skin.\nNot all patients have every element in this mnemonic. However, in this study, 89% of patients met three or more criteria, 52% met four or more criteria, and 7% met all five criteria.[ 18 ]"
+        },
+        {
+          "section": "Initial Clinical Evaluation",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Initial Clinical Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Because local-regional spread is common, patients with newly diagnosed MCC require a careful clinical examination for satellite lesions and regional nodal involvement.\nTailoring an imaging work-up to the clinical presentation and any relevant signs and symptoms should be considered. There has been no systematic study of the optimal imaging work-up for newly diagnosed patients, and it is not clear if all newly diagnosed patients, especially those with the smallest primary tumors, benefit from a detailed imaging work-up.\nIf an imaging work-up is performed, it may include a computed tomography (CT) scan of the chest and abdomen to rule out primary small cell lung cancer as well as distant and regional metastases. Imaging studies designed to evaluate suspicious signs and symptoms may also be recommended. In one series, CT scans had an 80% false-negative rate for regional metastases.[ 38 ] Head and neck presentations may require additional imaging. Magnetic resonance imaging has been used to evaluate MCC but has not been studied systematically.[ 39 ] Fluorine F 18-fludeoxyglucose positron emission tomography results have been reported in selected cases.[ 40 , 41 ] Baseline routine blood work has been recommended but has not been studied systematically. There are no known circulating tumor markers specific to MCC."
+        },
+        {
+          "section": "Initial Staging Results",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Initial Staging Results"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The results of initial clinical staging of MCC vary widely in the literature, based on retrospective case series reported over decades. For invasive cancers, 48.6% were localized, 31.1% were regional, and 8.2% were distant.[ 17 ]\nMCC that presents in regional nodes without an identifiable primary lesion is found in a minority of patients, with the percent of these cases varying among the reported series. Tumors without an identifiable primary lesion have been attributed to either spontaneous regression of the primary or metastatic neuroendocrine carcinoma from a clinically occult site.[ 8 , 17 , 18 , 42 , 43 ]"
+        },
+        {
+          "section": "Clinical Progression",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Clinical Progression"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In a review of patients from 18 case series, 279 of 926 patients (30.1%) developed local recurrence during follow-up, excluding those presenting with distant metastatic disease. These events have been typically attributed to inadequate surgical margins and/or a lack of adjuvant radiation therapy. In addition, 545 of 982 patients (55.5%) had lymph node metastases at diagnosis or during follow-up.[ 8 ]\nIn the same review of 18 case series, the most common sites of distant metastases were distant lymph nodes (60.1%), distant skin (30.3%), lung (23.4%), central nervous system (18.4%), and bone (15.2%).[ 8 ] Many other sites of disease have also been reported, and the distribution of metastatic sites varies among case series.\nIn one series of 237 patients presenting with local or regional disease, the median time-to-recurrence was 9 months (range, 2–70 months). Ninety-one percent of recurrences occurred within 2 years of diagnosis.[ 44 ]"
+        },
+        {
+          "section": "Potential Prognostic Factors",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Potential Prognostic Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The extent of disease at presentation may provide the most useful estimate of prognosis.[ 7 ]\nDiagnostic procedures, such as sentinel lymph node biopsy, may help distinguish between local and regional disease at presentation. One-third of patients who lack clinically palpable or radiologically visible nodes will have microscopically evident regional disease.[ 38 ] Nodal positivity may be substantially lower among patients with small tumors (e.g., ≤1.0 cm).[ 45 ]\nMany retrospective studies have evaluated the relationship of a wide variety of biological and histological factors to survival and local-regional control.[ 7 , 8 , 17 , 38 , 44 , 46 - 57 ][ Level of evidence C2 ] Many of these reports are confounded by small numbers, potential selection bias, referral bias, short follow-up, no uniform clinical protocol for both staging and treatment, and are underpowered to detect modest differences.\nA large, single-institution, retrospective study of 156 patients with MCC, with a median follow-up of 51 months (range, 2–224 months), evaluated histological factors potentially associated with prognosis.[ 55 ][ Level of evidence C1 ] Although this report was subject to potential selection and referral bias, both univariate and multivariate analyses demonstrated a relationship between improved cause-specific survival and circumscribed growth pattern versus infiltrative pattern, shallow-tumor depth versus deep-tumor depth, and absence of lymphovascular invasion versus presence of lymphovascular invasion. Adoption of these findings into a global prognostic algorithm awaits independent confirmation by adequately powered studies.\nA 2009 study investigated whether the presence of newly identified MCPyV in MCC tumor specimens influenced clinical outcome among 114 Finnish patients with MCC. In this small study, patients whose tumors were MCPyV positive appeared to have better survival than patients whose tumors were MCPyV negative.[ 58 ][ Level of evidence C2 ] Standardization of procedures to identify and quantify MCPyV and relevant antibodies is needed to improve understanding of both prognostic and epidemiological questions.[ 10 ]"
+        },
+        {
+          "section": "Prognosis",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Prognosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The most significant prognostic parameters for MCC include tumor size and the presence of locoregional or distant metastases. These factors form the basis of the American Joint Committee on Cancer staging system for MCC.[ 59 , 60 ] Although an increasing primary tumor size correlates with an increased risk of metastatic disease, MCC tumors of any size have significant risk of occult metastasis, supporting the use of sentinel lymph node biopsy for all cases.[ 61 ] Additional features of the primary tumor, such as lymphovascular invasion and tumor growth pattern, may also have prognostic significance. Clinically detectable nodal disease is associated with worse outcome than microscopic metastases.[ 55 , 59 ] Other findings associated with worse prognosis include sheet-like involvement in lymph node metastases and an increasing number of metastatic lymph nodes.[ 60 , 62 ]\nThe bulk of MCC literature is from small case series, which are subject to many confounding factors. For this reason, the relapse and survival rates reported by stage vary widely in the literature. In general, lower-stage disease is associated with better overall survival.[ 63 ] For more information, see the Potential Prognostic Factors section.\nOutcomes from patients presenting with small volume local disease and pathologically confirmed cancer-negative lymph nodes report a cause-specific 5-year survival rate exceeding 90% in one report.[ 44 , 55 ][ Level of evidence C2 ]\nA tabular summary of treatment results of MCC from 12 series illustrates the difficulty in comparing outcome data among series.[ 7 ]\nUsing the SEER Program registry MCC staging system adopted in 1973, MCC survival data (1973–2006) by stage is summarized in Figure 3 .[ 17 ] Enlarge Figure 3. Relative ten-year survival rates for Merkel Cell Carcinoma by stage (SEER 1973–2006). Albores-Saavedra J et al: Merkel cell carcinoma demographics, morphology, and survival based on 3,870 cases: A population-based study. J Cutan Pathol. Reprinted with permission © 2009. Published by Wiley-Blackwell. All rights reserved."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Prognosis",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 63,
+          "text": "- Toker C: Trabecular carcinoma of the skin. Arch Dermatol 105 (1): 107-10, 1972. [PUBMED Abstract]\n- Schwartz RA, Lambert WC: The Merkel cell carcinoma: a 50-year retrospect. J Surg Oncol 89 (1): 5, 2005. [PUBMED Abstract]\n- Agelli M, Clegg LX, Becker JC, et al.: The etiology and epidemiology of merkel cell carcinoma. Curr Probl Cancer 34 (1): 14-37, 2010 Jan-Feb. [PUBMED Abstract]\n- Harms PW: Update on Merkel Cell Carcinoma. Clin Lab Med 37 (3): 485-501, 2017. [PUBMED Abstract]\n- Nghiem P, McKee PH, Haynes HA: Merkel cell (cutaneous neuroendocrine) carcinoma. In: Sober AJ, Haluska FG, eds.: Skin Cancer. BC Decker Inc., 2001, pp 127-141.\n- Nghiem P, James N: Merkel cell carcinoma. In: Wolff K, Goldsmith LA, Katz SI, et al., eds.: Fitzpatrick's Dermatology in General Medicine. 7th ed. McGraw-Hill , 2008, pp 1087-94.\n- Eng TY, Boersma MG, Fuller CD, et al.: A comprehensive review of the treatment of Merkel cell carcinoma. Am J Clin Oncol 30 (6): 624-36, 2007. [PUBMED Abstract]\n- Medina-Franco H, Urist MM, Fiveash J, et al.: Multimodality treatment of Merkel cell carcinoma: case series and literature review of 1024 cases. Ann Surg Oncol 8 (3): 204-8, 2001. [PUBMED Abstract]\n- Busse PM, Clark JR, Muse VV, et al.: Case records of the Massachusetts General Hospital. Case 19-2008. A 63-year-old HIV-positive man with cutaneous Merkel-cell carcinoma. N Engl J Med 358 (25): 2717-23, 2008. [PUBMED Abstract]\n- Rockville Merkel Cell Carcinoma Group: Merkel cell carcinoma: recent progress and current priorities on etiology, pathogenesis, and clinical management. J Clin Oncol 27 (24): 4021-6, 2009. [PUBMED Abstract]\n- Calder KB, Smoller BR: New insights into merkel cell carcinoma. Adv Anat Pathol 17 (3): 155-61, 2010. [PUBMED Abstract]\n- Cassler NM, Merrill D, Bichakjian CK, et al.: Merkel Cell Carcinoma Therapeutic Update. Curr Treat Options Oncol 17 (7): 36, 2016. [PUBMED Abstract]\n- Agelli M, Clegg LX: Epidemiology of primary Merkel cell carcinoma in the United States. J Am Acad Dermatol 49 (5): 832-41, 2003. [PUBMED Abstract]\n- Hodgson NC: Merkel cell carcinoma: changing incidence trends. J Surg Oncol 89 (1): 1-4, 2005. [PUBMED Abstract]\n- Young JL, Ward KC, Ries LAG: Cancer of rare sites. In: Ries LAG, Young JL, Keel GE, et al., eds.: SEER Survival Monograph: Cancer Survival Among Adults: U. S. SEER Program, 1988-2001, Patient and Tumor Characteristics. National Cancer Institute, 2007. NIH Pub. No. 07-6215, pp 251-61.\n- Miller RW, Rabkin CS: Merkel cell carcinoma and melanoma: etiological similarities and differences. Cancer Epidemiol Biomarkers Prev 8 (2): 153-8, 1999. [PUBMED Abstract]\n- Albores-Saavedra J, Batich K, Chable-Montero F, et al.: Merkel cell carcinoma demographics, morphology, and survival based on 3870 cases: a population based study. J Cutan Pathol 37 (1): 20-7, 2010. [PUBMED Abstract]\n- Heath M, Jaimes N, Lemos B, et al.: Clinical characteristics of Merkel cell carcinoma at diagnosis in 195 patients: the AEIOU features. J Am Acad Dermatol 58 (3): 375-81, 2008. [PUBMED Abstract]\n- Paulson KG, Park SY, Vandeven NA, et al.: Merkel cell carcinoma: Current US incidence and projected increases based on changing demographics. J Am Acad Dermatol 78 (3): 457-463.e2, 2018. [PUBMED Abstract]\n- Ma JE, Brewer JD: Merkel cell carcinoma in immunosuppressed patients. Cancers (Basel) 6 (3): 1328-50, 2014. [PUBMED Abstract]\n- Howard RA, Dores GM, Curtis RE, et al.: Merkel cell carcinoma and multiple primary cancers. Cancer Epidemiol Biomarkers Prev 15 (8): 1545-9, 2006. [PUBMED Abstract]\n- Bzhalava D, Bray F, Storm H, et al.: Risk of second cancers after the diagnosis of Merkel cell carcinoma in Scandinavia. Br J Cancer 104 (1): 178-80, 2011. [PUBMED Abstract]\n- Lunder EJ, Stern RS: Merkel-cell carcinomas in patients treated with methoxsalen and ultraviolet A radiation. N Engl J Med 339 (17): 1247-8, 1998. [PUBMED Abstract]\n- Feng H, Shuda M, Chang Y, et al.: Clonal integration of a polyomavirus in human Merkel cell carcinoma. Science 319 (5866): 1096-100, 2008. [PUBMED Abstract]\n- Garneski KM, Warcola AH, Feng Q, et al.: Merkel cell polyomavirus is more frequently present in North American than Australian Merkel cell carcinoma tumors. J Invest Dermatol 129 (1): 246-8, 2009. [PUBMED Abstract]\n- Becker JC, Houben R, Ugurel S, et al.: MC polyomavirus is frequently present in Merkel cell carcinoma of European patients. J Invest Dermatol 129 (1): 248-50, 2009. [PUBMED Abstract]\n- Kassem A, Schöpflin A, Diaz C, et al.: Frequent detection of Merkel cell polyomavirus in human Merkel cell carcinomas and identification of a unique deletion in the VP1 gene. Cancer Res 68 (13): 5009-13, 2008. [PUBMED Abstract]\n- Houben R, Schrama D, Becker JC: Molecular pathogenesis of Merkel cell carcinoma. Exp Dermatol 18 (3): 193-8, 2009. [PUBMED Abstract]\n- Paik JY, Hall G, Clarkson A, et al.: Immunohistochemistry for Merkel cell polyomavirus is highly specific but not sensitive for the diagnosis of Merkel cell carcinoma in the Australian population. Hum Pathol 42 (10): 1385-90, 2011. [PUBMED Abstract]\n- Andres C, Belloni B, Puchta U, et al.: Prevalence of MCPyV in Merkel cell carcinoma and non-MCC tumors. J Cutan Pathol 37 (1): 28-34, 2010. [PUBMED Abstract]\n- Kassem A, Technau K, Kurz AK, et al.: Merkel cell polyomavirus sequences are frequently detected in nonmelanoma skin cancer of immunosuppressed patients. Int J Cancer 125 (2): 356-61, 2009. [PUBMED Abstract]\n- Foulongne V, Dereure O, Kluger N, et al.: Merkel cell polyomavirus DNA detection in lesional and nonlesional skin from patients with Merkel cell carcinoma or other skin diseases. Br J Dermatol 162 (1): 59-63, 2010. [PUBMED Abstract]\n- DeCaprio JA: Does detection of Merkel cell polyomavirus in Merkel cell carcinoma provide prognostic information? J Natl Cancer Inst 101 (13): 905-7, 2009. [PUBMED Abstract]\n- Laude HC, Jonchère B, Maubec E, et al.: Distinct merkel cell polyomavirus molecular features in tumour and non tumour specimens from patients with merkel cell carcinoma. PLoS Pathog 6 (8): , 2010. [PUBMED Abstract]\n- Buck CB, Lowy DR: Immune readouts may have prognostic value for the course of merkel cell carcinoma, a virally associated disease. J Clin Oncol 29 (12): 1506-8, 2011. [PUBMED Abstract]\n- Lemos B, Nghiem P: Merkel cell carcinoma: more deaths but still no pathway to blame. J Invest Dermatol 127 (9): 2100-3, 2007. [PUBMED Abstract]\n- Seattle Cancer Care Alliance: Merkel Cell Carcinoma Information for Patients and Their Physicians: Clinical Photos/Images. Seattle, Wa: Seattle Cancer Care Alliance Skin Oncology Clinic, 2009. Available online. Last accessed May 9, 2025.\n- Gupta SG, Wang LC, Peñas PF, et al.: Sentinel lymph node biopsy for evaluation and treatment of patients with Merkel cell carcinoma: The Dana-Farber experience and meta-analysis of the literature. Arch Dermatol 142 (6): 685-90, 2006. [PUBMED Abstract]\n- Anderson SE, Beer KT, Banic A, et al.: MRI of merkel cell carcinoma: histologic correlation and review of the literature. AJR Am J Roentgenol 185 (6): 1441-8, 2005. [PUBMED Abstract]\n- Iagaru A, Quon A, McDougall IR, et al.: Merkel cell carcinoma: Is there a role for 2-deoxy-2-[f-18]fluoro-D-glucose-positron emission tomography/computed tomography? Mol Imaging Biol 8 (4): 212-7, 2006 Jul-Aug. [PUBMED Abstract]\n- Belhocine T, Pierard GE, Frühling J, et al.: Clinical added-value of 18FDG PET in neuroendocrine-merkel cell carcinoma. Oncol Rep 16 (2): 347-52, 2006. [PUBMED Abstract]\n- Missotten GS, de Wolff-Rouendaal D, de Keizer RJ: Merkel cell carcinoma of the eyelid review of the literature and report of patients with Merkel cell carcinoma showing spontaneous regression. Ophthalmology 115 (1): 195-201, 2008. [PUBMED Abstract]\n- Richetta AG, Mancini M, Torroni A, et al.: Total spontaneous regression of advanced merkel cell carcinoma after biopsy: review and a new case. Dermatol Surg 34 (6): 815-22, 2008. [PUBMED Abstract]\n- Allen PJ, Bowne WB, Jaques DP, et al.: Merkel cell carcinoma: prognosis and treatment of patients from a single institution. J Clin Oncol 23 (10): 2300-9, 2005. [PUBMED Abstract]\n- Stokes JB, Graw KS, Dengel LT, et al.: Patients with Merkel cell carcinoma tumors < or = 1.0 cm in diameter are unlikely to harbor regional lymph node metastasis. J Clin Oncol 27 (23): 3772-7, 2009. [PUBMED Abstract]\n- Jabbour J, Cumming R, Scolyer RA, et al.: Merkel cell carcinoma: assessing the effect of wide local excision, lymph node dissection, and radiotherapy on recurrence and survival in early-stage disease--results from a review of 82 consecutive cases diagnosed between 1992 and 2004. Ann Surg Oncol 14 (6): 1943-52, 2007. [PUBMED Abstract]\n- Henness S, Vereecken P: Management of Merkel tumours: an evidence-based review. Curr Opin Oncol 20 (3): 280-6, 2008. [PUBMED Abstract]\n- Skelton HG, Smith KJ, Hitchcock CL, et al.: Merkel cell carcinoma: analysis of clinical, histologic, and immunohistologic features of 132 cases with relation to survival. J Am Acad Dermatol 37 (5 Pt 1): 734-9, 1997. [PUBMED Abstract]\n- Sandel HD, Day T, Richardson MS, et al.: Merkel cell carcinoma: does tumor size or depth of invasion correlate with recurrence, metastasis, or patient survival? Laryngoscope 116 (5): 791-5, 2006. [PUBMED Abstract]\n- Llombart B, Monteagudo C, López-Guerrero JA, et al.: Clinicopathological and immunohistochemical analysis of 20 cases of Merkel cell carcinoma in search of prognostic markers. Histopathology 46 (6): 622-34, 2005. [PUBMED Abstract]\n- Senchenkov A, Barnes SA, Moran SL: Predictors of survival and recurrence in the surgical treatment of merkel cell carcinoma of the extremities. J Surg Oncol 95 (3): 229-34, 2007. [PUBMED Abstract]\n- Goldberg SR, Neifeld JP, Frable WJ: Prognostic value of tumor thickness in patients with Merkel cell carcinoma. J Surg Oncol 95 (8): 618-22, 2007. [PUBMED Abstract]\n- Heath ML, Nghiem P: Merkel cell carcinoma: if no breslow, then what? J Surg Oncol 95 (8): 614-5, 2007. [PUBMED Abstract]\n- Tai P: Merkel cell cancer: update on biology and treatment. Curr Opin Oncol 20 (2): 196-200, 2008. [PUBMED Abstract]\n- Andea AA, Coit DG, Amin B, et al.: Merkel cell carcinoma: histologic features and prognosis. Cancer 113 (9): 2549-58, 2008. [PUBMED Abstract]\n- Paulson KG, Iyer JG, Tegeder AR, et al.: Transcriptome-wide studies of merkel cell carcinoma and validation of intratumoral CD8+ lymphocyte invasion as an independent predictor of survival. J Clin Oncol 29 (12): 1539-46, 2011. [PUBMED Abstract]\n- Fields RC, Busam KJ, Chou JF, et al.: Recurrence and survival in patients undergoing sentinel lymph node biopsy for merkel cell carcinoma: analysis of 153 patients from a single institution. Ann Surg Oncol 18 (9): 2529-37, 2011. [PUBMED Abstract]\n- Sihto H, Kukko H, Koljonen V, et al.: Clinical factors associated with Merkel cell polyomavirus infection in Merkel cell carcinoma. J Natl Cancer Inst 101 (13): 938-45, 2009. [PUBMED Abstract]\n- Harms KL, Healy MA, Nghiem P, et al.: Analysis of Prognostic Factors from 9387 Merkel Cell Carcinoma Cases Forms the Basis for the New 8th Edition AJCC Staging System. Ann Surg Oncol 23 (11): 3564-3571, 2016. [PUBMED Abstract]\n- Iyer JG, Storer BE, Paulson KG, et al.: Relationships among primary tumor size, number of involved nodes, and survival for 8044 cases of Merkel cell carcinoma. J Am Acad Dermatol 70 (4): 637-643, 2014. [PUBMED Abstract]\n- Schwartz JL, Griffith KA, Lowe L, et al.: Features predicting sentinel lymph node positivity in Merkel cell carcinoma. J Clin Oncol 29 (8): 1036-41, 2011. [PUBMED Abstract]\n- Ko JS, Prieto VG, Elson PJ, et al.: Histological pattern of Merkel cell carcinoma sentinel lymph node metastasis improves stratification of Stage III patients. Mod Pathol 29 (2): 122-30, 2016. [PUBMED Abstract]\n- Eng TY, Boersma MG, Fuller CD, et al.: Treatment of merkel cell carcinoma. Am J Clin Oncol 27 (5): 510-5, 2004. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "Although the exact origin and function of the Merkel cell remains under investigation, it is thought to have features of both epithelial and neuroendocrine origin and arise in cells with touch-sensitivity function (mechanoreceptors).[ 1 - 4 ]\nCharacteristic histopathological features include dense core cytoplasmic neurosecretory granules on electron microscopy and cytokeratin-20 on immunohistochemistry (see Figure 4 ).[ 5 ]\nA panel of immunoreagents (see Figure 4 ) can distinguish between Merkel cell carcinoma (MCC) and other similar-appearing tumors including neuroendocrine carcinoma of the lung (i.e., small cell carcinoma), lymphoma, peripheral primitive neuroectodermal tumor, metastatic carcinoid tumor, and small cell melanoma.[ 5 ] Enlarge Figure 4. Merkel - Immunohistochemical differential diagnosis of Merkel-Cell Carcinoma (Typical Staining Pattern).\nHistologically, MCC has been classified into three distinct subtypes:[ 6 - 9 ]\n- Trabecular: classic pattern, large-cell type, high density or granules on ultrasound examination.\n- Intermediate: solid pattern (most common).\n- Small cell: diffuse, few high-density granules on ultrasound examination (second most common).\nMixtures of variants are common.[ 6 - 8 ] Although some small retrospective case series have suggested correlations between certain histological features and outcome, the evidence remains uncertain.[ 10 - 12 ]\nOne group has suggested a list of 12 elements that should be described in pathology reports of resected primary lesions and nine elements to be described in pathology reports of sentinel lymph nodes. The prognostic significance of these elements has not been validated prospectively.[ 13 ]\nIf the following data are recorded for every patient with MCC, any patient can be staged with the existing or new staging system:\n- Size of primary tumor (maximum dimension pathologically or clinically in centimeters).\n- Presence/absence of primary tumor invasion into bone, muscle, fascia, or cartilage.\n- Presence/absence of nodal metastasis.\n- Method used to ascertain status of nodal involvement (clinical or pathological examination).\n- Presence/absence of distant metastasis.\nThe College of American Pathologists has published a protocol for the examination of specimens from patients with MCC of the skin.[ 14 ]\nFor more information, see the Stage Information for Merkel Cell Carcinoma section.\nThe histological variants of MCC are shown in Figure 5. [ 15 ] Enlarge Figure 5. (A) Intermediate variant of MCC showing vesicular, basophilic nuclei with prominent nucleoli and multiple mitoses. (B) Small-cell variant, histologically indistinguishable from bronchial small-cell carcinoma. ©) Trabecular variant is rare and normally only seen as a small component of a mixed variant. Goessling W et al: Merkel Cell Carcinoma, J Clin Oncol, 20 (2), pp. 588–98. Reprinted with permission. © 2009 American Society of Clinical Oncology. All rights reserved."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Merkel Cell Carcinoma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "- Nghiem P, McKee PH, Haynes HA: Merkel cell (cutaneous neuroendocrine) carcinoma. In: Sober AJ, Haluska FG, eds.: Skin Cancer. BC Decker Inc., 2001, pp 127-141.\n- Bichakjian CK, Nghiem P, Johnson T, et al.: Merkel Cell Carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 549-62.\n- Eng TY, Boersma MG, Fuller CD, et al.: A comprehensive review of the treatment of Merkel cell carcinoma. Am J Clin Oncol 30 (6): 624-36, 2007. [PUBMED Abstract]\n- Medina-Franco H, Urist MM, Fiveash J, et al.: Multimodality treatment of Merkel cell carcinoma: case series and literature review of 1024 cases. Ann Surg Oncol 8 (3): 204-8, 2001. [PUBMED Abstract]\n- Busse PM, Clark JR, Muse VV, et al.: Case records of the Massachusetts General Hospital. Case 19-2008. A 63-year-old HIV-positive man with cutaneous Merkel-cell carcinoma. N Engl J Med 358 (25): 2717-23, 2008. [PUBMED Abstract]\n- Haag ML, Glass LF, Fenske NA: Merkel cell carcinoma. Diagnosis and treatment. Dermatol Surg 21 (8): 669-83, 1995. [PUBMED Abstract]\n- Ratner D, Nelson BR, Brown MD, et al.: Merkel cell carcinoma. J Am Acad Dermatol 29 (2 Pt 1): 143-56, 1993. [PUBMED Abstract]\n- Gould VE, Moll R, Moll I, et al.: Neuroendocrine (Merkel) cells of the skin: hyperplasias, dysplasias, and neoplasms. Lab Invest 52 (4): 334-53, 1985. [PUBMED Abstract]\n- Albores-Saavedra J, Batich K, Chable-Montero F, et al.: Merkel cell carcinoma demographics, morphology, and survival based on 3870 cases: a population based study. J Cutan Pathol 37 (1): 20-7, 2010. [PUBMED Abstract]\n- Alam M: Management of Merkel cell carcinoma: What we know. Arch Dermatol 142 (6): 771-4, 2006. [PUBMED Abstract]\n- Heath ML, Nghiem P: Merkel cell carcinoma: if no breslow, then what? J Surg Oncol 95 (8): 614-5, 2007. [PUBMED Abstract]\n- Andea AA, Coit DG, Amin B, et al.: Merkel cell carcinoma: histologic features and prognosis. Cancer 113 (9): 2549-58, 2008. [PUBMED Abstract]\n- Bichakjian CK, Lowe L, Lao CD, et al.: Merkel cell carcinoma: critical review with guidelines for multidisciplinary management. Cancer 110 (1): 1-12, 2007. [PUBMED Abstract]\n- Rao P, Balzer BL, Lemos BD, et al.: Protocol for the examination of specimens from patients with merkel cell carcinoma of the skin. Arch Pathol Lab Med 134 (3): 341-4, 2010. [PUBMED Abstract]\n- Goessling W, McKee PH, Mayer RJ: Merkel cell carcinoma. J Clin Oncol 20 (2): 588-98, 2002. [PUBMED Abstract]"
+        },
+        {
+          "section": "Stage Information for Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Previously, five competing staging systems have been used to describe Merkel cell carcinoma (MCC) in most publications.\nFirst Author | Publication Date | Institution(s) | No. of Patients in Case Series | Dates of Cases\nMSKCC = Memorial Sloan Kettering Cancer Center; N/A = Not applicable.\na The MSKCC system has evolved over time. MSKCC authors have published one additional case series with 256 patients.[ 1 ]\nYiengpruksawan [ 2 ] | 1991 | MSKCC a | 77 | 1969–1989\nAllen [ 3 ] | 1999 | MSKCC a | 102 | 1969–1996\nAllen [ 4 ] | 2005 | MSKCC a | 250 | 1970–2002\nAmerican Joint Committee on Cancer [ 5 ] | 2017 | N/A | N/A\nClark [ 6 ] | 2007 | Westmead Hospital, Sydney, Australia | 110\nPrincess Margaret Hospital/University Health Network, Toronto, Canada\nSydney Head and Neck Cancer Institute/Royal Prince Alfred Hospital, Sydney, Australia\nThese staging systems are highly inconsistent with each other. Stage III disease can mean anything from advanced local disease to nodal disease to distant metastatic disease. Furthermore, all MCC staging systems in use have been based on fewer than 300 patients."
+        },
+        {
+          "section": "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Merkel Cell Carcinoma",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 123,
+          "text": "To address these concerns, a new MCC-specific consensus staging system was developed by the AJCC to define MCC.[ 7 ] Before the publication of this new system, the AJCC advocated using the nonmelanoma staging system.\nCancers staged using this staging system include primary cutaneous neuroendocrine carcinoma (MCC).\nClinical Stage Group (cTNM)\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; c = clinical.\na Reprinted with permission from AJCC: Merkel Cell Carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 549–62.\n0 | Tis, N0, M0 | Tis = In situ primary tumor.\nN0 = No regional lymph node metastasis detected on clinical and/or radiologic examination.\nM0 = No distant metastasis detected on clinical and/or radiologic examination.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; c = clinical.\na Reprinted with permission from AJCC: Merkel Cell Carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 549–62.\nI | T1, N0, M0 | T1 = Maximum clinical tumor diameter ≤2 cm.\nN0 = No regional lymph node metastasis detected on clinical and/or radiologic examination.\nM0 = No distant metastasis detected on clinical and/or radiologic examination.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; c = clinical.\na Reprinted with permission from AJCC: Merkel Cell Carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 549–62.\nIIA | T2–3, N0, M0 | T2 = Maximum clinical tumor diameter >2 cm but ≤5 cm.\nT3 = Maximum clinical tumor diameter >5 cm.\nN0 = No regional lymph node metastasis detected on clinical and/or radiologic examination.\nM0 = No distant metastasis detected on clinical and/or radiologic examination.\nIIB | T4, N0, M0 | T4 = Primary tumor invades fascia, muscle, cartilage, or bone.\nN0 = No regional lymph node metastasis detected on clinical and/or radiologic examination.\nM0 = No distant metastasis detected on clinical and/or radiologic examination.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; c = clinical.\na Reprinted with permission from AJCC: Merkel Cell Carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 549–62.\nIII | T0–4, N1–3, M0 | T0 = No evidence of primary tumor.\nTis = In situ primary tumor.\nT1 = Maximum clinical tumor diameter ≤2 cm.\nT2 = Maximum clinical tumor diameter >2 but ≤5 cm.\nT3 = Maximum clinical tumor diameter >5 cm.\nT4 = Primary tumor invades fascia, muscle, cartilage, or bone.\nN1 = Metastasis in regional lymph node(s).\nN2 = In-transit metastasis (discontinuous from primary tumor; located between primary tumor and draining regional nodal basin, or distal to the primary tumor) without lymph node metastasis.\nN3 = In-transit metastasis (discontinuous from primary tumor; located between primary tumor and draining regional nodal basin, or distal to the primary tumor) with lymph node metastasis.\nM0 = No distant metastasis detected on clinical and/or radiologic examination.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; c = clinical.\na Reprinted with permission from AJCC: Merkel Cell Carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 549–62.\nIV | T0–4, Any N, M1 | T0 = No evidence of primary tumor.\nTis = In situ primary tumor.\nT1 = Maximum clinical tumor diameter ≤2 cm.\nT2 = Maximum clinical tumor diameter >2 but ≤5 cm.\nT3 = Maximum clinical tumor diameter >5 cm.\nT4 = Primary tumor invades fascia, muscle, cartilage, or bone.\nNX = Regional lymph nodes cannot be clinically assessed (e.g., previously removed for another reason, or because of body habitus).\nN0 = No regional lymph node metastasis detected on clinical and/or radiologic examination.\nN1 = Metastasis in regional lymph node(s).\nN2 = In-transit metastasis (discontinuous from primary tumor; located between primary tumor and draining regional nodal basin, or distal to the primary tumor) without lymph node metastasis.\nN3 = In-transit metastasis (discontinuous from primary tumor; located between primary tumor and draining regional nodal basin, or distal to the primary tumor) with lymph node metastasis.\nM1 = Distant metastasis detected on clinical and/or radiologic examination.\nPathological Stage Group (pTNM)\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; p = pathological.\na Reprinted with permission from AJCC: Merkel Cell Carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 549–62.\n0 | Tis, pN0, M0 | Tis = In situ primary tumor.\npN0 = No regional lymph node metastasis detected on pathological evaluation.\nM0 = No distant metastasis detected on clinical and/or radiologic examination.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; p = pathological.\na Reprinted with permission from AJCC: Merkel Cell Carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 549–62.\nI | T1, pN0, M0 | T1 = Maximum clinical tumor diameter ≤2 cm.\npN0 = No regional lymph node metastasis detected on pathological evaluation.\nM0 = No distant metastasis detected on clinical and/or radiologic examination.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; p = pathological.\na Reprinted with permission from AJCC: Merkel Cell Carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 549–62.\nIIA | T2–3, pN0, M0 | T2 = Maximum clinical tumor diameter >2 but ≤5 cm.\nT3 = Maximum clinical tumor diameter >5 cm.\npN0 = No regional lymph node metastasis detected on pathological evaluation.\nM0 = No distant metastasis detected on clinical and/or radiologic examination.\nIIB | T4, pN0, M0 | T4 = Primary tumor invades fascia, muscle, cartilage, or bone.\npN0 = No regional lymph node metastasis detected on pathological evaluation.\nM0 = No distant metastasis detected on clinical and/or radiologic examination.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; p = pathological.\na Reprinted with permission from AJCC: Merkel Cell Carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 549–62.\nIIIA | T1–4, pN1a(sn) or pN1a, M0 | T1 = Maximum clinical tumor diameter ≤2 cm.\nT2 = Maximum clinical tumor diameter >2 cm but ≤5 cm.\nT3 = Maximum clinical tumor diameter >5 cm.\nT4 = Primary tumor invades fascia, muscle, cartilage, or bone.\npN1a(sn) = Clinically occult regional lymph node metastasis identified only by sentinel lymph node biopsy.\npN1a = Clinically occult regional lymph node metastasis following lymph node dissection.\nM0 = No distant metastasis detected on clinical and/or radiologic examination.\nT0, pN1b, M0 | T0 = No evidence of primary tumor.\npN1b = Clinically and/or radiologically detected regional lymph node metastasis, microscopically confirmed.\nM0 = No distant metastasis detected on clinical and/or radiologic examination.\nIIIB | T1–4, pN1b–3, M0 | T1 = Maximum clinical tumor diameter ≤2 cm.\nT2 = Maximum clinical tumor diameter >2 cm but ≤5 cm.\nT3 = Maximum clinical tumor diameter >5 cm.\nT4 = Primary tumor invades fascia, muscle, cartilage, or bone.\npN1b = Clinically and/or radiologically detected regional lymph node metastasis, microscopically confirmed.\npN2 = In-transit metastasis (discontinuous from primary tumor; located between primary tumor and draining regional nodal basin, or distal to the primary tumor) without lymph node metastasis.\npN3 = In-transit metastasis (discontinuous from primary tumor; located between primary tumor and draining regional nodal basin, or distal to the primary tumor) with lymph node metastasis.\nM0 = No distant metastasis detected on clinical and/or radiologic examination.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; p = pathological.\na Reprinted with permission from AJCC: Merkel Cell Carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 549–62.\nIV | T0–4, Any pN, pM1 | T0 = No evidence of primary tumor.\nT1 = Maximum clinical tumor diameter ≤2 cm.\nT2 = Maximum clinical tumor diameter >2 cm but ≤5 cm.\nT3 = Maximum clinical tumor diameter >5 cm.\nT4 = Primary tumor invades fascia, muscle, cartilage, or bone.\npNX = Regional lymph nodes cannot be assessed (e.g., previously removed for another reason or not removed for pathological evaluation).\npN0 = No regional lymph node metastasis detected on pathological evaluation.\npN1 = Metastasis in regional lymph node(s).\n–pN1a(sn) = Clinically occult regional lymph node metastasis identified only by sentinel lymph node biopsy.\n–pN1a = Clinically occult regional lymph node metastasis following lymph node dissection.\n–pN1b = Clinically and/or radiologically detected regional lymph node metastasis, microscopically confirmed.\npN2 = In-transit metastasis (discontinuous from primary tumor; located between primary tumor and draining regional nodal basin, or distal to the primary tumor) without lymph node metastasis.\npN3 = In-transit metastasis (discontinuous from primary tumor; located between primary tumor and draining regional nodal basin, or distal to the primary tumor) with lymph node metastasis.\npM1 = Distant metastasis microscopically confirmed.\n–pM1a = Metastasis to distant skin, distant subcutaneous tissue, or distant lymph node(s), microscopically confirmed.\n–pM1b = Metastasis to lung, microscopically confirmed.\npM1c = Metastasis to all other distant sites, microscopically confirmed.\nBefore the new AJCC consensus staging system was published, the most recent Memorial Sloan Kettering Cancer Center (MSKCC) four-stage system was favored because it was based on the largest number of patients and was the best validated.[ 1 ] The stages in the MSKCC system included:\n- Stage I: local disease <2 cm.\n- Stage II: local disease ≥2 cm.\n- Stage III: regional nodal disease.\n- Stage IV: distant metastatic disease.\nOne group has suggested a list of 12 elements that should be described in pathology reports of resected primary lesions and nine elements to be described in pathology reports of sentinel lymph nodes. The prognostic significance of these elements has not been validated prospectively.[ 8 ] The 2009 AJCC staging manual also specifies a variety of factors that should be collected prospectively on pathology reports."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Merkel Cell Carcinoma",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- Andea AA, Coit DG, Amin B, et al.: Merkel cell carcinoma: histologic features and prognosis. Cancer 113 (9): 2549-58, 2008. [PUBMED Abstract]\n- Yiengpruksawan A, Coit DG, Thaler HT, et al.: Merkel cell carcinoma. Prognosis and management. Arch Surg 126 (12): 1514-9, 1991. [PUBMED Abstract]\n- Allen PJ, Zhang ZF, Coit DG: Surgical management of Merkel cell carcinoma. Ann Surg 229 (1): 97-105, 1999. [PUBMED Abstract]\n- Allen PJ, Bowne WB, Jaques DP, et al.: Merkel cell carcinoma: prognosis and treatment of patients from a single institution. J Clin Oncol 23 (10): 2300-9, 2005. [PUBMED Abstract]\n- Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017.\n- Clark JR, Veness MJ, Gilbert R, et al.: Merkel cell carcinoma of the head and neck: is adjuvant radiotherapy necessary? Head Neck 29 (3): 249-57, 2007. [PUBMED Abstract]\n- Bichakjian CK, Nghiem P, Johnson T, et al.: Merkel Cell Carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 549-62.\n- Bichakjian CK, Lowe L, Lao CD, et al.: Merkel cell carcinoma: critical review with guidelines for multidisciplinary management. Cancer 110 (1): 1-12, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Option Overview for Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Merkel cell carcinoma (MCC) is an uncommon tumor. Most clinical management recommendations in the literature are based on case series that describe a relatively small number of patients who were not entered on formal clinical trials, evaluated with uniform clinical staging procedures, treated with uniform treatment protocols, or provided with regular, prescribed follow-up. These reports are also confounded by potential selection bias, referral bias, and short follow-up. They are underpowered to detect modest differences in outcome.\nIn addition, outcomes of patients with American Joint Committee on Cancer stage I and stage II disease are often reported together. In the absence of results from clinical trials with prescribed work-up, treatments, and follow-up, most patients with MCC have been treated using institutional or practitioner preferences that consider the specifics of each case as well as patient preference.\nThere are two competing philosophies about the most appropriate method of treating MCC. In the first philosophy, MCC is treated like other nonmelanoma skin cancers, with an emphasis on treating local-regional disease with surgery and radiation therapy, as appropriate. In the second philosophy, MCC is treated according to its biological features. This approach makes it analogous to small cell lung cancer, which is assumed to be a systemic disease, and leads to a more routine recommendation of systematic adjuvant chemotherapy.[ 1 ]"
+        },
+        {
+          "section": "Surgery for the Primary Lesion",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma",
+            "Surgery for the Primary Lesion"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "In a review of 18 case series, 279 of 926 patients (30.1%) developed local recurrence during follow-up, excluding those presenting with distant metastatic disease at presentation. These recurrences have been typically attributed to inadequate surgical margins or possibly a lack of adjuvant radiation therapy.[ 2 , 3 ]\nGiven the propensity of MCC to recur locally (sometimes with satellite lesions and/or in-transit metastases), wide local excision to reduce the risk of local recurrence has been recommended for patients with clinical stage I or stage II disease.\nRecommendations about the optimal minimum width and depth of normal tissue margin to be excised around the primary tumor differ among the various retrospective case series, but this question has not been studied systematically.[ 3 - 7 ][ Level of evidence C2 ] No definitive data suggest that extremely wide margins improve overall survival (OS), although some reports suggest that wider margins appear to improve local control.[ 3 ][ Level of evidence C2 ] Frozen-section evaluation of margins may be useful, especially when the tumor is in an anatomical site that is not amenable to wide margins.\nSome authors have advocated the use of Mohs micrographic surgery as a tissue-sparing technique. The relapse rate has been reported to be similar to or better than that of wide excision, but comparatively few cases have been treated in this manner and none in randomized controlled trials.[ 7 - 10 ][ Level of evidence C2 ]"
+        },
+        {
+          "section": "Regional Lymph Node Surgery",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma",
+            "Regional Lymph Node Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "In some case series, local-regional recurrence rates are high when pathological nodal staging is omitted. Surgical nodal staging in clinically negative patients has identified positive nodes in at least 25% to 35% of patients.[ 4 , 11 , 12 ][ Level of evidence C2 ] In one retrospective series of 213 patients who underwent surgical treatment of the primary tumor and evaluation of the draining nodes, nodal positivity was found in 2 of 54 patients with small tumors (e.g., ≤1.0 cm) and 51 of 159 patients with tumors larger than 1.0 cm.[ 13 ][ Level of evidence C2 ]\nThe role of elective lymph node dissection (ELND) in the absence of clinically positive lymph nodes has not been studied in formal clinical trials. In small case series, ELND has been recommended for larger primary tumors, tumors with more than ten mitoses per high-power field, lymphatic or vascular invasion, and the small-cell histological subtypes.[ 14 - 16 ][ Level of evidence C2 ]\nSentinel lymph node (SLN) biopsy has been suggested as a preferred initial alternative to complete ELND for the proper staging of MCC. SLN biopsy has less morbidity than complete nodal dissection. Furthermore, for MCC sites with indeterminate lymphatic drainage, such as those on the back, SLN biopsy techniques can be used to identify the pertinent lymph node bed(s). If performed, SLN biopsy is done at the time of the wide resection when the local lymphatic channels are still intact.\nSeveral reports have found the use of SLN biopsy techniques in MCC to be reliable and reproducible.[ 17 - 20 ] However, the significance of SLN positivity remains unclear.\n- One meta-analysis of ten case series found that SLN positivity strongly predicted a high short-term risk of recurrence and that subsequent therapeutic lymph node dissection was effective in preventing short-term regional nodal recurrence.[ 21 ]\n- Another meta-analysis included 12 retrospective case series (only partially overlapping the collection of case series in the previous meta-analysis).[ 12 ][ Level of evidence C2 ]\n- SLN biopsy detected MCC spread in one-third of patients whose tumors would have otherwise been clinically and radiologically understaged.\n- The recurrence rate was three times higher in patients with a positive SLN biopsy than in those with a negative SLN biopsy ( P = .03).\n- Between 2006 and 2010, a large, retrospective, single-institutional series of 95 patients (with a total of 97 primary tumors) identified a SLN in 93 instances, and nodal tumor was seen in 42 patients. Immunohistochemical techniques were used to assess node positivity. Various models of tumor and patient characteristics were studied to predict node positivity. There was no subgroup of patients predicted to have lower than 15% to 20% likelihood of SLN positivity, suggesting that SLN biopsy may be considered for all curative patients with clinically negative lymph nodes and no distant metastases.[ 22 ][ Level of evidence C2 ]\n- From 1996 to 2010, another retrospective single-institutional study of 153 patients with localized MCC who underwent SLN biopsy analyzed factors associated with SLN positivity. The best predictors of SLN biopsy positivity were tumor size and lymphovascular invasion.[ 22 , 23 ][ Level of evidence C2 ]\nIn the absence of adequately powered, prospective, randomized clinical trials, the following questions remain:[ 4 , 12 , 21 , 24 ][ Level of evidence C2 ]\n- Should every positive SLN biopsy be followed routinely by completion nodal surgery and/or radiation therapy?\n- Are outcomes demonstrably improved by routinely adding radiation if lymph node surgery reveals tumor in multiple nodes and/or extracapsular extension and/or lymphovascular invasion?\n- Should patients with MCCs smaller than 1 cm routinely undergo sentinel lymph node dissection (SLND)?\n- Should patients with negative or omitted nodal work-up routinely undergo local or local-regional radiation therapy?\n- Should immunohistochemical staining techniques be used to identify micrometastases in lymph nodes, and is micrometastatic disease in nodes clinically relevant?\nLymph node surgery is primarily used for staging and guiding additional treatment.\nBased on a small number of retrospective studies, therapeutic dissection of the regional lymph nodes after a positive SLND appears to minimize, but not totally eliminate, the risk of subsequent regional lymph node recurrence and in-transit metastases.[ 4 , 21 , 24 ][ Level of evidence C2 ] There are no data from prospective randomized trials demonstrating that definitive regional nodal treatment with surgery improves survival."
+        },
+        {
+          "section": "Radiation Therapy",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma",
+            "Radiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Because of the aggressive nature of MCC, its apparent radiosensitivity, and the high incidence of local and regional recurrences (including in-transit metastases after surgery alone to the primary tumor bed), some clinicians have recommended adjuvant radiation therapy to the primary site and nodal basin. Nodal basin radiation in contiguity with radiation to the primary site has been considered, especially for patients with larger tumors, locally unresectable tumors, close or positive excision margins that cannot be improved by additional surgery, and those with positive regional lymph nodes, especially after SLND (stage II).[ 10 , 11 , 14 , 15 , 25 ][ Level of evidence C2 ] Several small retrospective series have shown that radiation therapy plus adequate surgery improves local-regional control compared with surgery alone,[ 2 , 5 , 26 - 29 ] whereas other series did not show the same results.[ 4 , 8 ][ Level of evidence C2 ]\nIn the absence of adequately powered, prospective, randomized clinical trials, the following questions remain:[ 4 , 8 , 9 , 12 , 21 , 24 , 26 , 30 - 34 ][ Level of evidence C2 ]\n- Should every positive SLN biopsy be followed routinely by completion nodal surgery and/or radiation therapy?\n- Are outcomes demonstrably improved by routinely adding radiation only if nodal surgery reveals tumor in multiple lymph nodes and/or extracapsular extension and/or lymphovascular invasion?\n- Should all or just certain patients with negative or omitted nodal work-up receive local or local-regional radiation routinely?\nBecause of the small size of these nonrandomized retrospective series, the precise benefit from radiation therapy remains unproven.\nWhen recommended, the radiation dose given has been at least 50 Gy to the surgical bed with margins and to the draining regional lymphatics, delivered in 2 Gy fractions. For patients with unresected tumors or tumors with microscopic evidence of spread beyond resected margins, higher doses of 56 Gy to 65 Gy to the primary site have been recommended.[ 5 , 10 , 11 , 14 , 15 , 27 , 31 , 35 ][ Level of evidence C2 ] These doses have not been studied prospectively in clinical trials.\nLocal and/or regional control of MCC with radiation therapy alone has been reported in small, highly selected, nonrandomized case series of patients with diverse clinical characteristics.[ 29 , 36 ] Typically, these patients have had inoperable primary tumors and/or nodes or were considered medically inappropriate for surgery.[ 29 , 36 ][ Level of evidence C2 ]\nRetrospective Surveillance, Epidemiology, and End Results (SEER) Program data suggest that adding radiation therapy to surgery adds survival value, but the conclusions are complicated by incomplete patient data, no protocol for evaluation and treatment, and potential sampling bias.[ 32 ] Prospective randomized clinical trials are required to assess whether combining surgery with radiation therapy affects survival.[ 33 , 34 ][ Level of evidence C2 ]"
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Approximately 70% to 80% of MCC cases in the United States are caused by Merkel cell polyomavirus (MCPyV). Within virus-positive MCCs, the viral oncoproteins (T antigens) are constitutively expressed and promote growth. Furthermore, patients with stimulated immune responses to MCPyV have better disease outcomes, providing a rationale for the use of immunotherapy. Although limited by a lack of randomized trials, several single-agent immune checkpoint inhibitors have shown improved survival and tolerability in patients with advanced MCC, compared with the chemotherapy that was used in historical controls. Therefore, immune checkpoint inhibitors are considered the recommended first-line treatment for most patients. There are ongoing trials to assess the use of immune checkpoint inhibitors in the neoadjuvant and adjuvant setting."
+        },
+        {
+          "section": "Avelumab",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma",
+            "Immunotherapy",
+            "Avelumab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Avelumab is a human anti–programmed death ligand-1 (PD-L1) monoclonal antibody.\nEvidence (avelumab):\n- In a phase II trial ( JAVELIN Merkel 200 [NCT02155647]), 88 patients with metastatic MCC received avelumab (10 mg/kg intravenously [IV] every 2 weeks). These patients had previously received chemotherapy.[ 37 ] Based on the results of this study, the U.S. Food and Drug Administration (FDA) approved avelumab in 2017 for the treatment of patients with metastatic MCC, regardless of previous chemotherapy administration.[ 37 - 39 ]\n- The objective response rate was 33%, and 11% of patients had a complete response. The median time to response was 6.1 weeks and was irrespective of MCPyV or PD-L1 status. More importantly, responses were durable, with 74% lasting at least 1 year. The median OS was 12.6 months, more than twice the historical median with second-line chemotherapy.\n- Avelumab was also studied in the first-line setting in a single-arm phase II trial of 116 patients.[ 40 ]\n- After a median follow-up of 21.2 months, 30.2% (95% confidence interval [CI], 22.0%–39.4%) of patients had a durable response (>6 months). The objective response rate was 39.7%, and the median OS was 20.3 months (95% CI, 12.4–not estimable).[ 40 ][ Level of evidence C3 ]\n- Exploratory analyses found that responses were higher in patients with PD-L1 expression and in those negative for MCPyV."
+        },
+        {
+          "section": "Pembrolizumab",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma",
+            "Immunotherapy",
+            "Pembrolizumab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Pembrolizumab is a humanized IgG4 anti–programmed cell death-1 (PD-1) monoclonal antibody.\nEvidence (pembrolizumab):\n- Pembrolizumab was studied in a phase II trial ( NCT02267603 ) of first-line systemic treatment for patients with unresectable stage IIIB or stage IV MCC. A total of 50 patients received therapy.[ 41 ][ Level of evidence C3 ] The FDA approved pembrolizumab in 2018.\n- The objective response rate was 58% (95% CI, 43.2%–71.8%); 30% of patients had a complete response and 28% had a partial response. While the response rate was similar to historical rates with first-line chemotherapy, responses to pembrolizumab were more durable. The median progression-free survival (PFS) was 16.8 months (95% CI, 4.6–43.4), and the 3-year OS rate was 59.4%."
+        },
+        {
+          "section": "Retifanlimab",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma",
+            "Immunotherapy",
+            "Retifanlimab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Retifanlimab is an anti–PD-1 monoclonal antibody.\nEvidence (retifanlimab):\n- Retifanlimab was evaluated in a phase II trial ( POD1UM-201 [NCT03599713]), published in abstract form, of 101 patients with previously untreated advanced MCC. Patients received 500mg intravenously (IV) every 4 weeks.[ 42 , 43 ] Based on the results of this trial, the FDA granted accelerated approval to retifanlimab in 2023.\n- Preliminary results after a median follow up 17.6 months demonstrated a complete response rate of 16.8%, a partial response rate of 38.6%, and an overall response rate of 53.5% (95% CI, 43.3%–63.5%).[ 42 , 43 ][ Level of evidence C3 ]\n- The median PFS was 12.7 months (95% CI, 7.3–24.9) and the median duration of response was 25.3 months (95% CI, 14.2–not estimable). The median OS was not yet reached."
+        },
+        {
+          "section": "Nivolumab",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma",
+            "Immunotherapy",
+            "Nivolumab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Nivolumab is an anti–PD-1 monoclonal antibody.\nEvidence (nivolumab):\n- Nivolumab was studied in a phase I/II trial ( CheckMate 358 [NCT02488759]), published in abstract form, in patients with virus-associated cancers, including MCC. Patients may have received up to two prior lines of therapy. Patients with metastatic MCC were eligible regardless of MCPyV status or previous chemotherapy.[ 44 , 45 ] Nivolumab is not approved by the FDA for the treatment of MCC.\n- Data from 25 patients with metastatic disease demonstrated an overall response rate of 60% with a median treatment duration of 15.8 months. Preliminary results reported an ongoing response rate of 87%, with responses in 13 of 15 patients at last follow-up (median follow-up, 6 months).[ 44 , 45 ][ Level of evidence C3 ]\n- This trial added a second cohort to investigate nivolumab plus ipilimumab (1 mg/kg) in patients with metastatic MCC."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "A variety of chemotherapy regimens have been used for patients with MCC in the adjuvant, advanced, and recurrent therapy settings.[ 5 , 34 , 46 , 47 ] [ Level of evidence C2 ] No phase III clinical trials have been conducted to demonstrate that adjuvant chemotherapy produces improvements in OS. However, some clinicians recommend its use in most cases because of the following factors:\n- A biological analogy is made between MCC and the histologically similar small cell carcinoma of the lung, which is considered a systemic disease.\n- The risk of metastases and progression is high with MCC.\n- Good initial clinical response rates have been noted with some chemotherapy regimens.\nWhen possible, patients can be encouraged to participate in clinical trials.\nFrom 1997 to 2001, the Trans-Tasman Radiation Oncology Group performed a phase II evaluation of 53 patients with high-risk, local-regional MCC. High risk was defined as recurrence after initial therapy, involved lymph nodes, primary tumor larger than 1 cm, gross residual disease after surgery, or occult primary tumor with positive lymph nodes. Therapy included local-regional radiation therapy (50 Gy in 25 fractions), synchronous carboplatin (area under the curve [AUC], 4.5), and IV etoposide (89 mg/m 2 on days 1–3 in weeks 1, 4, 7, and 10). Surgery was not standardized for either the primary tumor or the lymph nodes, and 12 patients had close margins, positive margins, or gross residual disease. Twenty-eight patients had undissected nodal beds, and the remainder had a variety of nodal surgeries. With a median follow-up of 48 months, the 3-year OS rate was 76%, the rate of local-regional control was 75%, and the rate of distant control was 76%. Radiation reactions in the skin and febrile neutropenia were significant clinical acute toxicities. Because of the heterogeneity of the population and the nonstandardized surgery, it is difficult to infer a clear treatment benefit from the chemotherapy.[ 48 ][ Level of evidence C1 ]\nIn a subsequent report, the same investigators evaluated a subset of these protocol patients (n = 40, after excluding patients with unknown primary tumors). These patients were compared with 61 historical controls who received no chemotherapy, were treated at the same institutions, were diagnosed before 1997, and had no routine imaging staging studies. Radiation therapy was given to 50 patients. There was no significant survival benefit seen for chemotherapy patients.[ 49 ]\nIn a subsequent pilot clinical trial of 18 patients from 2004 to 2006, the same investigators attempted to reduce the skin and hematologic toxicity seen in Study 96-07. Carboplatin (AUC, 2) was administered weekly during radiation therapy beginning on day 1 for a maximum of five doses, followed by three cycles of carboplatin (AUC, 4.5; and IV etoposide 80 mg/m 2 on days 1–3 beginning 3 weeks after radiation and repeated every 3 weeks for three cycles). The radiation therapy was similar to that in the earlier trial.[ 48 ] Results suggested a decrease in hematologic and skin toxicity.[ 50 ]\nUse of chemotherapy has also been reported in selected patients with locally advanced and metastatic disease. In one retrospective study of 107 patients, 57% of patients with metastatic disease and 69% with locally advanced disease responded to initial chemotherapy. The median OS was 9 months for patients with metastatic disease and 24 months for patients with locally advanced disease. At 3 years, the OS rate was projected to be 17% for those with metastatic disease and 35% for those with locally advanced disease. Toxicity was significant, however, and without clear benefit, particularly in older patients.[ 51 ][ Level of evidence C2 ]"
+        },
+        {
+          "section": "Follow-Up",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma",
+            "Follow-Up"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The most appropriate follow-up techniques and frequency for patients treated for MCC have not been prospectively studied. Because of the propensity for local and regional recurrence, clinicians should perform at least a thorough physical examination of the site of initial disease and the regional lymph nodes. Imaging studies may be ordered to evaluate signs and symptoms of concern, or they may be performed to identify distant metastases early. However, there are no data suggesting that early detection and treatment of new distant metastases results in improved survival.\nIn one series of 237 patients presenting with local or regional disease, the median time-to-recurrence was 9 months (range, 2–70 months). Ninety-one percent of recurrences occurred within 2 years of diagnosis.[ 4 ] It has been suggested that the intensity of follow-up can be gradually diminished after 2 to 3 years because most recurrences are likely to have already occurred.[ 4 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Merkel Cell Carcinoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 51,
+          "text": "- Busse PM, Clark JR, Muse VV, et al.: Case records of the Massachusetts General Hospital. Case 19-2008. A 63-year-old HIV-positive man with cutaneous Merkel-cell carcinoma. N Engl J Med 358 (25): 2717-23, 2008. [PUBMED Abstract]\n- Medina-Franco H, Urist MM, Fiveash J, et al.: Multimodality treatment of Merkel cell carcinoma: case series and literature review of 1024 cases. Ann Surg Oncol 8 (3): 204-8, 2001. [PUBMED Abstract]\n- Nghiem P, James N: Merkel cell carcinoma. In: Wolff K, Goldsmith LA, Katz SI, et al., eds.: Fitzpatrick's Dermatology in General Medicine. 7th ed. McGraw-Hill , 2008, pp 1087-94.\n- Allen PJ, Bowne WB, Jaques DP, et al.: Merkel cell carcinoma: prognosis and treatment of patients from a single institution. J Clin Oncol 23 (10): 2300-9, 2005. [PUBMED Abstract]\n- Goessling W, McKee PH, Mayer RJ: Merkel cell carcinoma. J Clin Oncol 20 (2): 588-98, 2002. [PUBMED Abstract]\n- Senchenkov A, Barnes SA, Moran SL: Predictors of survival and recurrence in the surgical treatment of merkel cell carcinoma of the extremities. J Surg Oncol 95 (3): 229-34, 2007. [PUBMED Abstract]\n- Nghiem P, McKee PH, Haynes HA: Merkel cell (cutaneous neuroendocrine) carcinoma. In: Sober AJ, Haluska FG, eds.: Skin Cancer. BC Decker Inc., 2001, pp 127-141.\n- Boyer JD, Zitelli JA, Brodland DG, et al.: Local control of primary Merkel cell carcinoma: review of 45 cases treated with Mohs micrographic surgery with and without adjuvant radiation. J Am Acad Dermatol 47 (6): 885-92, 2002. [PUBMED Abstract]\n- Wilson LD, Gruber SB: Merkel cell carcinoma and the controversial role of adjuvant radiation therapy: clinical choices in the absence of statistical evidence. J Am Acad Dermatol 50 (3): 435-7; discussion 437-8, 2004. [PUBMED Abstract]\n- Gollard R, Weber R, Kosty MP, et al.: Merkel cell carcinoma: review of 22 cases with surgical, pathologic, and therapeutic considerations. Cancer 88 (8): 1842-51, 2000. [PUBMED Abstract]\n- Eng TY, Boersma MG, Fuller CD, et al.: A comprehensive review of the treatment of Merkel cell carcinoma. Am J Clin Oncol 30 (6): 624-36, 2007. [PUBMED Abstract]\n- Gupta SG, Wang LC, Peñas PF, et al.: Sentinel lymph node biopsy for evaluation and treatment of patients with Merkel cell carcinoma: The Dana-Farber experience and meta-analysis of the literature. Arch Dermatol 142 (6): 685-90, 2006. [PUBMED Abstract]\n- Stokes JB, Graw KS, Dengel LT, et al.: Patients with Merkel cell carcinoma tumors < or = 1.0 cm in diameter are unlikely to harbor regional lymph node metastasis. J Clin Oncol 27 (23): 3772-7, 2009. [PUBMED Abstract]\n- Haag ML, Glass LF, Fenske NA: Merkel cell carcinoma. Diagnosis and treatment. Dermatol Surg 21 (8): 669-83, 1995. [PUBMED Abstract]\n- Ratner D, Nelson BR, Brown MD, et al.: Merkel cell carcinoma. J Am Acad Dermatol 29 (2 Pt 1): 143-56, 1993. [PUBMED Abstract]\n- Yiengpruksawan A, Coit DG, Thaler HT, et al.: Merkel cell carcinoma. Prognosis and management. Arch Surg 126 (12): 1514-9, 1991. [PUBMED Abstract]\n- Messina JL, Reintgen DS, Cruse CW, et al.: Selective lymphadenectomy in patients with Merkel cell (cutaneous neuroendocrine) carcinoma. Ann Surg Oncol 4 (5): 389-95, 1997 Jul-Aug. [PUBMED Abstract]\n- Hill AD, Brady MS, Coit DG: Intraoperative lymphatic mapping and sentinel lymph node biopsy for Merkel cell carcinoma. Br J Surg 86 (4): 518-21, 1999. [PUBMED Abstract]\n- Wasserberg N, Schachter J, Fenig E, et al.: Applicability of the sentinel node technique to Merkel cell carcinoma. Dermatol Surg 26 (2): 138-41, 2000. [PUBMED Abstract]\n- Rodrigues LK, Leong SP, Kashani-Sabet M, et al.: Early experience with sentinel lymph node mapping for Merkel cell carcinoma. J Am Acad Dermatol 45 (2): 303-8, 2001. [PUBMED Abstract]\n- Mehrany K, Otley CC, Weenig RH, et al.: A meta-analysis of the prognostic significance of sentinel lymph node status in Merkel cell carcinoma. Dermatol Surg 28 (2): 113-7; discussion 117, 2002. [PUBMED Abstract]\n- Schwartz JL, Griffith KA, Lowe L, et al.: Features predicting sentinel lymph node positivity in Merkel cell carcinoma. J Clin Oncol 29 (8): 1036-41, 2011. [PUBMED Abstract]\n- Fields RC, Busam KJ, Chou JF, et al.: Recurrence and survival in patients undergoing sentinel lymph node biopsy for merkel cell carcinoma: analysis of 153 patients from a single institution. Ann Surg Oncol 18 (9): 2529-37, 2011. [PUBMED Abstract]\n- Maza S, Trefzer U, Hofmann M, et al.: Impact of sentinel lymph node biopsy in patients with Merkel cell carcinoma: results of a prospective study and review of the literature. Eur J Nucl Med Mol Imaging 33 (4): 433-40, 2006. [PUBMED Abstract]\n- Goepfert H, Remmler D, Silva E, et al.: Merkel cell carcinoma (endocrine carcinoma of the skin) of the head and neck. Arch Otolaryngol 110 (11): 707-12, 1984. [PUBMED Abstract]\n- Lewis KG, Weinstock MA, Weaver AL, et al.: Adjuvant local irradiation for Merkel cell carcinoma. Arch Dermatol 142 (6): 693-700, 2006. [PUBMED Abstract]\n- Veness MJ, Perera L, McCourt J, et al.: Merkel cell carcinoma: improved outcome with adjuvant radiotherapy. ANZ J Surg 75 (5): 275-81, 2005. [PUBMED Abstract]\n- Jabbour J, Cumming R, Scolyer RA, et al.: Merkel cell carcinoma: assessing the effect of wide local excision, lymph node dissection, and radiotherapy on recurrence and survival in early-stage disease--results from a review of 82 consecutive cases diagnosed between 1992 and 2004. Ann Surg Oncol 14 (6): 1943-52, 2007. [PUBMED Abstract]\n- Veness M, Foote M, Gebski V, et al.: The role of radiotherapy alone in patients with merkel cell carcinoma: reporting the Australian experience of 43 patients. Int J Radiat Oncol Biol Phys 78 (3): 703-9, 2010. [PUBMED Abstract]\n- Meeuwissen JA, Bourne RG, Kearsley JH: The importance of postoperative radiation therapy in the treatment of Merkel cell carcinoma. Int J Radiat Oncol Biol Phys 31 (2): 325-31, 1995. [PUBMED Abstract]\n- Marks ME, Kim RY, Salter MM: Radiotherapy as an adjunct in the management of Merkel cell carcinoma. Cancer 65 (1): 60-4, 1990. [PUBMED Abstract]\n- Mojica P, Smith D, Ellenhorn JD: Adjuvant radiation therapy is associated with improved survival in Merkel cell carcinoma of the skin. J Clin Oncol 25 (9): 1043-7, 2007. [PUBMED Abstract]\n- Housman DM, Decker RH, Wilson LD: Regarding adjuvant radiation therapy in merkel cell carcinoma: selection bias and its affect on overall survival. J Clin Oncol 25 (28): 4503-4; author reply 4504-5, 2007. [PUBMED Abstract]\n- Garneski KM, Nghiem P: Merkel cell carcinoma adjuvant therapy: current data support radiation but not chemotherapy. J Am Acad Dermatol 57 (1): 166-9, 2007. [PUBMED Abstract]\n- Foote M, Harvey J, Porceddu S, et al.: Effect of radiotherapy dose and volume on relapse in Merkel cell cancer of the skin. Int J Radiat Oncol Biol Phys 77 (3): 677-84, 2010. [PUBMED Abstract]\n- Fang LC, Lemos B, Douglas J, et al.: Radiation monotherapy as regional treatment for lymph node-positive Merkel cell carcinoma. Cancer 116 (7): 1783-90, 2010. [PUBMED Abstract]\n- Kaufman HL, Russell JS, Hamid O, et al.: Updated efficacy of avelumab in patients with previously treated metastatic Merkel cell carcinoma after ≥1 year of follow-up: JAVELIN Merkel 200, a phase 2 clinical trial. J Immunother Cancer 6 (1): 7, 2018. [PUBMED Abstract]\n- Becker JC, Lorenz E, Ugurel S, et al.: Evaluation of real-world treatment outcomes in patients with distant metastatic Merkel cell carcinoma following second-line chemotherapy in Europe. Oncotarget 8 (45): 79731-79741, 2017. [PUBMED Abstract]\n- Cowey CL, Mahnke L, Espirito J, et al.: Real-world treatment outcomes in patients with metastatic Merkel cell carcinoma treated with chemotherapy in the USA. Future Oncol 13 (19): 1699-1710, 2017. [PUBMED Abstract]\n- D'Angelo SP, Lebbé C, Mortier L, et al.: First-line avelumab in a cohort of 116 patients with metastatic Merkel cell carcinoma (JAVELIN Merkel 200): primary and biomarker analyses of a phase II study. J Immunother Cancer 9 (7): , 2021. [PUBMED Abstract]\n- Nghiem PT, Bhatia S, Lipson EJ, et al.: PD-1 Blockade with Pembrolizumab in Advanced Merkel-Cell Carcinoma. N Engl J Med 374 (26): 2542-52, 2016. [PUBMED Abstract]\n- Grignani G, Rutkowski P, Lebbe C, et al.: Updated results from POD1UM-201: A phase II study of retifanlimab in patients with advanced or metastatic Merkel cell carcinoma (MCC). [Abstract] Ann Oncol 34 (Suppl 2): A-1146P, S686, 2023.\n- Grignani G, Rutkowski P, Lebbé C, et al.: Updated results from POD1UM-201: A phase 2 study of retifanlimab in patients with advanced or metastatic Merkel cell carcinoma. In: Grignani G, Rutkowski P, Lebbe C, et al.: Updated results from POD1UM-201: A phase II study of retifanlimab in patients with advanced or metastatic Merkel cell carcinoma (MCC). 34 (Suppl 2): A-1146P, S686, 2023, Poster. Available online . Last accessed May 9, 2025.\n- Bhatia S, Topalian SL, Sharfman WH, et al.: Non-comparative, open-label, international, multicenter phase I/II study of nivolumab (NIVO) ± ipilimumab (IPI) in patients (pts) with recurrent/metastatic merkel cell carcinoma (MCC) (CheckMate 358). [Abstract] J Clin Oncol 41 (Suppl 16): A-9506, 2023.\n- Topalian SL, Bhatia S, Hollebecque A, et al.: Abstract CT074: Non-comparative, open-label, multiple cohort, phase 1/2 study to evaluate nivolumab (NIVO) in patients with virus-associated tumors (CheckMate 358): efficacy and safety in Merkel cell carcinoma (MCC). [Abstract] Cancer Res 77 (13 Suppl): A-CT074, 2017.\n- Tai PT, Yu E, Winquist E, et al.: Chemotherapy in neuroendocrine/Merkel cell carcinoma of the skin: case series and review of 204 cases. J Clin Oncol 18 (12): 2493-9, 2000. [PUBMED Abstract]\n- Henness S, Vereecken P: Management of Merkel tumours: an evidence-based review. Curr Opin Oncol 20 (3): 280-6, 2008. [PUBMED Abstract]\n- Poulsen M, Rischin D, Walpole E, et al.: High-risk Merkel cell carcinoma of the skin treated with synchronous carboplatin/etoposide and radiation: a Trans-Tasman Radiation Oncology Group Study--TROG 96:07. J Clin Oncol 21 (23): 4371-6, 2003. [PUBMED Abstract]\n- Poulsen MG, Rischin D, Porter I, et al.: Does chemotherapy improve survival in high-risk stage I and II Merkel cell carcinoma of the skin? Int J Radiat Oncol Biol Phys 64 (1): 114-9, 2006. [PUBMED Abstract]\n- Poulsen M, Walpole E, Harvey J, et al.: Weekly carboplatin reduces toxicity during synchronous chemoradiotherapy for Merkel cell carcinoma of skin. Int J Radiat Oncol Biol Phys 72 (4): 1070-4, 2008. [PUBMED Abstract]\n- Voog E, Biron P, Martin JP, et al.: Chemotherapy for patients with locally advanced or metastatic Merkel cell carcinoma. Cancer 85 (12): 2589-95, 1999. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Stage I and II Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I and II Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Stage I and II Merkel cell carcinoma (MCC) include patients with local disease only.\nExcision with 1 cm to 2 cm margins and radiation therapy are the mainstays of management for primary MCC tumors. Adjuvant radiation therapy to the primary tumor site is often recommended. However, the morbidity of radiation may be avoided and low local recurrence rates maintained, as shown in a subset of patients with small low-risk lesions (i.e., tumors <2 cm without other adverse prognostic factors).[ 1 ]\nBecause of the risk of occult nodal disease, sentinel lymph node (SLN) biopsy is recommended for patients without clinically detectable metastatic disease.[ 2 ] Any size of metastatic deposit is currently considered positive with regard to regional lymph node (N) staging; therefore, immunohistochemistry is routinely used to improve detection of micrometastases in SLN.[ 3 , 4 ]"
+        },
+        {
+          "section": "Treatment Options for Stage I and II Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I and II Merkel Cell Carcinoma",
+            "Treatment Options for Stage I and II Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for stage I and stage II MCC include:\n- Margin-negative local excision, attempting to maintain function.\n- Surgical nodal evaluation, typically by SLN procedure initially, may be considered for patients with significant risk of nodal disease. Completion of the nodal dissection may be considered if positive lymph nodes are found, which would upstage the patient's cancer to stage III.\n- Local radiation therapy may be considered if there is concern about the primary tumor excision margins. Regional radiation therapy may be considered if the nodal staging procedure is incomplete or omitted. For sites where the location of primary regional lymph nodes may be uncertain (e.g., mid-back), regional-node field selection is problematic.\n- Enrollment in clinical trials is encouraged."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I and II Merkel Cell Carcinoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I and II Merkel Cell Carcinoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Frohm ML, Griffith KA, Harms KL, et al.: Recurrence and Survival in Patients With Merkel Cell Carcinoma Undergoing Surgery Without Adjuvant Radiation Therapy to the Primary Site. JAMA Dermatol 152 (9): 1001-7, 2016. [PUBMED Abstract]\n- Cassler NM, Merrill D, Bichakjian CK, et al.: Merkel Cell Carcinoma Therapeutic Update. Curr Treat Options Oncol 17 (7): 36, 2016. [PUBMED Abstract]\n- Harms PW: Update on Merkel Cell Carcinoma. Clin Lab Med 37 (3): 485-501, 2017. [PUBMED Abstract]\n- Su LD, Lowe L, Bradford CR, et al.: Immunostaining for cytokeratin 20 improves detection of micrometastatic Merkel cell carcinoma in sentinel lymph nodes. J Am Acad Dermatol 46 (5): 661-6, 2002. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Stage III Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Stage III Merkel cell carcinoma (MCC) includes patients with nodal disease."
+        },
+        {
+          "section": "Treatment Options for Stage III Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Merkel Cell Carcinoma",
+            "Treatment Options for Stage III Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment options for stage III MCC include:\n- Margin-negative local excision, attempting to maintain function.\n- Sentinel lymph node procedure, possibly followed by more definitive regional node surgery if positive node(s) are found.\n- Local and regional lymph node radiation, especially if there is concern about the adequacy of the primary tumor excision margin or the risk of local-regional recurrence following the nodal surgery (e.g., multiple primary nodes, extracapsular extension, lymphovascular invasion, and evidence of in-transit metastases).\n- Systemic chemotherapy and immunotherapy have been given to patients with the highest risk of recurrence, but existing data have not proven a clinical survival benefit.\n- Enrollment in clinical trials is encouraged."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Merkel Cell Carcinoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Stage IV Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Stage IV Merkel cell carcinoma (MCC) includes patients with distant metastases.\nSingle-agent immunotherapy is the preferred initial systemic therapy for patients with metastatic disease. Chemotherapy may be considered for patients with stage IV disease who have a good performance status and are either ineligible for or have disease progression while receiving immunotherapy. Although responses have been seen with various regimens, evidence is lacking that chemotherapy results in permanent disease control or long-term survival.\nIf chemotherapy is not considered an appropriate option, patients with stage IV disease may consider surgery and/or radiation therapy for local or regional palliation."
+        },
+        {
+          "section": "Treatment Options for Stage IV Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Merkel Cell Carcinoma",
+            "Treatment Options for Stage IV Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for stage IV MCC include:\n- Single-agent immunotherapy.\n- Palliation with chemotherapy and/or surgery and/or radiation therapy as clinically appropriate.\n- Enrollment in clinical trials is strongly encouraged."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Merkel Cell Carcinoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Merkel cell carcinoma (MCC) is a rare tumor. Recommendations and outcomes of various treatments for patients with MCC are included in many large case series [ 1 - 3 ][ Level of evidence C2 ] and several single-arm phase II clinical trials.[ 4 ][ Level of evidence C1 ] Treatment is usually individualized based on patient preference and the specifics of each case. Patients should strongly consider enrolling in clinical trials."
+        },
+        {
+          "section": "Local recurrence",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Merkel Cell Carcinoma",
+            "Treatment Options for Recurrent Merkel Cell Carcinoma",
+            "Local recurrence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for patients with local recurrence include wider local surgery if possible, followed by radiation therapy, if not previously given.\nRegional lymph node dissection (RLND) can also be considered if regional draining nodes have not been previously removed.\nBecause of the poor prognosis after recurrence, systemic therapy can also be considered, although there is no evidence that it improves survival."
+        },
+        {
+          "section": "Nodal recurrence",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Merkel Cell Carcinoma",
+            "Treatment Options for Recurrent Merkel Cell Carcinoma",
+            "Nodal recurrence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Treatment options for patients with only regional nodal recurrence include RLND and adjuvant radiation therapy if the regional draining nodes have not been previously treated. Because of the poor prognosis after recurrence, consideration can also be given to systemic therapy, although there is no evidence that it improves survival."
+        },
+        {
+          "section": "Distant recurrence",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Merkel Cell Carcinoma",
+            "Treatment Options for Recurrent Merkel Cell Carcinoma",
+            "Distant recurrence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "For patients with distant disease, several single-agent immunotherapies have elicited durable responses and are the recommended first-line systemic therapy option for most patients. Among these agents, avelumab and pembrolizumab have longer-term follow-up data published. These agents are approved by the U.S. Food and Drug Administration (FDA).[ 5 - 7 ][ Level of evidence C3 ] Retifanlimab has also received accelerated approval from the FDA, pending further follow-up.[ 8 ][ Level of evidence C3 ]\nChemotherapy is an option for patients who are either ineligible for or have disease progression while receiving immunotherapy, or in select patients who may benefit from a more rapid response.[ 1 - 4 , 9 , 10 ][ Level of evidence C2 ] Although responses with chemotherapy have been reported in selected patients with locally advanced and metastatic disease, toxicity has been significant and durability is limited. When appropriate, radiation therapy and/or surgery may be offered as palliation to sites of recurrence, particularly if chemotherapy is not considered an option."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Merkel Cell Carcinoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Merkel Cell Carcinoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Goessling W, McKee PH, Mayer RJ: Merkel cell carcinoma. J Clin Oncol 20 (2): 588-98, 2002. [PUBMED Abstract]\n- Henness S, Vereecken P: Management of Merkel tumours: an evidence-based review. Curr Opin Oncol 20 (3): 280-6, 2008. [PUBMED Abstract]\n- Voog E, Biron P, Martin JP, et al.: Chemotherapy for patients with locally advanced or metastatic Merkel cell carcinoma. Cancer 85 (12): 2589-95, 1999. [PUBMED Abstract]\n- Poulsen M, Rischin D, Walpole E, et al.: High-risk Merkel cell carcinoma of the skin treated with synchronous carboplatin/etoposide and radiation: a Trans-Tasman Radiation Oncology Group Study--TROG 96:07. J Clin Oncol 21 (23): 4371-6, 2003. [PUBMED Abstract]\n- Kaufman HL, Russell JS, Hamid O, et al.: Updated efficacy of avelumab in patients with previously treated metastatic Merkel cell carcinoma after ≥1 year of follow-up: JAVELIN Merkel 200, a phase 2 clinical trial. J Immunother Cancer 6 (1): 7, 2018. [PUBMED Abstract]\n- D'Angelo SP, Lebbé C, Mortier L, et al.: First-line avelumab in a cohort of 116 patients with metastatic Merkel cell carcinoma (JAVELIN Merkel 200): primary and biomarker analyses of a phase II study. J Immunother Cancer 9 (7): , 2021. [PUBMED Abstract]\n- Nghiem PT, Bhatia S, Lipson EJ, et al.: PD-1 Blockade with Pembrolizumab in Advanced Merkel-Cell Carcinoma. N Engl J Med 374 (26): 2542-52, 2016. [PUBMED Abstract]\n- Grignani G, Rutkowski P, Lebbe C, et al.: Updated results from POD1UM-201: A phase II study of retifanlimab in patients with advanced or metastatic Merkel cell carcinoma (MCC). [Abstract] Ann Oncol 34 (Suppl 2): A-1146P, S686, 2023.\n- Eng TY, Boersma MG, Fuller CD, et al.: A comprehensive review of the treatment of Merkel cell carcinoma. Am J Clin Oncol 30 (6): 624-36, 2007. [PUBMED Abstract]\n- Tai PT, Yu E, Winquist E, et al.: Chemotherapy in neuroendocrine/Merkel cell carcinoma of the skin: case series and review of 204 cases. J Clin Oncol 18 (12): 2493-9, 2000. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (05/09/2025)",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (05/09/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of Merkel cell carcinoma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 9,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewer for Merkel Cell Carcinoma Treatment is:\n- Shaheer A. Khan, DO (Columbia University Irving Medical Center)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Merkel Cell Carcinoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/skin/hp/merkel-cell-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 20943647]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\6d24cad24009441653a2.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Merkel Cell Carcinoma",
+      "title": "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+      "summary_name": "Merkel Cell Carcinoma Treatment",
+      "url": "https://www.cancer.gov/types/skin/patient/merkel-cell-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 16, 2025",
+      "retrieved_at": "2026-08-31T07:14:07.844622+00:00",
+      "content_sha256": "ac3ab17754fc1b1becc1df550fe25602b434135292e90a991da629dcbed4a7ec",
+      "section_count": 36,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Merkel cell carcinoma is a very rare type of cancer that forms in the skin.\n- Sun exposure and having a weak immune system affects the risk of developing Merkel cell carcinoma.\n- Merkel cell carcinoma usually appears as a single painless lump on sun-exposed skin.\n- Tests that examine the skin are used to diagnose Merkel cell carcinoma.\n- After Merkel cell carcinoma has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.\n- Some people decide to get a second opinion.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Merkel cell carcinoma is a very rare type of cancer that forms in the skin.",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Merkel cell carcinoma is a very rare type of cancer that forms in the skin."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Merkel cells are found in the top layer of the skin. These cells are very close to the nerve endings that receive the sensation of touch. Merkel cell carcinoma , also called neuroendocrine carcinoma of the skin or trabecular cancer, is a very rare type of skin cancer that forms when Merkel cells grow out of control. Merkel cell carcinoma starts most often in areas of skin exposed to the sun, especially the head and neck, as well as the arms, legs, and trunk .\nMerkel cell carcinoma tends to grow quickly and to metastasize (spread) at an early stage . It usually spreads first to nearby lymph nodes and then may spread to lymph nodes or skin in distant parts of the body, lungs , brain, bones, or other organs.\nMerkel cell carcinoma is the second most common cause of skin cancer death after melanoma ."
+        },
+        {
+          "section": "Sun exposure and having a weak immune system affects the risk of developing Merkel cell carcinoma.",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Sun exposure and having a weak immune system affects the risk of developing Merkel cell carcinoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Anything that increases a person's chance of getting a disease is called a risk factor . Not every person with one or more of these risk factors will develop Merkel cell carcinoma, and it can develop in people who don't have any known risk factors. Talk with your doctor if you think you may be at risk.\nRisk factors for Merkel cell carcinoma include:\n- being exposed to a lot of natural sunlight\n- being exposed to artificial sunlight, such as from tanning beds or psoralen and ultraviolet A (PUVA) therapy for psoriasis\n- having an immune system weakened by disease, such as chronic lymphocytic leukemia or HIV infection\n- taking medicine that makes the immune system less active, such as after an organ transplant\n- having a history of other types of cancer\n- being older than 50 years, male, or White"
+        },
+        {
+          "section": "Merkel cell carcinoma usually appears as a single painless lump on sun-exposed skin.",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Merkel cell carcinoma usually appears as a single painless lump on sun-exposed skin."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "This and other changes in the skin may be caused by Merkel cell carcinoma or by other conditions . Check with your doctor if you see changes in your skin.\nMerkel cell carcinoma usually appears on sun-exposed skin as a single lump that is:\n- fast-growing\n- painless\n- firm and dome-shaped or raised\n- red or violet in color"
+        },
+        {
+          "section": "Tests that examine the skin are used to diagnose Merkel cell carcinoma.",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Tests that examine the skin are used to diagnose Merkel cell carcinoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Full-body skin exam is an exam of the skin. A doctor or nurse checks the skin for bumps or spots that look abnormal in color, size, shape, or texture. The size, shape, and texture of the lymph nodes will also be checked.\n- Skin biopsy is the removal of skin cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer."
+        },
+        {
+          "section": "After Merkel cell carcinoma has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "General Information About Merkel Cell Carcinoma",
+            "After Merkel cell carcinoma has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "The process used to find out if cancer has spread to other parts of the body is called staging . The information gathered from the staging process determines the stage of the disease. It is important to know the stage in order to plan treatment.\nThe following tests and procedures may be used in the staging process:\n- CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body, such as the chest, abdomen, head, and neck. The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more about Computed Tomography (CT) Scans and Cancer .\n- PET scan (positron emission tomography scan) uses a small amount of radioactive sugar (also called radioactive glucose) that is injected into a vein. The PET scanner rotates around the body and makes pictures of where sugar is being used by the body. Cancer cells show up brighter in the pictures because they are more active and take up more sugar than normal cells do.\n- Lymph node biopsy is the removal of all or part of a lymph node. A pathologist views the lymph node tissue under a microscope to check for cancer cells. This procedure is also called lymph node sampling. There are several types of lymph node biopsy used to stage Merkel cell carcinoma.\n- Sentinel lymph node biopsy removes the sentinel lymph node during surgery. The sentinel lymph node is the first lymph node in a group of lymph nodes to receive lymphatic drainage from the primary tumor . It is therefore the first lymph node the cancer is likely to spread to from the primary tumor. To identify the sentinel lymph node, a radioactive substance, blue dye, or both is injected near the tumor. The substance or dye flows through the lymph ducts to the lymph nodes. The first lymph node to receive the substance or dye is removed. A pathologist views the tissue under a microscope to look for cancer cells. If cancer cells are found, more lymph nodes will be removed through a separate incision (cut). This is called a lymph node dissection. Sometimes, a sentinel lymph node is found in more than one group of nodes. Enlarge Sentinel lymph node biopsy of the skin. A radioactive substance and/or blue dye is injected near the tumor (first panel). The injected material is detected visually and/or with a probe that detects radioactivity (middle panel). The sentinel nodes (the first lymph nodes to take up the material) are removed and checked for cancer cells (last panel).\n- Lymph node dissection is a surgical procedure in which the lymph nodes are removed and a sample of tissue is checked under a microscope for signs of cancer. For a regional lymph node dissection , some of the lymph nodes in the tumor area are removed. For a radical lymph node dissection , most or all of the lymph nodes in the tumor area are removed. This procedure is also called lymphadenectomy.\n- Core needle biopsy is a procedure to remove a sample of tissue using a wide needle. A pathologist views the tissue under a microscope to look for cancer cells.\n- Fine-needle aspiration biopsy is a procedure to remove a sample of tissue using a thin needle. A pathologist views the tissue under a microscope to look for cancer cells.\n- Immunohistochemistry uses antibodies to check for certain antigens ( markers ) in a sample of a patient’s cells or tissue. The antibodies are usually linked to an enzyme or a fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and help tell one type of cancer from another type."
+        },
+        {
+          "section": "Some people decide to get a second opinion.",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Some people decide to get a second opinion."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your Merkel cell carcinoma diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report, slides, and scans. They may agree with the first doctor, suggest changes or another treatment approach, or provide more information about your cancer.\nLearn more about choosing a doctor and getting a second opinion at Finding Cancer Care . You can contact NCI’s Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor, hospital, or getting a second opinion. For questions you might want to ask at your appointments, visit Questions to Ask Your Doctor About Cancer ."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "General Information About Merkel Cell Carcinoma",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The prognosis and treatment options depend on:\n- the stage of the cancer (the size of the tumor and whether it has spread to the lymph nodes or other parts of the body)\n- where the cancer is in the body\n- whether the cancer has just been diagnosed or has recurred (come back)\n- the person's age and general health\nPrognosis also depends on how deeply the tumor has grown into the skin."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Stages of Merkel Cell Carcinoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- The following stages are used for Merkel cell carcinoma:\n- Stage 0 (carcinoma in situ)\n- Stage I (also called Stage 1) Merkel cell carcinoma\n- Stage II (also called Stage 2) Merkel cell carcinoma\n- Stage III (also called Stage 3) Merkel cell carcinoma\n- Stage IV (also called Stage 4) Merkel cell carcinoma\n- It is common for Merkel cell carcinoma to recur (come back) after it has been treated.\nCancer stage describes the extent of cancer in the body, such as the size of the tumor, whether it has spread, and how far it has spread from where it first formed. It is important to know the stage of Merkel cell cancer to plan the best treatment.\nThere are several staging systems for cancer that describe the extent of the cancer. Merkel cell carcinoma staging usually uses the TNM staging system . The cancer may be described by this staging system in your pathology report. Based on the TNM results, a stage (I, II, III, or IV, also written as 1, 2, 3, or 4) is assigned to your cancer. When talking to you about your diagnosis, your doctor may describe the cancer as one of these stages.\nLearn about tests to stage Merkel cell carcinoma . Learn more about Cancer Staging ."
+        },
+        {
+          "section": "Stage 0 (carcinoma in situ)",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Stages of Merkel Cell Carcinoma",
+            "The following stages are used for Merkel cell carcinoma:",
+            "Stage 0 (carcinoma in situ)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage 0, abnormal Merkel cells are found in the top layer of skin. These abnormal cells may become cancer and spread into nearby normal tissue."
+        },
+        {
+          "section": "Stage I (also called Stage 1) Merkel cell carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Stages of Merkel Cell Carcinoma",
+            "The following stages are used for Merkel cell carcinoma:",
+            "Stage I (also called Stage 1) Merkel cell carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage I, the tumor is 2 centimeters or smaller."
+        },
+        {
+          "section": "Stage II (also called Stage 2) Merkel cell carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Stages of Merkel Cell Carcinoma",
+            "The following stages are used for Merkel cell carcinoma:",
+            "Stage II (also called Stage 2) Merkel cell carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Stage II Merkel cell carcinoma is divided into stages IIA and IIB.\n- In stage IIA, the tumor is larger than 2 centimeters .\n- In stage IIB, the tumor has spread to nearby connective tissue , muscle, cartilage , or bone."
+        },
+        {
+          "section": "Stage III (also called Stage 3) Merkel cell carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Stages of Merkel Cell Carcinoma",
+            "The following stages are used for Merkel cell carcinoma:",
+            "Stage III (also called Stage 3) Merkel cell carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Stage III Merkel cell carcinoma is divided into stages IIIA and IIIB.\nIn stage IIIA, either of the following is found:\n- the tumor may be any size and may have spread to nearby connective tissue , muscle, cartilage , or bone. A lymph node cannot be felt during a physical exam but cancer is found in the lymph node by sentinel lymph node biopsy or after the lymph node is removed and checked under a microscope for signs of cancer; or\n- a swollen lymph node is felt during a physical exam and/or seen on an imaging test . When the lymph node is removed and checked under a microscope for signs of cancer, cancer is found in the lymph node. The place where the cancer began is not known.\nIn stage IIIB, the tumor may be any size and:\n- may have spread to nearby connective tissue, muscle, cartilage, or bone. A swollen lymph node is felt during a physical exam and/or seen on an imaging test. When the lymph node is removed and checked under a microscope for signs of cancer, cancer is found in the lymph node; or\n- cancer is in a lymph vessel between the primary tumor and lymph nodes that are near or far away. Cancer may have spread to lymph nodes."
+        },
+        {
+          "section": "Stage IV (also called Stage 4) Merkel cell carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Stages of Merkel Cell Carcinoma",
+            "The following stages are used for Merkel cell carcinoma:",
+            "Stage IV (also called Stage 4) Merkel cell carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "In stage IV, the tumor has spread to skin that is not close to the primary tumor or to other parts of the body, such as the liver , lung , bone, or brain.\nStage IV Merkel cell carcinoma is also called metastatic Merkel cell carcinoma. Metastatic cancer happens when cancer cells travel through the lymphatic system or blood and form tumors in other parts of the body. The metastatic tumor is the same type of cancer as the primary tumor. For example, if Merkel cell carcinoma spreads to the liver, the cancer cells in the liver are actually Merkel cell carcinoma cells. The disease is called metastatic Merkel cell carcinoma, not liver cancer. Learn more in Metastatic Cancer: When Cancer Spreads ."
+        },
+        {
+          "section": "It is common for Merkel cell carcinoma to recur (come back) after it has been treated.",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Stages of Merkel Cell Carcinoma",
+            "It is common for Merkel cell carcinoma to recur (come back) after it has been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Recurrent Merkel cell carcinoma is cancer that has come back after it has been treated. If Merkel cell carcinoma comes back, it may come back in the skin, lymph nodes , or other parts of the body. Tests will be done to help determine where the cancer has returned. The type of treatment for recurrent Merkel cell carcinoma will depend on where it has come back.\nLearn more in Recurrent Cancer: When Cancer Comes Back ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- There are different types of treatment for people with Merkel cell carcinoma.\n- The following types of treatment are used:\n- Surgery\n- Radiation therapy\n- Chemotherapy\n- Immunotherapy\n- New types of treatment are being tested in clinical trials.\n- Treatment for Merkel cell carcinoma may cause side effects.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for people with Merkel cell carcinoma.",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for people with Merkel cell carcinoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Different types of treatments are available for Merkel cell carcinoma. You and your cancer care team will work together to decide your treatment plan, which may include more than one type of treatment. Many factors will be considered, such as the stage of the cancer, your overall health, and your preferences. Your plan will include information about your cancer, the goals of treatment, your treatment options and the possible side effects, and the expected length of treatment.\nTalking with your cancer care team before treatment begins about what to expect will be helpful. You’ll want to learn what you need to do before treatment begins, how you’ll feel while going through it, and what kind of help you will need. To learn more, visit Questions to Ask Your Doctor About Treatment ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "One or more of the following surgical procedures may be used to treat Merkel cell carcinoma:\n- Wide local excision : The cancer is cut from the skin along with some of the tissue around it. A sentinel lymph node biopsy may be done during the wide local excision procedure. If there is cancer in the lymph nodes , a lymph node dissection also may be done.\n- Lymph node dissection: A surgical procedure in which the lymph nodes are removed and a sample of tissue is checked under a microscope for signs of cancer. For a regional lymph node dissection , some of the lymph nodes in the tumor area are removed; for a radical lymph node dissection , most or all of the lymph nodes in the tumor area are removed. This procedure is also called lymphadenectomy.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, some patients may be given chemotherapy or radiation therapy after surgery to kill any cancer cells that are left. Treatment given after the surgery, to lower the risk that the cancer will come back, is called adjuvant therapy."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Radiation therapy uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer. It is used to treat Merkel cell carcinoma and may also be used as palliative therapy to relieve symptoms and improve quality of life .\nLearn more about Radiation Therapy to Treat Cancer and Radiation Therapy Side Effects ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping the cells from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ).\nLearn more about how chemotherapy works, how it is given, common side effects, and more at Chemotherapy to Treat Cancer and Chemotherapy and You: Support for People With Cancer ."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Immunotherapy helps a person's immune system fight cancer.\nImmunotherapy drugs used to treat Merkel cell carcinoma include:\n- avelumab\n- pembrolizumab\n- retifanlimab\nLearn more about Immunotherapy to Treat Cancer ."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some people, joining a clinical trial may be an option. There are different types of clinical trials for people with cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment for Merkel cell carcinoma may cause side effects.",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for Merkel cell carcinoma may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Stage I and Stage II Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage I and Stage II Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of stage I and stage II Merkel cell carcinoma may include:\n- surgery to remove the tumor, such as wide local excision with or without lymph node dissection\n- radiation therapy after surgery\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Stage III Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage III Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment of stage III Merkel cell carcinoma may include:\n- wide local excision with or without lymph node dissection\n- radiation therapy\n- chemotherapy and immunotherapy with an immune checkpoint inhibitor ( pembrolizumab ), for tumors that cannot be removed by surgery\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Stage IV Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage IV Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of stage IV Merkel cell carcinoma may include:\n- immunotherapy with an immune checkpoint inhibitor ( avelumab , pembrolizumab , or retifanlimab )\n- chemotherapy , surgery, or radiation therapy as palliative treatment to relieve symptoms and improve quality of life\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment of recurrent Merkel cell carcinoma may include:\n- wide local excision to remove a larger area of tissue than was removed in earlier surgery with or without lymph node dissection\n- radiation therapy after surgery\n- chemotherapy\n- immunotherapy with an immune checkpoint inhibitor ( avelumab , pembrolizumab , or retifanlimab )\n- radiation therapy and/or surgery as palliative treatment to relieve symptoms and improve quality of life\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Merkel Cell Carcinoma",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "To Learn More About Merkel Cell Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "For more information from the National Cancer Institute about Merkel cell carcinoma , visit:\n- Skin Cancer (Including Melanoma) Home Page\n- Skin Cancer Prevention\n- Skin Cancer Screening\n- Sentinel Lymph Node Biopsy\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of merkel cell carcinoma. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Merkel Cell Carcinoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/skin/patient/merkel-cell-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389202]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Merkel Cell Carcinoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\b562b107629dd000a50a.html"
+    }
+  ]
+}

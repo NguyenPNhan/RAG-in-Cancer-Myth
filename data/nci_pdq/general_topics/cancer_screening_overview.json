@@ -1,0 +1,819 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "scope": "general_or_multi_cancer",
+  "summary_name": "Cancer Screening Overview",
+  "generated_at": "2026-08-31T07:15:23.625464+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "screening"
+      ],
+      "topic": "screening",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Cancer Screening Overview (PDQ®)–Health Professional Version",
+      "summary_name": "Cancer Screening Overview",
+      "url": "https://www.cancer.gov/about-cancer/screening/hp-screening-overview-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "October 16, 2023",
+      "retrieved_at": "2026-08-31T07:06:50.282086+00:00",
+      "content_sha256": "04ff1dbe82a54cb663308f95182ce02a7fcd0b3b99e2033b8ea46d757a265733",
+      "section_count": 31,
+      "sections": [
+        {
+          "section": "Purpose of Summary",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Purpose of Summary"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The purpose of this summary is to present an evidence-based approach used in the development of the screening summaries. Evaluating screening requires weighing risks and benefits. Monetary cost and cost-effectiveness are not considered when evaluating the evidence. Levels of evidence are assigned when evaluating screening tests."
+        },
+        {
+          "section": "Potential Benefits and Harms",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Potential Benefits and Harms"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "In general, the benefit of cancer screening derives from detecting cancer in earlier and more treatable stages, and thereby, reducing mortality from cancer. In addition, for some cancer types and screening modalities, such as endoscopic screening for colorectal cancer and Papanicolaou (Pap) smears for cervical cancer, screening can also prevent the occurrence of cancer by identifying and removing cancer precursors. Screening may also reduce cancer morbidity when the treatment for earlier-stage cancer is associated with fewer side effects than the treatment for advanced cancers.\nKnown harms from screening include the following:[ 1 ]\n- The possibility of serious test-related complications, which may be immediate (e.g., perforation with colonoscopy) or delayed (e.g., potential carcinogenesis from radiation exposure).\n- A false-positive screening test result, which may cause anxiety and lead to additional invasive diagnostic procedures.\n- Overdiagnosis, which occurs when screening procedures detect cancers that would never become clinically apparent in the absence of screening.\n- Overtreatment resulting from overdiagnosis.\nBecause screening tests themselves are generally noninvasive, immediate harms from the test are typically minor. Colonoscopy is an exception in that it is an invasive test. It also functions as a diagnostic follow-up examination for other colorectal cancer screening modalities, such as a fecal occult blood (FOB) test.\nCommonly used screening tests, such as mammography for breast cancer and prostate-specific antigen (PSA) for prostate cancer, have false-positive rates per screen in the range of 5% to 10%; with repeat screening, cumulative false-positive rates for these tests are substantially higher.[ 2 - 4 ] Follow-up invasive diagnostic procedures, such as a prostate biopsy, are associated with low but non-negligible risks of complications. For screening tests such as colonoscopy or Pap smears where precursor lesions, in addition to invasive cancer, are targets of the screen, the definition of a false positive is modified from simply a positive screen in an individual without cancer. For example, for cervical cancer screening, a positive Pap smear with an eventual diagnosis of high-grade intraepithelial lesion (HSIL) would not be considered a false positive, since HSIL is a target lesion.\nOverdiagnosis occurs when screening procedures detect cancers that would never become clinically apparent in the absence of screening. It is a special concern because identification of the cancer does not benefit the individual, while the side effects of diagnostic procedures and cancer treatment may cause significant harm. The overall harm of overdiagnosis is related to both the frequency of its occurrence, as well as to the downstream consequences of subsequent treatment. For example, in prostate cancer screening with PSA, there is a high rate of overdiagnosed disease and the harms of curative treatment, including impotence and urinary incontinence, are relatively common, serious, and long-lasting. Therefore, overdiagnosis is a major source of harms in PSA screening.[ 5 ] Some of the harms of overdiagnosis may be mitigated by strategies, such as active surveillance in prostate cancer, that attempt to defer immediate treatment in favor of following patients for any signs of worsening prognosis.\nIn general, overdiagnosis is more common in older individuals and those with otherwise limited life expectancy since the slowly growing lesions associated with overdiagnosed cancers have less time to become clinically apparent in such persons. Therefore, attempts have been made to discourage screening beyond certain age ranges; for example, most recommendations for mammography screening exclude women aged 75 or older and those with less than 10 years of life expectancy.[ 6 ]\nIn developing the cancer screening summaries, the PDQ Screening and Prevention Editorial Board uses the following definitions:\n- Screening is a means of detecting disease early in asymptomatic people.\n- Positive results of examinations, tests, or procedures may not be diagnostic but instead identify people who warrant further evaluation.\n- Some positive screening tests require additional procedures, such as biopsies of the indicated organ. These may rule out cancer or confirm the diagnosis of cancer.\nThe PDQ does not issue clinical practice guidelines. Many public health organizations present guidelines for health care and screening activities. Their quality varies widely. Some rely on systematic reviews of evidence of variable quality. Some are influenced by the professional, financial, and intellectual interests of guideline authors and funders. These may conflict with the primary interest—the overall well-being of the patient.[ 7 - 9 ]\nThe highest quality guidelines as assessed by the Appraisal of Guidelines for Research and Evaluation (AGREE) are those based on the best systematic reviews as evaluated using the Assessment of Multiple Systematic Reviews (AMSTAR)."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Potential Benefits and Harms",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Kramer BS: The science of early detection. Urol Oncol 22 (4): 344-7, 2004 Jul-Aug. [PUBMED Abstract]\n- Grubb RL, Pinsky PF, Greenlee RT, et al.: Prostate cancer screening in the Prostate, Lung, Colorectal and Ovarian cancer screening trial: update on findings from the initial four rounds of screening in a randomized trial. BJU Int 102 (11): 1524-30, 2008. [PUBMED Abstract]\n- Hubbard RA, Kerlikowske K, Flowers CI, et al.: Cumulative probability of false-positive recall or biopsy recommendation after 10 years of screening mammography: a cohort study. Ann Intern Med 155 (8): 481-92, 2011. [PUBMED Abstract]\n- Aberle DR, Adams AM, Berg CD, et al.: Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 365 (5): 395-409, 2011. [PUBMED Abstract]\n- Fenton JJ, Weyrich MS, Durbin S, et al.: Prostate-Specific Antigen-Based Screening for Prostate Cancer: Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA 319 (18): 1914-1931, 2018. [PUBMED Abstract]\n- Siu AL; U.S. Preventive Services Task Force: Screening for Breast Cancer: U.S. Preventive Services Task Force Recommendation Statement. Ann Intern Med 164 (4): 279-96, 2016. [PUBMED Abstract]\n- Norris SL, Burda BU, Holmer HK, et al.: Author's specialty and conflicts of interest contribute to conflicting guidelines for screening mammography. J Clin Epidemiol 65 (7): 725-33, 2012. [PUBMED Abstract]\n- Ransohoff DF, Pignone M, Sox HC: How to decide whether a clinical practice guideline is trustworthy. JAMA 309 (2): 139-40, 2013. [PUBMED Abstract]\n- Lenzer J: Why we can't trust clinical guidelines. BMJ 346: f3830, 2013. [PUBMED Abstract]"
+        },
+        {
+          "section": "Scientific Basis for Summary Development",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Scientific Basis for Summary Development"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The cancer screening summaries are based on various levels of published scientific evidence and collective clinical experience. The highest level of evidence is taken as mortality reduction in controlled, randomized clinical trials. The results of clinical studies, case-control studies, cohort studies, and other information are also considered in formulating the summaries. In addition, the incidence of cancer, stage distribution, treatment, and mortality rates are considered. The summaries are subject to modification as new evidence becomes available.\nThere are at least two requirements for screening to be efficacious:\n- The test or procedure must be able to detect some cancers earlier than if the cancer were detected as a result of the development of symptoms.\n- Treatment initiated earlier as a consequence of screening must result in an improved outcome for at least some patients.\nThese requirements are necessary but not sufficient to prove the efficacy of screening, which requires a decrease in cause-specific mortality. A cautionary tale is a Japanese screening program for childhood neuroblastoma that detected malignancy in ten times as many infants as in unscreened populations. But, a randomized trial showed that it did not yield any improvement in cause-specific mortality.[ 1 ] Other neuroblastoma screening projects confirmed the result.[ 2 - 4 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Scientific Basis for Summary Development",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Yamamoto K, Hayashi Y, Hanada R, et al.: Mass screening and age-specific incidence of neuroblastoma in Saitama Prefecture, Japan. J Clin Oncol 13 (8): 2033-8, 1995. [PUBMED Abstract]\n- Bessho F: Effects of mass screening on age-specific incidence of neuroblastoma. Int J Cancer 67 (4): 520-2, 1996. [PUBMED Abstract]\n- Woods WG, Tuchman M, Robison LL, et al.: A population-based study of the usefulness of screening for neuroblastoma. Lancet 348 (9043): 1682-7, 1996 Dec 21-28. [PUBMED Abstract]\n- Soderstrom L, Woods WG, Bernstein M, et al.: Health and economic benefits of well-designed evaluations: some lessons from evaluating neuroblastoma screening. J Natl Cancer Inst 97 (15): 1118-24, 2005. [PUBMED Abstract]"
+        },
+        {
+          "section": "Detection",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Detection"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Direct or assisted visual observation is the most widely available examination for the detection of cancer. It is useful in identifying suspicious lesions in the skin, retina, lip, mouth, external genitalia, and cervix.\nThe second most available detection procedure is palpation to detect lumps, nodules, or tumors in the breast, mouth, salivary glands, thyroid, subcutaneous tissues, anus, rectum, prostate, testes, ovaries and uterus, and enlarged lymph nodes in the neck, axilla, or groin.\nInternal cancers require procedures and tests such as endoscopy, x-rays, magnetic resonance imaging, or ultrasound. Laboratory tests, such as the Pap smear or the FOB test have been employed for the detection of specific cancers.\nScreening test performance is usually measured in terms of the following:\n- Sensitivity is the probability of a positive test given that the person has cancer.\n- Specificity is the probability of a negative test given that the person does not have cancer.\n- Positive predictive value (PPV) is the probability that the person has cancer given a positive test.\n- Negative predictive value (NPV) is the probability that the person does not have cancer given a negative test.\nPPV and NPV are related to sensitivity and specificity by Bayes rule, where prior probability is prevalence of disease in the population being screened. PPV and, to a lesser extent, NPV are affected by the prevalence of disease in the population being screened. For a given sensitivity and specificity, the lower the prevalence, the lower the PPV and the higher the NPV.\nThe concepts of sensitivity, specificity, PPV, and NPV are complicated for blood tests that aim to detect many types of cancers from a single blood sample. These test are called multi-cancer detection (MCD) assays or multi-cancer early detection (MCED) assays. These concepts are addressed in the next section."
+        },
+        {
+          "section": "Multi-Cancer Detection",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Multi-Cancer Detection"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Cancer is rare when considering all cancers collectively and not just those that have existing screening tests with sufficient evidence of benefit. People having a multi-cancer detection (MCD) screening test may not have detectable disease at the time of screening and, therefore, will not benefit from early detection by these assays. Performance characteristics of MCD assays, along with the resulting cascade of care, are not fully understood, and therefore, the opportunity for harms is much greater with these MCD assays within the framework of what we know about cancer screening.\nNo MCD assay has been properly evaluated to show a mortality reduction in randomized clinical trials. Indeed, no such trials have been published. No MCD assay has been authorized by the U.S. Food and Drug Administration. However, some MCD assays are being marketed as laboratory developed tests (LDTs). These are assays that are designed, manufactured, and used within a single laboratory. Marketing is allowed under federal regulations, known as Clinical Laboratory Improvement Amendments (CLIA). Customers may be persuaded by the concept that earlier detection is good. It may be good, but there are also negative aspects. Potential negative aspects include overdiagnosis and false positives. For example, a test that detects cancer and indicates that it is most likely to be lung cancer is correct in a sense if the patient has cancer. But it is regarded to be a false positive unless the patient has lung cancer. These negative aspects may be more concerning and more complicated with MCD assays than with screening tests for specific tumor types. The benefits and harms of MCD assays are impossible to determine in the absence of randomized clinical trials that have mortality as an end point."
+        },
+        {
+          "section": "High-Risk Populations",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "High-Risk Populations"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Cancer risk increases with advancing age, but some individuals have higher cancer risk, including the following:[ 1 ]\n- Those with a personal or a strong family history of cancer, or those with inherited genetic mutations and polymorphisms associated with specific cancers.\n- Those who have been exposed to environmental or occupational carcinogens (asbestos, uranium miners).\n- Personal behaviors related to cancer risk (smoking, alcohol consumption, sun exposure).\n- Those who have been exposed to therapeutic radiation (especially if it occurred during childhood or adolescence).\nIn general, the balance of benefits to harms is more favorable in higher risk individuals since they have a greater probability of benefiting from the screening while typically having a similar likelihood of experiencing the harms. Recommendations for screening, including the age to start and in some cases whether to screen at all, may differ by risk group. For example, lung cancer screening is recommended only for those with a substantial smoking history, and colorectal cancer screening is recommended to start at an earlier age for those with a family history of the disease."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "High-Risk Populations",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- van Es N, Le Gal G, Otten HM, et al.: Screening for Occult Cancer in Patients With Unprovoked Venous Thromboembolism: A Systematic Review and Meta-analysis of Individual Patient Data. Ann Intern Med 167 (6): 410-417, 2017. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cancer Recurrence",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Cancer Recurrence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information about the recurrence of specific types of cancer, see the PDQ summaries on Adult Treatment ."
+        },
+        {
+          "section": "Cancer Stage as Predictor",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Cancer Stage as Predictor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "For nearly all cancers, treatment options and survival are related to stage, characterized by the anatomical extent of disease, as defined by tumor size, invasion of lymph nodes, and distant metastases. It is assumed that detection of cancer at an earlier stage yields better outcomes.\nHowever, the biologic cellular characteristics of cancer, such as grade, hormone sensitivity, and gene overexpression are also recognized as important predictors of cancer behavior. For example, high-grade cancer may be fast growing and quick to metastasize regardless of stage at the time of diagnosis. Therefore, detection of these cancers when they are small may not improve outcome. Randomized controlled trials are most definitive in determining screening benefits."
+        },
+        {
+          "section": "Interpreting Changes in Survival Over Time",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Interpreting Changes in Survival Over Time"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Improvements in cancer survival over time are difficult to interpret, even when based on data from tumor registries, such as the Surveillance, Epidemiology, and End Results (SEER) Program that include all cases in a given population. They may reflect the benefits of early detection or improved treatment or both, but they may also result from lead-time bias and overdiagnosis, both of which occur commonly with screening.\nLead-time bias results in longer estimated survival of people with screen-identified cancers because the survival calculation includes the time preceding what would have been the clinical diagnosis of the cancer in the absence of screening.\nOverdiagnosis results from finding cancers that would never have become manifest clinically. By definition, these tumors have 100% cancer-specific survival. For example, autopsy series of older men show a high percentage of occult early prostate carcinomas.[ 1 ] The increased discovery of these cancers through screening, or as incidental findings of tests performed for other purposes (e.g., computed tomography scans), increases the number of cases, gives the appearance of a stage shift, and results in improved survival and/or cure rates, without affecting cause-specific mortality in the population. Examples of cancers with increased incidence, in recent decades, caused primarily by a rise in incidentally detected cases include renal and thyroid cancers.[ 2 ] An analysis of data reported by the SEER Program between 1950 and 1996 for 20 major cancers found little correlation between changes in 5-year survival rates and changes in mortality rates.[ 3 ] Thus, improvements in 5-year survival rates are largely due to earlier diagnosis and to overdiagnosis. Reductions in incidence rates for late-stage tumors represent a better measure of decreased cancer mortality due to screening than do 5-year survival trends.\nRelative survival compares the observed all-cause survival of a cohort of cancer patients with the expected all-cause survival of a comparable (age-, sex-, and race-matched) population. The relative survival rates of patients with early-stage cancer may be inflated artifactually by a screening test because people who choose to be screened are often more health conscious than the general population, engaging in a range of healthy lifestyle behaviors in addition to screening. For example, a report of SEER data showed a 10-year relative survival rate of more than 100% in patients with early-stage prostate, thyroid, and breast cancers, and ductal carcinoma in situ and melanoma. These five tumors are frequently diagnosed by screening in the United States.[ 4 ] This phenomenon is sometimes termed healthy screenee bias ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Interpreting Changes in Survival Over Time",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Woolf SH: Screening for prostate cancer with prostate-specific antigen. An examination of the evidence. N Engl J Med 333 (21): 1401-5, 1995. [PUBMED Abstract]\n- Glasziou PP, Jones MA, Pathirana T, et al.: Estimating the magnitude of cancer overdiagnosis in Australia. Med J Aust 212 (4): 163-168, 2020. [PUBMED Abstract]\n- Welch HG, Schwartz LM, Woloshin S: Are increasing 5-year survival rates evidence of success against cancer? JAMA 283 (22): 2975-8, 2000. [PUBMED Abstract]\n- Marcadis AR, Marti JL, Ehdaie B, et al.: Characterizing Relative and Disease-Specific Survival in Early-Stage Cancers. JAMA Intern Med 180 (3): 461-463, 2020. [PUBMED Abstract]"
+        },
+        {
+          "section": "Study Designs",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Study Designs"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Findings from studies employing various study designs are used to support a given summary. The strongest design is the randomized controlled trial, although it is impractical to conduct such a trial addressing every question in the field of screening. For each summary of evidence statement, the associated strength of study designs is listed. There are five study designs that are generally used in judging the evidence. In order of strength of design, the five levels are as follows:\n- Evidence obtained from randomized controlled trials.\n- Evidence obtained from nonrandomized controlled trials.\n- Evidence obtained from cohort or case-control studies.\n- Evidence obtained from ecological and descriptive studies (e.g., international patterns studies, time series).\n- Opinions of respected authorities based on clinical experience, descriptive studies, or reports of expert committees.\nExperimental trials are designed to correct for or eliminate the following biases: selection, lead-time, length, and healthy volunteer. The highest level of evidence and greatest benefit would be mortality reduction in a randomized controlled trial. Such evidence is not available for many situations because of the sample size, expense, and duration required. Case-control and cohort studies provide indirect evidence for the effectiveness of screening, but they can be limited by selection bias and healthy volunteer bias. For example, individuals who undergo screening have been shown to have lower mortality from causes unrelated to that screening than do those who did not undergo screening, likely caused by better overall health behavior profiles. Thus, observed differences in survival or mortality by screening history could be caused by these other factors and not the actual screening.[ 1 ] New screening modalities may identify more cancers but must be evaluated to determine whether their adoption produces a decrease in cancer-specific mortality versus an increase in lead time bias and overdiagnosis. While randomized trials can answer this question, they may be cost-prohibitive and impractical.[ 2 ]\nEcological studies can demonstrate association between screening and improvement in cancer stage and survival, with the adoption of cervical cancer screening as an excellent example.[ 3 ] Ecological studies are also valuable to assess the benefits of breast cancer screening, beyond the information gathered in randomized controlled studies, which were conducted over relatively short durations and in an era preceding major developments in cancer treatment.\nDescriptive uncontrolled studies on the basis of the experience of individual physicians, hospitals, and non–population-based registries may yield useful information. The performance characteristics of various detection tests, such as sensitivity, specificity, and PPVs are generally first reported in such descriptive studies. The first evidence that screening may be successful is an increase in the incidence of early cancers and a decreased incidence of late-stage metastatic cancers (stage shift); later, a reduction in deaths may occur. These descriptive studies do not establish efficacy because of the absence of an appropriate control group and because they do not address the question whether early initiation of treatment affects patient outcomes (for more information about the Japanese neuroblastoma screening program, see the Potential Benefits and Harms section).\nThe opinions of authorities may be useful, but may suffer the same weaknesses described earlier. For PDQ's position regarding clinical practice guidelines, see the Scientific Basis for Summary Development section."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Study Designs",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Pierre-Victor D, Pinsky PF: Association of Nonadherence to Cancer Screening Examinations With Mortality From Unrelated Causes: A Secondary Analysis of the PLCO Cancer Screening Trial. JAMA Intern Med 179 (2): 196-203, 2019. [PUBMED Abstract]\n- Irwig L, Houssami N, Armstrong B, et al.: Evaluating new screening tests for breast cancer. BMJ 332 (7543): 678-9, 2006. [PUBMED Abstract]\n- Hakama M, Miller AB, Day NE, eds.: Screening for cancer of the uterine cervix. International Agency for Research on Cancer, 1986."
+        },
+        {
+          "section": "Simulation Models",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Simulation Models"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Another approach to formulating data about cancer screening is modeling. Models can generate information about cancer screening in circumstances where empiric evidence does not exist. A number of probabilistic and computer simulation models have been developed to do the following:\n- Analyze trends in cancer detection and compare these trends with those reported in national or regional databases.\n- Investigate the cost-effectiveness of various screening strategies.\n- Estimate overdiagnosis resulting from screening.\nSimulation modeling from the National Cancer Institute's Cancer Intervention and Surveillance Modeling Network (CISNET) program is a major effort in this area. Models have been developed to investigate the impact of screening for various cancers, as per the following examples:\n- Changes in prostate cancer treatment, improvements in disease management after primary therapy, and screening are all factors in the observed decline in prostate cancer mortality.[ 1 ]\n- The benefits and harms of eight breast cancer screening strategies are described, including age differences at the start of screening (40, 45, or 50 years) and screening intervals (annual, biennial, or hybrid).[ 2 ]\n- The benefits and harms of computed tomography lung cancer screening are examined, comparing 576 different scenarios with varying eligibility criteria (age, pack-years of smoking, years since quitting), screening intervals (1, 2, or 3 years), and the ages of starting (45, 50, 55, or 60 years) and stopping (75, 80, or 85 years) screening.[ 3 ]\nHowever, caution is necessary in interpreting model findings. Models are only as good as the assumptions upon which they are based, particularly those assumptions about the natural history of the target disease. Many models are complex, especially regarding the interaction of components and the generation of results, and multiple modeling efforts applied to the same screening scenario often give a wide range of quantitative results. In addition, models often produce results that are extrapolations beyond the range of the data input to the models."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Simulation Models",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Etzioni R, Gulati R, Tsodikov A, et al.: The prostate cancer conundrum revisited: treatment changes and prostate cancer mortality declines. Cancer 118 (23): 5955-63, 2012. [PUBMED Abstract]\n- Mandelblatt JS, Stout NK, Schechter CB, et al.: Collaborative Modeling of the Benefits and Harms Associated With Different U.S. Breast Cancer Screening Strategies. Ann Intern Med 164 (4): 215-25, 2016. [PUBMED Abstract]\n- de Koning HJ, Meza R, Plevritis SK, et al.: Benefits and harms of computed tomography lung cancer screening strategies: a comparative modeling study for the U.S. Preventive Services Task Force. Ann Intern Med 160 (5): 311-20, 2014. [PUBMED Abstract]"
+        },
+        {
+          "section": "Informed and Shared Medical Decision Making",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Informed and Shared Medical Decision Making"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Guidelines for cancer screening increasingly mention the importance of individuals making informed decisions about participating in screening and sharing in decision making. Unbiased and balanced information about the potential benefits and harms of cancer prevention, screening, and treatment plays an important role in the informed decision-making process by the patient.\nIn a nationwide survey of informed decision-making during patient-provider discussions about colorectal, breast, and prostate cancer screening, patients considered themselves informed but often were not knowledgeable about the risks and benefits of screening. Patients reported that they were usually not asked about their preferences for cancer screening. Although more than 90% of the discussions addressed the advantages of screening, 30% or fewer addressed the disadvantages of screening.[ 1 ]\nFor many cancer screening decisions, shared decision-making is suggested, whereby the provider helps the patient make an informed, values-based choice from among two or more medically reasonable alternatives.[ 2 , 3 ] This is especially important when screening presents potential harms and limited benefits. There are three components of shared decision-making:[ 4 ]\n- The provider shares screening options with evidence-based information about benefits, harms, and uncertainties.\n- The patient shares preferences with the provider, who helps the patient evaluate these options and preferences and make a decision.\n- The provider assists with recording and implementing the patient’s preferences.\nPatient decision aids can be useful, as they encourage patients to interpret evidence in the context of their own goals and concerns and to make decisions with their physicians. Decision aids are available in leaflets, booklets, videos, and websites, and they may include patient stories. The International Patient Decision Aid Standards (IPDAS) Collaboration has developed a method for evaluating the quality of decision aids.[ 5 ]\nA Cochrane review of 115 randomized controlled trials of shared decision-making supported by decision aids indicated that, in general, decision aids improve patient knowledge about options and risks; reduce decisional conflict related to feeling uninformed or unclear about personal values; and stimulate patients to take more active roles in decision-making. In some cases, decision aids have also been noted to reduce the number of patients choosing major elective invasive surgery over more conservative options, and in fewer patients choosing cancer screening. The effect of using decision aids may lengthen or shorten the duration of the consultation.[ 6 ]\nAfter using a decision aid that included information about breast cancer overdetection, more women met the threshold for adequate overall knowledge about screening benefits and risks. Women whose decision aids included information about overdetection were less enthusiastic about screening and were less likely to participate.[ 7 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Informed and Shared Medical Decision Making",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Hoffman RM, Lewis CL, Pignone MP, et al.: Decision-making processes for breast, colorectal, and prostate cancer screening: the DECISIONS survey. Med Decis Making 30 (5 Suppl): 53S-64S, 2010 Sep-Oct. [PUBMED Abstract]\n- O'Connor AM, Llewellyn-Thomas HA, Flood AB: Modifying unwarranted variations in health care: shared decision making using patient decision aids. Health Aff (Millwood) Suppl (Variation): VAR63-72, 2004. [PUBMED Abstract]\n- Charles C, Gafni A, Whelan T: Shared decision-making in the medical encounter: what does it mean? (or it takes at least two to tango). Soc Sci Med 44 (5): 681-92, 1997. [PUBMED Abstract]\n- Coulter A, Collins A: Making Shared Decision-Making a Reality: No Decision About Me, Without Me. The King's Fund, 2011. Also available online . Last accessed August 17, 2023.\n- Elwyn G, O'Connor A, Stacey D, et al.: Developing a quality criteria framework for patient decision aids: online international Delphi consensus process. BMJ 333 (7565): 417, 2006. [PUBMED Abstract]\n- Stacey D, Hawker G, Dervin G, et al.: Decision aid for patients considering total knee arthroplasty with preference report for surgeons: a pilot randomized controlled trial. BMC Musculoskelet Disord 15: 54, 2014. [PUBMED Abstract]\n- Hersch J, Barratt A, Jansen J, et al.: Use of a decision aid including information on overdetection to support informed choice about breast cancer screening: a randomised controlled trial. Lancet 385 (9978): 1642-52, 2015. [PUBMED Abstract]"
+        },
+        {
+          "section": "Disease-Specific Versus All-Cause Mortality End Points",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Disease-Specific Versus All-Cause Mortality End Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Disease-specific mortality, the most widely accepted end point in randomized clinical trials of cancer screening, assumes that the cause of death can be accurately determined and that the screening and subsequent treatments have negligible effects on other causes of death. By contrast, all-cause mortality depends only on the date and accurate ascertainment of death. Because cancer deaths generally comprise only a small fraction of all deaths in a screening trial, the statistical power to detect a significant reduction in all-cause mortality in any single trial, or even in some meta-analyses, is typically low. Nevertheless, all-cause mortality should be considered in conjunction with disease-specific mortality to reduce the possibility that a major effect from screening is hidden by misclassification in cause of death. The National Lung Screening Trial of low-dose computed tomography lung cancer screening did demonstrate a significant reduction in all-cause mortality and a meta-analysis of flexible sigmoidoscopy trials also showed a significant all-cause mortality benefit.[ 1 , 2 ] In contrast, meta-analyses of mammography screening trials have failed to demonstrate a significant reduction in all-cause mortality.[ 3 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Disease-Specific Versus All-Cause Mortality End Points",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Aberle DR, Adams AM, Berg CD, et al.: Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 365 (5): 395-409, 2011. [PUBMED Abstract]\n- Tinmouth J, Vella ET, Baxter NN, et al.: Colorectal Cancer Screening in Average Risk Populations: Evidence Summary. Can J Gastroenterol Hepatol 2016: 2878149, 2016. [PUBMED Abstract]\n- Nelson HD, Fu R, Cantor A, et al.: Effectiveness of Breast Cancer Screening: Systematic Review and Meta-analysis to Update the 2009 U.S. Preventive Services Task Force Recommendation. Ann Intern Med 164 (4): 244-55, 2016. [PUBMED Abstract]"
+        },
+        {
+          "section": "Measures of Risk",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Measures of Risk"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Several measures of risk are used in cancer research. Absolute risk or absolute rate measures the actual cancer risk or rate in a population or subgroup (e.g., U.S. population, or White or Black individuals). For example, the Surveillance, Epidemiology, and End Results (SEER) Program reports risk and rate of cancer in specific geographic areas of the United States.\nRates are often adjusted (e.g., age-adjusted rates) to allow a more accurate comparison of rates over time or among groups. The purpose of the adjustment is to make the groups more alike with respect to important characteristics that may affect the conclusions. For example, when the SEER Program compares cancer rates over time in the United States, the rates are adjusted to one age distribution because cancer rates are usually higher in older age groups.\nRelative risk (RR) compares the risk of developing cancer among those who have a particular characteristic or exposure with those who do not. RR is expressed as a ratio of risks or rates. If the RR is one, the risk of both groups is the same; if the RR is greater than one, the exposure or characteristic is associated with a higher cancer risk; if the RR is less than one, it is associated with a lower cancer risk. RR is often used in clinical trials of cancer prevention and screening to estimate the reduction in cancer risk or risk of death, respectively.\nAn odds ratio (OR) is often used as an estimate of the RR. It, too, indicates whether there is an association between an exposure or characteristic and cancer. It compares the odds of an exposure or characteristic among cancer cases with the odds among a comparison group without cancer.\nUncertainty in an estimated OR (or RR) is sometimes presented as a confidence interval (CI), which represents the range of values for the OR (or RR) that is plausible based on the observed study data. If the CI range contains 1, it indicates that the observed data would not be unusual if the two groups truly do not differ in their odds (or risk) of experiencing the event.\nRisk or rate difference (or excess risk) compares the actual cancer risk or rate among at least two groups of people, based on an important characteristic or exposure, by subtracting the risks or rates from one another (e.g., subtracting lung cancer rates among nonsmokers from that of cigarette smokers estimates the excess risk of lung cancer due to smoking). This can be used in public health to estimate the number of cancer cases that could be avoided if an exposure were reduced or eliminated in the population.\nPopulation-attributable risk measures the proportion of cancers that can be attributed to a particular exposure or characteristic. It combines information about the RR of cancer associated with a particular exposure and the prevalence of that exposure in the population, and estimates the proportion of cancer cases in a population that could be avoided if an exposure were reduced or eliminated.\nThe number needed to screen (NNS) is a metric of screening efficiency defined as the number of people that must participate in a screening program for one death to be prevented over a defined time interval. NNS estimates are typically derived from screening trial data. For screening modalities that can prevent cancer, as well as detect it earlier, such as endoscopic screening for colorectal cancer, an NNS to prevent one incident cancer is also a useful metric.\nAverage life-years saved estimates the number of years of life that an intervention saves, on average, for an individual who receives the intervention. This reflects mortality reduction and life extension (or avoidance of premature deaths)."
+        },
+        {
+          "section": "The Impact of Screen Detection on Measures of Risk",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "The Impact of Screen Detection on Measures of Risk"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When overdiagnosis occurs with screening, absolute and relative measures of risk calculated from studies with participants whose disease was screen-detected must be carefully interpreted. If the chance of diagnosis as a result of screening (either due to screening itself or diagnostic workup of a positive screen) is positively correlated with a given factor, risk measures will be inflated relative to those calculated from unscreened populations. The degree of inflation depends on prevalence of screening and the degree of correlation. As screening is adopted in population settings, trend data for risk will be affected similarly.[ 1 ]\nMany of the groundbreaking observational studies in cancer etiology were performed before cancer screening was widely adopted. Given the extensive uptake of screening for certain cancers, recently conducted observational etiologic studies include many participants whose disease was detected through screening. This may skew the results of these trials.\nFor example, assume that men with blue eyes are more likely to participate in prostate-specific antigen screening and more willing to undergo prostate biopsy. Despite the absence of a biologic association between blue eyes and prostate cancer, more cancers will be detected in blue-eyed men because they are screened. Since many prostate cancers can be safely left undiagnosed and untreated, many of these cancers in blue-eyed men represent overdiagnosis.\nWhen overdiagnosis occurs due to screening, and when screening behavior or willingness to seek diagnostic evaluation is correlated with risk factors, relative risk measures generated from these studies may be over-stated and results may be misleading."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "The Impact of Screen Detection on Measures of Risk",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Tangen CM, Goodman PJ, Till C, et al.: Biases in Recommendations for and Acceptance of Prostate Biopsy Significantly Affect Assessment of Prostate Cancer Risk Factors: Results From Two Large Randomized Clinical Trials. J Clin Oncol 34 (36): 4338-4344, 2016. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (10/16/2023)",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (10/16/2023)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Screening and Prevention Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about cancer screening. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 7,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Screening and Prevention Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Screening and Prevention Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Screening and Prevention Editorial Board. PDQ Cancer Screening Overview. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/screening/hp-screening-overview-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389235]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\d8947460f45b370355bb.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "screening"
+      ],
+      "topic": "screening",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Cancer Screening Overview (PDQ®)–Patient Version",
+      "summary_name": "Cancer Screening Overview",
+      "url": "https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "October 20, 2023",
+      "retrieved_at": "2026-08-31T07:06:51.204140+00:00",
+      "content_sha256": "fdd1cf4af551389a0b7e0170340353ba17b661d5a0d5a467c8a90434fe336a67",
+      "section_count": 38,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Is Cancer Screening?",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Cancer screening is looking for cancer before a person has any symptoms.\n- There are different kinds of screening tests.\n- Screening tests have risks.\n- Some screening tests can cause serious problems.\n- False-positive test results are possible.\n- False-negative test results are possible.\n- Finding the cancer may not improve the person's health or help the person live longer."
+        },
+        {
+          "section": "Cancer screening is looking for cancer before a person has any symptoms.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Is Cancer Screening?",
+            "Cancer screening is looking for cancer before a person has any symptoms."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Screening tests can help find cancer at an early stage , before symptoms appear. When abnormal tissue or cancer is found early, it may be easier to treat or cure . By the time symptoms appear, the cancer may have grown and spread. This can make the cancer harder to treat or cure.\nIt is important to remember that when your doctor suggests a screening test, it does not always mean he or she thinks you have cancer. Screening tests are done when you have no cancer symptoms."
+        },
+        {
+          "section": "There are different kinds of screening tests.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Is Cancer Screening?",
+            "There are different kinds of screening tests."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Screening tests include the following:\n- Physical exam and history : An exam of the body to check general signs of health, including checking for signs of disease, such as lumps or anything else that seems unusual. A history of the patient's health habits and past illnesses and treatments will also be taken.\n- Laboratory tests : Medical procedures that test samples of tissue, blood , urine , or other substances in the body.\n- Imaging procedures : Procedures that make pictures of areas inside the body.\n- Genetic tests : A laboratory test in which cells or tissue are analyzed to look for changes in genes or chromosomes . These changes may be a sign that a person has or is at risk of having a specific disease or condition ."
+        },
+        {
+          "section": "Screening tests have risks.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Is Cancer Screening?",
+            "Screening tests have risks."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Not all screening tests are helpful and most have risks. It is important to know the risks of the test and whether it has been proven to decrease the chance of dying from cancer."
+        },
+        {
+          "section": "Some screening tests can cause serious problems.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Is Cancer Screening?",
+            "Screening tests have risks.",
+            "Some screening tests can cause serious problems."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Some screening procedures can cause bleeding or other problems. For example, colon cancer screening with sigmoidoscopy or colonoscopy can cause tears in the lining of the colon ."
+        },
+        {
+          "section": "False-positive test results are possible.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Is Cancer Screening?",
+            "Screening tests have risks.",
+            "False-positive test results are possible."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Screening test results may appear to be abnormal even though there is no cancer. A false-positive test result (one that shows there is cancer when there really isn't) can cause anxiety and is usually followed by more tests and procedures, which also have risks."
+        },
+        {
+          "section": "False-negative test results are possible.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Is Cancer Screening?",
+            "Screening tests have risks.",
+            "False-negative test results are possible."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Screening test results may appear to be normal even though there is cancer. A person who receives a false-negative test result (one that shows there is no cancer when there really is) may delay seeking medical care even if there are symptoms."
+        },
+        {
+          "section": "Finding the cancer may not improve the person's health or help the person live longer.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Is Cancer Screening?",
+            "Screening tests have risks.",
+            "Finding the cancer may not improve the person's health or help the person live longer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some cancers never cause symptoms or become life-threatening, but if found by a screening test, the cancer may be treated. There is no way to know if treating the cancer would help the person live longer than if no treatment were given. In both teenagers and adults, there is a rare risk of attempted or actual suicide in the first year after being diagnosed with cancer. Also, treatments for cancer have side effects .\nFor some cancers, finding and treating the cancer early does not improve the chance of a cure or help the person live longer."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Is Informed and Shared Decision-Making?",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Understanding the benefits and harms of screening tests is important for making an informed choice about which screening tests are right for you."
+        },
+        {
+          "section": "Understanding the benefits and harms of screening tests is important for making an informed choice about which screening tests are right for you.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Is Informed and Shared Decision-Making?",
+            "Understanding the benefits and harms of screening tests is important for making an informed choice about which screening tests are right for you."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Before having any screening test, discuss the test with your doctor or other health care provider . Every screening test has both benefits and harms. Your health care provider should talk to you about the benefits and harms of a screening test and include you in the decision about whether the screening test is right for you. This is called informed and shared decision-making.\n- Your health care provider will talk to you about the possible benefits, harms, and unknowns of a screening test. This may include information about the benefits of finding a cancer early or the harms related to false test results, overdiagnosis , and overtreatment . Your health care provider may also give you information in a leaflet, booklet, video, website, or other material.\n- After you understand the benefits and harms of a screening test, you can decide whether or not you want to have the screening test based on what is best for you. Sometimes the harms and benefits are closely matched and the decision about whether to have a screening test is hard to make.\n- Your health care provider will write your decision down in your medical record and order the screening test, if that was your decision."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Are the Goals of Screening Tests?",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Screening tests have many goals.\n- Screening tests are not meant to diagnose cancer."
+        },
+        {
+          "section": "Screening tests have many goals.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Are the Goals of Screening Tests?",
+            "Screening tests have many goals."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "A screening test that works the way it should and is helpful does the following:\n- Finds cancer before symptoms appear.\n- Screens for a cancer that is easier to treat and cure when found early.\n- Has few false-negative test results and false-positive test results .\n- Decreases the chance of dying from cancer."
+        },
+        {
+          "section": "Screening tests are not meant to diagnose cancer.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "What Are the Goals of Screening Tests?",
+            "Screening tests are not meant to diagnose cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Screening tests usually do not diagnose cancer. If a screening test result is abnormal , more tests may be done to check for cancer. For example, a screening mammogram may find a lump in the breast . A lump may be cancer or something else. More tests need to be done to find out if the lump is cancer. These are called diagnostic tests . Diagnostic tests may include a biopsy , in which cells or tissues are removed so a pathologist can check them under a microscope for signs of cancer."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "Who Needs to Be Screened?",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Certain screening tests may be suggested only for people who have a high risk for certain cancers.\n- Cancer screening research includes finding out who has an increased risk of cancer."
+        },
+        {
+          "section": "Certain screening tests may be suggested only for people who have a high risk for certain cancers.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "Who Needs to Be Screened?",
+            "Certain screening tests may be suggested only for people who have a high risk for certain cancers."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Anything that increases the chance of cancer is called a cancer risk factor . Not every person with one or more risk factors will develop cancer, and it will develop in some people who don't have any known risk factors.\nSome screening tests are used only for people who have known risk factors for certain types of cancer. People known to have a higher risk of cancer than others include those who have any of the following:\n- A personal history of cancer.\n- A family history of cancer.\n- Certain gene mutations (changes) that have been linked to cancer.\n- Exposure to cancer-causing agents such as tobacco smoke or workplace chemicals .\n- A blood clot that develops for no known reason.\n- Older age.\nPeople who have a high risk of cancer may need to be screened more often or at an earlier age than other people."
+        },
+        {
+          "section": "Cancer screening research includes finding out who has an increased risk of cancer.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "Who Needs to Be Screened?",
+            "Cancer screening research includes finding out who has an increased risk of cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Scientists are trying to better understand who is likely to get certain types of cancer. They study the things we do and the things around us to see if they cause cancer. This information helps doctors figure out who should be screened for cancer, which screening tests should be used, and how often the tests should be done.\nSince 1973, the Surveillance, Epidemiology, and End Results (SEER) Program of the National Cancer Institute has been collecting information on people with cancer from different parts of the United States. Information from SEER, research studies, and other sources is used to study who is at risk."
+        },
+        {
+          "section": "How Is Cancer Risk Measured?",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "How Is Cancer Risk Measured?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Cancer risk is measured in different ways. The findings from surveys and studies about cancer risk are studied and the results are explained in different ways. Some of the ways risk is explained include absolute risk , relative risk , and odds ratios .\n- Absolute risk This is the risk a person has of developing a disease, in a given population (for example, the entire US population) over a certain period of time. Researchers estimate the absolute risk by studying a large number of people that are part of a certain population (for example, women in a given age group). Researchers count the number of people in the group who get a certain disease over a certain period of time. For example, a group of 100,000 women between the ages of 20 and 29 are observed for one year, and 4 of them get breast cancer during that time. This means that the one-year absolute risk of breast cancer for a woman in this age group is 4 in 100,000, or 4 chances in 100,000.\n- Relative risk This is often used in research studies to find out whether a trait or a factor can be linked to the risk of a disease. Researchers compare two groups of people who are a lot alike. However, the people in one of the groups must have the trait or factor being studied (they have been \"exposed\"). The people in the other group do not have it (they have not been exposed). To figure out relative risk, the percentage of people in the exposed group who have the disease is divided by the percentage of people in the unexposed group who have the disease. Relative risks can be: Relative risks are also called risk ratios.\n- Larger than 1: The trait or factor is linked to an increase in risk.\n- Equal to 1: The trait or factor is not linked to risk.\n- Less than 1: The trait or factor is linked to a decrease in risk.\n- Odds ratio In some types of studies, researchers don't have enough information to figure out relative risks. They use something called an odds ratio instead. An odds ratio can be an estimate of relative risk. One type of study that uses an odds ratio instead of relative risk is called a case-control study . In a case-control study, two groups of people are compared. However, the individuals in each group are chosen based on whether or not they have a certain disease. Researchers look at the odds that the people in each group were exposed to something (a trait or factor) that might have caused the disease. Odds describes the number of times the trait or factor was present or happened, divided by the number of times it wasn't present or didn't happen. To get an odds ratio, the odds for one group are divided by the odds for the other group. Odds ratios can be:\n- Larger than 1: The trait or factor is linked to an increase in risk.\n- Equal to 1: The trait or factor is not linked to risk.\n- Less than 1: The trait or factor is linked to a decrease in risk.\nLooking at traits and exposures in people with and without cancer can help find possible risk factors . Knowing who is at an increased risk for certain types of cancer can help doctors decide when and how often they should be screened."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "Does Screening Help People Live Longer?",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Finding some cancers at an early stage (before symptoms appear) may help decrease the chance of dying from those cancers.\n- Screening studies are done to see whether deaths from cancer decrease when people are screened.\n- Certain factors may cause survival times to look like they are getting better when they are not."
+        },
+        {
+          "section": "Finding some cancers at an early stage (before symptoms appear) may help decrease the chance of dying from those cancers.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "Does Screening Help People Live Longer?",
+            "Finding some cancers at an early stage (before symptoms appear) may help decrease the chance of dying from those cancers."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "For many cancers , the chance of recovery depends on the stage (the amount or spread of cancer in the body) of the cancer when it was diagnosed . Cancers that are diagnosed at earlier stages are often easier to treat or cure .\nStudies of cancer screening compare the death rate of people screened for a certain cancer with the death rate from that cancer in people who were not screened. Some screening tests have been shown to be helpful both in finding cancers early and in decreasing the chance of dying from those cancers. These include mammograms for breast cancer and sigmoidoscopy and fecal occult blood testing for colorectal cancer . Other tests are used because they have been shown to find a certain type of cancer in some people before symptoms appear, but they have not been proven to decrease the risk of dying from that cancer. If a cancer is fast-growing and spreads quickly, finding it early may not help the person survive the cancer."
+        },
+        {
+          "section": "Screening studies are done to see whether deaths from cancer decrease when people are screened.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "Does Screening Help People Live Longer?",
+            "Screening studies are done to see whether deaths from cancer decrease when people are screened."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "When collecting information on how long people with cancer live, some studies define survival as living 5 years after the diagnosis. This is often used to measure how well cancer treatments work. However, to see if screening tests are useful, studies usually look at whether deaths from the cancer decrease in people who were screened. Over time, signs that a cancer screening test is working include:\n- An increase in the number of early-stage cancers found.\n- A decrease in the number of late-stage cancers found.\n- A decrease in the number of deaths from the cancer.\nThe number of deaths from cancer is lower today than it was in the past. It is not always clear if this is because screening tests found the cancers earlier or because cancer treatments have gotten better, or both. The Surveillance, Epidemiology, and End Results (SEER) Program of the National Cancer Institute collects and reports information on survival times of people with cancer in the United States. This information is studied to see if finding cancer early affects how long these people live."
+        },
+        {
+          "section": "Certain factors may cause survival times to look like they are getting better when they are not.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "Does Screening Help People Live Longer?",
+            "Certain factors may cause survival times to look like they are getting better when they are not."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "These factors include lead-time bias , overdiagnosis , and healthy screenee bias.\n- Lead-time bias Survival time for people with cancer is usually measured from the day the cancer is diagnosed until the day they die. People are often diagnosed after they have signs and symptoms of cancer. If a screening test leads to a diagnosis before a person has any symptoms, the person's survival time is increased because the date of diagnosis is earlier. This increase in survival time makes it seem as though screening helps people live longer when that may not be happening. This is called lead-time bias. Survival time may appear to be longer because the date of diagnosis is earlier for the people who are screened, but they may die at the same time they would have without the screening test.\n- Overdiagnosis Sometimes, screening tests find cancers that don't matter because they would have gone away on their own or never caused any symptoms. These cancers would never have been found if not for the screening test (for example, a computed tomography scan ). Finding these cancers is called overdiagnosis. Overdiagnosis can make it seem like more people are surviving cancer longer, but in reality, these are people who would not have died from cancer anyway.\n- Healthy screenee bias People who choose to have screening tests are often more health conscious than the general public and tend to make other healthy choices in their lives. People with early-stage cancer found by screening may live longer than people who don't get screened. They may live longer because of the benefits of their healthy lifestyle rather than screening. This is sometimes called healthy screenee bias."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "How do Screening Tests Become Standard Tests?",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Results from research studies help doctors decide when a screening test works well enough to be used as a standard test.\n- Different types of research studies are done to study cancer screening.\n- The following types of studies are used to get information about cancer screening tests:\n- Randomized controlled trials\n- Nonrandomized controlled trials\n- Cohort studies\n- Case-control studies\n- Ecologic studies\n- Expert opinions\n- Screening tests for cancer are being studied in clinical trials."
+        },
+        {
+          "section": "Results from research studies help doctors decide when a screening test works well enough to be used as a standard test.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "How do Screening Tests Become Standard Tests?",
+            "Results from research studies help doctors decide when a screening test works well enough to be used as a standard test."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Evidence about how safe, accurate, and useful cancer screening tests are comes from clinical trials (research studies with people) and other kinds of research studies. When enough evidence has been collected to show that a screening test is safe, accurate, and useful, it becomes a standard test. Examples of cancer screening tests that were once under study but are now standard tests include:\n- Colonoscopy for colorectal cancer .\n- Mammograms for breast cancer .\n- Pap tests (Pap smears) for cervical cancer ."
+        },
+        {
+          "section": "Different types of research studies are done to study cancer screening.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "How do Screening Tests Become Standard Tests?",
+            "Different types of research studies are done to study cancer screening."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Cancer screening trials study new ways of finding cancer in people before they have symptoms . Screening trials also study screening tests that may find cancer earlier or are more accurate than existing tests, or that may be easier, safer, or cheaper to use. Screening trials are designed to find the possible benefits and possible harms of cancer screening tests. Different clinical trial designs are used to study cancer screening tests.\nThe strongest evidence about screening comes from research done in clinical trials. However, clinical trials cannot always be used to study questions about screening. Findings from other types of studies can give useful information about how safe, useful, and accurate cancer screening tests are."
+        },
+        {
+          "section": "Randomized controlled trials",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "How do Screening Tests Become Standard Tests?",
+            "The following types of studies are used to get information about cancer screening tests:",
+            "Randomized controlled trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Randomized controlled trials give the highest level of evidence about how safe, accurate, and useful cancer screening tests are. In these trials, volunteers are assigned randomly (by chance) to one of two or more groups. The people in one group (the control group ) may be given a standard screening test (if one exists) or no screening test. The people in the other group(s) are given the new screening test(s). Test results for the groups are then compared to see if the new screening test works better than the standard test, and to see if there are any harmful side effects .\nUsing chance to assign people to groups means that the groups will probably be very much alike and that the trial results won't be affected by human choices or something else."
+        },
+        {
+          "section": "Nonrandomized controlled trials",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "How do Screening Tests Become Standard Tests?",
+            "The following types of studies are used to get information about cancer screening tests:",
+            "Nonrandomized controlled trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In nonrandomized clinical trials , volunteers are not assigned randomly (by chance) to different groups. They choose which group they want to be in or the study leaders assign them. Evidence from this type of research is not as strong as evidence from randomized controlled trials."
+        },
+        {
+          "section": "Cohort studies",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "How do Screening Tests Become Standard Tests?",
+            "The following types of studies are used to get information about cancer screening tests:",
+            "Cohort studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A cohort study follows a large number of people over time. The people are divided into groups, called cohorts, based on whether or not they have had a certain treatment or been exposed to certain things. In cohort studies, the information is collected and studied after certain outcomes (such as cancer or death) have occurred. For example, a cohort study might follow a group of women who have regular Pap tests, and divide them into those who test positive for the human papillomavirus (HPV) and those who test negative for HPV. The cohort study would show how the cervical cancer rates are different for the two groups over time."
+        },
+        {
+          "section": "Case-control studies",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "How do Screening Tests Become Standard Tests?",
+            "The following types of studies are used to get information about cancer screening tests:",
+            "Case-control studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Case-control studies are like cohort studies but are done in a shorter time. They do not include many years of follow-up . Instead of looking forward in time, they look backward. In case-control studies, information is collected from cases (people who already have a certain disease) and compared with information collected from controls (people who do not have the disease). For example, a group of patients with melanoma and a group without melanoma might be asked about how they check their skin for abnormal growths and how often they check it. Based on the different answers from the two groups, the study may show that checking your skin is a useful screening test to decrease the number of melanoma cases and deaths from melanoma.\nEvidence from case-control studies is not as strong as evidence from clinical trials or cohort studies."
+        },
+        {
+          "section": "Ecologic studies",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "How do Screening Tests Become Standard Tests?",
+            "The following types of studies are used to get information about cancer screening tests:",
+            "Ecologic studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Ecologic studies report information collected on entire groups of people, such as people in one city or county. Information is reported about the whole group, not about any single person in the group. These studies may give some evidence about whether a screening test is useful.\nThe evidence from ecologic studies is not as strong as evidence from clinical trials or other types of research studies."
+        },
+        {
+          "section": "Expert opinions",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "How do Screening Tests Become Standard Tests?",
+            "The following types of studies are used to get information about cancer screening tests:",
+            "Expert opinions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Expert opinions can be based on the experiences of doctors or reports of expert committees or panels. Expert opinions do not give strong evidence about the usefulness of screening tests."
+        },
+        {
+          "section": "Screening tests for cancer are being studied in clinical trials.",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "How do Screening Tests Become Standard Tests?",
+            "Screening tests for cancer are being studied in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about cancer screening. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Screening and Prevention Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Screening and Prevention Editorial Board. PDQ Cancer Screening Overview. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389447]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Cancer Screening Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\56e8d269fb45c2356e48.html"
+    }
+  ]
+}

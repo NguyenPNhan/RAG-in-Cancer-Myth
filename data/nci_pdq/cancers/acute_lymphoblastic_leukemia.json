@@ -1,0 +1,940 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Acute Lymphoblastic Leukemia",
+  "generated_at": "2026-08-31T07:15:22.905526+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Acute Lymphoblastic Leukemia",
+      "title": "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Acute Lymphoblastic Leukemia Treatment",
+      "url": "https://www.cancer.gov/types/leukemia/hp/adult-all-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "March 17, 2025",
+      "retrieved_at": "2026-08-31T07:11:16.943723+00:00",
+      "content_sha256": "b4349b8b0f427b7b647c8aefbbf8e44f3ccf130b6969fe853eff0009341de43f",
+      "section_count": 45,
+      "sections": [
+        {
+          "section": "General Information About Acute Lymphoblastic Leukemia (ALL)",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Acute Lymphoblastic Leukemia (ALL)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "ALL (also called acute lymphocytic leukemia) is an aggressive type of leukemia characterized by the presence of too many lymphoblasts or lymphocytes in the bone marrow and peripheral blood. It can spread to the lymph nodes, spleen, liver, central nervous system (CNS), testicles, and other organs. Without treatment, ALL usually progresses quickly.\nSigns and symptoms of ALL may include:\n- Weakness or fatigue.\n- Fever or night sweats.\n- Bruises or bleeds easily (i.e., bleeding gums, purplish patches in the skin, or petechiae [flat, pinpoint spots under the skin]).\n- Shortness of breath.\n- Unexpected weight loss or anorexia.\n- Pain in the bones or joints.\n- Swollen lymph nodes, particularly lymph nodes in the neck, armpit, or groin, which are usually painless.\n- Swelling or discomfort in the abdomen.\n- Frequent infections.\nALL occurs in both children and adults. It is the most common type of cancer in children, and treatment results in a good chance for a cure. For adults, the prognosis is not as optimistic. This summary discusses ALL in adults. For more information, see Childhood Acute Lymphoblastic Leukemia Treatment ."
+        },
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Acute Lymphoblastic Leukemia (ALL)",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Estimated new cases and deaths from ALL in the United States in 2025:[ 1 ]\n- New cases: 6,100.\n- Deaths: 1,400."
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Acute Lymphoblastic Leukemia (ALL)",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "ALL presumably arises from malignant transformation of B- or T-cell progenitor cells.[ 2 ] It is more commonly seen in children but can occur at any age. The disease is characterized by the accumulation of lymphoblasts in the marrow or in various extramedullary sites, frequently accompanied by suppression of normal hematopoiesis. B- and T-cell lymphoblastic leukemia cells express surface antigens that parallel their respective lineage developments. Precursor B-cell ALL cells typically express CD10, CD19, and CD34 on their surface, along with nuclear terminal deoxynucleotide transferase (TdT), while precursor T-cell ALL cells commonly express CD2, CD3, CD7, CD34, and TdT."
+        },
+        {
+          "section": "Molecular Genetics",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Acute Lymphoblastic Leukemia (ALL)",
+            "Molecular Genetics"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Some patients presenting with acute leukemia may have a cytogenetic abnormality that is cytogenetically indistinguishable from the Philadelphia chromosome (Ph).[ 3 ] The Ph occurs in only 1% to 2% of patients with acute myeloid leukemia (AML), but it occurs in about 20% of adults and a small percentage of children with ALL.[ 4 ] In most children and in more than one-half of adults with Ph-positive ALL, the molecular abnormality is different from that in Ph-positive chronic myeloid leukemia (CML).\nMany patients who have molecular evidence of the BCR :: ABL1 fusion gene, which characterizes the Ph, have no evidence of the abnormal chromosome by cytogenetics. The BCR :: ABL1 fusion gene may be detectable only by fluorescence in situ hybridization (FISH) or reverse transcription-polymerase chain reaction (RT-PCR) because many patients have a different fusion protein from the one found in CML (p190 vs. p210). These tests should be performed, whenever possible, in patients with ALL, especially in those with B-cell lineage disease.\nL3 ALL is associated with a variety of translocations that involve the MYC proto-oncogene and the immunoglobulin gene locus t(2;8), t(8;12), and t(8;22)."
+        },
+        {
+          "section": "Diagnosis",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Acute Lymphoblastic Leukemia (ALL)",
+            "Diagnosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Patients with ALL may present with a variety of hematologic abnormalities ranging from pancytopenia to hyperleukocytosis. In addition to a history and physical examination, the initial workup should include:\n- Complete blood count with differential.\n- A chemistry panel (including uric acid, creatinine, blood urea nitrogen, potassium, phosphate, calcium, bilirubin, and hepatic transaminases).\n- Fibrinogen and tests of coagulation as a screen for disseminated intravascular coagulation.\n- A careful screen for evidence of active infection.\nA bone marrow biopsy and aspirate are routinely performed even in T-cell ALL to determine the extent of marrow involvement. Malignant cells should be sent for conventional cytogenetic studies, as detection of the Ph t(9;22), MYC gene rearrangements (in Burkitt leukemia), and KMT2A gene rearrangements add important prognostic information. Flow cytometry should be performed to characterize expression of lineage-defining antigens and determine the specific ALL subtype. In addition, for B-cell disease, the malignant cells should be analyzed using RT-PCR and FISH for evidence of the BCR :: ABL1 fusion gene. This last point is of utmost importance, as timely diagnosis of Ph ALL will significantly change the therapeutic approach.\nDiagnostic confusion with AML, hairy cell leukemia, and malignant lymphoma is not uncommon. Proper diagnosis is crucial because of the difference in prognosis and treatment of ALL and AML. Immunophenotypic analysis is essential because leukemias that do not express myeloperoxidase include M0 AML, M7 AML, and ALL.\nThe examination of bone marrow aspirates and/or biopsy specimens should be done by an experienced oncologist, hematologist, hematopathologist, or general pathologist who is capable of interpreting conventional and specially stained specimens."
+        },
+        {
+          "section": "Prognosis and Survival",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Acute Lymphoblastic Leukemia (ALL)",
+            "Prognosis and Survival"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Factors associated with prognosis in patients with ALL include:\n- Age: Age, a significant factor in childhood ALL and AML, may be an important prognostic factor in adult ALL. In one study, the overall prognosis was better in patients younger than 25 years; another study found a better prognosis in patients younger than 35 years. These findings may, in part, be related to the increased incidence of the Ph in older patients with ALL, a subgroup associated with poor prognosis.[ 5 , 6 ]\n- CNS involvement: As in childhood ALL, adult patients with ALL are at risk of developing CNS involvement during the course of their disease. This is particularly true for patients with L3 (Burkitt) morphology.[ 7 ] This complication influences both treatment and prognosis.\n- Cellular morphology: Patients with L3 morphology showed improved outcomes, as evidenced in a completed Cancer and Leukemia Group B study ( CLB-9251 [NCT00002494]), when treated according to specific treatment algorithms.[ 8 , 9 ] This study found that L3 leukemia can be cured with aggressive, rapidly cycling, lymphoma-like chemotherapy regimens.[ 8 , 10 , 11 ]\n- Chromosomal abnormalities: Chromosomal abnormalities, including aneuploidy and translocations, have been described and may correlate with prognosis.[ 12 ] In particular, patients with Ph-positive t(9;22) ALL have a poor prognosis and represent more than 30% of adult cases. Patients with leukemia and a BCR :: ABL1 fusion gene who do not demonstrate the classical Ph carry a poor prognosis similar to those who are Ph positive. Patients with Ph-positive ALL are rarely cured with chemotherapy, although long-term survival is now routinely reported when such patients are treated with combinations of chemotherapy and BCR::ABL1 tyrosine kinase inhibitors. Two other chromosomal abnormalities associated with a poor prognosis are t(4;11), which is characterized by rearrangements of the KMT2A gene and may be rearranged despite normal cytogenetics, and t(9;22). In addition to t(4;11) and t(9;22), compared with patients with a normal karyotype, patients with deletion of chromosome 7 or trisomy 8 have been reported to have a lower probability of survival at 5 years.[ 13 ] In a multivariate analysis, karyotype was the most important predictor of disease-free survival.[ 13 ][ Level of evidence C2 ]"
+        },
+        {
+          "section": "Late Effects of Treatment for ALL",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Acute Lymphoblastic Leukemia (ALL)",
+            "Late Effects of Treatment for ALL"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Long-term follow-up of 30 patients with ALL in remission for at least 10 years has demonstrated ten cases of secondary malignancies. Of 31 long-term female survivors of ALL or AML younger than 40 years, 26 resumed normal menstruation following completion of therapy. Among 36 live offspring of survivors, two congenital problems occurred.[ 14 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Acute Lymphoblastic Leukemia (ALL)",
+            "Late Effects of Treatment for ALL",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "- American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. Available online . Last accessed January 16, 2025.\n- Pui CH, Jeha S: New therapeutic strategies for the treatment of acute lymphoblastic leukaemia. Nat Rev Drug Discov 6 (2): 149-65, 2007. [PUBMED Abstract]\n- Peterson LC, Bloomfield CD, Brunning RD: Blast crisis as an initial or terminal manifestation of chronic myeloid leukemia: a study of 28 patients. Am J Med 60(2): 209-220, 1976.\n- Secker-Walker LM, Cooke HM, Browett PJ, et al.: Variable Philadelphia breakpoints and potential lineage restriction of bcr rearrangement in acute lymphoblastic leukemia. Blood 72 (2): 784-91, 1988. [PUBMED Abstract]\n- Gaynor J, Chapman D, Little C, et al.: A cause-specific hazard rate analysis of prognostic factors among 199 adults with acute lymphoblastic leukemia: the Memorial Hospital experience since 1969. J Clin Oncol 6 (6): 1014-30, 1988. [PUBMED Abstract]\n- Hoelzer D, Thiel E, Löffler H, et al.: Prognostic factors in a multicenter study for treatment of acute lymphoblastic leukemia in adults. Blood 71 (1): 123-31, 1988. [PUBMED Abstract]\n- Kantarjian HM, Walters RS, Smith TL, et al.: Identification of risk groups for development of central nervous system leukemia in adults with acute lymphocytic leukemia. Blood 72 (5): 1784-9, 1988. [PUBMED Abstract]\n- Lee EJ, Petroni GR, Schiffer CA, et al.: Brief-duration high-intensity chemotherapy for patients with small noncleaved-cell lymphoma or FAB L3 acute lymphocytic leukemia: results of cancer and leukemia group B study 9251. J Clin Oncol 19 (20): 4014-22, 2001. [PUBMED Abstract]\n- Hoelzer D, Ludwig WD, Thiel E, et al.: Improved outcome in adult B-cell acute lymphoblastic leukemia. Blood 87 (2): 495-508, 1996. [PUBMED Abstract]\n- Fenaux P, Lai JL, Miaux O, et al.: Burkitt cell acute leukaemia (L3 ALL) in adults: a report of 18 cases. Br J Haematol 71 (3): 371-6, 1989. [PUBMED Abstract]\n- Reiter A, Schrappe M, Ludwig WD, et al.: Favorable outcome of B-cell acute lymphoblastic leukemia in childhood: a report of three consecutive studies of the BFM group. Blood 80 (10): 2471-8, 1992. [PUBMED Abstract]\n- Chromosomal abnormalities and their clinical significance in acute lymphoblastic leukemia. Third International Workshop on Chromosomes in Leukemia. Cancer Res 43 (2): 868-73, 1983. [PUBMED Abstract]\n- Wetzler M, Dodge RK, Mrózek K, et al.: Prospective karyotype analysis in adult acute lymphoblastic leukemia: the cancer and leukemia Group B experience. Blood 93 (11): 3983-93, 1999. [PUBMED Abstract]\n- Micallef IN, Rohatiner AZ, Carter M, et al.: Long-term outcome of patients surviving for more than ten years following treatment for acute leukaemia. Br J Haematol 113 (2): 443-5, 2001. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of ALL",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of ALL"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "The following leukemic cell characteristics are important:\n- Morphological features.\n- Cytogenetic characteristics.\n- Immunologic cell surface and biochemical markers.\n- Cytochemistry.\nIn adults, French-American-British (FAB) L1 morphology (more mature-appearing lymphoblasts) is present in fewer than 50% of patients, and L2 morphology (more immature and pleomorphic) predominates.[ 1 ] L3 (Burkitt) acute lymphoblastic leukemia (ALL) is much less common than the other two FAB subtypes. It is characterized by blasts with cytoplasmic vacuolizations and surface expression of immunoglobulin, and the bone marrow often has an appearance described as a starry sky owing to the presence of numerous apoptotic cells. L3 ALL is associated with a variety of translocations that involve the MYC proto-oncogene and the immunoglobulin gene locus t(2;8), t(8;12), and t(8;22).\nSome patients presenting with acute leukemia may have a cytogenetic abnormality that is morphologically indistinguishable from the Philadelphia chromosome (Ph).[ 2 ] The Ph occurs in only 1% to 2% of patients with acute myeloid leukemia (AML), but it occurs in about 20% of adults and a small percentage of children with ALL.[ 3 ] In most children and in more than one-half of adults with Ph-positive ALL, the molecular abnormality is different from that in Ph-positive chronic myeloid leukemia (CML).\nMany patients who have molecular evidence of the BCR :: ABL1 fusion gene, which characterizes the Ph, have no evidence of the abnormal chromosome by cytogenetics. The BCR :: ABL1 fusion gene may be detectable only by pulsed-field gel electrophoresis or reverse transcription-polymerase chain reaction because many patients have a different fusion protein from the one found in CML (p190 vs. p210).\nUsing heteroantisera and monoclonal antibodies, ALL cells can be divided into several subtypes (see Table 1 ).[ 1 , 4 - 6 ]\nCell Subtype | Approximate Frequency\nEarly B-cell lineage | 80%\nT cells | 10%–15%\nB cells with surface immunoglobulins | <5%\nAbout 95% of all types of ALL (except Burkitt, which usually has an L3 morphology by the FAB classification) have elevated terminal deoxynucleotidyl transferase (TdT) expression. This elevation is extremely useful in diagnosis; if concentrations of the enzyme are not elevated, the diagnosis of ALL is suspect. However, 20% of cases of AML may express TdT; therefore, its usefulness as a lineage marker is limited. Because Burkitt leukemias are managed according to different treatment algorithms, it is important to specifically identify these cases prospectively by their L3 morphology, absence of TdT, and expression of surface immunoglobulin. Patients with Burkitt leukemias will typically have one of the following three chromosomal translocations:\n- t(8;14).\n- t(2;8).\n- t(8;22)."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of ALL",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Brearley RL, Johnson SA, Lister TA: Acute lymphoblastic leukaemia in adults: clinicopathological correlations with the French-American-British (FAB) co-operative group classification. Eur J Cancer 15 (6): 909-14, 1979. [PUBMED Abstract]\n- Peterson LC, Bloomfield CD, Brunning RD: Blast crisis as an initial or terminal manifestation of chronic myeloid leukemia: a study of 28 patients. Am J Med 60(2): 209-220, 1976.\n- Secker-Walker LM, Cooke HM, Browett PJ, et al.: Variable Philadelphia breakpoints and potential lineage restriction of bcr rearrangement in acute lymphoblastic leukemia. Blood 72 (2): 784-91, 1988. [PUBMED Abstract]\n- Hoelzer D, Thiel E, Löffler H, et al.: Prognostic factors in a multicenter study for treatment of acute lymphoblastic leukemia in adults. Blood 71 (1): 123-31, 1988. [PUBMED Abstract]\n- Sobol RE, Royston I, LeBien TW, et al.: Adult acute lymphoblastic leukemia phenotypes defined by monoclonal antibodies. Blood 65 (3): 730-5, 1985. [PUBMED Abstract]\n- Foon KA, Billing RJ, Terasaki PI, et al.: Immunologic classification of acute lymphoblastic leukemia. Implications for normal lymphoid differentiation. Blood 56 (6): 1120-6, 1980. [PUBMED Abstract]"
+        },
+        {
+          "section": "Stage Information for ALL",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for ALL"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "There is no distinct staging system for acute lymphoblastic leukemia (ALL). This disease is classified as untreated, in remission, or recurrent."
+        },
+        {
+          "section": "Untreated ALL",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for ALL",
+            "Untreated ALL"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "For a newly diagnosed patient with no prior treatment, untreated ALL is defined by:\n- Abnormal white blood cell count and differential.\n- Abnormal hematocrit/hemoglobin and platelet counts.\n- Abnormal bone marrow with more than 5% blasts.\n- Signs and symptoms of the disease."
+        },
+        {
+          "section": "ALL in Remission",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for ALL",
+            "ALL in Remission"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "A patient who has received remission-induction treatment of ALL is in remission if all of the following criteria are met:\n- Bone marrow is normocellular with no more than 5% blasts.\n- There are no signs or symptoms of the disease.\n- There are no signs or symptoms of central nervous system leukemia or other extramedullary infiltration.\n- All of the following laboratory values are within the reference ranges:\n- White blood cell count and differential.\n- Hematocrit/hemoglobin level.\n- Platelet count."
+        },
+        {
+          "section": "Treatment Option Overview for ALL",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for ALL"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "Successful treatment of acute lymphoblastic leukemia (ALL) consists of the control of bone marrow and systemic disease and the treatment (or prevention) of sanctuary-site disease, particularly the central nervous system (CNS).[ 1 , 2 ] The cornerstone of this strategy includes systemically administered combination chemotherapy with CNS preventive therapy. CNS prophylaxis is achieved with chemotherapy (intrathecal and/or high-dose systemic therapy) and, in some cases, cranial radiation therapy.\nTreatment is divided into three phases:\n- Remission induction.\n- CNS prophylaxis.\n- Consolidation (also called remission continuation or maintenance).\nThe average length of treatment for ALL ranges from 1.5 to 3 years in the effort to eradicate the leukemic cell population. Younger adults with ALL may be eligible for selected clinical trials for childhood ALL. For more information, see the Adolescents and Young Adults With ALL section in Childhood Acute Lymphoblastic Leukemia Treatment.\nEntry into a clinical trial is highly desirable to ensure adequate patient treatment and maximal information retrieval from the treatment of this highly responsive, but usually fatal, disease.\nDisease Status | Treatment Options\nBMT = bone marrow transplant; CNS = central nervous system.\nUntreated ALL | Remission induction therapy\nCNS prophylaxis therapy\nALL in remission | Consolidation therapy\nCNS prophylaxis therapy\nRecurrent ALL | Reinduction chemotherapy followed by allogeneic BMT\nBlinatumomab followed by allogeneic BMT\nInotuzumab ozogamicin followed by allogeneic BMT\nPalliative radiation therapy\nDasatinib\nRevumenib"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for ALL",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Clarkson BD, Gee T, Arlin ZA, et al.: Current status of treatment of acute leukemia in adults: an overview of the Memorial experience and review of literature. Crit Rev Oncol Hematol 4 (3): 221-48, 1986. [PUBMED Abstract]\n- Hoelzer D, Gale RP: Acute lymphoblastic leukemia in adults: recent progress, future directions. Semin Hematol 24 (1): 27-39, 1987. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Untreated ALL",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Untreated ALL",
+            "Treatment Options for Untreated ALL"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Treatment options for untreated acute lymphoblastic leukemia (ALL) include:\n- Remission induction therapy , including:\n- Combination chemotherapy.\n- Imatinib mesylate (for patients with Philadelphia chromosome [Ph]–positive ALL).\n- Imatinib mesylate combined with combination chemotherapy (for patients with Ph-positive ALL).\n- Supportive care.\n- Central nervous system (CNS) prophylaxis therapy , including:\n- Cranial radiation therapy plus intrathecal (IT) methotrexate.\n- High-dose systemic methotrexate and IT methotrexate without cranial radiation therapy.\n- IT chemotherapy alone."
+        },
+        {
+          "section": "Remission induction therapy",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Untreated ALL",
+            "Treatment Options for Untreated ALL",
+            "Remission induction therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Sixty percent to 80% of adults with ALL usually achieve a complete remission after appropriate induction therapy. Appropriate initial treatment, usually consisting of a regimen that includes the combination of vincristine, prednisone, and an anthracycline, with or without asparaginase, results in a complete response rate of up to 80%. In patients with Ph-positive ALL, the remission rate is generally greater than 90% when standard induction regimens are combined with BCR::ABL1 tyrosine kinase inhibitors. In the largest study published to date of Ph-positive ALL patients, 1,913 adult patients with ALL had a 5-year overall survival (OS) rate of 39%.[ 1 ]\nPatients who experience a relapse after remission usually die within 1 year, even if a second complete remission is achieved. If there are appropriate available donors and if the patient is younger than 55 years, bone marrow transplant may be considered.[ 2 ] Transplant centers performing five or fewer transplants annually usually have poorer results than larger centers.[ 3 ] If allogeneic transplant is considered, it is recommended to avoid transfusions with blood products from a potential donor.[ 4 - 10 ]"
+        },
+        {
+          "section": "Combination chemotherapy",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Untreated ALL",
+            "Treatment Options for Untreated ALL",
+            "Remission induction therapy",
+            "Combination chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Most current induction regimens for patients with adult ALL include combination chemotherapy with prednisone, vincristine, and an anthracycline. Some regimens, including those used in a Cancer and Leukemia Group B (CALGB) study (CLB-8811), also add other drugs, such as asparaginase or cyclophosphamide. Current multiagent induction regimens result in complete response rates that range from 60% to 90%.[ 1 , 4 , 5 , 11 , 12 ]"
+        },
+        {
+          "section": "Imatinib mesylate",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Untreated ALL",
+            "Treatment Options for Untreated ALL",
+            "Remission induction therapy",
+            "Imatinib mesylate"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "Imatinib mesylate is often incorporated into the therapeutic plan for patients with Ph-positive ALL. Imatinib mesylate, an orally available inhibitor of the BCR::ABL1 tyrosine kinase, has shown clinical activity as a single agent in Ph-positive ALL.[ 13 , 14 ][ Level of evidence C3 ] More commonly, particularly in younger patients, imatinib is incorporated into combination chemotherapy regimens. There are several published single-arm studies in which the complete response rate and survival rate are compared with historical controls.\nEvidence (imatinib mesylate):\nSeveral studies have suggested that the addition of imatinib to conventional combination chemotherapy induction regimens results in complete response rates, event-free survival rates, and OS rates that are higher than those in historical controls.[ 15 - 17 ] At the present time, no conclusions can be drawn regarding the optimal imatinib dose or schedule.\n- In a study of imatinib combined with chemotherapy from the Northern Italy Leukemia Group, patients with newly diagnosed, untreated Ph-positive ALL were treated with an induction regimen containing idarubicin, vincristine, prednisone, and L-asparaginase.[ 18 ] After accrual of an initial cohort, the study was modified to include the use of imatinib (600 mg qd from days 15 to 21). In consolidation, patients received imatinib (600 mg qd for 7 days) beginning 3 days before the start of each course of chemotherapy.\n- For all patients who achieved remission, the intent was to proceed to allogeneic transplant when and if an HLA-matched donor could be identified. Patients lacking a donor received an autologous transplant. After completion of chemotherapy and transplant, all patients were to receive maintenance imatinib for as long as tolerated. After 20 patients had accrued to the imatinib arm, L-asparaginase was omitted from the induction regimen from both arms because of toxicity.\n- Outcomes for the first cohort of 35 patients who did not receive imatinib were compared with those of the subsequent cohort of 59 imatinib-treated patients. For patients treated with imatinib, the OS probability was 38% at 5 years (median, 3.1 years) versus 23% in the imatinib-free group (median, 1.1 year; P = .009).[ 18 ][ Level of evidence C1 ]\n- The drawbacks of this nonrandomized study were the small sample size (94 total patients) and the change in the treatment regimen (omission of L-asparaginase) midway through the study. However, the results suggested that inclusion of imatinib into a relatively standard chemotherapy regimen for newly diagnosed adult patients with Ph-positive ALL may provide a significant survival advantage.\n- In another study, ten patients with Ph-positive ALL and ten patients with chronic myeloid leukemia in lymphoid blast crisis were treated with doses of imatinib ranging from 300 mg to 1,000 mg per day.[ 13 ]\n- Of these 20 patients, four had complete hematologic remission and ten had marrow responses.\n- Responses were short lived, with most of these patients experiencing disease relapse at a median of 58 days after the start of therapy.\n- In another study, 48 patients with Ph-positive ALL were treated with 400 mg to 800 mg of imatinib per day.[ 14 ]\n- The overall response rate was 60%, with 9 out of 48 patients (19%) achieving a complete remission.\n- The responses again were short, with a median duration of 2.2 months.\nIn each of these studies, common toxicities were nausea and liver enzyme abnormalities, which necessitated interruption and/or dose reduction of imatinib.[ 13 , 14 ] Subsequent allogeneic transplant does not appear to be adversely affected by the addition of imatinib to the treatment regimen. For more information, see Nausea and Vomiting Related to Cancer Treatment .\nImatinib is generally incorporated into the treatment of patients with Ph-positive ALL because of the responses observed in monotherapy trials. If a suitable donor is available, allogeneic bone marrow transplant should be considered because remissions are generally short with conventional ALL chemotherapy clinical trials."
+        },
+        {
+          "section": "Supportive care",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Untreated ALL",
+            "Treatment Options for Untreated ALL",
+            "Remission induction therapy",
+            "Supportive care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Since myelosuppression is an anticipated consequence of both leukemia and its treatment with chemotherapy, patients must be closely monitored during remission induction treatment. Facilities must be available for hematologic support and for the treatment of infectious complications.\nSupportive care during remission induction treatment should routinely include red blood cell and platelet transfusions, when appropriate.[ 19 , 20 ]\nEvidence (supportive care):\n- Randomized clinical trials have shown similar outcomes for patients who received prophylactic platelet transfusions at a level of 10,000/mm 3 rather than at a level of 20,000/mm 3 .[ 21 ]\n- The incidence of platelet alloimmunization was similar among groups randomly assigned to receive one of the following from random donors:[ 22 ]\n- Pooled platelet concentrates.\n- Filtered, pooled platelet concentrates.\n- Ultraviolet B-irradiated, pooled platelet concentrates.\n- Filtered platelets obtained by apheresis.\nEmpiric broad-spectrum antimicrobial therapy is an absolute necessity for febrile patients who are profoundly neutropenic.[ 23 , 24 ] Careful instruction in personal hygiene and dental care and in recognizing early signs of infection are appropriate for all patients. Elaborate isolation facilities, including filtered air, sterile food, and gut flora sterilization, are not routinely indicated but may benefit patients undergoing transplants.[ 25 , 26 ]\nRapid marrow ablation with consequent earlier marrow regeneration decreases morbidity and mortality. White blood cell transfusions can be beneficial in selected patients with aplastic marrow and serious infections that are not responding to antibiotics.[ 27 ] Prophylactic oral antibiotics may be appropriate in patients with expected prolonged, profound granulocytopenia (<100/mm 3 for 2 weeks), although further studies are necessary.[ 28 ] Serial surveillance cultures may be helpful in detecting the presence or acquisition of resistant organisms in these patients.\nAs suggested in a CALGB study (CLB-9111), the use of myeloid growth factors during remission-induction therapy appears to decrease the time to hematopoietic reconstitution.[ 29 , 30 ]"
+        },
+        {
+          "section": "CNS prophylaxis therapy",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Untreated ALL",
+            "Treatment Options for Untreated ALL",
+            "CNS prophylaxis therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The early institution of CNS prophylaxis is critical to achieve control of sanctuary disease."
+        },
+        {
+          "section": "Special Considerations for B-Cell and T-Cell ALL",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Untreated ALL",
+            "Special Considerations for B-Cell and T-Cell ALL"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Two additional subtypes of ALL require special consideration. B-cell ALL, which expresses surface immunoglobulin and cytogenetic abnormalities such as t(8;14), t(2;8), and t(8;22), is not usually cured with typical ALL regimens. Aggressive, brief-duration, high-intensity regimens, including those previously used in CLB-9251 (NCT00002494), that are similar to those used in aggressive non-Hodgkin lymphoma have shown high response rates and cure rates (75% complete response rate; 40% failure-free survival rate).[ 31 - 33 ] Similarly, T-cell ALL, including lymphoblastic lymphoma, has shown high cure rates when treated with cyclophosphamide-containing regimens.[ 4 ]\nWhenever possible, patients with B-cell or T-cell ALL should enroll in clinical trials designed to improve the outcomes in these subsets."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Untreated ALL",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Untreated ALL",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 33,
+          "text": "- Goldstone AH, Richards SM, Lazarus HM, et al.: In adults with standard-risk acute lymphoblastic leukemia, the greatest benefit is achieved from a matched sibling allogeneic transplantation in first complete remission, and an autologous transplantation is less effective than conventional consolidation/maintenance chemotherapy in all patients: final results of the International ALL Trial (MRC UKALL XII/ECOG E2993). Blood 111 (4): 1827-33, 2008. [PUBMED Abstract]\n- Bortin MM, Horowitz MM, Gale RP, et al.: Changing trends in allogeneic bone marrow transplantation for leukemia in the 1980s. JAMA 268 (5): 607-12, 1992. [PUBMED Abstract]\n- Horowitz MM, Przepiorka D, Champlin RE, et al.: Should HLA-identical sibling bone marrow transplants for leukemia be restricted to large centers? Blood 79 (10): 2771-4, 1992. [PUBMED Abstract]\n- Larson RA, Dodge RK, Burns CP, et al.: A five-drug remission induction regimen with intensive consolidation for adults with acute lymphoblastic leukemia: cancer and leukemia group B study 8811. Blood 85 (8): 2025-37, 1995. [PUBMED Abstract]\n- Linker CA, Levitt LJ, O'Donnell M, et al.: Treatment of adult acute lymphoblastic leukemia with intensive cyclical chemotherapy: a follow-up report. Blood 78 (11): 2814-22, 1991. [PUBMED Abstract]\n- Barrett AJ, Horowitz MM, Gale RP, et al.: Marrow transplantation for acute lymphoblastic leukemia: factors affecting relapse and survival. Blood 74 (2): 862-71, 1989. [PUBMED Abstract]\n- Dinsmore R, Kirkpatrick D, Flomenberg N, et al.: Allogeneic bone marrow transplantation for patients with acute lymphoblastic leukemia. Blood 62 (2): 381-8, 1983. [PUBMED Abstract]\n- Jacobs AD, Gale RP: Recent advances in the biology and treatment of acute lymphoblastic leukemia in adults. N Engl J Med 311 (19): 1219-31, 1984. [PUBMED Abstract]\n- Doney K, Buckner CD, Kopecky KJ, et al.: Marrow transplantation for patients with acute lymphoblastic leukemia in first marrow remission. Bone Marrow Transplant 2 (4): 355-63, 1987. [PUBMED Abstract]\n- Vernant JP, Marit G, Maraninchi D, et al.: Allogeneic bone marrow transplantation in adults with acute lymphoblastic leukemia in first complete remission. J Clin Oncol 6 (2): 227-31, 1988. [PUBMED Abstract]\n- Hoelzer D, Thiel E, Löffler H, et al.: Prognostic factors in a multicenter study for treatment of acute lymphoblastic leukemia in adults. Blood 71 (1): 123-31, 1988. [PUBMED Abstract]\n- Kantarjian H, Thomas D, O'Brien S, et al.: Long-term follow-up results of hyperfractionated cyclophosphamide, vincristine, doxorubicin, and dexamethasone (Hyper-CVAD), a dose-intensive regimen, in adult acute lymphocytic leukemia. Cancer 101 (12): 2788-801, 2004. [PUBMED Abstract]\n- Druker BJ, Sawyers CL, Kantarjian H, et al.: Activity of a specific inhibitor of the BCR-ABL tyrosine kinase in the blast crisis of chronic myeloid leukemia and acute lymphoblastic leukemia with the Philadelphia chromosome. N Engl J Med 344 (14): 1038-42, 2001. [PUBMED Abstract]\n- Ottmann OG, Druker BJ, Sawyers CL, et al.: A phase 2 study of imatinib in patients with relapsed or refractory Philadelphia chromosome-positive acute lymphoid leukemias. Blood 100 (6): 1965-71, 2002. [PUBMED Abstract]\n- Thomas DA, Faderl S, Cortes J, et al.: Treatment of Philadelphia chromosome-positive acute lymphocytic leukemia with hyper-CVAD and imatinib mesylate. Blood 103 (12): 4396-407, 2004. [PUBMED Abstract]\n- Yanada M, Takeuchi J, Sugiura I, et al.: High complete remission rate and promising outcome by combination of imatinib and chemotherapy for newly diagnosed BCR-ABL-positive acute lymphoblastic leukemia: a phase II study by the Japan Adult Leukemia Study Group. J Clin Oncol 24 (3): 460-6, 2006. [PUBMED Abstract]\n- Wassmann B, Pfeifer H, Goekbuget N, et al.: Alternating versus concurrent schedules of imatinib and chemotherapy as front-line therapy for Philadelphia-positive acute lymphoblastic leukemia (Ph+ ALL). Blood 108 (5): 1469-77, 2006. [PUBMED Abstract]\n- Bassan R, Rossi G, Pogliani EM, et al.: Chemotherapy-phased imatinib pulses improve long-term outcome of adult patients with Philadelphia chromosome-positive acute lymphoblastic leukemia: Northern Italy Leukemia Group protocol 09/00. J Clin Oncol 28 (22): 3644-52, 2010. [PUBMED Abstract]\n- Slichter SJ: Controversies in platelet transfusion therapy. Annu Rev Med 31: 509-40, 1980. [PUBMED Abstract]\n- Murphy MF, Metcalfe P, Thomas H, et al.: Use of leucocyte-poor blood components and HLA-matched-platelet donors to prevent HLA alloimmunization. Br J Haematol 62 (3): 529-34, 1986. [PUBMED Abstract]\n- Rebulla P, Finazzi G, Marangoni F, et al.: The threshold for prophylactic platelet transfusions in adults with acute myeloid leukemia. Gruppo Italiano Malattie Ematologiche Maligne dell'Adulto. N Engl J Med 337 (26): 1870-5, 1997. [PUBMED Abstract]\n- Leukocyte reduction and ultraviolet B irradiation of platelets to prevent alloimmunization and refractoriness to platelet transfusions. The Trial to Reduce Alloimmunization to Platelets Study Group. N Engl J Med 337 (26): 1861-9, 1997. [PUBMED Abstract]\n- Hughes WT, Armstrong D, Bodey GP, et al.: From the Infectious Diseases Society of America. Guidelines for the use of antimicrobial agents in neutropenic patients with unexplained fever. J Infect Dis 161 (3): 381-96, 1990. [PUBMED Abstract]\n- Rubin M, Hathorn JW, Pizzo PA: Controversies in the management of febrile neutropenic cancer patients. Cancer Invest 6 (2): 167-84, 1988. [PUBMED Abstract]\n- Armstrong D: Symposium on infectious complications of neoplastic disease (Part II). Protected environments are discomforting and expensive and do not offer meaningful protection. Am J Med 76 (4): 685-9, 1984. [PUBMED Abstract]\n- Sherertz RJ, Belani A, Kramer BS, et al.: Impact of air filtration on nosocomial Aspergillus infections. Unique risk of bone marrow transplant recipients. Am J Med 83 (4): 709-18, 1987. [PUBMED Abstract]\n- Schiffer CA: Granulocyte transfusions: an overlooked therapeutic modality. Transfus Med Rev 4 (1): 2-7, 1990. [PUBMED Abstract]\n- Wade JC, Schimpff SC, Hargadon MT, et al.: A comparison of trimethoprim-sulfamethoxazole plus nystatin with gentamicin plus nystatin in the prevention of infections in acute leukemia. N Engl J Med 304 (18): 1057-62, 1981. [PUBMED Abstract]\n- Scherrer R, Geissler K, Kyrle PA, et al.: Granulocyte colony-stimulating factor (G-CSF) as an adjunct to induction chemotherapy of adult acute lymphoblastic leukemia (ALL). Ann Hematol 66 (6): 283-9, 1993. [PUBMED Abstract]\n- Larson RA, Dodge RK, Linker CA, et al.: A randomized controlled trial of filgrastim during remission induction and consolidation chemotherapy for adults with acute lymphoblastic leukemia: CALGB study 9111. Blood 92 (5): 1556-64, 1998. [PUBMED Abstract]\n- Hoelzer D, Ludwig WD, Thiel E, et al.: Improved outcome in adult B-cell acute lymphoblastic leukemia. Blood 87 (2): 495-508, 1996. [PUBMED Abstract]\n- Lee EJ, Petroni GR, Schiffer CA, et al.: Brief-duration high-intensity chemotherapy for patients with small noncleaved-cell lymphoma or FAB L3 acute lymphocytic leukemia: results of cancer and leukemia group B study 9251. J Clin Oncol 19 (20): 4014-22, 2001. [PUBMED Abstract]\n- Thomas DA, Cortes J, O'Brien S, et al.: Hyper-CVAD program in Burkitt's-type adult acute lymphoblastic leukemia. J Clin Oncol 17 (8): 2461-70, 1999. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for ALL in Remission",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of ALL in Remission",
+            "Treatment Options for ALL in Remission"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment options for acute lymphoblastic leukemia (ALL) in remission include:\n- Consolidation therapy , including:\n- Chemotherapy.\n- Ongoing treatment with a BCR::ABL1 tyrosine kinase inhibitor, such as imatinib, nilotinib, or dasatinib.\n- Autologous or allogeneic bone marrow transplant (BMT).\n- Central nervous system (CNS) prophylaxis therapy , including:\n- Cranial radiation therapy plus intrathecal (IT) methotrexate.\n- High-dose systemic methotrexate and IT methotrexate without cranial radiation therapy.\n- IT chemotherapy alone."
+        },
+        {
+          "section": "Consolidation therapy",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of ALL in Remission",
+            "Treatment Options for ALL in Remission",
+            "Consolidation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 29,
+          "text": "Current approaches to consolidation therapy for ALL include short-term, relatively intensive chemotherapy followed by:\n- Longer-term therapy at lower doses (maintenance therapy).\n- Allogeneic BMT.\nBecause the optimal consolidation therapy for patients with ALL is still unclear, patients should consider participating in clinical trials. For more information, see the Treatment of Diffuse Small Noncleaved-Cell/Burkitt Lymphoma section in Aggressive B-Cell Non-Hodgkin Lymphoma Treatment.\nEvidence (chemotherapy):\n- Several trials, including studies from the Cancer and Leukemia Group B (CLB-8811) and the completed European Cooperative Oncology Group ( ECOG-2993 [NCT00002514]), of aggressive consolidation chemotherapy for ALL have confirmed a long-term disease-free survival (DFS) rate of approximately 40%.[ 1 - 7 ]\n- In two series,[ 4 , 5 ] especially good prognoses were found for patients with T-cell lineage ALL, with DFS rates of 50% to 70% for patients receiving consolidation therapy.\n- These series represent a significant improvement in DFS rates over previous, less intensive chemotherapeutic approaches.\n- In contrast, poor cure rates were demonstrated in patients with Philadelphia chromosome (Ph)–positive ALL, B-cell lineage ALL with an L3 phenotype (surface immunoglobulin positive), and B-cell lineage ALL characterized by t(4;11).\nAdministration of the newer dose-intensive schedules can be difficult and should be performed by physicians experienced in these regimens at centers equipped to deal with potential complications. In studies that eliminated continuation or maintenance chemotherapy, patients had outcomes inferior to those of patients in studies with extended treatment durations.[ 8 , 9 ] Imatinib has been incorporated into maintenance regimens in patients with Ph-positive ALL.[ 10 - 12 ]\nEvidence (allogeneic and autologous BMT):\nAllogeneic BMT results in the lowest incidence of leukemic relapse, even when compared with a BMT from an identical twin (syngeneic BMT). This finding has led to the concept of an immunologic graft-versus-leukemia effect similar to graft-versus-host disease (GVHD). The improvement in DFS in patients undergoing allogeneic BMT as primary consolidation therapy is offset, in part, by the increased morbidity and mortality from GVHD, veno-occlusive disease of the liver, and interstitial pneumonitis.[ 13 ]\n- The results of a series of retrospective and prospective studies published between 1987 and 1994 suggest that allogeneic BMT or autologous BMT as consolidation therapy offer no survival advantage over intensive chemotherapy, except perhaps for patients with high-risk or Ph-positive ALL.[ 14 - 17 ] This was confirmed in the ECOG-2993 study (NCT01505699).[ 7 ]\n- The use of allogeneic BMT as primary consolidation therapy is limited by both the need for an HLA-matched sibling donor and the increased mortality from allogeneic BMT in patients in their fifth or sixth decade.\n- The mortality from allogeneic BMT using an HLA-matched sibling donor in these studies ranged from 20% to 40%.\n- Following on the results of earlier studies, the International ALL Trial (ECOG-2993) was launched to examine the role of transplant as consolidation therapy for ALL more definitively. Patients were accrued from 1993 to 2006.[ 7 ] Patients with Ph-negative ALL between the ages of 15 years and 59 years received identical multiagent induction therapy resembling previously published regimens.[ 1 - 3 ] Patients in remission were then eligible for HLA typing; patients with a fully matched sibling donor underwent allogeneic BMT as consolidation therapy. Patients without a donor were randomly assigned to receive either an autologous BMT or maintenance chemotherapy. The primary outcome measured was overall survival (OS). Event-free survival, relapse rate, and nonrelapse mortality were secondary outcomes. A total of 1,929 patients were registered and stratified according to age, white blood cell (WBC) count, and time to remission. High-risk patients were defined as those having a high WBC count at presentation or those older than 35 years.\n- Ninety percent of patients in this study achieved remission after induction therapy. Of these patients, 443 had an HLA-identical sibling, 310 of whom underwent an allogeneic BMT. For the 456 patients in remission who were eligible for transplant but lacked a donor, 227 received chemotherapy alone, while 229 underwent an autologous BMT.\n- By donor-to-no-donor analysis, standard-risk ALL patients with an HLA-identical sibling had a 5-year OS rate of 53%, compared with 45% for patients lacking a donor ( P = .01).\n- In a subgroup analysis, the advantage for patients with standard-risk ALL who had donors remained significant (OS rate, 62% vs. 52%; P = .02).\n- For patients with high-risk disease (older than 35 years or high WBC count), the difference in OS was 41% versus 35% (donor vs. no donor) but was not significant ( P = .2).\n- Relapse rates were significantly lower ( P < .00005) for both standard- and high-risk patients with HLA-matched donors.\n- In contrast to allogeneic BMT, autologous BMT was less effective than maintenance chemotherapy as consolidation treatment (5-year OS rate, 46% for chemotherapy vs. 37% for autologous BMT; P = .03).\n- The results of this trial suggest the existence of a graft-versus-leukemia effect for adult Ph-negative ALL and support the use of sibling donor allogeneic BMT as the consolidation therapy providing the greatest chance for long-term survival for patients with standard-risk adult ALL in first remission.[ 7 ][ Level of evidence B4 ]\n- The results also suggest that in the absence of a sibling donor, maintenance chemotherapy is preferable to autologous BMT as consolidation therapy.[ 7 ][ Level of evidence B4 ]\nThe use of matched unrelated donors for allogeneic BMT is currently under evaluation. However, because of its current high treatment-related morbidity and mortality, allogeneic BMT is reserved for patients in second remission or beyond. The dose of total-body radiation therapy administered is associated with the incidence of acute and chronic GVHD and may be an independent predictor of leukemia-free survival.[ 18 ][ Level of evidence C1 ]\nEvidence (B-cell ALL):\nAggressive cyclophosphamide-based regimens similar to those used in aggressive non-Hodgkin lymphoma have shown improved outcome of prolonged DFS for patients with B-cell ALL (L3 morphology, surface immunoglobulin positive).[ 19 ]\n- One group of investigators retrospectively reviewed three sequential cooperative group trials from Germany and found the following results:[ 19 ]\n- A marked improvement in survival, from zero survivors in a 1981 study that used standard pediatric therapy and lasted 2.5 years, to a 50% survival rate in two subsequent trials that used rapidly alternating lymphoma-like chemotherapy and were completed within 6 months."
+        },
+        {
+          "section": "CNS prophylaxis therapy",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of ALL in Remission",
+            "Treatment Options for ALL in Remission",
+            "CNS prophylaxis therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The early institution of CNS prophylaxis is critical to achieve control of sanctuary disease. Some authors have suggested that there is a subgroup of patients at low risk of CNS relapse for whom CNS prophylaxis may not be necessary. However, this concept has not been tested prospectively.[ 20 ]\nAggressive CNS prophylaxis remains a prominent component of treatment.[ 19 ] This report, which requires confirmation in other cooperative group settings, is encouraging for patients with L3 ALL. Patients with surface immunoglobulin and L1 or L2 morphology did not benefit from this regimen. Similarly, patients with L3 morphology and immunophenotype, but unusual cytogenetic features, were not cured with this approach. A WBC count of less than 50,000 per microliter predicted improved leukemia-free survival in a univariate analysis."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of ALL in Remission",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of ALL in Remission",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "- Gaynor J, Chapman D, Little C, et al.: A cause-specific hazard rate analysis of prognostic factors among 199 adults with acute lymphoblastic leukemia: the Memorial Hospital experience since 1969. J Clin Oncol 6 (6): 1014-30, 1988. [PUBMED Abstract]\n- Hoelzer D, Thiel E, Löffler H, et al.: Prognostic factors in a multicenter study for treatment of acute lymphoblastic leukemia in adults. Blood 71 (1): 123-31, 1988. [PUBMED Abstract]\n- Linker CA, Levitt LJ, O'Donnell M, et al.: Treatment of adult acute lymphoblastic leukemia with intensive cyclical chemotherapy: a follow-up report. Blood 78 (11): 2814-22, 1991. [PUBMED Abstract]\n- Zhang MJ, Hoelzer D, Horowitz MM, et al.: Long-term follow-up of adults with acute lymphoblastic leukemia in first remission treated with chemotherapy or bone marrow transplantation. The Acute Lymphoblastic Leukemia Working Committee. Ann Intern Med 123 (6): 428-31, 1995. [PUBMED Abstract]\n- Larson RA, Dodge RK, Burns CP, et al.: A five-drug remission induction regimen with intensive consolidation for adults with acute lymphoblastic leukemia: cancer and leukemia group B study 8811. Blood 85 (8): 2025-37, 1995. [PUBMED Abstract]\n- Kantarjian H, Thomas D, O'Brien S, et al.: Long-term follow-up results of hyperfractionated cyclophosphamide, vincristine, doxorubicin, and dexamethasone (Hyper-CVAD), a dose-intensive regimen, in adult acute lymphocytic leukemia. Cancer 101 (12): 2788-801, 2004. [PUBMED Abstract]\n- Goldstone AH, Richards SM, Lazarus HM, et al.: In adults with standard-risk acute lymphoblastic leukemia, the greatest benefit is achieved from a matched sibling allogeneic transplantation in first complete remission, and an autologous transplantation is less effective than conventional consolidation/maintenance chemotherapy in all patients: final results of the International ALL Trial (MRC UKALL XII/ECOG E2993). Blood 111 (4): 1827-33, 2008. [PUBMED Abstract]\n- Cuttner J, Mick R, Budman DR, et al.: Phase III trial of brief intensive treatment of adult acute lymphocytic leukemia comparing daunorubicin and mitoxantrone: a CALGB Study. Leukemia 5 (5): 425-31, 1991. [PUBMED Abstract]\n- Dekker AW, van't Veer MB, Sizoo W, et al.: Intensive postremission chemotherapy without maintenance therapy in adults with acute lymphoblastic leukemia. Dutch Hemato-Oncology Research Group. J Clin Oncol 15 (2): 476-82, 1997. [PUBMED Abstract]\n- Thomas DA, Faderl S, Cortes J, et al.: Treatment of Philadelphia chromosome-positive acute lymphocytic leukemia with hyper-CVAD and imatinib mesylate. Blood 103 (12): 4396-407, 2004. [PUBMED Abstract]\n- Yanada M, Takeuchi J, Sugiura I, et al.: High complete remission rate and promising outcome by combination of imatinib and chemotherapy for newly diagnosed BCR-ABL-positive acute lymphoblastic leukemia: a phase II study by the Japan Adult Leukemia Study Group. J Clin Oncol 24 (3): 460-6, 2006. [PUBMED Abstract]\n- Wassmann B, Pfeifer H, Goekbuget N, et al.: Alternating versus concurrent schedules of imatinib and chemotherapy as front-line therapy for Philadelphia-positive acute lymphoblastic leukemia (Ph+ ALL). Blood 108 (5): 1469-77, 2006. [PUBMED Abstract]\n- Finiewicz KJ, Larson RA: Dose-intensive therapy for adult acute lymphoblastic leukemia. Semin Oncol 26 (1): 6-20, 1999. [PUBMED Abstract]\n- Horowitz MM, Messerer D, Hoelzer D, et al.: Chemotherapy compared with bone marrow transplantation for adults with acute lymphoblastic leukemia in first remission. Ann Intern Med 115 (1): 13-8, 1991. [PUBMED Abstract]\n- Sebban C, Lepage E, Vernant JP, et al.: Allogeneic bone marrow transplantation in adult acute lymphoblastic leukemia in first complete remission: a comparative study. French Group of Therapy of Adult Acute Lymphoblastic Leukemia. J Clin Oncol 12 (12): 2580-7, 1994. [PUBMED Abstract]\n- Forman SJ, O'Donnell MR, Nademanee AP, et al.: Bone marrow transplantation for patients with Philadelphia chromosome-positive acute lymphoblastic leukemia. Blood 70 (2): 587-8, 1987. [PUBMED Abstract]\n- Fière D, Lepage E, Sebban C, et al.: Adult acute lymphoblastic leukemia: a multicentric randomized trial testing bone marrow transplantation as postremission therapy. The French Group on Therapy for Adult Acute Lymphoblastic Leukemia. J Clin Oncol 11 (10): 1990-2001, 1993. [PUBMED Abstract]\n- Corvò R, Paoli G, Barra S, et al.: Total body irradiation correlates with chronic graft versus host disease and affects prognosis of patients with acute lymphoblastic leukemia receiving an HLA identical allogeneic bone marrow transplant. Int J Radiat Oncol Biol Phys 43 (3): 497-503, 1999. [PUBMED Abstract]\n- Hoelzer D, Ludwig WD, Thiel E, et al.: Improved outcome in adult B-cell acute lymphoblastic leukemia. Blood 87 (2): 495-508, 1996. [PUBMED Abstract]\n- Kantarjian HM, Walters RS, Smith TL, et al.: Identification of risk groups for development of central nervous system leukemia in adults with acute lymphocytic leukemia. Blood 72 (5): 1784-9, 1988. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Recurrent ALL",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent ALL",
+            "Treatment Options for Recurrent ALL"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Treatment options for recurrent acute lymphoblastic leukemia (ALL) include:\n- Reinduction chemotherapy followed by allogeneic bone marrow transplant (BMT).\n- Blinatumomab followed by allogeneic BMT.\n- Inotuzumab ozogamicin followed by allogeneic BMT.\n- Palliative radiation therapy (for patients with symptomatic recurrence).\n- Dasatinib (for patients with Philadelphia chromosome [Ph]–positive ALL).\n- Revumenib .\n- Patients who do not have an HLA-matched donor are excellent candidates for enrollment in clinical trials that are studying:[ 1 - 7 ]\n- Autologous transplant.\n- Immunomodulation.\n- Chimeric antigen receptor (CAR) T-cell therapy.[ 8 ]\n- Novel chemotherapeutic or biological agents."
+        },
+        {
+          "section": "Reinduction chemotherapy followed by allogeneic BMT",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent ALL",
+            "Treatment Options for Recurrent ALL",
+            "Reinduction chemotherapy followed by allogeneic BMT"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Patients with ALL who experience a relapse after chemotherapy and maintenance therapy are unlikely to be cured by further chemotherapy alone. These patients should be considered for reinduction chemotherapy followed by allogeneic BMT."
+        },
+        {
+          "section": "Blinatumomab followed by allogeneic BMT",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent ALL",
+            "Treatment Options for Recurrent ALL",
+            "Blinatumomab followed by allogeneic BMT"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Blinatumomab is a bispecific antibody targeting CD19 and CD3. The U.S. Food and Drug Administration (FDA) has approved blinatumomab for use in patients with relapsed or refractory B-cell ALL.\nEvidence (blinatumomab):\n- A randomized phase III study of blinatumomab versus one of four standard reinduction regimens was conducted in patients with primary refractory disease, which was refractory to salvage, with a first relapse lasting fewer than 12 months, a second or greater relapse, or any relapse after allogeneic transplant.[ 9 ] The four regimens included the following: fludarabine, high-dose cytosine arabinoside, and granulocyte colony-stimulating factor with or without anthracycline; a high-dose cytosine arabinoside–based regimen; a high-dose methotrexate-based regimen; or a clofarabine-based regimen.\n- Remission rates were 43.9% for the blinatumomab-treated group versus 24.6% in the standard-treatment group (odds ratio, 2.40; 95% confidence interval [CI], 1.51–3.80).\n- Overall survival (OS) was superior in the blinatumomab-treated group (7.7 months vs. 4.0 months in the standard-treatment group), with a hazard ratio (HR) of .71 (95% CI, 0.55–0.93), favoring blinatumomab.\n- Adverse events occurred at similar rates in both groups, and the only unique side effect of blinatumomab was cytokine-release syndrome, which was seen in 4.9% of patients.\nBlinatumomab should be considered as an option for reinduction therapy for patients with primary refractory disease, which is refractory to salvage, with a first relapse lasting fewer than 12 months, a second or greater relapse, or any relapse after allogeneic transplant.[ 9 ][ Level of evidence A1 ]"
+        },
+        {
+          "section": "Inotuzumab ozogamicin followed by allogeneic BMT",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent ALL",
+            "Treatment Options for Recurrent ALL",
+            "Inotuzumab ozogamicin followed by allogeneic BMT"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Inotuzumab ozogamicin is an antibody-drug conjugate targeting CD22, which contains a conjugated toxin, calicheamicin. The FDA has approved inotuzumab ozogamicin for use in patients with relapsed or refractory B-cell ALL with CD22 expression.\nEvidence (inotuzumab ozogamicin):\n- A randomized phase III study compared inotuzumab ozogamicin with one of three standard reinduction regimens. The trial enrolled 218 patients, aged 18 years or older, who had relapsed or refractory disease and were to receive their first or second salvage regimen.[ 10 ] The three standard regimens consisted of fludarabine, cytarabine, and granulocyte colony-stimulating factor (FLAG), cytarabine and mitoxantrone, or high-dose cytarabine.\n- Complete remission or complete remission with incomplete count recovery rates were 80.7% (95% CI, 72.1%–87.7%) in the inotuzumab group versus 29.4% (95% CI, 21.0%–38.8%) in the standard-treatment group ( P < .001).\n- Progression-free survival was superior in the inotuzumab-treated group (5.0 months vs. 1.8 months in the standard-treatment group) with an HR of 0.45 (97.5 CI, 0.34–0.61; P < .001).\n- Duration of remission was short in both groups; duration in the inotuzumab group was 4.6 months (95% CI, 3.9–5.4) and duration in the standard chemotherapy group was 3.1 months (95% CI, 1.4–4.9).\n- Of the 48 patients in the inotuzumab arm who proceeded to transplant after therapy, 10 developed veno-occlusive disease. Of the 20 patients who proceeded to transplant after remission on the standard chemotherapy arm, 1 developed veno-occlusive disease.\n- OS was not statistically prolonged in the inotuzumab group (7.7 months in the inotuzumab group vs. 6.7 months in the standard-treatment group) (HR, 0.77; 97.5% CI, 0.58–1.03; P = .04) because of a failure to meet a study-prespecified boundary of P = .0208.\n- Grade 3 or higher adverse events were more common in the inotuzumab group. Veno-occlusive disease of the liver occurred in 11% of patients in the inotuzumab group and 1% of patients in the standard-treatment group.\nInotuzumab ozogamicin may be an option for reinduction for patients with relapsed or refractory CD22-positive ALL.[ 10 ][ Level of evidence B1 ]"
+        },
+        {
+          "section": "Palliative radiation therapy",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent ALL",
+            "Treatment Options for Recurrent ALL",
+            "Palliative radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Low-dose palliative radiation therapy may be considered in patients with symptomatic recurrence either within or outside the central nervous system.[ 11 ]"
+        },
+        {
+          "section": "Dasatinib",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent ALL",
+            "Treatment Options for Recurrent ALL",
+            "Dasatinib"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Patients with Ph-positive ALL are often taking imatinib at the time of relapse and thus have imatinib-resistant disease. Dasatinib is a novel tyrosine kinase inhibitor with efficacy against several different imatinib-resistant BCR :: ABL1 fusion gene variants. Dasatinib has been approved for use in patients with Ph-positive ALL who are resistant to, or intolerant of, imatinib. The approval was based on a series of trials involving patients with chronic myeloid leukemia, one of which included small numbers of patients with lymphoid blast crisis or Ph-positive ALL.\nEvidence (dasatinib):\n- In one study, ten patients were treated with dose-escalated dasatinib.[ 12 ] Seven of these patients had a complete hematologic response (<5% marrow blasts with normal peripheral blood cell counts), three of whom had a complete cytogenetic response.\n- The common toxicities were reversible myelosuppression (89%) and pleural effusions (21%).\n- Virtually all of these patients relapsed within 6 months of the start of treatment with dasatinib."
+        },
+        {
+          "section": "Revumenib",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent ALL",
+            "Treatment Options for Recurrent ALL",
+            "Revumenib"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Revumenib is an oral menin inhibitor that is approved by the FDA for the treatment of relapsed or refractory acute leukemia with a KMT2A translocation in adult and pediatric patients aged 1 year and older.\n- In the phase I/II AUGMENT-101 study (NCT04065399), 104 patients with relapsed or refractory acute leukemia with a KMT2A rearrangement received revumenib. Patients had to have a corrected QT interval (QTc) using Fridericia's formula of less than 450 milliseconds at baseline.[ 13 ]\n- The overall rate of complete remission (CR) plus CRh (complete remission with partial hematologic recovery) was 21.2% (95% CI, 13.8%–30.3%). The median duration of CR plus CRh was 6.4 months (95% CI, 2.7–not reached).[ 13 ][ Level of evidence C3 ]\n- Of the 83 patients who were dependent on red blood cell and/or platelet transfusions, 14% became independent of transfusions during a 56-day postbaseline period.\n- Revumenib has a boxed warning for differentiation syndrome, which was observed in 29% of patients. Grade 3 or 4 differentiation syndrome was observed in 13% of patients, and one patient died (0.7%).\n- Grade 3 or higher QTc prolongation was observed in 12% of patients.\n- Because revumenib is metabolized by CYP3A4, the dose must be reduced in patients receiving strong CYP3A4 inhibitors. The standard dose for patients who weigh more than 40 kg is 270 mg orally twice daily, with a dose reduction to 160 mg orally twice daily for patients receiving a strong CYP3A4 inhibitor. Furthermore, the dose is adjusted according to body surface area in patients who weigh less than 40 kg."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent ALL",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent ALL",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "- Herzig RH, Bortin MM, Barrett AJ, et al.: Bone-marrow transplantation in high-risk acute lymphoblastic leukaemia in first and second remission. Lancet 1 (8536): 786-9, 1987. [PUBMED Abstract]\n- Thomas ED, Sanders JE, Flournoy N, et al.: Marrow transplantation for patients with acute lymphoblastic leukemia: a long-term follow-up. Blood 62 (5): 1139-41, 1983. [PUBMED Abstract]\n- Barrett AJ, Horowitz MM, Gale RP, et al.: Marrow transplantation for acute lymphoblastic leukemia: factors affecting relapse and survival. Blood 74 (2): 862-71, 1989. [PUBMED Abstract]\n- Dinsmore R, Kirkpatrick D, Flomenberg N, et al.: Allogeneic bone marrow transplantation for patients with acute lymphoblastic leukemia. Blood 62 (2): 381-8, 1983. [PUBMED Abstract]\n- Sallan SE, Niemeyer CM, Billett AL, et al.: Autologous bone marrow transplantation for acute lymphoblastic leukemia. J Clin Oncol 7 (11): 1594-601, 1989. [PUBMED Abstract]\n- Paciucci PA, Keaveney C, Cuttner J, et al.: Mitoxantrone, vincristine, and prednisone in adults with relapsed or primarily refractory acute lymphocytic leukemia and terminal deoxynucleotidyl transferase positive blastic phase chronic myelocytic leukemia. Cancer Res 47 (19): 5234-7, 1987. [PUBMED Abstract]\n- Biggs JC, Horowitz MM, Gale RP, et al.: Bone marrow transplants may cure patients with acute leukemia never achieving remission with chemotherapy. Blood 80 (4): 1090-3, 1992. [PUBMED Abstract]\n- Maude SL, Frey N, Shaw PA, et al.: Chimeric antigen receptor T cells for sustained remissions in leukemia. N Engl J Med 371 (16): 1507-17, 2014. [PUBMED Abstract]\n- Kantarjian H, Stein A, Gökbuget N, et al.: Blinatumomab versus Chemotherapy for Advanced Acute Lymphoblastic Leukemia. N Engl J Med 376 (9): 836-847, 2017. [PUBMED Abstract]\n- Kantarjian HM, DeAngelo DJ, Stelljes M, et al.: Inotuzumab Ozogamicin versus Standard Therapy for Acute Lymphoblastic Leukemia. N Engl J Med 375 (8): 740-53, 2016. [PUBMED Abstract]\n- Gray JR, Wallner KE: Reversal of cranial nerve dysfunction with radiation therapy in adults with lymphoma and leukemia. Int J Radiat Oncol Biol Phys 19 (2): 439-44, 1990. [PUBMED Abstract]\n- Talpaz M, Shah NP, Kantarjian H, et al.: Dasatinib in imatinib-resistant Philadelphia chromosome-positive leukemias. N Engl J Med 354 (24): 2531-41, 2006. [PUBMED Abstract]\n- Issa GC, Aldoss I, Thirman MJ, et al.: Menin Inhibition With Revumenib for KMT2A-Rearranged Relapsed or Refractory Acute Leukemia (AUGMENT-101). J Clin Oncol 43 (1): 75-84, 2025. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (03/17/2025)",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (03/17/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nTreatment Option Overview for Acute Lymphoblastic Leukemia (ALL)\nRevised Table 2 , Treatment Options for Acute Lymphoblastic Leukemia (ALL), to include revumenib as a treatment option for recurrent ALL.\nTreatment of Recurrent ALL\nRevised the list of treatment options for recurrent ALL to include revumenib.\nAdded Revumenib as a new subsection.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of acute lymphoblastic leukemia. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 9,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewer for Acute Lymphoblastic Leukemia Treatment is:\n- Aaron Gerds, MD (Cleveland Clinic Taussig Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Acute Lymphoblastic Leukemia Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/leukemia/hp/adult-all-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389171]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\aaea50b1739b09793bac.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Acute Lymphoblastic Leukemia",
+      "title": "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+      "summary_name": "Acute Lymphoblastic Leukemia Treatment",
+      "url": "https://www.cancer.gov/types/leukemia/patient/adult-all-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 12, 2025",
+      "retrieved_at": "2026-08-31T07:11:37.913806+00:00",
+      "content_sha256": "60efa8341192d6b16bbdd2e69ceb4964e6efb544540fa3e8c98c6590d4cecc54",
+      "section_count": 33,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Acute Lymphoblastic Leukemia",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- Acute lymphoblastic leukemia (ALL) is a type of cancer in which the bone marrow makes too many lymphocytes (a type of white blood cell).\n- Leukemia may affect red blood cells, white blood cells, and platelets.\n- Previous chemotherapy and exposure to radiation may increase the risk of developing ALL.\n- Signs and symptoms of ALL include fatigue, fever, and easy bruising or bleeding.\n- Tests that examine the blood and bone marrow are used to diagnose ALL.\n- After ALL has been diagnosed, tests are done to find out if the cancer has spread to the central nervous system (brain and spinal cord) or to other parts of the body.\n- Some people decide to get a second opinion.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Acute lymphoblastic leukemia (ALL) is a type of cancer in which the bone marrow makes too many lymphocytes (a type of white blood cell).",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Acute Lymphoblastic Leukemia",
+            "Acute lymphoblastic leukemia (ALL) is a type of cancer in which the bone marrow makes too many lymphocytes (a type of white blood cell)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Acute lymphoblastic leukemia (ALL; also called acute lymphocytic leukemia) is a cancer of the blood and bone marrow . This type of cancer usually gets worse quickly if it is not treated."
+        },
+        {
+          "section": "Leukemia may affect red blood cells, white blood cells, and platelets.",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Acute Lymphoblastic Leukemia",
+            "Leukemia may affect red blood cells, white blood cells, and platelets."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The bone marrow makes blood stem cells (immature cells) that become mature blood cells over time. A blood stem cell may become a myeloid stem cell or a lymphoid stem cell.\nA lymphoid stem cell becomes a lymphoblast and then one of three types of lymphocytes (white blood cells):\n- B lymphocytes that make antibodies to help fight infection\n- T lymphocytes that help B lymphocytes make the antibodies that help fight infection\n- natural killer cells that attack cancer cells and viruses\nIn ALL, too many stem cells become lymphoblasts, B lymphocytes, or T lymphocytes. These cells are also called leukemia cells . Leukemia cells are not able to fight infection very well. Also, as the number of leukemia cells increases in the blood and bone marrow, there is less room for healthy white blood cells, red blood cells, and platelets. This may cause infection, anemia , and easy bleeding. The cancer can also spread to the central nervous system (brain and spinal cord ), lymph nodes, spleen, liver, testicles, and other organs."
+        },
+        {
+          "section": "Previous chemotherapy and exposure to radiation may increase the risk of developing ALL.",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Acute Lymphoblastic Leukemia",
+            "Previous chemotherapy and exposure to radiation may increase the risk of developing ALL."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "ALL is caused by certain changes to the way blood stem cells function, especially how they grow and divide into new cells. A risk factor is anything that increases the chance of getting a disease. Some risk factors for cancer, like smoking, can be changed. However, risk factors also include things people cannot change, like their genetics, getting older, and their health history.\nThere are many risk factors for ALL, but many do not directly cause cancer. Instead, they increase the chance of DNA damage in cells that may lead to ALL. Learn more about how cancer develops at What Is Cancer?\nHaving one or more of these risk factors does not mean that you will get ALL. Many people with risk factors never develop ALL, while others with no known risk factors do.\nPossible risk factors for ALL include:\n- being male\n- being White\n- being older than 70\n- past treatment with chemotherapy or radiation therapy\n- being exposed to high levels of radiation in the environment (such as nuclear radiation)\n- having certain genetic disorders, such as Down syndrome\nTalk with your doctor if you think you may be at risk."
+        },
+        {
+          "section": "Signs and symptoms of ALL include fatigue, fever, and easy bruising or bleeding.",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Acute Lymphoblastic Leukemia",
+            "Signs and symptoms of ALL include fatigue, fever, and easy bruising or bleeding."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "The early signs and symptoms of ALL may be like the flu or other common diseases. Check with your doctor if you have:\n- weakness or fatigue\n- fever or drenching night sweats\n- easy bruising or bleeding\n- petechiae (flat, pinpoint spots under the skin, caused by bleeding)\n- shortness of breath\n- weight loss or loss of appetite\n- pain in the bones or stomach\n- pain or feeling of fullness below the ribs\n- painless lumps in the neck, underarm, stomach, or groin\n- frequent infections\nThese and other signs and symptoms may be caused by ALL or by other conditions."
+        },
+        {
+          "section": "Tests that examine the blood and bone marrow are used to diagnose ALL.",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Acute Lymphoblastic Leukemia",
+            "Tests that examine the blood and bone marrow are used to diagnose ALL."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Complete blood count (CBC) with differential checks a sample of blood for: Enlarge Complete blood count (CBC). Blood is collected by inserting a needle into a vein and allowing the blood to flow into a tube. The blood sample is sent to the laboratory and the red blood cells, white blood cells, and platelets are counted. The CBC is used to test for, diagnose, and monitor many different conditions.\n- the number of red blood cells and platelets\n- the number and type of white blood cells\n- the amount of hemoglobin (the protein that carries oxygen) in the red blood cells\n- the amount of hematocrit (whole blood that is made up of red blood cells)\n- Blood chemistry study uses a blood sample to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual amount of a substance can be a sign of disease.\n- Peripheral blood smear checks a sample of blood for blast cells, the number and kinds of white blood cells, the number of platelets, and changes in the shape of blood cells.\n- Bone marrow aspiration and biopsy is the removal of bone marrow, blood, and a small piece of bone by inserting a hollow needle into the hipbone or breastbone . A pathologist views the bone marrow, blood, and bone under a microscope to look for abnormal cells. Enlarge Bone marrow aspiration and biopsy. After a small area of skin is numbed, a long, hollow needle is inserted through the patient's skin and hip bone into the bone marrow. A sample of bone marrow and a small piece of bone are removed for examination under a microscope. The following tests may be done on the samples of blood or bone marrow tissue that are removed:\n- Cytogenetic analysis checks the chromosomes of cells in a blood or bone marrow sample for changes, such as broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes may be a sign of cancer. For example, in Philadelphia chromosome –positive ALL, part of one chromosome switches places with part of another chromosome. This is called the \"Philadelphia chromosome.\" Cytogenetic analysis is used to help diagnose cancer, plan treatment, or find out how well treatment is working. Enlarge The Philadelphia (Ph) chromosome is an abnormal chromosome that is made when pieces of chromosomes 9 and 22 break off and trade places. The ABL1 gene from chromosome 9 joins to the BCR gene on chromosome 22 to form the BCR :: ABL1 fusion gene. The changed chromosome 22 with the fusion gene on it is called the Ph chromosome.\n- Immunophenotyping uses antibodies to identify cancer cells based on the types of antigens or markers on the surface of the cells. This test is used to help diagnose specific types of leukemia. For example, a cytochemistry study may test the cells in a sample of tissue using chemicals (dyes) to look for certain changes in the sample. A chemical may cause a color change in one type of leukemia cell but not in another type of leukemia cell."
+        },
+        {
+          "section": "After ALL has been diagnosed, tests are done to find out if the cancer has spread to the central nervous system (brain and spinal cord) or to other parts of the body.",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Acute Lymphoblastic Leukemia",
+            "After ALL has been diagnosed, tests are done to find out if the cancer has spread to the central nervous system (brain and spinal cord) or to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The following tests and procedures may be used to find out if the leukemia has spread outside the blood and bone marrow :\n- Chest x-ray is a type of radiation that can go through the body and make pictures of the organs and bones inside the chest.\n- Lumbar puncture is a procedure used to collect a sample of cerebrospinal fluid (CSF) from the spinal column . This is done by placing a needle between two bones in the spine and into the lining around the spinal cord to remove a sample of CSF. The sample of CSF is checked under a microscope for signs that leukemia cells have spread to the brain and spinal cord. This procedure is also called an LP or spinal tap. Enlarge Lumbar puncture. A patient lies in a curled position on a table. After a small area on the lower back is numbed, a spinal needle (a long, thin needle) is inserted into the lower part of the spinal column to remove cerebrospinal fluid (CSF, shown in blue). The fluid may be sent to a laboratory for testing.\n- CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body, such as the abdomen . The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more about Computed Tomography (CT) Scans and Cancer .\n- MRI (magnetic resonance imaging) uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI)."
+        },
+        {
+          "section": "Some people decide to get a second opinion.",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Acute Lymphoblastic Leukemia",
+            "Some people decide to get a second opinion."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your ALL diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report, slides, and scans. They may agree with the first doctor, suggest changes or another treatment approach, or provide more information about your cancer.\nTo learn more about choosing a doctor and getting a second opinion, visit Finding Cancer Care . You can contact NCI's Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor, hospital, or getting a second opinion. For questions you might want to ask at your appointments, visit Questions to Ask Your Doctor About Cancer ."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Acute Lymphoblastic Leukemia",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The prognosis and treatment options for ALL depend on:\n- the person's age\n- whether the cancer has spread to the brain or spinal cord\n- whether there are certain changes in the genes , including the Philadelphia chromosome\n- whether the cancer has been treated before or has recurred (come back)"
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Stages of Acute Lymphoblastic Leukemia",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- There is no standard staging system for acute lymphoblastic leukemia (ALL)."
+        },
+        {
+          "section": "There is no standard staging system for acute lymphoblastic leukemia (ALL).",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Stages of Acute Lymphoblastic Leukemia",
+            "There is no standard staging system for acute lymphoblastic leukemia (ALL)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "The extent or spread of cancer is usually described as stages. Instead of stages, ALL treatment is based on whether the cancer is untreated, in remission , or recurrent .\nUntreated ALL\nIn untreated ALL, the disease is newly diagnosed. It has not been treated, except to relieve signs and symptoms caused by the cancer, such as fever, bleeding, or pain, and the following are true:\n- The complete blood count (CBC) is abnormal.\n- More than 5% of the cells in the bone marrow are blasts ( leukemia cells).\n- There are signs and symptoms of leukemia.\nALL in remission\nIn ALL in remission, the disease has been treated, and the following are true:\n- The CBC is normal.\n- 5% or fewer of the cells in the bone marrow are blasts (leukemia cells).\n- There are no signs or symptoms of leukemia other than in the bone marrow.\nRecurrent ALL\nRecurrent ALL is cancer that has recurred (come back) after going into remission. ALL may come back in the blood, bone marrow, or other parts of the body.\nLearn more in Recurrent Cancer: When Cancer Comes Back ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- There are different types of treatment for patients with acute lymphoblastic leukemia (ALL).\n- The treatment of ALL usually has two phases.\n- The following types of treatment are used:\n- Chemotherapy\n- Radiation therapy\n- Chemotherapy with stem cell transplant\n- Targeted therapy\n- Immunotherapy\n- New types of treatment are being tested in clinical trials.\n- Treatment for ALL may cause side effects.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with acute lymphoblastic leukemia (ALL).",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with acute lymphoblastic leukemia (ALL)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Different types of treatment are available for people with ALL. You and your cancer care team will work together to decide your treatment plan, which may include more than one type of treatment. Many factors will be considered, such as whether the ALL is untreated, in remission, or recurrent, and your overall health and preferences. Your plan will include information about your cancer, the goals of treatment, your treatment options and the possible side effects, and the expected length of treatment.\nTalking with your cancer care team before treatment begins about what to expect will be helpful. You'll want to learn what you need to do before treatment begins, how you'll feel while going through it, and what kind of help you will need. Learn more at Questions to Ask Your Doctor About Treatment ."
+        },
+        {
+          "section": "The treatment of ALL usually has two phases.",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The treatment of ALL usually has two phases."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "There are two treatment phases of ALL :\n- Remission induction therapy is the first phase of treatment. The goal is to kill the leukemia cells in the blood and bone marrow . This puts the leukemia into remission .\n- Consolidation therapy is the second phase of treatment. It begins once the leukemia is in remission. The goal of consolidation therapy is to kill any remaining leukemia cells that may not be active but could begin to regrow and cause a relapse . This phase is also called remission continuation therapy.\nTreatment called central nervous system (CNS) prophylaxis is usually given during each phase of therapy. Because standard doses of chemotherapy may not reach leukemia cells in the CNS (brain and spinal cord ), the leukemia cells are able to hide in the CNS. Systemic chemotherapy given in high doses, intrathecal chemotherapy , and radiation therapy to the brain are able to reach leukemia cells in the CNS. These treatments are given to kill the leukemia cells and lessen the chance the leukemia will recur (come back)."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. The way the chemotherapy is given depends on whether the leukemia cells have spread to the central nervous system (CNS; brain and spinal cord).\nSystemic chemotherapy is when chemotherapy drugs are taken by mouth or injected into a vein or muscle. When given this way, the drugs enter the bloodstream and can reach cancer cells throughout the body.\nIntrathecal chemotherapy may be used to treat ALL that has spread, or may spread, to the brain and spinal cord. Intrathecal chemotherapy is a method of placing chemotherapy directly into the cerebrospinal fluid, which is the fluid that surrounds the brain and spinal cord. When used to lessen the chance leukemia cells will spread to the brain and spinal cord, it is called CNS prophylaxis. Enlarge Intrathecal chemotherapy. Anticancer drugs are injected into the intrathecal space, which is the space that holds the cerebrospinal fluid (CSF, shown in blue). There are two different ways to do this. One way, shown in the top part of the figure, is to inject the drugs into an Ommaya reservoir (a dome-shaped container that is placed under the scalp during surgery; it holds the drugs as they flow through a small tube into the brain). The other way, shown in the bottom part of the figure, is to inject the drugs directly into the CSF in the lower part of the spinal column, after a small area on the lower back is numbed.\nLearn more about Drugs Approved for Acute Lymphoblastic Leukemia .\nLearn more about how chemotherapy works, how it is given, common side effects, and more at Chemotherapy to Treat Cancer and Chemotherapy and You: Support for People with Cancer ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Radiation therapy uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\nExternal radiation therapy may be used to treat ALL that has spread, or may spread, to the brain and spinal cord. When used this way, it is called central nervous system (CNS) sanctuary therapy or CNS prophylaxis. Total-body irradiation may be used to send radiation toward the whole body when preparing for a stem cell transplant . External radiation therapy may also be used as palliative therapy to relieve symptoms and improve quality of life .\nLearn more about External Beam Radiation Therapy for Cancer and Radiation Therapy Side Effects ."
+        },
+        {
+          "section": "Chemotherapy with stem cell transplant",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy with stem cell transplant"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Chemotherapy is given to kill cancer cells. Healthy cells, including blood-forming cells, are also destroyed by the cancer treatment. Stem cell transplant is a treatment to replace the blood-forming cells. Stem cells (immature blood cells) are removed from the blood or bone marrow of the patient or a donor and are frozen and stored. After the patient completes chemotherapy or total-body radiation therapy, the stored stem cells are thawed and given back to the patient through an infusion . These reinfused stem cells grow into (and restore) the body's blood cells.\nLearn more about Stem Cell Transplants in Cancer Treatment ."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Targeted therapy uses drugs or other substances to identify and attack specific cancer cells. Your doctor may suggest biomarker tests to help predict your response to certain targeted therapy drugs. Learn more about Biomarker Testing for Cancer Treatment .\nTargeted therapies used to treat ALL include:\n- dasatinib\n- imatinib mesylate\n- inotuzumab ozogamicin\n- nilotinib\n- revumenib\nLearn more about Targeted Therapy to Treat Cancer ."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Immunotherapy helps a person's immune system fight cancer. Your doctor may suggest biomarker tests to help predict your response to certain immunotherapy drugs. Learn more about Biomarker Testing for Cancer Treatment .\nImmunotherapies used to treat ALL include:\n- blinatumomab\n- inotuzumab ozogamicin\n- CAR T-cell therapy with brexucabtagene autoleucel or tisagenlecleucel\nLearn more about Immunotherapy to Treat Cancer ."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some people, joining a clinical trial may be an option. There are different types of clinical trials for people with cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment for ALL may cause side effects.",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for ALL may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "To learn more about side effects that begin during treatment for cancer, visit Side Effects .\nSide effects from cancer treatment that begin after treatment and continue for months or years are called late effects . Late effects of treatment for ALL may include the risk of second cancers (new types of cancer). Regular follow-up exams are very important for long-term survivors ."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Untreated Acute Lymphoblastic Leukemia",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment of Untreated Acute Lymphoblastic Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment of ALL during the remission induction phase includes:\n- combination chemotherapy\n- targeted therapy with imatinib , in certain patients, some of whom will also have combination chemotherapy\n- supportive care including antibiotics and red blood cell and platelet transfusions\n- central nervous system (CNS) prophylaxis including chemotherapy ( intrathecal and/or systemic ) with or without radiation therapy to the brain\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Acute Lymphoblastic Leukemia in Remission",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment of Acute Lymphoblastic Leukemia in Remission"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment of ALL during the post-remission phase includes:\n- chemotherapy\n- targeted therapy with dasatinib , imatinib , or nilotinib\n- chemotherapy with stem cell transplant\n- central nervous system (CNS prophylaxis) including chemotherapy ( intrathecal and/or systemic ) with or without radiation therapy to the brain\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Acute Lymphoblastic Leukemia",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Acute Lymphoblastic Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment of recurrent ALL may include:\n- combination chemotherapy followed by stem cell transplant\n- immunotherapy ( blinatumomab or inotuzumab ozogamicin ) followed by stem cell transplant\n- low-dose radiation therapy as palliative care to relieve symptoms and improve quality of life\n- targeted therapy with dasatinib or revumenib for certain patients\n- CAR T-cell therapy ( brexucabtagene autoleucel or tisagenlecleucel ) for certain patients\nSome of the treatments being studied in clinical trials for recurrent ALL include stem cell transplant using the patient's stem cells .\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Acute Lymphoblastic Leukemia",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "To Learn More About Acute Lymphoblastic Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "For more information from the National Cancer Institute about ALL, visit the Leukemia Home Page .\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of acute lymphoblastic leukemia. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Acute Lymphoblastic Leukemia Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/leukemia/patient/adult-all-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389283]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Acute Lymphoblastic Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\7e793401ccd7db74f4da.html"
+    }
+  ]
+}

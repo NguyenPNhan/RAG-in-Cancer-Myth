@@ -1,0 +1,1034 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Chronic Myeloid Leukemia",
+  "generated_at": "2026-08-31T07:15:23.214650+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Chronic Myeloid Leukemia",
+      "title": "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Chronic Myeloid Leukemia Treatment",
+      "url": "https://www.cancer.gov/types/leukemia/hp/cml-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "March 13, 2025",
+      "retrieved_at": "2026-08-31T07:11:34.993631+00:00",
+      "content_sha256": "f7b2cf79696c9e253d043f5e5219268c1bf676f81fdc9bc7d91d26dad4dbe64d",
+      "section_count": 49,
+      "sections": [
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Chronic Myeloid Leukemia (CML)",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Estimated new cases and deaths from CML in the United States in 2025:[ 1 ]\n- New cases: 9,560.\n- Deaths: 1,290.\nCML is one of a group of diseases called the myeloproliferative disorders. It is also called chronic myelogenous leukemia. Other related entities include:\n- Polycythemia vera.\n- Myelofibrosis.\n- Essential thrombocythemia.\nFor more information, see Myeloproliferative Neoplasms Treatment ."
+        },
+        {
+          "section": "Molecular Genetics",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Chronic Myeloid Leukemia (CML)",
+            "Molecular Genetics"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "CML is identified by too many myeloblasts in the blood and bone marrow, and the disease worsens as the number of myeloblasts increase.\nCML is a clonal disorder that is easily diagnosed because the leukemic cells of more than 95% of patients have a distinctive cytogenetic abnormality, the Philadelphia chromosome (Ph).[ 2 ]\nThe Ph chromosome results from a reciprocal translocation between the long arms of chromosomes 9 and 22, and it is demonstrable in all hematopoietic precursors.[ 3 ] This translocation results in the transfer of the ABL1 oncogene on chromosome 9 to an area of chromosome 22 termed the breakpoint cluster region (within the BCR gene).[ 3 ] This, in turn, results in a BCR :: ABL1 fusion gene and in the production of an abnormal tyrosine kinase protein that causes the disordered myelopoiesis found in CML. Using peripheral blood, molecular techniques can detect the presence of the 9;22 translocation."
+        },
+        {
+          "section": "Clinical Presentation",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Chronic Myeloid Leukemia (CML)",
+            "Clinical Presentation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "Although CML may present without symptoms, splenomegaly is the most common finding during physical examination at the time of diagnosis.[ 4 ] The spleen may be enormous, filling most of the abdomen, causing pain or a feeling of fullness and presenting a significant clinical problem, or the spleen may be only minimally enlarged. In about 10% of patients, the spleen is neither palpable nor enlarged on computed tomography (CT) scan.\nPatients may also present with the following symptoms:\n- Fatigue.\n- Unexplained weight loss.\n- Drenching night sweats.\n- Fever.\nTransition between the chronic, accelerated, and blastic phases may occur gradually over 1 year or more, or it may occur abruptly (blast crisis). Patients with accelerated-phase CML show signs of progression without meeting the criteria for blast crisis (acute leukemia). The following signs and symptoms indicate a change to accelerated-phase CML:\n- Progressive splenomegaly.\n- Increased leukocytosis and/or thrombocytosis.\n- Progressive anemia.\nThe following signs and symptoms indicate a change to a blast crisis, in addition to the accelerated-phase CML symptoms:\n- Thrombocytopenia.\n- Increasing and painful splenomegaly or hepatomegaly.\n- Fever.\n- Bone pain.\n- Development of destructive bone lesions.\nIn the accelerated phase, differentiated cells persist, although they often show increasing morphological abnormalities. The patient experiences increased anemia, thrombocytopenia, and marrow fibrosis.[ 4 ]"
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Chronic Myeloid Leukemia (CML)",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Risk factors for CML include:\n- Older age.\n- Exposure to high-dose ionizing radiation."
+        },
+        {
+          "section": "Diagnostic Evaluation",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Chronic Myeloid Leukemia (CML)",
+            "Diagnostic Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "In addition to a health history and physical examination, the initial workup may include:\n- Complete blood count with differential .\n- Blood chemistry studies .\n- Bone marrow aspiration and biopsy . In routine presentations of CML, the utility of bone marrow aspiration and biopsy for all newly diagnosed patients is questionable outside the context of a clinical trial. Bone marrow testing is appropriate for patients with clinical signs of accelerated phase or blast crisis (fever, enlarged spleen, or >20% blasts in the peripheral blood).[ 5 ]\n- Cytogenetic analysis .\n- Fluorescence in situ hybridization (FISH) . FISH of the BCR :: ABL1 translocation can be performed using the bone marrow aspirate or peripheral blood of patients with CML.[ 4 ]\n- Reverse transcription–polymerase chain reaction (RT-PCR) . A small subset of patients has the BCR :: ABL1 rearrangement detectable only by RT-PCR, which is the most sensitive technique currently available. Patients with RT-PCR evidence of the BCR :: ABL1 fusion gene appear clinically and prognostically identical to patients with a classic Ph chromosome. However, patients who are BCR :: ABL1 -negative by RT-PCR have a clinical course more consistent with chronic myelomonocytic leukemia, which is a distinct clinical entity related to myelodysplastic syndrome.[ 6 - 8 ]\n- CT scan ."
+        },
+        {
+          "section": "Prognosis and Survival",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Chronic Myeloid Leukemia (CML)",
+            "Prognosis and Survival"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The median age of patients with Ph chromosome–positive CML is 67 years.[ 9 ] With the advent of the oral tyrosine kinase inhibitors (TKIs) , the median survival is projected to approach normal life expectancy for most patients.[ 10 ]\nPh chromosome–negative CML is a poorly defined entity that is less clearly distinguished from other myeloproliferative syndromes. Patients with Ph chromosome–negative CML generally have a poorer response to treatment and shorter survival than Ph chromosome–positive patients.[ 11 ] Ph chromosome–negative patients who have BCR :: ABL1 gene rearrangements detectable by Southern blot analysis, however, have prognoses equivalent to Ph chromosome–positive patients.[ 6 , 12 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Chronic Myeloid Leukemia (CML)",
+            "Prognosis and Survival",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. Available online . Last accessed January 16, 2025.\n- Jabbour E, Kantarjian H: Chronic myeloid leukemia: 2020 update on diagnosis, therapy and monitoring. Am J Hematol 95 (6): 691-709, 2020. [PUBMED Abstract]\n- Deininger MW, Goldman JM, Melo JV: The molecular biology of chronic myeloid leukemia. Blood 96 (10): 3343-56, 2000. [PUBMED Abstract]\n- Jabbour E, Kantarjian H: Chronic myeloid leukemia: 2012 update on diagnosis, monitoring, and management. Am J Hematol 87 (11): 1037-45, 2012. [PUBMED Abstract]\n- Hidalgo-Lόpez JE, Kanagal-Shamanna R, Quesada AE, et al.: Bone marrow core biopsy in 508 consecutive patients with chronic myeloid leukemia: Assessment of potential value. Cancer 124 (19): 3849-3855, 2018. [PUBMED Abstract]\n- Martiat P, Michaux JL, Rodhain J: Philadelphia-negative (Ph-) chronic myeloid leukemia (CML): comparison with Ph+ CML and chronic myelomonocytic leukemia. The Groupe Français de Cytogénétique Hématologique. Blood 78 (1): 205-11, 1991. [PUBMED Abstract]\n- Oscier DG: Atypical chronic myeloid leukaemia, a distinct clinical entity related to the myelodysplastic syndrome? Br J Haematol 92 (3): 582-6, 1996. [PUBMED Abstract]\n- Kurzrock R, Bueso-Ramos CE, Kantarjian H, et al.: BCR rearrangement-negative chronic myelogenous leukemia revisited. J Clin Oncol 19 (11): 2915-26, 2001. [PUBMED Abstract]\n- Lee SJ, Anasetti C, Horowitz MM, et al.: Initial therapy for chronic myelogenous leukemia: playing the odds. J Clin Oncol 16 (9): 2897-903, 1998. [PUBMED Abstract]\n- Bower H, Björkholm M, Dickman PW, et al.: Life Expectancy of Patients With Chronic Myeloid Leukemia Approaches the Life Expectancy of the General Population. J Clin Oncol 34 (24): 2851-7, 2016. [PUBMED Abstract]\n- Onida F, Ball G, Kantarjian HM, et al.: Characteristics and outcome of patients with Philadelphia chromosome negative, bcr/abl negative chronic myelogenous leukemia. Cancer 95 (8): 1673-84, 2002. [PUBMED Abstract]\n- Cortes JE, Talpaz M, Beran M, et al.: Philadelphia chromosome-negative chronic myelogenous leukemia with rearrangement of the breakpoint cluster region. Long-term follow-up results. Cancer 75 (2): 464-70, 1995. [PUBMED Abstract]"
+        },
+        {
+          "section": "Histopathology and Phases of CML",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Histopathology and Phases of CML"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Histopathological examination of the bone marrow aspirate of patients with chronic myeloid leukemia (CML) demonstrates a shift in the myeloid series to immature forms that increase in number as patients progress to the blastic phase of the disease. The marrow is hypercellular, and differential counts of both marrow and blood show a spectrum of mature and immature granulocytes like that found in normal marrow. Increased numbers of eosinophils or basophils are often present, and monocytosis is sometimes seen. Increased megakaryocytes are often found in the marrow, and sometimes fragments of megakaryocytic nuclei are present in the blood, especially when the platelet count is very high. The percentage of lymphocytes is reduced in both the marrow and blood compared with normal samples. The myeloid:erythroid ratio in the marrow is usually greatly elevated. The leukocyte alkaline phosphatase enzyme is either absent or markedly reduced in the neutrophils of patients with CML.[ 1 ]\nMost patients do not require bone marrow examination. However, bone marrow testing is appropriate for patients with fever, malaise, rapidly enlarging splenomegaly, and more than 10% circulating blasts. In patients with CML, bone marrow sampling is performed to assess cellularity, fibrosis, and cytogenetics. Reverse transcription–polymerase chain reaction (RT-PCR) or fluorescence in situ hybridization (FISH) analyses using blood or marrow aspirates demonstrate the 9;22 translocation.[ 1 ]"
+        },
+        {
+          "section": "Chronic-Phase CML",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Histopathology and Phases of CML",
+            "Chronic-Phase CML"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Chronic-phase CML is characterized by bone marrow and cytogenetic findings as listed below with less than 10% blasts and promyelocytes in the peripheral blood and bone marrow.[ 2 ] The following factors are predictive of a shorter chronic phase after treatment with tyrosine kinase inhibitors:\n- Older age.[ 3 ]\n- Cytogenetic abnormalities in addition to the Philadelphia chromosome.[ 3 , 4 ]\n- A higher proportion of marrow or peripheral blood blasts.[ 3 ]\n- Anemia.[ 3 ]\nPredictive models using multivariate analysis have been derived.[ 5 - 7 ]\nThe rate of progression from chronic phase to blast crisis is 5% to 10% in the first 2 years and 20% in subsequent years.[ 5 ]\nFor more information, see the Treatment of Chronic-Phase CML section."
+        },
+        {
+          "section": "Accelerated-Phase CML",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Histopathology and Phases of CML",
+            "Accelerated-Phase CML"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Accelerated-phase CML is characterized by 10% to 19% blasts in either the peripheral blood or bone marrow.[ 2 ]\nFor more information, see the Treatment of Accelerated-Phase CML section."
+        },
+        {
+          "section": "Blastic-Phase CML",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Histopathology and Phases of CML",
+            "Blastic-Phase CML"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Blastic-phase CML is characterized by 20% or more blasts in the peripheral blood or bone marrow.\nWhen 20% or more blasts are present along with fever, malaise, and progressive splenomegaly, the patient has entered blast crisis.[ 2 ]\nFor more information, see the Treatment of Blastic-Phase CML section."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Histopathology and Phases of CML",
+            "Blastic-Phase CML",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Jabbour E, Kantarjian H: Chronic myeloid leukemia: 2012 update on diagnosis, monitoring, and management. Am J Hematol 87 (11): 1037-45, 2012. [PUBMED Abstract]\n- Cortes JE, Talpaz M, O'Brien S, et al.: Staging of chronic myeloid leukemia in the imatinib era: an evaluation of the World Health Organization proposal. Cancer 106 (6): 1306-15, 2006. [PUBMED Abstract]\n- Lauseker M, Bachl K, Turkina A, et al.: Prognosis of patients with chronic myeloid leukemia presenting in advanced phase is defined mainly by blast count, but also by age, chromosomal aberrations and hemoglobin. Am J Hematol 94 (11): 1236-1243, 2019. [PUBMED Abstract]\n- Fabarius A, Leitner A, Hochhaus A, et al.: Impact of additional cytogenetic aberrations at diagnosis on prognosis of CML: long-term observation of 1151 patients from the randomized CML Study IV. Blood 118 (26): 6760-8, 2011. [PUBMED Abstract]\n- Sokal JE, Baccarani M, Russo D, et al.: Staging and prognosis in chronic myelogenous leukemia. Semin Hematol 25 (1): 49-61, 1988. [PUBMED Abstract]\n- Hasford J, Pfirrmann M, Hehlmann R, et al.: A new prognostic score for survival of patients with chronic myeloid leukemia treated with interferon alfa. Writing Committee for the Collaborative CML Prognostic Factors Project Group. J Natl Cancer Inst 90 (11): 850-8, 1998. [PUBMED Abstract]\n- Kvasnicka HM, Thiele J, Schmitt-Graeff A, et al.: Bone marrow features improve prognostic efficiency in multivariate risk classification of chronic-phase Ph(1+) chronic myelogenous leukemia: a multicenter trial. J Clin Oncol 19 (12): 2994-3009, 2001. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Option Overview for CML",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for CML"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Treatment of patients with chronic myeloid leukemia (CML) is usually initiated at diagnosis, which is based on the presence of an elevated white blood cell count, splenomegaly, thrombocytosis, and identification of the BCR :: ABL1 translocation.[ 1 ]\nPhase | Treatment Options\nBMT = bone marrow transplant; CML = chronic myeloid leukemia; SCT = stem cell transplant; TKIs = tyrosine kinase inhibitors.\nChronic-phase CML | Targeted therapy with an allosteric inhibitor of BCR::ABL1 at the ABL1 myristoyl pocket\nTargeted therapy with other BCR::ABL1 TKIs\nAllogeneic BMT or SCT\nAccelerated-phase CML | Targeted therapy with TKIs\nAllogeneic SCT\nBlastic-phase CML | Targeted therapy with TKIs\nAllogeneic BMT or SCT\nRelapsed CML | Targeted therapy with TKIs"
+        },
+        {
+          "section": "Targeted Therapy With Tyrosine Kinase Inhibitors (TKIs)",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for CML",
+            "Targeted Therapy With Tyrosine Kinase Inhibitors (TKIs)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The optimal front-line treatment for patients with chronic-phase CML involves specific inhibitors of the BCR::ABL1 tyrosine kinase. Although imatinib mesylate has been extensively studied in patients with CML, TKIs with greater potency and selectivity for BCR::ABL1 than imatinib have also been evaluated.[ 1 - 4 ] Bariatric surgery may impede proper absorption of oral TKIs, resulting in suboptimal responses.[ 5 ]"
+        },
+        {
+          "section": "Allogeneic Bone Marrow Transplant (BMT) or Stem Cell Transplant (SCT)",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for CML",
+            "Allogeneic Bone Marrow Transplant (BMT) or Stem Cell Transplant (SCT)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Allogeneic BMT or SCT has also been used with curative intent.[ 6 ] Long-term data beyond 10 years of therapy are available, and most long-term survivors show no evidence of the BCR :: ABL1 translocation by any available test (e.g., cytogenetics, reverse transcription–polymerase chain reaction, or fluorescence in situ hybridization). Some patients, however, are not eligible for this approach because of age, comorbid conditions, or lack of a suitable donor. In addition, substantial morbidity and mortality result from allogeneic BMT or SCT; a 5% to 10% treatment-related mortality can be expected, depending on whether a donor is related and the presence of mismatched antigens.[ 6 ]\nEvidence (allogeneic SCT vs. drug treatment):\n- In a prospective trial of 427 transplant-eligible, previously untreated patients, 166 patients were allocated to allogeneic SCT, and 261 patients were allocated to drug treatment (mostly imatinib).[ 6 ][ Level of evidence C1 ] Similar outcomes were seen in patients who underwent allogeneic SCT because of TKI intolerance or nonadherence.[ 7 ]\n- No difference in 10-year overall survival was reported between the treatment groups."
+        },
+        {
+          "section": "Interferon Alfa",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for CML",
+            "Interferon Alfa"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Long-term data are also available for patients treated with interferon alfa.[ 8 - 10 ] Approximately 10% to 20% of these patients have a complete cytogenetic response with no evidence of BCR :: ABL1 translocation by any available test, and most of these patients are disease free beyond 10 years. Maintenance therapy with interferon is required, however, and some patients experience side effects that preclude continued treatment."
+        },
+        {
+          "section": "Hydroxyurea",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for CML",
+            "Hydroxyurea"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Hydroxyurea is superior to busulfan in the chronic phase of CML, with significantly longer median survival and significantly fewer severe adverse effects.[ 11 ] A dose of 40 mg/kg per day is often used initially, and frequently results in a rapid reduction of the white blood cell (WBC) count. When the WBC count drops below 20 × 10 9 /L, the hydroxyurea dose is often reduced and titrated to maintain a WBC count between 5 × 10 9 /L and 20 × 10 9 /L.\nHydroxyurea is used primarily to stabilize patients with hyperleukocytosis or as palliative therapy for patients who have not responded to other therapies."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for CML",
+            "Hydroxyurea",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Cortes J, Pavlovsky C, Saußele S: Chronic myeloid leukaemia. Lancet 398 (10314): 1914-1926, 2021. [PUBMED Abstract]\n- Jabbour E, Kantarjian H: Chronic myeloid leukemia: 2020 update on diagnosis, therapy and monitoring. Am J Hematol 95 (6): 691-709, 2020. [PUBMED Abstract]\n- Brümmendorf TH, Cortes JE, Milojkovic D, et al.: Bosutinib versus imatinib for newly diagnosed chronic phase chronic myeloid leukemia: final results from the BFORE trial. Leukemia 36 (7): 1825-1833, 2022. [PUBMED Abstract]\n- Hochhaus A, Wang J, Kim DW, et al.: Asciminib in Newly Diagnosed Chronic Myeloid Leukemia. N Engl J Med 391 (10): 885-898, 2024. [PUBMED Abstract]\n- Haddad FG, Kantarjian HM, Bidikian A, et al.: Association between bariatric surgery and outcomes in chronic myeloid leukemia. Cancer 129 (12): 1866-1872, 2023. [PUBMED Abstract]\n- Gratwohl A, Pfirrmann M, Zander A, et al.: Long-term outcome of patients with newly diagnosed chronic myeloid leukemia: a randomized comparison of stem cell transplantation with drug treatment. Leukemia 30 (3): 562-9, 2016. [PUBMED Abstract]\n- Wu J, Chen Y, Hageman L, et al.: Late mortality after bone marrow transplant for chronic myelogenous leukemia in the context of prior tyrosine kinase inhibitor exposure: A Blood or Marrow Transplant Survivor Study (BMTSS) report. Cancer 125 (22): 4033-4042, 2019. [PUBMED Abstract]\n- Ozer H, George SL, Schiffer CA, et al.: Prolonged subcutaneous administration of recombinant alpha 2b interferon in patients with previously untreated Philadelphia chromosome-positive chronic-phase chronic myelogenous leukemia: effect on remission duration and survival: Cancer and Leukemia Group B study 8583. Blood 82 (10): 2975-84, 1993. [PUBMED Abstract]\n- Kantarjian HM, Smith TL, O'Brien S, et al.: Prolonged survival in chronic myelogenous leukemia after cytogenetic response to interferon-alpha therapy. The Leukemia Service. Ann Intern Med 122 (4): 254-61, 1995. [PUBMED Abstract]\n- Long-term follow-up of the Italian trial of interferon-alpha versus conventional chemotherapy in chronic myeloid leukemia. The Italian Cooperative Study Group on Chronic Myeloid Leukemia. Blood 92 (5): 1541-8, 1998. [PUBMED Abstract]\n- Hehlmann R, Heimpel H, Hasford J, et al.: Randomized comparison of busulfan and hydroxyurea in chronic myelogenous leukemia: prolongation of survival by hydroxyurea. The German CML Study Group. Blood 82 (2): 398-407, 1993. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Chronic-Phase CML",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic-Phase CML",
+            "Treatment Options for Chronic-Phase CML"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Treatment options for chronic-phase chronic myeloid leukemia (CML) include:\n- Targeted therapy with an allosteric inhibitor of BCR::ABL1 at the ABL1 myristoyl pocket (asciminib).\n- Targeted therapy with other BCR::ABL1 tyrosine kinase inhibitors (TKIs) (nilotinib, dasatinib, bosutinib, or imatinib).\n- Allogeneic bone marrow transplant (BMT) or stem cell transplant (SCT) .\nThe preferred initial treatment for patients with newly diagnosed chronic-phase CML could be any of the specific inhibitors of the BCR::ABL1 tyrosine kinase (including asciminib, nilotinib, dasatinib, bosutinib, or imatinib).[ 1 ] With any of these agents, the 10-year event-free survival and overall survival (OS) rates exceed 90%.[ 2 - 4 ]\nCML response rate abbreviations used in this section include:\n- DMR: Deep molecular response (previously called CMR [complete molecular response]). This means greater than 4-log reduction (BCR::ABL1 ≤ 0.01%) and is also called MR 4 (molecular response 4). MR 4.5 is designated for BCR::ABL1 ≤ 0.0032%, and MR 5 is designated for BCR::ABL1 ≤ 0.001%.\n- EMR: Early molecular response. This means a greater than 1-log reduction (BCR::ABL1 ≤ 10%) at 3 months.\n- MMR: Major molecular response. This means a greater than 3-log reduction (BCR::ABL1 ≤ 0.1%).\nA BCR::ABL1 transcript level of 10% or less in patients after 3 months of treatment with a specific TKI (deemed EMR) is associated with the best prognosis in terms of failure-free survival, progression-free survival (PFS), and OS.[ 5 - 10 ] However, in a retrospective analysis, even patients with a BCR::ABL1 transcript level greater than 10% after 3 months of therapy did well when the halving time was less than 76 days.[ 11 ]\nMandating a change of therapy based on this 10% transcript level at 3 to 6 months is problematic because 75% of patients do well even with a suboptimal response.[ 12 ] After 1 year, the preferred response target is an MMR, which is defined as a BCR::ABL1 level of less than or equal to 0.1%. The optimal target is a DMR, which is defined as under 4 logs (BCR::ABL1 ≤ 0.01%) or undetectable, which is usually a BCR::ABL1 level of less than or equal to 0.001% (MR 5).[ 13 ]"
+        },
+        {
+          "section": "Targeted therapy with an allosteric inhibitor of BCR::ABL1 at the ABL1 myristoyl pocket",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic-Phase CML",
+            "Treatment Options for Chronic-Phase CML",
+            "Targeted therapy with an allosteric inhibitor of BCR::ABL1 at the ABL1 myristoyl pocket"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Evidence (targeted therapy with an allosteric inhibitor of BCR::ABL1 at the ABL1 myristoyl pocket):\n- A prospective study ( NCT04971226 ) included 405 patients with newly diagnosed CML. Patients were randomly assigned to receive asciminib (n = 201) (an allosteric inhibitor of BCR::ABL1 at the ABL1 myristoyl pocket, a site unique from those used by other TKIs) or either imatinib mesylate (n = 102) or nilotinib, dasatinib, or bosutinib (n = 102).[ 14 ]\n- With a median follow-up of 16.3 months, the 48-week MMR rate was 67.7% for patients who received asciminib and 49% for patients who received imatinib, nilotinib, dasatinib, or bosutinib ( P < .002).[ 14 ][ Level of evidence B3 ]\n- Patients who received asciminib had fewer grade 3 or greater adverse events (38%) compared with imatinib (44%) and the other TKIs (55%). The rate of discontinuation due to adverse events was lower for patients who received asciminib (5%) compared with patients who received imatinib (11%) or the other TKIs (10%).\n- Asciminib showed improved efficacy in this early reporting of the trial, and it also showed better tolerability based on adverse events and discontinuations. On this basis, the U.S. Food and Drug Administration approved the use of asciminib as first-line therapy. Use of asciminib will pose significant financial toxicity ($260,000 per year in 2024) versus imatinib ($500 per year in 2024). The price of the other TKIs may decrease because dasatinib is available as a generic, and nilotinib, bosutinib, and ponatinib are expected to be released as generics in 2027.\n- A prespecified subgroup analysis compared asciminib with the second-generation TKIs (not including imatinib). At week 48, 66.0% of patients who received asciminib had an MMR, and 57.8% of patients who received second-generation TKIs had an MMR. The 8.2% difference was not statistically significant (95% confidence interval [CI], -5.1 to 21.5). In the first year, it appears that the efficacy of asciminib is equivalent to those of second-generation TKIs. Longer follow-up is required to fully assess efficacy and toxicity outcomes.[ 14 ]"
+        },
+        {
+          "section": "Targeted therapy with other BCR::ABL1 TKIs",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic-Phase CML",
+            "Treatment Options for Chronic-Phase CML",
+            "Targeted therapy with other BCR::ABL1 TKIs"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Evidence (targeted therapy with other BCR::ABL1 TKIs):\n- A randomized prospective study of 846 patients compared nilotinib with imatinib.[ 15 ][ Level of evidence B3 ]\n- The rate of MMR at 24 months was 71% and 67% for patients who received two-dose schedules of nilotinib and 44% for patients who received imatinib ( P < .0001 for both comparisons).\n- Progression to accelerated-phase CML or blast crisis occurred in 17 patients who received imatinib (14%), but this progression only occurred in two patients who received nilotinib 300 mg twice daily (<1%, P = .0003) and in five patients who received nilotinib 400 mg twice daily (1.8%, P = .0089).\n- A randomized prospective study of 519 patients compared dasatinib with imatinib, with the following results:[ 16 ][ Level of evidence B3 ]\n- The rate of MMR at 12 months was 46% for patients who received dasatinib and 28% for patients who received imatinib ( P < .0001).\n- The rate of MMR at 24 months was 64% for patients who received dasatinib and 46% for patients who received imatinib ( P < .0001).\n- At 5 years, there was no difference in PFS or OS.\n- Progression to accelerated-phase CML or blast crisis occurred in 13 patients (5%) who received imatinib and in six patients (2.3%) who received dasatinib (not statistically significant).\n- In retrospective comparative analyses, a dasatinib dose of 50 mg a day showed equal efficacy to 100 mg, but resulted in fewer pleural effusions (5% vs. 21%).[ 17 ][ Level of evidence C3 ]\n- A randomized prospective study of 536 patients compared bosutinib with imatinib.[ 18 ][ Level of evidence B3 ]\n- The MMR rate at 5 years was 73.9% for patients in the bosutinib arm versus 64.6% for patients in the imatinib arm (hazard ratio [HR], 1.57; 95% CI, 1.08–2.28; P = .0075). At 5 years, a DMR (4.5 logs) was attained by 47.4% of patients in the bosutinib arm and 36.6% of patients in the imatinib arm (HR, 1.57; 95% CI, 1.11–2.22).[ 18 ]\n- Progression to accelerated-phase CML or blast crisis occurred in four patients (1.6%) who received bosutinib and in six patients (2.5%) who received imatinib.\nIn randomized prospective trials, nilotinib, dasatinib, and bosutinib showed higher rates of earlier MMR compared with imatinib. It is unclear whether this will translate to improved long-term outcomes.[ 8 , 9 , 18 ][ Level of evidence B3 ] A dose-ranging phase II study of dasatinib in patients older than 70 years showed optimal response and reduction of toxicity starting at 20 mg once daily (with dose escalation if needed), versus the standard dose of 100 mg daily.[ 19 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Can TKIs be discontinued?",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic-Phase CML",
+            "Treatment Options for Chronic-Phase CML",
+            "Targeted therapy with other BCR::ABL1 TKIs",
+            "Can TKIs be discontinued?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "For patients who obtain a DMR, it is unclear if TKI therapy can be discontinued. Several nonrandomized reports are summarized as follows:[ 20 - 24 ][ Level of evidence C3 ]\n- Patients who have taken a TKI for more than 3 to 5 years and attained a DMR (molecular remission, 4.5; BCR::ABL1 ≤ 0.0032%) are the best candidates to consider stopping therapy.\n- 50% of patients will experience a relapse of their disease if they discontinue TKI therapy. However, a retrospective analysis with a median follow-up of 3 years found that patients who were in DMR (4 to 4.5 logs) for 5 or more years had a relapse rate of approximately 10%.[ 25 ][ Level of evidence C3 ] Another retrospective report with a median of 3 years of follow-up found three measurable factors predictive of MMR maintenance: increased duration of TKI treatment, increased duration of DMR on TKI treatment, and the absence of any peripheral blood blast cells at diagnosis.[ 20 ]\n- Almost all patients who relapse based on BCR::ABL1 quantitative reverse transcription–polymerase chain reaction (RT-PCR) testing can be successfully reinduced with the previous TKI.\nHowever, after the reinduction of a previous TKI, the duration of remissions or the depth of responses are not known. Data to recommend universal discontinuation of TKIs are insufficient, even in patients with a DMR or CMR. Follow-up (i.e., at least every 3 months initially, although the precise interval is not well-defined) is required after stopping therapy because relapses have been noted even after 2 to 3 years. A withdrawal syndrome of muscle and joint pain has been reported after discontinuing TKI therapy.[ 26 ] Quality-of-life assessments suggest improved social function, diarrhea, and fatigue after stopping TKI therapy.[ 27 ][ Level of evidence C1 ]"
+        },
+        {
+          "section": "Allogeneic BMT or SCT",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic-Phase CML",
+            "Treatment Options for Chronic-Phase CML",
+            "Allogeneic BMT or SCT"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Allogeneic BMT or SCT is the only consistently successful curative treatment for patients with CML.[ 28 - 30 ] Patients younger than 60 years with an identical twin or with HLA–matched siblings can consider BMT early in the chronic phase. Although the procedure is associated with considerable acute morbidity and mortality, 50% to 70% of patients who undergo transplant in the chronic phase appear to be cured. The results are better in younger patients, especially for those younger than 20 years. The outcomes of patients who undergo transplant in the accelerated and blastic phases of the disease are progressively worse.[ 31 , 32 ] Most transplant series suggest improved survival when the procedure is performed within 1 year of diagnosis.[ 33 - 35 ][ Level of evidence C1 ] The data supporting early transplant, however, have never been confirmed in controlled trials.\nEvidence (allogeneic SCT):\n- In a randomized clinical trial, patients underwent allogeneic SCT after receiving preparative therapy with either cyclophosphamide and total-body irradiation (TBI) or busulfan and cyclophosphamide without TBI. The following results were reported:[ 36 ][ Level of evidence A1 ]\n- Disease-free survival and OS were comparable between arms.\n- Busulfan and cyclophosphamide without TBI was associated with less graft-versus-host disease (GVHD) and fewer fevers, hospitalizations, and hospital days.\n- A retrospective review of 2,444 patients who underwent myeloablative allogeneic SCT reported the following:[ 37 ]\n- The 15-year OS rates were 88% (95% CI, 86%–90%) for sibling-matched transplant recipients and 87% (95% CI, 83%–90%) for unrelated-donor transplant recipients.\n- The cumulative incidences of relapse were 8% (95% CI, 7%–10%) for sibling-matched transplant recipients and 2% (95% CI, 1%– 4%) for unrelated-donor transplant recipients.\n- In a prospective trial of 354 patients younger than 60 years, 123 of 135 patients with a matched, related donor underwent early allogeneic SCT while the others received interferon-based therapy and imatinib at relapse. Some patients also underwent a matched unrelated-donor SCT in remission.[ 38 ][ Level of evidence B4 ]\n- With a 9-year median follow-up, survival still favored the drug treatment arm ( P = .049), but most of the benefit was early from transplant-related mortality, with the survival curves converging by 8 years.\nAlthough most relapses occur within 5 years of transplant, relapses have occurred as late as 15 years after a BMT.[ 39 ] In a molecular analysis of 243 patients who underwent allogeneic BMT over a 20-year interval, only 15% had no detectable BCR::ABL1 transcript by PCR analysis.[ 40 ] The risk of relapse appears to be less in patients who underwent transplant early in disease and in patients who developed chronic GVHD.[ 32 , 41 ] In a retrospective review, patients with relapsed disease after allogeneic transplant who received TKI therapy had a 3-year OS rate of 60%.[ 42 ][ Level of evidence C1 ]\nWith the introduction of asciminib, imatinib, dasatinib, bosutinib, and nilotinib therapy, the timing and sequence of allogeneic BMT or SCT has been questioned.[ 43 ] Allogeneic SCT is the preferred choice for certain patients presenting with blastic-phase disease, those with a T315I variant and resistance to ponatinib (an oral TKI), and for patients with complete intolerance to the pharmacological options.[ 44 ] Similar outcomes were seen in patients who underwent allogeneic SCT because of TKI intolerance or nonadherence.[ 45 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic-Phase CML",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic-Phase CML",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 45,
+          "text": "- Wei G, Rafiyath S, Liu D: First-line treatment for chronic myeloid leukemia: dasatinib, nilotinib, or imatinib. J Hematol Oncol 3: 47, 2010. [PUBMED Abstract]\n- Hochhaus A, Larson RA, Guilhot F, et al.: Long-Term Outcomes of Imatinib Treatment for Chronic Myeloid Leukemia. N Engl J Med 376 (10): 917-927, 2017. [PUBMED Abstract]\n- Masarova L, Cortes JE, Patel KP, et al.: Long-term results of a phase 2 trial of nilotinib 400 mg twice daily in newly diagnosed patients with chronic-phase chronic myeloid leukemia. Cancer 126 (7): 1448-1459, 2020. [PUBMED Abstract]\n- Maiti A, Cortes JE, Patel KP, et al.: Long-term results of frontline dasatinib in chronic myeloid leukemia. Cancer 126 (7): 1502-1511, 2020. [PUBMED Abstract]\n- Marin D, Ibrahim AR, Lucas C, et al.: Assessment of BCR-ABL1 transcript levels at 3 months is the only requirement for predicting outcome for patients with chronic myeloid leukemia treated with tyrosine kinase inhibitors. J Clin Oncol 30 (3): 232-8, 2012. [PUBMED Abstract]\n- Branford S, Kim DW, Soverini S, et al.: Initial molecular response at 3 months may predict both response and event-free survival at 24 months in imatinib-resistant or -intolerant patients with Philadelphia chromosome-positive chronic myeloid leukemia in chronic phase treated with nilotinib. J Clin Oncol 30 (35): 4323-9, 2012. [PUBMED Abstract]\n- Marin D, Hedgley C, Clark RE, et al.: Predictive value of early molecular response in patients with chronic myeloid leukemia treated with first-line dasatinib. Blood 120 (2): 291-4, 2012. [PUBMED Abstract]\n- Jabbour E, Kantarjian HM, Saglio G, et al.: Early response with dasatinib or imatinib in chronic myeloid leukemia: 3-year follow-up from a randomized phase 3 trial (DASISION). Blood 123 (4): 494-500, 2014. [PUBMED Abstract]\n- Hughes TP, Saglio G, Kantarjian HM, et al.: Early molecular response predicts outcomes in patients with chronic myeloid leukemia in chronic phase treated with frontline nilotinib or imatinib. Blood 123 (9): 1353-60, 2014. [PUBMED Abstract]\n- Neelakantan P, Gerrard G, Lucas C, et al.: Combining BCR-ABL1 transcript levels at 3 and 6 months in chronic myeloid leukemia: implications for early intervention strategies. Blood 121 (14): 2739-42, 2013. [PUBMED Abstract]\n- Branford S, Yeung DT, Parker WT, et al.: Prognosis for patients with CML and >10% BCR-ABL1 after 3 months of imatinib depends on the rate of BCR-ABL1 decline. Blood 124 (4): 511-8, 2014. [PUBMED Abstract]\n- Baccarani M, Deininger MW, Rosti G, et al.: European LeukemiaNet recommendations for the management of chronic myeloid leukemia: 2013. Blood 122 (6): 872-84, 2013. [PUBMED Abstract]\n- Shanmuganathan N, Hughes TP: Molecular monitoring in CML: how deep? How often? How should it influence therapy? Blood 132 (20): 2125-2133, 2018. [PUBMED Abstract]\n- Hochhaus A, Wang J, Kim DW, et al.: Asciminib in Newly Diagnosed Chronic Myeloid Leukemia. N Engl J Med 391 (10): 885-898, 2024. [PUBMED Abstract]\n- Kantarjian HM, Hochhaus A, Saglio G, et al.: Nilotinib versus imatinib for the treatment of patients with newly diagnosed chronic phase, Philadelphia chromosome-positive, chronic myeloid leukaemia: 24-month minimum follow-up of the phase 3 randomised ENESTnd trial. Lancet Oncol 12 (9): 841-51, 2011. [PUBMED Abstract]\n- Cortes JE, Saglio G, Kantarjian HM, et al.: Final 5-Year Study Results of DASISION: The Dasatinib Versus Imatinib Study in Treatment-Naïve Chronic Myeloid Leukemia Patients Trial. J Clin Oncol 34 (20): 2333-40, 2016. [PUBMED Abstract]\n- Jabbour E, Sasaki K, Haddad FG, et al.: Low-dose dasatinib 50 mg/day versus standard-dose dasatinib 100 mg/day as frontline therapy in chronic myeloid leukemia in chronic phase: A propensity score analysis. Am J Hematol 97 (11): 1413-1418, 2022. [PUBMED Abstract]\n- Brümmendorf TH, Cortes JE, Milojkovic D, et al.: Bosutinib versus imatinib for newly diagnosed chronic phase chronic myeloid leukemia: final results from the BFORE trial. Leukemia 36 (7): 1825-1833, 2022. [PUBMED Abstract]\n- Murai K, Ureshino H, Kumagai T, et al.: Low-dose dasatinib in older patients with chronic myeloid leukaemia in chronic phase (DAVLEC): a single-arm, multicentre, phase 2 trial. Lancet Haematol 8 (12): e902-e911, 2021. [PUBMED Abstract]\n- Mahon FX, Pfirrmann M, Dulucq S, et al.: European Stop Tyrosine Kinase Inhibitor Trial (EURO-SKI) in Chronic Myeloid Leukemia: Final Analysis and Novel Prognostic Factors for Treatment-Free Remission. J Clin Oncol 42 (16): 1875-1880, 2024. [PUBMED Abstract]\n- Mahon FX, Boquimpani C, Kim DW, et al.: Treatment-Free Remission After Second-Line Nilotinib Treatment in Patients With Chronic Myeloid Leukemia in Chronic Phase: Results From a Single-Group, Phase 2, Open-Label Study. Ann Intern Med 168 (7): 461-470, 2018. [PUBMED Abstract]\n- Legros L, Nicolini FE, Etienne G, et al.: Second tyrosine kinase inhibitor discontinuation attempt in patients with chronic myeloid leukemia. Cancer 123 (22): 4403-4410, 2017. [PUBMED Abstract]\n- Chamoun K, Kantarjian H, Atallah R, et al.: Tyrosine kinase inhibitor discontinuation in patients with chronic myeloid leukemia: a single-institution experience. J Hematol Oncol 12 (1): 1, 2019. [PUBMED Abstract]\n- Atallah E, Schiffer CA, Radich JP, et al.: Assessment of Outcomes After Stopping Tyrosine Kinase Inhibitors Among Patients With Chronic Myeloid Leukemia: A Nonrandomized Clinical Trial. JAMA Oncol 7 (1): 42-50, 2021. [PUBMED Abstract]\n- Haddad FG, Sasaki K, Issa GC, et al.: Treatment-free remission in patients with chronic myeloid leukemia following the discontinuation of tyrosine kinase inhibitors. Am J Hematol 97 (7): 856-864, 2022. [PUBMED Abstract]\n- Richter J, Söderlund S, Lübking A, et al.: Musculoskeletal pain in patients with chronic myeloid leukemia after discontinuation of imatinib: a tyrosine kinase inhibitor withdrawal syndrome? J Clin Oncol 32 (25): 2821-3, 2014. [PUBMED Abstract]\n- Schoenbeck KL, Atallah E, Lin L, et al.: Patient-Reported Functional Outcomes in Patients With Chronic Myeloid Leukemia After Stopping Tyrosine Kinase Inhibitors. J Natl Cancer Inst 114 (1): 160-164, 2022. [PUBMED Abstract]\n- Gratwohl A, Hermans J: Allogeneic bone marrow transplantation for chronic myeloid leukemia. Working Party Chronic Leukemia of the European Group for Blood and Marrow Transplantation (EBMT). Bone Marrow Transplant 17 (Suppl 3): S7-9, 1996. [PUBMED Abstract]\n- Crawley C, Szydlo R, Lalancette M, et al.: Outcomes of reduced-intensity transplantation for chronic myeloid leukemia: an analysis of prognostic factors from the Chronic Leukemia Working Party of the EBMT. Blood 106 (9): 2969-76, 2005. [PUBMED Abstract]\n- Bacher U, Klyuchnikov E, Zabelina T, et al.: The changing scene of allogeneic stem cell transplantation for chronic myeloid leukemia--a report from the German Registry covering the period from 1998 to 2004. Ann Hematol 88 (12): 1237-47, 2009. [PUBMED Abstract]\n- Wagner JE, Zahurak M, Piantadosi S, et al.: Bone marrow transplantation of chronic myelogenous leukemia in chronic phase: evaluation of risks and benefits. J Clin Oncol 10 (5): 779-89, 1992. [PUBMED Abstract]\n- Enright H, Davies SM, DeFor T, et al.: Relapse after non-T-cell-depleted allogeneic bone marrow transplantation for chronic myelogenous leukemia: early transplantation, use of an unrelated donor, and chronic graft-versus-host disease are protective. Blood 88 (2): 714-20, 1996. [PUBMED Abstract]\n- Goldman JM, Szydlo R, Horowitz MM, et al.: Choice of pretransplant treatment and timing of transplants for chronic myelogenous leukemia in chronic phase. Blood 82 (7): 2235-8, 1993. [PUBMED Abstract]\n- Clift RA, Appelbaum FR, Thomas ED: Treatment of chronic myeloid leukemia by marrow transplantation. Blood 82 (7): 1954-6, 1993. [PUBMED Abstract]\n- Hansen JA, Gooley TA, Martin PJ, et al.: Bone marrow transplants from unrelated donors for patients with chronic myeloid leukemia. N Engl J Med 338 (14): 962-8, 1998. [PUBMED Abstract]\n- Clift RA, Buckner CD, Thomas ED, et al.: Marrow transplantation for chronic myeloid leukemia: a randomized study comparing cyclophosphamide and total body irradiation with busulfan and cyclophosphamide. Blood 84 (6): 2036-43, 1994. [PUBMED Abstract]\n- Goldman JM, Majhail NS, Klein JP, et al.: Relapse and late mortality in 5-year survivors of myeloablative allogeneic hematopoietic cell transplantation for chronic myeloid leukemia in first chronic phase. J Clin Oncol 28 (11): 1888-95, 2010. [PUBMED Abstract]\n- Hehlmann R, Berger U, Pfirrmann M, et al.: Drug treatment is superior to allografting as first-line therapy in chronic myeloid leukemia. Blood 109 (11): 4686-92, 2007. [PUBMED Abstract]\n- Maziarz R: Transplantation for CML: lifelong PCR monitoring? Blood 107 (10): 3820, 2006.\n- Kaeda J, O'Shea D, Szydlo RM, et al.: Serial measurement of BCR-ABL transcripts in the peripheral blood after allogeneic stem cell transplantation for chronic myeloid leukemia: an attempt to define patients who may not require further therapy. Blood 107 (10): 4171-6, 2006. [PUBMED Abstract]\n- Pichert G, Roy DC, Gonin R, et al.: Distinct patterns of minimal residual disease associated with graft-versus-host disease after allogeneic bone marrow transplantation for chronic myelogenous leukemia. J Clin Oncol 13 (7): 1704-13, 1995. [PUBMED Abstract]\n- Shimazu Y, Murata M, Kondo T, et al.: The new generation tyrosine kinase inhibitor improves the survival of chronic myeloid leukemia patients after allogeneic stem cell transplantation. Hematol Oncol 40 (3): 442-456, 2022. [PUBMED Abstract]\n- Saussele S, Lauseker M, Gratwohl A, et al.: Allogeneic hematopoietic stem cell transplantation (allo SCT) for chronic myeloid leukemia in the imatinib era: evaluation of its impact within a subgroup of the randomized German CML Study IV. Blood 115 (10): 1880-5, 2010. [PUBMED Abstract]\n- O'Brien S, Berman E, Moore JO, et al.: NCCN Task Force report: tyrosine kinase inhibitor therapy selection in the management of patients with chronic myelogenous leukemia. J Natl Compr Canc Netw 9 (Suppl 2): S1-25, 2011. [PUBMED Abstract]\n- Wu J, Chen Y, Hageman L, et al.: Late mortality after bone marrow transplant for chronic myelogenous leukemia in the context of prior tyrosine kinase inhibitor exposure: A Blood or Marrow Transplant Survivor Study (BMTSS) report. Cancer 125 (22): 4033-4042, 2019. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Accelerated-Phase CML",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Accelerated-Phase CML",
+            "Treatment Options for Accelerated-Phase CML"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for accelerated-phase chronic myeloid leukemia (CML) include:\n- Targeted therapy with tyrosine kinase inhibitors (TKIs) .\n- Bosutinib .\n- Allogeneic stem cell transplant (SCT) ."
+        },
+        {
+          "section": "Bosutinib",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Accelerated-Phase CML",
+            "Treatment Options for Accelerated-Phase CML",
+            "Targeted therapy with TKIs",
+            "Bosutinib"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The U.S. Food and Drug Administration approved bosutinib as a first-line treatment for patients with accelerated-phase CML. These patients were included in the initial phase I/II trial that showed improved efficacy versus imatinib, based on response rates and major molecular response at 5 years of follow-up.[ 1 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Allogeneic SCT",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Accelerated-Phase CML",
+            "Treatment Options for Accelerated-Phase CML",
+            "Allogeneic SCT"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Induction of remission using a TKI and consideration of an allogeneic SCT for patients with poor responses, when feasible, is a standard approach for patients with accelerated-phase CML.[ 2 ]\nEvidence (imatinib vs. allogeneic SCT):\n- A cohort study of 132 patients with accelerated-phase CML compared imatinib with allogeneic SCT as first-line therapy, with a median follow-up of 32 months.[ 2 ][ Level of evidence C1 ]\n- The overall survival rate was improved using allogeneic SCT for the Sokal high-risk patients (100% vs. 17.7%; P = .008).\n- For Sokal low- and intermediate-risk patients, there were no survival differences between the two first-line approaches."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Accelerated-Phase CML",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Accelerated-Phase CML",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Gambacorti-Passerini C, Cortes JE, Lipton JH, et al.: Safety and efficacy of second-line bosutinib for chronic phase chronic myeloid leukemia over a five-year period: final results of a phase I/II study. Haematologica 103 (8): 1298-1307, 2018. [PUBMED Abstract]\n- Jiang Q, Xu LP, Liu DH, et al.: Imatinib mesylate versus allogeneic hematopoietic stem cell transplantation for patients with chronic myelogenous leukemia in the accelerated phase. Blood 117 (11): 3032-40, 2011. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Blastic-Phase CML",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Blastic-Phase CML",
+            "Treatment Options for Blastic-Phase CML"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for blastic-phase chronic myeloid leukemia (CML) include:\n- Targeted therapy with tyrosine kinase inhibitors (TKIs) .\n- Allogeneic bone marrow transplant (BMT) or stem cell transplant (SCT) ."
+        },
+        {
+          "section": "Targeted therapy with TKIs",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Blastic-Phase CML",
+            "Treatment Options for Blastic-Phase CML",
+            "Targeted therapy with TKIs"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Bosutinib, imatinib mesylate, dasatinib, and nilotinib have demonstrated activity in patients with myeloid blast crisis and lymphoid blast crisis or Philadelphia (Ph) chromosome–positive acute lymphoblastic leukemia (ALL).[ 1 - 3 ]\nEvidence (targeted therapy with TKIs):\n- Two trials of imatinib mesylate and one trial of dasatinib involved a total of 518 patients with blastic-phase CML.[ 2 , 4 , 5 ][ Level of evidence C1 ]\n- The studies confirmed a hematologic response rate of 42% to 55% and a major cytogenetic response rate of 16% to 25%, but the estimated 2-year survival rate was below 28%.\n- Patients with lymphoid blastic-phase CML (as opposed to the more common myeloid blastic phase) have been given the same therapy as patients with Ph chromosome–positive ALL. In a phase II trial, 23 patients with lymphoid blastic-phase CML received hyper-CVAD (hyperfractionated cyclophosphamide, vincristine, doxorubicin, and dexamethasone) and dasatinib. The major molecular response rate was 70%, and most patients were referred for allogeneic SCT.[ 6 ][ Level of evidence C3 ]\n- A review of 477 patients with blastic-phase CML treated between 1997 and 2016 at a single center showed that 72% had received previous TKI therapy in chronic phase before transformation.[ 7 ][ Level of evidence C3 ]\n- The median overall survival was 12 months.\n- The median failure-free survival was 5 months.\n- Patients who could complete an allogeneic SCT fared best, but this may have resulted from selection bias."
+        },
+        {
+          "section": "Allogeneic BMT or SCT",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Blastic-Phase CML",
+            "Treatment Options for Blastic-Phase CML",
+            "Allogeneic BMT or SCT"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Allogeneic BMT or SCT should be considered when feasible, depending on response and durability of response.[ 8 - 12 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Blastic-Phase CML",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Blastic-Phase CML",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- Druker BJ, Sawyers CL, Kantarjian H, et al.: Activity of a specific inhibitor of the BCR-ABL tyrosine kinase in the blast crisis of chronic myeloid leukemia and acute lymphoblastic leukemia with the Philadelphia chromosome. N Engl J Med 344 (14): 1038-42, 2001. [PUBMED Abstract]\n- Saglio G, Hochhaus A, Goh YT, et al.: Dasatinib in imatinib-resistant or imatinib-intolerant chronic myeloid leukemia in blast phase after 2 years of follow-up in a phase 3 study: efficacy and tolerability of 140 milligrams once daily and 70 milligrams twice daily. Cancer 116 (16): 3852-61, 2010. [PUBMED Abstract]\n- Gambacorti-Passerini C, Cortes JE, Lipton JH, et al.: Safety and efficacy of second-line bosutinib for chronic phase chronic myeloid leukemia over a five-year period: final results of a phase I/II study. Haematologica 103 (8): 1298-1307, 2018. [PUBMED Abstract]\n- Kantarjian HM, Cortes J, O'Brien S, et al.: Imatinib mesylate (STI571) therapy for Philadelphia chromosome-positive chronic myelogenous leukemia in blast phase. Blood 99 (10): 3547-53, 2002. [PUBMED Abstract]\n- Sawyers CL, Hochhaus A, Feldman E, et al.: Imatinib induces hematologic and cytogenetic responses in patients with chronic myelogenous leukemia in myeloid blast crisis: results of a phase II study. Blood 99 (10): 3530-9, 2002. [PUBMED Abstract]\n- Morita K, Kantarjian HM, Sasaki K, et al.: Outcome of patients with chronic myeloid leukemia in lymphoid blastic phase and Philadelphia chromosome-positive acute lymphoblastic leukemia treated with hyper-CVAD and dasatinib. Cancer 127 (15): 2641-2647, 2021. [PUBMED Abstract]\n- Jain P, Kantarjian HM, Ghorab A, et al.: Prognostic factors and survival outcomes in patients with chronic myeloid leukemia in blast phase in the tyrosine kinase inhibitor era: Cohort study of 477 patients. Cancer 123 (22): 4391-4402, 2017. [PUBMED Abstract]\n- Wagner JE, Zahurak M, Piantadosi S, et al.: Bone marrow transplantation of chronic myelogenous leukemia in chronic phase: evaluation of risks and benefits. J Clin Oncol 10 (5): 779-89, 1992. [PUBMED Abstract]\n- Enright H, Davies SM, DeFor T, et al.: Relapse after non-T-cell-depleted allogeneic bone marrow transplantation for chronic myelogenous leukemia: early transplantation, use of an unrelated donor, and chronic graft-versus-host disease are protective. Blood 88 (2): 714-20, 1996. [PUBMED Abstract]\n- Goldman JM, Szydlo R, Horowitz MM, et al.: Choice of pretransplant treatment and timing of transplants for chronic myelogenous leukemia in chronic phase. Blood 82 (7): 2235-8, 1993. [PUBMED Abstract]\n- Clift RA, Appelbaum FR, Thomas ED: Treatment of chronic myeloid leukemia by marrow transplantation. Blood 82 (7): 1954-6, 1993. [PUBMED Abstract]\n- Hansen JA, Gooley TA, Martin PJ, et al.: Bone marrow transplants from unrelated donors for patients with chronic myeloid leukemia. N Engl J Med 338 (14): 962-8, 1998. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Relapsed CML",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Relapsed CML",
+            "Treatment Options for Relapsed CML"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment options for relapsed chronic myeloid leukemia (CML) include:\n- Targeted therapies with tyrosine kinase inhibitors (TKIs) .\n- Ponatinib .\n- Asciminib .\nRelapsed CML is characterized by any evidence of progression of disease from a stable remission. This may include:\n- Increasing myeloid or blast cells in the peripheral blood or bone marrow.\n- Cytogenetic positivity when previously cytogenetic negative.\n- Fluorescence in situ hybridization (FISH) positivity for BCR :: ABL1 translocation when previously FISH negative.\nDetection of the BCR :: ABL1 translocation by reverse transcription–polymerase chain reaction (RT-PCR) during prolonged remissions does not constitute relapse on its own. However, exponential drops in quantitative RT-PCR measurements for 3 to 12 months correlates with the degree of cytogenetic response, just as exponential rises may be associated with quantitative RT-PCR measurements that are closely connected with clinical relapse.[ 1 ] Overt treatment failure is defined as a loss of hematologic remission or progression to accelerated-phase or blast crisis phase CML. A consistently rising quantitative RT-PCR BCR::ABL1 level suggests relapsed disease."
+        },
+        {
+          "section": "Targeted therapy with TKIs",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Relapsed CML",
+            "Treatment Options for Relapsed CML",
+            "Targeted therapy with TKIs"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "In case of treatment failure or suboptimal response, patients should undergo BCR::ABL1 kinase domain mutation analysis to help guide therapy with the newer TKIs or with allogeneic transplant.[ 2 , 3 ]\nVariants in the tyrosine kinase domain can confer resistance to imatinib mesylate. Alternative TKIs such as dasatinib, nilotinib, or bosutinib, higher doses of imatinib mesylate, and allogeneic stem cell transplant (SCT) have been studied in this setting.[ 4 - 16 ] In particular, the T315I variant marks resistance to imatinib, dasatinib, nilotinib, and bosutinib."
+        },
+        {
+          "section": "Ponatinib",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Relapsed CML",
+            "Treatment Options for Relapsed CML",
+            "Targeted therapy with TKIs",
+            "Ponatinib"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Ponatinib is an oral TKI that has activity in patients with T315I variants or in patients for whom another TKI failed.[ 17 - 19 ] Multiple phase II studies concluded that the optimal response (≤1% BCR::ABL1) and least toxicity occurred at a 45 mg starting dose, with a decrease to 15 mg upon achieving the response.[ 20 , 21 ][ Level of evidence C3 ] Ponatinib is associated with increased cardiovascular adverse events. Patients with significant cardiovascular disease, hypertension, or diabetes mellitus have been excluded from clinical trials.[ 20 , 21 ]\nEvidence (ponatinib):\n- Ponatinib has been studied in multiple phase II studies involving 799 patients.[ 17 , 21 ][ Level of evidence C3 ]\n- Of the 799 patients with the T315I variant or resistance to two or more prior TKIs, 46% to 68% had an optimal response (≤1% BCR::ABL1) to ponatinib.\n- In a retrospective review of 184 patients with recurrent chronic CML and the T315I variant, the following was reported:[ 18 ][ Level of evidence C3 ]\n- Patients treated with ponatinib had a higher 4-year overall survival (OS) rate than did patients treated with allogeneic SCT (73% vs. 56%; hazard ratio [HR], 0.37; 95% confidence interval [CI], 0.16−0.84; P = .017).\n- For patients with accelerated-phase CML, survival was equivalent; however, for patients with blast crisis-phase CML, OS was worse for those who received ponatinib (HR, 2.29; 95% CI, 1.08−4.82; P = .030).\n- In a retrospective review, patients with a T315I variant and CML that did not respond to ponatinib had a poor prognosis, with a median survival of 16 months. The outcomes for these patients were best after allogeneic SCT, but this could have resulted from selection bias.[ 22 ][ Level of evidence C3 ]\n- A phase II trial of 282 patients was conducted to determine the lowest efficacious dose of ponatinib, because higher doses are correlated with arterial occlusive events.[ 20 ]\n- The optimal dose was found to be an initial 45 mg dose given once daily, then lowered to 15 mg upon achievement of a response (≤1% BCR::ABL1).[ 20 ]"
+        },
+        {
+          "section": "Asciminib",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Relapsed CML",
+            "Treatment Options for Relapsed CML",
+            "Targeted therapy with TKIs",
+            "Asciminib"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Asciminib is an allosteric inhibitor of BCR::ABL1 at the ABL1 myristoyl pocket, a site unique from those used by TKIs.\nEvidence (asciminib):\n- An open-label randomized clinical trial compared asciminib with bosutinib. With a median follow-up of 14.9 months, 233 patients with refractory or resistant disease were randomly assigned in a 2:1 ratio to receive either asciminib or bosutinib.[ 23 ]\n- The major molecular response (MMR) rate at week 24 was 25.5% for patients who received asciminib versus 13.2% for patients who received bosutinib. The difference in response (adjusted for major cytogenetic response at baseline) was 12.2% (95% CI, 2.19%–22.30%; P = .029).[ 23 ][ Level of evidence B3 ]\n- Grade 3 or 4 adverse events were experienced by 50.6% of patients who received asciminib and 60.5% of patients who received bosutinib.\n- A phase I trial of asciminib included heavily pretreated patients who experienced resistance or unacceptable side effects after standard TKIs. Patients with a T315I variant and those in whom ponatinib failed were included.[ 24 ][ Level of evidence C3 ]\n- Of 141 patients, 48% achieved an MMR by 12 months.\n- A phase II trial included 31 patients who received asciminib.[ 25 ][ Level of evidence C3 ]\n- An MMR rate of 41% was reported by 12 months.\n- Three of nine patients with disease that failed to respond to previous ponatinib responded to asciminib."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Relapsed CML",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Relapsed CML",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 25,
+          "text": "- Martinelli G, Iacobucci I, Rosti G, et al.: Prediction of response to imatinib by prospective quantitation of BCR-ABL transcript in late chronic phase chronic myeloid leukemia patients. Ann Oncol 17 (3): 495-502, 2006. [PUBMED Abstract]\n- Soverini S, Hochhaus A, Nicolini FE, et al.: BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeukemiaNet. Blood 118 (5): 1208-15, 2011. [PUBMED Abstract]\n- Parker WT, Lawrence RM, Ho M, et al.: Sensitive detection of BCR-ABL1 mutations in patients with chronic myeloid leukemia after imatinib resistance is predictive of outcome during subsequent therapy. J Clin Oncol 29 (32): 4250-9, 2011. [PUBMED Abstract]\n- Jabbour E, Cortes J, Kantarjian HM, et al.: Allogeneic stem cell transplantation for patients with chronic myeloid leukemia and acute lymphocytic leukemia after Bcr-Abl kinase mutation-related imatinib failure. Blood 108 (4): 1421-3, 2006. [PUBMED Abstract]\n- le Coutre PD, Giles FJ, Hochhaus A, et al.: Nilotinib in patients with Ph+ chronic myeloid leukemia in accelerated phase following imatinib resistance or intolerance: 24-month follow-up results. Leukemia 26 (6): 1189-94, 2012. [PUBMED Abstract]\n- Hochhaus A, Baccarani M, Deininger M, et al.: Dasatinib induces durable cytogenetic responses in patients with chronic myelogenous leukemia in chronic phase with resistance or intolerance to imatinib. Leukemia 22 (6): 1200-6, 2008. [PUBMED Abstract]\n- Guilhot F, Apperley J, Kim DW, et al.: Dasatinib induces significant hematologic and cytogenetic responses in patients with imatinib-resistant or -intolerant chronic myeloid leukemia in accelerated phase. Blood 109 (10): 4143-50, 2007. [PUBMED Abstract]\n- Kantarjian HM, Giles FJ, Bhalla KN, et al.: Nilotinib is effective in patients with chronic myeloid leukemia in chronic phase after imatinib resistance or intolerance: 24-month follow-up results. Blood 117 (4): 1141-5, 2011. [PUBMED Abstract]\n- Kantarjian H, Cortes J, Kim DW, et al.: Phase 3 study of dasatinib 140 mg once daily versus 70 mg twice daily in patients with chronic myeloid leukemia in accelerated phase resistant or intolerant to imatinib: 15-month median follow-up. Blood 113 (25): 6322-9, 2009. [PUBMED Abstract]\n- Jabbour E, Jones D, Kantarjian HM, et al.: Long-term outcome of patients with chronic myeloid leukemia treated with second-generation tyrosine kinase inhibitors after imatinib failure is predicted by the in vitro sensitivity of BCR-ABL kinase domain mutations. Blood 114 (10): 2037-43, 2009. [PUBMED Abstract]\n- Apperley JF, Cortes JE, Kim DW, et al.: Dasatinib in the treatment of chronic myeloid leukemia in accelerated phase after imatinib failure: the START a trial. J Clin Oncol 27 (21): 3472-9, 2009. [PUBMED Abstract]\n- Hughes T, Saglio G, Branford S, et al.: Impact of baseline BCR-ABL mutations on response to nilotinib in patients with chronic myeloid leukemia in chronic phase. J Clin Oncol 27 (25): 4204-10, 2009. [PUBMED Abstract]\n- Kantarjian H, Pasquini R, Lévy V, et al.: Dasatinib or high-dose imatinib for chronic-phase chronic myeloid leukemia resistant to imatinib at a dose of 400 to 600 milligrams daily: two-year follow-up of a randomized phase 2 study (START-R). Cancer 115 (18): 4136-47, 2009. [PUBMED Abstract]\n- Saglio G, Hochhaus A, Goh YT, et al.: Dasatinib in imatinib-resistant or imatinib-intolerant chronic myeloid leukemia in blast phase after 2 years of follow-up in a phase 3 study: efficacy and tolerability of 140 milligrams once daily and 70 milligrams twice daily. Cancer 116 (16): 3852-61, 2010. [PUBMED Abstract]\n- Cortes JE, Kantarjian HM, Brümmendorf TH, et al.: Safety and efficacy of bosutinib (SKI-606) in chronic phase Philadelphia chromosome-positive chronic myeloid leukemia patients with resistance or intolerance to imatinib. Blood 118 (17): 4567-76, 2011. [PUBMED Abstract]\n- Khoury HJ, Cortes JE, Kantarjian HM, et al.: Bosutinib is active in chronic phase chronic myeloid leukemia after imatinib and dasatinib and/or nilotinib therapy failure. Blood 119 (15): 3403-12, 2012. [PUBMED Abstract]\n- Cortes JE, Kim DW, Pinilla-Ibarz J, et al.: A phase 2 trial of ponatinib in Philadelphia chromosome-positive leukemias. N Engl J Med 369 (19): 1783-96, 2013. [PUBMED Abstract]\n- Nicolini FE, Basak GW, Kim DW, et al.: Overall survival with ponatinib versus allogeneic stem cell transplantation in Philadelphia chromosome-positive leukemias with the T315I mutation. Cancer 123 (15): 2875-2880, 2017. [PUBMED Abstract]\n- Shacham-Abulafia A, Raanani P, Lavie D, et al.: Real-life Experience With Ponatinib in Chronic Myeloid Leukemia: A Multicenter Observational Study. Clin Lymphoma Myeloma Leuk 18 (7): e295-e301, 2018. [PUBMED Abstract]\n- Cortes J, Apperley J, Lomaia E, et al.: Ponatinib dose-ranging study in chronic-phase chronic myeloid leukemia: a randomized, open-label phase 2 clinical trial. Blood 138 (21): 2042-2050, 2021. [PUBMED Abstract]\n- Kantarjian HM, Jabbour E, Deininger M, et al.: Ponatinib after failure of second-generation tyrosine kinase inhibitor in resistant chronic-phase chronic myeloid leukemia. Am J Hematol 97 (11): 1419-1426, 2022. [PUBMED Abstract]\n- Boddu P, Shah AR, Borthakur G, et al.: Life after ponatinib failure: outcomes of chronic and accelerated phase CML patients who discontinued ponatinib in the salvage setting. Leuk Lymphoma 59 (6): 1312-1322, 2018. [PUBMED Abstract]\n- Réa D, Mauro MJ, Boquimpani C, et al.: A phase 3, open-label, randomized study of asciminib, a STAMP inhibitor, vs bosutinib in CML after 2 or more prior TKIs. Blood 138 (21): 2031-2041, 2021. [PUBMED Abstract]\n- Hughes TP, Mauro MJ, Cortes JE, et al.: Asciminib in Chronic Myeloid Leukemia after ABL Kinase Inhibitor Failure. N Engl J Med 381 (24): 2315-2326, 2019. [PUBMED Abstract]\n- Garcia-Gutiérrez V, Luna A, Alonso-Dominguez JM, et al.: Safety and efficacy of asciminib treatment in chronic myeloid leukemia patients in real-life clinical practice. Blood Cancer J 11 (2): 16, 2021. [PUBMED Abstract]"
+        },
+        {
+          "section": "Key References for CML",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Key References for CML"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "These references have been identified by members of the PDQ Adult Treatment Editorial Board as significant in the field of chronic myeloid leukemia (CML) treatment. This list is provided to inform users of important studies that have helped shape the current understanding of and treatment options for CML. Listed after each reference are the sections within this summary where the reference is cited.\n- Hughes TP, Saglio G, Kantarjian HM, et al.: Early molecular response predicts outcomes in patients with chronic myeloid leukemia in chronic phase treated with frontline nilotinib or imatinib. Blood 123 (9): 1353-60, 2014. [ PUBMED Abstract ] Cited in:\n- Treatment of Chronic-Phase CML\n- Jabbour E, Kantarjian HM, Saglio G, et al.: Early response with dasatinib or imatinib in chronic myeloid leukemia: 3-year follow-up from a randomized phase 3 trial (DASISION). Blood 123 (4): 494-500, 2014. [ PUBMED Abstract ] Cited in:\n- Treatment of Chronic-Phase CML\n- Kantarjian HM, Hochhaus A, Saglio G, et al.: Nilotinib versus imatinib for the treatment of patients with newly diagnosed chronic phase, Philadelphia chromosome-positive, chronic myeloid leukaemia: 24-month minimum follow-up of the phase 3 randomised ENESTnd trial. Lancet Oncol 12 (9): 841-51, 2011. [ PUBMED Abstract ] Cited in:\n- Treatment of Chronic-Phase CML"
+        },
+        {
+          "section": "Latest Updates to This Summary (03/13/2025)",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (03/13/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nGeneral Information About Chronic Myeloid Leukemia (CML)\nUpdated statistics with estimated new cases and deaths for 2025 (cited American Cancer Society as reference 1).\nTreatment of Chronic-Phase CML\nRevised text about a prospective study that included 405 patients with newly diagnosed CML. Patients were randomly assigned to receive asciminib or either imatinib mesylate or nilotinib, dasatinib, or bosutinib. A prespecified subgroup analysis compared asciminib with the second-generation tyrosine kinase inhibitors (TKIs) (not including imatinib). At week 48, 66.0% who received asciminib had a major molecular response (MMR), and 57.8% of patients who received second-generation TKIs had an MMR. The 8.2% difference was not statistically significant. In the first year, it appears that the efficacy of asciminib is equivalent to those of second-generation TKIs. Longer follow-up is required to fully assess efficacy and toxicity outcomes.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of chronic myeloid leukemia. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 10,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Chronic Myeloid Leukemia Treatment are:\n- Aaron Gerds, MD (Cleveland Clinic Taussig Cancer Institute)\n- Eric J. Seifter, MD (Johns Hopkins University)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Chronic Myeloid Leukemia Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/leukemia/hp/cml-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389354]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\126434a4b8d046efc297.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Chronic Myeloid Leukemia",
+      "title": "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+      "summary_name": "Chronic Myeloid Leukemia Treatment",
+      "url": "https://www.cancer.gov/types/leukemia/patient/cml-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "April 9, 2025",
+      "retrieved_at": "2026-08-31T07:11:43.797494+00:00",
+      "content_sha256": "c3fabc6a976f9bf3f39de133c9163289912c8c987c16857511842401c3d03ec8",
+      "section_count": 37,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Chronic Myeloid Leukemia",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Chronic myeloid leukemia is a disease in which the bone marrow makes too many white blood cells.\n- Leukemia may affect red blood cells, white blood cells, and platelets.\n- Signs and symptoms of chronic myeloid leukemia include weight loss and tiredness.\n- Most people with chronic myeloid leukemia have a gene mutation (change) called the Philadelphia (Ph) chromosome.\n- Tests that examine the blood and bone marrow are used to diagnose chronic myeloid leukemia.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Chronic myeloid leukemia is a disease in which the bone marrow makes too many white blood cells.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Chronic Myeloid Leukemia",
+            "Chronic myeloid leukemia is a disease in which the bone marrow makes too many white blood cells."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chronic myeloid leukemia (also called CML or chronic myelogenous leukemia) is a slowly progressing blood and bone marrow disease that usually occurs during or after middle age and rarely occurs in children."
+        },
+        {
+          "section": "Leukemia may affect red blood cells, white blood cells, and platelets.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Chronic Myeloid Leukemia",
+            "Leukemia may affect red blood cells, white blood cells, and platelets."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Normally, the bone marrow makes blood stem cells (immature cells) that become mature blood cells over time. A blood stem cell may become a myeloid stem cell or a lymphoid stem cell.\nA myeloid stem cell becomes one of three types of mature blood cells:\n- red blood cells that carry oxygen and other substances to all tissues of the body\n- platelets that form blood clots to stop bleeding\n- granulocytes (white blood cells) that fight infection and disease\nIn CML, too many myeloblasts (a type of immature white blood cell) form in the blood and bone marrow, and the disease worsens as the number of myeloblasts increases.\nCML is one of a group of diseases called myeloproliferative neoplasms ."
+        },
+        {
+          "section": "Signs and symptoms of chronic myeloid leukemia include weight loss and tiredness.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Chronic Myeloid Leukemia",
+            "Signs and symptoms of chronic myeloid leukemia include weight loss and tiredness."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "These and other signs and symptoms may be caused by CML or by other conditions. Check with your doctor if you have:\n- fatigue (feeling very tired)\n- weight loss for no known reason\n- drenching night sweats\n- fever\n- pain or a feeling of fullness below the ribs on the left side\nSometimes CML does not cause any symptoms at all."
+        },
+        {
+          "section": "Most people with chronic myeloid leukemia have a gene mutation (change) called the Philadelphia (Ph) chromosome.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Chronic Myeloid Leukemia",
+            "Most people with chronic myeloid leukemia have a gene mutation (change) called the Philadelphia (Ph) chromosome."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Every cell in the body contains DNA ( genetic material) that determines how the cell looks and acts. DNA is contained inside chromosomes . In CML, part of the DNA from one chromosome moves to another chromosome. This change is called the \" Philadelphia chromosome .\" It results in the bone marrow making a protein , called tyrosine kinase , that causes too many stem cells to become white blood cells (granulocytes or blasts ).\nThe Philadelphia chromosome is not passed from parent to child. Enlarge The Philadelphia (Ph) chromosome is an abnormal chromosome that is made when pieces of chromosomes 9 and 22 break off and trade places. The ABL1 gene from chromosome 9 joins to the BCR gene on chromosome 22 to form the BCR :: ABL1 fusion gene. The changed chromosome 22 with the fusion gene on it is called the Ph chromosome."
+        },
+        {
+          "section": "Tests that examine the blood and bone marrow are used to diagnose chronic myeloid leukemia.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Chronic Myeloid Leukemia",
+            "Tests that examine the blood and bone marrow are used to diagnose chronic myeloid leukemia."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam to check for signs of disease, such as an enlarged spleen , your doctor may perform the following tests and procedures:\n- Complete blood count (CBC) with differential checks a sample of blood for: Enlarge Complete blood count (CBC). Blood is collected by inserting a needle into a vein and allowing the blood to flow into a tube. The blood sample is sent to the laboratory and the red blood cells, white blood cells, and platelets are counted. The CBC is used to test for, diagnose, and monitor many different conditions.\n- the number of red blood cells and platelets\n- the number and type of white blood cells\n- the amount of hemoglobin (the protein that carries oxygen) in the red blood cells\n- the amount of hematocrit (whole blood that is made up of red blood cells)\n- Blood chemistry study uses a blood sample to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual amount of a substance can be a sign of disease.\n- Bone marrow aspiration and biopsy is the removal of bone marrow, blood, and a small piece of bone by inserting a needle into the hipbone or breastbone . A pathologist views the bone marrow, blood, and bone under a microscope to look for abnormal cells. Enlarge Bone marrow aspiration and biopsy. After a small area of skin is numbed, a long, hollow needle is inserted through the patient's skin and hip bone into the bone marrow. A sample of bone marrow and a small piece of bone are removed for examination under a microscope. One of the following tests may be done on the samples of blood or bone marrow tissue that are removed.\n- Cytogenetic analysis checks the chromosomes of cells in a sample of bone marrow, blood, tumor, or other tissue for broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes, such as the Philadelphia chromosome, may be a sign of cancer. Cytogenetic analysis is used to help diagnose cancer, plan treatment, or find out how well treatment is working.\n- FISH (fluorescence in situ hybridization) is a laboratory test used to look at and count genes or chromosomes in cells and tissues. Pieces of DNA that contain fluorescent dyes are made in the laboratory and added to a sample of a patient's cells or tissues. When these dyed pieces of DNA attach to certain genes or areas of chromosomes in the sample, they light up when viewed under a fluorescent microscope. The FISH test is used to help diagnose cancer and help plan treatment.\n- Reverse transcription–polymerase chain reaction test (RT-PCR) is a laboratory test in which the amount of a genetic substance called mRNA made by a specific gene is measured. An enzyme called reverse transcriptase is used to convert a specific piece of RNA into a matching piece of DNA, which can be amplified (made in large numbers) by another enzyme called DNA polymerase. The amplified DNA copies help tell whether a specific mRNA is being made by a gene. RT-PCR can be used to check the activation of certain genes that may indicate the presence of cancer cells. This test may be used to look for certain changes in a gene or chromosome, which may help diagnose cancer."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Chronic Myeloid Leukemia",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The prognosis and treatment options depend on:\n- the patient's age\n- the phase of CML\n- the amount of blasts in the blood or bone marrow\n- the patient's general health"
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Stages of Chronic Myeloid Leukemia",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- After chronic myeloid leukemia has been diagnosed, tests are done to find out if the cancer has spread.\n- Chronic myeloid leukemia has 3 phases.\n- Chronic phase\n- Accelerated phase\n- Blastic phase\n- Chronic myeloid leukemia can relapse (return) after it has been treated."
+        },
+        {
+          "section": "After chronic myeloid leukemia has been diagnosed, tests are done to find out if the cancer has spread.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Stages of Chronic Myeloid Leukemia",
+            "After chronic myeloid leukemia has been diagnosed, tests are done to find out if the cancer has spread."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The extent or spread of cancer is usually described as stages . In chronic myeloid leukemia (CML), the disease is classified by phase: chronic phase , accelerated phase , or blastic phase . It is important to know the phase in order to plan treatment. The information from tests and procedures done to diagnose chronic myeloid leukemia is also used to plan treatment."
+        },
+        {
+          "section": "Chronic myeloid leukemia has 3 phases.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Stages of Chronic Myeloid Leukemia",
+            "Chronic myeloid leukemia has 3 phases."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "As the amount of blast cells increases in the blood and bone marrow , there is less room for healthy white blood cells , red blood cells , and platelets . This may result in infections , anemia , and easy bleeding, as well as bone pain and pain or a feeling of fullness below the ribs on the left side. The number of blast cells in the blood and bone marrow and the severity of signs or symptoms determine the phase of the disease."
+        },
+        {
+          "section": "Chronic phase",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Stages of Chronic Myeloid Leukemia",
+            "Chronic myeloid leukemia has 3 phases.",
+            "Chronic phase"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In chronic phase CML , fewer than 10% of the cells in the blood and bone marrow are blast cells."
+        },
+        {
+          "section": "Accelerated phase",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Stages of Chronic Myeloid Leukemia",
+            "Chronic myeloid leukemia has 3 phases.",
+            "Accelerated phase"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In accelerated phase CML , 10% to 19% of the cells in the blood and bone marrow are blast cells."
+        },
+        {
+          "section": "Blastic phase",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Stages of Chronic Myeloid Leukemia",
+            "Chronic myeloid leukemia has 3 phases.",
+            "Blastic phase"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In blastic phase CML , 20% or more of the cells in the blood or bone marrow are blast cells. When tiredness, fever , and an enlarged spleen occur during the blastic phase, it is called blast crisis ."
+        },
+        {
+          "section": "Chronic myeloid leukemia can relapse (return) after it has been treated.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Stages of Chronic Myeloid Leukemia",
+            "Chronic myeloid leukemia can relapse (return) after it has been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In relapsed CML , the number of blast cells increases after a remission ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- There are different types of treatment for patients with chronic myeloid leukemia.\n- The following types of treatment are used:\n- Targeted therapy\n- Chemotherapy\n- Immunotherapy\n- High-dose chemotherapy with stem cell transplant (SCT)\n- Donor lymphocyte infusion (DLI)\n- Surgery\n- New types of treatment are being tested in clinical trials.\n- Treatment for chronic myeloid leukemia may cause side effects.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with chronic myeloid leukemia.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with chronic myeloid leukemia."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Different types of treatments are available for chronic myeloid leukemia (CML). You and your cancer care team will work together to decide your treatment plan, which may include more than one type of treatment. Many factors will be considered, such as the stage of the cancer, your overall health, and your preferences. Your plan will include information about your cancer, the goals of treatment, your treatment options and the possible side effects, and the expected length of treatment.\nTalking with your cancer care team before treatment begins about what to expect will be helpful. You'll want to learn what you need to do before treatment begins, how you'll feel while going through it, and what kind of help you will need. To learn more, visit Questions to Ask Your Doctor About Treatment ."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells.\n- Tyrosine kinase inhibitor therapy blocks the enzyme tyrosine kinase that causes stem cells to develop into more white blood cells ( blasts ) than the body needs. Tyrosine kinase inhibitors used to treat CML include: Having bariatric surgery may block some absorption of oral tyrosine kinase inhibitors, limiting their effectiveness.\n- asciminib\n- imatinib mesylate\n- dasatinib\n- nilotinib\n- bosutinib\nLearn more about Targeted Therapy to Treat Cancer and Drugs Approved for Chronic Myeloid Leukemia ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ).\nLearn more about Chemotherapy to Treat Cancer and Drugs Approved for Chronic Myeloid Leukemia ."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Immunotherapy is a treatment that uses the patient's immune system to fight cancer. Substances made by the body or made in a laboratory are used to boost, direct, or restore the body's natural defenses against cancer. Interferon is a type of immunotherapy used to treat CML. It affects the division of cancer cells and can slow tumor growth.\nLearn more about Immunotherapy to Treat Cancer and Drugs Approved for Chronic Myeloid Leukemia ."
+        },
+        {
+          "section": "High-dose chemotherapy with stem cell transplant (SCT)",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "High-dose chemotherapy with stem cell transplant (SCT)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "High doses of chemotherapy are given to kill cancer cells. Healthy cells, including blood -forming cells, are also destroyed by the cancer treatment. stem cell transplant is a treatment to replace the blood-forming cells. Stem cells (immature blood cells) are removed from the blood or bone marrow of the patient or a donor and are frozen and stored. After the patient completes chemotherapy, the stored stem cells are thawed and given back to the patient through an infusion . These reinfused stem cells grow into (and restore) the body's blood cells.\nLearn more about Stem Cell Transplants in Cancer Treatment ."
+        },
+        {
+          "section": "Donor lymphocyte infusion (DLI)",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Donor lymphocyte infusion (DLI)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Donor lymphocyte infusion (DLI) is a cancer treatment that may be used after stem cell transplant. Lymphocytes (a type of white blood cell ) from the stem cell transplant donor are removed from the donor's blood and may be frozen for storage. The donor's lymphocytes are thawed if they were frozen and then given to the patient through one or more infusions. The lymphocytes see the patient's cancer cells as not belonging to the body and attack them."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Splenectomy is surgery to remove the spleen ."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some people, joining a clinical trial may be an option. There are different types of clinical trials for people with cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment for chronic myeloid leukemia may cause side effects.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for chronic myeloid leukemia may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Chronic Phase Chronic Myeloid Leukemia",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment of Chronic Phase Chronic Myeloid Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of chronic phase chronic myeloid leukemia may include:\n- targeted therapy ( asciminib , imatinib mesylate , nilotinib , dasatinib , bosutinib )\n- allogeneic bone marrow transplant or stem cell transplant\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Accelerated Phase Chronic Myeloid Leukemia",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment of Accelerated Phase Chronic Myeloid Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of accelerated phase chronic myeloid leukemia may include:\n- targeted therapy (bosutinib)\n- targeted therapy (imatinib mesylate) followed by allogeneic stem cell transplant\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Blastic Phase Chronic Myeloid Leukemia",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment of Blastic Phase Chronic Myeloid Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment of blastic phase chronic myeloid leukemia may include:\n- targeted therapy (imatinib mesylate, dasatinib, nilotinib, bosutinib)\n- allogeneic bone marrow transplant or stem cell transplant\n- chemotherapy as palliative therapy to relieve symptoms and improve quality of life\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Relapsed Chronic Myeloid Leukemia",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment of Relapsed Chronic Myeloid Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In relapsed chronic myeloid leukemia (CML), the number of blast cells increases after a remission . Treatment of relapsed CML may include targeted therapy ( ponatinib or asciminib).\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Chronic Myeloid Leukemia",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "To Learn More About Chronic Myeloid Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "For more information from the National Cancer Institute about chronic myeloid leukemia, visit:\n- Leukemia Home Page\n- Drugs Approved for Myeloproliferative Neoplasms\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of chronic myeloid leukemia. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Chronic Myeloid Leukemia Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/leukemia/patient/cml-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389183]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Chronic Myeloid Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\a1c5e8ca5e880334f4ea.html"
+    }
+  ]
+}

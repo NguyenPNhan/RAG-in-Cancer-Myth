@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Childhood Heart Tumors",
+  "generated_at": "2026-08-31T07:15:23.086569+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Childhood Heart Tumors",
+      "title": "Childhood Heart Tumors (PDQ®)–Patient Version",
+      "summary_name": "Childhood Heart Tumors",
+      "url": "https://www.cancer.gov/types/cardiac/patient-child-cardiac-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "October 4, 2024",
+      "retrieved_at": "2026-08-31T07:09:14.316847+00:00",
+      "content_sha256": "9812da9d1c5f220113b3b4b2355d96fecf968f8723340aa04712f6990ebbcd5e",
+      "section_count": 30,
+      "sections": [
+        {
+          "section": "What are childhood heart tumors?",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "What are childhood heart tumors?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "Heart tumors (also called cardiac tumors) are rare growths that can form in any part of the heart. They can be benign (not cancerous) or malignant (cancerous). Most heart tumors in children are benign. Although benign tumors do not spread to other parts of the body, they may require treatment to stop them from causing problems with the heart's rhythm and blood flow. Cancerous heart tumors are very rare in children. They can spread to other parts of the body and require more intensive treatment than benign tumors.\nTypes of benign heart tumors that may occur in a fetus , newborn, or child include:\n- Rhabdomyoma is a tumor that forms in muscle made up of long fibers .\n- Myxoma is a tumor that may be part of a hereditary syndrome called Carney complex .\n- Teratoma is a type of germ cell tumor . In the heart, these tumors form most often in the pericardium (the sac that covers the heart). Some teratomas are cancerous.\n- Fibroma is a tumor that forms in fiber-like tissue that holds bones, muscles, and other organs in place.\n- Histiocytoid cardiomyopathy tumor is a tumor that forms in the heart cells that control heart rhythm.\n- Hemangioma is a tumor that forms in the cells that line blood vessels .\n- Neurofibroma is a tumor that forms in the cells and tissues that cover nerves .\nThe most common benign heart tumors that may occur in a fetus or newborn include rhabdomyoma, myxoma, teratoma, and fibroma. Most rhabdomyomas go away on their own.\nTypes of cancerous heart tumors that may occur in a fetus, newborn, or child include:\n- Malignant teratoma is a type of germ cell tumor. In the heart, these tumors form most often in the pericardium (the sac that covers the heart). Most teratomas are not cancer.\n- Primary cardiac lymphoma begins in the heart and/or pericardium (the sac that covers the heart).\n- Rhabdomyosarcoma forms in muscle made up of long fibers.\n- Angiosarcoma forms in cells that line blood vessels or lymph vessels .\n- Undifferentiated pleomorphic sarcoma usually forms in the soft tissue , but it may also form in bone.\n- Leiomyosarcoma forms in smooth muscle cells.\n- Chondrosarcoma usually forms in bone cartilage , but very rarely can begin in the heart.\n- Synovial sarcoma usually forms around joints , but may very rarely form in the heart or sac around the heart.\n- Infantile fibrosarcoma forms in fiber-like tissue that holds bones, muscles, and other organs in place."
+        },
+        {
+          "section": "Causes and risk factors for childhood heart tumors",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Causes and risk factors for childhood heart tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Heart tumors in children are caused by certain changes to the way heart cells function, especially how they grow and divide into new cells. Often, the exact cause of the cell changes is unknown. Learn more about how cancer develops at What Is Cancer?\nA risk factor is anything that increases the chance of getting a disease. A fetus or newborn can have a higher risk of benign heart tumors if they have a genetic condition called tuberous sclerosis . Another condition, called Carney complex , might also increase a child's risk of a type of benign heart tumor called myxoma. Not all children with these risk factors will get a benign heart tumor, and benign heart tumors may develop in some children who don't have a known risk factor. Talk with your child's doctor if you think your child may be at risk.\nThere are no known risk factors for cancerous heart tumors in children."
+        },
+        {
+          "section": "Symptoms of childhood heart tumors",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Symptoms of childhood heart tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "Most children with a heart tumor will have some signs and symptoms that alert parents of a problem. It's important to check with your child's doctor if your child has:\n- a change in the heart's normal rhythm\n- trouble breathing, especially when lying down\n- pain or tightness in the middle of the chest that feels better when sitting up\n- coughing\n- fainting\n- feeling dizzy, tired, or weak\n- fast heart rate\n- swelling in the legs, ankles, or abdomen\n- signs of a stroke , including sudden:\n- numbness or weakness of the face, arm, or leg (especially on one side of the body)\n- confusion or trouble speaking or understanding\n- trouble seeing with one or both eyes\n- trouble walking or feeling dizzy\n- loss of balance or coordination\n- severe headache for no known reason\nThese symptoms may be caused by problems other than a heart tumor. The only way to know is to see your child's doctor."
+        },
+        {
+          "section": "Tests to diagnose childhood heart tumors",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood heart tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "If your child has symptoms that suggest a heart tumor, the doctor will need to find out the cause. The doctor will ask when the symptoms started and how often your child has been having them. They will also ask about your child's personal and family medical history and do a physical exam . Depending on these results, they may recommend other tests. If your child is diagnosed with a heart tumor, the results of these tests will help you and your child's doctor plan treatment.\nThe tests and procedures used to diagnose heart tumors may include:"
+        },
+        {
+          "section": "Echocardiogram",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood heart tumors",
+            "Echocardiogram"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "An echocardiogram uses high-energy sound waves (ultrasound) that bounce off the heart and nearby tissues or organs and make echoes. A moving picture is made of the heart and heart valves as blood is pumped through the heart."
+        },
+        {
+          "section": "CT scan (CAT scan)",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood heart tumors",
+            "CT scan (CAT scan)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A CT scan uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body. The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more about Computed Tomography (CT) Scans and Cancer . Enlarge Computed tomography (CT) scan. The child lies on a table that slides through the CT scanner, which takes a series of detailed x-ray pictures of areas inside the body."
+        },
+        {
+          "section": "Magnetic resonance imaging (MRI)",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood heart tumors",
+            "Magnetic resonance imaging (MRI)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "MRI uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas of the body, such as the head and neck. This procedure is also called nuclear magnetic resonance imaging (NMRI). Enlarge Magnetic resonance imaging (MRI) scan. The child lies on a table that slides into the MRI machine, which takes a series of detailed pictures of areas inside the body. The positioning of the child on the table depends on the part of the body being imaged."
+        },
+        {
+          "section": "Chest x-ray",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood heart tumors",
+            "Chest x-ray"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "An x-ray is a type of radiation that can go through the body and make pictures. A chest x-ray is one that makes pictures of the organs and bones inside the chest."
+        },
+        {
+          "section": "Electrocardiogram (EKG)",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood heart tumors",
+            "Electrocardiogram (EKG)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "An EKG is a recording of the heart's electrical activity to check its rate and rhythm. Small pads (electrodes) are placed on the patient's chest, arms, and legs, and are connected by wires to the EKG machine. Heart activity is then recorded as a line graph on paper. Electrical activity that is faster or slower than normal may be a sign of heart disease or damage."
+        },
+        {
+          "section": "Cardiac catheterization",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Tests to diagnose childhood heart tumors",
+            "Cardiac catheterization"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Cardiac catheterization is a procedure to look inside the blood vessels and heart for abnormal areas or cancer. A long, thin, catheter is inserted into an artery or vein in the groin , neck, or arm and threaded through the blood vessels to the heart. A sample of tissue may be removed using a special tool. A pathologist views the tissue under a microscope to look for cancer cells."
+        },
+        {
+          "section": "Getting a second opinion",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Getting a second opinion"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your child's diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report, slides, and scans. They may agree with the first doctor, suggest changes to the treatment plan, or provide more information about your child's tumor.\nTo learn more about choosing a doctor and getting a second opinion, see Finding Cancer Care . You can contact NCI's Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor or hospital that can provide a second opinion. For questions you might want to ask at your child's appointments, see Questions to Ask Your Doctor About Cancer ."
+        },
+        {
+          "section": "Who treats children with heart tumors?",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Types of treatment for childhood heart tumors",
+            "Who treats children with heart tumors?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "A pediatric oncologist, a doctor who specializes in treating children with cancer, oversees treatment of heart tumors. The pediatric oncologist works with other health care providers who are experts in treating children with cancer and who specialize in certain areas of medicine. Other specialists may include:\n- pediatrician\n- pediatric heart surgeon\n- pediatric cardiologist\n- radiation oncologist\n- pathologist\n- pediatric nurse specialist\n- social worker\n- rehabilitation specialist\n- psychologist\n- child-life specialist\nThere are different types of treatment for children and adolescents with heart tumors. You and your child's care team will work together to decide treatment. Many factors will be considered, such as your child's overall health and whether the tumor is newly diagnosed or has come back.\nYour child's treatment plan will include information about the tumor, the goals of treatment, treatment options, and the possible side effects. It will be helpful to talk with your child's care team before treatment begins about what to expect. For help every step of the way, see our booklet, Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Watchful waiting",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Types of treatment for childhood heart tumors",
+            "Watchful waiting"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Watchful waiting is closely monitoring a child's condition without giving any treatment until signs or symptoms appear or change. This treatment may be used for rhabdomyoma (a benign tumor)."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Types of treatment for childhood heart tumors",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When possible, the tumor is removed by surgery. Types of surgery that may be done include:\n- Surgery to remove the tumor and some healthy tissue around it.\n- Heart transplant . If the child is waiting for a donated heart, they may receive other treatment as needed.\nSometimes chemotherapy may be given before surgery to make a cancerous tumor smaller and decrease the amount of tissue that needs to be removed during surgery. This is called neoadjuvant (preoperative) therapy."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Types of treatment for childhood heart tumors",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells. Chemotherapy either kills the cancer cells or stops them from dividing. For children with sarcoma, chemotherapy may be given alone or with other types of treatment to reduce the size of the tumor before surgery.\nLearn more about Chemotherapy to Treat Cancer ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Types of treatment for childhood heart tumors",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Radiation therapy uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. Cancerous heart tumors are sometimes treated with external beam radiation therapy. External beam radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer. Radiation therapy may be used when the cancer cannot be removed by surgery.\nLearn more about External Beam Radiation Therapy for Cancer and Radiation Therapy Side Effects ."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Types of treatment for childhood heart tumors",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Targeted therapy uses drugs or other substances to block the action of specific enzymes , proteins, or other molecules involved in the growth of tumor cells.\nTargeted therapies used to treat benign heart tumors include:\n- everolimus\n- sirolimus\nLearn more about Targeted Therapy to Treat Cancer ."
+        },
+        {
+          "section": "Clinical trials",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Types of treatment for childhood heart tumors",
+            "Clinical trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some children, joining a clinical trial may be an option. There are different types of clinical trials for childhood cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your child's age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment of childhood heart tumors",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Types of treatment for childhood heart tumors",
+            "Treatment of childhood heart tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment of newly diagnosed childhood heart tumors may include:\n- watchful waiting for children with rhabdomyoma (a benign tumor), which sometimes shrinks and goes away on its own\n- targeted therapy ( everolimus or sirolimus ) for children with rhabdomyoma or tuberous sclerosis\n- chemotherapy followed by surgery (which may include removing some or all of the tumor or a heart transplant ) for children with sarcomas\n- surgery to completely remove the tumor for children with other types of heart tumors\n- radiation therapy for children with cancerous tumors that cannot be removed by surgery\nIf a cancerous tumor comes back after treatment, your child's doctor will talk with you about what to expect and possible next steps. There may be treatment options that could shrink the tumor or control its growth. If there are no treatments, your child can receive care to control symptoms from cancer so they can be as comfortable as possible."
+        },
+        {
+          "section": "Side effects and late effects of treatment",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Side effects and late effects of treatment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatments for heart tumors can cause side effects. Which side effects your child might have depends on the type of treatment they receive, the dose, and how their body reacts. Talk with your child's treatment team about which side effects to look for and ways to manage them.\nTo learn more about side effects that begin during treatment for cancer, visit Side Effects .\nProblems from cancer treatment that begin 6 months or later after treatment and continue for months or years are called late effects . Late effects of cancer treatment may include:\n- physical problems\n- changes in mood, feelings, thinking, learning, or memory\n- second cancers (new types of cancer) or other conditions\nSome late effects may be treated or controlled. It is important to talk with your child's doctors about the possible late effects caused by some treatments. Learn more about Late Effects of Treatment for Childhood Cancer ."
+        },
+        {
+          "section": "Follow-up care",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Follow-up care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As your child goes through treatment, they will have follow-up tests or check-ups. Some of the tests that were done to diagnose the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your child's condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Coping with your child's cancer",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Coping with your child's cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "When your child has a heart tumor, every member of the family needs support. Taking care of yourself during this difficult time is important. Reach out to your child's treatment team and to people in your family and community for support. To learn more, see Support for Families: Childhood Cancer and the booklet Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Related resources",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "Related resources"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "For more childhood cancer information and other general cancer resources, see:\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Adolescents and Young Adults with Cancer\n- Cancer in Children and Adolescents\n- For Survivors and Caregivers"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of childhood cardiac (heart) tumors. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Heart Tumors. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/cardiac/patient-child-cardiac-treatment-pdq . Accessed <MM/DD/YYYY>.\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Heart Tumors (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\b3458d645d390e8962d8.html"
+    }
+  ]
+}

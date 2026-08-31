@@ -1,0 +1,487 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Malignant Mesothelioma",
+  "generated_at": "2026-08-31T07:15:23.350882+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Malignant Mesothelioma",
+      "title": "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Malignant Mesothelioma Treatment",
+      "url": "https://www.cancer.gov/types/mesothelioma/hp/mesothelioma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "May 12, 2025",
+      "retrieved_at": "2026-08-31T07:12:42.083494+00:00",
+      "content_sha256": "b9ba6f0171a30e6364a007543d7f0b3102b33f442ac290ea199211bfcdefb7b7",
+      "section_count": 39,
+      "sections": [
+        {
+          "section": "Diagnosis and Prognostic Factors",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Malignant Mesothelioma Treatment",
+            "Diagnosis and Prognostic Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The time to confirm a diagnosis of malignant mesothelioma and the rate of disease progression both vary greatly. This makes it difficult to assess prognosis for these patients. In large retrospective series of patients with pleural mesothelioma, the following important prognostic factors were identified:[ 1 , 2 ][ Level of evidence C1 ]\n- Stage.\n- Age.\n- Performance status (PS).\n- Histology."
+        },
+        {
+          "section": "Prognostic scoring systems",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Malignant Mesothelioma Treatment",
+            "Diagnosis and Prognostic Factors",
+            "Prognostic scoring systems"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Two prognostic scoring systems have been developed for advanced unresectable mesothelioma and are used to stratify patients enrolling in clinical trials: the Cancer and Leukemia Group B (CALGB) index and the European Organisation for the Research and Treatment of Cancer (EORTC) index."
+        },
+        {
+          "section": "CALGB index",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Malignant Mesothelioma Treatment",
+            "Diagnosis and Prognostic Factors",
+            "Prognostic scoring systems",
+            "CALGB index"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The CALGB index was developed retrospectively using the clinical characteristics of 337 patients treated in clinical trials of chemotherapy for advanced mesothelioma during a 10-year period.[ 3 ][ Level of evidence C1 ] These characteristics were used collectively to define six prognostic groups with median survivals ranging from 13.9 months (Eastern Cooperative Oncology Group [ECOG] PS = 0, age <49 years; or PS = 0, age ≥49 years and hemoglobin ≥14.6 g/dL) to 1.4 months (PS = 1 or 2 and white blood cell [WBC] count ≥15.6 × 10 9 /L).\nThe prognostic value of the CALGB index was evaluated retrospectively in a phase II clinical trial of 105 patients.[ 4 ][ Level of evidence C1 ] Median survival in this study for patients in the best CALGB prognostic group was 29.9 months, compared with 1.8 months for patients in the worst prognostic group. However, the intermediate groups 2 to 4 overlapped in their survival times."
+        },
+        {
+          "section": "EORTC index",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Malignant Mesothelioma Treatment",
+            "Diagnosis and Prognostic Factors",
+            "Prognostic scoring systems",
+            "EORTC index"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The EORTC index was also developed retrospectively using the characteristics of 181 patients from five phase II clinical trials of chemotherapy during a 9-year period.[ 5 ][ Level of evidence C1 ] In a multivariate analysis, the following characteristics were associated with poorer survival:\n- WBC count >8.3 × 10 9 /L.\n- ECOG PS ≥1.\n- Unconfirmed histology on central review.\n- Nonepithelioid histology.\n- Male sex.\nPatients were allocated a numerical prognostic score based on each of these variables (+0.55 if WBC >8.3 × 10 9 /L, +0.60 if ECOG PS ≥1, +0.52 if unconfirmed histology, and +0.60 if male sex). Subsequently, patients were classified into two prognostic groups that included low-risk patients with a prognostic score of 1.27 or lower (0–2 risk factors) and high-risk patients with a prognostic score higher than 1.27 (3–5 risk factors). High-risk patients had a relative risk of death of 2.9 compared with low-risk patients ( P < .001). The 1-year survival rate was 40% for the low-risk group compared with 12% for the high-risk group."
+        },
+        {
+          "section": "Follow-Up and Survivorship",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Malignant Mesothelioma Treatment",
+            "Follow-Up and Survivorship"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Patients with limited disease may consider multimodality therapy incorporating radical surgery (extrapulmonary pneumonectomy or radical pleurectomy with decortication) given with or without chemotherapy and/or radiation therapy. Multimodality therapy has been associated with a relatively long survival in observational series.[ 6 ][ Level of evidence C1 ] For patients treated with aggressive surgical approaches, the following factors are associated with improved long-term survival:[ 7 , 8 ][ Level of evidence C2 ]\n- Epithelioid histology.\n- Negative lymph nodes.\n- Negative surgical margins.\nFor patients treated with aggressive surgical approaches, nodal status is an important prognostic factor.[ 7 ] Median survival has been reported as 16 months for patients with malignant pleural disease and 5 months for patients with extensive disease. In some instances, the tumor grows through the diaphragm, making the site of origin difficult to assess. Cautious interpretation of treatment results with this disease is imperative because of the selection differences among series. Effusions, both pleural and peritoneal, represent major symptomatic problems for at least 66% of patients. For more information, see Cardiopulmonary Syndromes ."
+        },
+        {
+          "section": "Carcinogenesis",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Malignant Mesothelioma Treatment",
+            "Carcinogenesis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A history of asbestos exposure is reported in about 70% to 80% of mesothelioma cases.[ 1 , 9 , 10 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Malignant Mesothelioma Treatment",
+            "Carcinogenesis",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Ruffie P, Feld R, Minkin S, et al.: Diffuse malignant mesothelioma of the pleura in Ontario and Quebec: a retrospective study of 332 patients. J Clin Oncol 7 (8): 1157-68, 1989. [PUBMED Abstract]\n- Tammilehto L, Maasilta P, Kostiainen S, et al.: Diagnosis and prognostic factors in malignant pleural mesothelioma: a retrospective analysis of sixty-five patients. Respiration 59 (3): 129-35, 1992. [PUBMED Abstract]\n- Herndon JE, Green MR, Chahinian AP, et al.: Factors predictive of survival among 337 patients with mesothelioma treated between 1984 and 1994 by the Cancer and Leukemia Group B. Chest 113 (3): 723-31, 1998. [PUBMED Abstract]\n- Mikulski SM, Costanzi JJ, Vogelzang NJ, et al.: Phase II trial of a single weekly intravenous dose of ranpirnase in patients with unresectable malignant mesothelioma. J Clin Oncol 20 (1): 274-81, 2002. [PUBMED Abstract]\n- Curran D, Sahmoud T, Therasse P, et al.: Prognostic factors in patients with pleural mesothelioma: the European Organization for Research and Treatment of Cancer experience. J Clin Oncol 16 (1): 145-52, 1998. [PUBMED Abstract]\n- Flores RM, Pass HI, Seshan VE, et al.: Extrapleural pneumonectomy versus pleurectomy/decortication in the surgical management of malignant pleural mesothelioma: results in 663 patients. J Thorac Cardiovasc Surg 135 (3): 620-6, 626.e1-3, 2008. [PUBMED Abstract]\n- Sugarbaker DJ, Strauss GM, Lynch TJ, et al.: Node status has prognostic significance in the multimodality therapy of diffuse, malignant mesothelioma. J Clin Oncol 11 (6): 1172-8, 1993. [PUBMED Abstract]\n- de Perrot M, Feld R, Cho BC, et al.: Trimodality therapy with induction chemotherapy followed by extrapleural pneumonectomy and adjuvant high-dose hemithoracic radiation for malignant pleural mesothelioma. J Clin Oncol 27 (9): 1413-8, 2009. [PUBMED Abstract]\n- Chailleux E, Dabouis G, Pioche D, et al.: Prognostic factors in diffuse malignant pleural mesothelioma. A study of 167 patients. Chest 93 (1): 159-62, 1988. [PUBMED Abstract]\n- Adams VI, Unni KK, Muhm JR, et al.: Diffuse malignant mesothelioma of pleura. Diagnosis and survival in 92 cases. Cancer 58 (7): 1540-51, 1986. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of Malignant Mesothelioma",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Malignant Mesothelioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Histologically, malignant mesothelioma tumors are composed of spindle cells (sarcomatoid), epithelial elements, or both (biphasic). Desmoplastic mesothelioma, consisting of bland tumor cells between dense bands of stroma, is a subtype of sarcomatoid mesothelioma. The epithelioid form is occasionally confused with lung adenocarcinoma or metastatic carcinomas. Epithelioid tumors account for approximately 60% of mesothelioma diagnoses.[ 1 ] Attempts to diagnose by cytology or needle biopsy of the pleura are often unsuccessful. It can be especially difficult to differentiate mesothelioma from adenocarcinoma in small tissue specimens. Thoracoscopy can be valuable in obtaining adequate tissue specimens for diagnostic purposes.[ 2 ]\nExamination of the gross tumor at surgery and use of special stains or electron microscopy can often help to determine diagnosis. Pancytokeratin stains are positive in nearly all mesotheliomas.[ 1 ] Cytokeratin 5 and 6, calretinin, WT-1, and D2-40 are particularly useful immunohistochemical stains for the differential diagnosis of epithelioid mesothelioma. Calretinin and D2-40 positivity in combination with pancytokeratin positivity is most useful to distinguish sarcomatoid mesothelioma from sarcoma and other histologies.[ 1 ] Histological appearance seems to be of prognostic value, and most clinical studies show that patients with epithelial mesotheliomas have a better prognosis than patients with sarcomatoid or biphasic mesotheliomas.[ 3 - 5 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Malignant Mesothelioma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Travis W, Brambilla E, Müller-Hermelink H, et al., eds.: Pathology and Genetics of Tumours of the Lung, Pleura, and Thymus. IARC Press, 2004. World Health Organization Classification of Tumours.\n- Boutin C, Rey F: Thoracoscopy in pleural malignant mesothelioma: a prospective study of 188 consecutive patients. Part 1: Diagnosis. Cancer 72 (2): 389-93, 1993. [PUBMED Abstract]\n- Chahinian AP, Pass HI: Malignant mesothelioma. In: Holland JC, Frei E, eds.: Cancer Medicine e.5. 5th ed. B.C. Decker Inc, 2000, pp 1293-1312.\n- Nauta RJ, Osteen RT, Antman KH, et al.: Clinical staging and the tendency of malignant pleural mesotheliomas to remain localized. Ann Thorac Surg 34 (1): 66-70, 1982. [PUBMED Abstract]\n- Sugarbaker DJ, Strauss GM, Lynch TJ, et al.: Node status has prognostic significance in the multimodality therapy of diffuse, malignant mesothelioma. J Clin Oncol 11 (6): 1172-8, 1993. [PUBMED Abstract]"
+        },
+        {
+          "section": "American Joint Committee on Cancer (AJCC) Stage Groupings and Definitions of TNM",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Malignant Mesothelioma",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and Definitions of TNM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 105,
+          "text": "The AJCC has designated staging by TNM (tumor, node, metastasis) classification to define malignant mesothelioma.[ 1 ]\nCancers staged using the AJCC cancer staging system include classifications for diffuse malignant pleural mesotheliomas but do not include localized malignant pleural mesotheliomas or other primary tumors of the pleura.[ 1 ]\nPatients with stage I disease have a significantly better prognosis than patients with advanced stages. Because this disease is rare, exact survival information based on stage is limited.[ 2 ]\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = metastasis.\na Reprinted with permission from AJCC: Malignant Pleural Mesothelioma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 457–68.\nIA | T1, N0, M0 | T1 = Tumor limited to the ipsilateral parietal pleura with or without involvement of:\n–visceral pleura.\n–mediastinal pleura.\n–diaphragmatic pleura.\nN0 = No regional lymph node metastases.\nM0 = No distant metastasis.\nIB | T2 or T3, N0, M0 | T2 = Tumor involving each of the ipsilateral pleural surfaces (parietal, mediastinal, diaphragmatic, and visceral pleura) with at least one of the following features:\n–involvement of diaphragmatic muscle.\n–extension of tumor from visceral pleura into the underlying pulmonary parenchyma.\nT3 = Describes locally advanced but potentially resectable tumor.\nTumor involving all the ipsilateral pleural surfaces (parietal, mediastinal, diaphragmatic, and visceral pleura) with at least one of the following features:\n–involvement of the endothoracic fascia.\n–extension into the mediastinal fat.\n–solitary, completely resectable focus of tumor extending into the soft tissues of the chest wall.\n–nontransmural involvement of the pericardium.\nN0 = No regional lymph node metastases.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = metastasis.\na Reprinted with permission from AJCC: Malignant Pleural Mesothelioma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 457–68.\nII | T1, N1, M0 | T1 = Tumor limited to the ipsilateral parietal pleura with or without involvement of:\n–visceral pleura.\n–mediastinal pleura.\n–diaphragmatic pleura.\nN1 = Metastases in the ipsilateral bronchopulmonary, hilar, or mediastinal (including the internal mammary, peridiaphragmatic, pericardial fat pad, or intercostal) lymph nodes.\nM0 = No distant metastasis.\nT2, N1, M0 | T2 = Tumor involving each of the ipsilateral pleural surfaces (parietal, mediastinal, diaphragmatic, and visceral pleura) with at least one of the following features:\n–involvement of diaphragmatic muscle.\n–extension of tumor from visceral pleura into the underlying pulmonary parenchyma.\nN1 = Metastases in the ipsilateral bronchopulmonary, hilar, or mediastinal (including the internal mammary, peridiaphragmatic, pericardial fat pad, or intercostal) lymph nodes.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = metastasis.\na Reprinted with permission from AJCC: Malignant Pleural Mesothelioma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 457–68.\nIIIA | T3, N1, M0 | T3 = Describes locally advanced but potentially resectable tumor.\nTumor involving all of the ipsilateral pleural surfaces (parietal, mediastinal, diaphragmatic, and visceral pleura) with at least one of the following features:\n–involvement of the endothoracic fascia.\n–extension into the mediastinal fat.\n–solitary, completely resectable focus of tumor extending into the soft tissues of the chest wall.\n–nontransmural involvement of the pericardium.\nN1 = Metastases in the ipsilateral bronchopulmonary, hilar, or mediastinal (including the internal mammary, peridiaphragmatic, pericardial fat pad, or intercostal) lymph nodes.\nM0 = No distant metastasis.\nIIIB | T1–3, N2, M0 | T1 = Tumor limited to the ipsilateral parietal pleura with or without involvement of:\n–visceral pleura.\n–mediastinal pleura.\n–diaphragmatic pleura.\nT2 = Tumor involving each of the ipsilateral pleural surfaces (parietal, mediastinal, diaphragmatic, and visceral pleura) with at least one of the following features:\n–involvement of diaphragmatic muscle.\n–extension of tumor from visceral pleura into the underlying pulmonary parenchyma.\nT3 = Describes locally advanced but potentially resectable tumor.\nTumor involving all of the ipsilateral pleural surfaces (parietal, mediastinal, diaphragmatic, and visceral pleura) with at least one of the following features:\n–involvement of the endothoracic fascia.\n–extension into the mediastinal fat.\n–solitary, completely resectable focus of tumor extending into the soft tissues of the chest wall.\n–nontransmural involvement of the pericardium.\nN2 = Metastases in the contralateral mediastinal, ipsilateral, or contralateral supraclavicular lymph nodes.\nM0 = No distant metastasis.\nT4, Any N, M0 | T4 = Describes locally advanced technically unresectable tumor. Tumor involving all of the ipsilateral pleural surfaces (parietal, mediastinal, diaphragmatic, and visceral pleura) with at least one of the following features:\n–diffuse extension or multifocal masses of the tumor in the chest wall, with or without associated rib destruction.\n–direct transdiaphragmatic extension of the tumor to the peritoneum.\n–direct extension of the tumor to the contralateral pleura.\n–direct extension of the tumor to the mediastinal organs.\n–direct extension of the tumor into the spine.\n–tumor extending through to the internal surface of the pericardium with or without a pericardial effusion; or tumor involving the myocardium.\nNX = Regional lymph nodes cannot be assessed.\nN0 = No regional lymph node metastases.\nN1 = Metastases in the ipsilateral bronchopulmonary, hilar, or mediastinal (including the internal mammary, peridiaphragmatic, pericardial fat pad, or intercostal) lymph nodes.\nN2 = Metastases in the contralateral mediastinal, ipsilateral, or contralateral supraclavicular lymph nodes.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = metastasis.\na Reprinted with permission from AJCC: Malignant Pleural Mesothelioma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 457–68.\nIV | Any T, Any N, M1 | TX = Primary tumor cannot be assessed.\nT0 = No evidence of primary tumor.\nT1 = Tumor limited to the ipsilateral parietal pleura with or without involvement of:\n–visceral pleura.\n–mediastinal pleura.\n–diaphragmatic pleura.\nT2 = Tumor involving each of the ipsilateral pleural surfaces (parietal, mediastinal, diaphragmatic, and visceral pleura) with at least one of the following features:\n–involvement of diaphragmatic muscle.\n–extension of tumor from visceral pleura into the underlying pulmonary parenchyma.\nT3 = Describes locally advanced but potentially resectable tumor.\nTumor involving all of the ipsilateral pleural surfaces (parietal, mediastinal, diaphragmatic, and visceral pleura) with at least one of the following features:\n–involvement of the endothoracic fascia.\n–extension into the mediastinal fat.\n–solitary, completely resectable focus of tumor extending into the soft tissues of the chest wall.\n–nontransmural involvement of the pericardium.\nT4 = Describes locally advanced technically unresectable tumor. Tumor involving all of the ipsilateral pleural surfaces (parietal, mediastinal, diaphragmatic, and visceral pleura) with at least one of the following features:\n–diffuse extension or multifocal masses of the tumor in the chest wall, with or without associated rib destruction.\n–direct transdiaphragmatic extension of the tumor to the peritoneum.\n–direct extension of the tumor to the contralateral pleura.\n–direct extension of the tumor to the mediastinal organs.\n–direct extension of the tumor into the spine.\n–tumor extending through to the internal surface of the pericardium with or without a pericardial effusion; or tumor involving the myocardium.\nNX = Regional lymph nodes cannot be assessed.\nN0 = No regional lymph node metastases.\nN1 = Metastases in the ipsilateral bronchopulmonary, hilar, or mediastinal (including the internal mammary, peridiaphragmatic, pericardial fat pad, or intercostal) lymph nodes.\nN2 = Metastases in the contralateral mediastinal, ipsilateral, or contralateral supraclavicular lymph nodes.\nM1 = Distant metastasis present."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Malignant Mesothelioma",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and Definitions of TNM",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Malignant Pleural Mesothelioma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 457–68.\n- Chahinian AP, Pass HI: Malignant mesothelioma. In: Holland JC, Frei E, eds.: Cancer Medicine e.5. 5th ed. B.C. Decker Inc, 2000, pp 1293-1312."
+        },
+        {
+          "section": "Treatment Option Overview for Malignant Mesothelioma",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Malignant Mesothelioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Standard treatment for all but localized mesothelioma is generally not curative. Some patients will experience long-term survival with aggressive treatment approaches, but it remains unclear if overall survival (OS) is significantly altered by different treatment modalities or combinations of modalities.\nExtrapleural pneumonectomy may improve the recurrence-free survival of selected patients with early-stage disease, but the impact on OS is unknown.[ 1 ] Pleurectomy and decortication can provide palliative relief from symptomatic effusions, discomfort caused by tumor burden, and pain caused by invasive tumor. For more information, see Cancer Pain . Trimodality therapy refers to a combination of chemotherapy, definitive surgery, and radiation therapy. Because of the rarity of mesothelioma and the complexities of patient selection, surgical technique, and optimal sequencing of therapy, delivery of such therapy in centers with established experience and expertise in the management of mesothelioma has shown better results. Operative mortality from pleurectomy with decortication is less than 2%,[ 2 ] while mortality from extrapleural pneumonectomy ranges from 6% to 30%.[ 1 , 3 ]\nSeveral single-arm phase II studies have demonstrated prolonged survival times (compared with historical controls) for selected patients who received adjuvant radiation therapy after definitive surgery.[ 2 , 4 , 5 ] Most patients with pleural mesothelioma who receive radiation therapy experience pain relief, but symptom control is short-lived.[ 6 , 7 ] Other single-arm phase II studies investigated neoadjuvant chemotherapy (mainly with platinum and pemetrexed or gemcitabine) followed by definitive surgery and adjuvant radiation therapy.[ 8 - 10 ] These studies have also shown prolonged survival compared with historical controls; however, this advantage has yet to be confirmed in a randomized study."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Malignant Mesothelioma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Rusch VW, Piantadosi S, Holmes EC: The role of extrapleural pneumonectomy in malignant pleural mesothelioma. A Lung Cancer Study Group trial. J Thorac Cardiovasc Surg 102 (1): 1-9, 1991. [PUBMED Abstract]\n- Rusch V, Saltz L, Venkatraman E, et al.: A phase II trial of pleurectomy/decortication followed by intrapleural and systemic chemotherapy for malignant pleural mesothelioma. J Clin Oncol 12 (6): 1156-63, 1994. [PUBMED Abstract]\n- Sugarbaker DJ, Mentzer SJ, DeCamp M, et al.: Extrapleural pneumonectomy in the setting of a multimodality approach to malignant mesothelioma. Chest 103 (4 Suppl): 377S-381S, 1993. [PUBMED Abstract]\n- Rusch VW, Rosenzweig K, Venkatraman E, et al.: A phase II trial of surgical resection and adjuvant high-dose hemithoracic radiation for malignant pleural mesothelioma. J Thorac Cardiovasc Surg 122 (4): 788-95, 2001. [PUBMED Abstract]\n- Batirel HF, Metintas M, Caglar HB, et al.: Trimodality treatment of malignant pleural mesothelioma. J Thorac Oncol 3 (5): 499-504, 2008. [PUBMED Abstract]\n- Bissett D, Macbeth FR, Cram I: The role of palliative radiotherapy in malignant mesothelioma. Clin Oncol (R Coll Radiol) 3 (6): 315-7, 1991. [PUBMED Abstract]\n- Ball DL, Cruickshank DG: The treatment of malignant mesothelioma of the pleura: review of a 5-year experience, with special reference to radiotherapy. Am J Clin Oncol 13 (1): 4-9, 1990. [PUBMED Abstract]\n- Krug LM, Pass HI, Rusch VW, et al.: Multicenter phase II trial of neoadjuvant pemetrexed plus cisplatin followed by extrapleural pneumonectomy and radiation for malignant pleural mesothelioma. J Clin Oncol 27 (18): 3007-13, 2009. [PUBMED Abstract]\n- Flores RM, Krug LM, Rosenzweig KE, et al.: Induction chemotherapy, extrapleural pneumonectomy, and postoperative high-dose radiotherapy for locally advanced malignant pleural mesothelioma: a phase II trial. J Thorac Oncol 1 (4): 289-95, 2006. [PUBMED Abstract]\n- Weder W, Kestenholz P, Taverna C, et al.: Neoadjuvant chemotherapy followed by extrapleural pneumonectomy in malignant pleural mesothelioma. J Clin Oncol 22 (17): 3451-7, 2004. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Localized Malignant Mesothelioma (Stage I)",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Malignant Mesothelioma (Stage I)",
+            "Treatment Options for Localized Malignant Mesothelioma (Stage I)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment options for localized malignant mesothelioma (stage I) include:[ 1 ]\n- Surgery. Solitary mesotheliomas are treated with surgical resection en bloc including contiguous structures to ensure wide disease-free margins. Sessile polypoid lesions are treated with surgical resection to ensure maximal potential for cure.[ 2 ] Intracavitary mesotheliomas are treated with extrapleural pneumonectomy.\n- Palliative surgery. Pleurectomy and decortication with or without postoperative radiation therapy may be used for intracavitary mesothelioma.\n- Palliative radiation therapy (for intracavitary mesothelioma).\n- Intracavitary chemotherapy after resection (under clinical evaluation).[ 3 , 4 ]\n- Multimodality therapy (under clinical evaluation).[ 4 - 6 ]\n- Clinical trials."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Malignant Mesothelioma (Stage I)",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Malignant Mesothelioma (Stage I)",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Antman KH, Li FP, Osteen R, et al.: Mesothelioma. Cancer: Principles and Practice of Oncology Updates 3(1): 1-16, 1989.\n- Martini N, McCormack PM, Bains MS, et al.: Pleural mesothelioma. Ann Thorac Surg 43 (1): 113-20, 1987. [PUBMED Abstract]\n- Markman M, Kelsen D: Efficacy of cisplatin-based intraperitoneal chemotherapy as treatment of malignant peritoneal mesothelioma. J Cancer Res Clin Oncol 118 (7): 547-50, 1992. [PUBMED Abstract]\n- Rusch V, Saltz L, Venkatraman E, et al.: A phase II trial of pleurectomy/decortication followed by intrapleural and systemic chemotherapy for malignant pleural mesothelioma. J Clin Oncol 12 (6): 1156-63, 1994. [PUBMED Abstract]\n- Sugarbaker DJ, Mentzer SJ, DeCamp M, et al.: Extrapleural pneumonectomy in the setting of a multimodality approach to malignant mesothelioma. Chest 103 (4 Suppl): 377S-381S, 1993. [PUBMED Abstract]\n- Vogelzang NJ: Malignant mesothelioma: diagnostic and management strategies for 1992. Semin Oncol 19 (4 Suppl 11): 64-71, 1992. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+            "Treatment Options for Advanced Malignant Mesothelioma (Stages II, III, and IV)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Treatment options for advanced malignant mesothelioma (stages II, III, and IV) include:\n- First-line systemic therapy .\n- Nivolumab and ipilimumab .[ 1 ]\n- Cisplatin plus pemetrexed, with or without bevacizumab .[ 2 - 4 ]\n- Durvalumab with platinum plus pemetrexed .[ 5 ]\n- Platinum plus pemetrexed, followed by best supportive care, with or without maintenance gemcitabine .[ 6 ]\n- Multimodality clinical trials.[ 7 - 10 ]\n- Symptomatic treatment to include drainage of effusions, chest tube pleurodesis, or thoracoscopic pleurodesis.[ 11 ] For more information, see Cardiopulmonary Syndromes .\n- Palliative surgical resection in selected patients.[ 12 , 13 ]\n- Palliative radiation therapy for patients with pain related to their cancer.[ 14 , 15 ]\n- Intracavitary therapy. Intrapleural or intraperitoneal administration of chemotherapeutic agents (e.g., cisplatin, mitomycin, and cytarabine) has been reported to produce transient reduction in the size of tumor masses and temporary control of effusions in small clinical studies.[ 16 - 18 ] Additional studies are needed to define the role of intracavitary therapy.\nInformation about ongoing clinical trials is available from the NCI website .\nFirst-line systemic therapy"
+        },
+        {
+          "section": "Nivolumab and ipilimumab",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+            "Treatment Options for Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+            "Nivolumab and ipilimumab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Evidence (nivolumab and ipilimumab):\n- An open-label, randomized, phase III study ( CheckMate743 [NCT02899299]) included 605 patients with advanced treatment-naive pleural mesothelioma. Patients were randomly assigned to receive either nivolumab and ipilimumab (n = 303) or chemotherapy (n = 302).[ 1 ]\n- At the prespecified interim analysis, patients who received nivolumab plus ipilimumab had significantly extended overall survival (OS) compared with patients who received chemotherapy (median OS, 18.1 months [95% confidence interval (CI), 16.8–21.4] vs. 14.1 months [12.4–16.2]; hazard ratio [HR], 0.74; 96.6% CI, 0.60–0.91; P = .002).[ 1 ][ Level of evidence A1 ]\n- The median progression-free survival (PFS) and objective response rates were not significantly different.\n- Grade 3 to 4 treatment-related adverse events occurred in 91 of 300 patients (30%) who received nivolumab plus ipilimumab and 91 of 284 patients (32%) who received chemotherapy.\n- Three (1%) treatment-related deaths occurred among patients who received nivolumab plus ipilimumab (pneumonitis, encephalitis, and heart failure) and one (<1%) among patients who received chemotherapy (myelosuppression)."
+        },
+        {
+          "section": "Cisplatin plus pemetrexed, with or without bevacizumab",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+            "Treatment Options for Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+            "Nivolumab and ipilimumab",
+            "Cisplatin plus pemetrexed, with or without bevacizumab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "Evidence (cisplatin plus pemetrexed, with or without bevacizumab):\n- A randomized phase III trial demonstrated the safety and efficacy of pemetrexed, an antifolate, and cisplatin in chemotherapy-naive patients with malignant mesothelioma who were not eligible for curative surgery.[ 4 ][ Level of evidence A1 ] This trial compared pemetrexed (500 mg/m 2 ) and cisplatin (75 mg/m 2 on day 1) with cisplatin alone (75 mg/m 2 on day 1 intravenously [IV] every 21 days). With 456 patients enrolled in the trial, 226 patients received pemetrexed plus cisplatin, 222 patients received cisplatin alone, and 8 patients did not receive therapy. After 117 patients had enrolled, folic acid and vitamin B 12 were added to reduce toxic effects. Dexamethasone (4 mg) or an equivalent corticosteroid was given orally twice daily for skin rash prophylaxis to all patients 1 day before, on the day of, and 1 day after each pemetrexed dose.\n- Folic acid (350–1,000 µg PO) was given daily, beginning 1 to 3 weeks before the first chemotherapy dose and continuing daily until 1 to 3 weeks after treatment ended.\n- A vitamin B 12 injection (1,000 µg intramuscularly) was given 1 to 3 weeks before the first chemotherapy dose and was repeated approximately every 9 weeks until treatment ended.\n- In an analysis of all patients who were randomly assigned and treated, the combination of pemetrexed and cisplatin was associated with a statistically significant improvement in survival compared with cisplatin alone.\n- The median survival was 12.1 months in the pemetrexed-plus-cisplatin arm and 9.3 months in the cisplatin-alone arm ( P = .020).\n- The HR for death of patients in the pemetrexed-plus-cisplatin arm, compared with those in the control arm, was 0.77.\n- Median time-to-progression was significantly longer in the pemetrexed-plus-cisplatin arm (5.7 months vs. 3.9 months; P = .001).\n- This superiority in the combination arm was also demonstrated in the vitamin-supplemented subgroup.\n- The median survival was 13.3 months in the combination arm and 10.0 months in the cisplatin-alone arm ( P = .051).\n- The principal adverse effects of the pemetrexed-plus-cisplatin regimen were myelosuppression, fatigue, nausea, vomiting, and dyspnea.\n- Most grade 3 to 4 adverse effects were significantly reduced by vitamin supplementation, without any decrease in efficacy.\n- A randomized controlled, open-label, phase III trial ( IFCT-GFPC-0701 [NCT00651456]) evaluated the addition of bevacizumab to chemotherapy and showed an improved OS with the three-drug regimen.[ 3 ] The trial included 448 patients with unresectable malignant pleural mesothelioma who had not received previous chemotherapy. Patients had an Eastern Cooperative Oncology Group performance status of 0 to 2 and had no contraindications to bevacizumab, including the use of antiplatelet agents, anticoagulants, and nonsteroidal anti-inflammatory agents. Patients were randomly assigned to receive IV pemetrexed (500 mg/m 2 ) plus cisplatin (75 mg/m 2 ) (PC) with or without bevacizumab (15 mg/kg) (PCB) in 21-day cycles for up to six cycles, until disease progression or toxic effects were seen. Combination immune checkpoint inhibitor therapy may be considered as an alternative to combination chemotherapy.\n- The primary outcome was OS in the intention-to-treat population.\n- OS was significantly longer with PCB (median, 18.8 months; 95% CI, 15.9–22.6) than with PC (median, 16.1 months; 95% CI, 14.0–17.9; HR, 0.77; 0.62–0.95; P = .0167).\n- Overall, 158 of 222 patients (71%) who received PCB and 139 of 224 patients (62%) who received PC had grade 3 to 4 adverse events.\n- Patients who received PCB had more grade 3 or higher hypertension (51 of 222 [23%] vs. 0) and thrombotic events (13 of 222 [6%] vs. 2 of 224 [1%]) than patients who received PC.[ 3 ][ Level of evidence A1 ]"
+        },
+        {
+          "section": "Durvalumab with platinum plus pemetrexed",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+            "Treatment Options for Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+            "Nivolumab and ipilimumab",
+            "Durvalumab with platinum plus pemetrexed"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Evidence (durvalumab with platinum plus pemetrexed):\n- A phase II, single-arm, multicenter trial ( PrE0505 [NCT02899195]) included 55 patients with unresectable, treatment-naive, pleural mesothelioma. Patients received up to six cycles of durvalumab (an anti–programmed death-ligand 1 [PD-L1] antibody) with a platinum plus pemetrexed. The primary end point was OS compared with historical controls (cisplatin and pemetrexed).[ 5 ]\n- After a median follow-up of 24.2 months, the median OS was 20.4 months (95% CI, 13.0–28.5) for patients in the durvalumab arm compared with the historical control of 12.1 months (HR, 0.034; one-sided P = .0014).[ 5 ][ Level of evidence C1 ]\n- The median PFS was 6.7 months (95% CI, 6.1–8.4), and the objective response rate was 56.4% (95% CI, 42.3%–69.7%).\n- In a non-predefined subgroup analysis, patients with epithelioid malignant pleural mesothelioma had a higher objective response rate (65.9% vs. 28.6%; P = .03), and longer median OS (24.3 months vs. 9.2 months; HR, 0.27; 95% CI, 0.13–0.57; P < .001) than patients with nonepithelioid malignant pleural mesothelioma.\n- Responding tumors with epithelioid histology were characterized by a higher degree of genomic instability. Favorable clinical outcomes were also observed in patients with a higher immunogenic mutational burden and a more diverse T-cell repertoire, and in individuals with germline alterations in cancer-predisposing genes.\n- Grade 3 or higher treatment-related adverse events occurred in 65.5% of patients and included anemia (20%), hyponatremia (9%), fatigue (7%), leukopenia (5%), thrombocytopenia (5%), and hypertension (5%). There were no treatment-related deaths."
+        },
+        {
+          "section": "Platinum plus pemetrexed, followed by best supportive care, with or without maintenance gemcitabine",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+            "Treatment Options for Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+            "Nivolumab and ipilimumab",
+            "Platinum plus pemetrexed, followed by best supportive care, with or without maintenance gemcitabine"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Evidence (platinum plus pemetrexed, followed by best supportive care, with or without maintenance gemcitabine):\n- A randomized, open-label, phase II clinical trial (NVALT19 [Netherlands Trial Registry ID NTR4132/NL3847]) included 130 patients with unresectable malignant mesothelioma and no evidence of disease progression after at least four cycles of first-line chemotherapy with platinum plus pemetrexed. Patients were randomly assigned (1:1) to receive either maintenance IV gemcitabine (1,250 mg/m 2 on days 1 and 8 of 21-day cycles) plus supportive care (n = 65), or to receive best supportive care alone (n = 65). Patients received treatment until disease progression, unacceptable toxicity, serious intercurrent illness, need for other anticancer therapy (except for palliative radiotherapy), or patient request for discontinuation. The primary end point was PFS in the intention-to-treat population.[ 6 ] The study demonstrated delayed disease progression in patients receiving maintenance gemcitabine, but the effect on OS is unclear.\n- After a median follow-up of 36.5 months, the median PFS was 6.2 months in the gemcitabine group (95% CI, 4.6–8.7) and 3.2 months (95% CI, 2.8–4.1) in the supportive-care group (HR, 0.48; 95% CI, 0.33–0.71; P = .0002). The PFS benefit was confirmed by masked independent central review (HR, 0.49; 95% CI, 0.33–0.72; P = .0002).[ 6 ][ Level of evidence B1 ]\n- Among patients with measurable disease at baseline, the objective radiological response rate was 17% in the gemcitabine group and 4% in the supportive-care group ( P = .048).\n- The median OS was 16.4 months (95% CI, 11.6–20.2) in the gemcitabine group and 13.4 months (95% CI, 12.4–17.8) in the supportive care group (HR, 0.90; 95% CI, 0.60–1.34; P = .60).\n- Grade 3 or higher treatment-related adverse events occurred in 52% of patients in the gemcitabine group and 16% of patients in the supportive-care group. One patient in the gemcitabine group died of a treatment-related serious adverse event (grade 5 infection)."
+        },
+        {
+          "section": "Treatment of Malignant Peritoneal Mesothelioma",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+            "Treatment of Malignant Peritoneal Mesothelioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "Malignant peritoneal mesothelioma arises from the mesothelial cells of the peritoneum and spreads within the confines of the abdominal cavity. There have been few prospective clinical trials conducted in this patient population. Most clinical evidence arises from single-center retrospective studies. Male sex and sarcomatoid or biphasic subtype disease are correlated with poor prognosis.[ 19 , 20 ]\nCytoreductive surgery and hyperthermic intraperitoneal chemotherapy (HIPEC) are offered to patients with diffuse malignant peritoneal mesothelioma, no extraperitoneal disease spread, a good performance status, and an expectation to achieve complete surgical cytoreduction. Among centers with expertise in this form of therapy, reported median survival for appropriately selected patients approaches 3 to 4 years.[ 19 , 20 ]\n- A large multi-institutional registry study evaluated cytoreductive surgery combined with HIPEC in patients with diffuse, malignant, peritoneal mesothelioma.[ 19 ] Among 401 patients, 187 (46%) had complete or near-complete cytoreduction, and 372 (92%) received HIPEC. Of the patients who received HIPEC, 311 (83%) received cisplatin and doxorubicin. The median follow-up period was 33 months (range, 1–235 months).\n- Grade 3 to 4 complications occurred in 127 of 401 patients (31%), and 9 patients (2%) died perioperatively.\n- The median actuarial OS was 53 months, with survival rates of 81% at 1 year, 60% at 3 years, and 47% at 5 years.\n- Prognostic factors associated with improved survival on multivariate analysis included epithelioid histological subtype, absence of lymph node metastases, complete or near complete resection, and the use of HIPEC.\n- A second multi-institutional report included 211 patients treated at three centers in the United States (who were not part of the previous study).[ 20 ] All patients underwent cytoreductive surgery and HIPEC using either cisplatin or mitomycin. In patients with malignant peritoneal mesothelioma, the efficacy of pemetrexed plus cisplatin appeared comparable with that seen in patients with pleural mesothelioma, and the regimen was well tolerated. Prospective phase II or III clinical trials of this regimen have not been conducted in patients with peritoneal mesothelioma.\n- The actuarial OS was 38 months. The survival rates were 41% at 5 years and 26% at 10 years.\n- Prognostic factors associated with improved survival were age younger than 60 years, complete or near-complete gross resection, low versus high histological grade, and the use of cisplatin versus mitomycin.\n- In the U.S. Pemetrexed Expanded Access Program, 98 patients (9.3%) had peritoneal mesothelioma, 57 patients were previously treated, and 38 patients were chemotherapy-naive.[ 21 ] Of the 73 patients with malignant peritoneal mesothelioma and measurable disease, 28 patients were chemotherapy-naive and 43 patients were previously treated. Twenty-six patients received single-agent pemetrexed, and 47 patients received pemetrexed and cisplatin. Carboplatin may be substituted for cisplatin.\n- The overall response rate was 26%. Similar objective response rates were achieved in previously treated and chemotherapy-naive patients.\n- The median OS for previously treated patients was 13.1 months; it had not been reached at the time of the analysis for chemotherapy-naive patients.\n- As expected, both response rate (29% vs. 19%) and median survival (13.1 vs. 8.7 months) were higher for patients who received the pemetrexed doublet than for those who received pemetrexed alone in this nonrandomized study.\n- These results were comparable with those seen in pleural mesothelioma.\n- In the International Pemetrexed Expanded Access Program, 29 evaluable patients with peritoneal mesothelioma received pemetrexed 500 mg/m 2 and carboplatin, dosed at an area under the curve of 5.[ 22 ]\n- Seven patients (24%) had objective responses (one complete), and 52% had stable disease.\n- These results were comparable with those achieved with pemetrexed and cisplatin.\nThe pemetrexed/cisplatin/bevacizumab and nivolumab/ipilimumab regimens that improved OS were conducted exclusively in patients with malignant pleural mesothelioma. Data to support the efficacy and safety of these regimens in patients with malignant peritoneal mesothelioma are required."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Advanced Malignant Mesothelioma (Stages II, III, and IV)",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "- Baas P, Scherpereel A, Nowak AK, et al.: First-line nivolumab plus ipilimumab in unresectable malignant pleural mesothelioma (CheckMate 743): a multicentre, randomised, open-label, phase 3 trial. Lancet 397 (10272): 375-386, 2021. [PUBMED Abstract]\n- Chahinian AP, Antman K, Goutsou M, et al.: Randomized phase II trial of cisplatin with mitomycin or doxorubicin for malignant mesothelioma by the Cancer and Leukemia Group B. J Clin Oncol 11 (8): 1559-65, 1993. [PUBMED Abstract]\n- Zalcman G, Mazieres J, Margery J, et al.: Bevacizumab for newly diagnosed pleural mesothelioma in the Mesothelioma Avastin Cisplatin Pemetrexed Study (MAPS): a randomised, controlled, open-label, phase 3 trial. Lancet 387 (10026): 1405-14, 2016. [PUBMED Abstract]\n- Vogelzang NJ, Rusthoven JJ, Symanowski J, et al.: Phase III study of pemetrexed in combination with cisplatin versus cisplatin alone in patients with malignant pleural mesothelioma. J Clin Oncol 21 (14): 2636-44, 2003. [PUBMED Abstract]\n- Forde PM, Anagnostou V, Sun Z, et al.: Durvalumab with platinum-pemetrexed for unresectable pleural mesothelioma: survival, genomic and immunologic analyses from the phase 2 PrE0505 trial. Nat Med 27 (11): 1910-1920, 2021. [PUBMED Abstract]\n- de Gooijer CJ, van der Noort V, Stigt JA, et al.: Switch-maintenance gemcitabine after first-line chemotherapy in patients with malignant mesothelioma (NVALT19): an investigator-initiated, randomised, open-label, phase 2 trial. Lancet Respir Med 9 (6): 585-592, 2021. [PUBMED Abstract]\n- Mattson K, Holsti LR, Tammilehto L, et al.: Multimodality treatment programs for malignant pleural mesothelioma using high-dose hemithorax irradiation. Int J Radiat Oncol Biol Phys 24 (4): 643-50, 1992. [PUBMED Abstract]\n- Weissmann LB, Antman KH: Incidence, presentation and promising new treatments for malignant mesothelioma. Oncology (Huntingt) 3 (1): 67-72; discussion 73-4, 77, 1989. [PUBMED Abstract]\n- de Perrot M, Feld R, Cho BC, et al.: Trimodality therapy with induction chemotherapy followed by extrapleural pneumonectomy and adjuvant high-dose hemithoracic radiation for malignant pleural mesothelioma. J Clin Oncol 27 (9): 1413-8, 2009. [PUBMED Abstract]\n- Sugarbaker DJ, Mentzer SJ, DeCamp M, et al.: Extrapleural pneumonectomy in the setting of a multimodality approach to malignant mesothelioma. Chest 103 (4 Suppl): 377S-381S, 1993. [PUBMED Abstract]\n- Boutin C, Viallat JR, Rey R: Thoracoscopy in Diagnosis, Prognosis and Treatment of Mesothelioma. In: Antman K, Aisner J, eds.: Asbestos-Related Malignancy. Grune & Stratton, 1987, pp 301-21.\n- Butchart EG, Ashcroft T, Barnsley WC, et al.: The role of surgery in diffuse malignant mesothelioma of the pleura. Semin Oncol 8 (3): 321-8, 1981. [PUBMED Abstract]\n- Martini N, McCormack PM, Bains MS, et al.: Pleural mesothelioma. Ann Thorac Surg 43 (1): 113-20, 1987. [PUBMED Abstract]\n- Bissett D, Macbeth FR, Cram I: The role of palliative radiotherapy in malignant mesothelioma. Clin Oncol (R Coll Radiol) 3 (6): 315-7, 1991. [PUBMED Abstract]\n- Ball DL, Cruickshank DG: The treatment of malignant mesothelioma of the pleura: review of a 5-year experience, with special reference to radiotherapy. Am J Clin Oncol 13 (1): 4-9, 1990. [PUBMED Abstract]\n- Markman M, Kelsen D: Efficacy of cisplatin-based intraperitoneal chemotherapy as treatment of malignant peritoneal mesothelioma. J Cancer Res Clin Oncol 118 (7): 547-50, 1992. [PUBMED Abstract]\n- Markman M, Cleary S, Pfeifle C, et al.: Cisplatin administered by the intracavitary route as treatment for malignant mesothelioma. Cancer 58 (1): 18-21, 1986. [PUBMED Abstract]\n- Rusch VW, Figlin R, Godwin D, et al.: Intrapleural cisplatin and cytarabine in the management of malignant pleural effusions: a Lung Cancer Study Group trial. J Clin Oncol 9 (2): 313-9, 1991. [PUBMED Abstract]\n- Yan TD, Deraco M, Baratti D, et al.: Cytoreductive surgery and hyperthermic intraperitoneal chemotherapy for malignant peritoneal mesothelioma: multi-institutional experience. J Clin Oncol 27 (36): 6237-42, 2009. [PUBMED Abstract]\n- Alexander HR, Bartlett DL, Pingpank JF, et al.: Treatment factors associated with long-term survival after cytoreductive surgery and regional chemotherapy for patients with malignant peritoneal mesothelioma. Surgery 153 (6): 779-86, 2013. [PUBMED Abstract]\n- Jänne PA, Wozniak AJ, Belani CP, et al.: Open-label study of pemetrexed alone or in combination with cisplatin for the treatment of patients with peritoneal mesothelioma: outcomes of an expanded access program. Clin Lung Cancer 7 (1): 40-6, 2005. [PUBMED Abstract]\n- Carteni G, Manegold C, Garcia GM, et al.: Malignant peritoneal mesothelioma-Results from the International Expanded Access Program using pemetrexed alone or in combination with a platinum agent. Lung Cancer 64 (2): 211-8, 2009. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Recurrent Malignant Mesothelioma",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Malignant Mesothelioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Treatment of patients with recurrent malignant mesothelioma usually involves procedures and agents not previously used in the initial treatment attempt. No standard treatment approaches have improved survival or controlled symptoms for a prolonged period. Selected patients with localized disease recurrence may be candidates for additional chest wall resection."
+        },
+        {
+          "section": "Treatment Options for Recurrent Malignant Mesothelioma",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Malignant Mesothelioma",
+            "Treatment Options for Recurrent Malignant Mesothelioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Treatment options for recurrent malignant mesothelioma include:\n- Patients who have not received previous systemic therapy are candidates for first-line chemotherapy, chemoimmunotherapy, or dual immune checkpoint inhibition. For more information, see the Treatment of Advanced Malignant Mesothelioma (Stages II, III, and IV) section.\n- Systemic therapy for recurrent malignant mesothelioma previously treated with first-line chemotherapy or immunotherapy.\n- Gemcitabine in combination with ramucirumab .\n- Pemetrexed .\n- Nivolumab .\n- Vinorelbine .\n- Patients with disease recurrence are candidates for phase I and II clinical trials that evaluate new targeted therapies, biological therapies, chemotherapeutic agents, or physical approaches.[ 1 - 8 ]\n- Selected patients with localized disease recurrence may be candidates for additional chest-wall resection. One trial of 47 carefully selected patients at a single institution indicated that chest-wall resection could be safely performed. Time-to-recurrence from initial resection appeared to predict the expected survival benefit and was factored into decision making.[ 9 ][ Level of evidence C1 ]\nSystemic therapy"
+        },
+        {
+          "section": "Gemcitabine in combination with ramucirumab",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Malignant Mesothelioma",
+            "Treatment Options for Recurrent Malignant Mesothelioma",
+            "Gemcitabine in combination with ramucirumab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Evidence (gemcitabine in combination with ramucirumab):\n- A multicenter, randomized, double-blind, placebo-controlled, phase II trial ( RAMES [NCT03560973]) included 161 patients with malignant pleural mesothelioma that progressed during or after first-line treatment with pemetrexed plus platinum. Patients were randomly assigned (1:1) to receive either gemcitabine plus ramucirumab, an anti-VEGFR-2 antibody (n = 80), or gemcitabine plus placebo (n = 81). The primary end point was overall survival (OS).[ 10 ] Of note, patients enrolled in the RAMES trial had no previous exposure to bevacizumab or immune checkpoint inhibitors.\n- The median OS was 13.8 months (70% confidence interval [CI], 12.7–14.4) in the gemcitabine-plus-ramucirumab group and 7.5 months (70% CI, 6.9–8.9) in the gemcitabine-plus-placebo group (hazard ratio [HR], 0.71; 70% CI, 0.59–0.85; P = .028).[ 10 ][ Level of evidence A1 ]\n- The median progression-free survival (PFS), although longer in the gemcitabine-plus-ramucirumab group, was not significantly different (HR, 0.79; 70% CI, 0.66–0.94; P = .082).\n- More patients who received gemcitabine plus ramucirumab had controlled disease than patients who received gemcitabine plus placebo (73% [70% CI, 66%–78%] vs. 52% [70% CI, 46%–58%]).\n- Grade 3 to 4 treatment-related adverse events were reported in 35 of 80 patients (44%) who received gemcitabine plus ramucirumab and 24 of 81 patients (30%) who received gemcitabine plus placebo.\n- There were no treatment-related deaths in either study group."
+        },
+        {
+          "section": "Pemetrexed",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Malignant Mesothelioma",
+            "Treatment Options for Recurrent Malignant Mesothelioma",
+            "Gemcitabine in combination with ramucirumab",
+            "Pemetrexed"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Evidence (pemetrexed):\n- A large randomized study compared pemetrexed with best supportive care in 243 patients who received one previous regimen of chemotherapy that did not include pemetrexed.[ 11 ][ Level of evidence A1 ]\n- No survival benefit was shown in patients who received pemetrexed, although the PFS rate, time-to-progression, and the response rates favored the pemetrexed arm."
+        },
+        {
+          "section": "Nivolumab",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Malignant Mesothelioma",
+            "Treatment Options for Recurrent Malignant Mesothelioma",
+            "Gemcitabine in combination with ramucirumab",
+            "Nivolumab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Evidence (nivolumab):\n- A multicenter, placebo-controlled, double-blind, randomized, phase III trial ( CONFIRM [NCT03063450]) included 332 patients with malignant pleural or peritoneal mesothelioma and disease progression after previous first-line platinum-based chemotherapy. Patients were randomly assigned (2:1) to receive either nivolumab, an anti–programmed death 1 (PD-1) antibody, at a flat dose of 240 mg intravenously every 2 weeks (n = 221), or placebo (n = 111) until disease progression or a maximum of 12 months. Co-primary end points were investigator-assessed PFS and OS.[ 12 ]\n- The median OS was 10.2 months (95% CI, 8.5–12.1) in the nivolumab group and 6.9 months (95% CI, 5.0–8.0) in the placebo group (HR, 0.69; 95% CI, 0.52–0.91; P = .0090). Programmed death-ligand 1 (PD-L1) expression was not predictive of response to treatment for either OS or PFS based on a positivity threshold of 1%.\n- At a median follow-up of 11.6 months, the median PFS was 3.0 months (95% CI, 2.8–4.1) in the nivolumab group and 1.8 months (95% CI, 1.4–2.6) in the placebo group (HR, 0.67; 95% CI, 0.55–0.85; P = .0012).[ 12 ][ Level of evidence A1 ]\n- The overall response rate was 11% in the nivolumab group and 1% in the placebo group (odds ratio, 14.0; 95% CI, 2.4–not estimable; P = .00086).\n- Serious adverse events occurred in 41% of patients in the nivolumab group and 44% of patients in the placebo group. There were no treatment-related deaths in either group."
+        },
+        {
+          "section": "Vinorelbine",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Malignant Mesothelioma",
+            "Treatment Options for Recurrent Malignant Mesothelioma",
+            "Gemcitabine in combination with ramucirumab",
+            "Vinorelbine"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Evidence (vinorelbine):\n- A multicenter, open-label, randomized, phase II trial ( VIM [NCT02139904]) included 154 patients with malignant pleural mesothelioma and disease progression after previous platinum-based chemotherapy. Patients were randomly assigned (2:1) to receive either active symptom control (ASC) with oral vinorelbine (n = 98) or ASC alone (n = 56) every 3 weeks until disease progression, unacceptable toxicity, or withdrawal. The primary end point was PFS.[ 13 ] The clinical impact of vinorelbine monotherapy for treatment of relapsed malignant pleural mesothelioma is limited, with a modest improvement in PFS and no difference in OS. This clinical impact should be weighed against the potential impact on quality of life caused by treatment-related adverse events.\n- The median PFS was 4.2 months in the ASC-plus-vinorelbine group and 2.8 months in the ASC-alone group (adjusted HR, 0.60; 80% CI [upper limit, 0.70]; one-sided adjusted log-rank P < .001).[ 13 ][ Level of evidence B1 ]\n- The median OS did not differ significantly between the two groups (9.3 months in ASC-plus-vinorelbine group vs. 9.1 months in the ASC-alone group).\n- The objective response rate was 3% in the ASC-plus-vinorelbine group and 2% in the ASC-alone group.\n- Although BRCA1 expression is required for vinorelbine-induced apoptosis in preclinical models, and loss of expression may correlate with vinorelbine resistance, low BRCA1 expression did not correlate with clinical activity in this study.\n- Vinorelbine was generally well tolerated and most treatment-related adverse events in both groups were mild to moderate in severity. The most common serious adverse events in the ASC-plus-vinorelbine group versus the ASC-alone group were dyspnea (5% vs. 0%), lower respiratory tract infection (5% vs. 6%), unspecified infection (3% vs. 0%), and febrile neutropenia (3% vs. 0%). Treatment-related deaths were reported in two patients in the ASC-plus-vinorelbine group (caused by pneumonia and lower respiratory tract infection) and in one patient in the ASC-alone group (caused by lower respiratory tract infection)."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Malignant Mesothelioma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Malignant Mesothelioma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "- Rusch V, Saltz L, Venkatraman E, et al.: A phase II trial of pleurectomy/decortication followed by intrapleural and systemic chemotherapy for malignant pleural mesothelioma. J Clin Oncol 12 (6): 1156-63, 1994. [PUBMED Abstract]\n- Markman M, Kelsen D: Efficacy of cisplatin-based intraperitoneal chemotherapy as treatment of malignant peritoneal mesothelioma. J Cancer Res Clin Oncol 118 (7): 547-50, 1992. [PUBMED Abstract]\n- Zucali PA, Ceresoli GL, Garassino I, et al.: Gemcitabine and vinorelbine in pemetrexed-pretreated patients with malignant pleural mesothelioma. Cancer 112 (7): 1555-61, 2008. [PUBMED Abstract]\n- Boutin C, Viallat JR, Van Zandwijk N, et al.: Activity of intrapleural recombinant gamma-interferon in malignant mesothelioma. Cancer 67 (8): 2033-7, 1991. [PUBMED Abstract]\n- Ong ST, Vogelzang NJ: Chemotherapy in malignant pleural mesothelioma. A review. J Clin Oncol 14 (3): 1007-17, 1996. [PUBMED Abstract]\n- Gregorc V, Zucali PA, Santoro A, et al.: Phase II study of asparagine-glycine-arginine-human tumor necrosis factor alpha, a selective vascular targeting agent, in previously treated patients with malignant pleural mesothelioma. J Clin Oncol 28 (15): 2604-11, 2010. [PUBMED Abstract]\n- Papa S, Popat S, Shah R, et al.: Phase 2 study of sorafenib in malignant mesothelioma previously treated with platinum-containing chemotherapy. J Thorac Oncol 8 (6): 783-7, 2013. [PUBMED Abstract]\n- Calabrò L, Morra A, Fonsatti E, et al.: Tremelimumab for patients with chemotherapy-resistant advanced malignant mesothelioma: an open-label, single-arm, phase 2 trial. Lancet Oncol 14 (11): 1104-11, 2013. [PUBMED Abstract]\n- Burt BM, Ali SO, DaSilva MC, et al.: Clinical indications and results after chest wall resection for recurrent mesothelioma. J Thorac Cardiovasc Surg 146 (6): 1373-9; discussion 1379-80, 2013. [PUBMED Abstract]\n- Pinto C, Zucali PA, Pagano M, et al.: Gemcitabine with or without ramucirumab as second-line treatment for malignant pleural mesothelioma (RAMES): a randomised, double-blind, placebo-controlled, phase 2 trial. Lancet Oncol 22 (10): 1438-1447, 2021. [PUBMED Abstract]\n- Jassem J, Ramlau R, Santoro A, et al.: Phase III trial of pemetrexed plus best supportive care compared with best supportive care in previously treated patients with advanced malignant pleural mesothelioma. J Clin Oncol 26 (10): 1698-704, 2008. [PUBMED Abstract]\n- Fennell DA, Ewings S, Ottensmeier C, et al.: Nivolumab versus placebo in patients with relapsed malignant mesothelioma (CONFIRM): a multicentre, double-blind, randomised, phase 3 trial. Lancet Oncol 22 (11): 1530-1540, 2021. [PUBMED Abstract]\n- Fennell DA, Porter C, Lester J, et al.: Active symptom control with or without oral vinorelbine in patients with relapsed malignant pleural mesothelioma (VIM): A randomised, phase 2 trial. EClinicalMedicine 48: 101432, 2022. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (05/12/2025)",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (05/12/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of adult malignant mesothelioma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 11,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Malignant Mesothelioma Treatment are:\n- Janet Dancey, MD, FRCPC (Ontario Institute for Cancer Research & NCIC Clinical Trials Group)\n- Arun Rajan, MD (National Cancer Institute)\n- Eva Szabo, MD (National Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Malignant Mesothelioma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/mesothelioma/hp/mesothelioma-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389420]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Malignant Mesothelioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\d2ad6f5dbc37304e2d86.html"
+    }
+  ]
+}

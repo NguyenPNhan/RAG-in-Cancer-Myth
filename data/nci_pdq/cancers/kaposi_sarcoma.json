@@ -1,0 +1,1097 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Kaposi Sarcoma",
+  "generated_at": "2026-08-31T07:15:23.302582+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Kaposi Sarcoma",
+      "title": "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Kaposi Sarcoma Treatment",
+      "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/hp/kaposi-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "May 7, 2025",
+      "retrieved_at": "2026-08-31T07:14:26.316960+00:00",
+      "content_sha256": "c69e241a5f67402f63acb363def1b2a9157f819a1aa66e5ba88aca9718648be4",
+      "section_count": 52,
+      "sections": [
+        {
+          "section": "Epidemiology",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Kaposi Sarcoma",
+            "Epidemiology"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Kaposi sarcoma (KS) was first described in 1872 by the Hungarian dermatologist, Moritz Kaposi. From that time until the HIV and AIDS epidemic, KS remained a rare tumor. Classic KS is most commonly seen in Europe and North America in older men of Italian or Eastern European Jewish ancestry,[ 1 ] and endemic KS is most commonly seen in sub-Saharan Africa. The disseminated, fulminant form of KS associated with HIV disease is referred to as AIDS-associated KS to distinguish it from classic and endemic KS. Transplant-related KS (also sometimes called iatrogenic KS) is seen in patients receiving chronic immunosuppression therapy, such as after organ transplant.[ 2 , 3 ]"
+        },
+        {
+          "section": "Histopathology",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Kaposi Sarcoma",
+            "Histopathology"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Although the histopathology of the different types of KS is essentially identical, the clinical manifestations and course of the disease differ dramatically.[ 2 ] Human herpesvirus 8 (HHV8), also known as Kaposi sarcoma-associated herpesvirus, was identified in KS tissue biopsies from almost all patients with classic, endemic, AIDS-associated, and transplant-related KS but was absent from noninvolved tissue.[ 2 ]"
+        },
+        {
+          "section": "Classic Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Kaposi Sarcoma",
+            "Classic Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Classic KS is considered a rare disease. It occurs more often in men, at a ratio of approximately 10 to 15 men to 1 woman. In North American and European populations, the usual age at onset is between 50 and 70 years. Classic KS tumors usually present with one or more asymptomatic red, purple, or brown patches, plaques, or nodular skin lesions. The disease is often limited to single or multiple lesions usually localized to one or both lower extremities, especially involving the ankles and soles.\nClassic KS most commonly runs a relatively benign, indolent course for 10 to 15 years or more, with slow enlargement of the original tumors and the gradual development of additional lesions. Venous stasis and lymphedema of the involved lower extremity are frequent complications. In long-standing cases, systemic lesions can develop along the gastrointestinal tract, in lymph nodes, and in other organs. The visceral lesions are generally asymptomatic and are most often discovered only at autopsy, though clinically, gastrointestinal bleeding can occur. As many as 33% of patients with classic KS develop a second primary malignancy, which is most often non-Hodgkin lymphoma.[ 4 ]"
+        },
+        {
+          "section": "Endemic Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Kaposi Sarcoma",
+            "Endemic Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Endemic KS refers to KS diagnosed in patients, typically children and younger adults, living in sub-Saharan Africa. This classification was based on several reports from the 1950s of KS in this younger HIV-negative cohort in human herpesvirus–endemic African countries. Prior to the AIDS epidemic, the estimated incidence for endemic KS was highest (>6 per 1,000 person-years) in Uganda, Tanzania, Cameroon, and Congo. The etiology behind endemic KS is unclear but may possibly be related to saliva-sharing practices, chronic infection, and malnutrition.[ 3 ]\nThe clinical presentation of endemic KS varies and differs between children and adults. Whereas adults present with disease that resembles classic KS, children can have more aggressive disease, including diffuse lymphadenopathy, significant lymphedema, and visceral dissemination.[ 3 ]"
+        },
+        {
+          "section": "AIDS-Associated Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Kaposi Sarcoma",
+            "AIDS-Associated Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The use of antiretroviral therapy for patients with AIDS-associated KS has been associated with a sustained and substantial decline in KS incidence in multiple large cohorts.[ 5 - 7 ] Antiretroviral therapy has delayed or prevented the emergence of drug-resistant HIV strains, profoundly decreased viral load, led to increased survival, and lessened the risk of opportunistic infections.[ 8 ] KS can still appear during antiretroviral therapy with complete suppression of HIV; most cases in the United States occur in patients with high CD4 counts receiving ongoing antiretroviral therapy.[ 9 ]\nThe disease often progresses in an orderly fashion from a few localized or widespread mucocutaneous lesions that may involve the skin, oral mucosa, and lymph nodes to more numerous lesions and generalized skin disease that involves visceral organs, such as the gastrointestinal tract, lung, liver, and spleen. Most patients with HIV disease who present with mucocutaneous KS lesions feel healthy and are usually free of systemic symptoms, as compared with HIV patients who first develop an opportunistic infection. AIDS-associated KS presents at sites that are much more varied than those seen in other types of this neoplasm. While most patients present with skin disease, KS involvement of lymph nodes or the gastrointestinal tract may occasionally precede the appearance of the cutaneous lesions."
+        },
+        {
+          "section": "Transplant-Related Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Kaposi Sarcoma",
+            "Transplant-Related Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Transplant-related KS (also called iatrogenic KS) is diagnosed in patients who are therapeutically immunosuppressed, such as after an organ transplant. In fact, solid-organ transplant recipients are 200-fold more likely to develop KS than the general population. Risk factors include male sex, older age, higher levels of immune suppression, and living in HHV8-endemic areas.[ 3 ]\nTransplant-related KS typically yields cutaneous lesions, though mucosal and visceral disease can occur. The lesions commonly occur within the first several months of immunosuppression therapy and regress with changes or reductions in immunosuppression.[ 3 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Kaposi Sarcoma",
+            "Transplant-Related Kaposi Sarcoma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Ruocco E, Ruocco V, Tornesello ML, et al.: Kaposi's sarcoma: etiology and pathogenesis, inducing factors, causal associations, and treatments: facts and controversies. Clin Dermatol 31 (4): 413-422, 2013 Jul-Aug. [PUBMED Abstract]\n- Uldrick TS, Whitby D: Update on KSHV epidemiology, Kaposi Sarcoma pathogenesis, and treatment of Kaposi Sarcoma. Cancer Lett 305 (2): 150-62, 2011. [PUBMED Abstract]\n- Cesarman E, Damania B, Krown SE, et al.: Kaposi sarcoma. Nat Rev Dis Primers 5 (1): 9, 2019. [PUBMED Abstract]\n- Safai B, Good RA: Kaposi's sarcoma: a review and recent developments. Clin Bull 10 (2): 62-9, 1980. [PUBMED Abstract]\n- Portsmouth S, Stebbing J, Gill J, et al.: A comparison of regimens based on non-nucleoside reverse transcriptase inhibitors or protease inhibitors in preventing Kaposi's sarcoma. AIDS 17 (11): F17-22, 2003. [PUBMED Abstract]\n- Carrieri MP, Pradier C, Piselli P, et al.: Reduced incidence of Kaposi's sarcoma and of systemic non-hodgkin's lymphoma in HIV-infected individuals treated with highly active antiretroviral therapy. Int J Cancer 103 (1): 142-4, 2003. [PUBMED Abstract]\n- Grabar S, Abraham B, Mahamat A, et al.: Differential impact of combination antiretroviral therapy in preventing Kaposi's sarcoma with and without visceral involvement. J Clin Oncol 24 (21): 3408-14, 2006. [PUBMED Abstract]\n- Lodi S, Guiguet M, Costagliola D, et al.: Kaposi sarcoma incidence and survival among HIV-infected homosexual men after HIV seroconversion. J Natl Cancer Inst 102 (11): 784-92, 2010. [PUBMED Abstract]\n- Yanik EL, Achenbach CJ, Gopal S, et al.: Changes in Clinical Context for Kaposi's Sarcoma and Non-Hodgkin Lymphoma Among People With HIV Infection in the United States. J Clin Oncol 34 (27): 3276-83, 2016. [PUBMED Abstract]"
+        },
+        {
+          "section": "Staging",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information and Response Evaluation for Kaposi Sarcoma",
+            "Staging"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "The staging evaluation of patients with classic Kaposi sarcoma (KS) should be individualized. The advanced age of most patients, localized nature of the tumor, rarity of visceral involvement, and usually indolent course of the disease should temper the extent of the evaluation. A careful examination of the skin and lymph nodes is sufficient in most cases.\nFor the rare patient with a rapidly progressive tumor or signs or symptoms of visceral involvement, appropriate evaluation is indicated. No universally accepted classification is available for AIDS-associated KS. Staging schemes that incorporate laboratory parameters as well as clinical features have been proposed. Since most patients with AIDS-associated KS do not die of the disease, factors besides tumor burden are apparently involved in survival.\nThe conventions used to stage KS and the methods used to evaluate the benefits of KS treatment continue to evolve because of changes in the treatment of HIV and in recognition of deficiencies in standard tumor assessment. The clinical course of KS, the selection of treatment, and the response to treatment are heavily influenced by the degree of underlying immune dysfunction and opportunistic infections.\nThe AIDS Clinical Trials Group (ACTG) Oncology Committee has published criteria for the evaluation of AIDS-associated KS.[ 1 ] The staging system incorporates measures of extent of disease, severity of immunodeficiency, and presence of systemic symptoms. As shown in Table 1 below, the ACTG criteria categorize the extent of the tumor as localized or disseminated, the CD4 cell number as high or low, and systemic illness as absent or present.\nA subsequent prospective analysis of 294 patients entered on ACTG trials for KS between 1989 and 1995 showed that each of the tumor (T), immune system (I), and systemic illness (S) variables was independently associated with survival.[ 2 ] Multivariate analysis showed that immune system impairment was the most important single predictor of survival. In patients with relatively high CD4 counts, tumor stage was predictive. A CD4 count of 150 cells/µL may be a better discriminator than the published cutoff of 200 cells/µL. A study is under way to determine if quantifying viral load adds predictive value. None of the previous studies were conducted at a time when antiretroviral therapy was readily available. The impact of antiretroviral therapy on survival in KS requires continued assessment.\nVariable | Good Risk (0) | Poor Risk (1)\nKS = Kaposi sarcoma; OI = opportunistic infection.\na Minimal oral disease is non-nodular KS confined to the palate.\nb \"B” symptoms are unexplained fever, night sweats, >10% involuntary weight loss, or diarrhea persisting >2 weeks.\n(Any of the following) | (Any of the following)\nTumor (T) | Confined to skin and/or lymph nodes and/or minimal oral disease a | Tumor-associated edema or ulceration\nExtensive oral KS\nGastrointestinal KS\nKS in other non-nodal viscera\nImmune system (I) | CD4 cells ≥200/µL | CD4 cells <200/µL\nSystemic illness (S) | No history of OIs or thrush | History of OIs and/or thrush\nNo “B” symptoms b | “B” symptoms present\nPerformance status ≥70 (Karnofsky) | Performance status <70\nOther HIV-related illness (e.g., neurological disease or lymphoma)"
+        },
+        {
+          "section": "Response Evaluation",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information and Response Evaluation for Kaposi Sarcoma",
+            "Response Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The ACTG proposed a unified treatment response evaluation system for AIDS-related KS for clinical practice and research.[ 1 ] After appropriate clinical examination and relevant interval imaging or endoscopy, patients are characterized as having complete response (CR), partial response (PR), stable disease (SD), or progressive disease (PD), based on the following criteria:\n- CR: No detectable residual disease and no tumor-related edema for at least 4 weeks.\n- PR: No new mucocutaneous lesions, visceral disease, or worsening tumor-related edema. Existing sites show a 50% reduction in (1) the number of lesions, (2) the form of lesions (i.e. flattening of raised lesions), and/or (3) the sum of the products of the largest perpendicular diameters of five measurable lesions. If residual tumor-related edema is present despite meeting CR criteria, the response is still characterized as a PR.\n- PD: Increase of more than 25% in (1) the size of existing lesions and/or (2) the number of existing lesions that have more nodular or plaque-like form, or the development of new sites of disease.\n- SD: No PR, CR, or PD."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information and Response Evaluation for Kaposi Sarcoma",
+            "Response Evaluation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Krown SE, Metroka C, Wernz JC: Kaposi's sarcoma in the acquired immune deficiency syndrome: a proposal for uniform evaluation, response, and staging criteria. AIDS Clinical Trials Group Oncology Committee. J Clin Oncol 7 (9): 1201-7, 1989. [PUBMED Abstract]\n- Krown SE, Testa MA, Huang J: AIDS-related Kaposi's sarcoma: prospective validation of the AIDS Clinical Trials Group staging classification. AIDS Clinical Trials Group Oncology Committee. J Clin Oncol 15 (9): 3085-92, 1997. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Classic and Endemic Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Classic Kaposi sarcoma (KS), as well as endemic KS in adult patients, is usually limited to the skin and has an indolent course. Thus, management for both is typically similar. Patients are predisposed to develop a second primary malignancy, and the treating physician should consider this factor when arranging a schedule of follow-up treatment for the patient."
+        },
+        {
+          "section": "Treatment Options for Localized Classic and Endemic Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Localized Classic and Endemic Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for localized skin disease include (options are equivalent):\n- Radiation therapy .\n- Surgery .\n- Other options (cryo-laser, intralesional, and topical therapy) ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Localized Classic and Endemic Kaposi Sarcoma",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For solitary lesions or lesions of limited extent, modest doses of radiation applied with a limited margin provide excellent control of disease in the treated area. Usually, superficial radiation beams, such as electron beams, are used. Some authors believe disease recurrence in adjacent untreated skin is common if only involved-field radiation therapy is used and claim better cure rates when extended-field radiation therapy is used.[ 1 ]\nFor low-voltage (100 kv) photon radiation therapy, 8 Gy to 10 Gy is given as a single dose or 15 Gy to 20 Gy is given over 1 week because solitary lesions control nearly 100% of local disease, but recurrence in adjacent areas is common.\nFor electron-beam radiation therapy (EBRT), 4 Gy is given once weekly for 6 to 8 consecutive weeks with a 4-MeV to 6-MeV electron beam. Ports should include the entire skin surface 15 cm above the lesion."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Localized Classic and Endemic Kaposi Sarcoma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Surgical excision may benefit patients with small superficial lesions, but local recurrence is likely to occur. However, multiple small excisions can continue to be performed for good disease control."
+        },
+        {
+          "section": "Other options",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Localized Classic and Endemic Kaposi Sarcoma",
+            "Other options"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Based on extent and accessibility of lesions, alternate modalities such as cryo-, laser, intralesional, and topical therapy can be used. Use of these modalities is based on evidence extrapolated from treatment of AIDS-associated KS.[ 2 , 3 ]"
+        },
+        {
+          "section": "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for advanced skin disease include:\n- Radiation therapy .\n- Chemotherapy .\n- Biological and targeted therapy .\n- Immunotherapy ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Modest doses can be effective in controlling widespread skin disease. The type of radiation (i.e., photon vs. electron) and fields used must be tailored to suit the distribution of disease in the individual patient.[ 1 ] Radiation therapy options include:\n- Extended-field EBRT.\n- For disease limited to areas distal to the knee, subtotal-skin EBRT directed to skin below the umbilicus.\n- For disease that extends above the knee, total-skin EBRT. EBRT used in this manner gave long-term results that were superior to those obtained with radiation therapy administered to successive individual lesions as they appeared.[ 4 ]\n- For extensive disease, EBRT 4 Gy given once weekly for 6 to 8 consecutive weeks, and subtotal- or total-skin radiation therapy."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Because classic KS is such a rare disease in the United States, and is usually treated initially with radiation therapy, few patients have been treated with chemotherapy. Its use in classic KS is based on data extrapolated from treatment of AIDS-associated KS, and no randomized prospective trials have compared one agent with another in classic KS. The agents listed below have potential benefit."
+        },
+        {
+          "section": "Pegylated liposomal doxorubicin (PLD)",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma",
+            "Chemotherapy",
+            "Pegylated liposomal doxorubicin (PLD)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "PLD has shown activity in several case series and single-institution analyses.[ 5 - 8 ]\nEvidence (PLD):\n- A multicenter trial included 55 patients with classic KS who were treated over a decade.[ 5 ]\n- A 71% overall response rate was seen using PLD, with a median response duration of 25 months.[ 5 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Taxanes",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma",
+            "Chemotherapy",
+            "Taxanes"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Paclitaxel has shown activity in both AIDS-associated and classic KS in small case series.[ 9 - 12 ]\nEvidence (taxanes):\n- A small trial included 73 patients with AIDS-associated KS (32% had an undetectable HIV viral load). Patients were randomly assigned to receive either PLD or paclitaxel.[ 9 ]\n- Response rates were 46% for patients who received PLD and 56% for patients who received paclitaxel. The median progression-free survival (PFS) was 12 months for patients who received PLD and 18 months for patients who received paclitaxel. The 2-year overall survival rates were 78% for patients who received PLD and 79% for patients who received paclitaxel.[ 9 ][ Level of evidence B3 ]"
+        },
+        {
+          "section": "Other chemotherapy agents",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma",
+            "Chemotherapy",
+            "Other chemotherapy agents"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Single-agent vinblastine [ 13 - 16 ], oral etoposide [ 17 - 19 ], and gemcitabine [ 20 - 22 ] have all shown good activity in classic and AIDS-associated KS.\nEvidence (other chemotherapy agents):\n- A phase III trial included 65 patients with classic KS. Patients were randomly assigned to receive either oral etoposide or vinblastine.[ 18 ]\n- Response rates were relatively high and did not significantly differ (58% for patients who received PLD and 74% for patients who received paclitaxel).[ 18 ][ Level of evidence B3 ]"
+        },
+        {
+          "section": "Biological and targeted therapy",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma",
+            "Biological and targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Agents that modulate the immune system, such as imide drugs and interferon alfa-2b, have shown efficacy in both classic and AIDS-associated KS."
+        },
+        {
+          "section": "Pomalidomide",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma",
+            "Biological and targeted therapy",
+            "Pomalidomide"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The U.S. Food and Drug Administration (FDA) approved pomalidomide for the treatment of KS in patients with and without HIV.\nEvidence (pomalidomide):\n- A phase I/II study of pomalidomide included 28 patients with KS. Ten patients were HIV-positive and 18 patients were HIV-negative.[ 23 ]\n- The overall response rate was 71%, and 80% among patients without HIV. The median PFS was 10 months.[ 23 ]\n- Pomalidomide was generally well tolerated. Common adverse events included neutropenia, anemia, fatigue, constipation, and rash. There were few grade 3 events (neutropenia, infection, and edema).[ 24 ]\nPomalidomide is teratogenic, prescribed through a Risk Evaluation and Mitigation Strategy (REMS) program, and it should be given with aspirin to mitigate venous thromboembolism risk."
+        },
+        {
+          "section": "Interferon alfa-2b",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma",
+            "Biological and targeted therapy",
+            "Interferon alfa-2b"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The FDA approved interferon alfa-2b for the treatment of AIDS-associated KS. It is sometimes used off-label for classic KS.\nEvidence (interferon alfa-2b):\n- A small case series included 16 patients without HIV.[ 25 ]\n- Treatment with interferon alfa-2b led to a response in ten patients (one complete response [CR], nine partial responses [PRs])."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Immune checkpoint inhibitor therapy has been tested in classic KS and yielded promising results."
+        },
+        {
+          "section": "Pembrolizumab monotherapy",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma",
+            "Immunotherapy",
+            "Pembrolizumab monotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Evidence (pembrolizumab monotherapy):\n- Pembrolizumab monotherapy (given every 3 weeks for up to 6 months) was evaluated in a multicenter, single-arm, phase II study of 17 patients. Eight patients had classic KS and nine patients had endemic KS.[ 26 ][ Level of evidence C3 ]\n- At a median follow-up of 20.4 months, with 88% of patients completing 6 months of treatment, the best overall response rate was 71% (12% with CR, 59% with PR). An additional 29% of patients had stable disease based on AIDS Clinical Trials Group response evaluation.\n- The median time to response was 5 months (interquartile range, 3.4–12), the estimated median duration of response was 23 months (95% confidence interval [CI], 21.2–not reached [NR]), and the median time to progression (TTP) was 24 months (95% CI, 15–NR).\n- Sixty-four percent (7 of 11) of pretreated patients and 83% (5 of 6) of chemotherapy-naïve patients had a CR or PR.\n- Pembrolizumab was generally well tolerated. Two patients (12%) had grade 3 events: acute cardiac decompensation and granulomatous reaction in the lung. Two patients discontinued treatment due to grade 2 pancreatitis and grade 3 acute cardiac decompensation, respectively."
+        },
+        {
+          "section": "Ipilimumab and nivolumab",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Treatment Options for Advanced Classic and Endemic Kaposi Sarcoma",
+            "Immunotherapy",
+            "Ipilimumab and nivolumab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Evidence (ipilimumab and nivolumab):\n- Ipilimumab and nivolumab combination therapy was evaluated in a phase II study of 18 patients with refractory classic KS. Patients received nivolumab 240 mg every 2 weeks and ipilimumab 1 mg/kg every 6 weeks until disease progression, for up to 24 months.[ 27 ]\n- At a median follow-up of 24.4 months, the overall response rate was 87% by Response Evaluation Criteria In Solid Tumors (RECIST) criteria. The 6- and 12-month PFS rates were 77% and 59%, respectively.[ 27 ][ Level of evidence B4 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Classic and Endemic Kaposi Sarcoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 27,
+          "text": "- Tsao MN, Sinclair E, Assaad D, et al.: Radiation therapy for the treatment of skin Kaposi sarcoma. Ann Palliat Med 5 (4): 298-302, 2016. [PUBMED Abstract]\n- Epstein JB, Lozada-Nur F, McLeod WA, et al.: Oral Kaposi's sarcoma in acquired immunodeficiency syndrome. Review of management and report of the efficacy of intralesional vinblastine. Cancer 64 (12): 2424-30, 1989. [PUBMED Abstract]\n- Bodsworth NJ, Bloch M, Bower M, et al.: Phase III vehicle-controlled, multi-centered study of topical alitretinoin gel 0.1% in cutaneous AIDS-related Kaposi's sarcoma. Am J Clin Dermatol 2 (2): 77-87, 2001. [PUBMED Abstract]\n- Nisce LZ, Safai B, Poussin-Rosillo H: Once weekly total and subtotal skin electron beam therapy for Kaposi's sarcoma. Cancer 47 (4): 640-4, 1981. [PUBMED Abstract]\n- Di Lorenzo G, Kreuter A, Di Trolio R, et al.: Activity and safety of pegylated liposomal doxorubicin as first-line therapy in the treatment of non-visceral classic Kaposi's sarcoma: a multicenter study. J Invest Dermatol 128 (6): 1578-80, 2008. [PUBMED Abstract]\n- Castiñeiras I, Almagro M, Rodríguez-Lozano J, et al.: Disseminated classic Kaposi's sarcoma. Two cases with excellent response to pegylated liposomal doxorubicin. J Dermatolog Treat 17 (6): 377-80, 2006. [PUBMED Abstract]\n- Di Lorenzo G, Di Trolio R, Montesarchio V, et al.: Pegylated liposomal doxorubicin as second-line therapy in the treatment of patients with advanced classic Kaposi sarcoma: a retrospective study. Cancer 112 (5): 1147-52, 2008. [PUBMED Abstract]\n- Potouridou I, Korfitis C, Ioannidou D, et al.: Low to moderate cumulative doses of pegylated liposomal doxorubicin in the treatment of classic Kaposi sarcoma in elderly patients with comorbidities. Br J Dermatol 158 (2): 431-2, 2008. [PUBMED Abstract]\n- Cianfrocca M, Lee S, Von Roenn J, et al.: Randomized trial of paclitaxel versus pegylated liposomal doxorubicin for advanced human immunodeficiency virus-associated Kaposi sarcoma: evidence of symptom palliation from chemotherapy. Cancer 116 (16): 3969-77, 2010. [PUBMED Abstract]\n- Brambilla L, Romanelli A, Bellinvia M, et al.: Weekly paclitaxel for advanced aggressive classic Kaposi sarcoma: experience in 17 cases. Br J Dermatol 158 (6): 1339-44, 2008. [PUBMED Abstract]\n- Chao SC, Lee JY, Tsao CJ: Treatment of classical type Kaposi's sarcoma with paclitaxel. Anticancer Res 21 (1B): 571-3, 2001. [PUBMED Abstract]\n- Fardet L, Stoebner PE, Bachelez H, et al.: Treatment with taxanes of refractory or life-threatening Kaposi sarcoma not associated with human immunodeficiency virus infection. Cancer 106 (8): 1785-9, 2006. [PUBMED Abstract]\n- Solan AJ, Greenwald ES, Silvay O: Long-term complete remissions of Kaposi's sarcoma with vinblastine therapy. Cancer 47 (4): 637-9, 1981. [PUBMED Abstract]\n- Tucker SB, Winkelmann RK: Treatment of Kaposi sarcoma with vinblastine. Arch Dermatol 112 (7): 958-61, 1976. [PUBMED Abstract]\n- Scott WP, Voight JA: Kaposi's sarcoma. Management with vincaleucoblastine. Cancer 19 (4): 557-64, 1966. [PUBMED Abstract]\n- Klein E, Schwartz RA, Laor Y, et al.: Treatment of Kaposi's sarcoma with vinblastine. Cancer 45 (3): 427-31, 1980. [PUBMED Abstract]\n- Tas F, Sen F, Keskin S, et al.: Oral etoposide as first-line therapy in the treatment of patients with advanced classic Kaposi's sarcoma (CKS): a single-arm trial (oral etoposide in CKS). J Eur Acad Dermatol Venereol 27 (6): 789-92, 2013. [PUBMED Abstract]\n- Brambilla L, Labianca R, Boneschi V, et al.: Mediterranean Kaposi's sarcoma in the elderly. A randomized study of oral etoposide versus vinblastine. Cancer 74 (10): 2873-8, 1994. [PUBMED Abstract]\n- Brambilla L, Boneschi V, Fossati S, et al.: Oral etoposide for Kaposi's Mediterranean sarcoma. Dermatologica 177 (6): 365-9, 1988. [PUBMED Abstract]\n- Brambilla L, Labianca R, Ferrucci SM, et al.: Treatment of classical Kaposi's sarcoma with gemcitabine. Dermatology 202 (2): 119-22, 2001. [PUBMED Abstract]\n- Zustovich F, Lombardi G, Pastorelli D: Important role of gemcitabine in the treatment of classic Kaposi's sarcoma. Tumori 95 (4): 562-3, 2009. [PUBMED Abstract]\n- Zustovich F, Ferro A, Toso S: Gemcitabine for the treatment of classic Kaposi's Sarcoma: a case series. Anticancer Res 33 (12): 5531-4, 2013. [PUBMED Abstract]\n- Ramaswami R, Polizzotto MN, Lurain K, et al.: Safety, Activity, and Long-term Outcomes of Pomalidomide in the Treatment of Kaposi Sarcoma among Individuals with or without HIV Infection. Clin Cancer Res 28 (5): 840-850, 2022. [PUBMED Abstract]\n- Polizzotto MN, Uldrick TS, Wyvill KM, et al.: Pomalidomide for Symptomatic Kaposi's Sarcoma in People With and Without HIV Infection: A Phase I/II Study. J Clin Oncol 34 (34): 4125-4131, 2016. [PUBMED Abstract]\n- Costa da Cunha CS, Lebbe C, Rybojad M, et al.: Long-term follow-up of non-HIV Kaposi's sarcoma treated with low-dose recombinant interferon alfa-2b. Arch Dermatol 132 (3): 285-90, 1996. [PUBMED Abstract]\n- Delyon J, Biard L, Renaud M, et al.: PD-1 blockade with pembrolizumab in classic or endemic Kaposi's sarcoma: a multicentre, single-arm, phase 2 study. Lancet Oncol 23 (4): 491-500, 2022. [PUBMED Abstract]\n- Zer A, Icht O, Yosef L, et al.: Phase II single-arm study of nivolumab and ipilimumab (Nivo/Ipi) in previously treated classical Kaposi sarcoma (cKS). Ann Oncol 33 (7): 720-727, 2022. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of AIDS-Associated Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of AIDS-associated Kaposi sarcoma (KS) may result in the following:\n- The disappearance or reduction in size of specific skin lesions, thereby alleviating the discomfort associated with the chronic edema and ulcerations that often accompany multiple skin tumors seen on the lower extremities.\n- Control of symptoms associated with mucosal or visceral lesions.\nNo data are available to show that treatment improves survival.[ 1 ] In addition to antitumor treatment, essential components of an optimal KS treatment strategy in this population include antiretroviral treatment, prophylaxis for opportunistic infections, and rapid recognition and treatment of intercurrent infections. Therefore, close collaboration between oncologists and HIV specialists is vital.\nMost patients with good-risk disease, defined by the AIDS Clinical Trials Group as T0, show tumor regression with antiretroviral therapy alone.[ 2 - 4 ] Patients with poor-risk disease, defined as T1, usually require a combination of antiretroviral therapy and chemotherapy with discontinuation of the chemotherapy after disappearance of the skin lesion.[ 2 - 4 ]"
+        },
+        {
+          "section": "Treatment Options for AIDS-Associated Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma",
+            "Treatment Options for AIDS-Associated Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for AIDS-associated KS include:\n- Local modalities .\n- Chemotherapy .\n- Biological and targeted therapy ."
+        },
+        {
+          "section": "Local modalities",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma",
+            "Treatment Options for AIDS-Associated Kaposi Sarcoma",
+            "Local modalities"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Small localized lesions of KS may be treated by electrodesiccation and curettage, cryotherapy, or by surgical excision. KS tumors are also generally very responsive to local radiation therapy, and excellent palliation has been obtained with doses at 20 Gy or slightly higher.[ 5 , 6 ] Radiation therapy is generally reserved to treat localized areas of the skin and oral cavity. It is used less often to control pulmonary, gastrointestinal tract, or other sites of KS lesions. Localized KS lesions have also been effectively treated with intralesional injections of vinblastine.[ 7 ] Alitretinoin 0.1% gel provided local control in a randomized, prospective, multicenter trial.[ 8 ][ Level of evidence B3 ]"
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma",
+            "Treatment Options for AIDS-Associated Kaposi Sarcoma",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "In AIDS-associated KS, the already profoundly depressed immunologic status of the patient limits the therapeutic usefulness of systemic chemotherapy. Systemic chemotherapy studies in patients with AIDS-associated KS have used doxorubicin, bleomycin, vinblastine, vincristine, etoposide, paclitaxel, and docetaxel alone or in combination.[ 9 - 13 ][ Level of evidence C3 ] The combination of antiretroviral therapy and liposomal doxorubicin resulted in a 5-year overall survival rate of 85% in 140 patients with T1 disease.[ 3 ][ Level of evidence C3 ]\nRandomized multicenter trials showed an improvement in response rate (45%–60% vs. 20%–25%) and a more favorable toxic effects profile for pegylated liposomal doxorubicin (PLD) or liposomal daunorubicin, compared with the combination of doxorubicin, bleomycin, and vincristine or bleomycin and vincristine.[ 14 - 16 ][ Level of evidence B3 ] During antiretroviral therapy, both PLD and paclitaxel are active single agents with response rates close to 50%.[ 17 ][ Level of evidence B3 ]"
+        },
+        {
+          "section": "Interferon alfa",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma",
+            "Treatment Options for AIDS-Associated Kaposi Sarcoma",
+            "Biological and targeted therapy",
+            "Interferon alfa"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "The interferon alfas have also been widely studied and show a 40% objective response rate in patients with AIDS-associated KS.[ 18 , 19 ] In these reports, the responses differed significantly according to the following prognostic factors:\n- Extent of disease.\n- Prior or coexistent opportunistic infections.\n- Prior treatment with chemotherapy.\n- CD4 lymphocyte counts lower than 200 cells/µL.\n- Presence of circulating acid-labile interferon alfa.\n- Increase in beta-2-microglobulin.\nSeveral treatment studies have combined interferon alfa with other chemotherapeutic agents. Overall, these trials have shown no benefit with the interferon-chemotherapy combinations as compared with the single-agent activities.\nRecombinant interferon alfa-2a and recombinant interferon alfa-2b were the first agents approved for the treatment of KS. Approval was based on single-agent studies performed in the 1980s before the advent of antiretroviral therapy. The early studies demonstrated improved efficacy at relatively high doses.\nHigh-dose monotherapy is rarely used today, and instead, interferon is given in combination with other anti-HIV drugs in doses of 4 to 18 million units. Neutropenia is dose limiting, and trials of doses of 1 to 10 million units combined with less myelosuppressive antiretroviral agents are in progress. Response to interferon is slow, and the maximum effect is seen after 6 or more months. Interferon should probably not be used to treat patients with rapidly progressive, symptomatic KS."
+        },
+        {
+          "section": "Imatinib",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma",
+            "Treatment Options for AIDS-Associated Kaposi Sarcoma",
+            "Biological and targeted therapy",
+            "Imatinib"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Imatinib is a c-kit/platelet-derived growth factor receptor inhibitor.\nEvidence (imatinib):\n- A phase II trial included 30 patients with AIDS-associated KS.[ 20 ]\n- A partial response (PR) was seen in 10 of 30 previously treated patients . Previous treatment included antiretroviral therapy and chemotherapy."
+        },
+        {
+          "section": "Bevacizumab",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma",
+            "Treatment Options for AIDS-Associated Kaposi Sarcoma",
+            "Biological and targeted therapy",
+            "Bevacizumab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Bevacizumab is a humanized, anti–vascular endothelial growth factor monoclonal antibody.\nEvidence (bevacizumab):\n- A phase II study included 16 assessable patients with KS and HIV. Patients received bevacizumab intravenously (IV) on days 1 and 8 and then every 3 weeks.[ 21 ]\n- There was a response in 5 of 16 patients. These patients had not improved after prior antiretroviral therapy and chemotherapy.[ 21 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Interleukin-12",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma",
+            "Treatment Options for AIDS-Associated Kaposi Sarcoma",
+            "Biological and targeted therapy",
+            "Interleukin-12"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Evidence (interleukin-12):\n- A phase I and phase II trial included 24 evaluable patients. Patients received interleukin-12 subcutaneously twice weekly.[ 22 ]\n- Treatment resulted in a response rate of 71% (95% confidence interval, 48%–89%).[ 22 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Pomalidomide",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma",
+            "Treatment Options for AIDS-Associated Kaposi Sarcoma",
+            "Biological and targeted therapy",
+            "Pomalidomide"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The U.S. Food and Drug Administration approved pomalidomide for patients with AIDS-associated KS.\nEvidence (pomalidomide):\n- A phase I/II study of pomalidomide included 28 patients with KS. Ten patients were HIV-positive and 18 patients were HIV-negative.[ 23 ]\n- The overall response rate was 71%, and 80% among patients without HIV. The median progression-free survival was 10 months.[ 23 ]\n- Pomalidomide was generally well tolerated. Common adverse events included neutropenia, anemia, fatigue, constipation, and rash. There were few grade 3 events (neutropenia, infection, and edema).[ 24 ]\nPomalidomide is teratogenic, prescribed through a Risk Evaluation and Mitigation Strategy (REMS) program, and it should be given with aspirin to mitigate venous thromboembolism risk."
+        },
+        {
+          "section": "Bortezomib",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma",
+            "Treatment Options for AIDS-Associated Kaposi Sarcoma",
+            "Biological and targeted therapy",
+            "Bortezomib"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Evidence (bortezomib):\n- Bortezomib was evaluated in a small phase I dose-escalation study of 17 patients with AIDS-associated KS. Patients received bortezomib IV on days 1, 8, and 15 of 28-day cycles.[ 25 ]\n- Bortezomib was relatively well tolerated and led to a PR in 60% of all evaluable patients. Among those receiving the highest bortezomib dose, 83% of patients had a PR and 17% had stable disease."
+        },
+        {
+          "section": "Management of Immune Reconstitution Inflammatory Syndrome in AIDS-Associated Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma",
+            "Management of Immune Reconstitution Inflammatory Syndrome in AIDS-Associated Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Immune reconstitution inflammatory syndrome (IRIS) is a hyperimmune response in patients with HIV/AIDS within the first 6 months of starting antiretroviral therapy. Kaposi sarcoma (KS)-associated IRIS (KS-IRIS) is not well-defined, but is considered to be the sudden clinical worsening of previous KS (\"paradoxical\") or the new presentation of KS (“unmasked”) in close proximity to starting or modifying antiretroviral therapy.[ 26 ]\nEstimates for KS-IRIS incidence vary from 2% to 39%, with the highest risk in patients with any of the following characteristics:[ 26 , 27 ]\n- High HIV viral loads (>10,000 copies/mL).\n- CD4 lymphocyte count less than 200 cells/µL.\n- Detectable plasma human herpesvirus 8 DNA.\n- Pulmonary KS involvement.\n- Recent steroid use.\nKS-IRIS typically presents with increased swelling/tenderness of lesions, new or worsening edema, and visceral or pulmonary involvement.\nManagement of KS-IRIS typically includes continuing antiretroviral therapy and initiating systemic treatment, such as liposomal doxorubicin or paclitaxel, for KS. The evidence for use of chemotherapy to prevent KS-IRIS is mixed, but can be considered on an individual basis.[ 26 ] Glucocorticoids are avoided due to the risk of dramatic worsening of KS.[ 27 , 28 ] Thalidomide has also been used for steroid-refractory IRIS.[ 29 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Associated Kaposi Sarcoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 29,
+          "text": "- Safai B: Kaposi's sarcoma and acquired immunodeficiency syndrome. In: DeVita VT, Hellman S, Rosenberg S, eds.: AIDS: Etiology, Diagnosis, Treatment and Prevention. 4th ed. Lippincott-Raven Publishers, 1997, pp 295-318.\n- Krown SE: Highly active antiretroviral therapy in AIDS-associated Kaposi's sarcoma: implications for the design of therapeutic trials in patients with advanced, symptomatic Kaposi's sarcoma. J Clin Oncol 22 (3): 399-402, 2004. [PUBMED Abstract]\n- Bower M, Dalla Pria A, Coyle C, et al.: Prospective stage-stratified approach to AIDS-related Kaposi's sarcoma. J Clin Oncol 32 (5): 409-14, 2014. [PUBMED Abstract]\n- Krell J, Stebbing J: Broader implications of a stage-guided stratified therapeutic approach for AIDS-related Kaposi's sarcoma. J Clin Oncol 32 (5): 373-5, 2014. [PUBMED Abstract]\n- Singh NB, Lakier RH, Donde B: Hypofractionated radiation therapy in the treatment of epidemic Kaposi sarcoma--a prospective randomized trial. Radiother Oncol 88 (2): 211-6, 2008. [PUBMED Abstract]\n- Tsao MN, Sinclair E, Assaad D, et al.: Radiation therapy for the treatment of skin Kaposi sarcoma. Ann Palliat Med 5 (4): 298-302, 2016. [PUBMED Abstract]\n- Epstein JB, Lozada-Nur F, McLeod WA, et al.: Oral Kaposi's sarcoma in acquired immunodeficiency syndrome. Review of management and report of the efficacy of intralesional vinblastine. Cancer 64 (12): 2424-30, 1989. [PUBMED Abstract]\n- Bodsworth NJ, Bloch M, Bower M, et al.: Phase III vehicle-controlled, multi-centered study of topical alitretinoin gel 0.1% in cutaneous AIDS-related Kaposi's sarcoma. Am J Clin Dermatol 2 (2): 77-87, 2001. [PUBMED Abstract]\n- Evans SR, Krown SE, Testa MA, et al.: Phase II evaluation of low-dose oral etoposide for the treatment of relapsed or progressive AIDS-related Kaposi's sarcoma: an AIDS Clinical Trials Group clinical study. J Clin Oncol 20 (15): 3236-41, 2002. [PUBMED Abstract]\n- Saville MW, Lietzau J, Pluda JM, et al.: Treatment of HIV-associated Kaposi's sarcoma with paclitaxel. Lancet 346 (8966): 26-8, 1995. [PUBMED Abstract]\n- Lim ST, Tupule A, Espina BM, et al.: Weekly docetaxel is safe and effective in the treatment of advanced-stage acquired immunodeficiency syndrome-related Kaposi sarcoma. Cancer 103 (2): 417-21, 2005. [PUBMED Abstract]\n- Gill PS, Tulpule A, Espina BM, et al.: Paclitaxel is safe and effective in the treatment of advanced AIDS-related Kaposi's sarcoma. J Clin Oncol 17 (6): 1876-83, 1999. [PUBMED Abstract]\n- Di Lorenzo G, Konstantinopoulos PA, Pantanowitz L, et al.: Management of AIDS-related Kaposi's sarcoma. Lancet Oncol 8 (2): 167-76, 2007. [PUBMED Abstract]\n- Stewart S, Jablonowski H, Goebel FD, et al.: Randomized comparative trial of pegylated liposomal doxorubicin versus bleomycin and vincristine in the treatment of AIDS-related Kaposi's sarcoma. International Pegylated Liposomal Doxorubicin Study Group. J Clin Oncol 16 (2): 683-91, 1998. [PUBMED Abstract]\n- Northfelt DW, Dezube BJ, Thommes JA, et al.: Pegylated-liposomal doxorubicin versus doxorubicin, bleomycin, and vincristine in the treatment of AIDS-related Kaposi's sarcoma: results of a randomized phase III clinical trial. J Clin Oncol 16 (7): 2445-51, 1998. [PUBMED Abstract]\n- Gill PS, Wernz J, Scadden DT, et al.: Randomized phase III trial of liposomal daunorubicin versus doxorubicin, bleomycin, and vincristine in AIDS-related Kaposi's sarcoma. J Clin Oncol 14 (8): 2353-64, 1996. [PUBMED Abstract]\n- Cianfrocca M, Lee S, Von Roenn J, et al.: Randomized trial of paclitaxel versus pegylated liposomal doxorubicin for advanced human immunodeficiency virus-associated Kaposi sarcoma: evidence of symptom palliation from chemotherapy. Cancer 116 (16): 3969-77, 2010. [PUBMED Abstract]\n- Real FX, Oettgen HF, Krown SE: Kaposi's sarcoma and the acquired immunodeficiency syndrome: treatment with high and low doses of recombinant leukocyte A interferon. J Clin Oncol 4 (4): 544-51, 1986. [PUBMED Abstract]\n- Groopman JE, Gottlieb MS, Goodman J, et al.: Recombinant alpha-2 interferon therapy for Kaposi's sarcoma associated with the acquired immunodeficiency syndrome. Ann Intern Med 100 (5): 671-6, 1984. [PUBMED Abstract]\n- Koon HB, Krown SE, Lee JY, et al.: Phase II trial of imatinib in AIDS-associated Kaposi's sarcoma: AIDS Malignancy Consortium Protocol 042. J Clin Oncol 32 (5): 402-8, 2014. [PUBMED Abstract]\n- Uldrick TS, Wyvill KM, Kumar P, et al.: Phase II study of bevacizumab in patients with HIV-associated Kaposi's sarcoma receiving antiretroviral therapy. J Clin Oncol 30 (13): 1476-83, 2012. [PUBMED Abstract]\n- Little RF, Pluda JM, Wyvill KM, et al.: Activity of subcutaneous interleukin-12 in AIDS-related Kaposi sarcoma. Blood 107 (12): 4650-7, 2006. [PUBMED Abstract]\n- Ramaswami R, Polizzotto MN, Lurain K, et al.: Safety, Activity, and Long-term Outcomes of Pomalidomide in the Treatment of Kaposi Sarcoma among Individuals with or without HIV Infection. Clin Cancer Res 28 (5): 840-850, 2022. [PUBMED Abstract]\n- Polizzotto MN, Uldrick TS, Wyvill KM, et al.: Pomalidomide for Symptomatic Kaposi's Sarcoma in People With and Without HIV Infection: A Phase I/II Study. J Clin Oncol 34 (34): 4125-4131, 2016. [PUBMED Abstract]\n- Reid EG, Suazo A, Lensing SY, et al.: Pilot Trial AMC-063: Safety and Efficacy of Bortezomib in AIDS-associated Kaposi Sarcoma. Clin Cancer Res 26 (3): 558-565, 2020. [PUBMED Abstract]\n- Poizot-Martin I, Brégigeon S, Palich R, et al.: Immune Reconstitution Inflammatory Syndrome Associated Kaposi Sarcoma. Cancers (Basel) 14 (4): , 2022. [PUBMED Abstract]\n- Fernández-Sánchez M, Iglesias MC, Ablanedo-Terrazas Y, et al.: Steroids are a risk factor for Kaposi's sarcoma-immune reconstitution inflammatory syndrome and mortality in HIV infection. AIDS 30 (6): 909-14, 2016. [PUBMED Abstract]\n- Volkow PF, Cornejo P, Zinser JW, et al.: Life-threatening exacerbation of Kaposi's sarcoma after prednisone treatment for immune reconstitution inflammatory syndrome. AIDS 22 (5): 663-5, 2008. [PUBMED Abstract]\n- Brunel AS, Reynes J, Tuaillon E, et al.: Thalidomide for steroid-dependent immune reconstitution inflammatory syndromes during AIDS. AIDS 26 (16): 2110-2, 2012. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Transplant-Related Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Transplant-Related Kaposi Sarcoma",
+            "Treatment Options for Transplant-Related Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In general, transplant-related Kaposi sarcoma is effectively managed by reduction in immunosuppression and does not require systemic treatment. Transitioning immunosuppression therapy to an mTOR inhibitor, such as sirolimus, has demonstrated efficacy in small studies and can be considered.[ 1 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Transplant-Related Kaposi Sarcoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Transplant-Related Kaposi Sarcoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Stallone G, Schena A, Infante B, et al.: Sirolimus for Kaposi's sarcoma in renal-transplant recipients. N Engl J Med 352 (13): 1317-23, 2005. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (05/07/2025)",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (05/07/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of Kaposi sarcoma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 11,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Kaposi Sarcoma Treatment are:\n- Eric J. Seifter, MD (Johns Hopkins University)\n- Minh Tam Truong, MD (Boston University Medical Center)\n- Vinayak Venkataraman, MD (Dana Farber Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Kaposi Sarcoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/soft-tissue-sarcoma/hp/kaposi-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389335]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\8ce3c65e700d025b2d53.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Kaposi Sarcoma",
+      "title": "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+      "summary_name": "Kaposi Sarcoma Treatment",
+      "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/patient/kaposi-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 17, 2023",
+      "retrieved_at": "2026-08-31T07:14:35.361723+00:00",
+      "content_sha256": "ea69f16f9456b6fa3f2afeb1472240c0f681f9cbb8ea25fa0fc3c7813dff025f",
+      "section_count": 38,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Kaposi Sarcoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Kaposi sarcoma is a disease in which malignant lesions (cancer) can form in the skin, mucous membranes, lymph nodes, and other organs.\n- Tests that examine the skin, lungs, and gastrointestinal tract are used to diagnose Kaposi sarcoma.\n- After Kaposi sarcoma has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Kaposi sarcoma is a disease in which malignant lesions (cancer) can form in the skin, mucous membranes, lymph nodes, and other organs.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Kaposi Sarcoma",
+            "Kaposi sarcoma is a disease in which malignant lesions (cancer) can form in the skin, mucous membranes, lymph nodes, and other organs."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Kaposi sarcoma is a cancer that causes lesions ( abnormal tissue ) to grow in the skin; the mucous membranes lining the mouth, nose, and throat ; lymph nodes ; or other organs . The lesions are usually purple and are made of cancer cells , new blood vessels , red blood cells , and white blood cells . Kaposi sarcoma is different from other cancers in that lesions may begin in more than one place in the body at the same time.\nHuman herpesvirus-8 (HHV-8) is found in the lesions of all patients with Kaposi sarcoma. This virus is also called Kaposi sarcoma herpesvirus (KSHV). Most people with HHV-8 do not get Kaposi sarcoma. People with HHV-8 are more likely to develop Kaposi sarcoma if their immune system is weakened by disease, such as human immunodeficiency virus (HIV), or by drugs given after an organ transplant .\nThere are several types of Kaposi sarcoma. The two types discussed in this summary include:\n- Classic Kaposi sarcoma .\n- Epidemic Kaposi sarcoma (HIV-associated Kaposi sarcoma) ."
+        },
+        {
+          "section": "Tests that examine the skin, lungs, and gastrointestinal tract are used to diagnose Kaposi sarcoma.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Kaposi Sarcoma",
+            "Tests that examine the skin, lungs, and gastrointestinal tract are used to diagnose Kaposi sarcoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body. This is used to find Kaposi sarcoma in the lungs .\n- Biopsy : The removal of cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer. One of the following types of biopsies may be done to check for Kaposi sarcoma lesions in the skin: An endoscopy or bronchoscopy may be done to check for Kaposi sarcoma lesions in the gastrointestinal tract or lungs.\n- Excisional biopsy : A scalpel is used to remove the entire skin growth.\n- Incisional biopsy : A scalpel is used to remove part of a skin growth.\n- Core biopsy : A wide needle is used to remove part of a skin growth.\n- Fine-needle aspiration (FNA) biopsy : A thin needle is used to remove part of a skin growth.\n- Endoscopy for biopsy : A procedure to look at organs and tissues inside the body to check for abnormal areas. An endoscope is inserted through an incision (cut) in the skin or opening in the body, such as the mouth. An endoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue or lymph node samples, which are checked under a microscope for signs of disease. This is used to find Kaposi sarcoma lesions in the gastrointestinal tract.\n- Bronchoscopy for biopsy : A procedure to look inside the trachea and large airways in the lung for abnormal areas. A bronchoscope is inserted through the nose or mouth into the trachea and lungs. A bronchoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue samples, which are checked under a microscope for signs of disease. This is used to find Kaposi sarcoma lesions in the lungs."
+        },
+        {
+          "section": "After Kaposi sarcoma has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Kaposi Sarcoma",
+            "After Kaposi sarcoma has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The following tests and procedures may be used to find out if cancer has spread to other parts of the body:\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, such as the lung, liver , and spleen , taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- PET scan (positron emission tomography scan) : A procedure to find malignant lesions in the body. A small amount of radioactive glucose (sugar) is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant lesions show up brighter in the picture because they are more active and take up more glucose than normal cells do. This imaging test checks for signs of cancer in the lung, liver, and spleen.\n- CD34 lymphocyte count : A procedure in which a blood sample is checked to measure the amount of CD34 cells (a type of white blood cell). A lower than normal amount of CD34 cells can be a sign the immune system is not working well."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Kaposi Sarcoma",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The prognosis and treatment options depend on the following:\n- The type of Kaposi sarcoma.\n- The general health of the patient, especially the patient's immune system.\n- Whether the cancer has just been diagnosed or has recurred (come back)."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Classic Kaposi Sarcoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Classic Kaposi sarcoma is found most often in older men of Italian or Eastern European Jewish origin.\n- Signs of classic Kaposi sarcoma may include slow-growing lesions on the legs and feet.\n- Another cancer may develop."
+        },
+        {
+          "section": "Classic Kaposi sarcoma is found most often in older men of Italian or Eastern European Jewish origin.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Classic Kaposi Sarcoma",
+            "Classic Kaposi sarcoma is found most often in older men of Italian or Eastern European Jewish origin."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Classic Kaposi sarcoma is a rare disease that gets worse slowly over many years."
+        },
+        {
+          "section": "Signs of classic Kaposi sarcoma may include slow-growing lesions on the legs and feet.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Classic Kaposi Sarcoma",
+            "Signs of classic Kaposi sarcoma may include slow-growing lesions on the legs and feet."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Patients may have one or more red, purple, or brown skin lesions on the legs and feet, most often on the ankles or soles of the feet. Over time, lesions may form in other parts of the body, such as the stomach , intestines , or lymph nodes . The lesions usually don't cause any symptoms but may grow in size and number over a period of 10 years or more. Pressure from the lesions may block the flow of lymph and blood in the legs and cause painful swelling. Lesions in the digestive tract may cause gastrointestinal bleeding."
+        },
+        {
+          "section": "Another cancer may develop.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Classic Kaposi Sarcoma",
+            "Another cancer may develop."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Some patients with classic Kaposi sarcoma may develop another type of cancer before the Kaposi sarcoma lesions appear or later in life. Most often, this second cancer is non-Hodgkin lymphoma . Frequent follow-up is needed to watch for these second cancers."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Epidemic Kaposi Sarcoma (HIV-Associated Kaposi Sarcoma)",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Patients with HIV are at risk of developing epidemic Kaposi sarcoma (HIV-associated Kaposi sarcoma).\n- The use of drug therapy called highly active antiretroviral therapy (HAART) reduces the risk of epidemic Kaposi sarcoma in patients with HIV.\n- Signs of epidemic Kaposi sarcoma can include lesions that form in many parts of the body."
+        },
+        {
+          "section": "Patients with HIV are at risk of developing epidemic Kaposi sarcoma (HIV-associated Kaposi sarcoma).",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Epidemic Kaposi Sarcoma (HIV-Associated Kaposi Sarcoma)",
+            "Patients with HIV are at risk of developing epidemic Kaposi sarcoma (HIV-associated Kaposi sarcoma)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "AIDS is caused by HIV , which attacks and weakens the body's immune system . A weakened immune system is unable to fight infection and disease. People with HIV have an increased risk of infection and cancer .\nA person with HIV and certain types of infection or cancer, such as Kaposi sarcoma , is diagnosed as having AIDS. Sometimes, a person is diagnosed with AIDS and epidemic Kaposi sarcoma at the same time."
+        },
+        {
+          "section": "The use of drug therapy called highly active antiretroviral therapy (HAART) reduces the risk of epidemic Kaposi sarcoma in patients with HIV.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Epidemic Kaposi Sarcoma (HIV-Associated Kaposi Sarcoma)",
+            "The use of drug therapy called highly active antiretroviral therapy (HAART) reduces the risk of epidemic Kaposi sarcoma in patients with HIV."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "HAART is a combination of several drugs used to lessen the damage to the immune system caused by HIV infection. Treatment with HAART reduces the risk of epidemic Kaposi sarcoma, although it is possible for a person to develop epidemic Kaposi sarcoma while taking HAART.\nFor information about AIDS and its treatment, see the HIVinfo website ."
+        },
+        {
+          "section": "Signs of epidemic Kaposi sarcoma can include lesions that form in many parts of the body.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Epidemic Kaposi Sarcoma (HIV-Associated Kaposi Sarcoma)",
+            "Signs of epidemic Kaposi sarcoma can include lesions that form in many parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "The signs of epidemic Kaposi sarcoma can include lesions in different parts of the body, including any of the following:\n- Skin.\n- Lining of the mouth.\n- Lymph nodes .\n- Stomach and intestines .\n- Lungs and lining of the chest.\n- Liver .\n- Spleen .\nKaposi sarcoma is sometimes found in the lining of the mouth during a regular dental check-up.\nIn most patients with epidemic Kaposi sarcoma, the disease will spread to other parts of the body over time."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "- There are different types of treatment for patients with Kaposi sarcoma.\n- The following types of treatment are used to treat Kaposi sarcoma:\n- HAART\n- Radiation therapy\n- Surgery\n- Cryosurgery\n- Chemotherapy\n- Immunotherapy\n- New types of treatment are being tested in clinical trials.\n- Targeted therapy\n- Treatment for Kaposi sarcoma may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with Kaposi sarcoma.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with Kaposi sarcoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatments are available for patients with Kaposi sarcoma . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "The following types of treatment are used to treat Kaposi sarcoma:",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used to treat Kaposi sarcoma:"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Treatment of epidemic Kaposi sarcoma combines treatment for Kaposi sarcoma with treatment for acquired immunodeficiency syndrome (AIDS). The types of treatment used to treat Kaposi sarcoma include:"
+        },
+        {
+          "section": "HAART",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used to treat Kaposi sarcoma:",
+            "HAART"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Highly active antiretroviral therapy (HAART) is a combination of several drugs used to lessen the damage to the immune system caused by human immunodeficiency virus (HIV) infection. For many patients, HAART alone may be enough to treat epidemic Kaposi sarcoma. For other patients, HAART may be combined with other standard treatments to treat epidemic Kaposi sarcoma.\nFor information about AIDS and its treatment, see the HIVinfo website ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used to treat Kaposi sarcoma:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. There are two types of radiation therapy:\n- External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\n- Internal radiation therapy uses a radioactive substance sealed in needles, seeds , wires, or catheters that are placed directly into or near the cancer.\nThe way the radiation therapy is given depends on the type of the cancer being treated. Certain types of external radiation therapy are used to treat Kaposi sarcoma lesions . Photon radiation therapy treats lesions with high-energy light. Electron beam radiation therapy uses tiny negatively charged particles called electrons ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used to treat Kaposi sarcoma:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The following surgical procedures may be used for Kaposi sarcoma to treat small, surface lesions:\n- Local excision : The cancer is cut from the skin along with a small amount of normal tissue around it.\n- Electrodesiccation and curettage : The tumor is cut from the skin with a curette (a sharp, spoon-shaped tool). A needle-shaped electrode is then used to treat the area with an electric current that stops the bleeding and destroys cancer cells that remain around the edge of the wound . The process may be repeated one to three times during the surgery to remove all of the cancer."
+        },
+        {
+          "section": "Cryosurgery",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used to treat Kaposi sarcoma:",
+            "Cryosurgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Cryosurgery is a treatment that uses an instrument to freeze and destroy abnormal tissue. This type of treatment is also called cryotherapy."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used to treat Kaposi sarcoma:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). When chemotherapy is placed directly into the cerebrospinal fluid , an organ , tissue, or a body cavity such as the abdomen , the drugs mainly affect cancer cells in those areas ( regional chemotherapy ).\nIn electrochemotherapy, intravenous chemotherapy is given and a probe is used to send electric pulses to the tumor. The pulses make an opening in the membrane around the tumor cell and allow the chemotherapy to get inside.\nThe way the chemotherapy is given depends on where the Kaposi sarcoma lesions occur in the body. In Kaposi sarcoma, chemotherapy may be given in the following ways:\n- For local Kaposi sarcoma lesions, such as in the mouth, anticancer drugs may be injected directly into the lesion ( intralesional chemotherapy).\n- For local lesions on the skin, a topical agent may be applied to the skin as a gel. Electrochemotherapy may also be used.\n- For widespread lesions on the skin, intravenous chemotherapy may be given.\nLiposomal chemotherapy uses liposomes (very tiny fat particles) to carry anticancer drugs. Liposomal doxorubicin is used to treat Kaposi sarcoma. The liposomes build up in Kaposi sarcoma tissue more than in healthy tissue, and the doxorubicin is released slowly. This increases the effect of the doxorubicin and causes less damage to healthy tissue.\nSee Drugs Approved for Kaposi Sarcoma for more information."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used to treat Kaposi sarcoma:",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Immunotherapy is a treatment that uses the patient's immune system to fight cancer. Substances made by the body or made in a laboratory are used to boost, direct, or restore the body's natural defenses against cancer. Immunotherapy with interferon alfa and interleukin-12 may be used to treat Kaposi sarcoma.\nSee Drugs Approved for Kaposi Sarcoma for more information."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "This summary section describes treatments that are being studied in clinical trials. It may not mention every new treatment being studied. Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells. Monoclonal antibody therapy and tyrosine kinase inhibitors (TKIs) are types of targeted therapy being studied in the treatment of Kaposi sarcoma.\n- Monoclonal antibodies are immune system proteins made in the laboratory to treat many diseases, including cancer. As a cancer treatment, these antibodies can attach to a specific target on cancer cells or other cells that may help cancer cells grow. The antibodies are able to then kill the cancer cells, block their growth, or keep them from spreading. Monoclonal antibodies are given by infusion . They may be used alone or to carry drugs, toxins , or radioactive material directly to cancer cells. Bevacizumab is a monoclonal antibody that may be used to treat Kaposi sarcoma. How do monoclonal antibodies work to treat cancer? This video shows how monoclonal antibodies, such as trastuzumab, pembrolizumab, and rituximab, block molecules cancer cells need to grow, flag cancer cells for destruction by the body’s immune system, or deliver harmful substances to cancer cells.\n- TKIs block signals needed for tumors to grow. Imatinib mesylate is a TKI that may be used to treat Kaposi sarcoma."
+        },
+        {
+          "section": "Treatment for Kaposi sarcoma may cause side effects.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for Kaposi sarcoma may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Classic Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Classic Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment for single skin lesions may include the following:\n- Radiation therapy .\n- Surgery .\nTreatment for skin lesions all over the body may include the following:\n- Radiation therapy.\n- Chemotherapy .\n- Electrochemotherapy.\nTreatment for Kaposi sarcoma that affects lymph nodes or the gastrointestinal tract usually includes chemotherapy with or without radiation therapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Epidemic Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Epidemic Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment for epidemic Kaposi sarcoma may include the following:\n- HAART .\n- Surgery , including local excision or electrodesiccation and curettage .\n- Cryosurgery .\n- Radiation therapy .\n- Chemotherapy using one or more anticancer drugs .\n- Immunotherapy using interferon alfa or interleukin-12 .\n- Targeted therapy using imatinib or bevacizumab .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Kaposi Sarcoma",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "To Learn More About Kaposi Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "For more information from the National Cancer Institute about Kaposi sarcoma, see the following:\n- Cryosurgery to Treat Cancer\n- Drugs Approved for Kaposi Sarcoma\n- Immunotherapy to Treat Cancer\n- Targeted Therapy to Treat Cancer\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of Kaposi sarcoma. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Kaposi Sarcoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/soft-tissue-sarcoma/patient/kaposi-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389178]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Kaposi Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\b4cbe89b5e59844aad0f.html"
+    }
+  ]
+}

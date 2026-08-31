@@ -1,0 +1,782 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Adult Central Nervous System Tumors",
+  "generated_at": "2026-08-31T07:15:22.916995+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Adult Central Nervous System Tumors",
+      "title": "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+      "summary_name": "Adult Central Nervous System Tumors Treatment",
+      "url": "https://www.cancer.gov/types/brain/patient/adult-brain-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "January 5, 2024",
+      "retrieved_at": "2026-08-31T07:08:52.832410+00:00",
+      "content_sha256": "b06835578ca7e58141944327b4f80128bdf1d71dede5528ef7c00f67d76ebbd9",
+      "section_count": 66,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "- An adult central nervous system (CNS) tumor is a disease in which abnormal cells form in the tissues of the brain and/or spinal cord.\n- A tumor that starts in another part of the body and spreads to the brain is called a metastatic brain tumor.\n- The brain controls many important body functions.\n- The spinal cord connects the brain to nerves in most parts of the body.\n- There are different types of brain and spinal cord tumors.\n- Astrocytic Tumors\n- Oligodendroglial Tumors\n- Mixed Gliomas\n- Ependymal Tumors\n- Medulloblastomas\n- Pineal Parenchymal Tumors\n- Meningeal Tumors\n- Germ Cell Tumors\n- Craniopharyngioma (Grade I)\n- Having certain genetic syndromes may increase the risk of a CNS tumor.\n- The cause of most adult brain and spinal cord tumors is not known.\n- The signs and symptoms of adult brain and spinal cord tumors are not the same in every person.\n- Tests that examine the brain and spinal cord are used to diagnose adult brain and spinal cord tumors.\n- A biopsy is also used to diagnose a brain tumor.\n- Sometimes a biopsy or surgery cannot be done.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "An adult central nervous system (CNS) tumor is a disease in which abnormal cells form in the tissues of the brain and/or spinal cord.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "An adult central nervous system (CNS) tumor is a disease in which abnormal cells form in the tissues of the brain and/or spinal cord."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "There are many types of brain and spinal cord tumors . The tumors are formed by the abnormal growth of cells and may begin in different parts of the brain or spinal cord. Together, the brain and spinal cord make up the central nervous system (CNS).\nThe tumors may be either benign (not cancer ) or malignant (cancer):\n- Benign brain and spinal cord tumors grow and press on nearby areas of the brain. They rarely spread into other tissues and may recur (come back).\n- Malignant brain and spinal cord tumors are likely to grow quickly and spread into other brain tissue.\nWhen a tumor grows into or presses on an area of the brain, it may stop that part of the brain from working the way it should. Both benign and malignant brain tumors cause signs and symptoms and need treatment.\nBrain and spinal cord tumors can occur in both adults and children. However, treatment for children may be different than treatment for adults.\nFor information about lymphoma that begins in the brain, see Primary CNS Lymphoma Treatment ."
+        },
+        {
+          "section": "A tumor that starts in another part of the body and spreads to the brain is called a metastatic brain tumor.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "A tumor that starts in another part of the body and spreads to the brain is called a metastatic brain tumor."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Tumors that start in the brain are called primary brain tumors. Primary brain tumors may spread to other parts of the brain or to the spine . They rarely spread to other parts of the body.\nOften, tumors found in the brain have started somewhere else in the body and spread to one or more parts of the brain. These are called metastatic brain tumors (or brain metastases). Metastatic brain tumors are more common than primary brain tumors. Up to half of metastatic brain tumors are from lung cancer .\nCancer may spread to the leptomeninges (the two innermost membranes covering the brain and spinal cord). This is called leptomeningeal carcinomatosis ."
+        },
+        {
+          "section": "The brain controls many important body functions.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "The brain controls many important body functions."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The brain has three major parts:\n- The cerebrum is the largest part of the brain. It is at the top of the head. The cerebrum controls thinking, learning, problem solving, emotions, speech, reading, writing, and voluntary movement.\n- The cerebellum is in the lower back of the brain (near the middle of the back of the head). It controls movement, balance, and posture.\n- The brain stem connects the brain to the spinal cord. It is in the lowest part of the brain (just above the back of the neck). The brain stem controls breathing, heart rate , and the nerves and muscles used to see, hear, walk, talk, and eat."
+        },
+        {
+          "section": "The spinal cord connects the brain to nerves in most parts of the body.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "The spinal cord connects the brain to nerves in most parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The spinal cord is a column of nerve tissue that runs from the brain stem down the center of the back. It is covered by three thin layers of tissue called membranes. These membranes are surrounded by the vertebrae (back bones). Spinal cord nerves carry messages between the brain and the rest of the body, such as a message from the brain to cause muscles to move or a message from the skin to the brain to feel touch."
+        },
+        {
+          "section": "There are different types of brain and spinal cord tumors.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "There are different types of brain and spinal cord tumors."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Brain and spinal cord tumors are named based on the type of cell they formed in and where the tumor first formed in the CNS. The grade of a tumor may be used to tell the difference between slow-growing and fast-growing types of the tumor. The World Health Organization (WHO) tumor grades are based on how abnormal the cancer cells look under a microscope and how quickly the tumor is likely to grow and spread.\nWHO Tumor Grading System\n- Grade I ( low-grade ) — The tumor cells look more like normal cells under a microscope and grow and spread more slowly than grade II, III, and IV tumor cells. They rarely spread into nearby tissues. Grade I brain tumors may be completely removed by surgery.\n- Grade II — The tumor cells grow and spread more slowly than grade III and IV tumor cells. They may spread into nearby tissue and may recur (come back). Some tumors may become a higher-grade tumor.\n- Grade III — The tumor cells look very different from normal cells under a microscope and grow more quickly than grade I and II tumor cells. They are likely to spread into nearby tissue.\n- Grade IV ( high-grade ) — The tumor cells do not look like normal cells under a microscope and grow and spread very quickly. There may be areas of dead cells in the tumor. Grade IV tumors usually cannot be completely removed by surgery.\nThe following types of primary tumors can form in the brain or spinal cord:"
+        },
+        {
+          "section": "Astrocytic Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "There are different types of brain and spinal cord tumors.",
+            "Astrocytic Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "An astrocytic tumor begins in star-shaped brain cells called astrocytes , which help keep nerve cells healthy. An astrocyte is a type of glial cell . Glial cells sometimes form tumors called gliomas . Astrocytic tumors include the following:\n- Brain stem glioma (usually high grade) : A brain stem glioma forms in the brain stem, which is the part of the brain connected to the spinal cord. It is often a high-grade tumor, which spreads widely through the brain stem. Brain stem gliomas are rare in adults.\n- Pineal astrocytic tumor (any grade) : A pineal astrocytic tumor forms in tissue around the pineal gland and may be any grade. The pineal gland is a tiny organ in the brain that makes melatonin , a hormone that helps control the sleeping and waking cycle.\n- Pilocytic astrocytoma (grade I) : A pilocytic astrocytoma grows slowly in the brain or spinal cord. It may be in the form of a cyst and rarely spreads into nearby tissues.\n- Diffuse astrocytoma (grade II) : A diffuse astrocytoma grows slowly, but often spreads into nearby tissues. The tumor cells look something like normal cells. It is also called a low-grade diffuse astrocytoma.\n- Anaplastic astrocytoma (grade III) : An anaplastic astrocytoma grows quickly and spreads into nearby tissues. The tumor cells look different from normal cells. An anaplastic astrocytoma is also called a malignant astrocytoma or high-grade astrocytoma.\n- Glioblastoma (grade IV) : A glioblastoma grows and spreads very quickly. The tumor cells look very different from normal cells. It is also called glioblastoma multiforme."
+        },
+        {
+          "section": "Oligodendroglial Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "There are different types of brain and spinal cord tumors.",
+            "Oligodendroglial Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "An oligodendroglial tumor begins in brain cells called oligodendrocytes , which help keep nerve cells healthy. An oligodendrocyte is a type of glial cell. Oligodendrocytes sometimes form tumors called oligodendrogliomas. Grades of oligodendroglial tumors include the following:\n- Oligodendroglioma (grade II) : An oligodendroglioma grows slowly, but often spreads into nearby tissues. The tumor cells look something like normal cells.\n- Anaplastic oligodendroglioma (grade III) : An anaplastic oligodendroglioma grows quickly and spreads into nearby tissues. The tumor cells look different from normal cells."
+        },
+        {
+          "section": "Mixed Gliomas",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "There are different types of brain and spinal cord tumors.",
+            "Mixed Gliomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "A mixed glioma is a brain tumor that has two types of tumor cells in it — oligodendrocytes and astrocytes. This type of mixed tumor is called an oligoastrocytoma .\n- Oligoastrocytoma (grade II) : An oligoastrocytoma is a slow-growing tumor. The tumor cells look something like normal cells.\n- Anaplastic oligoastrocytoma (grade III) : An anaplastic oligoastrocytoma grows quickly and spreads into nearby tissues. The tumor cells look different from normal cells. This type of tumor has a worse prognosis than oligoastrocytoma (grade II)."
+        },
+        {
+          "section": "Ependymal Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "There are different types of brain and spinal cord tumors.",
+            "Ependymal Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "An ependymal tumor usually begins in cells that line the fluid-filled spaces in the brain and around the spinal cord. An ependymal tumor may also be called an ependymoma. Grades of ependymomas include the following:\n- Ependymoma (grade I or II) : A grade I or II ependymoma grows slowly and has cells that look something like normal cells. There are two types of grade I ependymoma — myxopapillary ependymoma and subependymoma. A grade II ependymoma grows in a ventricle (fluid-filled space in the brain) and its connecting paths or in the spinal cord.\n- Anaplastic ependymoma (grade III) : An anaplastic ependymoma grows quickly and spreads into nearby tissues. The tumor cells look different from normal cells. This type of tumor usually has a worse prognosis than a grade I or II ependymoma."
+        },
+        {
+          "section": "Medulloblastomas",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "There are different types of brain and spinal cord tumors.",
+            "Medulloblastomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "A medulloblastoma is a type of embryonal tumor . Medulloblastomas are most common in children or young adults.\nFor more information about medulloblastomas in children, see Childhood Medulloblastoma and Other Central Nervous System Embryonal Tumors Treatment ."
+        },
+        {
+          "section": "Pineal Parenchymal Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "There are different types of brain and spinal cord tumors.",
+            "Pineal Parenchymal Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "A pineal parenchymal tumor forms in parenchymal cells or pineocytes, which are the cells that make up most of the pineal gland. These tumors are different from pineal astrocytic tumors. Grades of pineal parenchymal tumors include the following:\n- Pineocytoma (grade II) : A pineocytoma is a slow-growing pineal tumor.\n- Pineoblastoma (grade IV) : A pineoblastoma is a rare tumor that is very likely to spread.\nFor more information about pineal parenchymal tumors in children, see Childhood Medulloblastoma and Other Central Nervous System Embryonal Tumors Treatment ."
+        },
+        {
+          "section": "Meningeal Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "There are different types of brain and spinal cord tumors.",
+            "Meningeal Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "A meningeal tumor, also called a meningioma, forms in the meninges (thin layers of tissue that cover the brain and spinal cord). It can form from different types of brain or spinal cord cells. Meningiomas are most common in adults. Types of meningeal tumors include the following:\n- Meningioma (grade I) : A grade I meningioma is the most common type of meningeal tumor. A grade I meningioma is a slow-growing tumor. It forms most often in the dura mater . A grade I meningioma may be completely removed by surgery.\n- Meningioma (grade II and III) : This is a rare meningeal tumor. It grows quickly and is likely to spread within the brain and spinal cord. The prognosis is worse than a grade I meningioma because the tumor usually cannot be completely removed by surgery.\nA hemangiopericytoma is not a meningeal tumor but is treated like a grade II or III meningioma. A hemangiopericytoma usually forms in the dura mater. The prognosis is worse than a grade I meningioma because the tumor usually cannot be completely removed by surgery."
+        },
+        {
+          "section": "Germ Cell Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "There are different types of brain and spinal cord tumors.",
+            "Germ Cell Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "A germ cell tumor forms in germ cells, which are the cells that develop into sperm in men or ova (eggs) in women. There are different types of germ cell tumors. These include germinomas , teratomas , embryonal yolk sac carcinomas , and choriocarcinomas . Germ cell tumors can be either benign or malignant.\nFor more information about childhood germ cell tumors in the brain, see Childhood Central Nervous System Germ Cell Tumors Treatment ."
+        },
+        {
+          "section": "Craniopharyngioma (Grade I)",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "There are different types of brain and spinal cord tumors.",
+            "Craniopharyngioma (Grade I)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "A craniopharyngioma is a rare tumor that usually forms in the center of the brain just above the pituitary gland (a pea-sized organ at the bottom of the brain that controls other glands ). Craniopharyngiomas can form from different types of brain or spinal cord cells.\nFor more information about craniopharyngioma in children, see Childhood Craniopharyngioma Treatment ."
+        },
+        {
+          "section": "Having certain genetic syndromes may increase the risk of a CNS tumor.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "Having certain genetic syndromes may increase the risk of a CNS tumor."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Anything that increases a person's chance of getting a disease is called a risk factor . Not every person with one or more of these risk factors will develop a brain or spinal cord tumor, and they can develop in people who don't have any known risk factors. Talk with your doctor if you think you may be at risk. There are few known risk factors for brain tumors. The following conditions may increase the risk of certain types of brain tumors:\n- Being exposed to vinyl chloride may increase the risk of glioma.\n- Infection with the Epstein-Barr virus , having AIDS , or receiving an organ transplant may increase the risk of primary CNS lymphoma . For more information, see Primary CNS Lymphoma Treatment .\n- Having certain genetic syndromes may increase the risk brain tumors:\n- Neurofibromatosis type 1 (NF1) or 2 (NF2).\n- von Hippel-Lindau disease .\n- Tuberous sclerosis .\n- Li-Fraumeni syndrome .\n- Turcot syndrome type 1 or 2.\n- Nevoid basal cell carcinoma syndrome ."
+        },
+        {
+          "section": "The signs and symptoms of adult brain and spinal cord tumors are not the same in every person.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "The signs and symptoms of adult brain and spinal cord tumors are not the same in every person."
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "Signs and symptoms depend on the following:\n- Where the tumor forms in the brain or spinal cord.\n- What the affected part of the brain controls.\n- The size of the tumor.\nThese and other signs and symptoms may be caused by CNS tumors or by other conditions, including cancer that has spread to the brain. Check with your doctor if you have any of the following:\nBrain Tumor Symptoms\n- Morning headache or headache that goes away after vomiting .\n- Seizures .\n- Vision, hearing, and speech problems.\n- Loss of appetite .\n- Frequent nausea and vomiting.\n- Changes in personality, mood, ability to focus, or behavior.\n- Loss of balance and trouble walking.\n- Weakness.\n- Unusual sleepiness or change in activity level.\nSpinal Cord Tumor Symptoms\n- Back pain or pain that spreads from the back towards the arms or legs.\n- A change in bowel habits or trouble urinating .\n- Weakness or numbness in the arms or legs.\n- Trouble walking."
+        },
+        {
+          "section": "Tests that examine the brain and spinal cord are used to diagnose adult brain and spinal cord tumors.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "Tests that examine the brain and spinal cord are used to diagnose adult brain and spinal cord tumors."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Neurological exam : A series of questions and tests to check the brain, spinal cord, and nerve function. The exam checks a person's mental status, coordination, and ability to walk normally, and how well the muscles, senses , and reflexes work. This may also be called a neuro exam or a neurologic exam.\n- Visual field exam : An exam to check a person's field of vision (the total area in which objects can be seen). This test measures both central vision (how much a person can see when looking straight ahead) and peripheral vision (how much a person can see in all other directions while staring straight ahead). Any loss of vision may be a sign of a tumor that has damaged or pressed on the parts of the brain that affect eyesight.\n- Tumor marker test : A procedure in which a sample of blood , urine , or tissue is checked to measure the amounts of certain substances made by organs, tissues, or tumor cells in the body. Certain substances are linked to specific types of cancer when found in increased levels in the body. These are called tumor markers . This test may be done to diagnose a germ cell tumor.\n- Gene testing : A laboratory test in which cells or tissue are analyzed to look for changes in genes or chromosomes . These changes may be a sign that a person has or is at risk of having a specific disease or condition.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Enlarge Computed tomography (CT) scan of the brain. The patient lies on a table that slides through the CT scanner, which takes x-ray pictures of the brain.\n- MRI (magnetic resonance imaging) with gadolinium : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of the brain and spinal cord. A substance called gadolinium is injected into a vein. The gadolinium collects around the cancer cells so they show up brighter in the picture. This procedure is also called nuclear magnetic resonance imaging (NMRI). MRI is often used to diagnose tumors in the spinal cord. Sometimes a procedure called magnetic resonance spectroscopy (MRS) is done during the MRI scan . An MRS is used to diagnose tumors, based on their chemical make-up.\n- SPECT scan (single photon emission computed tomography scan) : A procedure to find malignant tumor cells in the brain. A small amount of a radioactive substance is injected into a vein or inhaled through the nose. As the substance travels through the blood, a camera rotates around the head and takes pictures of the brain. A computer uses the pictures to make a 3-dimensional (3-D) image of the brain. There will be increased blood flow and more activity in areas where cancer cells are growing. These areas will show up brighter in the picture.\n- PET scan (positron emission tomography scan) : A procedure to find malignant tumor cells in the body. A small amount of radioactive glucose (sugar) is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the brain. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do. PET is used to tell the difference between a primary tumor and a tumor that has spread to the brain from somewhere else in the body. Enlarge PET (positron emission tomography) scan. The patient lies on a table that slides through the PET machine. The head rest and white strap help the patient lie still. A small amount of radioactive glucose (sugar) is injected into the patient's vein, and a scanner makes a picture of where the glucose is being used in the body. Cancer cells show up brighter in the picture because they take up more glucose than normal cells do."
+        },
+        {
+          "section": "A biopsy is also used to diagnose a brain tumor.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "A biopsy is also used to diagnose a brain tumor."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "If imaging tests show there may be a brain tumor, a biopsy is usually done. One of the following types of biopsies may be used:\n- Stereotactic biopsy : When imaging tests show there may be a tumor deep in the brain in a hard to reach place, a stereotactic brain biopsy may be done. This kind of biopsy uses a computer and a 3-dimensional (3-D) scanning device to find the tumor and guide the needle used to remove the tissue. A small incision is made in the scalp, and a small hole is drilled through the skull . A biopsy needle is inserted through the hole to remove cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer.\n- Open biopsy : When imaging tests show that there may be a tumor that can be removed by surgery, an open biopsy may be done. A part of the skull is removed in an operation called a craniotomy . A sample of brain tissue is removed and viewed under a microscope by a pathologist. If cancer cells are found, some or all of the tumor may be removed during the same surgery. Tests are done before surgery to find the areas around the tumor that are important for normal brain function. There are also ways to test brain function during surgery. The doctor will use the results of these tests to remove as much of the tumor as possible with the least damage to normal tissue in the brain. Enlarge Craniotomy: An opening is made in the skull and a piece of the skull is removed to show part of the brain.\nThe pathologist checks the biopsy sample to find out the type and grade of the brain tumor. The grade of the tumor is based on how the tumor cells look under a microscope, and how quickly the tumor is likely to grow and spread.\nThe following tests may be done on the tumor tissue that is removed:\n- Immunohistochemistry : A laboratory test that uses antibodies to check for certain antigens ( markers ) in a sample of a patient's tissue. The antibodies are usually linked to an enzyme or a fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and to help tell one type of cancer from another type of cancer.\n- Light and electron microscopy : A laboratory test in which cells in a sample of tissue are viewed under regular and high-powered microscopes to look for certain changes in the cells.\n- Cytogenetic analysis : A laboratory test in which the chromosomes of cells in a sample of brain tissue are counted and checked for any changes, such as broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes may be a sign of cancer. Cytogenetic analysis is used to help diagnose cancer, plan treatment, or find out how well treatment is working."
+        },
+        {
+          "section": "Sometimes a biopsy or surgery cannot be done.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "A biopsy is also used to diagnose a brain tumor.",
+            "Sometimes a biopsy or surgery cannot be done."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "For some tumors, a biopsy or surgery cannot be done safely because of where the tumor formed in the brain or spinal cord. These tumors are diagnosed and treated based on the results of imaging tests and other procedures.\nSometimes the results of imaging tests and other procedures show that the tumor is very likely to be benign, and a biopsy is not done."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Adult Central Nervous System Tumors",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "The prognosis and treatment options for primary brain and spinal cord tumors depend on the following:\n- The type and grade of the tumor.\n- Where the tumor is in the brain or spinal cord.\n- Whether the tumor can be removed by surgery.\n- Whether cancer cells remain after surgery.\n- Whether there are certain changes in the chromosomes.\n- Whether the cancer has just been diagnosed or has recurred (come back).\n- The patient's general health.\nThe prognosis and treatment options for metastatic brain and spinal cord tumors depend on the following:\n- Whether there are more than two tumors in the brain or spinal cord.\n- Where the tumor is in the brain or spinal cord.\n- How well the tumor responds to treatment.\n- Whether the primary tumor continues to grow or spread."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Adult Central Nervous System Tumors",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- There is no standard staging system for adult brain and spinal cord tumors.\n- Imaging tests may be repeated after surgery to help plan more treatment.\n- Central nervous system (CNS) tumors often recur, sometimes many years after treatment."
+        },
+        {
+          "section": "There is no standard staging system for adult brain and spinal cord tumors.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Adult Central Nervous System Tumors",
+            "There is no standard staging system for adult brain and spinal cord tumors."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The process used to find out if cancer has spread to other areas of the brain or to other parts of the body is called staging . Brain tumors that begin in the brain rarely spread to other parts of the body. There is no standard staging system for brain and spinal cord tumors.\nTreatment of primary brain and spinal cord tumors is based on the following:\n- The type of cell in which the tumor began.\n- Where the tumor formed in the brain or spinal cord.\n- The amount of cancer left after surgery.\n- The grade of the tumor.\nTreatment of tumors that have spread to the brain from other parts of the body is based on the number of tumors in the brain."
+        },
+        {
+          "section": "Imaging tests may be repeated after surgery to help plan more treatment.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Adult Central Nervous System Tumors",
+            "Imaging tests may be repeated after surgery to help plan more treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Some of the tests and procedures used to diagnose a brain or spinal cord tumor may be repeated after treatment to find out how much tumor is left."
+        },
+        {
+          "section": "Central nervous system (CNS) tumors often recur, sometimes many years after treatment.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Adult Central Nervous System Tumors",
+            "Central nervous system (CNS) tumors often recur, sometimes many years after treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A recurrent CNS tumor is a tumor that has recurred (come back) after it has been treated. The tumor may recur at the same place as the first tumor or in other parts of the CNS."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "- There are different types of treatment for patients with adult brain and spinal cord tumors.\n- The following types of treatment are used:\n- Active surveillance\n- Surgery\n- Radiation therapy\n- Chemotherapy\n- Targeted therapy\n- Supportive care is given to lessen the problems caused by the disease or its treatment.\n- New types of treatment are being tested in clinical trials.\n- Proton beam radiation therapy\n- Immunotherapy\n- Treatment for adult central nervous system tumors may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with adult brain and spinal cord tumors.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with adult brain and spinal cord tumors."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatment are available for patients with adult brain and spinal cord tumors. Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer. When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Active surveillance",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Active surveillance"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Active surveillance is closely watching a patient’s condition but not giving any treatment unless there are changes in test results that show the condition is getting worse. Active surveillance may be used to avoid or delay the need for treatments such as radiation therapy or surgery, which can cause side effects or other problems. During active surveillance, certain exams and tests are done on a regular schedule. Active surveillance may be used for very slow-growing tumors that do not cause symptoms ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Surgery may be used to diagnose and treat adult brain and spinal cord tumors. Removing tumor tissue helps decrease pressure of the tumor on nearby parts of the brain. See the General Information section of this summary.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, some patients may be given chemotherapy or radiation therapy after surgery to kill any cancer cells that are left. Treatment given after the surgery, to lower the risk that the cancer will come back, is called adjuvant therapy ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\nCertain ways of giving external radiation therapy can help keep radiation from damaging nearby healthy tissue. These types of radiation therapy include the following:\n- Conformal radiation therapy : Conformal radiation therapy uses a computer to make a 3-dimensional (3-D) picture of the tumor and shapes the radiation beams to fit the tumor.\n- Intensity-modulated radiation therapy (IMRT): IMRT is a type of 3-dimensional (3-D) radiation therapy that uses a computer to make pictures of the size and shape of the tumor. Thin beams of radiation of different intensities (strengths) are aimed at the tumor from many angles.\n- Stereotactic radiosurgery : Stereotactic radiosurgery uses a rigid head frame that is attached to the skull to keep the head still during the radiation treatment. A machine aims a single large dose of radiation directly at the tumor. This procedure does not involve surgery. It is also called stereotaxic radiosurgery, radiosurgery, and radiation surgery."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). Although most cannot, some chemotherapy drugs can cross the blood-brain barrier and reach tumor cells in the brain. Chemotherapy that is placed directly into the cerebrospinal fluid is called intrathecal chemotherapy . When chemotherapy is inserted in an organ, such as the brain, or a body cavity , the drugs mainly affect cancer cells in those areas ( regional chemotherapy ).\nTo treat brain tumors, a wafer that dissolves may be used to deliver a chemotherapy drug directly to the brain tumor site after the tumor has been removed by surgery. The way the chemotherapy is given depends on the type and grade of tumor and where it is in the brain.\nSee Drugs Approved for Brain Tumors for more information."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells.\n- Monoclonal antibody therapy : Monoclonal antibodies are immune system proteins made in the laboratory to treat many diseases, including cancer. As a cancer treatment, these antibodies can attach to a specific target on cancer cells or other cells that may help cancer cells grow. The antibodies are able to then kill the cancer cells, block their growth, or keep them from spreading. Monoclonal antibodies are given by infusion . They may be used alone or to carry drugs, toxins , or radioactive material directly to cancer cells. Bevacizumab is a monoclonal antibody that binds to a protein called vascular endothelial growth factor (VEGF) and may prevent the growth of new blood vessels that tumors need to grow. Bevacizumab is used in the treatment of recurrent glioblastoma . How do monoclonal antibodies work to treat cancer? This video shows how monoclonal antibodies, such as trastuzumab, pembrolizumab, and rituximab, block molecules cancer cells need to grow, flag cancer cells for destruction by the body’s immune system, or deliver harmful substances to cancer cells.\nOther types of targeted therapies are being studied for adult brain tumors, including tyrosine kinase inhibitors and new VEGF inhibitors.\nSee Drugs Approved for Brain Tumors for more information."
+        },
+        {
+          "section": "Supportive care is given to lessen the problems caused by the disease or its treatment.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Supportive care is given to lessen the problems caused by the disease or its treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "This therapy controls problems or side effects caused by the disease or its treatment and improves quality of life . For brain tumors, supportive care includes drugs to control seizures and fluid buildup or swelling in the brain."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "This summary section refers to new treatments being studied in clinical trials, but it may not mention every new treatment being studied. Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Proton beam radiation therapy",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "Proton beam radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Proton beam radiation therapy is a type of high-energy, external radiation therapy that uses streams of protons (tiny particles with a positive charge) to kill tumor cells. This type of treatment can lower the amount of radiation damage to healthy tissue near a tumor. It is used to treat cancers of the head, neck, and spine and organs such as the brain, eye, lung , and prostate . Proton beam radiation is different from x-ray radiation."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Immunotherapy is a treatment that uses the patient's immune system to fight cancer. Substances made by the body or made in a laboratory are used to boost, direct, or restore the body's natural defenses against cancer.\nImmunotherapy is being studied for the treatment of some types of brain tumors. Treatments may include the following:\n- Dendritic cell vaccine therapy.\n- Gene therapy ."
+        },
+        {
+          "section": "Treatment for adult central nervous system tumors may cause side effects.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for adult central nervous system tumors may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back).\nThe following tests and procedures may be used to check whether a brain tumor has come back after treatment:\n- SPECT scan (single photon emission computed tomography scan) : A procedure to find malignant tumor cells in the brain. A small amount of a radioactive substance is injected into a vein or inhaled through the nose. As the substance travels through the blood, a camera rotates around the head and takes pictures of the brain. A computer uses the pictures to make a 3-dimensional (3-D) image of the brain. There will be increased blood flow and more activity in areas where cancer cells are growing. These areas will show up brighter in the picture.\n- PET scan (positron emission tomography scan) : A procedure to find malignant tumor cells in the body. A small amount of radioactive glucose (sugar) is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the brain. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do. Enlarge PET (positron emission tomography) scan. The patient lies on a table that slides through the PET machine. The head rest and white strap help the patient lie still. A small amount of radioactive glucose (sugar) is injected into the patient's vein, and a scanner makes a picture of where the glucose is being used in the body. Cancer cells show up brighter in the picture because they take up more glucose than normal cells do."
+        },
+        {
+          "section": "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section."
+        },
+        {
+          "section": "Brain Stem Gliomas",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Astrocytic Tumors",
+            "Brain Stem Gliomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment of brain stem gliomas may include radiation therapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Pineal Astrocytic Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Astrocytic Tumors",
+            "Pineal Astrocytic Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment of pineal astrocytic tumors may include surgery and radiation therapy . For high- grade tumors, chemotherapy may also be given.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Pilocytic Astrocytomas",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Astrocytic Tumors",
+            "Pilocytic Astrocytomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment of pilocytic astrocytomas may include surgery to remove the tumor. Radiation therapy may also be given if some of the tumor remains after surgery.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Diffuse Astrocytomas",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Astrocytic Tumors",
+            "Diffuse Astrocytomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment of diffuse astrocytomas may include the following:\n- Surgery with or without radiation therapy .\n- Surgery followed by radiation therapy and chemotherapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Anaplastic Astrocytomas",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Astrocytic Tumors",
+            "Anaplastic Astrocytomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment of anaplastic astrocytomas may include the following:\n- Surgery and radiation therapy . Chemotherapy may also be given.\n- Surgery and chemotherapy.\n- A clinical trial of chemotherapy placed into the brain during surgery.\n- A clinical trial of a new treatment added to standard treatment .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Glioblastomas",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Astrocytic Tumors",
+            "Glioblastomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment of glioblastomas may include the following:\n- Surgery followed by radiation therapy and chemotherapy given at the same time, followed by chemotherapy alone.\n- Surgery followed by radiation therapy.\n- Chemotherapy placed into the brain during surgery.\n- Radiation therapy and chemotherapy given at the same time.\n- A clinical trial of a new treatment added to standard treatment .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Oligodendroglial Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Oligodendroglial Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of oligodendrogliomas may include surgery with or without radiation therapy . Chemotherapy may be given after radiation therapy.\nTreatment of anaplastic oligodendroglioma may include the following:\n- Surgery followed by radiation therapy with or without chemotherapy.\n- A clinical trial of a new treatment added to standard treatment .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Mixed Gliomas",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Mixed Gliomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment of mixed gliomas may include surgery and radiation therapy . Sometimes, chemotherapy is also given.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Ependymal Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Ependymal Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment of grade I and grade II ependymomas may include surgery to remove the tumor. Radiation therapy may also be given if some of the tumor remains after surgery.\nTreatment of grade III anaplastic ependymoma may include surgery and radiation therapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Medulloblastomas",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Medulloblastomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment of medulloblastomas may include the following:\n- Surgery and radiation therapy to the brain and spine .\n- A clinical trial of chemotherapy added to surgery and radiation therapy to the brain and spine.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Pineal Parenchymal Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Pineal Parenchymal Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment of pineal parenchymal tumors may include the following:\n- For pineocytomas , surgery and radiation therapy .\n- For pineoblastomas, surgery, radiation therapy, and chemotherapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Meningeal Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Meningeal Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment of grade I meningiomas may include the following:\n- Active surveillance for tumors with no signs or symptoms .\n- Surgery to remove the tumor. Radiation therapy may also be given if some of the tumor remains after surgery.\n- Stereotactic radiosurgery for tumors smaller than 3 centimeters .\n- Radiation therapy for tumors that cannot be removed by surgery.\nTreatment of grade II and III meningiomas and hemangiopericytomas may include the following:\n- Surgery and radiation therapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Germ Cell Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Germ Cell Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "There is no standard treatment for germ cell tumors (germinoma, embryonal carcinoma , choriocarcinoma , and teratoma ). Treatment depends on what the tumor cells look like under a microscope, the tumor markers , where the tumor is in the brain, and whether it can be removed by surgery.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Craniopharyngiomas",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Brain Tumor by Type of Tumor",
+            "Craniopharyngiomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment of craniopharyngiomas may include the following:\n- Surgery to completely remove the tumor.\n- Surgery to remove as much of the tumor as possible, followed by radiation therapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Primary Adult Spinal Cord Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Adult Spinal Cord Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of spinal cord tumors may include the following:\n- Surgery to remove the tumor.\n- Radiation therapy .\n- A clinical trial of a new treatment."
+        },
+        {
+          "section": "Treatment of Recurrent Adult Central Nervous System Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Adult Central Nervous System Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nThere is no standard treatment for recurrent central nervous system (CNS) tumors . Treatment depends on the patient's condition, the expected side effects of the treatment, where the tumor is in the CNS, and whether the tumor can be removed by surgery. Treatment may include the following:\n- Chemotherapy placed into the brain during surgery.\n- Chemotherapy with drugs not used to treat the original tumor.\n- Targeted therapy for recurrent glioblastoma .\n- Radiation therapy .\n- Surgery to remove the tumor.\n- A clinical trial of a new treatment.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Metastatic Adult Brain Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Metastatic Adult Brain Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of one to four tumors that have spread to the brain from another part of the body may include the following:\n- Radiation therapy to the whole brain with or without surgery.\n- Radiation therapy to the whole brain with or without stereotactic radiosurgery .\n- Stereotactic radiosurgery.\n- Chemotherapy , if the primary tumor is one that responds to anticancer drugs. It may be combined with radiation therapy.\nTreatment of tumors that have spread to the leptomeninges may include the following:\n- Chemotherapy ( systemic and/or intrathecal ). Radiation therapy may also be given.\n- Supportive care .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Adult Central Nervous System Tumors",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "To Learn More About Adult Central Nervous System Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "For more information from the National Cancer Institute about adult central nervous system (CNS) tumors , see the following:\n- Brain Cancer Home Page\n- NCI-CONNECT (Comprehensive Oncology Network Evaluating Rare CNS Tumors)\n- Drugs Approved for Brain Tumors\n- Targeted Therapy to Treat Cancer\n- Immunotherapy to Treat Cancer\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of adult central nervous system tumors. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Adult Central Nervous System Tumors Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/brain/patient/adult-brain-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389458]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\8c970ecf15a8add564b6.html"
+    }
+  ]
+}

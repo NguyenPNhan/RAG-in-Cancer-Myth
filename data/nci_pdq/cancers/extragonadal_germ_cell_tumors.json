@@ -1,0 +1,777 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Extragonadal Germ Cell Tumors",
+  "generated_at": "2026-08-31T07:15:23.250672+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Extragonadal Germ Cell Tumors",
+      "title": "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Extragonadal Germ Cell Tumors Treatment",
+      "url": "https://www.cancer.gov/types/extragonadal-germ-cell/hp/extragonadal-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "December 9, 2024",
+      "retrieved_at": "2026-08-31T07:10:03.310398+00:00",
+      "content_sha256": "a6dfb6446102c016d0046766c7ee37e16ad46ac7b9c511c65af014cd8956ea8f",
+      "section_count": 29,
+      "sections": [
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "General Information About Extragonadal Germ Cell Tumors",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Extragonadal germ cell tumors are rare and account for only a small percentage of all germ cell tumors. However, the true incidence of these tumors may conceivably be higher than originally thought because of failure to diagnose them properly."
+        },
+        {
+          "section": "Cellular Classification of Extragonadal Germ Cell Tumors",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Extragonadal Germ Cell Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Extragonadal germ cell tumors can be benign (teratoma) or malignant. The latter group can be divided into seminoma and nonseminoma germ cell tumors, which include:\n- Embryonal carcinomas.\n- Malignant teratomas.\n- Endodermal sinus tumors.\n- Choriocarcinomas.\n- Mixed germ cell tumors.\nExtragonadal germ cell tumors occur much more often in males than in females [ 1 ] and are usually seen in young adults. These aggressive neoplasms can arise virtually anywhere, but the site of origin is typically in the midline (mediastinum, retroperitoneum, or pineal gland). Gonadal origin should be excluded by careful testicular examination and ultrasound. The diagnosis can be difficult and should be considered in any patient with a poorly defined epithelial malignancy, particularly young individuals with midline masses.[ 2 , 3 ]\nAn international germ cell tumor prognostic classification has been developed based on a retrospective analysis of 5,202 patients with metastatic nonseminomatous germ cell tumors and 660 patients with metastatic seminomatous germ cell tumors.[ 4 ] All patients received treatment with cisplatin-containing or carboplatin-containing therapy as their first chemotherapy course. The prognostic classification, shown below, was agreed on in early 1997 by all major clinical trial groups worldwide and should be used for the reporting of clinical trial results of patients with extragonadal germ cell tumors."
+        },
+        {
+          "section": "Nonseminoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Extragonadal Germ Cell Tumors",
+            "Good Prognosis",
+            "Nonseminoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Testis/retroperitoneal primary and\n- No nonpulmonary visceral metastases and\n- Good markers–all of:\n- Alpha-fetoprotein (AFP) less than 1,000 ng/mL and\n- Beta-human chorionic gonadotropin (beta-hCG) less than 5,000 IU/L (1,000 ng/mL) and\n- Lactate dehydrogenase (LDH) less than 1.5 × upper limit of normal\n- A total of 56% of nonseminomas are good prognosis. The 5-year progression-free survival (PFS) rate is 89%; the 5-year survival rate is 92%."
+        },
+        {
+          "section": "Seminoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Extragonadal Germ Cell Tumors",
+            "Good Prognosis",
+            "Seminoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Any primary site and\n- No nonpulmonary visceral metastases and\n- Normal AFP, any beta-hCG, any LDH\n- A total of 90% of seminomas are good prognosis. The 5-year PFS rate is 82%; the 5-year survival rate is 86%."
+        },
+        {
+          "section": "Nonseminoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Extragonadal Germ Cell Tumors",
+            "Intermediate Prognosis",
+            "Nonseminoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Testis/retroperitoneal primary and\n- No nonpulmonary visceral metastases and\n- Intermediate markers–any of:\n- AFP 1,000 ng/mL or greater and 10,000 ng/mL or less or\n- Beta-hCG 5,000 IU/L or greater and 50,000 IU/L or less or\n- LDH 1.5 × upper limit of normal or greater and 10 × upper limit of normal or less\n- A total of 28% of nonseminomas are intermediate prognosis. The 5-year PFS rate is 75%; the 5-year survival rate is 80%."
+        },
+        {
+          "section": "Seminoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Extragonadal Germ Cell Tumors",
+            "Intermediate Prognosis",
+            "Seminoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Any primary site and\n- Nonpulmonary visceral metastases and\n- Normal AFP, any beta-hCG, any LDH\n- A total of 10% of seminomas are intermediate prognosis. The 5-year PFS rate is 67%; the 5-year survival rate is 72%."
+        },
+        {
+          "section": "Nonseminoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Extragonadal Germ Cell Tumors",
+            "Poor Prognosis",
+            "Nonseminoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Mediastinal primary or\n- Nonpulmonary visceral metastases or\n- Poor markers–any of:\n- AFP greater than 10,000 ng/mL or\n- Beta-hCG greater than 50,000 IU/L (1,000 ng/mL) or\n- LDH greater than 10 × upper limit of normal\n- A total of 16% of nonseminomas are poor prognosis. The 5-year PFS rate is 41%; the 5-year survival rate is 48%."
+        },
+        {
+          "section": "Seminoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Extragonadal Germ Cell Tumors",
+            "Poor Prognosis",
+            "Seminoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "No patients are classified as poor prognosis."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Extragonadal Germ Cell Tumors",
+            "Poor Prognosis",
+            "Seminoma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Mayordomo JI, Paz-Ares L, Rivera F, et al.: Ovarian and extragonadal malignant germ-cell tumors in females: a single-institution experience with 43 patients. Ann Oncol 5 (3): 225-31, 1994. [PUBMED Abstract]\n- Greco FA, Vaughn WK, Hainsworth JD: Advanced poorly differentiated carcinoma of unknown primary site: recognition of a treatable syndrome. Ann Intern Med 104 (4): 547-53, 1986. [PUBMED Abstract]\n- Hainsworth JD, Greco FA: Extragonadal germ cell tumors and unrecognized germ cell tumors. Semin Oncol 19 (2): 119-27, 1992. [PUBMED Abstract]\n- International Germ Cell Consensus Classification: a prognostic factor-based staging system for metastatic germ cell cancers. International Germ Cell Cancer Collaborative Group. J Clin Oncol 15 (2): 594-603, 1997. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Benign Teratoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Benign Teratoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Benign teratomas are treated with surgical excision only. These tumors are frequently very large, and the surgical procedure can be formidable."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Benign Teratoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Seminoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Seminoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The diagnosis of seminoma requires that the serum alpha-fetoprotein be normal, with no other germ cells present. Management decisions in patients presenting with these tumors can be difficult.\nAs in testicular seminoma, these tumors are very radiosensitive. About 60% to 80% of patients will remain disease free after treatment with radiation therapy.[ 1 ] Craniospinal radiation therapy for intracranial germinomas (the intracranial counterpart of seminoma) is associated with relapse-free and overall survival rates of 90% to 95% at 5 years, respectively, as evidenced in the GER-GPO-MAKEI-86/89 trial, for example.[ 2 ][ Level of evidence C1 ]\nInitial chemotherapy with regimens used in nonseminoma testicular cancer is also efficacious. Practically speaking, patients with localized relatively small tumors are usually treated initially with radiation therapy, while those with very bulky tumors or nonlocalized tumors are treated with etoposide-based and cisplatin-based chemotherapy regimens.\nAs in testicular seminoma, many patients will be left with a residual mass posttreatment. If the residual mass is smaller than 3.0 cm, most experts agree that observation is appropriate. In those with larger residual masses, some experts favor surgical excision while others favor observation.[ 3 , 4 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Seminoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Seminoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Clamon GH: Management of primary mediastinal seminoma. Chest 83 (2): 263-7, 1983. [PUBMED Abstract]\n- Bamberg M, Kortmann RD, Calaminus G, et al.: Radiation therapy for intracranial germinoma: results of the German cooperative prospective trials MAKEI 83/86/89. J Clin Oncol 17 (8): 2585-92, 1999. [PUBMED Abstract]\n- Motzer R, Bosl G, Heelan R, et al.: Residual mass: an indication for further therapy in patients with advanced seminoma following systemic chemotherapy. J Clin Oncol 5 (7): 1064-70, 1987. [PUBMED Abstract]\n- Schultz SM, Einhorn LH, Conces DJ, et al.: Management of postchemotherapy residual mass in patients with advanced seminoma: Indiana University experience. J Clin Oncol 7 (10): 1497-503, 1989. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Nonseminoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Nonseminoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Patients with nonseminomas should receive chemotherapy at diagnosis. These patients tend to have a large tumor volume at diagnosis and are usually symptomatic. Initial debulking surgery is rarely useful. Many high-risk patients qualify for clinical trials. Standard therapy is generally four courses of BEP (bleomycin, etoposide, and cisplatin).[ 1 , 2 ]\nA randomized study comparing four courses of BEP with four courses of VIP (etoposide, ifosfamide, and cisplatin) showed similar overall survival (OS) and time-to-treatment failure for the two regimens in patients with advanced disseminated germ cell tumors who had not received previous chemotherapy.[ 3 , 4 ][ Level of evidence A1 ] Of the 304 patients in this study, 66 had extragonadal primary tumors. In this subset of patients, responses to the two regimens were similar. Hematologic toxic effects in OS were substantially worse with the VIP regimen than with the BEP regimen.\nPatients with a residual mass after chemotherapy may achieve long-term disease-free survival after postchemotherapy surgery with resection of all residual disease.[ 5 ][ Level of evidence C2 ] Patients with nonseminomatous extragonadal germ cell tumors who relapse after front-line chemotherapy generally have poor prognoses with poor responses to salvage chemotherapy regimens, including autologous bone marrow transplant, that have had success for recurrent testicular cancer.[ 6 - 8 ] Such patients are candidates for studies of new approaches."
+        },
+        {
+          "section": "Mediastinal Nonseminoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Nonseminoma",
+            "Mediastinal Nonseminoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Mediastinal nonseminomas have certain unique aspects. The tumors are more frequent in individuals with Klinefelter syndrome and are associated with a risk of subsequent development of hematologic neoplasia that is not treatment related.[ 9 , 10 ] Approximately 50% of patients with mediastinal nonseminomas will survive with appropriate management.[ 11 ] High risk is partially related to tumor bulk, chemotherapy resistance, and a predisposition to develop hematologic neoplasia and other nongerm cell malignancies. In an uncontrolled study, some patients with a postchemotherapy residual mediastinal mass achieved long-term disease-free survival after complete resection, even when serum tumor markers were elevated.[ 5 ][ Level of evidence C2 ] Patient selection factors may play a role in these favorable outcomes."
+        },
+        {
+          "section": "Retroperitoneal Nonseminoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Nonseminoma",
+            "Retroperitoneal Nonseminoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The prognosis of retroperitoneal nonseminoma is reasonably good and, similar to the situation with nodal metastasis from a testicular primary tumor, is related to tumor volume."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Nonseminoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Nonseminoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Williams SD, Birch R, Einhorn LH, et al.: Treatment of disseminated germ-cell tumors with cisplatin, bleomycin, and either vinblastine or etoposide. N Engl J Med 316 (23): 1435-40, 1987. [PUBMED Abstract]\n- Bosl GJ, Gluckman R, Geller NL, et al.: VAB-6: an effective chemotherapy regimen for patients with germ-cell tumors. J Clin Oncol 4 (10): 1493-9, 1986. [PUBMED Abstract]\n- Nichols CR, Catalano PJ, Crawford ED, et al.: Randomized comparison of cisplatin and etoposide and either bleomycin or ifosfamide in treatment of advanced disseminated germ cell tumors: an Eastern Cooperative Oncology Group, Southwest Oncology Group, and Cancer and Leukemia Group B Study. J Clin Oncol 16 (4): 1287-93, 1998. [PUBMED Abstract]\n- Hinton S, Catalano PJ, Einhorn LH, et al.: Cisplatin, etoposide and either bleomycin or ifosfamide in the treatment of disseminated germ cell tumors: final analysis of an intergroup trial. Cancer 97 (8): 1869-75, 2003. [PUBMED Abstract]\n- Schneider BP, Kesler KA, Brooks JA, et al.: Outcome of patients with residual germ cell or non-germ cell malignancy after resection of primary mediastinal nonseminomatous germ cell cancer. J Clin Oncol 22 (7): 1195-200, 2004. [PUBMED Abstract]\n- Saxman SB, Nichols CR, Einhorn LH: Salvage chemotherapy in patients with extragonadal nonseminomatous germ cell tumors: the Indiana University experience. J Clin Oncol 12 (7): 1390-3, 1994. [PUBMED Abstract]\n- Beyer J, Kramar A, Mandanas R, et al.: High-dose chemotherapy as salvage treatment in germ cell tumors: a multivariate analysis of prognostic variables. J Clin Oncol 14 (10): 2638-45, 1996. [PUBMED Abstract]\n- Loehrer PJ, Gonin R, Nichols CR, et al.: Vinblastine plus ifosfamide plus cisplatin as initial salvage therapy in recurrent germ cell tumor. J Clin Oncol 16 (7): 2500-4, 1998. [PUBMED Abstract]\n- Nichols CR, Heerema NA, Palmer C, et al.: Klinefelter's syndrome associated with mediastinal germ cell neoplasms. J Clin Oncol 5 (8): 1290-4, 1987. [PUBMED Abstract]\n- Nichols CR, Roth BJ, Heerema N, et al.: Hematologic neoplasia associated with primary mediastinal germ-cell tumors. N Engl J Med 322 (20): 1425-9, 1990. [PUBMED Abstract]\n- Nichols CR, Saxman S, Williams SD, et al.: Primary mediastinal nonseminomatous germ cell tumors. A modern single institution experience. Cancer 65 (7): 1641-6, 1990. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Recurrent or Refractory Extragonadal Germ Cell Tumors",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent or Refractory Extragonadal Germ Cell Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A randomized controlled trial compared conventional doses of salvage chemotherapy to high-dose chemotherapy with autologous marrow rescue in 263 patients with recurrent or refractory germ cell tumors. Of the 263 patients, 43 of whom had extragonadal primary tumors, more toxic effects and treatment-related deaths were seen in the high-dose arm, without any improvement in response rate or overall survival.[ 1 ][ Level of evidence A1 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent or Refractory Extragonadal Germ Cell Tumors",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent or Refractory Extragonadal Germ Cell Tumors",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Pico JL, Rosti G, Kramar A, et al.: A randomised trial of high-dose chemotherapy in the salvage treatment of patients failing first-line platinum chemotherapy for advanced germ cell tumours. Ann Oncol 16 (7): 1152-9, 2005. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (12/09/2024)",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (12/09/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of extragonadal germ cell tumors. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 9,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewer for Extragonadal Germ Cell Tumors Treatment is:\n- Timothy Gilligan, MD (Cleveland Clinic Taussig Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Extragonadal Germ Cell Tumors Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/extragonadal-germ-cell/hp/extragonadal-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389346]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\a32f9c77249171d96ef0.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Extragonadal Germ Cell Tumors",
+      "title": "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+      "summary_name": "Extragonadal Germ Cell Tumors Treatment",
+      "url": "https://www.cancer.gov/types/extragonadal-germ-cell/patient/extragonadal-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "February 19, 2025",
+      "retrieved_at": "2026-08-31T07:10:04.339926+00:00",
+      "content_sha256": "700d4c3e13b6169198d8d2f19b61edfc3e071bc83d762b4a8d31eb402c8e6b85",
+      "section_count": 35,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Extragonadal Germ Cell Tumors",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Extragonadal germ cell tumors form from developing sperm or egg cells that travel from the gonads to other parts of the body.\n- Age and sex can affect the risk of extragonadal germ cell tumors.\n- Signs and symptoms of extragonadal germ cell tumors include breathing problems and chest pain.\n- Imaging and blood tests are used to diagnose extragonadal germ cell tumors.\n- Some people decide to get a second opinion.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Extragonadal germ cell tumors form from developing sperm or egg cells that travel from the gonads to other parts of the body.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Extragonadal Germ Cell Tumors",
+            "Extragonadal germ cell tumors form from developing sperm or egg cells that travel from the gonads to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "\"Extragonadal\" means outside of the gonads (sex organs). When cells that are meant to form sperm in the testicles or eggs in the ovaries travel to other parts of the body, they may grow into extragonadal germ cell tumors . These tumors may begin to grow anywhere in the body but usually begin in organs such as the pineal gland in the brain, in the mediastinum (area between the lungs ), or in the retroperitoneum (the back wall of the abdomen ). Enlarge Extragonadal germ cell tumors form in parts of the body other than the gonads (testicles or ovaries). This includes the pineal gland in the brain, the mediastinum (area between the lungs), and retroperitoneum (the back wall of the abdomen).\nExtragonadal germ cell tumors can be benign (noncancer) or malignant (cancer). Benign extragonadal germ cell tumors are called benign teratomas . These are more common than malignant extragonadal germ cell tumors and often are very large.\nMalignant extragonadal germ cell tumors are divided into two types, nonseminoma and seminoma . Nonseminomas tend to grow and spread more quickly than seminomas. They usually are large and cause signs and symptoms . If untreated, malignant extragonadal germ cell tumors may spread to the lungs, lymph nodes , bones, liver , or other parts of the body."
+        },
+        {
+          "section": "Age and sex can affect the risk of extragonadal germ cell tumors.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Extragonadal Germ Cell Tumors",
+            "Age and sex can affect the risk of extragonadal germ cell tumors."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Anything that increases a person's chance of getting a disease is called a risk factor . Not every person with one or more of these risk factors will develop an extragonadal germ cell tumor, and it will develop in some people who don't have any known risk factors. Talk with your doctor if you think you may be at risk. Risk factors for malignant extragonadal germ cell tumors include:\n- being male\n- being age 20 or older\n- having Klinefelter syndrome"
+        },
+        {
+          "section": "Signs and symptoms of extragonadal germ cell tumors include breathing problems and chest pain.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Extragonadal Germ Cell Tumors",
+            "Signs and symptoms of extragonadal germ cell tumors include breathing problems and chest pain."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Malignant extragonadal germ cell tumors may cause signs and symptoms as they grow into nearby areas. Other conditions may cause the same signs and symptoms. Check with your doctor if you have:\n- chest pain\n- breathing problems\n- cough\n- fever\n- headache\n- change in bowel habits\n- feeling very tired\n- trouble walking\n- trouble in seeing or moving the eyes"
+        },
+        {
+          "section": "Imaging and blood tests are used to diagnose extragonadal germ cell tumors.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Extragonadal Germ Cell Tumors",
+            "Imaging and blood tests are used to diagnose extragonadal germ cell tumors."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Chest x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body.\n- Serum tumor marker test is a procedure in which a sample of blood is examined to measure the amounts of certain substances released into the blood by organs, tissues, or tumor cells in the body. Certain substances are linked to specific types of cancer when found in increased levels in the blood. These are called tumor markers . The following three tumor markers are used to detect extragonadal germ cell tumor: Blood levels of the tumor markers help determine if the tumor is a seminoma or nonseminoma.\n- alpha-fetoprotein (AFP)\n- beta-human chorionic gonadotropin (beta-hCG)\n- lactate dehydrogenase (LDH)\n- CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body. The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Sometimes a CT scan and a PET scan are done at the same time. A PET scan uses a small amount of radioactive sugar (also called glucose) that is injected into a vein. Then a scanner rotates around the body to make detailed, computerized pictures of areas inside the body where the glucose is taken up. Because cancer cells often take up more glucose than normal cells, the pictures can be used to find cancer cells in the body. When a PET scan and CT scan are done at the same time, it is called a PET-CT.\n- A biopsy is the removal of cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer. The type of biopsy used depends on where the extragonadal germ cell tumor is found.\n- Excisional biopsy is the removal of an entire lump of tissue.\n- Incisional biopsy is the removal of part of a lump or sample of tissue.\n- Core biopsy is the removal of tissue using a wide needle.\n- Fine-needle aspiration (FNA) biopsy is the removal of tissue or fluid using a thin needle."
+        },
+        {
+          "section": "Some people decide to get a second opinion.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Extragonadal Germ Cell Tumors",
+            "Some people decide to get a second opinion."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report, slides, and scans. They may agree with the first doctor, suggest changes or another treatment approach, or provide more information about your cancer.\nLearn more about choosing a doctor and getting a second opinion at Finding Cancer Care . You can contact NCI’s Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor, hospital, or getting a second opinion. For questions you might want to ask at your appointments, visit Questions to Ask Your Doctor About Cancer ."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Extragonadal Germ Cell Tumors",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The prognosis and treatment options depend on:\n- whether the tumor is nonseminoma or seminoma\n- the size of the tumor and where it is in the body\n- the blood levels of AFP , beta-hCG , and LDH\n- whether the tumor has spread to other parts of the body\n- the way the tumor responds to initial treatment\n- whether the tumor has just been diagnosed or has recurred (come back)"
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Extragonadal Germ Cell Tumors",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- After an extragonadal germ cell tumor has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- The following prognostic groups are used for extragonadal germ cell tumors:\n- Good prognosis\n- Intermediate prognosis\n- Poor prognosis"
+        },
+        {
+          "section": "After an extragonadal germ cell tumor has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Extragonadal Germ Cell Tumors",
+            "After an extragonadal germ cell tumor has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The extent or spread of cancer is usually described as stages . For extragonadal germ cell tumors , prognostic groups are used instead of stages. The tumors are grouped according to how well the cancer is expected to respond to treatment. It is important to know the prognostic group in order to plan treatment."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Extragonadal Germ Cell Tumors",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Extragonadal Germ Cell Tumors",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of tumor as the primary tumor. For example, if an extragonadal germ cell tumor spreads to the lung , the tumor cells in the lung are actually cancerous germ cells. The disease is metastatic extragonadal germ cell tumor, not lung cancer."
+        },
+        {
+          "section": "Good prognosis",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Extragonadal Germ Cell Tumors",
+            "The following prognostic groups are used for extragonadal germ cell tumors:",
+            "Good prognosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "A nonseminoma extragonadal germ cell tumor is in the good prognosis group if:\n- the tumor is in the back of the abdomen ; and\n- the tumor has not spread to organs other than the lungs ; and\n- the levels of tumor markers AFP and beta-hCG are normal and LDH is slightly above normal.\nA seminoma extragonadal germ cell tumor is in the good prognosis group if:\n- the tumor has not spread to organs other than the lungs ; and\n- the level of AFP is normal; beta-hCG and LDH may be at any level."
+        },
+        {
+          "section": "Intermediate prognosis",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Extragonadal Germ Cell Tumors",
+            "The following prognostic groups are used for extragonadal germ cell tumors:",
+            "Intermediate prognosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "A nonseminoma extragonadal germ cell tumor is in the intermediate prognosis group if:\n- the tumor is in the back of the abdomen ; and\n- the tumor has not spread to organs other than the lungs ; and\n- the level of any one of the tumor markers ( AFP , beta-hCG , or LDH ) is more than slightly above or below normal.\nA seminoma extragonadal germ cell tumor is in the intermediate prognosis group if:\n- the tumor has spread to organs other than the lungs ; and\n- the level of AFP is normal; beta-hCG and LDH may be at any level."
+        },
+        {
+          "section": "Poor prognosis",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Extragonadal Germ Cell Tumors",
+            "The following prognostic groups are used for extragonadal germ cell tumors:",
+            "Poor prognosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "A nonseminoma extragonadal germ cell tumor is in the poor prognosis group if:\n- the tumor is in the chest; or\n- the tumor has spread to organs other than the lungs ; or\n- the level of any one of the tumor markers ( AFP , beta-hCG , or LDH ) is high.\nA seminoma extragonadal germ cell tumor does not have a poor prognosis group."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- There are different types of treatment for patients with extragonadal germ cell tumors.\n- The following types of treatment are used:\n- Radiation therapy\n- Chemotherapy\n- Surgery\n- New types of treatment are being tested in clinical trials.\n- High-dose chemotherapy with stem cell transplant\n- Treatment for extragonadal germ cell tumors may cause side effects.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with extragonadal germ cell tumors.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with extragonadal germ cell tumors."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Different types of treatments are available for extragonadal germ cell tumors . You and your cancer care team will work together to decide your treatment plan, which may include more than one type of treatment. Many factors will be considered, such as the tumor's prognostic group, your overall health, and your preferences. Your plan will include information about your cancer, the goals of treatment, your treatment options and the possible side effects, and the expected length of treatment.\nTalking with your cancer care team before treatment begins about what to expect will be helpful. You’ll want to learn what you need to do before treatment begins, how you’ll feel while going through it, and what kind of help you will need. To learn more, visit Questions to Ask Your Doctor about Treatment ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Radiation therapy uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer. External radiation therapy is used to treat seminoma ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing.\nChemotherapy for extragonadal germ cell tumors is usually systemic, meaning it is injected into a vein or given by mouth. When given this way, the drugs enter the bloodstream to reach cancer cells throughout the body.\nChemotherapy drugs used to treat extragonadal germ cell tumors may include:\n- bleomycin\n- carboplatin\n- cisplatin\n- etoposide\n- ifosfamide\nCombinations of these drugs may be used. Other chemotherapy drugs not listed here may also be used.\nLearn more about how chemotherapy works, how it is given, common side effects, and more at Chemotherapy to Treat Cancer and Chemotherapy and You: Support for People With Cancer ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If you have benign tumors or tumor remaining after chemotherapy or radiation therapy, surgery may be needed."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "For some people, joining a clinical trial may be an option. There are different types of clinical trials for people with cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers .\nThis summary section describes treatments that are being studied in clinical trials. It may not mention every new treatment being studied. Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "High-dose chemotherapy with stem cell transplant",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "High-dose chemotherapy with stem cell transplant"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "High doses of chemotherapy are given to kill cancer cells. Healthy cells, including blood-forming cells, are also destroyed by the cancer treatment. Stem cell transplant is a treatment to replace the blood -forming cells. Stem cells (immature blood cells) are removed from the blood or bone marrow of the patient or a donor and are frozen and stored. After the patient completes chemotherapy, the stored stem cells are thawed and given back to the patient through an infusion . These reinfused stem cells grow into (and restore) the body's blood cells."
+        },
+        {
+          "section": "Treatment for extragonadal germ cell tumors may cause side effects.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for extragonadal germ cell tumors may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back).\nAfter initial treatment for extragonadal germ cell tumors, your blood levels of AFP and other tumor markers will continue to be checked to find out how well the treatment is working."
+        },
+        {
+          "section": "Treatment of Benign Teratoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Benign Teratoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment of benign teratomas is surgery.\nLearn more about this treatment in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Seminoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Seminoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of seminoma extragonadal germ cell tumors may include:\n- Radiation therapy for small tumors in one area, followed by watchful waiting if there is tumor remaining after treatment.\n- Chemotherapy for larger tumors or tumors that have spread. If a tumor smaller than 3 centimeters remains after chemotherapy, watchful waiting follows. If a larger tumor remains after treatment, surgery or watchful waiting follow.\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Nonseminoma",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Nonseminoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment of nonseminoma extragonadal germ cell tumors may include:\n- Combination chemotherapy followed by surgery to remove any remaining tumor.\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent or Refractory Extragonadal Germ Cell Tumors",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent or Refractory Extragonadal Germ Cell Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of extragonadal germ cell tumors that are recurrent (come back after being treated) or refractory (do not get better during treatment) may include:\n- chemotherapy\n- a clinical trial of high-dose chemotherapy with stem cell transplant\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Extragonadal Germ Cell Tumors",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "To Learn More About Extragonadal Germ Cell Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "For more information from the National Cancer Institute about extragonadal germ cell tumors, visit the Extragonadal Germ Cell Tumor Home Page .\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of extragonadal germ cell tumors. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Extragonadal Germ Cell Tumors Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/extragonadal-germ-cell/patient/extragonadal-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389213]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Extragonadal Germ Cell Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\67620c6c2475151c0bb7.html"
+    }
+  ]
+}

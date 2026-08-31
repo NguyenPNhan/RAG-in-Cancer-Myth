@@ -1,0 +1,617 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "scope": "general_or_multi_cancer",
+  "summary_name": "Grief, Bereavement, and Coping With Loss",
+  "generated_at": "2026-08-31T07:15:23.711100+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "supportive_care"
+      ],
+      "topic": "supportive_care",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+      "summary_name": "Grief, Bereavement, and Coping With Loss",
+      "url": "https://www.cancer.gov/about-cancer/advanced-cancer/caregivers/planning/bereavement-hp-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "June 26, 2024",
+      "retrieved_at": "2026-08-31T07:06:21.878569+00:00",
+      "content_sha256": "934c589a45c0df3a81dbe2a66a700a857ff2cf9f14b8ec125597ac5e52a3dbf5",
+      "section_count": 52,
+      "sections": [
+        {
+          "section": "Overview",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Health care providers will encounter bereaved individuals throughout their personal and professional lives.[ 1 ] Individual diversity, family and social networks, and micro- and macrocultural influences contribute to the way one experiences and expresses grief. The progression from advanced cancer to death is experienced in different ways by different people. Most people will experience common or normal grief and will, with time, adjust to the loss; others will experience more severe grief reactions such as prolonged or complicated grief and will benefit from treatment. Some may even find that the cancer experience, although it is difficult and trying, may lead to significant personal growth for the patient and others in the patient’s family and social network.\nMultiple factors may influence how an individual or a social network adjusts to a death. How people grieve depends on the personality of the grieving individual and his or her relationship with the person who died. The following factors affect how a person will express grief externally and adjust to the loss internally:[ 2 ]\n- The cancer experience.\n- Manner of disease progression.\n- Cultural and religious beliefs.\n- Sociocultural structure in which the grieving process occurs.\n- Coping skills.\n- Psychiatric history.\n- Availability of support systems.\n- Socioeconomic status.\nEven the sense of a relationship’s completeness can influence the grieving process.[ 2 ] The effect of grief on the patients themselves and on the loss of their future should also be considered by providers and patients’ social networks.\nThis summary first defines the constructs of grief , mourning , and bereavement . It then distinguishes the grief reactions of anticipatory grief, prolonged complicated grief, normal or common grief, models of normal grief, and complicated or prolonged grief. Psychosocial and pharmacological treatments are explained. The important developmental issues of children and grief are presented, and a section on cross-cultural responses to grief and mourning concludes the summary.\nThe following information combines theoretical and empirical reviews of the general literature on grief, bereavement, and mourning [ 3 - 6 ] and is not specific to loss via cancer. Where available, studies that have focused on cancer are emphasized.\nIn this summary, unless otherwise stated, evidence and practice issues as they relate to adults are discussed. The evidence and application to practice related to children may differ significantly from information related to adults. When specific information about the care of children is available, it is summarized under its own heading."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Overview",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Casarett D, Kutner JS, Abrahm J, et al.: Life after death: a practical approach to grief and bereavement. Ann Intern Med 134 (3): 208-15, 2001. [PUBMED Abstract]\n- Yamashita R, Arao H, Takao A, et al.: Unfinished Business in Families of Terminally Ill With Cancer Patients. J Pain Symptom Manage 54 (6): 861-869, 2017. [PUBMED Abstract]\n- Stroebe MS, Hansson RO, Schut H, et al., eds.: Handbook of Bereavement Research and Practice: Advances in Theory and Intervention. American Psychological Association, 2008.\n- Stroebe MS, Hansson RO, Stroebe W, et al., eds.: Handbook of Bereavement Research: Consequences, Coping, and Care. American Psychological Association, 2001.\n- Bonanno GA, Kaltman S: The varieties of grief experience. Clin Psychol Rev 21 (5): 705-34, 2001. [PUBMED Abstract]\n- Jacobs S: Pathologic Grief: Maladaptation to Loss. American Psychiatric Press, Inc., 1993."
+        },
+        {
+          "section": "Grief",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Definitions of Terms",
+            "Grief"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Grief is defined as the primarily emotional/affective process of reacting to the loss of a loved one through death.[ 1 ] The focus is on the internal, intrapsychic process of the individual. Normal or common grief reactions may include components such as the following:[ 2 ]\n- Numbness and disbelief.\n- Anxiety from the distress of separation.\n- A process of mourning often accompanied by symptoms of depression.\n- Eventual recovery.\nGrief reactions can also be viewed as abnormal, traumatic, pathologic, or complicated. Although no consensus has been reached, diagnostic criteria for complicated grief have been proposed.[ 3 ] For more information, see the Prolonged, Persistent, or Complex Grief section."
+        },
+        {
+          "section": "Mourning",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Definitions of Terms",
+            "Mourning"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Mourning is defined as the public display of grief.[ 1 ] While grief focuses more on the internal or intrapsychic experience of loss, mourning emphasizes the external or public expressions of grief. Consequently, mourning is influenced by one’s beliefs, religious practices, and cultural context.\nThere is obvious overlap between grief and mourning, with each influencing the other; it is often difficult to distinguish between the two. The public expression (i.e., mourning) of the emotional distress over the loss of a loved one (i.e., grief) is influenced by culturally determined beliefs, mores, and values."
+        },
+        {
+          "section": "Bereavement",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Definitions of Terms",
+            "Bereavement"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Bereavement is defined as the objective situation one faces after having lost an important person via death.[ 1 ] Bereavement is conceptualized as the broadest of the three terms defined in this section and as a statement of the objective reality of a situation of loss via death."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Definitions of Terms",
+            "Bereavement",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Stroebe MS, Hansson RO, Schut H, et al., eds.: Handbook of Bereavement Research and Practice: Advances in Theory and Intervention. American Psychological Association, 2008.\n- Jacobs S: Pathologic Grief: Maladaptation to Loss. American Psychiatric Press, Inc., 1993.\n- Prigerson HG, Jacobs SC: Perspectives on care at the close of life. Caring for bereaved patients: \"all the doctors just suddenly go\". JAMA 286 (11): 1369-76, 2001. [PUBMED Abstract]"
+        },
+        {
+          "section": "Types of Grief Reactions",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Types of Grief Reactions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Researchers and clinicians have proposed models for grief and types of grief reactions.[ 1 , 2 ] Research has focused on normal and complicated grief while specifying types of complicated grief [ 3 ] and available empirical support,[ 4 ] with a focus on the characteristics of different types of dysfunction.[ 1 ] Research has noted that while there may be phases or domains of grief, there is not a preestablished linear process through which an individual moves to resolve the grief.[ 5 , 6 ] Most literature attempts to distinguish between normal grief and various forms of complicated grief such as chronic grief or grief that is absent, delayed, or inhibited.[ 1 , 3 , 4 ]\nBereavement research has tried to identify these patterns by reviewing available empirical support [ 1 ] while also looking for evidence that these grief reactions are unique and not simply forms of major depression, anxiety, or post-traumatic stress.[ 7 ]"
+        },
+        {
+          "section": "Anticipatory Grief",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Types of Grief Reactions",
+            "Anticipatory Grief"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Anticipatory grief refers to a grief reaction that occurs in anticipation of an impending loss.[ 8 ] Anticipatory grief is becoming increasingly recognized as an issue that can heighten distress for both patients and their social networks. The term anticipatory grief is most often used when discussing the families of dying persons, although dying individuals themselves can experience anticipatory grief. Anticipatory grief includes many of the same symptoms of grief after a loss. Anticipatory grief has been defined as “the total set of cognitive, affective, cultural, and social reactions to expected death felt by the patient and family.”[ 9 ]\nAnticipatory grief has been empirically associated with escalated distress, pain, and medical complications.[ 10 ] When anticipatory grief needs are met, individuals are less likely to experience these negative outcomes at the end of life.[ 11 ]\n- Fallacy #1: Anticipatory grief affects everyone. Anticipatory grief cannot be assumed to be present merely because a warning of life-threatening illness has been given or because sufficient time has elapsed from the onset of illness until death. Approximately 25% of patients with incurable cancer experience anticipatory grief.[ 10 ]\n- Fallacy #2: Anticipatory grief is the same as conventional grief, just starting earlier. A major misconception is that anticipatory grief is merely conventional (postdeath) grief that begins earlier. There is not a fixed volume of grief to be experienced, implying that the amount of grief experienced in anticipation of the loss will decrease the remaining grief that will need to be experienced after the death.[ 12 ]\n- Fallacy #3: Only a patient’s family members can experience anticipatory grief; the patient experiences depression. While these domains may overlap, they have distinctly separate properties for both patients and members of their social networks. Anticipatory grief and depression can be assessed and treated as separate mental health issues by using measures specifically developed for anticipatory grief.[ 11 , 13 ]\n- Fallacy #4: Different types of grief can be treated the same. Clinical data from several studies [ 14 , 15 ] showed that grief following an unanticipated death differs from anticipatory grief.\n- Fallacy #5: We cannot predict who is likely to experience anticipatory grief. A number of risk factors and protective factors relative to anticipatory grief have been identified. Anticipatory grief is more likely to occur among individuals with dependent relationships, limited external social support, or even discomfort with close relationships. People with lower levels of education, those with neuroticism, or those undergoing a spiritual crisis are also more likely to be at risk of developing anticipatory grief.[ 16 ] However, anticipatory grief is less likely to occur when the death is accepted by the patient and the patient’s social network. When death acceptance rates are higher, there is decreased anxiety, depression, and anticipatory grief.[ 17 ] Therefore, assessment for risk and treatment, as needed, using psychotherapy to address death acceptance may be useful to patients and their social networks.\nOne study reported that parents who felt prepared for their child’s end of life had improved social functioning in the first 2 years of their bereavement.[ 18 ]"
+        },
+        {
+          "section": "Normal or Common Grief",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Types of Grief Reactions",
+            "Normal or Common Grief"
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "In general, normal or common grief reactions are marked by a gradual movement toward an acceptance of the loss and, although daily functioning can be very difficult, managing to continue with basic daily activities. Normal or common grief appears to occur in 50% to 85% of persons after they have experienced a loss.[ 19 ] Normal grief usually includes some common emotional reactions that include emotional numbness, shock, disbelief, and/or denial often occurring immediately after the death, particularly if the death is unexpected. Much emotional distress is focused on the anxiety of separation from the loved one, which often results in yearning, searching, preoccupation with the loved one, and frequent intrusive images of death.[ 2 ]\nSuch distress can be accompanied by:[ 2 ]\n- Crying.\n- Sighing.\n- Having dreams, illusions, and even hallucinations of the deceased.\n- Seeking out things or places associated with the deceased.\nSome bereaved people will experience anger, protest the reality of the loss, and have significant periods of the following:[ 2 ]\n- Sadness.\n- Despair.\n- Insomnia.\n- Anorexia.\n- Fatigue.\n- Guilt.\n- Loss of interest.\n- Disorganization in daily routine.\nMany bereaved persons will experience highly intense, time-limited periods (e.g., 20–30 minutes) of distress, variously called grief bursts, pangs, or waves. Sometimes these pangs are reactions to reminders of the deceased, such as major cultural or social holidays, the anniversary of the patient’s death, or giving away items that belonged to the individual. However, at other times, the pangs may occur unexpectedly.[ 2 ]\nOver time, most bereaved people will experience symptoms less frequently, with briefer duration, or with less intensity. Although there is no clear agreement on any specific time period needed for recovery, most bereaved persons experiencing normal grief will note a lessening of symptoms after about 6 months. However, there may be a significant difference between the expression of grief and the experience of grief. Time lines related to the expression of grief:\n- May be socially, religiously, or culturally influenced (e.g., wearing mourning clothes, sitting shiva, or lowering a flag).\n- Are time-limited.\n- Begin soon after a loss.\n- Largely resolve within 1 or 2 years."
+        },
+        {
+          "section": "Models of Normal Grief",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Types of Grief Reactions",
+            "Models of Normal Grief"
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "A number of theoretically derived models of normal grief have been proposed.[ 20 - 23 ] Most models hypothesize a normal grief process differentiated from various types of complicated grief. Some models have organized grief-related symptoms into phases or stages, suggesting that grief is a process marked by a series of phases with predominant characteristics. The most well-known model was developed for medical student education and used a series of clinical interviews with terminally ill patients.[ 24 ] In this model, the five stages of grief were identified as denial, anger, bargaining, depression, and acceptance. However, this model has limited empirical support.[ 25 ] After initial development, the model was reconceptualized from stages of grief to domains of grief, with the understanding that an individual may move back and forth among the domains without any expectation of a predefined path or progression that is implied by the term stages. [ 26 ]\nIn a 2-year study of the stage theory of grief, results suggested that a more common pathway is disbelief, yearning, anger, depression, and acceptance, and that these negative psychosocial issues peak at approximately 6 months postloss.[ 5 ]\nAn adapted stage model of normal grief [ 2 ] organizes psychological responses into four stages:[ 2 ]\n- Numbness-disbelief.\n- Separation distress (yearning-anger-anxiety).\n- Depression-mourning.\n- Recovery.\nAlthough presented as a stage model, this model explains “it is important to emphasize that the idea that grief unfolds inexorably in regular phases is an oversimplification of the highly complex personal waxing and waning of the emotional process.”[ 2 ]\nAnother theory proposes the following four stages:[ 15 , 27 - 29 ]\n- Shock-numbness.\n- Yearning-searching.\n- Disorganization-despair.\n- Reorganization.\nBereavement researchers have found empirical support for this four-stage model,[ 5 ] with particular emphasis on the timing of grief. Primary grief indicators peak at approximately 6 months postloss, after which the negative grief indicators begin to decline. This suggests that individuals who are still experiencing elevated levels of grief after that time may benefit from an escalated response from mental and physical health care providers.\nOther researchers have conceptualized grief as tasks rather than stages. One investigator identified four tasks of mourning that help an individual continue to feel in control of his or her world, despite the destabilization that occurs with a loss.[ 30 ] Also outlined are six mediators that influence how well someone is able to complete the tasks. These tasks include the following:[ 31 ]\n- Accepting the reality of the loss.\n- Processing the pain of grief.\n- Adjusting to the world without the deceased.\n- Finding an enduring connection with the deceased while continuing to engage in new relationships.\nIn this model, the tasks may occur in any order without a fixed progression; however, for successful mourning to occur, the person must be able to achieve all four tasks."
+        },
+        {
+          "section": "Differentiating Normal Grief Reaction From Major Depressive Disorder",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Types of Grief Reactions",
+            "Differentiating Normal Grief Reaction From Major Depressive Disorder"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "There is a significant overlap between the behavioral manifestations associated with the grieving process and symptoms of depression such as insomnia, feelings of guilt, ruminations, and lack of motivation. The fourth revised edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV-TR) advised clinicians to refrain from diagnosing major depression in individuals within the first 2 months following the death of a loved one in what was referred to as the “bereavement exclusion.” The fifth edition of the DSM (DSM-5) eliminated the bereavement exclusion in the diagnosis of major depression.[ 32 ] This change was added to recognize that in vulnerable individuals, grief can precipitate major depression within a short time and can be potentially lethal.\nDSM-5 carefully outlines the features of a normal grieving process as compared with a major depressive episode, as follows:[ 32 ]\n- In grief, painful feelings come in waves, lessen in intensity and frequency over time, and are often intermixed with positive memories of the deceased; in depression, mood and ideation are constantly negative.\n- In grief, the prevailing affect is one of emptiness; in major depression, it is a long, sustained, depressed mood and an inability to expect pleasure or happiness.\n- In grief, self-esteem is usually preserved; in major depression, feelings of worthlessness and self-loathing are common.\n- In grief, while symptoms such as suicidal ideation can occur, they are generally focused on the deceased, such as a wish to join the deceased in death or feelings of guilt toward certain gaps or failures in the relationship with the deceased. In major depression, suicidal ideation is more likely directed at self only.\nDSM-5 emphasizes that although depression is a normal consequence of bereavement, major depression should not be diagnosed in the context of a normal grieving process. It also emphasizes that major depression can and should be diagnosed when symptoms and features of depression are present and clearly distinguishable from a normal grieving process. DSM-5 also created a candidate disorder, persistent complex bereavement disorder, recognizing the presence of a prolonged and complicated grief reaction in vulnerable individuals.[ 32 ] This complicated grief reaction is recognized in the International Classification of Diseases and Related Health Problems, 11th Revision ( ICD-11 ), as prolonged grief disorder."
+        },
+        {
+          "section": "Patterns of Complicated Grief",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Types of Grief Reactions",
+            "Patterns of Complicated Grief"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Many authors throughout history have proposed various patterns of normal grief compared with pathologic or complicated grief.[ 1 , 2 ] Some proposed patterns come from extensive clinical observation [ 33 ] supported by various theories (e.g., personality traits associated with patterns of attachment).[ 34 ]\nThese patterns are described in comparison with normal grief and highlight deviations from the normal patterns. Authors have developed a wide variety of theories and descriptive labels for abnormal grief patterns, but these labels have very limited empirical validity:\n- Inhibited or absent grief: A pattern in which persons show little evidence of the expected separation distress, seeking, yearning, or other characteristics of normal grief.\n- Delayed grief: A pattern in which symptoms of distress, seeking, yearning, etc., occur at a much later time than is typical.\n- Chronic grief: A pattern emphasizing prolonged duration of grief symptoms.\n- Distorted grief: A pattern characterized by extremely intense or atypical symptoms.\nEmpirical reviews have not found evidence of inhibited, absent, or delayed grief and instead emphasize the possibility that these patterns are better explained as forms of human resilience and strength.[ 6 ] Evidence supports the existence of a minimal grief reaction—a pattern in which persons experience no, or only a few, signs of overt distress or disruption in functioning. This minimal reaction is thought to occur in approximately 15% of persons during the first 1 or 2 years after a loss.[ 6 ] This minimal reaction may be particularly apparent in someone who has a mixed relationship with the deceased, or in someone who has intellectual disabilities or emotional expression difficulties, such as autism spectrum disorder.[ 35 ] An observed minimal grief reaction should be interpreted with caution because the expression of grief may not adequately reflect the internal experience of grief.\nEmpirical support also exists for chronic or complicated grief, a pattern of responding in which persons experience symptoms of common grief but do so for a much longer time than the typical 1 or 2 years. Chronic or complicated grief is thought to occur in about 15% to 30% of bereaved persons.[ 6 ] It may look very much like major depression, generalized anxiety, and possibly post-traumatic stress. However, these terms have fallen out of favor in the treatment community, replaced by the updated and more specific diagnostic criteria of DSM-5 (persistent complex bereavement disorder) and ICD-11 (prolonged grief disorder).[ 36 ]"
+        },
+        {
+          "section": "Prolonged, Persistent, or Complex Grief",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Types of Grief Reactions",
+            "Prolonged, Persistent, or Complex Grief"
+          ],
+          "is_boilerplate": false,
+          "block_count": 29,
+          "text": "DSM-5 and ICD-11 include bereavement as a diagnosable code:\n- Persistent complex bereavement disorder, when elevated grief continues for 12 months for adults and 6 months for children (DSM-5).\n- Prolonged grief disorder, when elevated grief continues 6 months after the death (ICD-11).\nThere has been some concern that the DSM-5 diagnosis of depression removed bereavement as a rule-out, opening the door for medicating bereavement as soon as 2 weeks postloss. However, depression and prolonged grief are two distinct diagnoses and appear to respond uniquely to treatment.[ 37 , 38 ] For more information, see the Treatment section.\nComplicated grief differs from normal and uncomplicated grief, not in terms of the nature of the grief reaction, but in terms of the distress and disability caused by these reactions and their persistence and pervasiveness.[ 39 ]\nFollowing are the proposed DSM-5 diagnostic criteria for the prolonged and complicated grief reaction termed persistent complex bereavement disorder.[ 40 ]\n- Event: Person has experienced the death of someone close at least 12 months previously.\n- In response to the death, the person experiences at least one of the following symptoms frequently and to a clinically significant degree:\n- Intense sorrow and emotional pain.\n- Yearning or longing for the deceased.\n- Preoccupation with the deceased.\n- Preoccupation with circumstances of the death.\n- In response to the death, at least six of the following symptoms occur frequently and to a clinically significant degree:\n- Difficulty accepting the death.\n- Disbelief or numbness.\n- Difficulty in reminiscing positively about the deceased.\n- Bitterness or anger.\n- Maladaptive appraisals about self, associated with the loss (e.g., self-blame).\n- Excessive avoidance of stimuli reminding of the loss.\n- A desire to die, to be with the deceased.\n- Difficulty trusting other people.\n- Feeling alone or detached from others.\n- Feeling that life is empty or meaningless.\n- Confusion about one’s role and diminished identity.\n- Difficulty pursuing interests or making plans for the future.\n- Impairment: The disturbance causes clinically significant impairment in social, occupational, or other important areas of functioning.\n- Reactions are out of proportion to or inconsistent with cultural or religious norms.\nWhile some of the DSM and ICD diagnostic criteria for this disorder differ slightly, a number of key domains overlap, including separation distress, elevated focus on the deceased, difficulty with acceptance of the death, and disengagement from future-oriented goals.\nQuality engagement at the cancer patient’s end of life appears to be critical for decreasing the likelihood of survivors developing prolonged grief disorder or persistent complex bereavement disorder. Achieving acceptance of the death, and engaging in a meaningful goodbye, is more important than the survivor being physically present at the time of the patient’s death.[ 41 ] With a traumatic or unexpected death, the lack of meaningful communication at the end of life may contribute to a survivor’s elevated prolonged grief disorder or persistent complex bereavement disorder.[ 42 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Types of Grief Reactions",
+            "Prolonged, Persistent, or Complex Grief",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 42,
+          "text": "- Bonanno GA, Kaltman S: The varieties of grief experience. Clin Psychol Rev 21 (5): 705-34, 2001. [PUBMED Abstract]\n- Jacobs S: Pathologic Grief: Maladaptation to Loss. American Psychiatric Press, Inc., 1993.\n- Stroebe MS, Hansson RO, Schut H, et al., eds.: Handbook of Bereavement Research and Practice: Advances in Theory and Intervention. American Psychological Association, 2008.\n- Stroebe MS, Hansson RO, Stroebe W, et al., eds.: Handbook of Bereavement Research: Consequences, Coping, and Care. American Psychological Association, 2001.\n- Maciejewski PK, Zhang B, Block SD, et al.: An empirical examination of the stage theory of grief. JAMA 297 (7): 716-23, 2007. [PUBMED Abstract]\n- Bonanno GA: Loss, trauma, and human resilience: have we underestimated the human capacity to thrive after extremely aversive events? Am Psychol 59 (1): 20-8, 2004. [PUBMED Abstract]\n- Bonanno GA, Neria Y, Mancini A, et al.: Is there more to complicated grief than depression and posttraumatic stress disorder? A test of incremental validity. J Abnorm Psychol 116 (2): 342-51, 2007. [PUBMED Abstract]\n- Casarett D, Kutner JS, Abrahm J, et al.: Life after death: a practical approach to grief and bereavement. Ann Intern Med 134 (3): 208-15, 2001. [PUBMED Abstract]\n- Knott JE, Wild E: Anticipatory grief and reinvestment. In: Rando TA, ed.: Loss and Anticipatory Grief. Lexington Books, 1986, pp 55-60.\n- Johnson J, Lodhi MK, Cheema U, et al.: Outcomes for End-of-Life Patients with Anticipatory Grieving: Insights from Practice with Standardized Nursing Terminologies within an Interoperable Internet-based Electronic Health Record. J Hosp Palliat Nurs 19 (3): 223-231, 2017. [PUBMED Abstract]\n- Vergo MT, Whyman J, Li Z, et al.: Assessing Preparatory Grief in Advanced Cancer Patients as an Independent Predictor of Distress in an American Population. J Palliat Med 20 (1): 48-52, 2017. [PUBMED Abstract]\n- Corr CA, Nabe CM, Corr DM: Death and Dying, Life and Living. 2nd ed. Brooks/Cole Publishing Company, 1997.\n- Dionne-Odom JN, Azuero A, Lyons KD, et al.: Family Caregiver Depressive Symptom and Grief Outcomes From the ENABLE III Randomized Controlled Trial. J Pain Symptom Manage 52 (3): 378-85, 2016. [PUBMED Abstract]\n- Glick IO, Weiss RS, Parkes CM: The First Year of Bereavement. Wiley-Interscience Publication, 1974.\n- Parkes CM, Weiss RS: Recovery from Bereavement. Basic Books, 1983.\n- Burke LA, Clark KA, Ali KS, et al.: Risk Factors for Anticipatory Grief in Family Members of Terminally Ill Veterans Receiving Palliative Care Services. J Soc Work End Life Palliat Care 11 (3-4): 244-66, 2015. [PUBMED Abstract]\n- Davis EL, Deane FP, Lyons GCB, et al.: Is Higher Acceptance Associated With Less Anticipatory Grief Among Patients in Palliative Care? J Pain Symptom Manage 54 (1): 120-125, 2017. [PUBMED Abstract]\n- Snaman JM, Chen L, Mazzola E, et al.: Family characteristics and childcare patterns associated with early social functioning in cancer-bereaved parents. Cancer 130 (16): 2822-2833, 2024. [PUBMED Abstract]\n- Prigerson HG, Maciejewski PK: Rebuilding Consensus on Valid Criteria for Disordered Grief. JAMA Psychiatry 74 (5): 435-436, 2017. [PUBMED Abstract]\n- Bowlby J: Attachment and Loss. Volume III: Loss: Sadness and Depression. Basic Books, Inc., 1980.\n- Parkes CM: Bereavement: Studies of Grief in Adult Life. International Universities Press, Inc., 1972.\n- Rando TA: The increasing prevalence of complicated mourning: the onslaught is just beginning. Omega (Westport) 26 (1): 43-59, 1992-1993.\n- Worden JW: Grief Counseling and Grief Therapy: A Handbook for the Mental Health Practitioner. Springer Publishing Company, Inc., 1982.\n- Kubler-Ross E: On Death and Dying. Macmillan Publishing Company Inc.,1969.\n- Stroebe M, Schut H, Boerner K: Cautioning Health-Care Professionals. Omega (Westport) 74 (4): 455-473, 2017. [PUBMED Abstract]\n- Kübler-Ross E, Kessler D: On Grief and Grieving: Finding the Meaning of Grief Through the Five Stages of Loss. Scribner, 2005.\n- Bowlby J: Processes of mourning. Int J Psychoanal 42: 317-40, 1961.\n- Parkes CM: Bereavement: Studies of Grief in Adult Life. 2nd ed. International Universities Press Inc., 1987.\n- Bowlby J: Attachment and Loss. vols. 1-3. Basic Books, Inc., 1969-1980.\n- Worden JW: Tasks and mediators of mourning: a guideline for the mental health practitioner. In Session: Psychotherapy in Practice 2 (4): 73-80, 1996.\n- Worden JW: Grief Counseling and Grief Therapy: A Handbook for the Mental Health Practitioner. 4th ed. Springer Publishing Company, LLC, 2009.\n- American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders: DSM-5. 5th ed. American Psychiatric Association, 2013.\n- Bonanno GA, Boerner K: The stage theory of grief. JAMA 297 (24): 2693; author reply 2693-4, 2007. [PUBMED Abstract]\n- PARKES CM: BEREAVEMENT AND MENTAL ILLNESS. 2. A CLASSIFICATION OF BEREAVEMENT REACTIONS. Br J Med Psychol 38: 13-26, 1965. [PUBMED Abstract]\n- Dodd P, Dowling S, Hollins S: A review of the emotional, psychiatric and behavioural responses to bereavement in people with intellectual disabilities. J Intellect Disabil Res 49 (Pt 7): 537-43, 2005. [PUBMED Abstract]\n- Maciejewski PK, Maercker A, Boelen PA, et al.: \"Prolonged grief disorder\" and \"persistent complex bereavement disorder\", but not \"complicated grief\", are one and the same diagnostic entity: an analysis of data from the Yale Bereavement Study. World Psychiatry 15 (3): 266-275, 2016. [PUBMED Abstract]\n- Shear MK, Reynolds CF, Simon NM, et al.: Optimizing Treatment of Complicated Grief: A Randomized Clinical Trial. JAMA Psychiatry 73 (7): 685-94, 2016. [PUBMED Abstract]\n- Robinaugh DJ, LeBlanc NJ, Vuletich HA, et al.: Network analysis of persistent complex bereavement disorder in conjugally bereaved adults. J Abnorm Psychol 123 (3): 510-22, 2014. [PUBMED Abstract]\n- Prigerson HG, Horowitz MJ, Jacobs SC, et al.: Prolonged grief disorder: Psychometric validation of criteria proposed for DSM-V and ICD-11. PLoS Med 6 (8): e1000121, 2009. [PUBMED Abstract]\n- Prigerson HG, Jacobs SC: Perspectives on care at the close of life. Caring for bereaved patients: \"all the doctors just suddenly go\". JAMA 286 (11): 1369-76, 2001. [PUBMED Abstract]\n- Otani H, Yoshida S, Morita T, et al.: Meaningful Communication Before Death, but Not Present at the Time of Death Itself, Is Associated With Better Outcomes on Measures of Depression and Complicated Grief Among Bereaved Family Members of Cancer Patients. J Pain Symptom Manage 54 (3): 273-279, 2017. [PUBMED Abstract]\n- Neria Y, Gross R, Litz B, et al.: Prevalence and psychological correlates of complicated grief among bereaved adults 2.5-3.5 years after September 11th attacks. J Trauma Stress 20 (3): 251-62, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Risk Factors for Complicated Grief and Other Negative Bereavement Outcomes",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Risk Factors for Complicated Grief and Other Negative Bereavement Outcomes"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "One study [ 1 ] of 248 caregivers of terminally ill cancer patients investigated the presence of predeath complicated grief and its correlates. Results revealed the following variables associated with higher levels of predeath complicated grief:\n- Age younger than 60 years.\n- Lack of perceived available social support.\n- History of depression and current depression.\n- Lower income.\n- Pessimistic thinking.\n- Severity of stressful life events.\nOf these correlates, pessimistic thinking and severity of stressful life events were independent predictors of predeath complicated grief.\nOther research has focused on predictors of outcomes such as symptoms of depression and overall negative health consequences. Three categories of variables have been investigated:\n- Situational (e.g., circumstances of the death).\n- Personal (e.g., personality characteristics, gender).\n- Interpersonal context (e.g., social support, kinship).\nMost research has focused on spousal/partner loss and is not uniquely focused on death via cancer."
+        },
+        {
+          "section": "Situational: Expected or Unexpected Death",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Risk Factors for Complicated Grief and Other Negative Bereavement Outcomes",
+            "Situational: Expected or Unexpected Death"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Although theory suggests that a sudden, unexpected loss should lead to more difficult grief, empirical findings have been mixed.[ 2 ] The impact of an unexpected loss seems to be moderated by self-esteem and perceived control: Bereaved persons with low self-esteem and/or a sense that life is uncontrollable seem to suffer more depression and somatic complaints after an unexpected death than do bereaved persons with higher self-esteem and/or a sense of control.[ 2 ]"
+        },
+        {
+          "section": "Personal: Personality Characteristics",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Risk Factors for Complicated Grief and Other Negative Bereavement Outcomes",
+            "Personal: Personality Characteristics"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Attachment theory [ 3 ] has suggested that the nature of one’s earliest attachments (typically with parents) predicts how one would react to loss. Bereaved persons with secure attachment styles would be least likely to experience complicated grief, while those with either insecure styles or anxious-ambivalent styles would be most likely to experience negative outcomes.[ 4 ]\nIn a study of 59 caregivers of terminally ill spouses, the nature of their attachment styles and marital quality were evaluated. Results showed that caregivers with insecure attachment styles or in marriages that were “security increasing” were more likely to experience symptoms of complicated grief.[ 5 ] Persons with a tendency toward “ruminative coping,” a pattern of excessively focusing on one’s symptoms of distress, have also been shown to experience extended depression after a loss.[ 6 ]"
+        },
+        {
+          "section": "Personal: Religious Beliefs",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Risk Factors for Complicated Grief and Other Negative Bereavement Outcomes",
+            "Personal: Religious Beliefs"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Theory has proposed that strong religious beliefs and participation in religious activities could provide a buffer to the distress of loss, via two different mechanisms:\n- A belief system that helps one cope with death.\n- A network of social support that comes with religious participation.\nHowever, empirical results about the benefits of religion in coping with death tend to be mixed, some showing positive benefit and others showing no benefit or even greater distress among the religious.[ 7 ] Studies that show a positive benefit of religion tend to measure religious participation as regular church attendance and find that the benefit of participation tends to be associated with an increased level of social support. Thus it appears that religious participation via regular church attendance and the resulting increase in social support may be the mechanisms by which religion is associated with positive grief outcomes."
+        },
+        {
+          "section": "Personal: Gender",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Risk Factors for Complicated Grief and Other Negative Bereavement Outcomes",
+            "Personal: Gender"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In general, men experience more negative consequences than women do after losing a spouse. Mortality rates of bereaved men and women are higher for both men and women compared to nonbereaved people; however, the relative increase in mortality is higher for men than for women. Men also tend to experience greater degrees of depression and greater degrees of overall negative health consequences than do women after a spouse’s death.[ 2 ] Some researchers have suggested that the mechanism for this difference is the lower level of social support provided to bereaved men than that provided to bereaved women."
+        },
+        {
+          "section": "Personal: Age",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Risk Factors for Complicated Grief and Other Negative Bereavement Outcomes",
+            "Personal: Age"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In general, younger bereaved persons experience more difficulties after a loss than do older bereaved persons. These difficulties include more severe health consequences, grief symptoms, and psychological and physical symptoms,[ 2 ] perhaps because younger bereaved persons are more likely to have experienced unexpected and sudden loss. However, it is also thought that younger bereaved persons may experience more difficulties during the initial period after the loss but may recover more quickly because they have more access to various types of resources (e.g., social support) than do older bereaved persons.[ 2 ]"
+        },
+        {
+          "section": "Interpersonal Context: Social Support",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Risk Factors for Complicated Grief and Other Negative Bereavement Outcomes",
+            "Interpersonal Context: Social Support"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Social support is a highly complex construct, consisting of a variety of components (perceived availability, social networks, supportive climate/environment, support seeking) and measured in a variety of ways. However, as mentioned above, lack of social support is a risk factor for negative bereavement outcomes: It is both a general risk factor for negative health outcomes and a bereavement-specific risk factor for negative outcomes after loss.[ 2 ] For example, after the death of a close family member (e.g., spouse), many persons report a number of related losses (often unanticipated) such as the loss of income, lifestyle, and daily routine—all important aspects of social support."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Risk Factors for Complicated Grief and Other Negative Bereavement Outcomes",
+            "Interpersonal Context: Social Support",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Tomarken A, Holland J, Schachter S, et al.: Factors of complicated grief pre-death in caregivers of cancer patients. Psychooncology 17 (2): 105-11, 2008. [PUBMED Abstract]\n- Stroebe W, Schut H: Risk factors in bereavement outcome: a methodological and empirical review. In: Stroebe MS, Hansson RO, Stroebe W, et al., eds.: Handbook of Bereavement Research: Consequences, Coping, and Care. American Psychological Association, 2001, 349-71.\n- Bowlby J: Attachment and Loss. Volume III: Loss: Sadness and Depression. Basic Books, Inc., 1980.\n- Parkes CM, Weiss RS: Recovery from Bereavement. Basic Books, 1983.\n- van Doorn C, Kasl SV, Beery LC, et al.: The influence of marital quality and attachment styles on traumatic grief and depressive symptoms. J Nerv Ment Dis 186 (9): 566-73, 1998. [PUBMED Abstract]\n- Nolen-Hoeksema S, McBride A, Larson J: Rumination and psychological distress among bereaved partners. J Pers Soc Psychol 72 (4): 855-62, 1997. [PUBMED Abstract]\n- Shuchter SR, Zisook S: The course of normal grief. In: Stroebe MS, Stroebe W, Hansson RO, eds.: Handbook of Bereavement: Theory, Research, and Intervention. Cambridge University Press, 1993, pp 23-43."
+        },
+        {
+          "section": "Grief Experiences in Medical Providers",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Grief Experiences in Medical Providers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 27,
+          "text": "Relatively few studies examining grief focus specifically on oncology professionals. Twenty Canadian oncologists were interviewed at different stages in their careers in an empirical study of the impact of grief.[ 1 ] The researchers found that oncologists’ grief was uniquely influenced by their responsibility for their patients and, in addition to sadness, included feelings of powerlessness, self-doubt, guilt, and failure. Oncologists described a coping strategy of compartmentalization as well as negative consequences, including effects on treatment decisions and emotional and physical withdrawal from patients. Relational factors associated with a difficult patient loss included:\n- Long-term and close relationships with the patients and families.\n- Identification with the patient.\n- Young patient age.\n- Unexpected deaths.\nContextual factors included:\n- Unprepared patients and families.\n- Unrealistic expectations.\n- Excessive treatments.\n- Blame by the patient or family or self-blame.\n- Chaotic/high-needs families.\nCultural issues included stigma around death and dying, perceived weakness of showing affects, and focus on cure.\nA study of Israeli oncologists reported similar findings, but with more attention on close relationships with patients’ families and the impact of the patients’ deaths on children.[ 2 ] On the positive side, oncologists have reported that patient deaths have given them a better perspective on life, including what is important to them, and motivation to improve patient care (e.g., limiting excessive treatments at the end of life).[ 3 ]\nBoth male and female physicians in the Canadian study cited above felt that acknowledgment and expression of grief was more culturally acceptable for female physicians than for male physicians,[ 4 ] a finding that was also seen in another study.[ 5 ] A study examining the effects of gender on grief reactions and burnout among oncologists showed that female oncologists reported more grief and emotional distress in response to patient deaths.[ 6 ] Higher levels of grief were associated with greater levels of distress in both men and women who reported high levels of burnout, but this association was also seen at moderate levels of burnout for men, suggesting that men with burnout may be more vulnerable than women to grief and distress.\nAnother study of Canadian oncologists reported that a number of strategies were used to cope with patient death, including the following:[ 7 ]\n- Talking or spending time with friends and family.\n- Talking with colleagues.\n- Hobbies.\n- Exercise.\n- Outdoor recreation.\n- Research.\n- Religion.\n- Avoiding thoughts about the patient outside of work.\nBarriers identified for oncologists in coping with patient deaths include:[ 5 ]\n- Challenges in accessing family and professional social support.\n- Difficulty for men in expressing emotion.\n- Difficulty in maintaining emotional boundaries."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Grief Experiences in Medical Providers",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Granek L, Tozer R, Mazzotta P, et al.: Nature and impact of grief over patient loss on oncologists' personal and professional lives. Arch Intern Med 172 (12): 964-6, 2012. [PUBMED Abstract]\n- Granek L, Ben-David M, Shapira S, et al.: Grief symptoms and difficult patient loss for oncologists in response to patient death. Psychooncology 26 (7): 960-966, 2017. [PUBMED Abstract]\n- Granek L, Ariad S, Nakash O, et al.: Mixed-Methods Study of the Impact of Chronic Patient Death on Oncologists' Personal and Professional Lives. J Oncol Pract 13 (1): e1-e10, 2017. [PUBMED Abstract]\n- Granek L, Krzyzanowska MK, Tozer R, et al.: Difficult patient loss and physician culture for oncologists grieving patient loss. J Palliat Med 15 (11): 1254-60, 2012. [PUBMED Abstract]\n- Granek L, Ariad S, Shapira S, et al.: Barriers and facilitators in coping with patient death in clinical oncology. Support Care Cancer 24 (10): 4219-27, 2016. [PUBMED Abstract]\n- Granek L, Krzyzanowska MK, Nakash O, et al.: Gender differences in the effect of grief reactions and burnout on emotional distress among clinical oncologists. Cancer 122 (23): 3705-3714, 2016. [PUBMED Abstract]\n- Granek L, Barbera L, Nakash O, et al.: Experiences of Canadian oncologists with difficult patient deaths and coping strategies used. Curr Oncol 24 (4): e277-e284, 2017. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Treatment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The following information concerns treatment of grief after the death of a loved one, not necessarily death as a result of cancer."
+        },
+        {
+          "section": "Normal or Common Grief Reactions",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Treatment",
+            "Normal or Common Grief Reactions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "Some controversy continues about whether normal or common grief reactions require any intervention by medical or mental health professionals. Researchers disagree about whether credible evidence on the efficacy of grief counseling exists.[ 1 - 4 ] Most bereaved persons experience painful and often very distressing emotional, physical, and social reactions; however, most researchers agree that most bereaved persons adapt over time, typically within the first 6 months to 2 years. Thus, the question is whether it is wise to devote professional time to interventions for normal grief when resources are limited and the need for accountability is great.\nOne approach is to use a spectrum of interventions, from prevention to treatment to long-term maintenance care.[ 5 ] In this model, preventive interventions could be one of the following:\n- Universal and targeted to all persons in the population.\n- Selective and targeted to persons with known risk factors.\n- Indicated for persons experiencing significant symptom distress.\nIn contrast, formal treatment of bereaved persons would be reserved for those identified as experiencing complicated or pathologic grief reactions. Finally, longer-term maintenance care may be warranted for persons experiencing chronic grief reactions.\nAnother approach has focused on families.[ 6 , 7 ] This brief, time-limited approach (four to eight 90-minute sessions over 9 to 18 months) identifies families at increased risk for poor outcomes and intervenes, with emphasis on improving family cohesion, communication, and conflict resolution. Adaptive coping, with efforts to strengthen family solidarity, and frequent affirmation of family strengths are emphasized.\nIn a randomized controlled trial,[ 8 ][ Level of evidence: I ] 183 (71%) of 257 families screened were identified as at risk for poor outcomes; 81 (44%) of these at-risk families participated in the trial. Family functioning was classified into one of five groups:\n- Two functional groups:\n- Supportive families.\n- Conflict-resolving families.\n- Three potentially dysfunctional groups:\n- Sullen families.\n- Hostile families.\n- Intermediate-functioning families.\nParticipants classified as hostile (n = 19), sullen (n = 21), or intermediate (n = 41) were randomly assigned to either the treatment group or a no-treatment control group.[ 8 ]\nResults showed modest reductions in distress at 13 months postdeath for all participants, with more significant reductions in distress and depression in family members who had initially higher baseline scores on the Brief Symptom Inventory and Beck Depression Inventory.[ 8 ] Overall, global family functioning did not change, yet participants classified as sullen or intermediate showed more improvement than did those classified as hostile. Results recommend caution in dealing with hostile families to avoid increasing intrafamily conflict.[ 8 ]"
+        },
+        {
+          "section": "Psychosocial Treatment of Complicated Grief",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Treatment",
+            "Psychosocial Treatment of Complicated Grief"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "With the development of proposed diagnostic criteria for complicated grief (i.e., prolonged grief disorder), targeted interventions have been tested in several randomized controlled trials. These studies are of interventions for bereaved persons whose loved ones died from mixed (not necessarily cancer-related) causes.\nComplicated grief is characterized by maladaptive thoughts and behaviors. Psychosocial interventions focus on these aspects of complicated grief and use cognitive-behavioral strategies to directly impact grief-related thoughts and behaviors. Such grief-focused interventions are adaptations of cognitive-behavioral therapy (CBT) and incorporate strategies such as exposure therapy and cognitive restructuring [ 9 ][ Level of evidence: II ]; [ 10 ] or integration of certain aspects of interpretive therapy [ 11 , 12 ] or interpersonal therapy [ 13 ][ Level of evidence: I ] in the CBT sessions.\nTable 1 describes the interventions that have shown promise in randomized controlled trials. The interventions are adaptations of CBT but are specifically designed to treat complicated grief. These interventions include individual therapy, group therapy, and therapy sessions delivered via the Internet. Participants in these studies met criteria for complicated grief. Control conditions included active controls (such as interpersonal therapy or supportive counseling) or wait-list controls with delayed treatment.\nReference Citation | Intervention | Control | Sample | Mean Age (y) | Primary Outcome Measure | Results\nCBT = cognitive behavioral therapy; CGI = Clinical Global Impression; CGT = complicated grief treatment; CR = cognitive restructuring; ET = exposure therapy; ICG= Inventory of Complicated Grief; IES = Impact of Event Scale; IPT = interpersonal psychotherapy; PG-13 = prolonged grief–13; PG-CBT = integrative cognitive behavioral therapy for prolonged grief; SC = supportive counseling; TRIG = Texas Revised Inventory of Grief.\nShear et al., 2014 [ 14 ] | Individual therapy; CGT: CBT + elements of IPT; 16 wkly manual-based sessions | IPT; 16 wkly sessions | N = 151, older patients only (age ≥60 y) | 66.1 | CGI scale | Response rate of CGT group (70.5%) was more than twice that of IPT group (32.0%).\nShear et al., 2005 [ 13 ] | Individual therapy; CGT: CBT + elements of IPT; 16 wkly manual-based sessions | IPT; 16 wkly sessions | N = 102 | 48 | CGI scale | Response rate of CGT group (51%) was twice that of IPT group (27%).\nBoelen et al., 2007 [ 9 ] | Individual therapy; CBT + elements of ET, and CBT + elements of CR; 12 wkly manual-based sessions | SC; 12 wkly sessions | N = 54 | 44 | ICG scale | Both CBT groups (ET and CR) showed better response than SC group. ET was better than CR.\nRosner et al., 2014 [ 15 ] | Individual therapy; PG-CBT: CBT + psychoeducation on prolonged grief + elements of ET; 20–25 wkly manual-based sessions | Wait list (delayed treatment) | N = 51 | 47.5 | PG-13 scale | For grief and other outcomes, PG-CBT group showed significant improvement compared with control group.\nPiper et al., 2007 [ 12 ] | Group therapy; time-limited, short-term interpretive therapy focused on enhancing patient insights about conflicts and trauma associated with loss | Group therapy; supportive, short-term | N = 135 | 45.2 | ICG, IES, and TRIG | Both groups showed improvement. Groups with higher percentage of patients with mature relationships showed better improvement.\nWagner et al., 2006 [ 16 ] | Internet-based CBT + elements of exposure to bereavement cues and CR; 5-wk intervention with 2 wkly sessions | Wait list (delayed treatment) | N = 55 | 37 | IES and failure-to-adapt scale | Significant improvement for all outcomes in Internet-based CBT group compared with control group, at end of treatment and 3 mo posttreatment."
+        },
+        {
+          "section": "Pharmacological Treatment of Bereavement-Related Depression",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Treatment",
+            "Pharmacological Treatment of Bereavement-Related Depression"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "The clinical decision on whether to provide pharmacological treatment for depressive symptoms in the context of bereavement is controversial and not extensively studied. Some health care professionals argue that distinguishing the sadness and distress of normal grief from the sadness and distress of depression is difficult, and pharmacological treatment of a normal emotional process is not warranted. However, three open-label trials and two randomized controlled trials have demonstrated that antidepressant treatment can improve depression symptomatology associated with bereavement (see Table 2 ).\nThe open-label trials evaluated desipramine,[ 17 ] nortriptyline,[ 18 ] and bupropion sustained release in patients experiencing grief with depression symptoms after the deaths of their loved ones.[ 19 ][ Level of evidence: II ]\nData from these studies suggest that antidepressants are well tolerated and improve symptoms of depression with limited impact on grief intensity. The intensity of grief improved in these studies, but it was substantially less compared to improvement in depression symptoms. Limitations of these studies include open-label treatment and small sample sizes.\nTwo randomized controlled trials investigated combined treatment—antidepressant treatment combined with grief-directed psychotherapy—in bereaved individuals with comorbid depression symptoms.[ 20 ][ Level of evidence: I ]; [ 21 ] These studies compared the combined treatment with antidepressant alone, placebo alone, and psychotherapy with placebo. Both trials showed that the combined treatment had the best overall outcomes compared with all other groups (see Table 2 ).\nOne randomized controlled study [ 20 ][ Level of evidence: I ] compared nortriptyline with placebo for the treatment of bereavement-related major depressive episodes. Nortriptyline was compared with two other treatments, one combining nortriptyline with interpersonal psychotherapy (IPT) and the other combining placebo with IPT. Eighty subjects, aged 50 years or older, were randomly assigned to one of the four treatment groups: nortriptyline (n = 25), placebo (n = 22), nortriptyline plus IPT (n = 16), and placebo plus IPT (n = 17).\nThe 17-item Hamilton Depression Rating Scale (HDRS) was used to assess depressive symptoms. Remission was defined as a score of 7 or lower for 3 consecutive weeks. The remission rates for the four groups were as follows: nortriptyline alone, 56%; placebo alone, 45%; nortriptyline plus IPT, 69%; placebo plus IPT, 29%. Nortriptyline was superior to placebo in achieving remission ( P < .03).[ 20 ]\nThe combination of nortriptyline with IPT was associated with the highest remission rate and highest rate of treatment completion. The study did not show a difference between IPT and placebo, possibly owing to specific aspects of the study design, including short duration of IPT (mean no. of days, 49.5) and small sample size.[ 20 ] The high remission rate with placebo was another important limitation of the study. Consistent with previous open-label studies and for all four groups, improvement in grief intensity was less than improvement in depressive symptoms.\nAnother randomized controlled study (N = 395) enrolled patients with complicated grief and investigated the antidepressant citalopram and complicated grief treatment (CGT) to treat grief intensity and comorbid depression symptoms.[ 21 ] Four treatment groups were compared: citalopram alone (n = 101), placebo alone (n = 99), citalopram with CGT (n = 99), and CGT with placebo (n = 96). All participants received pharmacotherapy following a specific protocol, and participants in the CGT groups received manual-based CGT in 16 concurrent weekly sessions. The primary outcome measure was a complicated grief–anchored Clinical Global Impression (CGI) scale. Depressive symptomatology was measured using the Quick Inventory of Depressive Symptomatology–Self-Report (QIDS-SR) questionnaire.\nGrief-intensity responses for the four groups were as follows: placebo alone, 54.8%; citalopram alone, 69.3%; CGT plus placebo, 82.5%; and citalopram plus CGT, 83.7%. Participants’ response in the CGT-plus-placebo group was substantially better than that in the placebo-alone group (82.5% vs. 54.8%), showing the efficacy of CGT as a treatment for complicated grief. The addition of citalopram to CGT did not significantly improve grief outcomes (citalopram plus CGT vs. CGT plus placebo, 83.7% vs. 82.5%). However, the addition of citalopram to CGT led to a significant decrease in comorbid depression symptoms compared to the CGT-plus-placebo group. Notably, adding CGT to citalopram substantially improved grief-intensity outcomes (citalopram plus CGT vs. citalopram alone, 83.7% vs. 69.3%), suggesting the importance of CGT as the primary treatment for the complicated grief process.[ 21 ]\nIn summary, the antidepressant studies conducted to date suggest that combining antidepressant treatment with grief-directed therapy is necessary, especially for patients struggling with complicated grief with comorbid depressive symptomatology. Antidepressants alone have a limited impact on grief intensity but are critical to reduce depressive symptomatology. Combining antidepressants with grief-directed therapy improves both depression symptoms and grief intensity.\nReference Citation | Intervention | Subjects | Age (y) | Treatment Groups | Results\nCGT = complicated grief treatment; CIT = citalopram; IPT = interpersonal psychotherapy; NTP = nortriptyline; PLA = placebo.\na See text for details.\nReynolds et al., 1999 [ 20 ] a | NTP and IPT | 58 women, 22 men | Mean range for 4 groups, 63.2–69.5 | NTP alone vs. PLA alone vs. NTP+IPT vs. PLA+IPT | NTP+IPT group had highest remission rate and lowest attrition rate.\nShear et al., 2016 [ 21 ] a | CIT and CGT | 308 women, 87 men | Mean range for 4 groups, 52.1–53.9 | CIT alone vs. PLA alone vs. CIT+CGT vs. CGT+PLA | CIT+CGT group had highest response rate. Addition of CIT to CGT had minimal further impact on grief intensity but led to statistically significant reduction in depression."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Treatment",
+            "Pharmacological Treatment of Bereavement-Related Depression",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "- Larson DG, Hoyt WT: What has become of grief counseling? An evaluation of the empirical foundations of the new pessimism. Prof Psychol Res Pr 38 (4): 347-55, 2007.\n- Bonanno GA, Lilienfeld SO: Let's be realistic: when grief counseling is effective and when it's not. Prof Psychol Res Pr 39 (3): 377-8, 2008.\n- Hoyt WT, Larson DG: A realistic approach to drawing conclusions from the scientific literature: response to Bonanno and Lilienfeld. Prof Psychol Res Pr 39 (3): 378-9, 2008.\n- Jordan JR, Neimeyer RA: Does grief counseling work? Death Stud 27 (9): 765-86, 2003. [PUBMED Abstract]\n- Mrazek PJ, Haggerty RJ, eds.: Reducing Risks for Mental Disorders: Frontiers for Preventive Intervention Research. National Academy Press, 1994.\n- Kissane DW, Lichtenthal WG: Family focused grief therapy: from palliative care into bereavement. In: Stroebe MS, Hansson RO, Schut H, et al., eds.: Handbook of Bereavement Research and Practice: Advances in Theory and Intervention. American Psychological Association, 2008, pp 485-510.\n- Kissane DW, Bloch S: Family Focused Grief Therapy: A Model of Family-Centered Care During Palliative Care and Bereavement. Open University Press, 2002.\n- Kissane DW, McKenzie M, Bloch S, et al.: Family focused grief therapy: a randomized, controlled trial in palliative care and bereavement. Am J Psychiatry 163 (7): 1208-18, 2006. [PUBMED Abstract]\n- Boelen PA, de Keijser J, van den Hout MA, et al.: Treatment of complicated grief: a comparison between cognitive-behavioral therapy and supportive counseling. J Consult Clin Psychol 75 (2): 277-84, 2007. [PUBMED Abstract]\n- Rosner R, Pfoh G, Kotoučová M: Treatment of complicated grief. Eur J Psychotraumatol 2: , 2011. [PUBMED Abstract]\n- Piper WE, McCallum M, Joyce AS, et al.: Patient personality and time-limited group psychotherapy for complicated grief. Int J Group Psychother 51 (4): 525-52, 2001. [PUBMED Abstract]\n- Piper WE, Ogrodniczuk JS, Joyce AS, et al.: Group composition and group therapy for complicated grief. J Consult Clin Psychol 75 (1): 116-25, 2007. [PUBMED Abstract]\n- Shear K, Frank E, Houck PR, et al.: Treatment of complicated grief: a randomized controlled trial. JAMA 293 (21): 2601-8, 2005. [PUBMED Abstract]\n- Shear MK, Wang Y, Skritskaya N, et al.: Treatment of complicated grief in elderly persons: a randomized clinical trial. JAMA Psychiatry 71 (11): 1287-95, 2014. [PUBMED Abstract]\n- Rosner R, Pfoh G, Kotoučová M, et al.: Efficacy of an outpatient treatment for prolonged grief disorder: a randomized controlled clinical trial. J Affect Disord 167: 56-63, 2014. [PUBMED Abstract]\n- Wagner B, Knaevelsrud C, Maercker A: Internet-based cognitive-behavioral therapy for complicated grief: a randomized controlled trial. Death Stud 30 (5): 429-53, 2006. [PUBMED Abstract]\n- Jacobs SC, Nelson JC, Zisook S: Treating depressions of bereavement with antidepressants. A pilot study. Psychiatr Clin North Am 10 (3): 501-10, 1987. [PUBMED Abstract]\n- Pasternak RE, Reynolds CF, Schlernitzauer M, et al.: Acute open-trial nortriptyline therapy of bereavement-related depression in late life. J Clin Psychiatry 52 (7): 307-10, 1991. [PUBMED Abstract]\n- Zisook S, Shuchter SR, Pedrelli P, et al.: Bupropion sustained release for bereavement: results of an open trial. J Clin Psychiatry 62 (4): 227-30, 2001. [PUBMED Abstract]\n- Reynolds CF, Miller MD, Pasternak RE, et al.: Treatment of bereavement-related major depressive episodes in later life: a controlled study of acute and continuation treatment with nortriptyline and interpersonal psychotherapy. Am J Psychiatry 156 (2): 202-8, 1999. [PUBMED Abstract]\n- Shear MK, Reynolds CF, Simon NM, et al.: Optimizing Treatment of Complicated Grief: A Randomized Clinical Trial. JAMA Psychiatry 73 (7): 685-94, 2016. [PUBMED Abstract]"
+        },
+        {
+          "section": "Children and Grief",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "At one time, children were considered miniature adults, and their behaviors were expected to be modeled as such.[ 1 ] Today there is a greater awareness of developmental differences between childhood and other developmental stages in the human life cycle. Differences between the grieving process for children and the grieving process for adults are recognized. It is now believed that the real issue for grieving children is not whether they grieve, but how they exhibit their grief and mourning.[ 1 ]\nThe primary difference between bereaved adults and bereaved children is that intense emotional and behavioral expressions are not continuous in children. A child’s grief may appear more intermittent and briefer than that of an adult; in fact, a child’s grief usually lasts longer.[ 1 - 3 ]\nThe work of mourning in childhood needs to be addressed repeatedly at different developmental and chronological milestones. Because bereavement is a process that continues over time, children will revisit the loss repeatedly, especially during significant life events (e.g., going to camp, graduating from school, marrying, and experiencing the births of their own children). Children must complete the grieving process, eventually achieving resolution of grief.\nAlthough the experience of loss is unique and highly individualized, several factors can influence a child’s grief:[ 2 - 4 ]\n- Age.\n- Personality.\n- Stage of development.\n- Previous experiences with death.\n- Previous relationship with the deceased.\n- Environment.\n- Cause of death.\n- Patterns of interaction and communication within the family.\n- Stability of family life after the loss.\n- How the child’s needs for sustained care are met.\n- Availability of opportunities to share and express feelings and memories.\n- Parental styles of coping with stress.\n- Availability of consistent relationships with other adults.\nChildren do not react to loss like adults do and may not display their feelings as openly as adults do. In addition to verbal communication, grieving children may employ play, drama, art, school work, and stories.[ 5 ] Bereaved children may not withdraw into preoccupation with thoughts of the deceased person; they often immerse themselves in activities (e.g., they may be sad one minute and then playing outside with friends the next). Families often incorrectly interpret this behavior to mean the child does not really understand or has already gotten over the death. Neither assumption may be true; children’s minds protect them from thoughts and feelings that are too powerful for them to handle.\nGrief reactions are intermittent because children cannot explore all of their thoughts and feelings as rationally as adults can. Additionally, children often have difficulty articulating their feelings about grief. A grieving child’s behavior may speak louder than any words he or she could speak. Strong feelings of anger and fear of abandonment or death may be evident in the behaviors of grieving children. Children often play death games as a way of working out their feelings and anxieties in a relatively safe setting. These games are familiar to the children and provide safe opportunities to express their feelings.[ 1 , 2 ]"
+        },
+        {
+          "section": "Grief and Developmental Stages",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief",
+            "Grief and Developmental Stages"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A child’s understanding of death and the events surrounding it depends on the child’s age and developmental stage (see Table 3 )."
+        },
+        {
+          "section": "Infants",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief",
+            "Grief and Developmental Stages",
+            "Infants"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Although infants do not recognize death, feelings of loss and separation are part of a developing awareness of death. Children who have been separated from their mothers and deprived of nurturing can exhibit changes such as listlessness, quietness, unresponsiveness to a smile or a coo, physical changes (including weight loss), and a decrease in activity and lack of sleep.[ 6 ]"
+        },
+        {
+          "section": "Ages 2 to 3 years",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief",
+            "Grief and Developmental Stages",
+            "Ages 2 to 3 years"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In this age range, children often confuse death with sleep and can experience anxiety. In the early phases of grief, bereaved children can exhibit loss of speech and generalized distress.[ 3 , 6 ]"
+        },
+        {
+          "section": "Ages 3 to 6 years",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief",
+            "Grief and Developmental Stages",
+            "Ages 3 to 6 years"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In this age range, children view death as a kind of sleep: the person is alive, but in some limited way. They do not fully separate death from life and may believe that the deceased continues to live (for instance, in the ground where he or she was buried), and they often ask questions about the activities of the deceased person (e.g., how is the deceased eating, going to the toilet, breathing, or playing?). Young children can acknowledge physical death but consider it a temporary or gradual event, reversible and not final (like leaving and returning, or a game of peek-a-boo). A child’s concept of death may involve magical thinking, i.e., the idea that his or her thoughts can cause actions. Children may feel that they must have done or thought something bad to cause a loved one to become ill or that a loved one’s death occurred because of the child’s personal thought or wish. In response to death, children younger than 5 years will often exhibit disturbances in eating, sleeping, and bladder or bowel control.[ 3 , 6 ]"
+        },
+        {
+          "section": "Ages 6 to 9 years",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief",
+            "Grief and Developmental Stages",
+            "Ages 6 to 9 years"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "It is not unusual for children in this age range to become very curious about death, asking very concrete questions about what happens to one’s body when it stops working. Death is personified as a separate person or spirit: a skeleton, ghost, angel of death, or bogeyman. Although death is perceived as final and frightening, it is not universal. Children in this age range begin to compromise, recognizing that death is final and real but mostly happens to older people (not to themselves). Grieving children can:\n- Develop school phobias, learning problems, and antisocial or aggressive behaviors.\n- Exhibit hypochondriacal concerns.\n- Withdraw from others.\nConversely, children in this age range can become overly attentive and clinging. Boys may show an increase in aggressive and destructive behavior (e.g., acting out in school), expressing their feelings in this way rather than by openly displaying sadness. When a parent dies, children may feel abandoned by both their deceased parent and their surviving parent because the surviving parent is frequently preoccupied with his or her own grief and is less able to emotionally support the child.[ 3 , 6 ]"
+        },
+        {
+          "section": "Ages 9 years and older",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief",
+            "Grief and Developmental Stages",
+            "Ages 9 years and older"
+          ],
+          "is_boilerplate": false,
+          "block_count": 27,
+          "text": "By the time a child is 9 years old, death is understood as inevitable and is no longer viewed as a punishment. By the time the child is 12 years old, death is viewed as final and universal.[ 3 , 6 ]\nAge (y) | Understanding of Death | Expressions of Grief\n0–2 | Is not yet able to understand death. | Quietness, crankiness, decreased activity, poor sleep, and weight loss.\nSeparation from mother causes changes.\n2–6 | Death is like sleeping. | Asks many questions (How does she go to the bathroom? How does he eat?).\nProblems in eating, sleeping, and bladder and bowel control.\nFear of abandonment.\nTantrums.\nDead person continues to live and function in some ways. | Magical thinking (Did I think something or do something that caused the death? Like when I said I hate you and I wish you would die?).\nDeath is temporary, not final.\nDead person can come back to life.\n6–9 | Death is thought of as a person or spirit (skeleton, ghost, or bogeyman). | Curious about death.\nAsks specific questions.\nMay have exaggerated fears about school.\nDeath is final and frightening. | May have aggressive behaviors (especially boys).\nSome concerns about imaginary illnesses.\nDeath happens to others; it will not happen to ME. | May feel abandoned.\n≥9 | Everyone will die. | Heightened emotions, guilt, anger, shame.\nIncreased anxiety over own death.\nMood swings.\nDeath is final and cannot be changed. | Fear of rejection; not wanting to be different from peers.\nEven I will die. | Changes in eating habits.\nSleeping problems.\nRegressive behaviors (loss of interest in outside activities).\nImpulsive behaviors.\nFeels guilty about being alive (especially related to death of a sibling or peer).\nIn American society, many grieving adults withdraw into themselves and limit communication. In contrast, children often talk to those around them (even strangers) as a way of watching for reactions and seeking clues to help guide their own responses. It is not uncommon for children to repeatedly ask baffling questions. For example, a child may ask, “I know Grandpa died, but when will he come home?” This is thought to be a way of testing reality for the child and confirming the story of the death."
+        },
+        {
+          "section": "Issues for grieving children",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief",
+            "Grief and Developmental Stages",
+            "Issues for grieving children"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "There are three prominent themes in the grief expressions of bereaved children:\n- Did I cause the death to happen?\n- Is it going to happen to me?\n- Who is going to take care of me?[ 2 , 7 ]\nDid I cause the death to happen?\nChildren often engage in magical thinking, believing they have magical powers. If a mother says in exasperation, “You’ll be the death of me,” and later dies, her child may wonder whether he or she actually caused the death. Likewise, when two siblings argue, it is not unusual for one to say (or think), “I wish you were dead.” If that sibling were to die, the surviving sibling might think that his or her thoughts or statements actually caused the death.\nIs it going to happen to me?\nThe death of a sibling or other child may be especially difficult because it strikes so close to the child’s own peer group. If the child also perceives that the death could have been prevented (by either a parent or doctor), the child may think that he or she could also die.\nWho is going to take care of me?\nBecause children depend on parents and other adults for their safety and welfare, a child who is grieving the death of an important person in his or her life might begin to wonder who will provide the care that he or she needs now that the person is gone."
+        },
+        {
+          "section": "Interventions for Grieving Children",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief",
+            "Interventions for Grieving Children"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "There are interventions that may help to facilitate and support the grieving process in children."
+        },
+        {
+          "section": "Explanation of death",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief",
+            "Interventions for Grieving Children",
+            "Explanation of death"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Silence about death (which indicates that the subject is taboo) does not help children deal with loss. When death is discussed with a child, explanations should be kept as simple and direct as possible. Each child needs to be told the truth with as much detail as can be comprehended at his or her age and stage of development. Questions should be addressed honestly and directly. Children need to be reassured about their own security (they frequently worry that they will also die or that their surviving parent will go away). A child’s questions should be answered, and the child’s processing of the information should be confirmed."
+        },
+        {
+          "section": "Correct language",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief",
+            "Interventions for Grieving Children",
+            "Correct language"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Although initiating this conversation with children is difficult, any discussion about death must include proper words (e.g., cancer, died, or death). Euphemisms (e.g., “he passed away,” “he is sleeping,” or “we lost him”) should never be used because they can confuse children and lead to misinterpretations.[ 3 , 8 ]"
+        },
+        {
+          "section": "Planning rituals",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief",
+            "Interventions for Grieving Children",
+            "Planning rituals"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "After a death occurs, children can and should be included in the planning of and participation in mourning rituals. As with bereaved adults, these rituals help children memorialize loved ones. Although children should never be forced to attend or participate in mourning rituals, their participation should be encouraged. Children can be encouraged to participate in aspects of the funeral or memorial service with which they feel comfortable. If the child wants to attend the funeral (or wake or memorial service), it is important that a full explanation of what to expect is given in advance. This preparation should include the layout of the room, who might be present (e.g., friends and family members), what the child will see (e.g., a casket and people crying), and what will happen. Surviving parents may be too involved in their own grief to give their children the attention they need. Therefore, it is often helpful to identify a familiar adult friend or family member who will be assigned to care for a grieving child during a funeral.[ 8 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Children and Grief",
+            "Interventions for Grieving Children",
+            "Planning rituals",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- O'Toole D, Cory J: Helping Children Grieve and Grow: a Guide for Those Who Care. Compassion Books, 1998.\n- Corr CA, Nabe CM, Corr DM: Death and Dying, Life and Living. 2nd ed. Brooks/Cole Publishing Company, 1997.\n- Fitzgerald H: The Grieving Child: A Parent's Guide. Fireside, 1992.\n- DeSpelder LA, Strickland AL: The Last Dance: Encountering Death and Dying. 4th ed. Mayfield Publishing Company, 1996.\n- Goldman A: ABC of palliative care. Special problems of children. BMJ 316 (7124): 49-52, 1998. [PUBMED Abstract]\n- Burnell GM, Burnell AL: Clinical Management of Bereavement: A Handbook for Healthcare Professionals. Human Sciences Press, Inc., 1989.\n- Worden JW: Children and Grief: When a Parent Dies. The Guilford Press, 1996.\n- Kastenbaum R: Death, Society, and Human Experience. Allyn and Bacon, 1995."
+        },
+        {
+          "section": "Cross-Cultural Responses to Grief and Mourning",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Cross-Cultural Responses to Grief and Mourning"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Grief—whether in response to the death of a loved one, to the loss of a treasured possession, or to a significant life change—is a universal occurrence that crosses all ages and cultures.[ 1 , 2 ] Attitudes, beliefs, and practices regarding death and grief are characterized and described according to the multicultural context, myth, mysteries, and mores that describe cross-cultural relationships.[ 2 ]\nIn a Japanese study, the concept of unfinished business with a family member resulted in higher depression and grief scores compared with those who felt there was no unfinished business with the patient at the time of his or her death.[ 3 ] Unfinished business can include insufficient discussions about death and end-of-life wishes because of discomfort with discussing such topics with the family member.[ 4 ]\nThe potential for contradiction between an individual’s intrapersonal experience of grief and his or her cultural expression of grief can be explained by the prevalent (though incorrect) synonymous use of the terms grief (the highly personalized process of experiencing reactions to perceived loss) and mourning (the socially or culturally defined behavioral displays of grief).[ 5 , 6 ]\nAn analysis of the results of several focus groups, each consisting of individuals from a specific culture, revealed that individual, intrapersonal experiences of grief are similar across cultural boundaries. This is true even considering the culturally distinct mourning rituals, traditions, and behavioral expressions of grief experienced by the participants. Health care professionals need to understand the part that may be played by cultural mourning practices in an individual’s overall grief experience if they are to provide culturally sensitive care to their patients.[ 1 ]\nIn spite of legislation, health regulations, customs, and work rules that have greatly influenced how death is managed in the United States, bereavement practices vary in profound ways depending on one’s cultural background. When assessing an individual’s response to the death of a loved one, clinicians should identify and appreciate what is expected or required by the person’s culture. Failing to carry out expected rituals can lead to an experience of unresolved loss for family members.[ 7 ] This is often a daunting task when health care professionals serve patients of many ethnicities.[ 2 ]\nHelping family members cope with the death of a loved one includes showing respect for the family’s cultural heritage and encouraging them to decide how to commemorate the death. Clinicians consider the following five questions particularly important to ask those who are coping with the emotional aftermath of the death of a loved one:\n- What are the culturally prescribed rituals for managing the dying process, the body of the deceased, the disposal of the body, and commemoration of the death?\n- What are the family’s beliefs about what happens after death?\n- What does the family consider an appropriate emotional expression and integration of the loss?\n- What does the family consider to be the gender rules for handling the death?\n- Do certain types of death carry a stigma (e.g., suicide), or are certain types of death especially traumatic for that cultural group (e.g., death of a child)?[ 8 ]\nDeath, grief, and mourning are universal and natural aspects of the life process. All cultures have evolved practices that best meet their needs for dealing with death. Hindering these practices can disrupt the necessary grieving process. Understanding these practices can help clinicians identify and develop ways to treat patients of other cultures who are demonstrating atypical grief.[ 9 ] Given ethnodemographic trends, health care professionals need to address these cultural differences to best serve these populations.[ 2 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Cross-Cultural Responses to Grief and Mourning",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Cowles KV: Cultural perspectives of grief: an expanded concept analysis. J Adv Nurs 23 (2): 287-94, 1996. [PUBMED Abstract]\n- Irish DP, Lundquist KF, Nelson VJ, eds.: Ethnic Variations in Dying, Death, and Grief: Diversity in Universality. Taylor & Francis, 1993.\n- Yamashita R, Arao H, Takao A, et al.: Unfinished Business in Families of Terminally Ill With Cancer Patients. J Pain Symptom Manage 54 (6): 861-869, 2017. [PUBMED Abstract]\n- Mori M, Yoshida S, Shiozaki M, et al.: Talking About Death With Terminally-Ill Cancer Patients: What Contributes to the Regret of Bereaved Family Members? J Pain Symptom Manage 54 (6): 853-860.e1, 2017. [PUBMED Abstract]\n- Rando TA: Treatment of Complicated Mourning. Research Press, 1993.\n- Cowles KV, Rodgers BL: The concept of grief: a foundation for nursing research and practice. Res Nurs Health 14 (2): 119-27, 1991. [PUBMED Abstract]\n- McGoldrick M, Hines P, Lee E, et al.: Mourning rituals. Family Therapy Networker 10 (6): 28-36, 1986.\n- McGoldrick M, Almedia R, Hines PM, et al.: Mourning in different cultures. In: Walsh F, McGoldrick M, eds.: Living Beyond Loss: Death in the Family. W.W. Norton & Company, 1991, pp 176-206.\n- Eisenbruch M: Cross-cultural aspects of bereavement. II: Ethnic and cultural variations in the development of bereavement practices. Cult Med Psychiatry 8 (4): 315-47, 1984. [PUBMED Abstract]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "Latest Updates to This Summary (06/26/2024)",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (06/26/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nTypes of Grief Reactions\nAdded text about a study that reported that parents who felt prepared for their child’s end of life had improved social functioning in the first 2 years of their bereavement (cited Snaman et al. as reference 18).\nThis summary is written and maintained by the PDQ Supportive and Palliative Care Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about how individuals cope with grief, bereavement, and mourning. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 13,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Supportive and Palliative Care Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Grief, Bereavement, and Coping With Loss are:\n- Larry D. Cripe, MD (Indiana University School of Medicine)\n- Natalie Jacobowski, MD (Nationwide Children's Hospital)\n- Jayesh Kamath, MD, PhD (University of Connecticut Health Center)\n- Edward B. Perry, MD (VA Connecticut Healthcare System)\n- Amy Wachholtz, PhD, MDiv, MS, ABPP (University of Colorado)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Supportive and Palliative Care Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Supportive and Palliative Care Editorial Board. PDQ Grief, Bereavement, and Coping With Loss. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/advanced-cancer/caregivers/planning/bereavement-hp-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389487]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Grief, Bereavement, and Coping With Loss (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\32b877097be07f6c1642.html"
+    }
+  ]
+}

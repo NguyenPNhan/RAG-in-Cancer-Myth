@@ -1,0 +1,1140 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Laryngeal Cancer",
+  "generated_at": "2026-08-31T07:15:23.315512+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Laryngeal Cancer",
+      "title": "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Laryngeal Cancer Treatment",
+      "url": "https://www.cancer.gov/types/head-and-neck/hp/adult/laryngeal-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "May 14, 2025",
+      "retrieved_at": "2026-08-31T07:10:23.753167+00:00",
+      "content_sha256": "0d8ee212603955d9f0e6aaa1d596f5dca87a3f9664b6b5522efd1422e65cd85d",
+      "section_count": 53,
+      "sections": [
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Laryngeal Cancer",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Estimated new cases and deaths from laryngeal cancer in the United States in 2025:[ 1 ]\n- New cases: 13,020.\n- Deaths: 3,910."
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Laryngeal Cancer",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The larynx is divided into the following three anatomical regions:\n- The supraglottic larynx includes the epiglottis, false vocal cords, ventricles, aryepiglottic folds, and arytenoids.\n- The glottis includes the true vocal cords and the anterior and posterior commissures.\n- The subglottic region begins about 1 cm below the true vocal cords and extends to the lower border of the cricoid cartilage or the first tracheal ring.\nThe supraglottic area is rich in lymphatic drainage. After penetrating the pre-epiglottic space and thyrohyoid membrane, lymphatic drainage is initially to the jugulodigastric and midjugular nodes. About 25% to 50% of patients present with involved lymph nodes. The precise figure depends on the T (tumor) stage. The true vocal cords are devoid of lymphatics. As a result, vocal cord cancer confined to the true cords rarely, if ever, presents with involved lymph nodes. Extension above or below the cords may, however, lead to lymph node involvement. Primary subglottic cancers, which are quite rare, drain through the cricothyroid and cricotracheal membranes to the pretracheal, paratracheal, and inferior jugular nodes, and occasionally to mediastinal nodes.[ 2 ]"
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Laryngeal Cancer",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "There is a clear association among smoking, excess alcohol ingestion, and the development of squamous cell cancers of the upper aerodigestive tract.[ 3 ] For smokers, the risk of laryngeal cancer decreases after they stop smoking but remains elevated, even years later, compared with that of nonsmokers.[ 4 ] If a patient who has had a single cancer continues to smoke and drink alcoholic beverages, the likelihood of a cure for the initial cancer, by any modality, is diminished, and the risk of second tumor is enhanced. Because of clinical problems related to smoking and alcohol use in this population, many patients die of intercurrent illness rather than the primary cancer."
+        },
+        {
+          "section": "Clinical Features",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Laryngeal Cancer",
+            "Clinical Features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Supraglottic cancers typically present with sore throat, painful swallowing, referred ear pain, change in voice quality, or enlarged neck nodes. Early vocal cord cancers are usually detected because of hoarseness. By the time they are detected, cancers arising in the subglottic area commonly involve the vocal cords; thus, symptoms usually relate to contiguous spread."
+        },
+        {
+          "section": "Prognostic Factors",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Laryngeal Cancer",
+            "Prognostic Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The most important adverse prognostic factors for laryngeal cancers include increasing T stage and N (regional lymph node) stage. Other prognostic factors may include sex, age, performance status, and a variety of pathological features of the tumor, including grade and depth of invasion.[ 5 ]\nPrognosis for small laryngeal cancers that have not spread to lymph nodes is very good. Cure rates are 75% to 95% depending on the site, tumor bulk,[ 6 ] and degree of infiltration. Although most patients with early lesions can be cured by either radiation therapy or surgery, radiation therapy may be reasonable to preserve the voice, leaving surgery for salvage. Patients with a preradiation hemoglobin level higher than 13 g/dL have higher local control and survival rates than patients who are anemic.[ 7 ]\nLocally advanced lesions are treated with combined modality treatment involving radiation and chemotherapy with or without surgery. The aim is laryngeal preservation in appropriately selected candidates.[ 8 ] Distant metastases are also common, even if the primary tumor is controlled.\nIntermediate lesions have intermediate prognoses, depending on the site, T stage, N stage, and performance status. Therapy recommendations for patients with these lesions are based on a variety of complex anatomical, clinical, and social factors, which should be individualized and discussed in multidisciplinary consultation (surgery, radiation therapy, and dental and oral surgery) prior to prescribing therapy."
+        },
+        {
+          "section": "Follow-Up and Survivorship",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Laryngeal Cancer",
+            "Follow-Up and Survivorship"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Second primary tumors, often in the aerodigestive tract, have been reported in as many as 25% of patients whose initial lesion is controlled. A study has shown that daily treatment of these patients with moderate doses of isotretinoin (i.e., 13-cis-retinoic acid) for 1 year can significantly reduce the incidence of second tumors.[ 9 ] No survival advantage has been demonstrated, partially because of recurrence and death from the primary malignancy.\nPatients treated for laryngeal cancers are at the highest risk of recurrence in the first 2 to 3 years. Recurrences after 5 years are rare and usually represent new primary malignancies. Close, regular follow-up is crucial to maximize the chance for salvage. Follow-up includes careful clinical examination and repetition of any abnormal staging study, along with attention to any treatment-related toxic effect or complication."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Laryngeal Cancer",
+            "Follow-Up and Survivorship",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. Available online . Last accessed January 16, 2025.\n- Spaulding CA, Hahn SS, Constable WC: The effectiveness of treatment of lymph nodes in cancers of the pyriform sinus and supraglottis. Int J Radiat Oncol Biol Phys 13 (7): 963-8, 1987. [PUBMED Abstract]\n- Spitz MR: Epidemiology and risk factors for head and neck cancer. Semin Oncol 21 (3): 281-8, 1994. [PUBMED Abstract]\n- Bosetti C, Garavello W, Gallus S, et al.: Effects of smoking cessation on the risk of laryngeal cancer: an overview of published studies. Oral Oncol 42 (9): 866-72, 2006. [PUBMED Abstract]\n- Yilmaz T, Hoşal S, Gedikoglu G, et al.: Prognostic significance of depth of invasion in cancer of the larynx. Laryngoscope 108 (5): 764-8, 1998. [PUBMED Abstract]\n- Reddy SP, Mohideen N, Marra S, et al.: Effect of tumor bulk on local control and survival of patients with T1 glottic cancer. Radiother Oncol 47 (2): 161-6, 1998. [PUBMED Abstract]\n- Fein DA, Lee WR, Hanlon AL, et al.: Pretreatment hemoglobin level influences local control and survival of T1-T2 squamous cell carcinomas of the glottic larynx. J Clin Oncol 13 (8): 2077-83, 1995. [PUBMED Abstract]\n- Forastiere AA, Zhang Q, Weber RS, et al.: Long-term results of RTOG 91-11: a comparison of three nonsurgical treatment strategies to preserve the larynx in patients with locally advanced larynx cancer. J Clin Oncol 31 (7): 845-52, 2013. [PUBMED Abstract]\n- Hong WK, Lippman SM, Itri LM, et al.: Prevention of second primary tumors with isotretinoin in squamous-cell carcinoma of the head and neck. N Engl J Med 323 (12): 795-801, 1990. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of Laryngeal Cancer",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Laryngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Most laryngeal cancers are of squamous cell histology. Squamous cell subtypes include keratinizing and nonkeratinizing and well-differentiated to poorly differentiated grade. A variety of nonsquamous cell laryngeal cancers also occur.[ 1 ] These are not staged using the American Joint Cancer Committee staging system, and their management, which is not discussed here, can differ from that of squamous cell laryngeal cancers. In situ squamous cell carcinoma of the larynx is usually managed by a conservative surgical procedure such as mucosal stripping or superficial laser excision. Radiation therapy may also be appropriate treatment of selected patients with in situ carcinoma of the glottic larynx."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Laryngeal Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80."
+        },
+        {
+          "section": "Stage Information for Laryngeal Cancer",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Laryngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The staging system for laryngeal cancer is clinical and based on the best possible estimate of the extent of disease before treatment. The assessment of the primary tumor is based on inspection and palpation, when possible, and by fiberoptic laryngoscopy. Panendoscopy under anesthesia ensures careful clinical examination to determine clinical extent of local disease. The tumor must be confirmed histologically, and any other pathological data obtained on biopsy may be included. Head and neck magnetic resonance imaging, computed tomography, or positron emission tomography-computed tomography should be done before therapy to supplement inspection and palpation.[ 1 ] Additional radiographic studies may be included. The appropriate nodal drainage areas in the neck should be examined by careful palpation."
+        },
+        {
+          "section": "Definitions of TNM",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Laryngeal Cancer",
+            "Definitions of TNM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 175,
+          "text": "The American Joint Committee on Cancer (AJCC) has designated staging by TNM (tumor, node, metastasis) classification to define laryngeal cancer.[ 2 ]\nT Category | T Criteria\na Reprinted with permission from AJCC: Larynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 149–61.\nTX | Primary tumor cannot be assessed.\nTis | Carcinoma in situ .\nSupraglottis\nT1 | Tumor limited to one subsite of supraglottis with normal vocal cord mobility.\nT2 | Tumor invades mucosa of more than one adjacent subsite of supraglottis or glottis or region outside the supraglottis (e.g., mucosa of the base of the tongue, vallecula, medial wall of pyriform sinus) without fixation of the larynx.\nT3 | Tumor limited to larynx with vocal cord fixation and/or invades any of the following: postcricoid area, pre-epiglottic space, paraglottic space, and/or inner cortex of thyroid cartilage.\nT4 | Moderately advanced or very advanced.\n–T4a | Moderately advanced local disease. Tumor invades through the outer cortex of the thyroid cartilage and/or invades tissues beyond the larynx (e.g., trachea, soft tissues of the neck including deep extrinsic muscle of the tongue, strap muscles, thyroid, or esophagus).\n–T4b | Very advanced local disease. Tumor invades prevertebral space, encases carotid artery, or invades mediastinal structures.\nGlottis\nT1 | Tumor limited to the vocal cord(s) (may involve anterior or posterior commissure) with normal mobility.\n–T1a | Tumor limited to one vocal cord.\n–T1b | Tumor involves both vocal cords.\nT2 | Tumor extends to supraglottis and/or subglottis, and/or with impaired vocal cord mobility.\nT3 | Tumor limited to the larynx with vocal cord fixation and/or invasion of paraglottic space and/or inner cortex of the thyroid cartilage.\nT4 | Moderately advanced or very advanced.\n–T4a | Moderately advanced local disease. Tumor invades through the outer cortex of the thyroid cartilage and/or invades tissues beyond the larynx (e.g., trachea, cricoid cartilage, soft tissues of the neck including deep extrinsic muscle of the tongue, strap muscles, thyroid, or esophagus).\n–T4b | Very advanced local disease. Tumor invades prevertebral space, encases carotid artery, or invades mediastinal structures.\nSubglottis\nT1 | Tumor limited to the subglottis.\nT2 | Tumor extends to vocal cord(s) with normal or impaired mobility.\nT3 | Tumor limited to the larynx with vocal cord fixation and/or invasion of paraglottic space and/or inner cortex of the thyroid cartilage.\nT4 | Moderately advanced or very advanced.\n–T4a | Moderately advanced local disease. Tumor invades cricoid or thyroid cartilage and/or invades tissues beyond the larynx (e.g., trachea, soft tissues of the neck including deep extrinsic muscles of the tongue, strap muscles, thyroid, or esophagus).\n–T4b | Very advanced local disease. Tumor invades prevertebral space, encases carotid artery, or invades mediastinal structures.\nN Category | N Criteria\nENE = extranodal extension.\na Reprinted with permission from AJCC: Larynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 149–61.\nb A designation of \"U\" or \"L\" may be used for any N category to indicate metastasis above the lower border of the cricoid (U) or below the lower border of the cricoid (L). Similarly, clinical and pathological ENE should be recorded as ENE(–) or ENE(+).\nNX | Regional lymph nodes cannot be assessed.\nN0 | No regional lymph node metastasis.\nN1 | Metastasis in a single ipsilateral lymph node ≤3 cm in greatest dimension and ENE(–).\nN2 | Metastasis in a single ipsilateral node, >3 cm but not >6 cm in greatest dimension and ENE(–); or metastases in multiple ipsilateral lymph nodes, none >6 cm in greatest dimension and ENE(–); or metastases in bilateral or contralateral lymph nodes, none >6 cm in greatest dimension and ENE(–).\n–N2a | Metastasis in a single ipsilateral node >3 cm but not >6 cm in greatest dimension and ENE(–).\n–N2b | Metastases in multiple ipsilateral nodes, none >6 cm in greatest dimension and ENE(–).\n–N2c | Metastases in bilateral or contralateral lymph nodes, none >6 cm in greatest dimension and ENE(–).\nN3 | Metastasis in a lymph node >6 cm in greatest dimension and ENE(–); or metastasis in any lymph nodes(s) with clinically overt ENE(+).\n–N3a | Metastasis in a lymph node >6 cm in greatest dimension and ENE(–).\n–N3b | Metastasis in any lymph node(s) with clinically overt ENE(+).\nN Category | N Criteria\nENE = extranodal extension.\na Reprinted with permission from AJCC: Larynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 149–61.\nb A designation of \"U\" or \"L\" may be used for any N category to indicate metastasis above the lower border of the cricoid (U) or below the lower border of the cricoid (L). Similarly, clinical and pathological ENE should be recorded as ENE(–) or ENE(+).\nNX | Regional lymph nodes cannot be assessed.\nN0 | No regional lymph node metastasis.\nN1 | Metastasis in a single ipsilateral lymph node ≤3 cm in greatest dimension and ENE(–).\nN2 | Metastasis in a single ipsilateral lymph node, ≤3 cm in greatest dimension and ENE(+); or metastasis in a single ipsilateral lymph node, >3 cm but not >6 cm in greatest dimension and ENE(–); or metastases in multiple ipsilateral lymph nodes, none >6 cm in greatest dimension and ENE(–); or metastases in bilateral or contralateral lymph nodes, none >6 cm in greatest dimension and ENE(–).\n–N2a | Metastasis in a single ipsilateral node ≤3 cm in greatest dimension and ENE(+); or metastasis in a single ipsilateral node >3 cm but not >6 cm in greatest dimension and ENE.\n–N2b | Metastases in multiple ipsilateral nodes, none >6 cm in greatest dimension and ENE(–).\n–N2c | Metastases in bilateral or contralateral lymph node(s), none >6 cm in greatest dimension and ENE(–).\nN3 | Metastasis in a lymph node >6 cm in greatest dimension and ENE(–); or metastasis in a single ipsilateral node >3 cm in greatest dimension and ENE(+); or metastases in multiple ipsilateral, contralateral, or bilateral lymph nodes and any with ENE(+); or a single contralateral node of any size and ENE(+).\n–N3a | Metastasis in a lymph node, >6 cm in greatest dimension and ENE(–).\n–N3b | Metastasis in a single ipsilateral node >3 cm in greatest dimension and ENE(+); or metastases in multiple ipsilateral, contralateral, or bilateral nodes and any with ENE(+); or a single contralateral node of any size and ENE(+).\nM Category | M Criteria\na Reprinted with permission from AJCC: Larynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 149–61.\nM0 | No distant metastasis.\nM1 | Distant metastasis.\nAJCC Prognostic Stage Groups\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = metastasis.\na Reprinted with permission from AJCC: Larynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 149–61.\n0 | Tis, N0, M0 | Tis = Carcinoma in situ .\nN0 (cN and pN) = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = metastasis; cN = clinical N; pN = pathological N.\na Reprinted with permission from AJCC: Larynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 149–61.\nI | T1, N0, M0 | Supraglottis\nT1 = Tumor limited to one subsite of supraglottis with normal vocal cord mobility.\nGlottis\nT1 = Tumor limited to the vocal cord(s) (may involve anterior or posterior commissure) with normal mobility.\n–T1a = Tumor limited to one vocal cord.\n–T1b = Tumor involves both vocal cords.\nSubglottis\nT1 = Tumor limited to the subglottis.\nN0 (cN and pN) = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = metastasis; cN = clinical N; pN = pathological N.\na Reprinted with permission from AJCC: Larynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 149–61.\nII | T2, N0, M0 | Supraglottis\nT2 = Tumor invades mucosa of more than one adjacent subsite of supraglottis or glottis or region outside the supraglottis (e.g., mucosa of the base of the tongue, vallecula, medial wall of pyriform sinus) without fixation of the larynx.\nGlottis\nT2 = Tumor extends to supraglottis and/or subglottis, and/or with impaired vocal cord mobility.\nSubglottis\nT2 = Tumor extends to vocal cord(s) with normal or impaired mobility.\nN0 (cN and pN) = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = metastasis; cN = clinical N; ENE = extranodal extension; pN = pathological N.\na Reprinted with permission from AJCC: Larynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 149–61.\nIII | T3, N0, M0 | Supraglottis\nT3 = Tumor limited to larynx with vocal cord fixation and/or invades any of the following: postcricoid area, pre-epiglottic space, paraglottic space, and/or inner cortex of thyroid cartilage.\nGlottis\nT3 = Tumor limited to the larynx with vocal cord fixation and/or invasion of paraglottic space and/or inner cortex of the thyroid cartilage.\nSubglottis\nT3 = Tumor limited to larynx with vocal cord fixation and/or invasion of paraglottic space and/or inner cortex of the thyroid cartilage.\nN0 (cN or pN) = No regional lymph node metastasis.\nM0 = No distant metastasis.\nT1, T2, T3, N1, M0 | Supraglottis\nT1 = Tumor limited to one subsite of supraglottis with normal vocal cord mobility.\nT2 = Tumor invades mucosa of more than one adjacent subsite of supraglottis or glottis or region outside the supraglottis (e.g., mucosa of the base of the tongue, vallecula, medial wall of pyriform sinus) without fixation of the larynx.\nT3 = Tumor limited to larynx with vocal cord fixation and/or invades any of the following: postcricoid area, pre-epiglottic space, paraglottic space, and/or inner cortex of thyroid cartilage.\nGlottis\nT1 = Tumor limited to the vocal cord(s) (may involve anterior or posterior commissure) with normal mobility.\nT1a = Tumor limited to one vocal cord.\nT1b = Tumor involves both vocal cords.\nT2 = Tumor extends to supraglottis and/or subglottis, and/or with impaired vocal cord mobility.\nT3 = Tumor limited to the larynx with vocal cord fixation and/or invasion of paraglottic space and/or inner cortex of the thyroid cartilage.\nSubglottis\nT1 = Tumor limited to the subglottis.\nT2 = Tumor extends to vocal cord(s) with normal or impaired mobility.\nT3 = Tumor limited to the larynx with vocal cord fixation and/or invasion of paraglottic space and/or inner cortex of the thyroid cartilage.\nN1 (cN or pN) = Metastasis in a single ipsilateral node, ≤3 cm in greatest dimension and ENE (–).\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = metastasis; cN = clinical N; ENE = extranodal extension; pN = pathological N.\na Reprinted with permission from AJCC: Larynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 149–61.\nIVA | T4a, N0, N1, M0 | Supraglottis\n–T4a = Moderately advanced local disease. Tumor invades through the outer cortex of the thyroid cartilage and/or invades tissues beyond the larynx (e.g., trachea, soft tissues of the neck including deep extrinsic muscle of the tongue, strap muscles, thyroid, or esophagus).\nGlottis\n–T4a = Moderately advanced local disease. Tumor invades through the outer cortex of the thyroid cartilage and/or invades tissues beyond the larynx (e.g., trachea, cricoid cartilage, soft tissues of the neck including deep extrinsic muscle of the tongue, strap muscles, thyroid, or esophagus).\nSubglottis\n–T4a = Moderately advanced local disease. Tumor invades cricoid or thyroid cartilage and/or invades tissues beyond the larynx (e.g., trachea, soft tissues of the neck including deep extrinsic muscles of the tongue, strap muscles, thyroid, or esophagus).\nN0 (cN and pN) = Metastasis in a single ipsilateral node, ≤3 cm in greatest dimension and ENE (–).\nN1 (cN and pN) = Metastasis in a single ipsilateral node, ≤3 cm in greatest dimension and ENE (–).\nM0 = No distant metastasis.\nT1, T2, T3, T4a, N2, M0 | Supraglottis\nT1 = Tumor limited to one subsite of supraglottis with normal vocal cord mobility.\nT2 = Tumor invades mucosa of more than one adjacent subsite of supraglottis or glottis or region outside the supraglottis (e.g., mucosa of the base of the tongue, vallecula, medial wall of pyriform sinus) without fixation of the larynx.\nT3 = Tumor limited to larynx with vocal cord fixation and/or invades any of the following: postcricoid area, pre-epiglottic space, paraglottic space, and/or inner cortex of thyroid cartilage.\n–T4a = Moderately advanced local disease. Tumor invades through the outer cortex of the thyroid cartilage and/or invades tissues beyond the larynx (e.g., trachea, soft tissues of the neck including deep extrinsic muscle of the tongue, strap muscles, thyroid, or esophagus).\nGlottis\nT1 = Tumor limited to the vocal cord(s) (may involve anterior or posterior commissure) with normal mobility.\n–T1a = Tumor limited to one vocal cord.\n–T1b = Tumor involves both vocal cords.\nT2 = Tumor extends to supraglottis and/or subglottis, and/or with impaired vocal cord mobility.\nT3 = Tumor limited to the larynx with vocal cord fixation and/or invasion of paraglottic space and/or inner cortex of the thyroid cartilage.\n–T4a = Moderately advanced local disease. Tumor invades through the outer cortex of the thyroid cartilage and/or invades tissues beyond the larynx (e.g., trachea, cricoid cartilage, soft tissues of the neck including deep extrinsic muscle of the tongue, strap muscles, thyroid, or esophagus).\nSubglottis\nT1 = Tumor limited to the subglottis.\nT2 = Tumor extends to vocal cord(s) with normal or impaired mobility.\nT3 = Tumor limited to the larynx with vocal cord fixation and/or invasion of paraglottic space and/or inner cortex of the thyroid cartilage.\n–T4a = Moderately advanced local disease. Tumor invades through the outer cortex of the thyroid cartilage and/or invades tissues beyond the larynx (e.g., trachea, cricoid cartilage, soft tissues of the neck including deep extrinsic muscle of the tongue, strap muscles, thyroid, or esophagus).\ncN2 = Metastasis in a single ipsilateral node >3 cm but not >6 cm in greatest dimension and ENE(–); or metastases in multiple ipsilateral lymph nodes, none >6 cm in greatest dimension and ENE(–); or metastases in bilateral or contralateral lymph nodes, none >6 cm in greatest dimension and ENE(–).\n‒cN2a = Metastasis in a single ipsilateral node, larger than 3 cm but not larger than 6 cm in greatest dimension and ENE(–).\n‒cN2b = Metastases in multiple ipsilateral nodes, none larger than 6 cm in greatest dimension and ENE(–).\n‒cN2c = Metastasis in bilateral of contralateral lymph nodes, none larger than 6 cm in greatest dimension and ENE(–).\npN2 = Metastasis in a single ipsilateral lymph node, ≤3 cm in greatest dimension and ENE(+); or metastasis in a single ipsilateral lymph node >3 cm but not >6 cm in greatest dimension and ENE(–); or metastases in multiple ipsilateral lymph nodes, none >6 cm in greatest dimension and ENE(–); or metastases in bilateral or contralateral lymph nodes, none >6 cm in greatest dimension and ENE(–).\n‒pN2a = Metastasis in a single ipsilateral or contralateral node, 3 cm or smaller in greatest dimension and ENE(+); or metastasis in a single ipsilateral node, larger than 3 cm but not larger than 6 cm in greatest dimension and ENE(–).\n‒pN2b = Metastases in multiple ipsilateral nodes, none larger than 6 cm in greatest dimension and ENE(–).\n‒pN2c = Metastasis in bilateral or contralateral lymph nodes, none larger than 6 cm in greatest dimension and ENE(–).\nM0 = No distant metastasis.\nIVB | Any T, N3, M0 | Any T = See Table 1 .\ncN3 = Metastasis in a lymph node >6 cm in greatest dimension and ENE(–); or metastasis in any lymph node(s) with clinically overt ENE(+).\n–cN3a = Metastasis in a lymph node >6 cm in greatest dimension and ENE(–).\n–cN3b = Metastasis in any lymph node(s) with clinically overt ENE(+).\npN3 = Metastasis in a lymph node >6 cm in greatest dimension and ENE(–); or metastasis in a single ipsilateral node >3 cm in greatest dimension and ENE(+); or metastases in multiple ipsilateral, contralateral, or bilateral lymph nodes and any with ENE(+).\n–pN3a = Metastasis in a lymph mode >6 cm in greatest dimension and ENE(–).\n–pN3b = Metastasis in a single ipsilateral node >3 cm in greatest dimension and ENE(+); or metastases in multiple ipsilateral, contralateral, or bilateral lymph nodes and any with ENE(+).\nM0 = No distant metastasis.\nT4b, Any N, M0 | Supraglottis\n–T4b = Very advanced local disease. Tumor invades prevertebral space, encases carotid artery or invades mediastinal structures.\nGlottis\n–T4b = Very advanced local disease. Tumor invades prevertebral space, encases carotid artery, or invades mediastinal structures.\nSubglottis\n–T4b = Very advanced local disease. Tumor invades prevertebral space, encases carotid artery, or invades mediastinal structures.\nAny N = See Table 2 and Table 3 .\nM0 = No distant metastasis.\nIVC | Any T, Any N, M1 | Any T = See Table 1 .\nAny N = See Table 2 and Table 3 .\nM1 = Distant metastasis."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Laryngeal Cancer",
+            "Definitions of TNM",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Thabet HM, Sessions DG, Gado MH, et al.: Comparison of clinical evaluation and computed tomographic diagnostic accuracy for tumors of the larynx and hypopharynx. Laryngoscope 106 (5 Pt 1): 589-94, 1996. [PUBMED Abstract]\n- Larynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 149-61."
+        },
+        {
+          "section": "Surgery and/or Radiation Therapy",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Laryngeal Cancer",
+            "Surgery and/or Radiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Surgery and radiation therapy have been the standard treatments for laryngeal cancer. However, outcome data from randomized trials are limited. Studies have attempted to evaluate the use of surgery or radiation but have been underpowered.[ 1 ] Selection of primary surgery versus radiation therapy–based treatment should be made in a multidisciplinary setting with consideration of disease stage, comorbidities, and functional status, including voice and swallowing outcomes and lung capacity.\nSmall superficial cancers without laryngeal fixation or lymph node involvement are successfully treated by radiation therapy or surgery alone, including laser excision surgery. Radiation therapy may be selected to preserve the voice and to reserve surgery for salvaging failures. The radiation field and dose are determined by the location and size of the primary tumor. A variety of curative surgical procedures are also recommended for laryngeal cancers, some of which preserve vocal function. An appropriate surgical procedure must be considered for each patient, given the anatomical problem, performance status, and clinical expertise of the treatment team. Advanced laryngeal cancers are often treated by combining radiation with concurrent chemotherapy for larynx preservation and total laryngectomy for bulky T4 disease or salvage.[ 2 - 4 ]\nEvaluation of treatment outcome can be reported in various ways: locoregional control, disease-free survival, determinate survival, and overall survival (OS) at 2 to 5 years. Preservation of voice is an important parameter to evaluate. Outcome should be reported after initial surgery, initial radiation, planned combined treatment, or surgical salvage of radiation failures. Primary source material should be consulted to review these differences.\nA review of published clinical results of definitive radiation therapy for head and neck cancer suggests a significant loss of local control when radiation therapy was prolonged. Extending standard treatment schedules should be avoided whenever possible.[ 5 , 6 ]\nRadiation therapy has not been directly compared with endolaryngeal surgery (with or without laser) for the treatment of patients with early-stage laryngeal cancer. The evidence is insufficient to show a clear difference in local control or OS for these two treatment options. Retrospective data suggest that, compared with surgery, radiation therapy might cause less perturbation of voice quality without a significant difference in patient perception.[ 7 ]"
+        },
+        {
+          "section": "Concurrent Chemoradiation Therapy",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Laryngeal Cancer",
+            "Concurrent Chemoradiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Concurrent chemoradiation therapy is a standard treatment option for patients with locally advanced (stage III and stage IV) laryngeal cancer.\nEvidence (concurrent chemoradiation therapy):\n- A meta-analysis of 93 randomized prospective head and neck cancer trials published between 1965 and 2000 showed the following:[ 8 ][ Level of evidence B4 ]\n- The subset of patients receiving chemotherapy and radiation therapy had a 4.5% absolute survival advantage.\n- Patients who received concurrent chemotherapy had a greater survival benefit than those who received neoadjuvant chemotherapy.\n- In a randomized trial of patients with locally advanced head and neck cancer, curative-intent radiation therapy alone (213 patients) was compared with radiation therapy plus weekly cetuximab (211 patients).[ 9 ] The initial dose of cetuximab was 400 mg/m 2 of body-surface area 1 week before radiation therapy was started, followed by a weekly dose of 250 mg/m 2 of body-surface area for the duration of the radiation therapy. This study allowed altered-fractionation regimens to be used in both arms.[ 9 , 10 ][ Level of evidence A1 ]\n- At a median follow-up of 54 months, patients treated with cetuximab and radiation therapy demonstrated significantly higher progression-free survival (PFS) (hazard ratio [HR] for disease progression or death, 0.70; P = .006).\n- Patients in the cetuximab arm experienced higher rates of acneiform rash and infusion reactions, although the incidence of other grade 3 or higher toxicities, including mucositis, did not differ significantly between the two groups.\nFor more information about oral toxicities, see Oral Complications of Cancer Therapies ."
+        },
+        {
+          "section": "Neoadjuvant Chemotherapy Followed by Concurrent Chemoradiation Therapy",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Laryngeal Cancer",
+            "Neoadjuvant Chemotherapy Followed by Concurrent Chemoradiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "In a meta-analysis of five randomized trials, a total of 1,022 patients with locally advanced head and neck squamous cell cancer were randomly assigned to receive either neoadjuvant chemotherapy with TPF (docetaxel, cisplatin, and fluorouracil [5-FU]) followed by concurrent chemoradiation therapy or concurrent chemoradiation therapy alone. The analysis failed to show an OS (HR, 1.01; 95% confidence limits [CLs], 0.84–1.21; P = .92) or PFS (HR, 0.91; 95% CLs, 0.75–1.1; P = .32) advantage for neoadjuvant chemotherapy using the TPF regimen over concurrent chemoradiation therapy alone.[ 11 ][ Level of evidence A1 ]\nEvidence (neoadjuvant chemotherapy followed by concurrent chemoradiation therapy):\n- The Department of Veterans Affairs (VA) Laryngeal Cancer Study Group directly compared chemotherapy followed by radiation therapy versus up-front surgery with postoperative radiation therapy. A total of 332 patients were randomly assigned to either three cycles of chemotherapy (cisplatin and 5-FU) and radiation therapy or surgery and radiation therapy.[ 12 ]\n- After two cycles of chemotherapy, the clinical tumor response was complete in 31% of the patients, and there was a partial response in 54% of the patients. Survival was similar in both arms; however, larynx preservation was possible in 64% of the patients in the chemotherapy-followed-by-radiation therapy arm.\n- The VA study was followed by a randomized study, RTOG 9111 (NCT00002496), in which the laryngeal preservation arm of the VA study was compared with the concurrent chemoradiation therapy and radiation therapy-alone arms. The primary end point was laryngectomy-free survival.[ 4 ] RTOG 9111 evaluated 547 patients with locally advanced laryngeal cancer who were enrolled between August 1992 and May 2000, with a median follow-up for surviving patients of 10.8 years (range, 0.07–17 years). Three regimens were compared, including neoadjuvant chemotherapy plus radiation therapy, concurrent chemoradiation therapy, and radiation therapy alone.\n- Both chemotherapy regimens improved laryngectomy-free survival compared with radiation therapy alone (neoadjuvant chemotherapy vs. radiation therapy alone, HR, 0.75; 95% confidence interval [CI], 0.59–0.95; P = .02; concurrent chemotherapy vs. radiation therapy alone, HR, 0.78; 95% CI, 0.78–0.98; P = .03).\n- Concurrent radiation therapy plus cisplatin resulted in a statistically significantly higher percentage of patients with an intact larynx at 10 years (67.5% for patients who had neoadjuvant chemotherapy; 81.7% for patients who had concurrent chemotherapy; and 63.8% for patients who received radiation therapy alone); 80% of laryngectomies were performed during the first 2 years (84 laryngectomies during year 1 and 35 laryngectomies during year 2).\n- Concurrent cisplatin with radiation therapy resulted in a 41% reduction in risk of locoregional failure compared with radiation therapy alone (HR, 0.59; 95% CI, 0.43–0.82; P = .0015) and a 34% reduction in risk compared with neoadjuvant chemotherapy (HR, 0.66; 95% CI, 0.48–0.92; P = .004). Both chemotherapy regimens had a lower incidence of distant metastases, although this did not reach statistical significance compared with radiation therapy alone.\n- The 10-year cumulative rates of late toxicity (grades 3–5) were 30.6% for neoadjuvant chemotherapy, 33.3% for concurrent chemotherapy, and 38% for radiation therapy alone, and were not significantly different between the arms.\n- OS was not significantly different between the groups, although there was possibly a worse outcome in the concurrent groups compared with the neoadjuvant chemotherapy group (HR, 1.25; 95% CI, 0.98–1.61; P = .08). The OS rates were 58% (5 year) and 39% (10 year) for neoadjuvant chemotherapy, 55% (5 year) and 28% (10 year) for concurrent chemoradiation therapy, and 54% (5 year) and 32% (10 year) for radiation therapy alone.\n- The number of deaths not attributed to larynx cancer or treatment were higher with concurrent chemotherapy (30.8% vs. 20.8% with neoadjuvant chemotherapy and 16.9% with radiation alone), because after approximately 4.5 years, the survival curves began to separate and favor neoadjuvant chemotherapy, although the difference was not statistically significant."
+        },
+        {
+          "section": "Fluorouracil dosing",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Laryngeal Cancer",
+            "Neoadjuvant Chemotherapy Followed by Concurrent Chemoradiation Therapy",
+            "Fluorouracil dosing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The DPYD gene encodes an enzyme that catabolizes pyrimidines and fluoropyrimidines, like capecitabine and fluorouracil. An estimated 1% to 2% of the population has germline pathogenic variants in DPYD , which lead to reduced DPD protein function and an accumulation of pyrimidines and fluoropyrimidines in the body.[ 13 , 14 ] Patients with the DPYD*2A variant who receive fluoropyrimidines may experience severe, life-threatening toxicities that are sometimes fatal. Many other DPYD variants have been identified, with a range of clinical effects.[ 13 - 15 ] Fluoropyrimidine avoidance or a dose reduction of 50% may be recommended based on the patient's DPYD genotype and number of functioning DPYD alleles.[ 16 - 18 ] DPYD genetic testing costs less than $200, but insurance coverage varies due to a lack of national guidelines.[ 19 ] In addition, testing may delay therapy by 2 weeks, which would not be advisable in urgent situations. This controversial issue requires further evaluation.[ 20 ]"
+        },
+        {
+          "section": "Altered Fractionation Versus Standard Fractionation Radiation Therapy",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Laryngeal Cancer",
+            "Altered Fractionation Versus Standard Fractionation Radiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "Radiation therapy alone with altered fractionation may be used for patients with locally advanced laryngeal cancer who are not candidates for chemotherapy. Altered fractionation radiation therapy yields a higher locoregional control rate compared with standard fractionated radiation therapy for patients with stage III and stage IV head and neck cancer.\nEvidence (altered fractionation vs. standard fractionation radiation therapy):\n- The randomized RTOG-9003 trial (NCT00771641) included four radiation therapy treatment arms:[ 21 , 22 ][ Level of evidence A1 ] In a long-term analysis, the three investigational arms were compared with SFX.\n- Standard fractionation (SFX) to 70 Gy in 35 daily fractions for 7 weeks.\n- Hyperfractionation (HFX) to 81.6 Gy in 68 twice-daily fractions for 7 weeks.\n- Accelerated fractionation split course (AFX-S) to 67.2 Gy in 42 fractions for 6 weeks with a 2-week rest after 38.4 Gy.\n- Accelerated concurrent boost fractionation (AFX-C) to 72 Gy in 42 fractions for 6 weeks.\n- Only the HFX arm showed superior locoregional control and survival at 5 years compared with the SFX arm (HR, 0.79; 95% CI, 0.62–1.00; P = .05).\n- AFX-C was associated with increased late toxicity compared with SFX.\n- The following results were shown in a meta-analysis of 15 randomized trials with a total of 6,515 patients and a median follow-up of 6 years involving the assessment of HFX or AFX-S for patients with stage III and stage IV oropharyngeal cancer:[ 23 ][ Level of evidence A1 ]\n- There was a significant survival benefit with altered-fractionated radiation therapy and a 3.4% absolute benefit at 5 years (HR, 0.92; 95% CI, 0.86–0.97; P = .003).\n- Altered-fractionation radiation therapy improves locoregional control, with greater benefit shown in younger patients.\n- HFX demonstrated a greater survival benefit (8% at 5 years) than did AFX-S (2% with accelerated fractionation without total dose-reduction and 1.7% with total dose-reduction at 5 years; P = .02).\nAn additional late effect from radiation therapy is hypothyroidism, which occurs in 30% to 40% of patients who have received external-beam radiation therapy to the entire thyroid gland. Thyroid function testing of patients is a consideration before therapy and as part of posttreatment follow-up.[ 24 , 25 ]\nProspective data from two randomized controlled trials reported the incidence of hypothyroidism.[ 26 ]\n- At a median follow-up of 41 months, 55.1% of the patients developed hypothyroidism (39.3% subclinical, 15.7% biochemical).\n- Patients who underwent intensity-modulated radiation therapy (IMRT) had higher subclinical hypothyroidism (51.1% vs. 27.3%; P = .021), peaking around 1 year after radiation therapy.\n- Younger age, hypopharynx/larynx primary, node positivity, higher dose/fraction (IMRT arm), and D100 were statistically significant factors for developing hypothyroidism.[ 26 ][ Level of evidence A3 ]\nFor patients with well-lateralized oropharyngeal cancer, such as a T1 or T2 tonsil primary tumor with limited extension into the palate or tongue base and limited ipsilateral lymph node involvement without extracapsular extension, elective treatment to the ipsilateral lymph nodes results in only minimal risk of spread to the contralateral neck.[ 27 ] For T3 and T4 tumors that are midline or approach the midline, bilateral nodal treatment is a consideration. In addition to the cervical lymph node chain, retropharyngeal lymph nodes can also be encompassed in the elective nodal treatment."
+        },
+        {
+          "section": "Surgery Followed by Postoperative Radiation Therapy (PORT) With or Without Chemotherapy for Patients With Locally Advanced Disease",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Laryngeal Cancer",
+            "Surgery Followed by Postoperative Radiation Therapy (PORT) With or Without Chemotherapy for Patients With Locally Advanced Disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "New surgical techniques for resection and reconstruction that provide access and functional preservation have extended the surgical options for patients with stage III or stage IV laryngeal cancer. Specific surgical procedures and their modifications are not described here because of the wide variety of surgical approaches, the variety of opinions about the role of modified neck dissections, and the multiple reconstructive techniques that may give the same results. This group of patients is managed by head and neck surgeons who are skilled in the multiple procedures available and are actively and frequently involved in the care of these patients.\nDepending on pathological findings after primary surgery, PORT with or without chemotherapy is used in the adjuvant setting for the following histological findings:\n- T4 disease.\n- Perineural invasion.\n- Lymphovascular invasion.\n- Positive margins or margins less than 5 mm.\n- Extracapsular extension of a lymph node.\n- Two or more involved lymph nodes.\nThe addition of chemotherapy to PORT for laryngeal cancer squamous cell carcinoma demonstrates a locoregional control and OS benefit compared with radiation therapy alone in patients who have high-risk pathological risk factors, extracapsular extension of a lymph node, or positive margins, based on a pooled analysis of the EORTC-22931 [NCT00002555] and RTOG-9501 [NCT00002670] studies.[ 28 - 31 ][ Level of evidence A1 ]\nFor patients with intermediate pathological risk factors, the addition of cisplatin chemotherapy given concurrently with PORT is unclear. Intermediate pathological risk factors include:\n- T3 and T4 disease (or stage III and stage IV disease).\n- Perineural infiltration.\n- Vascular embolisms.\n- Clinically enlarged level IV–V lymph nodes secondary to tumors arising in the oral cavity or oropharynx.\n- Two or more histopathologically involved lymph nodes without extracapsular extension.\n- Close margins less than 5 mm.\nThe addition of cetuximab with radiation therapy in the postoperative setting for these intermediate pathological risk factors is being tested in a randomized trial ( RTOG-0920 [NCT00956007]).\nThe incidence of lymph node metastases in patients with stage I glottic cancer ranges from 0% to 2%; for more advanced disease, such as stage II, 10%; and for stage III glottic, 15%. Thus, there is no need to treat glottic cancer cervical lymph nodes electively in patients with stage I tumors and small stage II tumors. Elective neck radiation is a consideration for T3 or T4 glottic tumors or T1 to T4 supraglottic tumors.[ 32 ]\nFor patients with cancer of the subglottis, combined modality therapy is generally preferred for the uncommon small lesions (i.e., stage I or stage II); however, radiation therapy alone may be used.\nPatients who smoke during radiation therapy appear to have lower response rates and shorter survival durations than those who do not.[ 33 ] Such patients should be counseled on smoking cessation before beginning radiation therapy."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Laryngeal Cancer",
+            "Surgery Followed by Postoperative Radiation Therapy (PORT) With or Without Chemotherapy for Patients With Locally Advanced Disease",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 33,
+          "text": "- Iyer NG, Tan DS, Tan VK, et al.: Randomized trial comparing surgery and adjuvant radiotherapy versus concurrent chemoradiotherapy in patients with advanced, nonmetastatic squamous cell carcinoma of the head and neck: 10-year update and subset analysis. Cancer 121 (10): 1599-607, 2015. [PUBMED Abstract]\n- Silver CE, Ferlito A: Surgery for Cancer of the Larynx and Related Structures. 2nd ed. Saunders, 1996.\n- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80.\n- Forastiere AA, Zhang Q, Weber RS, et al.: Long-term results of RTOG 91-11: a comparison of three nonsurgical treatment strategies to preserve the larynx in patients with locally advanced larynx cancer. J Clin Oncol 31 (7): 845-52, 2013. [PUBMED Abstract]\n- Fowler JF, Lindstrom MJ: Loss of local control with prolongation in radiotherapy. Int J Radiat Oncol Biol Phys 23 (2): 457-67, 1992. [PUBMED Abstract]\n- Hansen O, Overgaard J, Hansen HS, et al.: Importance of overall treatment time for the outcome of radiotherapy of advanced head and neck carcinoma: dependency on tumor differentiation. Radiother Oncol 43 (1): 47-51, 1997. [PUBMED Abstract]\n- Yoo J, Lacchetti C, Hammond JA, et al.: Role of endolaryngeal surgery (with or without laser) compared with radiotherapy in the management of early (T1) glottic cancer: a clinical practice guideline. Curr Oncol 20 (2): e132-5, 2013. [PUBMED Abstract]\n- Pignon JP, le Maître A, Maillard E, et al.: Meta-analysis of chemotherapy in head and neck cancer (MACH-NC): an update on 93 randomised trials and 17,346 patients. Radiother Oncol 92 (1): 4-14, 2009. [PUBMED Abstract]\n- Bonner JA, Harari PM, Giralt J, et al.: Radiotherapy plus cetuximab for squamous-cell carcinoma of the head and neck. N Engl J Med 354 (6): 567-78, 2006. [PUBMED Abstract]\n- Curran D, Giralt J, Harari PM, et al.: Quality of life in head and neck cancer patients after treatment with high-dose radiotherapy alone or in combination with cetuximab. J Clin Oncol 25 (16): 2191-7, 2007. [PUBMED Abstract]\n- Budach W, Bölke E, Kammers K, et al.: Induction chemotherapy followed by concurrent radio-chemotherapy versus concurrent radio-chemotherapy alone as treatment of locally advanced squamous cell carcinoma of the head and neck (HNSCC): A meta-analysis of randomized trials. Radiother Oncol 118 (2): 238-43, 2016. [PUBMED Abstract]\n- Induction chemotherapy plus radiation compared with surgery plus radiation in patients with advanced laryngeal cancer. The Department of Veterans Affairs Laryngeal Cancer Study Group. N Engl J Med 324 (24): 1685-90, 1991. [PUBMED Abstract]\n- Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021. [PUBMED Abstract]\n- Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016. [PUBMED Abstract]\n- Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021. [PUBMED Abstract]\n- Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018. [PUBMED Abstract]\n- Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018. [PUBMED Abstract]\n- Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022. [PUBMED Abstract]\n- Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022. [PUBMED Abstract]\n- Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023. [PUBMED Abstract]\n- Fu KK, Pajak TF, Trotti A, et al.: A Radiation Therapy Oncology Group (RTOG) phase III randomized study to compare hyperfractionation and two variants of accelerated fractionation to standard fractionation radiotherapy for head and neck squamous cell carcinomas: first report of RTOG 9003. Int J Radiat Oncol Biol Phys 48 (1): 7-16, 2000. [PUBMED Abstract]\n- Beitler JJ, Zhang Q, Fu KK, et al.: Final results of local-regional control and late toxicity of RTOG 9003: a randomized trial of altered fractionation radiation for locally advanced head and neck cancer. Int J Radiat Oncol Biol Phys 89 (1): 13-20, 2014. [PUBMED Abstract]\n- Baujat B, Bourhis J, Blanchard P, et al.: Hyperfractionated or accelerated radiotherapy for head and neck cancer. Cochrane Database Syst Rev (12): CD002026, 2010. [PUBMED Abstract]\n- Turner SL, Tiver KW, Boyages SC: Thyroid dysfunction following radiotherapy for head and neck cancer. Int J Radiat Oncol Biol Phys 31 (2): 279-83, 1995. [PUBMED Abstract]\n- Constine LS: What else don't we know about the late effects of radiation in patients treated for head and neck cancer? Int J Radiat Oncol Biol Phys 31 (2): 427-9, 1995. [PUBMED Abstract]\n- Murthy V, Narang K, Ghosh-Laskar S, et al.: Hypothyroidism after 3-dimensional conformal radiotherapy and intensity-modulated radiotherapy for head and neck cancers: prospective data from 2 randomized controlled trials. Head Neck 36 (11): 1573-80, 2014. [PUBMED Abstract]\n- O'Sullivan B, Warde P, Grice B, et al.: The benefits and pitfalls of ipsilateral radiotherapy in carcinoma of the tonsillar region. Int J Radiat Oncol Biol Phys 51 (2): 332-43, 2001. [PUBMED Abstract]\n- Cooper JS, Pajak TF, Forastiere AA, et al.: Postoperative concurrent radiotherapy and chemotherapy for high-risk squamous-cell carcinoma of the head and neck. N Engl J Med 350 (19): 1937-44, 2004. [PUBMED Abstract]\n- Bernier J, Domenge C, Ozsahin M, et al.: Postoperative irradiation with or without concomitant chemotherapy for locally advanced head and neck cancer. N Engl J Med 350 (19): 1945-52, 2004. [PUBMED Abstract]\n- Bernier J, Cooper JS, Pajak TF, et al.: Defining risk levels in locally advanced head and neck cancers: a comparative analysis of concurrent postoperative radiation plus chemotherapy trials of the EORTC (#22931) and RTOG (# 9501). Head Neck 27 (10): 843-50, 2005. [PUBMED Abstract]\n- Cooper JS, Zhang Q, Pajak TF, et al.: Long-term follow-up of the RTOG 9501/intergroup phase III trial: postoperative concurrent radiation therapy and chemotherapy in high-risk squamous cell carcinoma of the head and neck. Int J Radiat Oncol Biol Phys 84 (5): 1198-205, 2012. [PUBMED Abstract]\n- Spaulding CA, Hahn SS, Constable WC: The effectiveness of treatment of lymph nodes in cancers of the pyriform sinus and supraglottis. Int J Radiat Oncol Biol Phys 13 (7): 963-8, 1987. [PUBMED Abstract]\n- Browman GP, Wong G, Hodson I, et al.: Influence of cigarette smoking on the efficacy of radiation therapy in head and neck cancer. N Engl J Med 328 (3): 159-63, 1993. [PUBMED Abstract]"
+        },
+        {
+          "section": "Supraglottis",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Laryngeal Cancer",
+            "Supraglottis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for stage I cancer of the supraglottis include:\n- External-beam radiation therapy (EBRT) therapy alone.\n- Supraglottic laryngectomy. Total laryngectomy may be reserved for patients unable to tolerate potential respiratory complications of surgery or the supraglottic laryngectomy."
+        },
+        {
+          "section": "Glottis",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Laryngeal Cancer",
+            "Glottis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for stage I cancer of the glottis include:\n- Radiation therapy.[ 1 - 4 ]\n- Endoscopic CO 2 laser excision.[ 5 ]\n- Cordectomy for very carefully selected patients with limited and superficial T1 lesions.[ 6 , 7 ]\n- Partial or hemilaryngectomy or total laryngectomy, depending on anatomical considerations."
+        },
+        {
+          "section": "Subglottis",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Laryngeal Cancer",
+            "Subglottis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "Treatment options for stage I cancer of the subglottis include:\n- Lesions can be treated successfully by radiation therapy alone with preservation of normal voice.\n- Surgery is reserved for failure of radiation therapy or for patients who cannot be easily assessed for radiation therapy.\nFor more information, see the Treatment Option Overview for Laryngeal Cancer section.\nRadiation therapy\nTransoral CO 2 laser excision versus EBRT\nSelection of treatment should include an evaluation of voice function and quality after treatment. Endoscopic CO 2 laser resections may also achieve similar results in terms of local control and function [ 8 ] compared with radiation therapy, although no randomized studies have been performed.[ 9 ]\nEvidence (transoral CO 2 laser excision vs. EBRT):\n- A meta-analysis examined oncologic control in 22 consecutive case series.\n- No clear differences were demonstrated between transoral CO 2 laser excision and EBRT in terms of local control (odds ratio [OR], 0.81; 95% confidence interval [CI], 0.51–1.3) and laryngectomy-free survival (OR, 0.84; 95% CI, 0.42–1.66).\n- There was a trend for improved posttreatment voice quality with radiation therapy. Transoral CO 2 laser–excision surgery dominates radiation therapy from a cost-utility standpoint.[ 5 ][ Level of evidence B4 ]\nConventional radiation therapy versus hypofractionated radiation therapy\nConventional and hypofractionated radiation therapy regimens have been studied regarding radiation-dose fractionation for patients with early-stage larynx cancer.\nEvidence (conventional radiation therapy vs. hypofractionated radiation therapy):\n- In a randomized study of patients with early-stage larynx cancer, patients were assigned to standard fractionation in 2 Gy daily fractions or a hypofractionated regimen of 2.25 Gy daily; 82 patients were allocated to a conventional fractionation (CONV) arm (66 Gy/33 fractions for T1 and 70 Gy/35 fractions for T2), with 74 patients to the hypofractionation (HYPO) arm (63 Gy/28 fractions for T1 and 67.5 Gy/30 fractions for T2).[ 10 ] The study was underpowered and closed early because of a lack of accrual, although no statistically significant differences were seen between treatment arms in terms of local progression-free survival (PFS). Earlier single-institution reports support hypofractionated regimens using 2.25 Gy per fraction for early T1 and T2 larynx cancer with high local control rates.[ 11 ][ Level of evidence C3 ]\n- With a median follow-up of 67 months (range, 2–122 months), the 5-year local PFS rate was 77.8% for the CONV arm and 88.5% for the HYPO arm (hazard ratio [HR], 1.55; P = .213).\n- No significant difference was observed in the toxicity profile between the two arms.\n- In a subgroup exploratory analysis for T1a disease, the 5-year local PFS rate trended positively in the HYPO arm (76.7% vs. 93.0%; HR, 3.65; P = .056).[ 10 ][ Level of evidence B1 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Laryngeal Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Laryngeal Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Mittal B, Rao DV, Marks JE, et al.: Role of radiation in the management of early vocal cord carcinoma. Int J Radiat Oncol Biol Phys 9 (7): 997-1002, 1983. [PUBMED Abstract]\n- Wang CC: Factors influencing the success of radiation therapy for T2 and T3 glottic carcinomas. Importance of cord mobility and sex. Am J Clin Oncol 9 (6): 517-20, 1986. [PUBMED Abstract]\n- Mendenhall WM, Amdur RJ, Morris CG, et al.: T1-T2N0 squamous cell carcinoma of the glottic larynx treated with radiation therapy. J Clin Oncol 19 (20): 4029-36, 2001. [PUBMED Abstract]\n- Foote RL, Olsen KD, Kunselman SJ, et al.: Early-stage squamous cell carcinoma of the glottic larynx managed with radiation therapy. Mayo Clin Proc 67 (7): 629-36, 1992. [PUBMED Abstract]\n- Higgins KM: What treatment for early-stage glottic carcinoma among adult patients: CO2 endolaryngeal laser excision versus standard fractionated external beam radiation is superior in terms of cost utility? Laryngoscope 121 (1): 116-34, 2011. [PUBMED Abstract]\n- Steiner W: Results of curative laser microsurgery of laryngeal carcinomas. Am J Otolaryngol 14 (2): 116-21, 1993 Mar-Apr. [PUBMED Abstract]\n- Olsen KD, Thomas JV, DeSanto LW, et al.: Indications and results of cordectomy for early glottic carcinoma. Otolaryngol Head Neck Surg 108 (3): 277-82, 1993. [PUBMED Abstract]\n- Agrawal A, Moon J, Davis RK, et al.: Transoral carbon dioxide laser supraglottic laryngectomy and irradiation in stage I, II, and III squamous cell carcinoma of the supraglottic larynx: report of Southwest Oncology Group Phase 2 Trial S9709. Arch Otolaryngol Head Neck Surg 133 (10): 1044-50, 2007. [PUBMED Abstract]\n- Dey P, Arnold D, Wight R, et al.: Radiotherapy versus open surgery versus endolaryngeal surgery (with or without laser) for early laryngeal squamous cell cancer. Cochrane Database Syst Rev (2): CD002027, 2002. [PUBMED Abstract]\n- Fein DA, Mendenhall WM, Parsons JT, et al.: T1-T2 squamous cell carcinoma of the glottic larynx treated with radiotherapy: a multivariate analysis of variables potentially influencing local control. Int J Radiat Oncol Biol Phys 25 (4): 605-11, 1993. [PUBMED Abstract]\n- Moon SH, Cho KH, Chung EJ, et al.: A prospective randomized trial comparing hypofractionation with conventional fractionation radiotherapy for T1-2 glottic squamous cell carcinomas: results of a Korean Radiation Oncology Group (KROG-0201) study. Radiother Oncol 110 (1): 98-103, 2014. [PUBMED Abstract]"
+        },
+        {
+          "section": "Supraglottis",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Laryngeal Cancer",
+            "Supraglottis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for stage II cancer of the supraglottis include:\n- External-beam radiation therapy alone for the smaller lesions encompassing the primary disease and regional elective nodes.[ 1 ]\n- Supraglottic laryngectomy with bilateral neck dissections, depending on location of the lesion, clinical status of the patient, and expertise of the treatment team. Careful selection must be made to ensure adequate pulmonary and swallowing function postoperatively.\n- Postoperative radiation therapy (PORT) is indicated for positive or close surgical margins or other adverse pathological risk factors.\nRadiation therapy should be preferred because of the good results, preservation of the voice, and the possibility of surgical salvage in patients whose disease recurs locally."
+        },
+        {
+          "section": "Glottis",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Laryngeal Cancer",
+            "Glottis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for stage II cancer of the glottis include:\n- Radiation therapy.[ 1 - 4 ]\n- Endoscopic CO 2 laser excision.[ 5 ]\n- Partial or hemilaryngectomy or total laryngectomy, depending on anatomical considerations. Under certain circumstances, laser microsurgery may be appropriate.[ 6 ]"
+        },
+        {
+          "section": "Subglottis",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Laryngeal Cancer",
+            "Subglottis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for stage II cancer of the subglottis include:\n- Lesions can be treated successfully by radiation therapy alone with preservation of normal voice.[ 1 ]\n- Surgery is reserved for failure of radiation therapy or for patients in whom follow-up is likely to be difficult.\nFor more information, see the Treatment Option Overview for Laryngeal Cancer section."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Laryngeal Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Laryngeal Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80.\n- Mittal B, Marks JE, Ogura JH: Transglottic carcinoma. Cancer 53 (1): 151-61, 1984. [PUBMED Abstract]\n- Medini E, Medini I, Lee CK, et al.: Curative radiotherapy for stage II-III squamous cell carcinoma of the glottic larynx. Am J Clin Oncol 21 (3): 302-5, 1998. [PUBMED Abstract]\n- Mendenhall WM, Amdur RJ, Morris CG, et al.: T1-T2N0 squamous cell carcinoma of the glottic larynx treated with radiation therapy. J Clin Oncol 19 (20): 4029-36, 2001. [PUBMED Abstract]\n- Higgins KM: What treatment for early-stage glottic carcinoma among adult patients: CO2 endolaryngeal laser excision versus standard fractionated external beam radiation is superior in terms of cost utility? Laryngoscope 121 (1): 116-34, 2011. [PUBMED Abstract]\n- Steiner W: Results of curative laser microsurgery of laryngeal carcinomas. Am J Otolaryngol 14 (2): 116-21, 1993 Mar-Apr. [PUBMED Abstract]"
+        },
+        {
+          "section": "Supraglottis",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Laryngeal Cancer",
+            "Supraglottis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for stage III cancer of the supraglottis include:\n- Concurrent chemoradiation therapy can be considered for patients who would require total laryngectomy for control of disease.[ 1 ]\n- Neoadjuvant chemotherapy followed by concurrent chemoradiation therapy . Laryngectomy is reserved for patients with less than a 50% response to chemotherapy or who have persistent disease following radiation.[ 1 - 6 ][ Level of evidence A3 ]\n- Definitive radiation therapy alone with altered fractionation in patients who are not candidates for concurrent chemotherapy and surgery (total laryngectomy) for salvage of radiation failures.[ 7 ]\n- Surgery with or without postoperative radiation therapy (PORT).[ 8 ]"
+        },
+        {
+          "section": "Glottis",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Laryngeal Cancer",
+            "Glottis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment options for stage III cancer of the glottis include:\n- Concurrent chemoradiation therapy can be considered for patients who would require total laryngectomy for control of disease.[ 1 ]\n- Neoadjuvant chemotherapy followed by concurrent chemoradiation therapy . Laryngectomy is reserved for patients with less than a 50% response to chemotherapy or who have persistent disease after radiation.[ 1 - 6 ]\n- Definitive radiation therapy alone with altered fractionation in patients who are not candidates for concurrent chemotherapy and surgery (total laryngectomy) for salvage of radiation failures.[ 7 ]\n- Surgery with or without PORT.[ 8 ]\n- Clinical trials exploring novel targeted therapy, immunotherapy, novel chemotherapy, radiosensitizers, or particle-beam radiation therapy.[ 9 ]"
+        },
+        {
+          "section": "Subglottis",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Laryngeal Cancer",
+            "Subglottis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment options for stage III cancer of the subglottis include:\n- Laryngectomy plus isolated thyroidectomy and tracheoesophageal node dissection usually followed by PORT.[ 10 ]\n- Treatment by radiation therapy alone is indicated for patients who are not candidates for surgery. Patients should be closely followed, and surgical salvage should be planned for recurrences that are local or in the neck.\n- Definitive radiation therapy alone with altered fractionation in patients who are not candidates for concurrent chemotherapy and surgery (total laryngectomy) for salvage of radiation failures.[ 6 , 7 ]\n- Induction chemotherapy followed by concomitant chemotherapy and radiation . Laryngectomy is reserved for patients with less than a 50% response to chemotherapy or who have persistent disease after radiation.[ 6 ]\n- Clinical trials exploring novel targeted therapy, immunotherapy, novel chemotherapy, radiosensitizers, or particle-beam radiation therapy.[ 9 ]\nFor more information, see the Treatment Option Overview for Laryngeal Cancer section.\nRole of Neck Dissection in the Post-Radiation Therapy Setting\nA prospective randomized trial included 564 patients with head and neck cancer and N2 or N3 disease. Patients were assigned to undergo planned neck dissection or surveillance with positron emission tomography–computed tomography (PET-CT). With a median follow-up of 36 months, PET-CT resulted in fewer neck dissections compared with the surgical arm (54 vs. 221), with a 2-year survival rate of 84.9% versus 81.5%, respectively. The hazard ratio (HR) death slightly favored PET-CT–guided surveillance and indicated noninferiority (upper boundary, 95% confidence interval for HR, <1.50; P = .004).[ 11 ][ Level of evidence A1 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Laryngeal Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Laryngeal Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Forastiere AA, Zhang Q, Weber RS, et al.: Long-term results of RTOG 91-11: a comparison of three nonsurgical treatment strategies to preserve the larynx in patients with locally advanced larynx cancer. J Clin Oncol 31 (7): 845-52, 2013. [PUBMED Abstract]\n- Spaulding MB, Fischer SG, Wolf GT: Tumor response, toxicity, and survival after neoadjuvant organ-preserving chemotherapy for advanced laryngeal carcinoma. The Department of Veterans Affairs Cooperative Laryngeal Cancer Study Group. J Clin Oncol 12 (8): 1592-9, 1994. [PUBMED Abstract]\n- Adelstein DJ, Saxton JP, Lavertu P, et al.: A phase III randomized trial comparing concurrent chemotherapy and radiotherapy with radiotherapy alone in resectable stage III and IV squamous cell head and neck cancer: preliminary results. Head Neck 19 (7): 567-75, 1997. [PUBMED Abstract]\n- Jeremic B, Shibamoto Y, Milicic B, et al.: Hyperfractionated radiation therapy with or without concurrent low-dose daily cisplatin in locally advanced squamous cell carcinoma of the head and neck: a prospective randomized trial. J Clin Oncol 18 (7): 1458-64, 2000. [PUBMED Abstract]\n- Bernier J, Domenge C, Ozsahin M, et al.: Postoperative irradiation with or without concomitant chemotherapy for locally advanced head and neck cancer. N Engl J Med 350 (19): 1945-52, 2004. [PUBMED Abstract]\n- Lefebvre JL, Pointreau Y, Rolland F, et al.: Induction chemotherapy followed by either chemoradiotherapy or bioradiotherapy for larynx preservation: the TREMPLIN randomized phase II study. J Clin Oncol 31 (7): 853-9, 2013. [PUBMED Abstract]\n- MacKenzie RG, Franssen E, Balogh JM, et al.: Comparing treatment outcomes of radiotherapy and surgery in locally advanced carcinoma of the larynx: a comparison limited to patients eligible for surgery. Int J Radiat Oncol Biol Phys 47 (1): 65-71, 2000. [PUBMED Abstract]\n- Induction chemotherapy plus radiation compared with surgery plus radiation in patients with advanced laryngeal cancer. The Department of Veterans Affairs Laryngeal Cancer Study Group. N Engl J Med 324 (24): 1685-90, 1991. [PUBMED Abstract]\n- Adelstein DJ, Lavertu P, Saxton JP, et al.: Mature results of a phase III randomized trial comparing concurrent chemoradiotherapy with radiation therapy alone in patients with stage III and IV squamous cell carcinoma of the head and neck. Cancer 88 (4): 876-83, 2000. [PUBMED Abstract]\n- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80.\n- Mehanna H, Wong WL, McConkey CC, et al.: PET-CT Surveillance versus Neck Dissection in Advanced Head and Neck Cancer. N Engl J Med 374 (15): 1444-54, 2016. [PUBMED Abstract]"
+        },
+        {
+          "section": "Supraglottis",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Laryngeal Cancer",
+            "Supraglottis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment options for stage IV cancer of the supraglottis include:\n- Concurrent chemoradiation therapy can be considered for patients who would require total laryngectomy for control of disease, including those with nonbulky T4a disease.[ 1 ]\n- Neoadjuvant chemotherapy followed by concurrent chemoradiation therapy . Laryngectomy is reserved for patients with less than a 50% response to chemotherapy or who have persistent disease after radiation.[ 1 - 6 ]\n- Definitive radiation therapy alone in patients who are not candidates for concurrent chemotherapy and surgery (total laryngectomy) for salvage of radiation failures.[ 7 ]\n- For patients with bulky T4 disease, surgery followed by postoperative radiation therapy (PORT) with or without concurrent chemotherapy based on pathological risk factors for large volume T4 disease.[ 8 ]\n- Clinical trials exploring novel targeted therapy, immunotherapy, novel chemotherapy, radiosensitizers, or particle-beam radiation therapy.[ 9 ]"
+        },
+        {
+          "section": "Glottis",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Laryngeal Cancer",
+            "Glottis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment options for stage IV cancer of the glottis include:\n- Concurrent chemoradiation therapy can be considered for patients who would require total laryngectomy for control of disease, including those with nonbulky T4a disease.[ 1 ]\n- Neoadjuvant chemotherapy followed by concurrent chemoradiation therapy . Laryngectomy is reserved for patients with less than a 50% response to chemotherapy or who have persistent disease following radiation.[ 1 - 6 ]\n- Definitive radiation therapy alone in patients who are not candidates for concurrent chemotherapy and surgery (total laryngectomy) for salvage of radiation failures.[ 7 ]\n- For patients with bulky T4 disease, surgery (total laryngectomy) followed by PORT with or without concurrent chemotherapy based on pathological risk factors for large volume T4 disease.[ 8 ]\n- Clinical trials exploring novel targeted therapy, immunotherapy, novel chemotherapy, radiosensitizers, or particle-beam radiation therapy.[ 9 ]"
+        },
+        {
+          "section": "Subglottis",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Laryngeal Cancer",
+            "Subglottis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for stage IV cancer of the subglottis include:\n- Laryngectomy plus total thyroidectomy and bilateral tracheoesophageal node dissection usually followed by PORT with or without concurrent chemotherapy based on pathological risk factors.[ 10 ]\n- Concurrent chemoradiation therapy can be considered for patients who would require total laryngectomy for control of disease, including those with nonbulky T4a disease.[ 1 ]\n- Clinical trials exploring novel targeted therapy, immunotherapy, novel chemotherapy, radiosensitizers, or particle-beam radiation therapy.\nFor more information, see the Treatment Option Overview for Laryngeal Cancer section."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Laryngeal Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Laryngeal Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Forastiere AA, Zhang Q, Weber RS, et al.: Long-term results of RTOG 91-11: a comparison of three nonsurgical treatment strategies to preserve the larynx in patients with locally advanced larynx cancer. J Clin Oncol 31 (7): 845-52, 2013. [PUBMED Abstract]\n- Spaulding MB, Fischer SG, Wolf GT: Tumor response, toxicity, and survival after neoadjuvant organ-preserving chemotherapy for advanced laryngeal carcinoma. The Department of Veterans Affairs Cooperative Laryngeal Cancer Study Group. J Clin Oncol 12 (8): 1592-9, 1994. [PUBMED Abstract]\n- Adelstein DJ, Saxton JP, Lavertu P, et al.: A phase III randomized trial comparing concurrent chemotherapy and radiotherapy with radiotherapy alone in resectable stage III and IV squamous cell head and neck cancer: preliminary results. Head Neck 19 (7): 567-75, 1997. [PUBMED Abstract]\n- Jeremic B, Shibamoto Y, Milicic B, et al.: Hyperfractionated radiation therapy with or without concurrent low-dose daily cisplatin in locally advanced squamous cell carcinoma of the head and neck: a prospective randomized trial. J Clin Oncol 18 (7): 1458-64, 2000. [PUBMED Abstract]\n- Bernier J, Domenge C, Ozsahin M, et al.: Postoperative irradiation with or without concomitant chemotherapy for locally advanced head and neck cancer. N Engl J Med 350 (19): 1945-52, 2004. [PUBMED Abstract]\n- Lefebvre JL, Pointreau Y, Rolland F, et al.: Induction chemotherapy followed by either chemoradiotherapy or bioradiotherapy for larynx preservation: the TREMPLIN randomized phase II study. J Clin Oncol 31 (7): 853-9, 2013. [PUBMED Abstract]\n- MacKenzie RG, Franssen E, Balogh JM, et al.: Comparing treatment outcomes of radiotherapy and surgery in locally advanced carcinoma of the larynx: a comparison limited to patients eligible for surgery. Int J Radiat Oncol Biol Phys 47 (1): 65-71, 2000. [PUBMED Abstract]\n- Bernier J, Cooper JS: Chemoradiation after surgery for high-risk head and neck cancer patients: how strong is the evidence? Oncologist 10 (3): 215-24, 2005. [PUBMED Abstract]\n- Adelstein DJ, Lavertu P, Saxton JP, et al.: Mature results of a phase III randomized trial comparing concurrent chemoradiotherapy with radiation therapy alone in patients with stage III and IV squamous cell carcinoma of the head and neck. Cancer 88 (4): 876-83, 2000. [PUBMED Abstract]\n- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80."
+        },
+        {
+          "section": "Treatment Options for Metastatic and Recurrent Laryngeal Cancer",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Laryngeal Cancer",
+            "Treatment Options for Metastatic and Recurrent Laryngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment options for metastatic and recurrent laryngeal cancer include:\n- Surgery [ 1 ] and/or radiation therapy. Salvage is possible for failures of surgery alone or of radiation therapy alone, and further surgery [ 1 ] and/or radiation therapy should be attempted, as indicated. Selected patients may be candidates for partial laryngectomy after high-dose radiation therapy has failed.[ 2 ]\n- Radiation therapy. Re-irradiation for laryngeal salvage following radiation therapy failure has resulted in long-term survival in a small number of patients; it may be considered for small recurrences after radiation therapy, especially in patients who refuse or are not candidates for laryngectomy.[ 3 ]\n- Chemotherapy .\n- Immunotherapy .\n- Pembrolizumab .\n- Nivolumab .\n- Clinical trials for patients whose disease does not respond to combined radiation therapy and surgery.\nFor more information, see the Treatment Option Overview for Laryngeal Cancer section."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Laryngeal Cancer",
+            "Treatment Options for Metastatic and Recurrent Laryngeal Cancer",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Platinum-based chemotherapy is often used as first-line treatment for patients with recurrent or metastatic squamous cell carcinoma (SCC) of the head and neck. A response of variable duration may be achieved after systemic chemotherapy.[ 4 ]\nEvidence (chemotherapy):\n- In a phase III randomized trial of 442 patients with untreated metastatic or recurrent SCC of the head and neck, adding cetuximab to platinum plus fluorouracil (5-FU) compared with platinum plus 5-FU alone improved overall survival (OS), with a median survival of 10.1 months versus 7.4 months (hazard ratio [HR] death , 0.80; 95% confidence interval [CI], 0.64–0.99; P = .04).[ 5 ] Tumor EGFR gene copy number was not found to be a predictive biomarker for the efficacy of cetuximab plus platinum and 5-FU as first-line therapy for patients with recurrent or metastatic SCC of the head and neck.[ 7 ][ Level of evidence A1 ]\n- Quality of life was not adversely affected by adding cetuximab to this platinum-based regimen.[ 6 ]\n- A phase III, open-label, randomized trial demonstrated improvements in progression-free survival (PFS) for patients who received afatinib compared with patients who received methotrexate.[ 8 ]\n- After a median follow-up of 6.7 months, the median PFS was 2.6 months (95% CI, 2.0–2.7) for the afatinib group and 1.7 months (95% CI, 1.5–2.4) for the methotrexate group (HR, 0.80; 95% CI, 0.65–0.98; P = .030).\n- The most frequent grade 3 or grade 4 drug-related adverse events for patients treated with afatinib or methotrexate included:\n- Rash or acne (10% for afatinib vs. 0% for methotrexate).\n- Diarrhea (9% for afatinib vs. 2% for methotrexate).\n- Stomatitis (6% for afatinib vs. 8% for methotrexate).\n- Fatigue (6% for afatinib vs. 3% for methotrexate).\n- Neutropenia (<1% for afatinib vs. 7% for methotrexate).\n- Overall serious adverse events occurred in 14% of patients treated with afatinib and 11% of patients treated with methotrexate."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Laryngeal Cancer",
+            "Treatment Options for Metastatic and Recurrent Laryngeal Cancer",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Immunotherapy (inhibitor of the programmed death-ligand 1 [PD-L1] pathway) can be used after platinum-based failure in patients with metastatic or locally recurrent disease.[ 9 , 10 ]"
+        },
+        {
+          "section": "Pembrolizumab",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Laryngeal Cancer",
+            "Treatment Options for Metastatic and Recurrent Laryngeal Cancer",
+            "Immunotherapy",
+            "Pembrolizumab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "Pembrolizumab is a monoclonal antibody and an inhibitor of the programmed death-1 (PD-1) pathway. Studies have evaluated pembrolizumab in patients with incurable metastatic or recurrent head and neck squamous cell carcinoma (SCC).\nEvidence (pembrolizumab as first-line therapy):\n- KEYNOTE-048 (NCT02358031) was a nonblinded, randomized, phase III study of participants with untreated locally incurable metastatic or recurrent head and neck SCC that was performed at 200 sites in 37 countries.[ 11 ] A total of 882 patients were randomly assigned in a 1:1:1 ratio to receive pembrolizumab alone (n = 301), pembrolizumab plus a platinum and fluorouracil (5-FU) (pembrolizumab with chemotherapy) (n = 281), or cetuximab plus a platinum and 5-FU (cetuximab with chemotherapy) (n = 300). Investigators, patients, and representatives of the sponsor were masked to the programmed death-ligand 1 (PD-L1) combined positive score (CPS) results; PD-L1 positivity was not required for study entry. A total of 754 patients (85%) had a CPS of 1 or higher and 381 patients (43%) had a CPS of 20 or higher. The primary end points were overall survival (OS) and progression-free survival (PFS). Progression was defined as radiographically confirmed disease progression or death from any cause, whichever came first, in the intention-to-treat population.\n- At the second interim analysis, pembrolizumab alone showed improved or noninferior OS compared with cetuximab with chemotherapy. The median OS results were reported as follows:[ 11 ][ Level of evidence A1 ]\n- Among the population with a CPS of 20 or higher, the median OS was 14.9 months in patients who received pembrolizumab alone and 10.7 months in patients who received cetuximab with chemotherapy (hazard ratio [HR], 0.61; 95% confidence interval [CI], 0.45–0.83; P = .0007).\n- Among the population with a CPS of 1 or higher, the median OS was 12.3 months in patients who received pembrolizumab alone and 10.3 months in patients who received cetuximab with chemotherapy (HR, 0.78; 95% CI, 0.64–0.96; P = .0086).\n- Among the total population, patients who received pembrolizumab alone had noninferior OS (11.6 months) compared with patients who received cetuximab with chemotherapy (10.7 months) (HR, 0.85; 95% CI, 0.71–1.03; P = .0456).\n- Pembrolizumab with chemotherapy showed improved OS versus cetuximab with chemotherapy. The OS results were reported as follows:\n- At the second interim analysis, among the total population, the median OS was 13.0 months in patients who received pembrolizumab with chemotherapy and 10.7 months in patients who received cetuximab with chemotherapy (HR, 0.77; 95% CI, 0.63–0.93; P = .0034).\n- At the final analysis, among the population with a CPS of 20 or higher, the median OS was 14.7 months in patients who received pembrolizumab with chemotherapy and 11.0 months in patients who received cetuximab with chemotherapy (HR, 0.60; 95% CI, 0.45–0.82; P = .0004).\n- At the final analysis, among the population with a CPS of 1 or higher, the median OS was 13.6 months in patients who received pembrolizumab with chemotherapy and 10.4 months in patients who received cetuximab with chemotherapy (HR, 0.65; 95% CI, 0.53–0.80; P < .0001).\n- At the second interim analysis, neither pembrolizumab alone nor pembrolizumab with chemotherapy improved PFS.\n- At the final analysis, grade 3 or higher all-cause adverse events occurred in 164 of 300 patients (55%) in the pembrolizumab-alone group, 235 of 276 patients (85%) who received pembrolizumab with chemotherapy, and 239 of 287 patients (83%) who received cetuximab with chemotherapy.\n- Adverse events led to death in 25 patients (8%) in the pembrolizumab-alone group, 32 patients (12%) who received pembrolizumab with chemotherapy, and 28 patients (10%) who received cetuximab with chemotherapy.\nPembrolizumab plus a platinum and 5-FU is an appropriate first-line treatment for patients with metastatic or recurrent head and neck SCC. Pembrolizumab monotherapy is an appropriate first-line treatment for patients with PD-L1–positive metastatic or recurrent head and neck SCC. These results were confirmed at a longer median follow-up of 45 months (interquartile range, 41.0–49.2).[ 12 ]\nEvidence (pembrolizumab after progression on platinum-based treatment):\n- The phase III KEYNOTE-040 (NCT02252042) trial included patients with incurable metastatic or recurrent head and neck SCC who had received platinum-based treatment within 3 to 6 months.[ 9 ] Patients were randomly assigned to the pembrolizumab arm (200 mg every 3 weeks [247 patients]) or to the standard therapy arm of the investigator’s choice (methotrexate, docetaxel, or cetuximab [248 patients]). Patients received treatment until progression or toxicity. The maximum duration of pembrolizumab was 24 months. The primary end point was OS in the intention-to-treat population.\n- The median OS was 8.4 months in the pembrolizumab arm and 6.9 months in the standard therapy arm (HR, 0.80; 95% CI, 0.65–0.98; nominal P = .0161).[ 9 ][ Level of evidence A1 ]\n- Pembrolizumab was associated with fewer grade 3 or higher adverse events (pembrolizumab, 13% vs. standard therapy, 36%). The most common treatment-related adverse events were hypothyroidism (13%) in the pembrolizumab arm and fatigue (18%) in the standard therapy arm.\n- In patients who received pembrolizumab, there were four treatment-related deaths resulting from large intestinal perforation, Stevens-Johnson syndrome, and unspecified malignant progression. Two treatment-related deaths in the standard therapy arm resulted from malignant progression and pneumonia.\n- The PD-L1 CPS was 1 or higher in 79% of the patients in the pembrolizumab arm and 77% of the patients in the standard therapy arm.\n- Compared with patients treated with standard therapy, a reduced HR death was noted for patients who received pembrolizumab and had PD-1 expression on their tumors or in the tumor microenvironment as noted by a PD-L1 CPS of 1 or higher (HR, 0.74; 95% CI, 0.58–0.93; nominal P = .0049) or a PD-L1 tumor proportion score of 50% or higher (HR, 0.53; 95% CI, 0.35–0.81; nominal P = .0014)."
+        },
+        {
+          "section": "Nivolumab",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Laryngeal Cancer",
+            "Treatment Options for Metastatic and Recurrent Laryngeal Cancer",
+            "Immunotherapy",
+            "Pembrolizumab",
+            "Nivolumab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 26,
+          "text": "Nivolumab is a fully human immunoglobulin G4 anti–PD-1 monoclonal antibody.\nEvidence (nivolumab combined with ipilimumab in patients who have not previously received systemic therapy):\n- The CheckMate 651 trial (NCT02741570) evaluated first-line nivolumab plus ipilimumab versus EXTREME (cetuximab, cisplatin/carboplatin, and 5-FU for up to six cycles followed by cetuximab maintenance) in patients with recurrent or metastatic head and neck SCC.[ 13 ] The primary end points were OS in all randomly assigned patients and patients with a PD-L1 CPS of 20 or higher. Secondary end points included OS in patients with a PD-L1 CPS of 1 or higher and PFS, objective response rate, and duration of response in all randomly assigned patients and patients with a PD-L1 CPS of 20 or higher. The absence of a survival benefit for immune checkpoint inhibitors in this trial was an unexpected outcome, given the similarity of nivolumab to pembrolizumab in the studies of patients with cisplatin-refractory disease.[ 9 , 10 ] An editorial accompanying the CheckMate 651 trial analyzed some of the factors that may have contributed to a different result. The editorial suggested that survival in the control group, which was longer than that reported in prior studies, may have been impacted by the greater availability of second-line immunotherapy in the control group (46% in CheckMate 651 compared with 25% in the KEYNOTE-048 trial). The authors also suggested that the coadministration of ipilimumab detracted from the activity of nivolumab, as shown in the CheckMate 714 trial.[ 14 ]\n- Among all randomly assigned patients, there was no statistically significant difference in OS with nivolumab plus ipilimumab versus EXTREME (median OS, 13.9 vs. 13.5 months; HR, 0.95; 97.9% CI, 0.80–1.13; P = .4951). Among patients with a PD-L1 CPS of 20 or higher, there was also no statistically significant OS difference between the two treatments (median OS, 17.6 vs. 14.6 months; HR, 0.78; 97.51% CI, 0.59–1.03; P = .0469).[ 13 ][ Level of evidence A1 ]\n- In patients with a CPS of 1 or higher, the median OS was 15.7 months for patients who received nivolumab plus ipilimumab versus 13.2 months for patients who received EXTREME (HR, 0.82; 95% CI, 0.69–0.97).\n- Among patients with a CPS of 20 or higher, the median PFS was 5.4 months for patients who received nivolumab plus ipilimumab and 7.0 months for patients who received EXTREME. The objective response rate was 34.1% for patients who received nivolumab plus ipilimumab and 36.0% for patients who received EXTREME.\n- Grade 3 or 4 treatment-related adverse events occurred in 28.2% of patients who received nivolumab plus ipilimumab and 70.7% of patients who received EXTREME.\n- CheckMate 651 did not meet its primary end points of OS in the randomly assigned or CPS of 20 or higher populations.\n- CheckMate 714 (NCT02823574), a double-blind phase II trial, evaluated the clinical benefit of first-line nivolumab plus ipilimumab versus nivolumab alone in 425 patients with recurrent or metastatic head and neck SCC.[ 15 ] Patients were randomly assigned in a 2:1 ratio to receive either nivolumab (3 mg/kg intravenously [IV] every 2 weeks) plus ipilimumab (1 mg/kg IV every 6 weeks) or nivolumab (3 mg/kg IV every 2 weeks) plus placebo. Treatment continued for up to 2 years or until disease progression, unacceptable toxic effects, or consent withdrawal. The primary end points were objective response rate and duration of response between treatment arms by blinded independent central review in the population with platinum-refractory recurrent or metastatic disease. These were patients who had recurrent disease less than 6 months after completion of platinum-based chemotherapy (adjuvant or neoadjuvant, or as part of multimodal treatment [chemotherapy, surgery, and/or radiation therapy]). Among the 241 patients (56.7%) with platinum-refractory disease, 159 were assigned to receive nivolumab plus ipilimumab and 82 were assigned to receive nivolumab alone. Among the 184 patients (43.3%) with platinum-eligible disease, 123 were assigned to receive nivolumab plus ipilimumab and 61 were assigned to receive nivolumab alone.[ 15 ][ Level of evidence B3 ]\n- At primary database lock, the objective response rate in the population with platinum-refractory disease was 13.2% (95% CI, 8.4%–19.5%) with nivolumab plus ipilimumab and 18.3% (95% CI, 10.6%–28.4%) with nivolumab alone (odds ratio, 0.68; 95.5% CI, 0.33–1.43; P = .29).\n- The median duration of response was not reached (NR) in the nivolumab-plus-ipilimumab group (95% CI, 11.0 months–NR) and was 11.1 months (95% CI, 4.1–NR) in the nivolumab-alone group. In the population with platinum-eligible disease, the objective response rate was 20.3% (95% CI, 13.6%–28.5%) with nivolumab plus ipilimumab and 29.5% (95% CI, 18.5%–42.6%) with nivolumab alone.\n- Among the population with platinum-refractory disease, grade 3 or 4 treatment-related adverse events occurred in 25 of 158 patients (15.8%) who received nivolumab plus ipilimumab and in 12 of 82 patients (14.6%) who received nivolumab alone. Among the population with platinum-eligible disease, grade 3 or 4 treatment-related adverse events occurred in 30 of 122 patients (24.6%) who received nivolumab plus ipilimumab and in 8 of 61 patients (13.1%) who received nivolumab alone.\n- This trial did not meet its primary end point of objective response rate benefit with first-line nivolumab plus ipilimumab versus nivolumab alone in patients with platinum-refractory recurrent or metastatic head and neck SCC.\nEvidence (nivolumab after progression on platinum-based treatment):\n- A phase III open-label trial included 361 patients with recurrent SCC of the head and neck and disease progression within 6 months after platinum-based chemotherapy. Patients were randomly assigned in a 2:1 ratio to receive either nivolumab (at a dose of 3 mg/kg of body weight) every 2 weeks or standard single-agent systemic therapy (methotrexate, docetaxel, or cetuximab). The primary end point was OS.[ 10 ]\n- The median OS was 7.5 months (95% CI, 5.5–9.1) in the nivolumab group versus 5.1 months (95% CI, 4.0–6.0) in the standard therapy group. OS was statistically significantly longer with nivolumab than with standard therapy (HR death , 0.70; 97.73% CI, 0.51–0.96; P = .01). The estimated 1-year survival rate was approximately 19% higher in patients who received nivolumab (36.0%) than in those who received standard therapy (16.6%).[ 10 ][ Level of evidence A1 ]\n- There was no statistically significant difference in median PFS between treatment groups. The 6-month PFS rate was 19.7% with nivolumab versus 9.9% with standard therapy.\n- The response rate was 13.3% in the nivolumab group versus 5.8% in the standard therapy group.\n- Grade 3 or 4 treatment-related adverse events occurred in 13.1% of the patients in the nivolumab group compared with 35.1% of the patients in the standard therapy group.\n- Quality-of-life outcomes—including physical, role, and social functioning and pain, sensory, and social contact problems—were stable in the nivolumab group but worse in the standard therapy group. These outcomes were assessed using the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire (QLQ) Core Module (QLQ-C30) and the Head and Neck Module (QLQ-H&N35).\n- In the subgroup of patients with a PD-L1 expression level of 1% or higher, the HR death among patients treated with nivolumab versus standard therapy was 0.55 (95% CI, 0.36–0.83). In the subgroup of patients with a PD-L1 expression level lower than 1%, the HR was 0.89 (95% CI, 0.54–1.45; P = .17 for interaction).\n- A randomized, phase III, superiority study in India evaluated the dose of immune checkpoint inhibitors in the setting of palliative care for patients with advanced head and neck cancer. Low-dose IV nivolumab (20 mg every 3 weeks) was added to a triple metronomic chemotherapy regimen of oral methotrexate (9 mg/m 2 once weekly), celecoxib (200 mg twice daily), and erlotinib (150 mg once daily). Notably, this nivolumab dose is less than 10% of the dose recommended by the U.S. Food and Drug Administration and the European Medicines Agency. A total of 151 patients were randomly assigned to receive either triple metronomic chemotherapy alone (n = 75) or triple metronomic chemotherapy with nivolumab (n = 76). The primary end point was 1-year OS.[ 16 ] Although the control arm in this study cannot be considered standard care, lower doses of immunotherapy appeared to have some benefit in this setting.[ 17 ]\n- The addition of low-dose nivolumab to triple metronomic chemotherapy improved the 1-year OS rate from 16.3% (95% CI, 8.0%–27.4%) to 43.4% (95% CI, 30.8%–55.3%) (HR, 0.545; 95% CI, 0.362–0.820; P = .0036).[ 16 ][ Level of evidence A1 ]\n- The median OS was 6.7 months (95% CI, 5.8–8.1) for patients who received triple metronomic chemotherapy alone and 10.1 months (95% CI, 7.4–12.6) for patients who received triple metronomic chemotherapy with nivolumab ( P = .0052).\n- The rate of grade 3 or higher adverse events was 50% for patients who received triple metronomic chemotherapy alone and 46.1% for patients who received triple metronomic chemotherapy with nivolumab ( P = .744).\nSalvage after previous combined total laryngectomy and radiation therapy is poor."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Laryngeal Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Laryngeal Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "- Wong LY, Wei WI, Lam LK, et al.: Salvage of recurrent head and neck squamous cell carcinoma after primary curative surgery. Head Neck 25 (11): 953-9, 2003. [PUBMED Abstract]\n- Paleri V, Thomas L, Basavaiah N, et al.: Oncologic outcomes of open conservation laryngectomy for radiorecurrent laryngeal carcinoma: a systematic review and meta-analysis of English-language literature. Cancer 117 (12): 2668-76, 2011. [PUBMED Abstract]\n- Wang CC, McIntyre J: Re-irradiation of laryngeal carcinoma--techniques and results. Int J Radiat Oncol Biol Phys 26 (5): 783-5, 1993. [PUBMED Abstract]\n- Al-Sarraf M: Head and neck cancer: chemotherapy concepts. Semin Oncol 15 (1): 70-85, 1988. [PUBMED Abstract]\n- Vermorken JB, Mesia R, Rivera F, et al.: Platinum-based chemotherapy plus cetuximab in head and neck cancer. N Engl J Med 359 (11): 1116-27, 2008. [PUBMED Abstract]\n- Mesía R, Rivera F, Kawecki A, et al.: Quality of life of patients receiving platinum-based chemotherapy plus cetuximab first line for recurrent and/or metastatic squamous cell carcinoma of the head and neck. Ann Oncol 21 (10): 1967-73, 2010. [PUBMED Abstract]\n- Licitra L, Mesia R, Rivera F, et al.: Evaluation of EGFR gene copy number as a predictive biomarker for the efficacy of cetuximab in combination with chemotherapy in the first-line treatment of recurrent and/or metastatic squamous cell carcinoma of the head and neck: EXTREME study. Ann Oncol 22 (5): 1078-87, 2011. [PUBMED Abstract]\n- Machiels JP, Haddad RI, Fayette J, et al.: Afatinib versus methotrexate as second-line treatment in patients with recurrent or metastatic squamous-cell carcinoma of the head and neck progressing on or after platinum-based therapy (LUX-Head & Neck 1): an open-label, randomised phase 3 trial. Lancet Oncol 16 (5): 583-94, 2015. [PUBMED Abstract]\n- Cohen EEW, Soulières D, Le Tourneau C, et al.: Pembrolizumab versus methotrexate, docetaxel, or cetuximab for recurrent or metastatic head-and-neck squamous cell carcinoma (KEYNOTE-040): a randomised, open-label, phase 3 study. Lancet 393 (10167): 156-167, 2019. [PUBMED Abstract]\n- Ferris RL, Blumenschein G, Fayette J, et al.: Nivolumab for Recurrent Squamous-Cell Carcinoma of the Head and Neck. N Engl J Med 375 (19): 1856-1867, 2016. [PUBMED Abstract]\n- Burtness B, Harrington KJ, Greil R, et al.: Pembrolizumab alone or with chemotherapy versus cetuximab with chemotherapy for recurrent or metastatic squamous cell carcinoma of the head and neck (KEYNOTE-048): a randomised, open-label, phase 3 study. Lancet 394 (10212): 1915-1928, 2019. [PUBMED Abstract]\n- Harrington KJ, Burtness B, Greil R, et al.: Pembrolizumab With or Without Chemotherapy in Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma: Updated Results of the Phase III KEYNOTE-048 Study. J Clin Oncol 41 (4): 790-802, 2023. [PUBMED Abstract]\n- Haddad RI, Harrington K, Tahara M, et al.: Nivolumab Plus Ipilimumab Versus EXTREME Regimen as First-Line Treatment for Recurrent/Metastatic Squamous Cell Carcinoma of the Head and Neck: The Final Results of CheckMate 651. J Clin Oncol 41 (12): 2166-2180, 2023. [PUBMED Abstract]\n- Burtness B: First-Line Nivolumab Plus Ipilimumab in Recurrent/Metastatic Head and Neck Cancer-What Happened? J Clin Oncol 41 (12): 2134-2137, 2023. [PUBMED Abstract]\n- Harrington KJ, Ferris RL, Gillison M, et al.: Efficacy and Safety of Nivolumab Plus Ipilimumab vs Nivolumab Alone for Treatment of Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck: The Phase 2 CheckMate 714 Randomized Clinical Trial. JAMA Oncol 9 (6): 779-789, 2023. [PUBMED Abstract]\n- Patil VM, Noronha V, Menon N, et al.: Low-Dose Immunotherapy in Head and Neck Cancer: A Randomized Study. J Clin Oncol 41 (2): 222-232, 2023. [PUBMED Abstract]\n- Mitchell AP, Goldstein DA: Cost Savings and Increased Access With Ultra-Low-Dose Immunotherapy. J Clin Oncol 41 (2): 170-172, 2023. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (05/14/2025)",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (05/14/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of adult laryngeal cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 10,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Laryngeal Cancer Treatment are:\n- Andrea Bonetti, MD (Pederzoli Hospital)\n- Minh Tam Truong, MD (Boston University Medical Center)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Laryngeal Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/hp/adult/laryngeal-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389189]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\cef8a92cf5abef45dfde.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Laryngeal Cancer",
+      "title": "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+      "summary_name": "Laryngeal Cancer Treatment",
+      "url": "https://www.cancer.gov/types/head-and-neck/patient/adult/laryngeal-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "February 12, 2025",
+      "retrieved_at": "2026-08-31T07:10:45.802934+00:00",
+      "content_sha256": "0cd0a6c5175b695a3ebe218c7156504e54592add7d3a133d043b698fdcee0797",
+      "section_count": 43,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Laryngeal Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Laryngeal cancer is a disease in which malignant (cancer) cells form in the tissues of the larynx.\n- Use of tobacco products and drinking too much alcohol can affect the risk of laryngeal cancer.\n- Signs and symptoms of laryngeal cancer include a sore throat and ear pain.\n- Tests that examine the throat and neck are used to help diagnose and stage laryngeal cancer.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Laryngeal cancer is a disease in which malignant (cancer) cells form in the tissues of the larynx.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Laryngeal Cancer",
+            "Laryngeal cancer is a disease in which malignant (cancer) cells form in the tissues of the larynx."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The larynx is a part of the throat , between the base of the tongue and the trachea . The larynx contains the vocal cords , which vibrate and make sound when air is directed against them. The sound echoes through the pharynx , mouth, and nose to make a person's voice.\nThere are three main parts of the larynx:\n- Supraglottis : The upper part of the larynx above the vocal cords, including the epiglottis .\n- Glottis : The middle part of the larynx where the vocal cords are located.\n- Subglottis : The lower part of the larynx between the vocal cords and the trachea (windpipe).\nMost laryngeal cancers form in squamous cells , the thin, flat cells lining the inside of the larynx.\nLaryngeal cancer is a type of head and neck cancer ."
+        },
+        {
+          "section": "Use of tobacco products and drinking too much alcohol can affect the risk of laryngeal cancer.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Laryngeal Cancer",
+            "Use of tobacco products and drinking too much alcohol can affect the risk of laryngeal cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Anything that increases a person's chance of getting a disease is called a risk factor . Not every person with one or more of these risk factors will develop laryngeal cancer, and it will develop in people who don't have any known risk factors. Talk with your doctor if you think you may be at risk."
+        },
+        {
+          "section": "Signs and symptoms of laryngeal cancer include a sore throat and ear pain.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Laryngeal Cancer",
+            "Signs and symptoms of laryngeal cancer include a sore throat and ear pain."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "These and other signs and symptoms may be caused by laryngeal cancer or by other conditions . Check with your doctor if you have any of the following:\n- A sore throat or cough that does not go away.\n- Trouble or pain when swallowing.\n- Ear pain.\n- A lump in the neck or throat.\n- A change or hoarseness in the voice."
+        },
+        {
+          "section": "Tests that examine the throat and neck are used to help diagnose and stage laryngeal cancer.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Laryngeal Cancer",
+            "Tests that examine the throat and neck are used to help diagnose and stage laryngeal cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "In addition to asking about your personal and family health history , your doctor may perform the following tests and procedures:\n- Physical exam of the throat and neck : An exam to check the throat and neck for abnormal areas. The doctor will feel the inside of the mouth with a gloved finger and examine the mouth and throat with a small long-handled mirror and light. This will include checking the insides of the cheeks and lips; the gums ; the back, roof, and floor of the mouth; the top, bottom, and sides of the tongue; and the throat. The neck will be felt for swollen lymph nodes . A history of the patient’s health habits and past illnesses and medical treatments will also be taken.\n- Biopsy : The removal of cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer. The sample of tissue may be removed during one of the following procedures:\n- Laryngoscopy : A procedure in which the doctor checks the larynx (voice box) with a mirror or a laryngoscope to check for abnormal areas. A laryngoscope is a thin, tube-like instrument with a light and a lens for viewing the inside of the throat and voice box. It may also have a tool to remove tissue samples, which are checked under a microscope for signs of cancer.\n- Endoscopy : A procedure to look at organs and tissues inside the body, such as the throat, esophagus , and trachea to check for abnormal areas. An endoscope (a thin, lighted tube with a light and a lens for viewing) is inserted through an opening in the body, such as the mouth. A special tool on the endoscope may be used to remove samples of tissue.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Enlarge Computed tomography (CT) scan of the head and neck. The patient lies on a table that slides through the CT scanner, which takes x-ray pictures of the inside of the head and neck.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- PET scan (positron emission tomography scan) : A procedure to find malignant tumor cells in the body. A small amount of radioactive glucose (sugar) is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do.\n- PET-CT scan : A procedure that combines the pictures from a positron emission tomography (PET) scan and a computed tomography (CT) scan. The PET and CT scans are done at the same time with the same machine. The combined scans give more detailed pictures of areas inside the body than either scan gives by itself. A PET-CT scan may be used to help diagnose disease, such as cancer, plan treatment, or find out how well treatment is working.\n- Bone scan : A procedure to check if there are rapidly dividing cells, such as cancer cells, in the bone. A very small amount of radioactive material is injected into a vein and travels through the bloodstream. The radioactive material collects in the bones with cancer and is detected by a scanner.\n- Barium swallow : A series of x-rays of the esophagus and stomach . The patient drinks a liquid that contains barium (a silver-white metallic compound ). The liquid coats the esophagus and stomach, and x-rays are taken. This procedure is also called an upper GI series."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Laryngeal Cancer",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Prognosis depends on the following:\n- The stage of the disease.\n- The location and size of the tumor .\n- The grade of the tumor.\n- The patient's age, sex, and general health, including whether the patient is anemic .\nTreatment options depend on the following:\n- The stage of the disease.\n- The location and size of the tumor.\n- Keeping the patient's ability to talk, eat, and breathe as normal as possible.\n- Whether the cancer has come back ( recurred ).\nSmoking tobacco and drinking alcohol decrease the effectiveness of treatment for laryngeal cancer. Patients with laryngeal cancer who continue to smoke and drink are less likely to be cured and more likely to develop a second tumor. After treatment for laryngeal cancer, frequent and careful follow-up is important."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Laryngeal Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- After laryngeal cancer has been diagnosed, tests are done to find out if cancer cells have spread within the larynx or to other parts of the body.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- The following stages are used for laryngeal cancer:\n- Stage 0 (Carcinoma in Situ)\n- Stage I\n- Stage II\n- Stage III\n- Stage IV\n- After surgery, the stage of the cancer may change and more treatment may be needed.\n- Laryngeal cancer can recur (come back) after it has been treated."
+        },
+        {
+          "section": "After laryngeal cancer has been diagnosed, tests are done to find out if cancer cells have spread within the larynx or to other parts of the body.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Laryngeal Cancer",
+            "After laryngeal cancer has been diagnosed, tests are done to find out if cancer cells have spread within the larynx or to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The process used to find out if cancer has spread within the larynx or to other parts of the body is called staging . The information gathered from the staging process determines the stage of the disease. It is important to know the stage of the disease in order to plan treatment. The results of some of the tests used to diagnose laryngeal cancer are often also used to stage the disease."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Laryngeal Cancer",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Laryngeal Cancer",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of cancer as the primary tumor. For example, if laryngeal cancer spreads to the lung , the cancer cells in the lung are actually laryngeal cancer cells. The disease is metastatic laryngeal cancer, not lung cancer."
+        },
+        {
+          "section": "Stage 0 (Carcinoma in Situ)",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Laryngeal Cancer",
+            "The following stages are used for laryngeal cancer:",
+            "Stage 0 (Carcinoma in Situ)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage 0 , abnormal cells are found in the lining of the larynx . These abnormal cells may become cancer and spread into nearby normal tissue . Stage 0 is also called carcinoma in situ ."
+        },
+        {
+          "section": "Stage I",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Laryngeal Cancer",
+            "The following stages are used for laryngeal cancer:",
+            "Stage I"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "In stage I , cancer has formed in the supraglottis , glottis , or subglottis area of the larynx :\n- Supraglottis: Cancer is in one area of the supraglottis and the vocal cords work normally.\n- Glottis: Cancer is in one or both vocal cords and the vocal cords work normally.\n- Subglottis: Cancer is in the subglottis only."
+        },
+        {
+          "section": "Stage II",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Laryngeal Cancer",
+            "The following stages are used for laryngeal cancer:",
+            "Stage II"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "In stage II , cancer has formed in the supraglottis , glottis , or subglottis area of the larynx :\n- Supraglottis: Cancer is in more than one area of the supraglottis or has spread to the area at the base of the tongue or to tissues near the vocal cords . The vocal cords work normally.\n- Glottis: Cancer has spread to the supraglottis, subglottis, or both, and/or the vocal cords do not work normally.\n- Subglottis: Cancer has spread to one or both vocal cords and the vocal cords may not work normally."
+        },
+        {
+          "section": "Stage III",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Laryngeal Cancer",
+            "The following stages are used for laryngeal cancer:",
+            "Stage III"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "In stage III , cancer has formed in the supraglottis , glottis , or subglottis area of the larynx :\nIn stage III cancer of the supraglottis:\n- cancer is in the larynx only and the vocal cords do not work, and/or cancer has spread near or through the inner part of the thyroid cartilage . Cancer may have also spread to one lymph node on the same side of the neck as the primary tumor and the lymph node is 3 centimeters or smaller; or\n- cancer is in one area of the supraglottis and the vocal cords work normally. Cancer has spread to one lymph node on the same side of the neck as the primary tumor and the lymph node is 3 centimeters or smaller; or\n- cancer is in more than one area of the supraglottis or has spread to the area at the base of the tongue or to tissues near the vocal cords. The vocal cords work normally. Cancer has also spread to one lymph node on the same side of the neck as the primary tumor and the lymph node is 3 centimeters or smaller.\nIn stage III cancer of the glottis:\n- cancer is in the larynx only and the vocal cords do not work, and/or cancer has spread near or through the inner part of the thyroid cartilage. Cancer may have also spread to one lymph node on the same side of the neck as the primary tumor and the lymph node is 3 centimeters or smaller; or\n- cancer is in one or both vocal cords and the vocal cords work normally. Cancer has spread to one lymph node on the same side of the neck as the primary tumor and the lymph node is 3 centimeters or smaller; or\n- cancer has spread to the supraglottis, subglottis, or both, and/or the vocal cords do not work normally. Cancer has also spread to one lymph node on the same side of the neck as the primary tumor and the lymph node is 3 centimeters or smaller.\nIn stage III cancer of the subglottis:\n- cancer is in the larynx only and the vocal cords do not work, and/or cancer has spread near or through the inner part of the thyroid cartilage. Cancer may have also spread to one lymph node on the same side of the neck as the primary tumor and the lymph node is 3 centimeters or smaller; or\n- cancer is in the subglottis only. Cancer has spread to one lymph node on the same side of the neck as the primary tumor and the lymph node is 3 centimeters or smaller; or\n- cancer has spread to one or both vocal cords and the vocal cords may not work normally. Cancer has also spread to one lymph node on the same side of the neck as the primary tumor and the lymph node is 3 centimeters or smaller."
+        },
+        {
+          "section": "Stage IV",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Laryngeal Cancer",
+            "The following stages are used for laryngeal cancer:",
+            "Stage IV"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "Stage IV is divided into stage IVA , stage IVB , and stage IVC . Each substage is the same for cancer in the supraglottis , glottis , or subglottis .\n- In stage IVA:\n- Cancer has spread through the thyroid cartilage and/or has spread to tissues beyond the larynx , such as the neck, trachea , thyroid, or esophagus . Cancer may have also spread to one lymph node on the same side of the neck as the primary tumor and the lymph node is 3 centimeters or smaller; or\n- Cancer may have spread from the supraglottis, glottis, or subglottis to tissues beyond the larynx, such as the neck, trachea, thyroid, or esophagus. The vocal cords may not work normally. Cancer has spread:\n- to one lymph node on the same side of the neck as the primary tumor and the lymph node is 3 centimeters or smaller. Cancer has spread through the outside covering of the lymph node; or\n- to one lymph node on the same side of the neck as the primary tumor and the lymph node is larger than 3 centimeters but not larger than 6 centimeters. Cancer has not spread through the outside covering of the lymph node; or\n- to more than one lymph node on the same side of the neck as the primary tumor and the lymph nodes are not larger than 6 centimeters. Cancer has not spread through the outside covering of the lymph nodes; or\n- to lymph nodes on both sides of the neck or on the side of the neck opposite the primary tumor and the lymph nodes are not larger than 6 centimeters. Cancer has not spread through the outside covering of the lymph nodes.\n- In stage IVB:\n- Cancer may have spread from the supraglottis, glottis, or subglottis to the space in front of the spine , the area around the carotid artery , or the area between the lungs . The vocal cords may not work normally. Cancer has spread: or\n- to one lymph node that is larger than 6 centimeters. Cancer has not spread through the outside covering of the lymph node; or\n- to one lymph node on the same side of the neck as the primary tumor and the lymph node is larger than 3 centimeters. Cancer has spread through the outside covering of the lymph node; or\n- to more than one lymph node anywhere in the neck. Cancer has spread through the outside covering of the lymph nodes; or\n- to one lymph node of any size on the side of the neck opposite the primary tumor. Cancer has spread through the outside covering of the lymph node;\n- Cancer has spread from the supraglottis, glottis, or subglottis to the space in front of the spine, the area around the carotid artery, or the area between the lungs. Cancer may have also spread to one or more lymph nodes anywhere in the neck and the lymph nodes may be any size.\n- In stage IVC, cancer has spread to other parts of the body, such as the lungs, liver , or bone."
+        },
+        {
+          "section": "After surgery, the stage of the cancer may change and more treatment may be needed.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Laryngeal Cancer",
+            "After surgery, the stage of the cancer may change and more treatment may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If the cancer is removed by surgery , a pathologist will examine a sample of the cancer tissue under a microscope . Sometimes, the pathologist’s review will result in a change to the stage of the cancer and more treatment after surgery."
+        },
+        {
+          "section": "Laryngeal cancer can recur (come back) after it has been treated.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Laryngeal Cancer",
+            "Laryngeal cancer can recur (come back) after it has been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer may come back in the larynx or in other parts of the body, such as lungs, liver, or bone. It is most likely to come back in the first 2 to 3 years."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "- There are different types of treatment for patients with laryngeal cancer.\n- The following types of treatment are used:\n- Radiation therapy\n- Surgery\n- Chemotherapy\n- Immunotherapy\n- New types of treatment are being tested in clinical trials.\n- Targeted therapy\n- Radiosensitizers\n- Treatment for laryngeal cancer may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with laryngeal cancer.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with laryngeal cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatment are available for patients with laryngeal cancer . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\nRadiation therapy may work better in patients who have stopped smoking before beginning treatment. External radiation therapy to the thyroid or the pituitary gland may change the way the thyroid gland works. A blood test to check the thyroid hormone level in the body may be done before and after therapy to make sure the thyroid gland is working properly.\nHyperfractionated radiation therapy may be used to treat laryngeal cancer. Hyperfractionated radiation therapy is radiation treatment in which a smaller than usual total daily dose of radiation is divided into two doses and the treatments are given twice a day. Hyperfractionated radiation therapy is given over the same period of time (days or weeks) as standard radiation therapy. New types of radiation therapy are being studied in the treatment of laryngeal cancer."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Surgery (removing the cancer in an operation) is a common treatment for all stages of laryngeal cancer. The following surgical procedures may be used:\n- Cordectomy : Surgery to remove the vocal cords only.\n- Supraglottic laryngectomy : Surgery to remove the supraglottis only.\n- Hemilaryngectomy : Surgery to remove half of the larynx (voice box). A hemilaryngectomy saves the voice.\n- Partial laryngectomy : Surgery to remove part of the larynx (voice box). A partial laryngectomy helps keep the patient's ability to talk.\n- Total laryngectomy : Surgery to remove the whole larynx. During this operation, a hole is made in the front of the neck to allow the patient to breathe. This is called a tracheostomy .\n- Thyroidectomy : The removal of all or part of the thyroid gland.\n- Laser surgery : A surgical procedure that uses a laser beam (a narrow beam of intense light) as a knife to make bloodless cuts in tissue or to remove a surface lesion such as a tumor in the larynx.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, some patients may be given chemotherapy or radiation therapy after surgery to kill any cancer cells that are left. Treatment given after the surgery, to lower the risk that the cancer will come back, is called adjuvant therapy ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping the cells from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ).\nFor more information, see Drugs Approved for Head and Neck Cancer . Laryngeal cancer is a type of head and neck cancer ."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Immunotherapy is a treatment that uses the patient's immune system to fight cancer. Substances made by the body or made in a laboratory are used to boost, direct, or restore the body's natural defenses against cancer. This cancer treatment is a type of biologic therapy .\n- PD-1 and PD-L1 inhibitor therapy : PD-1 is a protein on the surface of T cells that helps keep the body’s immune responses in check. PD-L1 is a protein found on some types of cancer cells. When PD-1 attaches to PD-L1, it stops the T cell from killing the cancer cell. PD-1 and PD-L1 inhibitors keep PD-1 and PD-L1 proteins from attaching to each other. This allows the T cells to kill cancer cells. Nivolumab and pembrolizumab are types of PD-1 inhibitors used to treat metastatic or recurrent laryngeal cancer."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "This summary section describes treatments that are being studied in clinical trials. It may not mention every new treatment being studied. Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells.\n- Monoclonal antibodies : Monoclonal antibodies are immune system proteins made in the laboratory to treat many diseases, including cancer. As a cancer treatment, these antibodies can attach to a specific target on cancer cells or other cells that may help cancer cells grow. The antibodies are able to then kill the cancer cells, block their growth, or keep them from spreading. Monoclonal antibodies are given by infusion . They may be used alone or to carry drugs, toxins , or radioactive material directly to cancer cells. Cetuximab is being studied in the treatment of laryngeal cancer. How do monoclonal antibodies work to treat cancer? This video shows how monoclonal antibodies, such as trastuzumab, pembrolizumab, and rituximab, block molecules cancer cells need to grow, flag cancer cells for destruction by the body’s immune system, or deliver harmful substances to cancer cells."
+        },
+        {
+          "section": "Radiosensitizers",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "Radiosensitizers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Radiosensitizers are drugs that make tumor cells more sensitive to radiation therapy. Combining radiation therapy with radiosensitizers may kill more tumor cells."
+        },
+        {
+          "section": "Treatment for laryngeal cancer may cause side effects.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for laryngeal cancer may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Stage I Laryngeal Cancer",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage I Laryngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of newly diagnosed stage I laryngeal cancer depends on where cancer is found in the larynx .\nIf cancer is in the supraglottis , treatment may include the following:\n- Radiation therapy .\n- Supraglottic laryngectomy .\nIf cancer is in the glottis , treatment may include the following:\n- Radiation therapy.\n- Laser surgery .\n- Cordectomy .\n- Partial laryngectomy , hemilaryngectomy , or total laryngectomy .\nIf cancer is in the subglottis , treatment may include the following:\n- Radiation therapy with or without surgery .\n- Surgery alone.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Stage II Laryngeal Cancer",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage II Laryngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of newly diagnosed stage II laryngeal cancer depends on where cancer is found in the larynx .\nIf cancer is in the supraglottis , treatment may include the following:\n- Radiation therapy to the tumor and nearby lymph nodes .\n- Supraglottic laryngectomy which may be followed by radiation therapy.\nIf cancer is in the glottis , treatment may include the following:\n- Radiation therapy.\n- Laser surgery .\n- Partial laryngectomy , hemilaryngectomy , or total laryngectomy .\nIf cancer is in the subglottis , treatment may include the following:\n- Radiation therapy with or without surgery .\n- Surgery alone.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Stage III Laryngeal Cancer",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage III Laryngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of newly diagnosed stage III laryngeal cancer depends on where cancer is found in the larynx .\nIf cancer is in the supraglottis , treatment may include the following:\n- Chemotherapy and radiation therapy given together\n- Chemotherapy followed by chemotherapy and radiation therapy given together. Laryngectomy may be done if cancer remains.\n- Radiation therapy alone for patients who cannot be treated with chemotherapy and surgery .\n- Surgery, which may be followed by radiation therapy.\nIf cancer is in the glottis , treatment may include the following:\n- Chemotherapy and radiation therapy given together.\n- Chemotherapy followed by chemotherapy and radiation therapy given together. Laryngectomy may be done if cancer remains.\n- Radiation therapy alone for patients who cannot be treated with chemotherapy and surgery.\n- Surgery, which may be followed by radiation therapy.\n- A clinical trial of radiation therapy alone compared with radiation and targeted therapy (cetuximab).\n- A clinical trial of immunotherapy, chemotherapy, radiosensitizers , or radiation therapy.\nIf cancer is in the subglottis , treatment may include the following:\n- Laryngectomy plus total thyroidectomy and removal of lymph nodes in the throat , usually followed by radiation therapy.\n- Radiation therapy followed by surgery if cancer comes back in the same area.\n- Radiation therapy alone for patients who cannot be treated with chemotherapy and surgery.\n- Chemotherapy followed by chemotherapy and radiation therapy given together. Laryngectomy may be done if cancer remains.\n- A clinical trial of radiation therapy alone compared with radiation and targeted therapy (cetuximab).\n- A clinical trial of immunotherapy, chemotherapy, radiosensitizers, or radiation therapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Stage IV Laryngeal Cancer",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage IV Laryngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of newly diagnosed stage IVA , IVB , and IVC laryngeal cancer depends on where cancer is found in the larynx .\nIf cancer is in the supraglottis or glottis , treatment may include the following:\n- Chemotherapy and radiation therapy given together.\n- Chemotherapy followed by chemotherapy and radiation therapy given together. Laryngectomy may be done if cancer remains.\n- Radiation therapy alone for patients who cannot be treated with chemotherapy and surgery .\n- Surgery followed by radiation therapy. Chemotherapy may be given with the radiation therapy.\n- A clinical trial of radiation therapy alone compared with radiation and targeted therapy ( cetuximab ).\n- A clinical trial of immunotherapy, chemotherapy, radiosensitizers , or radiation therapy.\nIf cancer is in the subglottis , treatment may include the following:\n- Laryngectomy plus total thyroidectomy and removal of lymph nodes in the throat, usually followed by radiation therapy with or without chemotherapy.\n- Chemotherapy and radiation therapy given together.\n- A clinical trial of radiation therapy alone compared with radiation and targeted therapy (cetuximab).\n- A clinical trial of immunotherapy, chemotherapy, radiosensitizers, or radiation therapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Metastatic and Recurrent Laryngeal Cancer",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Metastatic and Recurrent Laryngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of metastatic and recurrent laryngeal cancer may include the following:\n- Surgery with or without radiation therapy .\n- Radiation therapy.\n- Chemotherapy .\n- Immunotherapy with pembrolizumab or nivolumab .\n- A clinical trial of a new treatment.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Laryngeal Cancer",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "To Learn More About Laryngeal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "For more information from the National Cancer Institute about laryngeal cancer, see the following:\n- Head and Neck Cancer Home Page\n- Oral Complications of Cancer Therapies\n- Lasers to Treat Cancer\n- Drugs Approved for Head and Neck Cancer\n- Targeted Therapy to Treat Cancer\n- Immunotherapy to Treat Cancer\n- Head and Neck Cancers\n- Tobacco (includes help with quitting)\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of adult laryngeal cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Laryngeal Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/patient/adult/laryngeal-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389298]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Laryngeal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\56473ceeeb96128ad7a2.html"
+    }
+  ]
+}

@@ -1,0 +1,1114 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Pancreatic Cancer",
+  "generated_at": "2026-08-31T07:15:23.450071+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Pancreatic Cancer",
+      "title": "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Pancreatic Cancer Treatment",
+      "url": "https://www.cancer.gov/types/pancreatic/hp/pancreatic-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "February 12, 2025",
+      "retrieved_at": "2026-08-31T07:13:17.853036+00:00",
+      "content_sha256": "7d228f61031d138f03d0c87bb8e1f60c185c22e0ea49495b6311cdea2409af61",
+      "section_count": 49,
+      "sections": [
+        {
+          "section": "General Information About Pancreatic Cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "This summary provides information about the treatment of exocrine pancreatic cancer."
+        },
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Cancer",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Estimated new cases and deaths from pancreatic cancer in the United States in 2025:[ 1 ]\n- New cases: 67,440.\n- Deaths: 51,980.\nThe incidence of pancreatic cancer has markedly increased over the past several decades. In the United States, it ranks as the fourth leading cause of cancer death in men and the third leading cause of cancer death in women.[ 1 ] Despite the high mortality rate associated with pancreatic cancer, its etiology is poorly understood."
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Cancer",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Risk factors for development of pancreatic cancer include:[ 2 , 3 ]\n- A family history of pancreatic cancer.\n- Cigarette smoking.\n- Obesity.\n- Chronic pancreatitis.\n- Certain genetic disorders (such as those associated with the BRCA1 , BRCA2 , PALB2 , and ATM genes)."
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Cancer",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Enlarge Anatomy of the pancreas.\nCancers of the pancreas are commonly identified by the site of involvement within the pancreas. Surgical approaches differ for masses in the head, body, tail, or uncinate process of the pancreas."
+        },
+        {
+          "section": "Clinical Features",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Cancer",
+            "Clinical Features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Pancreatic cancer symptoms depend on the site of the tumor within the pancreas and the degree of tumor involvement.\nIn the early stages of pancreatic cancer, there are not many noticeable symptoms. As the cancer grows, symptoms may include:\n- Jaundice.\n- Light-colored stools or dark urine.\n- Pain in the upper or middle abdomen and back.\n- Weight loss for no known reason.\n- Loss of appetite.\n- Fatigue."
+        },
+        {
+          "section": "Diagnostic and Staging Evaluation",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Cancer",
+            "Diagnostic and Staging Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Pancreatic cancer is difficult to detect and diagnose for the following reasons:\n- There are no noticeable signs or symptoms in the early stages of pancreatic cancer.\n- The signs of pancreatic cancer, when present, are like the signs of many other illnesses, such as pancreatitis or an ulcer.\n- The pancreas is obscured by other organs in the abdomen and is difficult to visualize clearly on imaging tests.\nTo appropriately treat pancreatic cancer, it is crucial to evaluate whether the cancer can be resected."
+        },
+        {
+          "section": "Imaging",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Cancer",
+            "Diagnostic and Staging Evaluation",
+            "Imaging"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Imaging tests may help diagnose pancreatic cancer and identify patients with disease that is not amenable to resection. Imaging tests may include:[ 4 ]\n- Helical computed tomographic scan.\n- Magnetic resonance imaging scan.\n- Endoscopic ultrasonography.\n- Minimally invasive techniques, such as laparoscopy and laparoscopic ultrasonography, which may be used to decrease the use of laparotomy.[ 5 , 6 ]"
+        },
+        {
+          "section": "Peritoneal cytology",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Cancer",
+            "Diagnostic and Staging Evaluation",
+            "Peritoneal cytology"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In a case series of 228 patients, positive peritoneal cytology had a positive predictive value of 94%, specificity of 98%, and sensitivity of 25% for determining unresectability.[ 7 ]"
+        },
+        {
+          "section": "Tumor markers",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Cancer",
+            "Diagnostic and Staging Evaluation",
+            "Tumor markers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "No tumor-specific markers exist for pancreatic cancer. Markers such as serum cancer antigen (CA) 19-9 have low specificity. Most patients with pancreatic cancer have an elevated CA 19-9 level at diagnosis. Increased CA 19-9 levels during or after definitive therapy may identify patients with progressive tumor growth.[ 8 ][ Level of evidence C2 ] However, the presence of a normal CA 19-9 level does not preclude recurrence."
+        },
+        {
+          "section": "Prognosis and Survival",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Cancer",
+            "Prognosis and Survival"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "The primary factors that influence prognosis are:\n- Whether the tumor is localized and can be completely resected.\n- Whether the tumor has spread to lymph nodes or elsewhere.\nExocrine pancreatic cancer is rarely curable and has an overall survival (OS) rate of less than 6%.[ 9 ] Pancreatic cancer is associated with significant morbidity and mortality, and treatment decisions are complex. Management with a comprehensive multidisciplinary team should be considered.\nThe highest cure rate occurs when the tumor is truly localized to the pancreas; however, this stage of disease accounts for less than 20% of cases. For patients with localized disease and small cancers (<2 cm) with no lymph node metastases and no extension beyond the capsule of the pancreas, complete surgical resection is associated with an actuarial 5-year survival rate of 18% to 24%.[ 10 ][ Level of evidence C1 ]\nSurgical resection is the mainstay of curative treatment and provides a survival benefit in patients with small, localized pancreatic tumors, but it should be considered only alongside systemic therapy. Patients with unresectable, metastatic, or recurrent disease are unlikely to benefit from surgical resection.\nPatients with any stage of pancreatic cancer are candidates for clinical trials because of the poor response to chemotherapy, radiation therapy, and surgery as conventionally used.\nInformation about ongoing clinical trials for pancreatic cancer is available from the NCI website ."
+        },
+        {
+          "section": "Palliative Therapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Cancer",
+            "Palliative Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Palliation of symptoms may be achieved with conventional treatment (systemic chemotherapy).\nPalliative measures that may improve quality of life without affecting OS include:[ 11 , 12 ]\n- Surgical or radiological biliary decompression.\n- Relief of gastric outlet obstruction.\n- Pain control.\n- Psychological care to address the potentially disabling psychological events associated with the diagnosis and treatment of pancreatic cancer.[ 13 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Cancer",
+            "Palliative Therapy",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "- American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. Available online . Last accessed January 16, 2025.\n- Tersmette AC, Petersen GM, Offerhaus GJ, et al.: Increased risk of incident pancreatic cancer among first-degree relatives of patients with familial pancreatic cancer. Clin Cancer Res 7 (3): 738-44, 2001. [PUBMED Abstract]\n- Nöthlings U, Wilkens LR, Murphy SP, et al.: Meat and fat intake as risk factors for pancreatic cancer: the multiethnic cohort study. J Natl Cancer Inst 97 (19): 1458-65, 2005. [PUBMED Abstract]\n- Riker A, Libutti SK, Bartlett DL: Advances in the early detection, diagnosis, and staging of pancreatic cancer. Surg Oncol 6 (3): 157-69, 1997. [PUBMED Abstract]\n- John TG, Greig JD, Carter DC, et al.: Carcinoma of the pancreatic head and periampullary region. Tumor staging with laparoscopy and laparoscopic ultrasonography. Ann Surg 221 (2): 156-64, 1995. [PUBMED Abstract]\n- Minnard EA, Conlon KC, Hoos A, et al.: Laparoscopic ultrasound enhances standard laparoscopy in the staging of pancreatic cancer. Ann Surg 228 (2): 182-7, 1998. [PUBMED Abstract]\n- Merchant NB, Conlon KC, Saigo P, et al.: Positive peritoneal cytology predicts unresectability of pancreatic adenocarcinoma. J Am Coll Surg 188 (4): 421-6, 1999. [PUBMED Abstract]\n- Willett CG, Daly WJ, Warshaw AL: CA 19-9 is an index of response to neoadjunctive chemoradiation therapy in pancreatic cancer. Am J Surg 172 (4): 350-2, 1996. [PUBMED Abstract]\n- Siegel R, Naishadham D, Jemal A: Cancer statistics, 2013. CA Cancer J Clin 63 (1): 11-30, 2013. [PUBMED Abstract]\n- Yeo CJ, Abrams RA, Grochow LB, et al.: Pancreaticoduodenectomy for pancreatic adenocarcinoma: postoperative adjuvant chemoradiation improves survival. A prospective, single-institution experience. Ann Surg 225 (5): 621-33; discussion 633-6, 1997. [PUBMED Abstract]\n- Sohn TA, Lillemoe KD, Cameron JL, et al.: Surgical palliation of unresectable periampullary adenocarcinoma in the 1990s. J Am Coll Surg 188 (6): 658-66; discussion 666-9, 1999. [PUBMED Abstract]\n- Baron TH: Expandable metal stents for the treatment of cancerous obstruction of the gastrointestinal tract. N Engl J Med 344 (22): 1681-7, 2001. [PUBMED Abstract]\n- Passik SD, Breitbart WS: Depression in patients with pancreatic carcinoma. Diagnostic and treatment issues. Cancer 78 (3 Suppl): 615-26, 1996. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of Pancreatic Cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "Pancreatic cancer includes the following carcinomas:\nMalignant\n- Duct cell carcinoma (90% of all cases).\n- Acinar cell carcinoma.\n- Adenosquamous carcinoma.\n- Cystadenocarcinoma (serous and mucinous types).\n- Giant cell carcinoma.\n- Invasive adenocarcinoma associated with cystic mucinous neoplasm or intraductal papillary mucinous neoplasm.\n- Mixed type (ductal-endocrine or acinar-endocrine).\n- Mucinous carcinoma.\n- Pancreatoblastoma.\n- Papillary-cystic neoplasm (Frantz tumor). This tumor has lower malignant potential and may be cured with surgery alone.[ 1 , 2 ]\n- Papillary mucinous carcinoma.\n- Signet ring carcinoma.\n- Small cell carcinoma.\n- Unclassified.\n- Undifferentiated carcinoma.\nBorderline Malignancies\n- Intraductal papillary mucinous tumor with dysplasia.[ 3 ]\n- Mucinous cystic tumor with dysplasia.\n- Pseudopapillary solid tumor."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Pancreatic Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Sanchez JA, Newman KD, Eichelberger MR, et al.: The papillary-cystic neoplasm of the pancreas. An increasingly recognized clinicopathologic entity. Arch Surg 125 (11): 1502-5, 1990. [PUBMED Abstract]\n- Warshaw AL, Compton CC, Lewandrowski K, et al.: Cystic tumors of the pancreas. New clinical, radiologic, and pathologic observations in 67 patients. Ann Surg 212 (4): 432-43; discussion 444-5, 1990. [PUBMED Abstract]\n- Sohn TA, Yeo CJ, Cameron JL, et al.: Intraductal papillary mucinous neoplasms of the pancreas: an increasingly recognized clinicopathologic entity. Ann Surg 234 (3): 313-21; discussion 321-2, 2001. [PUBMED Abstract]"
+        },
+        {
+          "section": "Stage Information for Pancreatic Cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The staging system for pancreatic exocrine cancer continues to evolve. Clinical staging is guided by resectability, which is strongly influenced by surgical judgment. Consensus guidelines for surgical resectability (e.g., National Comprehensive Cancer Network, MD Anderson Cancer Center, American Hepato-Pancreato-Biliary Association, and International Hepato-Pancreato-Biliary Association) continue to be refined, but are traditionally stratified by the following tumor characteristics:\n- Resectable: tumors without vascular involvement.\n- Borderline resectable: tumors with involvement of vasculature, involvement of local structures, or other evidence of a high risk of R1 resection.\n- Locally advanced: tumors with local invasion (primarily vascular involvement) that preclude surgical intervention.\n- Metastatic: cancer that has spread beyond the primary pancreatic tumor to other organs.\nThe American Joint Committee on Cancer (AJCC) has designated staging by TNM (tumor, node, metastasis) classification.[ 1 ]"
+        },
+        {
+          "section": "AJCC Stage Groupings and TNM Definitions",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Pancreatic Cancer",
+            "AJCC Stage Groupings and TNM Definitions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 75,
+          "text": "Stage | TNM | Description | Illustration\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Exocrine Pancreas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 337–47.\n0 | Tis, N0, M0 | Tis = Carcinoma in situ. This includes high-grade pancreatic intraepithelial neoplasia (PanIn-3), intraductal papillary mucinous neoplasm with high-grade dysplasia, intraductal tubulopapillary neoplasm with high-grade dysplasia, and mucinous cystic neoplasm with high-grade dysplasia. | Enlarge\nN0 = No regional lymph node metastases.\nM0 = No distant metastasis.\nStage | TNM | Description | Illustration\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Exocrine Pancreas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 337–47.\nIA | T1, N0, M0 | T1 = Tumor ≤2 cm in greatest dimension. | Enlarge\n–T1a = Tumor ≤0.5 cm in greatest dimension.\n–T1b = Tumor >0.5 cm and <1 cm in greatest dimension.\n–T1c = Tumor 1–2 cm in greatest dimension.\nN0 = No regional lymph node metastases.\nM0 = No distant metastasis.\nIB | T2, N0, M0 | T2 = Tumor >2 cm and ≤4 cm in greatest dimension.\nN0 = No regional lymph node metastases.\nM0 = No distant metastasis.\nStage | TNM | Description | Illustration\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Exocrine Pancreas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 337–47.\nIIA | T3, N0, M0 | T3 = Tumor >4 cm in greatest dimension. | Enlarge\nN0 = No regional lymph node metastases.\nM0 = No distant metastasis.\nIIB | T1, N1, M0 | T1 = Tumor ≤2 cm in greatest dimension. | Enlarge\n–T1a = Tumor ≤0.5 cm in greatest dimension.\n–T1b = Tumor >0.5 cm and <1 cm in greatest dimension.\n–T1c = Tumor 1–2 cm in greatest dimension.\nN1 = Metastasis in one to three regional lymph nodes.\nM0 = No distant metastasis.\nT2, N1, M0 | T2 = Tumor >2 cm and ≤4 cm in greatest dimension.\nN1 = Metastasis in one to three regional lymph nodes.\nM0 = No distant metastasis.\nT3, N1, M0 | T3 = Tumor >4 cm in greatest dimension.\nN1 = Metastasis in one to three regional lymph nodes.\nM0 = No distant metastasis.\nStage | TNM | Description | Illustration\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Exocrine Pancreas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 337–47.\nIII | T1, N2, M0 | T1 = Tumor ≤2 cm in greatest dimension. | Enlarge\n–T1a = Tumor ≤0.5 cm in greatest dimension.\n–T1b = Tumor >0.5 cm and <1 cm in greatest dimension.\n–T1c = Tumor 1–2 cm in greatest dimension.\nN2 = Metastasis in four or more regional lymph nodes.\nM0 = No distant metastasis.\nT2, N2, M0 | T2 = Tumor >2 cm and ≤4 cm in greatest dimension.\nN2 = Metastasis in four or more regional lymph nodes.\nM0 = No distant metastasis.\nT3, N2, M0 | T3 = Tumor >4 cm in greatest dimension.\nN2 = Metastasis in four or more regional lymph nodes.\nM0 = No distant metastasis.\nT4, Any N, M0 | T4 = Tumor involves celiac axis, superior mesenteric artery, and/or common hepatic artery, regardless of size.\nNX = Regional lymph nodes cannot be assessed.\nN0 = No regional lymph node metastases.\nN1 = Metastasis in one to three regional lymph nodes.\nN2 = Metastasis in four or more regional lymph nodes.\nM0 = No distant metastasis.\nStage | TNM | Description | Illustration\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Exocrine Pancreas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 337–47.\nIV | Any T, Any N, M1 | TX = Primary tumor cannot be assessed. | Enlarge\nT0 = No evidence of primary tumor.\nTis = Carcinoma in situ . This includes high-grade pancreatic intraepithelial neoplasia (PanIn-3), intraductal papillary mucinous neoplasm with high-grade dysplasia, intraductal tubulopapillary neoplasm with high-grade dysplasia, and mucinous cystic neoplasm with high-grade dysplasia.\nT1 = Tumor ≤2 cm in greatest dimension.\n–T1a = Tumor ≤0.5 cm in greatest dimension.\n–T1b = Tumor >0.5 cm and <1 cm in greatest dimension.\n–T1c = Tumor 1–2 cm in greatest dimension.\nT2 = Tumor >2 cm and ≤4 cm in greatest dimension.\nT3 = Tumor >4 cm in greatest dimension.\nT4 = Tumor involves celiac axis, superior mesenteric artery, and/or common hepatic artery, regardless of size.\nNX = Regional lymph nodes cannot be assessed.\nN0 = No regional lymph node metastases.\nN1 = Metastasis in one to three regional lymph nodes.\nN2 = Metastasis in four or more regional lymph nodes.\nM1 = Distant metastasis."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Pancreatic Cancer",
+            "AJCC Stage Groupings and TNM Definitions",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Kakar S, Pawlik TM, Allen PJ: Exocrine Pancreas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 337–47."
+        },
+        {
+          "section": "Treatment Option Overview for Pancreatic Cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 23,
+          "text": "Surgical resection, when feasible, remains the primary treatment modality for patients with pancreatic cancer. On occasion, resection can lead to long-term survival, and it provides effective palliation.[ 1 - 3 ][ Level of evidence C1 ] Treatment is often guided by resectability, but this may vary depending on surgical judgment and experience. Referral to a high-volume center should be considered.[ 4 ]\nPostoperative chemotherapy improves overall survival, but the role of chemoradiation remains controversial.\nComplications of pancreatic cancer include:\n- Malabsorption: Frequently, malabsorption caused by exocrine insufficiency contributes to malnutrition. Pancreatic enzyme replacement can help alleviate this problem.\n- Pain: Celiac axis and intrapleural nerve blocks can provide highly effective and long-lasting control of pain for some patients. For more information, see Cancer Pain .\nThe survival rate of patients with any stage of pancreatic exocrine cancer is poor. Clinical trials are appropriate for patients with any stage of disease and should be considered before palliative approaches are selected.\nInformation about ongoing clinical trials for pancreatic cancer is available from the NCI website .\nClinical Stage | Treatment Options\nResectable or borderline resectable pancreatic cancer | Neoadjuvant therapy\nSurgery\nPostoperative chemotherapy\nPostoperative chemoradiation therapy\nPreoperative chemotherapy and/or radiation therapy (under clinical evaluation)\nAlternative radiation techniques (under clinical evaluation)\nLocally advanced pancreatic cancer | Chemotherapy with or without targeted therapy\nChemoradiation therapy\nSurgery\nPalliative surgery\nClinical trials evaluating novel agents in combination with chemotherapy or chemoradiation therapy for patients with unresectable tumors\nIntraoperative radiation therapy and/or implantation of radioactive sources (under clinical evaluation)\nMetastatic or recurrent pancreatic cancer | Chemotherapy with or without targeted therapy\nClinical trials evaluating new anticancer agents alone or in combination with chemotherapy\nPalliative therapies can be considered in patients with any stage of disease. For more information, see the Palliative Therapy section."
+        },
+        {
+          "section": "Capecitabine and Fluorouracil Dosing",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pancreatic Cancer",
+            "Capecitabine and Fluorouracil Dosing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The DPYD gene encodes an enzyme that catabolizes pyrimidines and fluoropyrimidines, like capecitabine and fluorouracil. An estimated 1% to 2% of the population has germline pathogenic variants in DPYD , which lead to reduced DPD protein function and an accumulation of pyrimidines and fluoropyrimidines in the body.[ 5 , 6 ] Patients with the DPYD*2A variant who receive fluoropyrimidines may experience severe, life-threatening toxicities that are sometimes fatal. Many other DPYD variants have been identified, with a range of clinical effects.[ 5 - 7 ] Fluoropyrimidine avoidance or a dose reduction of 50% may be recommended based on the patient's DPYD genotype and number of functioning DPYD alleles.[ 8 - 10 ] DPYD genetic testing costs less than $200, but insurance coverage varies due to a lack of national guidelines.[ 11 ] In addition, testing may delay therapy by 2 weeks, which would not be advisable in urgent situations. This controversial issue requires further evaluation.[ 12 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pancreatic Cancer",
+            "Capecitabine and Fluorouracil Dosing",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- Yeo CJ, Cameron JL, Lillemoe KD, et al.: Pancreaticoduodenectomy for cancer of the head of the pancreas. 201 patients. Ann Surg 221 (6): 721-31; discussion 731-3, 1995. [PUBMED Abstract]\n- Conlon KC, Klimstra DS, Brennan MF: Long-term survival after curative resection for pancreatic ductal adenocarcinoma. Clinicopathologic analysis of 5-year survivors. Ann Surg 223 (3): 273-9, 1996. [PUBMED Abstract]\n- Yeo CJ, Abrams RA, Grochow LB, et al.: Pancreaticoduodenectomy for pancreatic adenocarcinoma: postoperative adjuvant chemoradiation improves survival. A prospective, single-institution experience. Ann Surg 225 (5): 621-33; discussion 633-6, 1997. [PUBMED Abstract]\n- Lidsky ME, Sun Z, Nussbaum DP, et al.: Going the Extra Mile: Improved Survival for Pancreatic Cancer Patients Traveling to High-volume Centers. Ann Surg 266 (2): 333-338, 2017. [PUBMED Abstract]\n- Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021. [PUBMED Abstract]\n- Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016. [PUBMED Abstract]\n- Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021. [PUBMED Abstract]\n- Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018. [PUBMED Abstract]\n- Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018. [PUBMED Abstract]\n- Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022. [PUBMED Abstract]\n- Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022. [PUBMED Abstract]\n- Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Resectable or Borderline Resectable Pancreatic Cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Resectable or Borderline Resectable Pancreatic Cancer",
+            "Treatment Options for Resectable or Borderline Resectable Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Treatment options for resectable or borderline resectable pancreatic cancer include:\n- Neoadjuvant therapy : Neoadjuvant chemotherapy with or without chemoradiation therapy.\n- Surgery : Radical pancreatic resection including:\n- Whipple procedure (pancreaticoduodenal resection).\n- Total pancreatectomy when necessary for adequate margins.\n- Distal pancreatectomy for tumors of the body and tail of the pancreas.[ 1 , 2 ]\n- Postoperative chemotherapy : Radical pancreatic resection followed by chemotherapy.[ 3 ]\n- Postoperative chemoradiation therapy : Radical pancreatic resection followed by fluorouracil (5-FU) chemotherapy and radiation therapy.[ 4 - 8 ]\n- Preoperative chemotherapy and/or radiation therapy (under clinical evaluation).\n- Alternative radiation techniques (under clinical evaluation).\nPalliative therapies can be considered in patients with any stage of disease. For more information, see the Palliative Therapy section."
+        },
+        {
+          "section": "Neoadjuvant therapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Resectable or Borderline Resectable Pancreatic Cancer",
+            "Treatment Options for Resectable or Borderline Resectable Pancreatic Cancer",
+            "Neoadjuvant therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Neoadjuvant therapy is chemotherapy with or without chemoradiation therapy given before surgery. The role of neoadjuvant therapy has been evaluated in retrospective studies (Surveillance, Epidemiology, and End Results [SEER] Program database and National Cancer Database) and is recommended by multiple consensus guidelines for the management of patients with borderline resectable pancreatic cancer. It is being evaluated in patients with resectable or borderline resectable pancreatic cancer in several ongoing trials.[ 9 - 11 ]\nEvidence (neoadjuvant chemotherapy with or without chemoradiation therapy):\n- The phase II, multicenter, randomized A021501 trial (NCT02839343) enrolled 126 patients with borderline resectable pancreatic cancer from institutions in the National Clinical Trials Network cooperative groups between 2017 and 2019. Patients were assigned to receive either eight 2-week cycles of modified FOLFIRINOX (oxaliplatin, leucovorin, irinotecan, and 5-FU) (n = 65) or seven 2-week cycles of modified FOLFIRINOX followed by stereotactic body radiotherapy (33 Gy–40 Gy in 5 fractions) or hypofractionated image-guided radiotherapy (25 Gy in 5 fractions) (n = 55). Patients without disease progression then underwent surgery followed by four 2-week cycles of adjuvant FOLFOX6 (oxaliplatin, leucovorin, and 5-FU).[ 12 ]\n- In the neoadjuvant chemotherapy-alone arm, the median overall survival (OS) was 29.8 months (95% confidence interval [CI], 21.1–36.6) with a 43% microscopically margin-negative (R0) resection rate. This was compared with estimated historical controls of median OS at 18 months.[ 12 ][ Level of evidence C3 ]\n- Grade 3 or greater treatment-related adverse events occurred in 57% of patients who received neoadjuvant chemotherapy alone.\n- The neoadjuvant chemotherapy with radiation arm was closed at interim futility analysis because of low R0 resection rates (33%) in the first 30 patients enrolled.\n- The multicenter phase III PREOPANC trial included 246 patients diagnosed with resectable or borderline resectable pancreatic cancer between 2013 and 2017. Patients at 16 Dutch centers were randomly assigned to receive either diagnostic laparoscopy, neoadjuvant chemoradiation therapy, surgical resection, and four cycles of adjuvant gemcitabine or up-front surgery and six cycles of adjuvant gemcitabine. Neoadjuvant chemoradiation therapy included the following: cycle 1 (21 days) with gemcitabine 1,000 mg/m 2 on days 1 and 8; cycle 2 (28 days) with gemcitabine on days 1, 8, and 15 with 15 concurrent fractions of hypofractionated radiation (36 Gy) to the tumor and suspected associated lymph nodes; and cycle 3 (21 days) with gemcitabine on days 1 and 8.[ 13 ] The optimal neoadjuvant therapy regimen is unknown, and additional chemotherapy regimens are being evaluated in the following trials: ALLIANCE (NCT04340141), PREOPANC-3 (NCT04927780), PANACHE-01-PRODIGE (NCT02959879), and NorPACT-01 (NCT02919787).\n- The 5-year OS rate was 20.5% (95% CI, 14.2%–29.8%) for patients who received neoadjuvant chemoradiation therapy and 6.5% (95% CI, 3.1%–13.7%) for patients who received up-front surgery (hazard ratio [HR], 0.73; 95% CI, 0.56–0.96; P = .025).[ 13 ][ Level of evidence A1 ]\n- The median OS was 15.7 months in the neoadjuvant chemoradiation therapy group and 14.3 months in the up-front surgery group.\n- In the intention-to-treat arm, 61% of patients who received neoadjuvant chemoradiation therapy underwent resection, resulting in R0 resection for 41% of patients and node-negative disease for 65% of patients. The resection rate was 72% in the up-front surgery arm, resulting in R0 resection in 28% of patients and node-negative disease in 18% of patients."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Resectable or Borderline Resectable Pancreatic Cancer",
+            "Treatment Options for Resectable or Borderline Resectable Pancreatic Cancer",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Complete resection can yield 5-year survival rates of 18% to 24%, but ultimate control remains poor because of the high incidence of both local and distant tumor recurrence. Thus, systemic therapy is also recommended.[ 14 - 16 ][ Level of evidence C1 ]\nApproximately 20% of patients present with pancreatic cancer amenable to local surgical resection, with operative mortality rates of approximately 1% to 16%.[ 17 - 21 ] Using information from the Medicare claims database, a national cohort study of more than 7,000 patients undergoing pancreaticoduodenectomy between 1992 and 1995 revealed higher in-hospital mortality rates at low-volume hospitals (<1 pancreaticoduodenectomy per year) versus high-volume hospitals (>5 per year) (16% vs. 4%, respectively; P < .01).[ 17 ]"
+        },
+        {
+          "section": "Postoperative chemotherapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Resectable or Borderline Resectable Pancreatic Cancer",
+            "Treatment Options for Resectable or Borderline Resectable Pancreatic Cancer",
+            "Postoperative chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "Historically, multiple randomized trials have established that adjuvant gemcitabine monotherapy [ 22 ] or adjuvant 5-FU monotherapy [ 3 ] improve OS for 6 months after surgical resection compared with surgery alone. More recent studies have looked at newer combination regimens that might further improve outcomes after surgical resection.\nFor patients with good performance status, adjuvant FOLFIRINOX chemotherapy or the combination of gemcitabine and capecitabine should be considered. However, for older patients or patients with marginal performance status, adjuvant gemcitabine or 5-FU monotherapy can be considered. In Asia, S-1 (tegafur, gimeracil, and oteracil potassium) is an appropriate alternative to gemcitabine-based therapies.\nEvidence (postoperative chemotherapy):\n- FOLFIRINOX: In the randomized, open-label, phase III PRODIGE-24 trial (NCT01526135), 493 patients with R0/R1 resections were randomly assigned 1:1 to receive six cycles of gemcitabine (1,000 mg/m 2 on days 1, 8, and 15 of a 28-day cycle) or 12 cycles of FOLFIRINOX (oxaliplatin 85 mg/m 2 , leucovorin 400 mg/m 2 , irinotecan 150 mg/m 2 , and 5-FU 2,400 mg/m 2 over 46 hours every 2 weeks).[ 23 , 24 ][ Level of evidence A1 ]\n- With a median follow-up of 69.7 months, the median disease-free survival (DFS) was 21.4 months (95% CI, 17.5–26.7) in the FOLFIRINOX group and 12.8 months in the gemcitabine group (95% CI, 11.6–15.2) (HR, 0.66; 95% CI, 0.54–0.82; P < .001).\n- The median OS was 53.5 months (95% CI, 43.5–58.4) in the FOLFIRINOX group and 35.5 months (95% CI, 30.1–40.3) in the gemcitabine group (HR, 0.68; 95% CI, 0.54–0.85; P = .001). The 5-year OS rate was 43.2% in the FOLFIRINOX group and 31.4% in the gemcitabine group.\n- Toxicity was higher with combination therapy; 75.9% of patients who received FOLFIRINOX had grade 3 or 4 toxicities, compared with 52.9% of those who received gemcitabine, with similar rates of neutropenia (although 62.2% of patients on FOLFIRINOX received granulocyte colony-stimulating factor). Thirty-three percent of patients who received FOLFIRINOX stopped treatment prematurely, compared with 21% of patients who received gemcitabine alone.\n- Gemcitabine and capecitabine: The European Study for Pancreatic Cancer ( ESPAC-4 [NCT00058201]) trial randomly assigned 732 patients with resected pancreatic cancer to receive either six cycles of gemcitabine alone (1,000 mg/m 2 given weekly for 3 weeks of every 4 weeks) or oral capecitabine (1,660 mg/m 2 given for 21 days followed by 7 days of rest [one cycle]).[ 25 ][ Level of evidence A1 ]\n- With a median follow-up of 43.2 months, the median OS for patients in the gemcitabine/capecitabine group was 28.0 months (95% CI, 23.5–31.5) compared with 25.5 months for the gemcitabine-alone group (95% CI, 22.7–27.9; HR, 0.82; P = .032). Treatment with gemcitabine/capecitabine yielded an improvement in the estimated 5-year OS rate from 16.3% with gemcitabine alone to 28.8% with gemcitabine/capecitabine.\n- There was no significant difference in overall rates of grade 3/4 toxicities between treatment arms. Compared with gemcitabine alone, capecitabine was associated with higher rates of grade 3/4 diarrhea (5% vs. 2%), neutropenia (38% vs. 24%), and hand-foot syndrome (7% vs. 0%).\n- There was no significant effect on the quality of life in the treatment groups.\n- Based on these findings, the adjuvant combination of gemcitabine and capecitabine is the standard of care after a resection for pancreatic cancer.\n- S-1: The Japan Adjuvant Study Group of Pancreatic Cancer (JASPAC-01) study was a phase III, multicenter, noninferiority trial conducted in Japan that randomly assigned 385 patients to receive either gemcitabine (1,000 mg/m 2 weekly for 3 weeks of every 4 weeks) for six cycles or S-1 (tegafur, gimeracil, and oteracil potassium) (given orally twice a day for 4 weeks followed by a 2-week break).[ 26 ][ Level of evidence A1 ]\n- The prespecified criteria for early discontinuation was met at interim analysis for efficacy with all of the protocol treatments completed. On early interim analysis, the HR mortality was 0.57 (95% CI, 0.44–0.72; P for noninferiority < .001; P for superiority < .001). These results were associated with a 5-year OS rate of 24.4% in the gemcitabine group and 44.1% in the S-1 group.\n- Grade 3 or 4 leukopenia, neutropenia, and liver transaminitis were observed more frequently in the gemcitabine group, and stomatitis and diarrhea were experienced more frequently in the S-1 group.\n- Among Japanese patients, adjuvant chemotherapy with S-1 can be a new standard of care for resected pancreatic patients. Additional studies are needed to validate these results in patients of other races and ethnicities.\n- The pharmacokinetics and pharmacodynamics of S-1 may be different between Eastern and Western patient populations because grade 3/4 gastrointestinal toxicities, especially diarrhea, have been reported more commonly in the Western patient population. S-1 is not currently approved by the U.S. Food and Drug Administration for use in the United States.\n- Gemcitabine: Charité Onkologie (CONKO)-001 was a multicenter phase III trial of 368 patients with resected pancreatic cancer who were randomly assigned to receive six cycles of adjuvant gemcitabine versus observation.[ 22 ][ Level of evidence B1 ] In contrast to the previous trials, the primary end point was DFS.\n- With a median follow-up of 136 months, long-term follow-up of the CONKO-001 study demonstrated a significant improvement in OS that favors gemcitabine (median survival, 22.8 months vs. 20.2 months; HR, 0.76; 95% CI, 0.61–0.95, P = .01). Gemcitabine compared with observation alone yielded improved survival rates at 5 years of 20.7% for the gemcitabine arm versus 10.4% for the observation-alone arm, and the survival rates at 10 years were 12.2% for the gemcitabine arm versus 7.7% for the observation-alone arm.[ 27 ][ Level of evidence A1 ]\n- Gemcitabine or 5-FU: The ESPAC-3 trial (NCT00058201) randomly assigned 1,088 patients who had undergone complete macroscopic resection to either 6 months of 5-FU (425 mg/m 2 ) and leucovorin (20 mg/m 2 ) on days 1 to 5 every 28 days or 6 months of gemcitabine (1,000 mg/m 2 ) on days 1, 8, and 15 every 28 days.[ 3 ][ Level of evidence A1 ]\n- Median OS was 23.0 months (95% CI, 21.1–25.0) for patients treated with 5-FU plus leucovorin and 23.6 months (95% CI, 21.4–26.4) for those treated with gemcitabine (HR, 0.94; 95% CI, 0.81–1.08; P = .39)."
+        },
+        {
+          "section": "Postoperative chemoradiation therapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Resectable or Borderline Resectable Pancreatic Cancer",
+            "Treatment Options for Resectable or Borderline Resectable Pancreatic Cancer",
+            "Postoperative chemoradiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "The role of postoperative therapy (chemotherapy with or without chemoradiation therapy) in the management of this disease remains controversial because much of the randomized clinical trial data available are statistically underpowered and provide conflicting results.[ 4 - 8 ]\nEvidence (postoperative chemoradiation therapy):\nSeveral phase III trials examined the potential OS benefit of postoperative adjuvant 5-FU–based chemoradiation therapy:\n- Gastrointestinal Study Group (GITSG): A small randomized trial conducted by the GITSG in 1985 compared surgery alone with surgery followed by chemoradiation.[ 4 ][ Level of evidence A1 ];[ 5 ][ Level of evidence B4 ]\n- The investigators reported a significant but modest improvement in median-term and long-term survival over resection alone with postoperative bolus 5-FU and regional split-course radiation given at a dose of 40 Gy.\n- European Organisation for the Research and Treatment of Cancer (EORTC): An attempt by the EORTC to reproduce the results of the GITSG trial failed to confirm a significant benefit for adjuvant chemoradiation therapy over resection alone;[ 6 ][ Level of evidence A1 ] however, this trial treated patients with pancreatic and periampullary cancers (with a potentially better prognosis).\n- A subset analysis of the patients with primary pancreatic tumors indicated a trend toward improved median, 2-year, and 5-year OS with adjuvant therapy (17.1 months, 37%, and 20%, respectively) compared with surgery alone (12.6 months, 23%, and 10%, respectively); P = .09 for median survival).\n- An updated analysis of a subsequent ESPAC-1 trial examined only patients who underwent strict randomization after pancreatic resection. The patients were assigned to one of four groups (observation, bolus 5-FU chemotherapy, bolus 5-FU chemoradiation therapy, or chemoradiation therapy followed by additional chemotherapy).[ 7 , 8 , 28 ][ Level of evidence A1 ]\n- With a 2 × 2 factorial design reported at a median follow-up of 47 months, a median survival benefit was observed for only the patients who received postoperative 5-FU chemotherapy. However, these results were difficult to interpret because of a high rate of protocol nonadherence and the lack of a separate analysis for each of the four groups in the 2 × 2 design.\n- U.S. Gastrointestinal Intergroup: The U.S. Gastrointestinal Intergroup has reported the results of a randomized phase III trial ( Radiation Therapy Oncology Group [RTOG]-9704 ) that included 451 patients with resected pancreatic cancers who were assigned to receive either postoperative infusional 5-FU plus infusional 5-FU and concurrent radiation or adjuvant gemcitabine plus infusional 5-FU and concurrent radiation.[ 29 ][ Level of evidence A1 ] The primary end points were OS for all patients and OS for patients with pancreatic head tumors.\n- A 5-year update of RTOG-9704 reported that patients with pancreatic head tumors (n = 388) had a median survival of 20.5 months and a 5-year OS rate of 22% with gemcitabine, versus a median survival of 17.1 months and a 5-year OS rate of 18% with 5-FU (HR, 0.84; 95% CI, 0.67–1.05; P = .12).[ 30 ]\n- Univariate analysis showed no difference in OS. However, on multivariate analysis, patients on the gemcitabine arm with pancreatic head tumors experienced a trend toward improved OS ( P = .08). Distant relapse remained the predominant site of first failure (78%).\nThe EORTC/U.S. Gastrointestinal Intergroup RTOG-0848 phase III adjuvant trial evaluating the impact of chemoradiation therapy after completion of a full course of gemcitabine with or without erlotinib has closed and results are pending.\nAdditional trials are still warranted to determine more effective systemic therapy for this disease."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Resectable or Borderline Resectable Pancreatic Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Resectable or Borderline Resectable Pancreatic Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 30,
+          "text": "- Dalton RR, Sarr MG, van Heerden JA, et al.: Carcinoma of the body and tail of the pancreas: is curative resection justified? Surgery 111 (5): 489-94, 1992. [PUBMED Abstract]\n- Brennan MF, Moccia RD, Klimstra D: Management of adenocarcinoma of the body and tail of the pancreas. Ann Surg 223 (5): 506-11; discussion 511-2, 1996. [PUBMED Abstract]\n- Neoptolemos JP, Stocken DD, Bassi C, et al.: Adjuvant chemotherapy with fluorouracil plus folinic acid vs gemcitabine following pancreatic cancer resection: a randomized controlled trial. JAMA 304 (10): 1073-81, 2010. [PUBMED Abstract]\n- Further evidence of effective adjuvant combined radiation and chemotherapy following curative resection of pancreatic cancer. Gastrointestinal Tumor Study Group. Cancer 59 (12): 2006-10, 1987. [PUBMED Abstract]\n- Kalser MH, Ellenberg SS: Pancreatic cancer. Adjuvant combined radiation and chemotherapy following curative resection. Arch Surg 120 (8): 899-903, 1985. [PUBMED Abstract]\n- Klinkenbijl JH, Jeekel J, Sahmoud T, et al.: Adjuvant radiotherapy and 5-fluorouracil after curative resection of cancer of the pancreas and periampullary region: phase III trial of the EORTC gastrointestinal tract cancer cooperative group. Ann Surg 230 (6): 776-82; discussion 782-4, 1999. [PUBMED Abstract]\n- Neoptolemos JP, Dunn JA, Stocken DD, et al.: Adjuvant chemoradiotherapy and chemotherapy in resectable pancreatic cancer: a randomised controlled trial. Lancet 358 (9293): 1576-85, 2001. [PUBMED Abstract]\n- Neoptolemos JP, Stocken DD, Friess H, et al.: A randomized trial of chemoradiotherapy and chemotherapy after resection of pancreatic cancer. N Engl J Med 350 (12): 1200-10, 2004. [PUBMED Abstract]\n- Stessin AM, Meyer JE, Sherr DL: Neoadjuvant radiation is associated with improved survival in patients with resectable pancreatic cancer: an analysis of data from the surveillance, epidemiology, and end results (SEER) registry. Int J Radiat Oncol Biol Phys 72 (4): 1128-33, 2008. [PUBMED Abstract]\n- Versteijne E, Vogel JA, Besselink MG, et al.: Meta-analysis comparing upfront surgery with neoadjuvant treatment in patients with resectable or borderline resectable pancreatic cancer. Br J Surg 105 (8): 946-958, 2018. [PUBMED Abstract]\n- Mokdad AA, Minter RM, Zhu H, et al.: Neoadjuvant Therapy Followed by Resection Versus Upfront Resection for Resectable Pancreatic Cancer: A Propensity Score Matched Analysis. J Clin Oncol 35 (5): 515-522, 2017. [PUBMED Abstract]\n- Katz MHG, Shi Q, Meyers J, et al.: Efficacy of Preoperative mFOLFIRINOX vs mFOLFIRINOX Plus Hypofractionated Radiotherapy for Borderline Resectable Adenocarcinoma of the Pancreas: The A021501 Phase 2 Randomized Clinical Trial. JAMA Oncol 8 (9): 1263-1270, 2022. [PUBMED Abstract]\n- Versteijne E, van Dam JL, Suker M, et al.: Neoadjuvant Chemoradiotherapy Versus Upfront Surgery for Resectable and Borderline Resectable Pancreatic Cancer: Long-Term Results of the Dutch Randomized PREOPANC Trial. J Clin Oncol 40 (11): 1220-1230, 2022. [PUBMED Abstract]\n- Cameron JL, Crist DW, Sitzmann JV, et al.: Factors influencing survival after pancreaticoduodenectomy for pancreatic cancer. Am J Surg 161 (1): 120-4; discussion 124-5, 1991. [PUBMED Abstract]\n- Yeo CJ, Cameron JL, Lillemoe KD, et al.: Pancreaticoduodenectomy for cancer of the head of the pancreas. 201 patients. Ann Surg 221 (6): 721-31; discussion 731-3, 1995. [PUBMED Abstract]\n- Yeo CJ, Abrams RA, Grochow LB, et al.: Pancreaticoduodenectomy for pancreatic adenocarcinoma: postoperative adjuvant chemoradiation improves survival. A prospective, single-institution experience. Ann Surg 225 (5): 621-33; discussion 633-6, 1997. [PUBMED Abstract]\n- Birkmeyer JD, Finlayson SR, Tosteson AN, et al.: Effect of hospital volume on in-hospital mortality with pancreaticoduodenectomy. Surgery 125 (3): 250-6, 1999. [PUBMED Abstract]\n- Cameron JL, Pitt HA, Yeo CJ, et al.: One hundred and forty-five consecutive pancreaticoduodenectomies without mortality. Ann Surg 217 (5): 430-5; discussion 435-8, 1993. [PUBMED Abstract]\n- Spanknebel K, Conlon KC: Advances in the surgical management of pancreatic cancer. Cancer J 7 (4): 312-23, 2001 Jul-Aug. [PUBMED Abstract]\n- Balcom JH, Rattner DW, Warshaw AL, et al.: Ten-year experience with 733 pancreatic resections: changing indications, older patients, and decreasing length of hospitalization. Arch Surg 136 (4): 391-8, 2001. [PUBMED Abstract]\n- Sohn TA, Yeo CJ, Cameron JL, et al.: Resected adenocarcinoma of the pancreas-616 patients: results, outcomes, and prognostic indicators. J Gastrointest Surg 4 (6): 567-79, 2000 Nov-Dec. [PUBMED Abstract]\n- Oettle H, Post S, Neuhaus P, et al.: Adjuvant chemotherapy with gemcitabine vs observation in patients undergoing curative-intent resection of pancreatic cancer: a randomized controlled trial. JAMA 297 (3): 267-77, 2007. [PUBMED Abstract]\n- Conroy T, Hammel P, Hebbar M, et al.: FOLFIRINOX or Gemcitabine as Adjuvant Therapy for Pancreatic Cancer. N Engl J Med 379 (25): 2395-2406, 2018. [PUBMED Abstract]\n- Conroy T, Castan F, Lopez A, et al.: Five-Year Outcomes of FOLFIRINOX vs Gemcitabine as Adjuvant Therapy for Pancreatic Cancer: A Randomized Clinical Trial. JAMA Oncol 8 (11): 1571-1578, 2022. [PUBMED Abstract]\n- Neoptolemos JP, Palmer DH, Ghaneh P, et al.: Comparison of adjuvant gemcitabine and capecitabine with gemcitabine monotherapy in patients with resected pancreatic cancer (ESPAC-4): a multicentre, open-label, randomised, phase 3 trial. Lancet 389 (10073): 1011-1024, 2017. [PUBMED Abstract]\n- Uesaka K, Boku N, Fukutomi A, et al.: Adjuvant chemotherapy of S-1 versus gemcitabine for resected pancreatic cancer: a phase 3, open-label, randomised, non-inferiority trial (JASPAC 01). Lancet 388 (10041): 248-57, 2016. [PUBMED Abstract]\n- Oettle H, Neuhaus P, Hochhaus A, et al.: Adjuvant chemotherapy with gemcitabine and long-term outcomes among patients with resected pancreatic cancer: the CONKO-001 randomized trial. JAMA 310 (14): 1473-81, 2013. [PUBMED Abstract]\n- Choti MA: Adjuvant therapy for pancreatic cancer--the debate continues. N Engl J Med 350 (12): 1249-51, 2004. [PUBMED Abstract]\n- Regine WF, Winter KA, Abrams RA, et al.: Fluorouracil vs gemcitabine chemotherapy before and after fluorouracil-based chemoradiation following resection of pancreatic adenocarcinoma: a randomized controlled trial. JAMA 299 (9): 1019-26, 2008. [PUBMED Abstract]\n- Regine WF, Winter KA, Abrams R, et al.: Fluorouracil-based chemoradiation with either gemcitabine or fluorouracil chemotherapy after resection of pancreatic adenocarcinoma: 5-year analysis of the U.S. Intergroup/RTOG 9704 phase III trial. Ann Surg Oncol 18 (5): 1319-26, 2011. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Locally Advanced Pancreatic Cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Locally Advanced Pancreatic Cancer",
+            "Treatment Options for Locally Advanced Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "While locally advanced and metastatic pancreatic cancer are both incurable, their natural histories may be different. An autopsy series demonstrated that 30% of patients presenting with locally advanced disease died without evidence of distant metastases.[ 1 ][ Level of evidence A1 ] Therefore, investigators have struggled to determine whether chemoradiation therapy for patients presenting with locally advanced disease is warranted.\nTreatment options for locally advanced pancreatic cancer include:\n- Chemotherapy with or without targeted therapy .\n- Chemoradiation therapy : Chemotherapy followed by chemoradiation for patients without metastatic disease.\n- Surgery : Radical pancreatic resection.\n- Palliative surgery : Palliative surgical biliary and/or gastric bypass, percutaneous radiologic biliary stent placement, or endoscopic biliary stent placement.[ 2 , 3 ]\n- Clinical trials evaluating novel agents in combination with chemotherapy or chemoradiation therapy for patients with unresectable tumors.\n- Intraoperative radiation therapy and/or implantation of radioactive sources (under clinical evaluation).[ 4 , 5 ]\nPalliative therapies can be considered in patients with any stage of disease. For more information, see the Palliative Therapy section."
+        },
+        {
+          "section": "Chemotherapy with or without targeted therapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Locally Advanced Pancreatic Cancer",
+            "Treatment Options for Locally Advanced Pancreatic Cancer",
+            "Chemotherapy with or without targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 24,
+          "text": "Chemotherapy is the primary treatment modality for patients with locally advanced pancreatic cancers and uses the same regimens as those used to treat patients with metastatic disease.\nEvidence (chemotherapy):\n- FOLFIRINOX versus gemcitabine: A multicenter phase II/III trial included 342 patients with metastatic pancreatic adenocarcinoma with an Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1.[ 6 ][ Level of evidence A1 ] The patients were randomly assigned to receive FOLFIRINOX (oxaliplatin [85 mg/m 2 ], irinotecan [180 mg/m 2 ], leucovorin [400 mg/m 2 ], and fluorouracil [5-FU; 400 mg/m 2 ] given as a bolus followed by 2,400 mg/m 2 given as a 46-hour continuous infusion, every 2 weeks) or gemcitabine (1,000 mg/m 2 weekly for 7 of 8 weeks and then weekly for 3 of 4 weeks).\n- The median overall survival (OS) was 11.1 months in the FOLFIRINOX group compared with 6.8 months in the gemcitabine group (hazard ratio [HR] death , 0.57; 95% confidence interval [CI], 0.45–0.73; P < .001).\n- Median progression-free survival (PFS) was 6.4 months in the FOLFIRINOX group and 3.3 months in the gemcitabine group (HR disease progression , 0.47; 95% CI, 0.37–0.59; P < .001).\n- FOLFIRINOX was more toxic than gemcitabine; 5.4% of patients in this group had febrile neutropenia. At 6 months, 31% of the patients in the FOLFIRINOX group had a definitive degradation of quality of life, versus 66% in the gemcitabine group (HR, 0.47; 95% CI, 0.30–0.70; P < .001).\n- Based on this trial, FOLFIRINOX is considered a standard treatment option for patients with advanced pancreatic cancer.\n- Gemcitabine and nab-paclitaxel versus gemcitabine: A multicenter, international, phase III trial ( NCT00844649 ) included 861 patients with metastatic pancreatic adenocarcinoma. Patients had a Karnofsky Performance Status of at least 70 and had not previously received chemotherapy for metastatic disease.[ 7 ][ Level of evidence A1 ] Patients who received adjuvant gemcitabine or any other chemotherapy were excluded. The patients were randomly assigned to receive gemcitabine (1,000 mg/m 2 ) and nab-paclitaxel (125 mg/m 2 of body-surface area) weekly for 3 of 4 weeks or gemcitabine monotherapy (1,000 mg/m 2 weekly for 7 of 8 weeks and then weekly for 3 of 4 weeks).\n- The median OS was 8.5 months in the nab-paclitaxel/gemcitabine group compared with 6.7 months in the gemcitabine group (HR death , 0.72; 95% CI, 0.62–0.83; P < .001).\n- Median PFS was 5.5 months in the nab-paclitaxel/gemcitabine group and 3.7 months in the gemcitabine group (HR disease progression , 0.69; 95% CI, 0.58–0.82; P < .001).\n- Nab-paclitaxel/gemcitabine was more toxic than gemcitabine. The most common grade 3 toxicities in the nab-paclitaxel/gemcitabine group were neutropenia (38%), fatigue (17%), and neuropathy (17%); febrile neutropenia occurred in 3% of patients. In the gemcitabine-alone group, the most common grade 3 toxicities were neutropenia (27%), fatigue (1%), and neuropathy (1%); febrile neutropenia occurred in 1% of patients.\n- In the nab-paclitaxel/gemcitabine group, the median time from grade 3 neuropathy to grade 1 or resolution was 29 days. Of patients with grade 3 peripheral neuropathy, 44% were able to resume treatment at a reduced dose within a median of 23 days after onset of a grade 3 event.\n- Based on this trial, nab-paclitaxel/gemcitabine is a standard treatment option for patients with advanced pancreatic cancer.\n- Quality-of-life data were not measured for this regimen, and this study did not address the efficacy of nab-paclitaxel/gemcitabine versus FOLFIRINOX.\n- Gemcitabine versus 5-FU: Gemcitabine has demonstrated activity in patients with pancreatic cancer and is a useful palliative agent.[ 8 - 10 ] A phase III trial of gemcitabine versus 5-FU as first-line therapy in patients with advanced or metastatic adenocarcinoma of the pancreas reported a significant improvement in survival among patients treated with gemcitabine (the 1-year survival rate was 18% with gemcitabine compared with 2% with 5-FU; P = .003).[ 9 ][ Level of evidence A1 ]\n- Gemcitabine alone versus gemcitabine and erlotinib: The National Cancer Institute of Canada performed a phase III trial ( CAN-NCIC-PA3 [NCT00026338]) that compared gemcitabine alone with the combination of gemcitabine and erlotinib (100 mg/d) in patients with advanced or metastatic pancreatic carcinomas.[ 11 ][ Level of evidence A1 ]\n- The addition of erlotinib modestly prolonged survival when combined with gemcitabine versus gemcitabine alone (HR, 0.81; 95% CI, 0.69–0.99; P = .038).\n- The median and 1-year survival rates for patients who received erlotinib were 6.2 months and 23%. The median and 1-year survival rates for patients who received placebo were 5.9 months and 17%.\n- Platinum analogue or fluoropyrimidine versus single-agent gemcitabine: Many phase III studies have evaluated a combination regimen with either a platinum analogue (cisplatin or oxaliplatin) or fluoropyrimidine versus single-agent gemcitabine.[ 12 , 13 ]\n- None of these phase III trials have demonstrated a statistically significant advantage favoring the use of combination chemotherapy in the first-line treatment of metastatic pancreatic cancer.\n- 5-FU, leucovorin, and oxaliplatin (OFF regimen) versus best supportive care (BSC): Second-line chemotherapy after progression on a gemcitabine-based regimen may be beneficial. The Charité Onkologie (CONKO) -003 investigators randomly assigned patients requiring a second line of chemotherapy to either the OFF regimen or BSC.[ 14 , 15 ][ Level of evidence C1 ] The OFF regimen consisted of leucovorin (200 mg/m 2 ) followed by 5-FU (2,000 mg/m 2 [24-hour continuous infusion] on days 1, 8, 15, and 22) and oxaliplatin (85 mg/m 2 on days 8 and 22). After a rest of 3 weeks, the next cycle was started on day 43. The trial was terminated early because of poor accrual, and only 46 patients were randomly assigned to either the OFF regimen or BSC.\n- The median survival was 4.82 months (95% CI, 4.29–5.35) with the OFF treatment regimen and 2.30 months (95% CI, 1.76–2.83) with BSC alone (HR, 0.45; 95% CI, 0.24–0.83).\n- Median OS was 9.09 months for the sequence of gemcitabine/OFF and 7.90 months for gemcitabine/BSC.\n- The early closure of the study and the very small number of patients made the P values misleading. Therefore, second-line chemotherapy with the OFF regimen may be falsely associated with improved survival."
+        },
+        {
+          "section": "Chemoradiation therapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Locally Advanced Pancreatic Cancer",
+            "Treatment Options for Locally Advanced Pancreatic Cancer",
+            "Chemoradiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 31,
+          "text": "The role of chemoradiation in locally advanced pancreatic cancer remains controversial. Table 7 summarizes phase III randomized studies of chemoradiation for locally advanced pancreatic cancer.\nTrial | Regimen | Chemoradiation | Radiation Alone | Chemotherapy Alone | P Value\n5-FU = fluorouracil; ECOG = Eastern Cooperative Oncology Group; FFCD = Fédération Francophone de Cancérologie Digestive; GEM = gemcitabine; GITSG = Gastrointestinal Tumor Study Group; Gy = gray (unit of absorbed radiation of ionizing radiation); P value = probability value; XRT = radiation therapy.\nPre-2000\nGITSG [ 16 ] | Radiation alone vs. 5-FU/60 Gy XRT | 40 wk | 20 wk | <.01\nECOG [ 17 ] | Radiation vs. 5-FU, mitomycin C/59 Gy XRT | 8.4 mo | 7.1 mo | .16\nPost-2000\nFFCD [ 18 ] | GEM vs. GEM, cisplatin, 60 Gy XRT | 8.6 mo | 13 mo | .03\nECOG [ 19 ] | GEM vs. GEM/50.4 Gy XRT | 11.1 mo | 9.2 mo | .017\nEvidence (chemoradiation therapy):\nThree trials evaluated combined modality therapy versus radiation therapy alone.[ 16 - 18 ] The trials had substantial deficiencies in design or analysis. Initially, the standard of practice was to give chemoradiation therapy based on data from the first two studies. However, with the publication of the third study, standard practice changed to chemotherapy followed by chemoradiation in the absence of metastases.\n- LAP07 (NCT00634725): The LAP07 study was an international, randomized, phase III study based on the results of the Groupe Coopérateur Multidisciplinaire en Oncologie (GERCOR) study. In total, 449 patients were enrolled between 2008 and 2011, with random assignment via a two-step randomization process. In the first step, patients were randomly assigned to induction gemcitabine (n = 223) or gemcitabine plus erlotinib (n = 219) for four cycles. For the second step, patients with controlled tumors were randomly assigned (n = 269) a second time to receive either chemotherapy (n = 136) or chemoradiation therapy (n = 133). A total dose of 54 Gy in 30 daily fractions was prescribed with concurrent capecitabine at a dose of 800 mg/m 2 twice daily on days of radiation therapy.[ 20 ][ Level of evidence A1 ] The LAP07 study represents the most robust, prospective, randomized phase III data regarding the role of chemoradiation therapy in the setting of gemcitabine-based induction chemotherapy that demonstrates no OS benefit. However, this study was initiated before the advent of FOLFIRINOX chemotherapy, which has been widely adopted into the locally advanced setting. The role of chemoradiation in the setting of more active chemotherapy regimens, including gemcitabine/paclitaxel and FOLFIRINOX, has yet to be evaluated.\n- The primary end point was OS. After interim analysis, the study was stopped early because of futility.\n- With a median follow-up of 36.7 months, the median OS from the date of the first randomization was not significantly different between chemotherapy at 16.5 months (95% CI, 14.5–18.5) and chemoradiation therapy at 15.2 months (95% CI, 13.9–17.3; P = .83).\n- Median OS after the first randomization was 13.6 months (95% CI, 12.3–15.3) for the patients who received gemcitabine and was 11.9 months (95% CI, 10.4–13.5; P = .09) for the patients who received gemcitabine plus erlotinib.\n- Gastrointestinal Tumor Study Group (GITSG) GITSG-9273 trial: Before 2000, several phase III trials evaluated combined modality therapy versus radiation therapy alone. Before the use of gemcitabine for patients with locally advanced or metastatic pancreatic cancer, investigators from the GITSG randomly assigned 106 patients with locally advanced pancreatic adenocarcinoma to receive external-beam radiation therapy (EBRT) (60 Gy) alone or concurrent EBRT (either 40 Gy or 60 Gy) plus bolus 5-FU.[ 16 ][ Level of evidence A1 ]\n- The study was stopped early when the chemoradiation therapy groups were found to have better efficacy. The 1-year survival rate was 11% for patients who received EBRT alone compared with 38% for patients who received chemoradiation therapy with 40 Gy and 36% for patients who received chemoradiation therapy with 60 Gy.\n- After an additional 88 patients were enrolled in the combined modality arms, there was a trend toward improved survival with 60 Gy EBRT plus 5-FU, but the difference in time-to-progression and OS was not statistically significant when compared with the 40 Gy arm.[ 21 ]\n- ECOG E-8282 trial: Investigators from the ECOG randomly assigned 114 patients to receive radiation therapy (59.4 Gy) alone or with concurrent infusional 5-FU (1,000 mg/m 2 /d on days 2–5 and 28–31) plus mitomycin (10 mg/m 2 on day 2).[ 17 ]\n- The trial reported no difference in OS between the two groups.\n- Fédération Francophone de Cancérologie Digestive–Société Française de Radiothérapie Oncologie (FFCD-SFRO) trial: As it became clear that radiation therapy alone was an inadequate treatment, investigators evaluated combined modality approaches versus chemotherapy alone. Investigators from the FFCD-SFRO randomly assigned 119 patients to induction chemoradiation therapy (60 Gy in 2 Gy fractions with 300 mg/m 2 /d of continuous-infusion 5-FU on days 1–5 for 6 weeks and 20 mg/m 2 /d of cisplatin on days 1–5 during weeks 1 and 5) or induction gemcitabine (1,000 mg/m 2 weekly for 7 weeks). Maintenance gemcitabine was administered to both groups until stopped by disease progression or treatment discontinuation as a result of toxicity.[ 22 ][ Level of evidence A1 ]\n- Median survival was superior in the gemcitabine group (13 vs. 8.6 months; P = .03).\n- Nonhematological grade 3 to 4 toxicities (primarily gastrointestinal) were significantly more common in the chemoradiation therapy group (44% vs. 18%; P = .004), and fewer patients completed at least 75% of induction therapy (42% vs. 73%).\n- Nonetheless, the survival benefit persisted in a per-protocol analysis of patients receiving at least 75% of planned therapy. Notably, the dose intensity of maintenance gemcitabine was significantly less in the chemoradiation therapy group because of a greater incidence of grades 3 to 4 hematological toxicities (71% vs. 27%; P = .0001).\n- As a result of this study, giving induction chemoradiation therapy has lost support.\n- ECOG: The results of the FFCD-SFRO study counter the results of a study from ECOG in which investigators randomly assigned 74 patients to either gemcitabine alone or gemcitabine with radiation followed by gemcitabine.[ 19 ] Of note, the study was closed early as the result of poor accrual.\n- The primary end point was survival, which was 9.2 months (95% CI, 7.9–11.4) for chemotherapy and 11.1 months (95% CI, 7.6–15.5) for combined modality therapy (one-sided P = .017 by stratiﬁed log-rank test).\n- Grades 4 and 5 toxicity were greater in the chemoradiation therapy arm than in the chemotherapy arm (41% vs. 9%).\n- GERCOR: Given the increased toxicity of chemoradiation therapy and the early development of metastatic disease in a large percentage of patients with locally advanced pancreatic cancer, investigators are pursuing a strategy of selecting patients with localized disease for chemoradiation therapy. With this strategy, the selected patients have an absence of progressive disease locally or systemically after several months of chemotherapy.[ 23 ][ Level of evidence C1 ]\n- A retrospective analysis of 181 patients enrolled in prospective phase II and III GERCOR studies revealed that 29% had metastatic disease after 3 months of gemcitabine-based chemotherapy.\n- For the remaining 71%, median OS was significantly longer among patients treated with chemoradiation therapy than among patients treated with additional chemotherapy (15.0 months vs. 11.7 months; P = .0009)."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Locally Advanced Pancreatic Cancer",
+            "Treatment Options for Locally Advanced Pancreatic Cancer",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Patients with locally advanced pancreatic cancer have tumors that are technically unresectable because of local vessel impingement or invasion by tumor. However, with the combination of chemotherapy and chemoradiation therapy, some patients may become candidates for radical pancreatic resection."
+        },
+        {
+          "section": "Palliative surgery",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Locally Advanced Pancreatic Cancer",
+            "Treatment Options for Locally Advanced Pancreatic Cancer",
+            "Palliative surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A significant proportion (approximately one-third) of patients with pancreatic cancer present with locally advanced disease. Patients may benefit from palliation of biliary obstruction by endoscopic, surgical, or radiological means.[ 24 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Locally Advanced Pancreatic Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Locally Advanced Pancreatic Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 24,
+          "text": "- Iacobuzio-Donahue CA, Fu B, Yachida S, et al.: DPC4 gene status of the primary carcinoma correlates with patterns of failure in patients with pancreatic cancer. J Clin Oncol 27 (11): 1806-13, 2009. [PUBMED Abstract]\n- van den Bosch RP, van der Schelling GP, Klinkenbijl JH, et al.: Guidelines for the application of surgery and endoprostheses in the palliation of obstructive jaundice in advanced cancer of the pancreas. Ann Surg 219 (1): 18-24, 1994. [PUBMED Abstract]\n- Baron TH: Expandable metal stents for the treatment of cancerous obstruction of the gastrointestinal tract. N Engl J Med 344 (22): 1681-7, 2001. [PUBMED Abstract]\n- Tepper JE, Noyes D, Krall JM, et al.: Intraoperative radiation therapy of pancreatic carcinoma: a report of RTOG-8505. Radiation Therapy Oncology Group. Int J Radiat Oncol Biol Phys 21 (5): 1145-9, 1991. [PUBMED Abstract]\n- Reni M, Panucci MG, Ferreri AJ, et al.: Effect on local control and survival of electron beam intraoperative irradiation for resectable pancreatic adenocarcinoma. Int J Radiat Oncol Biol Phys 50 (3): 651-8, 2001. [PUBMED Abstract]\n- Conroy T, Desseigne F, Ychou M, et al.: FOLFIRINOX versus gemcitabine for metastatic pancreatic cancer. N Engl J Med 364 (19): 1817-25, 2011. [PUBMED Abstract]\n- Von Hoff DD, Ervin T, Arena FP, et al.: Increased survival in pancreatic cancer with nab-paclitaxel plus gemcitabine. N Engl J Med 369 (18): 1691-703, 2013. [PUBMED Abstract]\n- Rothenberg ML, Moore MJ, Cripps MC, et al.: A phase II trial of gemcitabine in patients with 5-FU-refractory pancreas cancer. Ann Oncol 7 (4): 347-53, 1996. [PUBMED Abstract]\n- Burris HA, Moore MJ, Andersen J, et al.: Improvements in survival and clinical benefit with gemcitabine as first-line therapy for patients with advanced pancreas cancer: a randomized trial. J Clin Oncol 15 (6): 2403-13, 1997. [PUBMED Abstract]\n- Storniolo AM, Enas NH, Brown CA, et al.: An investigational new drug treatment program for patients with gemcitabine: results for over 3000 patients with pancreatic carcinoma. Cancer 85 (6): 1261-8, 1999. [PUBMED Abstract]\n- Moore MJ, Goldstein D, Hamm J, et al.: Erlotinib plus gemcitabine compared with gemcitabine alone in patients with advanced pancreatic cancer: a phase III trial of the National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol 25 (15): 1960-6, 2007. [PUBMED Abstract]\n- Poplin E, Feng Y, Berlin J, et al.: Phase III, randomized study of gemcitabine and oxaliplatin versus gemcitabine (fixed-dose rate infusion) compared with gemcitabine (30-minute infusion) in patients with pancreatic carcinoma E6201: a trial of the Eastern Cooperative Oncology Group. J Clin Oncol 27 (23): 3778-85, 2009. [PUBMED Abstract]\n- Colucci G, Labianca R, Di Costanzo F, et al.: Randomized phase III trial of gemcitabine plus cisplatin compared with single-agent gemcitabine as first-line treatment of patients with advanced pancreatic cancer: the GIP-1 study. J Clin Oncol 28 (10): 1645-51, 2010. [PUBMED Abstract]\n- Pelzer U, Kubica K, Stieler J, et al.: A randomized trial in patients with gemcitabine refractory pancreatic cancer. Final results of the CONKO 003 study. [Abstract] J Clin Oncol 26 (Suppl 15): A-4508, 2008.\n- Pelzer U, Schwaner I, Stieler J, et al.: Best supportive care (BSC) versus oxaliplatin, folinic acid and 5-fluorouracil (OFF) plus BSC in patients for second-line advanced pancreatic cancer: a phase III-study from the German CONKO-study group. Eur J Cancer 47 (11): 1676-81, 2011. [PUBMED Abstract]\n- A multi-institutional comparative trial of radiation therapy alone and in combination with 5-fluorouracil for locally unresectable pancreatic carcinoma. The Gastrointestinal Tumor Study Group. Ann Surg 189 (2): 205-8, 1979. [PUBMED Abstract]\n- Cohen SJ, Dobelbower R, Lipsitz S, et al.: A randomized phase III study of radiotherapy alone or with 5-fluorouracil and mitomycin-C in patients with locally advanced adenocarcinoma of the pancreas: Eastern Cooperative Oncology Group study E8282. Int J Radiat Oncol Biol Phys 62 (5): 1345-50, 2005. [PUBMED Abstract]\n- Chauffert B, Mornex F, Bonnetain F, et al.: Phase III trial comparing initial chemoradiotherapy (intermittent cisplatin and infusional 5-FU) followed by gemcitabine vs. gemcitabine alone in patients with locally advanced non metastatic pancreatic cancer: a FFCD-SFRO study. [Abstract] J Clin Oncol 24 (Suppl 18): A-4008, 180s, 2006.\n- Loehrer PJ, Feng Y, Cardenes H, et al.: Gemcitabine alone versus gemcitabine plus radiotherapy in patients with locally advanced pancreatic cancer: an Eastern Cooperative Oncology Group trial. J Clin Oncol 29 (31): 4105-12, 2011. [PUBMED Abstract]\n- Hammel P, Huguet F, van Laethem JL, et al.: Effect of Chemoradiotherapy vs Chemotherapy on Survival in Patients With Locally Advanced Pancreatic Cancer Controlled After 4 Months of Gemcitabine With or Without Erlotinib: The LAP07 Randomized Clinical Trial. JAMA 315 (17): 1844-53, 2016. [PUBMED Abstract]\n- Moertel CG, Frytak S, Hahn RG, et al.: Therapy of locally unresectable pancreatic carcinoma: a randomized comparison of high dose (6000 rads) radiation alone, moderate dose radiation (4000 rads + 5-fluorouracil), and high dose radiation + 5-fluorouracil: The Gastrointestinal Tumor Study Group. Cancer 48 (8): 1705-10, 1981. [PUBMED Abstract]\n- Chauffert B, Mornex F, Bonnetain F, et al.: Phase III trial comparing intensive induction chemoradiotherapy (60 Gy, infusional 5-FU and intermittent cisplatin) followed by maintenance gemcitabine with gemcitabine alone for locally advanced unresectable pancreatic cancer. Definitive results of the 2000-01 FFCD/SFRO study. Ann Oncol 19 (9): 1592-9, 2008. [PUBMED Abstract]\n- Huguet F, André T, Hammel P, et al.: Impact of chemoradiotherapy after disease control with chemotherapy in locally advanced pancreatic adenocarcinoma in GERCOR phase II and III studies. J Clin Oncol 25 (3): 326-31, 2007. [PUBMED Abstract]\n- Sohn TA, Lillemoe KD, Cameron JL, et al.: Surgical palliation of unresectable periampullary adenocarcinoma in the 1990s. J Am Coll Surg 188 (6): 658-66; discussion 666-9, 1999. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Metastatic or Recurrent Pancreatic Cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic or Recurrent Pancreatic Cancer",
+            "Treatment Options for Metastatic or Recurrent Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for metastatic or recurrent pancreatic cancer include:\n- Chemotherapy with or without targeted therapy .\n- Clinical trials evaluating new anticancer agents alone or in combination with chemotherapy.\nPalliative therapies can be considered in patients with any stage of disease. For more information, see the Palliative Therapy section."
+        },
+        {
+          "section": "Chemotherapy with or without targeted therapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic or Recurrent Pancreatic Cancer",
+            "Treatment Options for Metastatic or Recurrent Pancreatic Cancer",
+            "Chemotherapy with or without targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 47,
+          "text": "Because of the low objective response rate and limited efficacy of palliative chemotherapy regimens, all newly diagnosed patients should consider enrolling in clinical trials. Multiagent chemotherapy combinations have been shown to prolong outcomes compared with single-agent gemcitabine.[ 1 - 3 ]\nEvidence (single-agent chemotherapy):\n- Gemcitabine versus fluorouracil (5-FU): A phase III trial of gemcitabine versus 5-FU as first-line therapy in patients with advanced or metastatic adenocarcinoma of the pancreas reported a significant improvement in survival among patients treated with gemcitabine (the 1-year survival rate was 18% with gemcitabine vs. 2% with 5-FU; P = .003).[ 1 ][ Level of evidence A1 ]\nEvidence (multiagent chemotherapy):\n- FOLFIRINOX (leucovorin, 5-FU, irinotecan, and oxaliplatin) versus gemcitabine: A multicenter phase II/III trial included 342 patients with metastatic pancreatic adenocarcinoma with an Eastern Cooperative Oncology Group performance status score of 0 or 1.[ 4 ][ Level of evidence A1 ] The patients were randomly assigned to receive FOLFIRINOX (oxaliplatin [85 mg/m 2 ], irinotecan [180 mg/m 2 ], leucovorin [400 mg/m 2 ], and 5-FU [400 mg/m 2 ] given as a bolus followed by 2,400 mg/m 2 given as a 46-hour continuous infusion, every 2 weeks) or gemcitabine (1,000 mg/m 2 weekly for 7 of 8 weeks and then weekly for 3 of 4 weeks).\n- The median overall survival (OS) was 11.1 months in the FOLFIRINOX group compared with 6.8 months in the gemcitabine group (hazard ratio [HR] death , 0.57; 95% confidence interval [CI], 0.45–0.73; P < .001).\n- Median progression-free survival (PFS) was 6.4 months in the FOLFIRINOX group and 3.3 months in the gemcitabine group (HR for disease progression, 0.47; 95% CI, 0.37–0.59; P < .001).\n- FOLFIRINOX was more toxic than gemcitabine; 5.4% of patients in this group had febrile neutropenia. At 6 months, 31% of the patients in the FOLFIRINOX group had a definitive degradation of quality of life versus 66% in the gemcitabine group (HR, 0.47; 95% CI, 0.30–0.70; P < .001).\n- Based on this trial, FOLFIRINOX is considered a standard treatment option for patients with advanced pancreatic cancer.\n- NALIRIFOX (5-FU, irinotecan sucrosofate [also called nanoliposomal irinotecan], and oxaliplatin) versus gemcitabine and nab-paclitaxel: The multicenter, open-label, phase III NAPOLI 3 study (NCT04083235) included 770 patients with confirmed pancreatic ductal adenocarcinoma who had not been treated previously for metastatic disease. The patients were randomly assigned 1:1 to receive NALIRIFOX (irinotecan sucrosofate [50 mg/m 2 ], oxaliplatin [60 mg/m 2 ], leucovorin [400 mg/m 2 ], and 5-FU [2,400 mg/m 2 ] as an intravenous infusion over 46 hours on days 1 and 15 of cycles lasting 28 days) or nab-paclitaxel (125 mg/m 2 ) and gemcitabine (1,000 mg/m 2 given intravenously on days 1, 8, and 15 of cycles lasting 28 days). The primary end point was OS from randomization to death due to any cause, for NALIRIFOX versus gemcitabine/nab-paclitaxel. Secondary end points included PFS and overall response rate by RECIST version 1.1.[ 5 ] Based on this trial, NALIRIFOX is a standard first-line treatment option for patients with advanced pancreatic cancer.\n- The median OS was 11.1 months (95% CI, 10.0–12.1) in the NALIRIFOX group and 9.2 months (95% CI, 8.3–10.6) in the nab-paclitaxel/gemcitabine group (HR, 0.83; 95% CI, 0.7–0.99; P = .036). The median follow-up was 16.1 months.[ 5 ][ Level of evidence A1 ]\n- The median PFS was 7.4 months in the NALIRIFOX group and 5.6 months in the nab-paclitaxel/gemcitabine group (HR, 0.69; 95% CI, 0.58–0.83; P < .0001).\n- The overall response rate was 42% in the NALIRIFOX group and 36% in the nab-paclitaxel/gemcitabine group ( P = .11). The median duration of response was 7.3 months in the NALIRIFOX group and 5 months in the nab-paclitaxel/gemcitabine group (HR, 0.67; 95% CI, 0.48–0.93).\n- There were 369 patients (>99%) with any adverse event in the NALIRIFOX group and 376 patients (99%) with any adverse event in the nab-paclitaxel/gemcitabine group. The most common grade 3 to 4 toxicities in the NALIRIFOX group were diarrhea (20%), hypokalemia (15%), neutropenia (14%), and nausea (12%). The most common grade 3 to 4 toxicities in the nab-paclitaxel/gemcitabine group were neutropenia (25%) and anemia (17%). Of note, hematological toxicities (i.e., neutropenia, anemia, thrombocytopenia) were lower in the NALIRIFOX group than the nab-paclitaxel/gemcitabine group. Peripheral neuropathy was noted in 3% of patients in the NALIRIFOX group compared with 6% of patients in the gemcitabine/nab-paclitaxel group.\n- Gemcitabine and nab-paclitaxel versus gemcitabine: A multicenter, international, phase III trial ( NCT00844649 ) included 861 patients with metastatic pancreatic adenocarcinoma. Patients had a Karnofsky Performance Status of at least 70 and had not previously received chemotherapy for metastatic disease.[ 6 ][ Level of evidence A1 ] Patients who received adjuvant gemcitabine or any other chemotherapy were excluded. The patients were randomly assigned to receive gemcitabine (1,000 mg/m 2 ) and nab-paclitaxel (125 mg/m 2 of body-surface area) weekly for 3 of 4 weeks or gemcitabine monotherapy (1,000 mg/m 2 weekly for 7 of 8 weeks and then weekly for 3 of 4 weeks).\n- The median OS was 8.5 months in the nab-paclitaxel/gemcitabine group compared with 6.7 months in the gemcitabine group (HR death , 0.72; 95% CI, 0.62–0.83; P < .001).\n- Median PFS was 5.5 months in the nab-paclitaxel/gemcitabine group and 3.7 months in the gemcitabine group (HR disease progression , 0.69; 95% CI, 0.58–0.82; P < .001).\n- Nab-paclitaxel/gemcitabine was more toxic than gemcitabine. The most common grade 3 toxicities in the nab-paclitaxel/gemcitabine group were neutropenia (38%), fatigue (17%), and neuropathy (17%); febrile neutropenia occurred in 3% of patients. In the gemcitabine-alone group, the most common grade 3 toxicities were neutropenia (27%), fatigue (1%), and neuropathy (1%); febrile neutropenia occurred in 1% of patients.\n- In the nab-paclitaxel/gemcitabine group, the median time from grade 3 neuropathy to grade 1 neuropathy or resolution was 29 days. Of patients with grade 3 peripheral neuropathy, 44% were able to resume treatment at a reduced dose within a median of 23 days after onset of a grade 3 event.\n- Based on this trial, nab-paclitaxel plus gemcitabine is a standard treatment option for patients with advanced pancreatic cancer.\n- Quality-of-life data were not measured for this regimen, and this study did not address the efficacy of nab-paclitaxel/gemcitabine versus FOLFIRINOX.\n- Gemcitabine alone versus gemcitabine and erlotinib: The National Cancer Institute of Canada performed a phase III trial ( CAN-NCIC-PA3 [NCT00026338]) that compared gemcitabine alone with the combination of gemcitabine and erlotinib (100 mg/d) in patients with advanced or metastatic pancreatic carcinomas.[ 7 ][ Level of evidence A1 ]\n- The addition of erlotinib modestly prolonged survival when combined with gemcitabine alone (HR, 0.81; 95% CI, 0.69–0.99; P = .038).\n- The corresponding median survival rate for patients receiving erlotinib was 6.2 months versus 5.9 months for patients receiving placebo. The 1-year survival rate for patients receiving erlotinib was 23% versus 17% for patients receiving placebo.\nEvidence (second-line chemotherapy):\n- Irinotecan sucrosofate with or without 5-FU and leucovorin: The NAPOLI-1 trial (NCT01494506) evaluated the role of irinotecan sucrosofate in patients with metastatic pancreatic cancer who were previously treated with gemcitabine-based therapies.[ 8 ] Irinotecan sucrosofate is an encapsulated formulation of irinotecan designed to increase intratumoral levels of irinotecan and its active metabolite. In this study, a total of 417 patients were randomly assigned to receive either irinotecan sucrosofate monotherapy (120 mg/m 2 every 3 weeks; n = 151), 5-FU and leucovorin (n = 149), or irinotecan sucrosofate (80 mg/m 2 every 2 weeks plus 5-FU) and leucovorin (n = 117).[ 8 ][ Level of evidence B1 ]\n- Median OS was 6.1 months (95% CI, 4.8–8.9) in patients who received irinotecan sucrosofate with 5-FU and 4.2 months (95% CI, 3.6–4.9) in patients who received 5-FU and leucovorin ( P = .012). Median OS was 4.9 months (95% CI, 4.2–5.6) for patients who received irinotecan sucrosofate monotherapy, compared with 4.2 months (95% CI, 3.6–4.9) for those who received 5-FU and leucovorin (unstratified HR, 0.99; P = .94). On multivariate analysis, irinotecan sucrosofate plus 5-FU and leucovorin was associated with improved OS (HR, 0.58; 95% CI, 0.42–0.81).\n- Grade 3 or 4 adverse events occurred most frequently in the patients who received irinotecan sucrosofate plus 5-FU and leucovorin and included neutropenia (27%), diarrhea (13%), vomiting (11%), and fatigue (14%).\n- Despite differences in survival and toxicity between regimens, quality of life was not significantly different between treatment groups.\n- The benefit of using irinotecan sucrosofate rather than unencapsulated irinotecan has not been established because the regimen for the control arm of this study was 5-FU/leucovorin. Additionally, the value of using irinotecan sucrosofate after FOLFIRINOX in the first-line setting is not clear.\n- 5-FU, leucovorin, and oxaliplatin (OFF regimen) versus best supportive care (BSC): Second-line chemotherapy after progression on a gemcitabine-based regimen may be beneficial. The Charité Onkologie (CONKO)-003 investigators randomly assigned patients requiring a second line of chemotherapy to either an OFF regimen or BSC.[ 2 ]; [ 3 ][ Level of evidence C1 ] The OFF regimen consisted of leucovorin (200 mg/m 2 ) followed by 5-FU (2,000 mg/m 2 [24 hours continuous infusion] on days 1, 8, 15, and 22) and oxaliplatin (85 mg/m 2 on days 8 and 22). After a rest of 3 weeks, the next cycle was started on day 43. The trial was terminated early because of poor accrual, and only 46 patients were randomly assigned to either the OFF regimen or BSC.\n- The median survival was 4.82 months (95% CI, 4.29–5.35) with the OFF treatment regimen and 2.30 months (95% CI, 1.76–2.83) with BSC alone (HR, 0.45; 95% CI, 0.24–0.83).\n- Median OS was 9.09 months for the sequence of gemcitabine/OFF and 7.90 months for gemcitabine/BSC.\n- The early closure of the study and the very small number of patients made the P values misleading. Therefore, second-line chemotherapy with the OFF regimen may be falsely associated with improved survival.\n- FOLFOX (leucovorin, 5-FU, and oxaliplatin) versus 5-FU/leucovorin after gemcitabine chemotherapy: The prospective, multicenter PANCREOX trial included 108 patients with advanced pancreatic cancer who had previously received first-line gemcitabine-based chemotherapy. Patients were randomly assigned to receive 5-FU/leucovorin without oxaliplatin (n = 54) or with oxaliplatin (n = 54), administered as modified FOLFOX-6 (mFOLFOX-6).[ 9 ][ Level of evidence C1 ] With a target accrual of 128 patients, the study closed prematurely because of slow accrual.\n- After a median follow-up of 8.8 months, the median PFS was 3.1 months in the mFOLFOX-6 arm and 2.9 months in the infusional 5-FU arm (HR, 1.00; 95% CI, 0.66–1.53, P = .989).\n- Overall response rate and quality of life was not significantly different in the two arms.\n- The overall incidence of grade 3 or 4 adverse events was 63% in the mFOLFOX-6 arm and 11% in the 5-FU/leucovorin arm. However, more patients in the mFOLFOX-6 arm withdrew from the study because of adverse events than did patients in the 5-FU/leucovorin arm (20% vs. 2%).\n- Based on this study, no benefit was seen with the addition of oxaliplatin, administered in the mFOLFOX-6 regimen, versus infusional 5-FU/leucovorin among patients with advanced pancreatic cancer after first-line gemcitabine-based chemotherapy. These results may suggest that oxaliplatin-based regimens for metastatic pancreatic cancer may yield the greatest benefit in the first-line setting.\n- Gemcitabine/paclitaxel versus gemcitabine after FOLFIRINOX failure or intolerance: The prospective, open-label, phase III GEMPAX study (NCT03943667) included 211 patients with metastatic pancreatic cancer that progressed during or within 3 months of completing first-line FOLFIRINOX (including FOLFIRINOX treatment as adjuvant therapy) or were intolerant of this therapy. Patients were randomly assigned to one of the following treatment arms:[ 10 ] The following results were observed:\n- Gemcitabine/paclitaxel: Gemcitabine (1,000 mg/m 2 ) and solvent-based paclitaxel (80 mg/m 2 ) on days 1, 8, and 15 of a 28-day cycle.\n- Gemcitabine alone: Gemcitabine (1,000 mg/m 2 ) on days 1, 8, and 15 of a 29-day cycle.\n- There was no significant difference in OS among patients who received gemcitabine/paclitaxel (6.4 months after a median follow-up of 13.4 months) or gemcitabine alone (5.9 months after 13.8 months of follow-up) (HR, 0.87; 95% CI, 0.63–1.20; P = .4095). However, OS was improved in the following subgroups of patients who received gemcitabine/paclitaxel: (1) patients aged 65 years or younger (HR, 0.66; 95% CI, 0.44–0.99), and (2) patients with CA 19-9 levels of 59 times the upper limit of normal or higher at baseline (HR, 0.64; 95% CI, 0.42–0.97).[ 10 ][ Level of evidence B1 ]\n- PFS was 3.1 months in the gemcitabine/paclitaxel group and 2.0 months in the gemcitabine-alone group (HR, 0.64; 95% CI, 0.47–0.89, P = .0067). The objective response rate was 17.1% in the gemcitabine/paclitaxel group and 4.2% in the gemcitabine-alone group ( P = .008).\n- Third-line therapies were given to 32.1% of patients in the gemcitabine/paclitaxel group and 46.5% of patients in the gemcitabine-alone group.\n- The overall incidence of grade 3 or greater treatment-related adverse events was 58% in the gemcitabine/paclitaxel group and 27.1% in the gemcitabine-alone group. In the gemcitabine/paclitaxel group, 13% of patients experienced serious treatment-related adverse events, versus 7.1% of patients in the gemcitabine-alone group. The most common grade 3 or greater treatment-related adverse events among patients in the gemcitabine/paclitaxel group versus those in the gemcitabine-alone group were anemia (15.2% vs. 4.3%), thrombocytopenia (19.6% vs. 4.3%), neutropenia (15.9% vs. 15.7%), peripheral neuropathy (12.3% vs. 0%), and asthenia (10.1% vs. 2.9%). There was one grade 5 adverse event associated with gemcitabine/paclitaxel therapy, which was attributed as acute respiratory distress.\n- Based on this study, no OS benefit was seen with second-line gemcitabine/paclitaxel over gemcitabine alone. However, there was an OS benefit in certain subgroups (patients aged 65 years or younger and patients with high CA 19-9 levels at baseline). PFS and objective response rate were significantly higher in the gemcitabine/paclitaxel group. Thus, combination therapy with gemcitabine/paclitaxel can be considered for the appropriate patient, recognizing the higher rate of treatment-related adverse events."
+        },
+        {
+          "section": "Special considerations for patients with germline BRCA1/BRCA2 variants",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic or Recurrent Pancreatic Cancer",
+            "Treatment Options for Metastatic or Recurrent Pancreatic Cancer",
+            "Special considerations for patients with germline BRCA1/BRCA2 variants"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Germline variants in BRCA1 or BRCA2 are present in 4% to 8% of patients with pancreatic adenocarcinoma.[ 11 , 12 ] BRCA1 / BRCA2 encode for proteins in the homologous repair pathway and DNA double-stranded break repair, and thus may be more sensitive to further DNA damage. Pancreatic tumors with BRCA1 / BRCA2 variants demonstrate improved responses to platinum-based therapies.[ 13 ] Poly (ADP-ribose) polymerase (PARP) inhibition has been posited to act synergistically with BRCA1 / BRCA2 variants by inhibiting single-stranded break repair. Several PARP inhibitors have been approved for treatment of patients with BRCA1 / BRCA2 -mutated advanced ovarian and breast cancers and are actively being studied for the management of patients with BRCA1 / BRCA2 -mutated pancreatic adenocarcinoma."
+        },
+        {
+          "section": "Olaparib",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic or Recurrent Pancreatic Cancer",
+            "Treatment Options for Metastatic or Recurrent Pancreatic Cancer",
+            "Special considerations for patients with germline BRCA1/BRCA2 variants",
+            "Olaparib"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Olaparib (a PARP inhibitor) maintenance therapy can be considered for patients with germline BRCA1 / BRCA2 variants and metastatic pancreatic adenocarcinoma who have responded to first-line platinum-based therapy for more than 4 months.\nEvidence (olaparib):\n- POLO trial (NCT02184195): A multicenter, phase III, randomized, double-blind, placebo-controlled trial that included 154 patients with metastatic pancreatic adenocarcinoma with germline BRCA1 or BRCA2 variants whose disease had not progressed after 16 weeks of first-line platinum-based chemotherapy.[ 14 ][ Level of evidence B1 ] The patients were assigned 3:2 to receive olaparib (300 mg twice daily) or placebo and were assessed for PFS.\n- Of 3,315 patients screened, 247 patients were identified with germline BRCA variants.\n- The median PFS was 7.4 months in the olaparib arm and 3.8 months in the placebo arm (HR, 0.53; 95% CI, 0.35‒0.82; P = .004)\n- Median OS was 18.9 months in the olaparib group and 18.1 months in the placebo arm (HR, 0.91; 95% CI, 0.56‒1.46; P = .68).\n- There were more grade 3 or 4 treatment-related adverse events with olaparib (40%) compared with placebo (23%)."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic or Recurrent Pancreatic Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic or Recurrent Pancreatic Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "- Burris HA, Moore MJ, Andersen J, et al.: Improvements in survival and clinical benefit with gemcitabine as first-line therapy for patients with advanced pancreas cancer: a randomized trial. J Clin Oncol 15 (6): 2403-13, 1997. [PUBMED Abstract]\n- Pelzer U, Kubica K, Stieler J, et al.: A randomized trial in patients with gemcitabine refractory pancreatic cancer. Final results of the CONKO 003 study. [Abstract] J Clin Oncol 26 (Suppl 15): A-4508, 2008.\n- Pelzer U, Schwaner I, Stieler J, et al.: Best supportive care (BSC) versus oxaliplatin, folinic acid and 5-fluorouracil (OFF) plus BSC in patients for second-line advanced pancreatic cancer: a phase III-study from the German CONKO-study group. Eur J Cancer 47 (11): 1676-81, 2011. [PUBMED Abstract]\n- Conroy T, Desseigne F, Ychou M, et al.: FOLFIRINOX versus gemcitabine for metastatic pancreatic cancer. N Engl J Med 364 (19): 1817-25, 2011. [PUBMED Abstract]\n- Wainberg ZA, Melisi D, Macarulla T, et al.: NALIRIFOX versus nab-paclitaxel and gemcitabine in treatment-naive patients with metastatic pancreatic ductal adenocarcinoma (NAPOLI 3): a randomised, open-label, phase 3 trial. Lancet 402 (10409): 1272-1281, 2023. [PUBMED Abstract]\n- Von Hoff DD, Ervin T, Arena FP, et al.: Increased survival in pancreatic cancer with nab-paclitaxel plus gemcitabine. N Engl J Med 369 (18): 1691-703, 2013. [PUBMED Abstract]\n- Moore MJ, Goldstein D, Hamm J, et al.: Erlotinib plus gemcitabine compared with gemcitabine alone in patients with advanced pancreatic cancer: a phase III trial of the National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol 25 (15): 1960-6, 2007. [PUBMED Abstract]\n- Wang-Gillam A, Li CP, Bodoky G, et al.: Nanoliposomal irinotecan with fluorouracil and folinic acid in metastatic pancreatic cancer after previous gemcitabine-based therapy (NAPOLI-1): a global, randomised, open-label, phase 3 trial. Lancet 387 (10018): 545-57, 2016. [PUBMED Abstract]\n- Gill S, Ko YJ, Cripps C, et al.: PANCREOX: A Randomized Phase III Study of Fluorouracil/Leucovorin With or Without Oxaliplatin for Second-Line Advanced Pancreatic Cancer in Patients Who Have Received Gemcitabine-Based Chemotherapy. J Clin Oncol 34 (32): 3914-3920, 2016. [PUBMED Abstract]\n- De La Fouchardière C, Malka D, Cropet C, et al.: Gemcitabine and Paclitaxel Versus Gemcitabine Alone After 5-Fluorouracil, Oxaliplatin, and Irinotecan in Metastatic Pancreatic Adenocarcinoma: A Randomized Phase III PRODIGE 65-UCGI 36-GEMPAX UNICANCER Study. J Clin Oncol 42 (9): 1055-1066, 2024. [PUBMED Abstract]\n- Holter S, Borgida A, Dodd A, et al.: Germline BRCA Mutations in a Large Clinic-Based Cohort of Patients With Pancreatic Adenocarcinoma. J Clin Oncol 33 (28): 3124-9, 2015. [PUBMED Abstract]\n- Cancer Genome Atlas Research Network. Electronic address: andrew_aguirre@dfci.harvard.edu, Cancer Genome Atlas Research Network: Integrated Genomic Characterization of Pancreatic Ductal Adenocarcinoma. Cancer Cell 32 (2): 185-203.e13, 2017. [PUBMED Abstract]\n- Golan T, Kanji ZS, Epelbaum R, et al.: Overall survival and clinical characteristics of pancreatic cancer in BRCA mutation carriers. Br J Cancer 111 (6): 1132-8, 2014. [PUBMED Abstract]\n- Golan T, Hammel P, Reni M, et al.: Maintenance Olaparib for Germline BRCA-Mutated Metastatic Pancreatic Cancer. N Engl J Med 381 (4): 317-327, 2019. [PUBMED Abstract]"
+        },
+        {
+          "section": "Palliative Therapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Palliative Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Palliative therapy options for patients with pancreatic cancer include:\n- Palliative surgical bypass procedures such as endoscopic or radiologically placed stents.[ 1 , 2 ]\n- Palliative radiation procedures.\n- Pain relief by celiac axis nerve or intrapleural block (percutaneous).[ 3 ]\n- Other palliative medical care alone."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Palliative Therapy",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Sohn TA, Lillemoe KD, Cameron JL, et al.: Surgical palliation of unresectable periampullary adenocarcinoma in the 1990s. J Am Coll Surg 188 (6): 658-66; discussion 666-9, 1999. [PUBMED Abstract]\n- Baron TH: Expandable metal stents for the treatment of cancerous obstruction of the gastrointestinal tract. N Engl J Med 344 (22): 1681-7, 2001. [PUBMED Abstract]\n- Polati E, Finco G, Gottin L, et al.: Prospective randomized double-blind trial of neurolytic coeliac plexus block in patients with pancreatic cancer. Br J Surg 85 (2): 199-201, 1998. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (02/12/2025)",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (02/12/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nGeneral Information About Pancreatic Cancer\nUpdated statistics with estimated new cases and deaths for 2025 (cited American Cancer Society as reference 1).\nTreatment of Resectable or Borderline Resectable Pancreatic Cancer\nRevised text about the results of the randomized, open-label, phase III PRODIGE-24 trial, which randomly assigned 493 patients with R0/R1 resections to receive six cycles of gemcitabine or 12 cycles of FOLFIRINOX (oxaliplatin, leucovorin, irinotecan, and fluorouracil) (cited Conroy et al. as reference 24).\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of adult pancreatic cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 10,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Pancreatic Cancer Treatment are:\n- Amit Chowdhry, MD, PhD (University of Rochester Medical Center)\n- Leon Pappas, MD, PhD (Massachusetts General Hospital)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Pancreatic Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/pancreatic/hp/pancreatic-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389394]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\c64e39c6020738af5c84.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Pancreatic Cancer",
+      "title": "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+      "summary_name": "Pancreatic Cancer Treatment",
+      "url": "https://www.cancer.gov/types/pancreatic/patient/pancreatic-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "July 8, 2026",
+      "retrieved_at": "2026-08-31T07:13:22.813921+00:00",
+      "content_sha256": "d7c0e21123e3e5d3256a9f3447e2431e973a2902268aa158969302be16127bd7",
+      "section_count": 44,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Pancreatic cancer is a type of cancer that forms in the tissues of the pancreas.\n- Smoking and health history can affect the risk of pancreatic cancer.\n- Signs and symptoms of pancreatic cancer include jaundice, pain, and weight loss.\n- Pancreatic cancer is difficult to diagnose early.\n- Tests that examine the pancreas are used to diagnose and stage pancreatic cancer.\n- Some people decide to get a second opinion.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Pancreatic cancer is a type of cancer that forms in the tissues of the pancreas.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Cancer",
+            "Pancreatic cancer is a type of cancer that forms in the tissues of the pancreas."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The pancreas is a gland about 6 inches long that is shaped like a thin pear lying on its side. The wider end of the pancreas is called the head, the middle section is called the body, and the narrow end is called the tail. The pancreas lies between the stomach and the spine . Enlarge Anatomy of the pancreas. The pancreas has three areas: the head, body, and tail. It is found in the abdomen near the stomach, intestines, and other organs.\nThe pancreas has two main jobs in the body:\n- to make juices that help break down food into substances the body can use\n- to make hormones , such as insulin and glucagon , that help control blood sugar levels and help the body use and store the energy it gets from food\nPancreatic cancer can occur in exocrine pancreas cells , which produce digestive juices, or the endocrine pancreas cells , which produce hormones. About 95% of pancreatic cancers begin in exocrine cells.\nThis summary is about exocrine pancreatic cancer. For information about endocrine pancreatic cancer, visit Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment ."
+        },
+        {
+          "section": "Smoking and health history can affect the risk of pancreatic cancer.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Cancer",
+            "Smoking and health history can affect the risk of pancreatic cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "Pancreatic cancer is caused by certain changes to the way pancreatic cells function, especially how they grow and divide into new cells. A risk factor is anything that increases the chance of getting a disease. Some risk factors for pancreatic cancer, like smoking, can be changed. However, risk factors also include things people cannot change, like their genetics and their family history. Learning about risk factors for pancreatic cancer can help you make changes that might lower your risk of getting it.\nThere are many risk factors for pancreatic cancer, but many do not directly cause cancer. Instead, they increase the chance of DNA damage in cells that may lead to pancreatic cancer. Learn more about how cancer develops at What Is Cancer?\nHaving one or more of these risk factors does not mean that you will get pancreatic cancer. Many people with risk factors never develop pancreatic cancer, while others with no known risk factors do.\nRisk factors for pancreatic cancer include:\n- smoking\n- having excess body weight\n- having a personal history of diabetes or chronic pancreatitis\n- having a family history of pancreatic cancer or pancreatitis\n- having certain hereditary conditions, such as:\n- hereditary nonpolyposis colon cancer (HNPCC; Lynch syndrome)\n- Peutz-Jeghers syndrome\n- hereditary breast and ovarian cancer syndrome\n- familial atypical multiple mole melanoma (FAMMM) syndrome\n- ataxia-telangiectasia\nTalk with your doctor if you think you might be at risk."
+        },
+        {
+          "section": "Signs and symptoms of pancreatic cancer include jaundice, pain, and weight loss.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Cancer",
+            "Signs and symptoms of pancreatic cancer include jaundice, pain, and weight loss."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Early on, pancreatic cancer may not cause any signs or symptoms , making it hard to detect. As the cancer grows, symptoms may include:\n- jaundice (yellowing of the skin and whites of the eyes)\n- light-colored stools\n- dark urine\n- pain in the upper or middle abdomen and back\n- weight loss for no known reason\n- loss of appetite\n- fatigue\nThese symptoms may be caused by many conditions other than pancreatic cancer. It’s important to check with your doctor if you have any of these symptoms to find out the cause and begin treatment, if needed."
+        },
+        {
+          "section": "Pancreatic cancer is difficult to diagnose early.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Cancer",
+            "Pancreatic cancer is difficult to diagnose early."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Pancreatic cancer is difficult to detect and diagnose for the following reasons:\n- There aren’t any noticeable signs or symptoms in the early stages of pancreatic cancer.\n- The signs and symptoms of pancreatic cancer, when present, are like the signs and symptoms of many other illnesses.\n- The pancreas is hidden behind other organs such as the stomach, small intestine , liver , gallbladder , spleen , and bile ducts ."
+        },
+        {
+          "section": "Tests that examine the pancreas are used to diagnose and stage pancreatic cancer.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Cancer",
+            "Tests that examine the pancreas are used to diagnose and stage pancreatic cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Pancreatic cancer is usually diagnosed with tests and procedures that make pictures of the pancreas and the area around it. The process used to find out if cancer cells have spread within and around the pancreas is called staging . Tests and procedures to detect, diagnose, and stage pancreatic cancer are usually done at the same time. To plan treatment, it is important to know the stage of the disease and whether the pancreatic cancer can be removed by surgery.\nIn addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Blood chemistry study is a laboratory test in which a blood sample is checked to measure the amounts of certain substances, such as bilirubin , released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease.\n- Tumor marker test checks a sample of blood, urine, or tissue to measure the amounts of certain substances, such as CA 19-9 and carcinoembryonic antigen (CEA), made by organs, tissues, or tumor cells in the body. Certain substances are linked to specific types of cancer when found in increased levels in the body. These are called tumor markers .\n- MRI (magnetic resonance imaging) uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body. The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. A spiral or helical CT scan makes a series of very detailed pictures of areas inside the body using an x-ray machine that scans the body in a spiral path.\n- PET scan (positron emission tomography scan) uses a small amount of radioactive sugar (also called glucose) that is injected into a vein. Then a scanner rotates around the body to make detailed, computerized pictures of areas inside the body where the glucose is taken up. Because cancer cells often take up more glucose than normal cells, the pictures can be used to find cancer cells in the body. A PET scan and CT scan may be done at the same time. This is called a PET-CT .\n- Abdominal ultrasound makes pictures of the inside of the abdomen. The ultrasound transducer is pressed against the skin of the abdomen and directs high-energy sound waves (ultrasound) into the abdomen. The sound waves bounce off the internal tissues and organs and make echoes. The transducer receives the echoes and sends them to a computer, which uses the echoes to make pictures called sonograms .\n- Endoscopic ultrasound (EUS) is a procedure that uses an endoscope inserted into the body, usually through the mouth or rectum . An endoscope is a thin, tube-like instrument with a light and a lens for viewing. A probe at the end of the endoscope is used to bounce high-energy sound waves (ultrasound) off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram. This procedure is also called endosonography.\n- Endoscopic retrograde cholangiopancreatography (ERCP) is a procedure to x-ray the ducts (tubes) that carry bile from the liver to the gallbladder and from the gallbladder to the small intestine. Sometimes pancreatic cancer causes these ducts to narrow and block or slow the flow of bile, causing jaundice. An endoscope (a thin, lighted tube) is passed through the mouth, esophagus , and stomach into the first part of the small intestine. A catheter (a smaller tube) is then inserted through the endoscope into the pancreatic ducts. A dye is injected through the catheter into the ducts and an x-ray is taken. If the ducts are blocked by a tumor, a fine tube may be inserted into the duct to unblock it. This tube (or stent ) may be left in place to keep the duct open. Tissue samples may also be taken.\n- Percutaneous transhepatic cholangiography (PTC) is a procedure to x-ray the liver and bile ducts. A thin needle is inserted through the skin below the ribs and into the liver. Dye is injected into the liver or bile ducts and an x-ray is taken. If a blockage is found, a thin, flexible tube called a stent is sometimes left in the liver to drain bile into the small intestine or a collection bag outside the body. This test is done only if ERCP cannot be done.\n- Laparoscopy is a surgical procedure to look at the organs inside the abdomen to check for signs of disease. Small incisions (cuts) are made in the wall of the abdomen and a laparoscope (a thin, lighted tube) is inserted into one of the incisions. The laparoscope may have an ultrasound probe at the end in order to bounce high-energy sound waves off internal organs, such as the pancreas. This is called laparoscopic ultrasound. Other instruments may be inserted through the same or other incisions to perform procedures such as taking tissue samples from the pancreas or a sample of fluid from the abdomen to check for cancer.\n- Biopsy is the removal of cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer. There are several ways to do a biopsy for pancreatic cancer. A fine needle or a core needle may be inserted into the pancreas during an x-ray or ultrasound to remove cells. Tissue may also be removed during a laparoscopy or surgery to remove the tumor."
+        },
+        {
+          "section": "Some people decide to get a second opinion.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Cancer",
+            "Some people decide to get a second opinion."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your pancreatic cancer diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report, slides, and scans. They may agree with the first doctor, suggest changes or another treatment approach, or provide more information about your cancer.\nTo learn more about choosing a doctor and getting a second opinion, visit Finding Cancer Care . You can contact NCI’s Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor, hospital, or getting a second opinion. For questions you might want to ask at your appointments, visit Questions to Ask Your Doctor about Cancer ."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Cancer",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The prognosis and treatment options depend on:\n- whether the tumor can be removed by surgery\n- the stage of the cancer (the size of the tumor and whether the cancer has spread outside the pancreas to nearby tissues or lymph nodes or to other places in the body)\n- the patient’s general health\n- whether the cancer has just been diagnosed or has recurred (come back)\nPancreatic cancer can be controlled only if it is found before it has spread, when it can be completely removed by surgery. If the cancer has spread, palliative treatment can improve the patient's quality of life by controlling the symptoms and complications of this disease."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "- Cancer stage describes the extent of cancer in the body.\n- The following stages are used for pancreatic cancer:\n- Stage 0 (carcinoma in situ)\n- Stage I (also called stage 1) pancreatic cancer\n- Stage II (also called stage 2) pancreatic cancer\n- Stage III (also called stage 3) pancreatic cancer\n- Stage IV (also called stage 4) pancreatic cancer\n- The following groups are used to plan treatment:\n- Resectable pancreatic cancer\n- Borderline resectable pancreatic cancer\n- Locally advanced pancreatic cancer\n- Metastatic pancreatic cancer\n- Recurrent pancreatic cancer"
+        },
+        {
+          "section": "Cancer stage describes the extent of cancer in the body.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Cancer",
+            "Cancer stage describes the extent of cancer in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer stage describes the extent of cancer in the body, such as the size of the tumor, whether it has spread, and how far it has spread from where it first formed. It is important to know the stage of the pancreatic cancer to plan the best treatment.\nThere are several staging systems for cancer that describe the extent of the cancer. Pancreatic cancer staging usually uses the TNM staging system . Your cancer may be described by this staging system in your pathology report. Based on the TNM results, a stage (I, II, III, or IV, also written as 1, 2, 3, or 4) is assigned to your cancer. When talking to you about your cancer, your doctor may describe it as one of these stages.\nTo learn how doctors stage pancreatic cancer, visit tests to diagnose and stage pancreatic cancer . Learn more about Cancer Staging .\nThe information in this section is about staging for exocrine pancreatic cancer, the most common type of pancreatic cancer."
+        },
+        {
+          "section": "Stage 0 (carcinoma in situ)",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Cancer",
+            "The following stages are used for pancreatic cancer:",
+            "Stage 0 (carcinoma in situ)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage 0, abnormal cells are found in the lining of the pancreas. These abnormal cells may become cancer and spread into nearby normal tissue. Stage 0 is also called carcinoma in situ."
+        },
+        {
+          "section": "Stage I (also called stage 1) pancreatic cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Cancer",
+            "The following stages are used for pancreatic cancer:",
+            "Stage I (also called stage 1) pancreatic cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In stage I, cancer has formed and is found in the pancreas only. Stage I is divided into stages IA and IB, depending on the size of the tumor.\n- Stage IA: The tumor is 2 centimeters or smaller.\n- Stage IB: The tumor is larger than 2 centimeters but not larger than 4 centimeters."
+        },
+        {
+          "section": "Stage II (also called stage 2) pancreatic cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Cancer",
+            "The following stages are used for pancreatic cancer:",
+            "Stage II (also called stage 2) pancreatic cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Stage II is divided into stages IIA and IIB, depending on the size of the tumor and where the cancer has spread.\n- Stage IIA: The tumor is larger than 4 centimeters . Enlarge Stage IIA pancreatic cancer. The tumor is larger than 4 centimeters.\n- Stage IIB: The tumor is any size, and cancer has spread to 1 to 3 nearby lymph nodes . Enlarge Stage IIB pancreatic cancer. The tumor is any size and cancer has spread to 1 to 3 nearby lymph nodes."
+        },
+        {
+          "section": "Stage III (also called stage 3) pancreatic cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Cancer",
+            "The following stages are used for pancreatic cancer:",
+            "Stage III (also called stage 3) pancreatic cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In stage III, the tumor is any size, and cancer has spread to:\n- four or more nearby lymph nodes ; or\n- the major blood vessels near the pancreas."
+        },
+        {
+          "section": "Stage IV (also called stage 4) pancreatic cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Cancer",
+            "The following stages are used for pancreatic cancer:",
+            "Stage IV (also called stage 4) pancreatic cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "In stage IV, the tumor is any size, and cancer has spread to other parts of the body, such as the liver , lung , or peritoneal cavity (the body cavity that contains most of the organs in the abdomen ).\nStage IV pancreatic cancer is also called metastatic pancreatic cancer. Metastatic cancer happens when cancer cells travel through the lymphatic system or blood and form tumors in other parts of the body. The metastatic tumor is the same type of cancer as the primary tumor. For example, if pancreatic cancer spreads to the liver, the cancer cells in the liver are actually pancreatic cancer cells. The disease is called metastatic pancreatic cancer, not liver cancer. Learn more in Metastatic Cancer: When Cancer Spreads ."
+        },
+        {
+          "section": "Resectable pancreatic cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Cancer",
+            "The following groups are used to plan treatment:",
+            "Resectable pancreatic cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Resectable pancreatic cancer can be removed by surgery because it has not grown into major blood vessels near the tumor."
+        },
+        {
+          "section": "Borderline resectable pancreatic cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Cancer",
+            "The following groups are used to plan treatment:",
+            "Borderline resectable pancreatic cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Borderline resectable pancreatic cancer has grown into a major blood vessel or nearby tissue or organs. It may be possible to remove the tumor, but there is a high risk that all of the cancer cells will not be removed with surgery."
+        },
+        {
+          "section": "Locally advanced pancreatic cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Cancer",
+            "The following groups are used to plan treatment:",
+            "Locally advanced pancreatic cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Locally advanced pancreatic cancer has grown into or close to nearby lymph nodes or blood vessels, so surgery cannot completely remove the cancer."
+        },
+        {
+          "section": "Metastatic pancreatic cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Cancer",
+            "The following groups are used to plan treatment:",
+            "Metastatic pancreatic cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Metastatic pancreatic cancer has spread to other organs, so surgery cannot completely remove the cancer."
+        },
+        {
+          "section": "Recurrent pancreatic cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Cancer",
+            "The following groups are used to plan treatment:",
+            "Recurrent pancreatic cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Recurrent pancreatic cancer is cancer that has recurred (come back) after it has been treated. The cancer may come back in the pancreas or in other parts of the body. Tests will be done to help determine where the cancer has returned in your body. The type of treatment for recurrent pancreatic cancer will depend on where it has come back.\nLearn more in Recurrent Cancer: When Cancer Comes Back ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- There are different types of treatment for patients with pancreatic cancer.\n- The following types of treatment are used:\n- Surgery\n- Radiation therapy\n- Chemotherapy\n- Chemoradiation therapy\n- Targeted therapy\n- There are treatments for pain caused by pancreatic cancer.\n- Patients with pancreatic cancer have special nutritional needs.\n- New types of treatment are being tested in clinical trials.\n- Treatment for pancreatic cancer may cause side effects.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with pancreatic cancer.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with pancreatic cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Different types of treatments are available for people with pancreatic cancer. You and your cancer care team will work together to decide your treatment plan, which may include more than one type of treatment. Many factors will be considered, such as the stage of the cancer, your overall health, and your preferences. Your plan will include information about your cancer, the goals of treatment, your treatment options and the possible side effects, and the expected length of treatment.\nTalking with your cancer care team before treatment begins about what to expect will be helpful. You’ll want to learn what you need to do before treatment begins, how you’ll feel while going through it, and what kind of help you will need. To learn more, visit Questions to Ask Your Doctor about Treatment ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "One of the following types of surgery may be used to take out the tumor:\n- Whipple procedure is surgery to remove the head of the pancreas , the gallbladder , part of the stomach , part of the small intestine , and the bile duct . Enough of the pancreas is left to produce digestive juices and insulin .\n- Total pancreatectomy is surgery to remove the whole pancreas, part of the stomach, part of the small intestine, the common bile duct , the gallbladder, the spleen , and nearby lymph nodes .\n- Distal pancreatectomy is surgery to remove the body and the tail of the pancreas. The spleen may also be removed if cancer has spread to the spleen.\nIf the cancer has spread and cannot be removed, the following types of palliative surgery may be done to relieve symptoms and improve quality of life :\n- Biliary bypass : If cancer is blocking the bile duct and bile is building up in the gallbladder, a biliary bypass may be done. During this operation, the doctor will cut the gallbladder or bile duct in the area before the blockage and sew it to the small intestine to create a new pathway around the blocked area.\n- Endoscopic stent placement: If the tumor is blocking the bile duct, surgery may be done to put in a stent (a thin tube) to drain bile that has built up in the area. The doctor may place the stent through a catheter that drains the bile into a bag on the outside of the body, or the stent may go around the blocked area and drain the bile into the small intestine.\n- Gastric bypass: If the tumor is blocking the flow of food from the stomach, the stomach may be sewn directly to the small intestine so the patient can continue to eat normally."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Radiation therapy uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. Pancreatic cancer is sometimes treated with external beam radiation therapy . This type of radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\nLearn more about External Beam Radiation Therapy for Cancer and Radiation Therapy Side Effects ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing.\nChemotherapy for pancreatic cancer is usually systemic, meaning it is injected into a vein or given by mouth. When given this way, the drugs enter the bloodstream to reach cancer cells throughout the body.\nChemotherapy drugs used to treat pancreatic cancer may include:\n- capecitabine\n- fluorouracil (5-FU)\n- gemcitabine\n- irinotecan\n- irinotecan sucrosofate (also called nanoliposomal irinotecan)\n- leucovorin (a vitamin that improves the effectiveness of 5-FU)\n- oxaliplatin\nCombinations of these drugs may be used. Other chemotherapy drugs not listed here may also be used.\nChemotherapy may also be combined with other kinds of treatment. For example, it may be combined with radiation therapy or targeted therapy.\nLearn more about how chemotherapy works, how it is given, common side effects, and more at Chemotherapy to Treat Cancer and Chemotherapy and You: Support for People With Cancer ."
+        },
+        {
+          "section": "Chemoradiation therapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemoradiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemoradiation therapy combines chemotherapy and radiation therapy to increase the effects of both."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Targeted therapy uses drugs or other substances to block the action of specific enzymes, proteins, or other molecules involved in the growth and spread of cancer cells. A small number of pancreatic cancers may respond to targeted therapy. Molecular testing of the tumor is important and can help your doctor decide whether you are a candidate for targeted therapy.\nTargeted therapies used to treat pancreatic cancer include:\n- dabrafenib with trametinib\n- entrectinib\n- erlotinib\n- larotrectinib\n- olaparib\n- selpercatinib\n- zenocutuzumab-zbco\nDaraxonrasib is an experimental targeted therapy taken by mouth that targets mutations in the KRAS gene. Nine out of ten pancreatic cancers have this mutation, and it is one of the earliest gene changes found as the disease progresses. Daraxonrasib can have difficult side effects, such as rash and mouth sores. While not yet approved by the U.S. Food and Drug Administration (FDA), daraxonrasib is available under FDA’s expanded access , also called “compassionate use,” because it has been shown to extend survival and improve quality of life for people with advanced, previously treated pancreatic cancer.\nLearn more about Targeted Therapy to Treat Cancer ."
+        },
+        {
+          "section": "There are treatments for pain caused by pancreatic cancer.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are treatments for pain caused by pancreatic cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Pain can occur when the tumor presses on nerves or other organs near the pancreas. When pain medicine is not enough, there are treatments that act on nerves in the abdomen to relieve the pain. The doctor may inject medicine into the area around affected nerves or may cut the nerves to block the feeling of pain. Radiation therapy with or without chemotherapy can also help relieve pain by shrinking the tumor. Learn more about Cancer Pain ."
+        },
+        {
+          "section": "Patients with pancreatic cancer have special nutritional needs.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients with pancreatic cancer have special nutritional needs."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Surgery to remove the pancreas may affect its ability to make pancreatic enzymes that help to digest food. As a result, patients may have problems digesting food and absorbing nutrients into the body. To prevent malnutrition , the doctor may prescribe medicines that replace these enzymes."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some people, joining a clinical trial may be an option. There are different types of clinical trials for people with cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment for pancreatic cancer may cause side effects.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for pancreatic cancer may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Resectable or Borderline Resectable Pancreatic Cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Resectable or Borderline Resectable Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Treatment of resectable or borderline resectable pancreatic cancer may include:\n- chemotherapy with or without radiation therapy , followed by surgery\n- surgery\n- surgery, followed by chemotherapy\n- surgery, followed by chemoradiation\n- a clinical trial of chemotherapy and/or radiation therapy before surgery\n- a clinical trial of chemoradiation, followed by surgery and then chemotherapy\n- a clinical trial of different ways of giving radiation therapy\nSurgery to remove the tumor may include Whipple procedure , total pancreatectomy , or distal pancreatectomy .\nPalliative therapy can be started at any stage of disease. Visit the Palliative Therapy section for information about treatments that may improve quality of life or relieve symptoms in people with pancreatic cancer.\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Locally Advanced Pancreatic Cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Locally Advanced Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Treatment of pancreatic cancer that is locally advanced may include:\n- chemotherapy with or without targeted therapy\n- chemotherapy and chemoradiation\n- surgery ( Whipple procedure , total pancreatectomy , or distal pancreatectomy )\n- palliative surgery or stent placement to bypass blocked areas in ducts or the small intestine , and possibly chemotherapy and chemoradiation to shrink the tumor to allow for surgery\n- a clinical trial of new anticancer therapies together with chemotherapy or chemoradiation\n- a clinical trial of radiation therapy given during surgery or internal radiation therapy\nPalliative therapy can be started at any stage of disease. Visit the Palliative Therapy section for information about treatments that may improve quality of life or relieve symptoms in patients with pancreatic cancer.\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Metastatic or Recurrent Pancreatic Cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Metastatic or Recurrent Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment of pancreatic cancer that has metastasized or recurred may include:\n- chemotherapy with or without targeted therapy\n- clinical trials of new anticancer agents with or without chemotherapy\nPalliative therapy can be started at any stage of disease. Visit the Palliative Therapy section for information about treatments that may improve quality of life or relieve symptoms in patients with pancreatic cancer.\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Palliative Therapy",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "Palliative Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Palliative therapy can improve the patient's quality of life by controlling the symptoms and complications of pancreatic cancer.\nPalliative therapy for pancreatic cancer may include:\n- palliative surgery or stent placement to bypass blocked areas in ducts or the small intestine\n- palliative radiation therapy to help relieve pain by shrinking the tumor\n- an injection of medicine to help relieve pain by blocking nerves in the abdomen\n- other palliative medical care alone\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Pancreatic Cancer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "To Learn More About Pancreatic Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "For more information from the National Cancer Institute about pancreatic cancer, visit:\n- Pancreatic Cancer Home Page\n- Childhood Pancreatic Cancer Treatment\n- Drugs Approved for Pancreatic Cancer\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of adult pancreatic cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Pancreatic Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/pancreatic/patient/pancreatic-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389396]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Pancreatic Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\e1f06e9d05c2358002b8.html"
+    }
+  ]
+}

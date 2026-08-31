@@ -1,0 +1,802 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "AIDS-Related Lymphoma",
+  "generated_at": "2026-08-31T07:15:22.900874+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "AIDS-Related Lymphoma",
+      "title": "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "AIDS-Related Lymphoma Treatment",
+      "url": "https://www.cancer.gov/types/lymphoma/hp/aids-related-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "September 18, 2024",
+      "retrieved_at": "2026-08-31T07:12:17.403302+00:00",
+      "content_sha256": "dffabe1ea9adf288a070df34a8abc3384e441beaba9ea2b4af824d6ec8cb852d",
+      "section_count": 29,
+      "sections": [
+        {
+          "section": "Background and Definitions",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Background and Definitions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "AIDS was first described in 1981, and the first definitions included certain opportunistic infections, Kaposi sarcoma, and central nervous system (CNS) lymphomas. In 1984, a multicenter study described the clinical spectrum of non-Hodgkin lymphomas (NHLs) in the populations at risk of AIDS.[ 1 ] The incidence of NHL has increased in a course almost parallel to that of the AIDS epidemic and accounts for 2% to 3% of newly diagnosed AIDS cases.[ 2 ] Since the introduction of highly active antiretroviral therapy (HAART) in the mid-1990s, the incidence of lymphomas has decreased, and outcomes have improved.[ 3 ] Higher CD4-positive T-lymphocyte (CD4) counts in the HAART era have been associated with a shift in histological diagnoses. The shift is away from primary effusion lymphoma and primary CNS lymphoma, which occur with the lowest CD4 counts, and toward histologies that occur at higher CD4 counts, such as Burkitt lymphoma and Hodgkin lymphoma (HL).[ 4 - 6 ] In contrast to less-frequent incidences of all the lymphoproliferative disorders in the HAART era, the incidence rate of anal cancer has not changed.[ 7 ]"
+        },
+        {
+          "section": "Histology",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Histology"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Pathologically, AIDS-related lymphomas comprise a narrow spectrum of histological types consisting almost exclusively of B-cell tumors of aggressive type. These include:\n- Diffuse large B-cell lymphoma (including B-cell immunoblastic lymphoma).\n- Small noncleaved lymphoma, either Burkitt or Burkitt-like.\nThe HIV-associated lymphomas can be categorized as:\n- Aggressive B-cell lymphoma (see above).\n- Primary CNS lymphoma (PCNSL).\n- Primary effusion lymphoma.\n- Plasmablastic multicentric Castleman disease.\n- HL."
+        },
+        {
+          "section": "HIV-associated Hodgkin lymphoma",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Histology",
+            "HIV-associated Hodgkin lymphoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Multiple reviews of HL occurring in patients at risk of AIDS have been done;[ 8 , 9 ] however, HL is still not part of the Centers for Disease Control and Prevention (CDC) definition of AIDS because no clear demonstration of its increased incidence in conjunction with HIV has been shown, as is the case for aggressive NHL. The CDC, in conjunction with the San Francisco Department of Public Health, has reported a cohort study in which HIV-infected men had an excess risk that was attributable to the HIV infection in 19.3 cases of HL per 100,000 person-years and 224.9 cases of NHL per 100,000 person-years. Although this report found an excess incidence of HL in HIV-infected homosexual men, additional epidemiologic studies will be needed before the CDC will reconsider HL as an HIV-associated malignancy.[ 10 ]\nHIV-associated HL presents in an aggressive fashion, often with extranodal or bone marrow involvement.[ 8 , 9 , 11 ] A distinctive feature of HIV-associated HL is the lesser frequency of mediastinal adenopathy compared with non–HIV-associated HL. Most patients in these series had either mixed cellularity or lymphocyte-depleted HL, expression of Epstein-Barr virus (EBV)-associated proteins in Reed-Sternberg cells, B symptoms, and a median CD4 lymphocyte count of 300/dL or lower.[ 12 ] In a retrospective multicenter review of 62 patients, those receiving HAART with chemotherapy had a 74% 2-year overall survival (OS) rate versus a 30% OS rate for those not receiving HAART ( P < .001).[ 13 ][ Level of evidence C1 ] Among 201 patients with classical HL and HIV positivity, the 2- to 5-year OS rate of 88% to 90% after treatment with ABVD (doxorubicin, bleomycin, vinblastine, and dacarbazine), or similar regimens, and HAART, was not significantly different from the OS rate of HIV-negative patients with newly diagnosed HL in two uncontrolled comparisons.[ 14 , 15 ][ Level of evidence C3 ] These studies confirm that patients with HL who were treated with standard regimens and HAART have outcomes that are similar to those of the uninfected population.[ 16 ] Furthermore, immune function recovers over the course of 6 to 9 months after completion of chemotherapy.[ 15 ]"
+        },
+        {
+          "section": "Primary effusion lymphoma",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Histology",
+            "Primary effusion lymphoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Primary effusion lymphoma has been associated with Kaposi sarcoma (KS)-associated herpesvirus (KSHV)/human herpes virus type 8 (HHV8).[ 17 , 18 ] Primary effusion lymphoma presents as a liquid phase spreading along serous membranes in the absence of masses or adenopathy.[ 17 ] In addition to HHV8, many cases are also associated with EBV. Extension of lymphoma from the effusion to underlying tissue may occur. A series of 20 patients, including 19 treated with modified infusional etoposide, vincristine, and doxorubicin plus cyclophosphamide and prednisone (modEPOCH), had a 3-year cancer-specific survival rate of 47% and a median OS of 22 months.[ 19 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Multicentric Castleman disease",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Histology",
+            "Multicentric Castleman disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The plasmablastic type of multicentric Castleman disease is also associated with a coinfection of KSHV/HHV8 and HIV.[ 20 ] Patients typically present with fever, night sweats, weight loss, lymphadenopathy, and hepatosplenomegaly. Patients may progress to primary effusion lymphoma or to plasmablastic or anaplastic large cell lymphoma. Anecdotal responses to the anti-CD20 monoclonal antibody rituximab alone (along with HAART), have been reported.[ 21 - 24 ][ Level of evidence C3 ] For a prospective cohort of 84 patients treated with rituximab for HIV and HHV8 multicentric Castleman disease, the 5-year rate of relapse-free survival was 82% (95% confidence interval [CI], 72%–92%), and all patients responded again to rituximab at relapse.[ 24 ][ Level of evidence C2 ]"
+        },
+        {
+          "section": "Incidence and Prevention",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Incidence and Prevention"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "An international database of 48,000 HIV-seropositive individuals from the United States, Europe, and Australia found a 42% decline in the incidence of NHLs from 1997 to 1999 compared with the same incidences in 1992 to 1996, both for PCNSL and for systemic lymphoma.[ 25 ] The introduction of HAART is the proposed explanation for this decline.[ 26 ] The diagnosis of AIDS precedes the onset of NHL in approximately 50% of the patients; however, in the other half of the patients, the diagnosis of AIDS is made at the time of the diagnosis of NHL and HIV positivity.[ 3 ] The geographic distribution of these lymphomas is also similar to the geographic spread of AIDS. Unlike KS, which has a predilection for homosexual men and appears to be on the decline in incidence, all risk groups appear to have an excess number of NHLs; these risk groups include intravenous drug users and children of HIV-positive individuals."
+        },
+        {
+          "section": "Clinical Presentation",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Clinical Presentation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "In general, the clinical setting and response to treatment of patients with AIDS-related lymphoma is very different from that of the non-HIV patients with lymphoma. The HIV-infected individual with aggressive lymphoma usually presents with advanced-stage disease that is frequently extranodal.[ 27 ]\nCommon extranodal sites include:\n- Bone marrow.\n- Liver.\n- Meninges.\n- Gastrointestinal tract.\nVery unusual sites are also characteristic and include:\n- Anus.\n- Heart.\n- Bile duct.\n- Gingiva.\n- Muscles.\nThe clinical course is more aggressive, and the disease is both more extensive and less responsive to chemotherapy. Immunodeficiency and cytopenias, common in these patients at the time of initial presentation, are exacerbated by the administration of chemotherapy. Treatment of the malignancy increases the risk of opportunistic infections, which further compromise the delivery of adequate treatment."
+        },
+        {
+          "section": "Prognosis and Survival",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Prognosis and Survival"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Prognoses of patients with AIDS-related lymphoma have been associated with:[ 28 ]\n- Stage (i.e., extent of disease, extranodal involvement, lactate dehydrogenase level, and bone marrow involvement).\n- Age.\n- Severity of the underlying immunodeficiency (measured by CD4 lymphocyte count in peripheral blood).\n- Performance status.\n- Prior AIDS diagnosis (i.e., history of opportunistic infection or KS).\nPatients with AIDS-related PCNSL appear to have more severe underlying HIV-related disease than do patients with systemic lymphoma. In one report, this severity was evidenced by patients with PCNSL who had a higher incidence of previously diagnosed AIDS (73% vs. 37%), lower median number of CD4 lymphocytes (30/dL vs. 189/dL), and a worse median survival time (2.5 months vs. 6.0 months).[ 29 ] This report also showed that patients with poor risk factors—defined as Karnofsky Performance Status score lower than 70%, history of previously diagnosed AIDS, and bone marrow involvement—had a median survival time of 4.0 months compared with patients in a good prognosis group who had none of these risk factors, and who had a median survival time of 11.3 months.\nIn another report (NIAID-ACTG-142), prognostic factors were evaluated in a group of 192 patients with newly diagnosed AIDS-related lymphoma who were randomly assigned to receive either low-dose methotrexate, bleomycin, doxorubicin, cyclophosphamide, vincristine, and dexamethasone (m-BACOD) or standard-dose m-BACOD with granulocyte-macrophage colony-stimulating factor.[ 30 ] No differences existed between these two treatments in terms of efficacy for disease-free survival, median survival, or risk ratio for death.[ 30 ][ Level of evidence A1 ] On multivariate analysis, factors associated with decreased survival included age older than 35 years, history of intravenous drug use, stage III or stage IV disease, and CD4 counts lower than 100 cells/mm 3 . The International Prognostic Index may also be predictive for survival.[ 31 - 33 ] In a multicenter cohort study of 203 patients, in a multivariable Cox model, response to HAART was independently associated with prolonged survival (relative hazard, 0.32; 95% CI, 0.16–0.62).[ 34 ][ Level of evidence C2 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Prognosis and Survival",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 34,
+          "text": "- Ziegler JL, Beckstead JA, Volberding PA, et al.: Non-Hodgkin's lymphoma in 90 homosexual men. Relation to generalized lymphadenopathy and the acquired immunodeficiency syndrome. N Engl J Med 311 (9): 565-70, 1984. [PUBMED Abstract]\n- Rabkin CS, Yellin F: Cancer incidence in a population with a high prevalence of infection with human immunodeficiency virus type 1. J Natl Cancer Inst 86 (22): 1711-6, 1994. [PUBMED Abstract]\n- Noy A: Optimizing treatment of HIV-associated lymphoma. Blood 134 (17): 1385-1394, 2019. [PUBMED Abstract]\n- Little RF, Wilson WH: Update on the Pathogenesis, Diagnosis, and Therapy of AIDS-related Lymphoma. Curr Infect Dis Rep 5 (2): 176-184, 2003. [PUBMED Abstract]\n- Carbone A, Gloghini A: AIDS-related lymphomas: from pathogenesis to pathology. Br J Haematol 130 (5): 662-70, 2005. [PUBMED Abstract]\n- Gopal S, Patel MR, Yanik EL, et al.: Temporal trends in presentation and survival for HIV-associated lymphoma in the antiretroviral therapy era. J Natl Cancer Inst 105 (16): 1221-9, 2013. [PUBMED Abstract]\n- Piketty C, Selinger-Leneman H, Bouvier AM, et al.: Incidence of HIV-related anal cancer remains increased despite long-term combined antiretroviral treatment: results from the french hospital database on HIV. J Clin Oncol 30 (35): 4360-6, 2012. [PUBMED Abstract]\n- Spina M, Vaccher E, Nasti G, et al.: Human immunodeficiency virus-associated Hodgkin's disease. Semin Oncol 27 (4): 480-8, 2000. [PUBMED Abstract]\n- Thompson LD, Fisher SI, Chu WS, et al.: HIV-associated Hodgkin lymphoma: a clinicopathologic and immunophenotypic study of 45 cases. Am J Clin Pathol 121 (5): 727-38, 2004. [PUBMED Abstract]\n- Hessol NA, Katz MH, Liu JY, et al.: Increased incidence of Hodgkin disease in homosexual men with HIV infection. Ann Intern Med 117 (4): 309-11, 1992. [PUBMED Abstract]\n- Re A, Casari S, Cattaneo C, et al.: Hodgkin disease developing in patients infected by human immunodeficiency virus results in clinical features and a prognosis similar to those in patients with human immunodeficiency virus-related non-Hodgkin lymphoma. Cancer 92 (11): 2739-45, 2001. [PUBMED Abstract]\n- Dolcetti R, Boiocchi M, Gloghini A, et al.: Pathogenetic and histogenetic features of HIV-associated Hodgkin's disease. Eur J Cancer 37 (10): 1276-87, 2001. [PUBMED Abstract]\n- Hentrich M, Maretta L, Chow KU, et al.: Highly active antiretroviral therapy (HAART) improves survival in HIV-associated Hodgkin's disease: results of a multicenter study. Ann Oncol 17 (6): 914-9, 2006. [PUBMED Abstract]\n- Montoto S, Shaw K, Okosun J, et al.: HIV status does not influence outcome in patients with classical Hodgkin lymphoma treated with chemotherapy using doxorubicin, bleomycin, vinblastine, and dacarbazine in the highly active antiretroviral therapy era. J Clin Oncol 30 (33): 4111-6, 2012. [PUBMED Abstract]\n- Hentrich M, Berger M, Wyen C, et al.: Stage-adapted treatment of HIV-associated Hodgkin lymphoma: results of a prospective multicenter study. J Clin Oncol 30 (33): 4117-23, 2012. [PUBMED Abstract]\n- Kaplan LD: Management of HIV-associated Hodgkin lymphoma: how far we have come. J Clin Oncol 30 (33): 4056-8, 2012. [PUBMED Abstract]\n- Simonelli C, Spina M, Cinelli R, et al.: Clinical features and outcome of primary effusion lymphoma in HIV-infected patients: a single-institution study. J Clin Oncol 21 (21): 3948-54, 2003. [PUBMED Abstract]\n- Nador RG, Cesarman E, Chadburn A, et al.: Primary effusion lymphoma: a distinct clinicopathologic entity associated with the Kaposi's sarcoma-associated herpes virus. Blood 88 (2): 645-56, 1996. [PUBMED Abstract]\n- Lurain K, Polizzotto MN, Aleman K, et al.: Viral, immunologic, and clinical features of primary effusion lymphoma. Blood 133 (16): 1753-1761, 2019. [PUBMED Abstract]\n- Bower M, Newsom-Davis T, Naresh K, et al.: Clinical Features and Outcome in HIV-Associated Multicentric Castleman's Disease. J Clin Oncol 29 (18): 2481-6, 2011. [PUBMED Abstract]\n- Goedert JJ: Multicentric Castleman disease: viral and cellular targets for intervention. Blood 102 (8): 2710-11, 2003.\n- Uldrick TS, Polizzotto MN, Aleman K, et al.: Rituximab plus liposomal doxorubicin in HIV-infected patients with KSHV-associated multicentric Castleman disease. Blood 124 (24): 3544-52, 2014. [PUBMED Abstract]\n- Marcelin AG, Aaron L, Mateus C, et al.: Rituximab therapy for HIV-associated Castleman disease. Blood 102 (8): 2786-8, 2003. [PUBMED Abstract]\n- Pria AD, Pinato D, Roe J, et al.: Relapse of HHV8-positive multicentric Castleman disease following rituximab-based therapy in HIV-positive patients. Blood 129 (15): 2143-2147, 2017. [PUBMED Abstract]\n- International Collaboration on HIV and Cancer: Highly active antiretroviral therapy and incidence of cancer in human immunodeficiency virus-infected adults. J Natl Cancer Inst 92 (22): 1823-30, 2000. [PUBMED Abstract]\n- Stebbing J, Gazzard B, Mandalia S, et al.: Antiretroviral treatment regimens and immune parameters in the prevention of systemic AIDS-related non-Hodgkin's lymphoma. J Clin Oncol 22 (11): 2177-83, 2004. [PUBMED Abstract]\n- Sparano JA: Clinical aspects and management of AIDS-related lymphoma. Eur J Cancer 37 (10): 1296-305, 2001. [PUBMED Abstract]\n- Bower M, Gazzard B, Mandalia S, et al.: A prognostic index for systemic AIDS-related non-Hodgkin lymphoma treated in the era of highly active antiretroviral therapy. Ann Intern Med 143 (4): 265-73, 2005. [PUBMED Abstract]\n- Levine AM, Sullivan-Halley J, Pike MC, et al.: Human immunodeficiency virus-related lymphoma. Prognostic factors predictive of survival. Cancer 68 (11): 2466-72, 1991. [PUBMED Abstract]\n- Kaplan LD, Straus DJ, Testa MA, et al.: Low-dose compared with standard-dose m-BACOD chemotherapy for non-Hodgkin's lymphoma associated with human immunodeficiency virus infection. National Institute of Allergy and Infectious Diseases AIDS Clinical Trials Group. N Engl J Med 336 (23): 1641-8, 1997. [PUBMED Abstract]\n- Navarro JT, Ribera JM, Oriol A, et al.: International prognostic index is the best prognostic factor for survival in patients with AIDS-related non-Hodgkin's lymphoma treated with CHOP. A multivariate study of 46 patients. Haematologica 83 (6): 508-13, 1998. [PUBMED Abstract]\n- Rossi G, Donisi A, Casari S, et al.: The International Prognostic Index can be used as a guide to treatment decisions regarding patients with human immunodeficiency virus-related systemic non-Hodgkin lymphoma. Cancer 86 (11): 2391-7, 1999. [PUBMED Abstract]\n- Straus DJ, Huang J, Testa MA, et al.: Prognostic factors in the treatment of human immunodeficiency virus-associated non-Hodgkin's lymphoma: analysis of AIDS Clinical Trials Group protocol 142--low-dose versus standard-dose m-BACOD plus granulocyte-macrophage colony-stimulating factor. National Institute of Allergy and Infectious Diseases. J Clin Oncol 16 (11): 3601-6, 1998. [PUBMED Abstract]\n- Hoffmann C, Wolf E, Fätkenheuer G, et al.: Response to highly active antiretroviral therapy strongly predicts outcome in patients with AIDS-related lymphoma. AIDS 17 (10): 1521-9, 2003. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of AIDS-Related Lymphoma",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of AIDS-Related Lymphoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Pathologically, AIDS-related lymphomas comprise a narrow spectrum of histological types consisting almost exclusively of B-cell tumors of aggressive type. These include:\n- Diffuse large B-cell lymphoma (B-cell immunoblastic lymphoma).\n- Small noncleaved lymphoma, either Burkitt or Burkitt-like.\nAIDS-related lymphomas, though usually of B-cell origin as demonstrated by immunoglobulin heavy-chain gene rearrangement studies, have also been shown to be oligoclonal, polyclonal, and monoclonal in origin. Although HIV does not appear to have a direct etiologic role, HIV infection does lead to an altered immunologic milieu. HIV generally infects T lymphocytes with the loss of regulation function that leads to hypergammaglobulinemia and polyclonal B-cell hyperplasia. B cells are not the targets of HIV infection. Instead, Epstein-Barr virus (EBV) is thought to be at least a cofactor in the etiology of some of these lymphomas. The EBV genome has been detected in most patients with AIDS-related lymphomas; molecular analysis suggests that the cells were infected before clonal proliferation began.[ 1 ] The rare primary effusion lymphoma consistently harbors human herpes virus type 8 and frequently contains EBV.[ 2 ] HIV-related T-cell lymphomas have also been identified and appear to be associated with EBV infection.[ 3 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of AIDS-Related Lymphoma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Thorley-Lawson DA, Gross A: Persistence of the Epstein-Barr virus and the origins of associated lymphomas. N Engl J Med 350 (13): 1328-37, 2004. [PUBMED Abstract]\n- Simonelli C, Spina M, Cinelli R, et al.: Clinical features and outcome of primary effusion lymphoma in HIV-infected patients: a single-institution study. J Clin Oncol 21 (21): 3948-54, 2003. [PUBMED Abstract]\n- Thomas JA, Cotter F, Hanby AM, et al.: Epstein-Barr virus-related oral T-cell lymphoma associated with human immunodeficiency virus immunosuppression. Blood 81 (12): 3350-6, 1993. [PUBMED Abstract]"
+        },
+        {
+          "section": "Stage Information for AIDS-Related Lymphoma",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for AIDS-Related Lymphoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Although stage is important in selecting the treatment of patients with non-Hodgkin lymphoma (NHL) who do not have AIDS, most patients with AIDS-related lymphomas have far-advanced disease."
+        },
+        {
+          "section": "Lugano classification",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for AIDS-Related Lymphoma",
+            "Staging Subclassification System",
+            "Lugano classification"
+          ],
+          "is_boilerplate": false,
+          "block_count": 28,
+          "text": "The American Joint Committee on Cancer (AJCC) has adopted the Lugano classification to evaluate and stage lymphoma.[ 1 ] The Lugano classification system replaces the Ann Arbor classification system, which was adopted in 1971 at the Ann Arbor Conference,[ 2 ] with some modifications 18 years later from the Cotswolds meeting.[ 3 , 4 ]\nStage | Stage Description | Illustration\nCSF = cerebrospinal fluid; CT = computed tomography; DLBCL = diffuse large B-cell lymphoma; NHL = non-Hodgkin lymphoma.\na Hodgkin and Non-Hodgkin Lymphomas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 937–58.\nb Stage II bulky may be considered either early or advanced stage based on lymphoma histology and prognostic factors.\nc The definition of disease bulk varies according to lymphoma histology. In the Lugano classification, bulk ln Hodgkin lymphoma is defined as a mass greater than one-third of the thoracic diameter on CT of the chest or a mass >10 cm. For NHL, the recommended definitions of bulk vary by lymphoma histology. In follicular lymphoma, 6 cm has been suggested based on the Follicular Lymphoma International Prognostic Index-2 and its validation. In DLBCL, cutoffs ranging from 5 cm to 10 cm have been used, although 10 cm is recommended.\nLimited stage\nI | Involvement of a single lymphatic site (i.e., nodal region, Waldeyer’s ring, thymus, or spleen). | Enlarge\nIE | Single extralymphatic site in the absence of nodal involvement (rare in Hodgkin lymphoma).\nII | Involvement of two or more lymph node regions on the same side of the diaphragm. | Enlarge\nIIE | Contiguous extralymphatic extension from a nodal site with or without involvement of other lymph node regions on the same side of the diaphragm. | Enlarge\nII bulky b | Stage II with disease bulk. c\nAdvanced stage\nIII | Involvement of lymph node regions on both sides of the diaphragm; nodes above the diaphragm with spleen involvement. | Enlarge\nIV | Diffuse or disseminated involvement of one or more extralymphatic organs, with or without associated lymph node involvement; or noncontiguous extralymphatic organ involvement in conjunction with nodal stage II disease; or any extralymphatic organ involvement in nodal stage III disease. Stage IV includes any involvement of the CSF, bone marrow, liver, or lungs (other than by direct extension in stage IIE disease). | Enlarge\nNote: Hodgkin lymphoma uses A or B designation with stage group. A/B is no longer used in NHL.\nOccasionally, specialized staging systems are used. The physician should be aware of the system used in a specific report.\nThe E designation is used when extranodal lymphoid malignancies arise in tissues separate from, but near, the major lymphatic aggregates. Stage IV refers to disease that is diffusely spread throughout an extranodal site, such as the liver. If pathological proof of involvement of one or more extralymphatic sites has been documented, the symbol for the site of involvement, followed by a plus sign (+), is listed.\nN = nodes | H = liver | L = lung | M = marrow\nS = spleen | P = pleura | O = bone | D = skin\nCurrent practice assigns a clinical stage (CS) based on the findings of the clinical evaluation and a pathological stage (PS) based on the findings made as a result of invasive procedures beyond the initial biopsy.\nFor example, on percutaneous biopsy, a patient with inguinal adenopathy and a positive lymphangiogram without systemic symptoms might be found to have involvement of the liver and bone marrow. The precise stage of such a patient would be CS IIA, PS IVA(H+)(M+).\nA number of other factors that are not included in the above staging system are important for the staging and prognosis of patients with NHL. These factors include:\n- Age.\n- Performance status (PS).\n- Tumor size.\n- Lactate dehydrogenase (LDH) values.\n- The number of extranodal sites."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for AIDS-Related Lymphoma",
+            "Staging Subclassification System",
+            "Lugano classification",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Hodgkin and non-Hodgkin lymphoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 937–58.\n- Carbone PP, Kaplan HS, Musshoff K, et al.: Report of the Committee on Hodgkin's Disease Staging Classification. Cancer Res 31 (11): 1860-1, 1971. [PUBMED Abstract]\n- Lister TA, Crowther D, Sutcliffe SB, et al.: Report of a committee convened to discuss the evaluation and staging of patients with Hodgkin's disease: Cotswolds meeting. J Clin Oncol 7 (11): 1630-6, 1989. [PUBMED Abstract]\n- National Cancer Institute sponsored study of classifications of non-Hodgkin's lymphomas: summary and description of a working formulation for clinical usage. The Non-Hodgkin's Lymphoma Pathologic Classification Project. Cancer 49 (10): 2112-35, 1982. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Option Overview for AIDS-Related Lymphoma",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for AIDS-Related Lymphoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The treatment of patients with AIDS-related lymphomas presents the challenge of integrating therapy appropriate for the stage and histological subset of malignant lymphoma with the limitations imposed by HIV infection.[ 1 ] In addition to antitumor therapy, essential components of an optimal non-Hodgkin lymphoma treatment strategy include:[ 2 , 3 ]\n- Highly active antiretroviral therapy.\n- Prophylaxis for opportunistic infections.\n- Rapid recognition and treatment of intercurrent infections.\nPatients with HIV positivity and underlying immunodeficiency have poor bone marrow reserve, which compromises the potential for drug dose intensity. Intercurrent opportunistic infection is a risk that may also lead to a decrease in drug delivery. Furthermore, chemotherapy itself compromises the immune system and increases the likelihood of opportunistic infection."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for AIDS-Related Lymphoma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Levine AM: Acquired immunodeficiency syndrome-related lymphoma: clinical aspects. Semin Oncol 27 (4): 442-53, 2000. [PUBMED Abstract]\n- Tirelli U, Bernardi D: Impact of HAART on the clinical management of AIDS-related cancers. Eur J Cancer 37 (10): 1320-4, 2001. [PUBMED Abstract]\n- Noy A: Optimizing treatment of HIV-associated lymphoma. Blood 134 (17): 1385-1394, 2019. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of AIDS-Related Peripheral/Systemic Lymphoma",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Related Peripheral/Systemic Lymphoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The treatment of AIDS-related lymphomas involves overcoming several problems. These are all aggressive lymphomas, which by definition are diffuse large cell/immunoblastic lymphoma or small noncleaved cell lymphoma (Burkitt lymphoma). These lymphomas frequently involve the bone marrow and central nervous system (CNS) and, therefore, are usually in an advanced stage. In addition, the immunodeficiency of AIDS and the leukopenia that is commonly seen with HIV infection makes the use of immunosuppressive chemotherapy challenging.\nThe introduction of highly active antiretroviral therapy (HAART) has led to a marked reduction in opportunistic infections, prolonged survival with HIV infection, and a median overall survival (OS) for patients with AIDS-related lymphoma that is comparable with the outcome in the nonimmunosuppressed population.[ 1 - 7 ][ Level of evidence C3 ] The use of HAART has also allowed standard-dose and even intensive chemotherapy regimens to be given with reasonable safety to patients with AIDS-related lymphomas, which is comparable with the outcome in patients without HIV.[ 1 - 10 ]\nSeveral prospective nonrandomized trials and pooled individual data from 19 prospective trials that included 1,546 patients show that the addition of rituximab to combination chemotherapy improves the complete response rate, progression-free survival, and OS.[ 3 - 6 ][ Level of evidence C3 ] Several other prospective nonrandomized trials and the pooled individual data from the same 1,546 patients also show that infusional EPOCH (infusional etoposide, infusional vincristine, infusional doxorubicin, cyclophosphamide, and prednisone) produced better outcomes than did CHOP (cyclophosphamide, doxorubicin, vincristine, and prednisone) (hazard ratio OS , 0.33; P = .03).[ 3 , 6 , 7 ][ Level of evidence C3 ] Concurrent use of HAART with the infusional EPOCH regimen is controversial; one group advocated for HAART after completion of chemotherapy,[ 7 ] while others allowed concurrent therapy.[ 6 ]\nFor patients with Burkitt lymphoma, dose-modified regimens such as R-CODOX (cyclophosphamide, doxorubicin, vincristine, methotrexate, cytarabine and rituximab)-M/IVAC (ifosfamide, etoposide, and high-dose cytarabine) or R-EPOCH (etoposide, prednisone, vincristine, and doxorubicin in combination with rituximab) have shown good results with concurrent or sequential HAART.[ 7 , 11 , 12 ]\nPatients at risk of subsequent CNS involvement include those with bone marrow involvement or those with EBV identified in the primary tumor or in the cerebrospinal fluid (i.e., by polymerase chain reaction).[ 13 , 14 ] Intrathecal chemotherapy is usually considered for patients who are at higher risk of CNS involvement.\nHighly selected patients with resistant or relapsed lymphoma after first-line chemotherapy and with continued responsiveness to HAART underwent second-line chemotherapy followed by high-dose therapy and autologous peripheral stem cell transplant. Long-term survivors have been reported anecdotally for these highly selected patients who relapsed.[ 15 - 18 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Related Peripheral/Systemic Lymphoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Related Peripheral/Systemic Lymphoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "- Mounier N, Spina M, Gabarre J, et al.: AIDS-related non-Hodgkin lymphoma: final analysis of 485 patients treated with risk-adapted intensive chemotherapy. Blood 107 (10): 3832-40, 2006. [PUBMED Abstract]\n- Weiss R, Mitrou P, Arasteh K, et al.: Acquired immunodeficiency syndrome-related lymphoma: simultaneous treatment with combined cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy and highly active antiretroviral therapy is safe and improves survival--results of the German Multicenter Trial. Cancer 106 (7): 1560-8, 2006. [PUBMED Abstract]\n- Barta SK, Xue X, Wang D, et al.: Treatment factors affecting outcomes in HIV-associated non-Hodgkin lymphomas: a pooled analysis of 1546 patients. Blood 122 (19): 3251-62, 2013. [PUBMED Abstract]\n- Wyen C, Jensen B, Hentrich M, et al.: Treatment of AIDS-related lymphomas: rituximab is beneficial even in severely immunosuppressed patients. AIDS 26 (4): 457-64, 2012. [PUBMED Abstract]\n- Levine AM, Noy A, Lee JY, et al.: Pegylated liposomal doxorubicin, rituximab, cyclophosphamide, vincristine, and prednisone in AIDS-related lymphoma: AIDS Malignancy Consortium Study 047. J Clin Oncol 31 (1): 58-64, 2013. [PUBMED Abstract]\n- Sparano JA, Lee JY, Kaplan LD, et al.: Rituximab plus concurrent infusional EPOCH chemotherapy is highly effective in HIV-associated B-cell non-Hodgkin lymphoma. Blood 115 (15): 3008-16, 2010. [PUBMED Abstract]\n- Dunleavy K, Little RF, Pittaluga S, et al.: The role of tumor histogenesis, FDG-PET, and short-course EPOCH with dose-dense rituximab (SC-EPOCH-RR) in HIV-associated diffuse large B-cell lymphoma. Blood 115 (15): 3017-24, 2010. [PUBMED Abstract]\n- Ratner L, Lee J, Tang S, et al.: Chemotherapy for human immunodeficiency virus-associated non-Hodgkin's lymphoma in combination with highly active antiretroviral therapy. J Clin Oncol 19 (8): 2171-8, 2001. [PUBMED Abstract]\n- Wang ES, Straus DJ, Teruya-Feldstein J, et al.: Intensive chemotherapy with cyclophosphamide, doxorubicin, high-dose methotrexate/ifosfamide, etoposide, and high-dose cytarabine (CODOX-M/IVAC) for human immunodeficiency virus-associated Burkitt lymphoma. Cancer 98 (6): 1196-205, 2003. [PUBMED Abstract]\n- Cortes J, Thomas D, Rios A, et al.: Hyperfractionated cyclophosphamide, vincristine, doxorubicin, and dexamethasone and highly active antiretroviral therapy for patients with acquired immunodeficiency syndrome-related Burkitt lymphoma/leukemia. Cancer 94 (5): 1492-9, 2002. [PUBMED Abstract]\n- Noy A: Optimizing treatment of HIV-associated lymphoma. Blood 134 (17): 1385-1394, 2019. [PUBMED Abstract]\n- Noy A, Kaplan L, Lee J: Feasibility and toxicity of a modified dose intensive R-CODOX-M/IVAC for HIV-associated Burkitt and atypical Burkitt lymphoma (BL): preliminary results of a prospective multicenter phase II trial of the AIDS Malignancy Consortium (AMC). [Abstract] Blood 114 (22): A-3673, 2009.\n- Cingolani A, Gastaldi R, Fassone L, et al.: Epstein-Barr virus infection is predictive of CNS involvement in systemic AIDS-related non-Hodgkin's lymphomas. J Clin Oncol 18 (19): 3325-30, 2000. [PUBMED Abstract]\n- Scadden DT: Epstein-Barr virus, the CNS, and AIDS-related lymphomas: as close as flame to smoke. J Clin Oncol 18 (19): 3323-4, 2000. [PUBMED Abstract]\n- Re A, Michieli M, Casari S, et al.: High-dose therapy and autologous peripheral blood stem cell transplantation as salvage treatment for AIDS-related lymphoma: long-term results of the Italian Cooperative Group on AIDS and Tumors (GICAT) study with analysis of prognostic factors. Blood 114 (7): 1306-13, 2009. [PUBMED Abstract]\n- Krishnan A, Molina A, Zaia J, et al.: Durable remissions with autologous stem cell transplantation for high-risk HIV-associated lymphomas. Blood 105 (2): 874-8, 2005. [PUBMED Abstract]\n- Costello RT, Zerazhi H, Charbonnier A, et al.: Intensive sequential chemotherapy with hematopoietic growth factor support for non-Hodgkin lymphoma in patients infected with the human immunodeficiency virus. Cancer 100 (4): 667-76, 2004. [PUBMED Abstract]\n- Balsalobre P, Díez-Martín JL, Re A, et al.: Autologous stem-cell transplantation in patients with HIV-related lymphoma. J Clin Oncol 27 (13): 2192-8, 2009. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of AIDS-Related Primary Central Nervous System Lymphoma",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Related Primary Central Nervous System Lymphoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "As with other AIDS-related lymphomas, primary central nervous system (CNS) lymphoma (PCNSL) is an aggressive B-cell neoplasm, either diffuse large B-cell or diffuse immunoblastic non-Hodgkin lymphoma (a subtype of diffuse large B-cell lymphoma). AIDS-related PCNSL has been reported to have a 100% association with Epstein-Barr virus (EBV).[ 1 ] These patients usually have evidence of low CD4-positive T lymphocyte counts, high HIV viral load, severe debilitation, and focal neurological symptoms such as seizures, changes in mental status, and paralysis.\nComputed tomographic scans show contrast-enhancing mass lesions that may not always be distinguished from other CNS diseases, such as toxoplasmosis, that occur in patients with AIDS.[ 2 ] Magnetic resonance imaging studies using gadolinium contrast may be a more useful initial diagnostic tool in differentiating lymphoma from cerebral toxoplasmosis or progressive multifocal leukoencephalopathy. Lymphoma tends to present with large lesions, which are enhanced by gadolinium. In cerebral toxoplasmosis, ring enhancement is very common, lesions tend to be smaller, and multiple lesions are seen.[ 3 - 5 ] Use of positron emission scanning has demonstrated an improved ability to distinguish PCNSL from toxoplasmosis.[ 6 , 7 ] PCNSL has an increased uptake while toxoplasmosis lesions are metabolically inactive. Antibodies against toxoplasmosis may also be very useful because most cerebral toxoplasmosis occurs as a consequence of reactivity of a previous infection. If the immunoglobulin G titer is less than 1:4, the disease is unlikely to be toxoplasmotic. A lumbar puncture may be useful to detect as many as 23% of patients with malignant cells in their cerebrospinal fluid (CSF). Evaluating the CSF for EBV DNA may be a useful lymphoma-specific tool because EBV is present in all patients with PCNSL. Despite the many evaluations, however, most patients with PCNSL require a pathological diagnosis.[ 8 - 10 ] Diagnosis is made by biopsy. Sometimes, a biopsy is attempted only after failure of antibiotics for toxoplasmosis, which will produce clinical and radiographic improvement within 1 to 3 weeks in patients with cerebral toxoplasmosis.[ 11 ]\nRadiation therapy alone has usually been used in this group of patients. With doses in the range of 35 Gy to 40 Gy, median duration of survival has been only 72 to 119 days.[ 2 , 12 , 13 ] Survival is longer in younger patients with better performance status and the absence of opportunistic infection.[ 14 ] In the highly active antiretroviral therapy (HAART) era, a median survival of 18 months has been seen with radiation therapy alone.[ 15 ] An anecdotal report using HAART and high-dose methotrexate for patients with AIDS-related PCNSL showed a median survival that had not been reached with a median follow-up of 27 months.[ 16 ] Most patients respond to treatment by showing partial improvement in neurological symptoms. Autopsies have revealed that these patients die of opportunistic infections as well as tumor progression. Treatment of these patients is also complicated by other AIDS-related CNS infections, including subacute AIDS encephalitis, cytomegalovirus encephalitis, and toxoplasmosis encephalitis. Spontaneous remissions have been reported after HAART.[ 17 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Related Primary Central Nervous System Lymphoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of AIDS-Related Primary Central Nervous System Lymphoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "- MacMahon EM, Glass JD, Hayward SD, et al.: Epstein-Barr virus in AIDS-related primary central nervous system lymphoma. Lancet 338 (8773): 969-73, 1991. [PUBMED Abstract]\n- Goldstein JD, Dickson DW, Moser FG, et al.: Primary central nervous system lymphoma in acquired immune deficiency syndrome. A clinical and pathologic study with results of treatment with radiation. Cancer 67 (11): 2756-65, 1991. [PUBMED Abstract]\n- Nyberg DA, Federle MP: AIDS-related Kaposi sarcoma and lymphomas. Semin Roentgenol 22 (1): 54-65, 1987. [PUBMED Abstract]\n- Fine HA, Mayer RJ: Primary central nervous system lymphoma. Ann Intern Med 119 (11): 1093-104, 1993. [PUBMED Abstract]\n- Ciricillo SF, Rosenblum ML: Use of CT and MR imaging to distinguish intracranial lesions and to define the need for biopsy in AIDS patients. J Neurosurg 73 (5): 720-4, 1990. [PUBMED Abstract]\n- Hoffman JM, Waskin HA, Schifter T, et al.: FDG-PET in differentiating lymphoma from nonmalignant central nervous system lesions in patients with AIDS. J Nucl Med 34 (4): 567-75, 1993. [PUBMED Abstract]\n- Pierce MA, Johnson MD, Maciunas RJ, et al.: Evaluating contrast-enhancing brain lesions in patients with AIDS by using positron emission tomography. Ann Intern Med 123 (8): 594-8, 1995. [PUBMED Abstract]\n- Cinque P, Brytting M, Vago L, et al.: Epstein-Barr virus DNA in cerebrospinal fluid from patients with AIDS-related primary lymphoma of the central nervous system. Lancet 342 (8868): 398-401, 1993. [PUBMED Abstract]\n- Cingolani A, De Luca A, Larocca LM, et al.: Minimally invasive diagnosis of acquired immunodeficiency syndrome-related primary central nervous system lymphoma. J Natl Cancer Inst 90 (5): 364-9, 1998. [PUBMED Abstract]\n- Yarchoan R, Jaffe ES, Little R: Diagnosing central nervous system lymphoma in the setting of AIDS: a step forward. J Natl Cancer Inst 90 (5): 346-7, 1998. [PUBMED Abstract]\n- Mathews C, Barba D, Fullerton SC: Early biopsy versus empiric treatment with delayed biopsy of non-responders in suspected HIV-associated cerebral toxoplasmosis: a decision analysis. AIDS 9 (11): 1243-50, 1995. [PUBMED Abstract]\n- Baumgartner JE, Rachlin JR, Beckstead JH, et al.: Primary central nervous system lymphomas: natural history and response to radiation therapy in 55 patients with acquired immunodeficiency syndrome. J Neurosurg 73 (2): 206-11, 1990. [PUBMED Abstract]\n- Remick SC, Diamond C, Migliozzi JA, et al.: Primary central nervous system lymphoma in patients with and without the acquired immune deficiency syndrome. A retrospective analysis and review of the literature. Medicine (Baltimore) 69 (6): 345-60, 1990. [PUBMED Abstract]\n- Corn BW, Donahue BR, Rosenstock JG, et al.: Performance status and age as independent predictors of survival among AIDS patients with primary CNS lymphoma: a multivariate analysis of a multi-institutional experience. Cancer J Sci Am 3 (1): 52-6, 1997 Jan-Feb. [PUBMED Abstract]\n- Hoffmann C, Tabrizian S, Wolf E, et al.: Survival of AIDS patients with primary central nervous system lymphoma is dramatically improved by HAART-induced immune recovery. AIDS 15 (16): 2119-27, 2001. [PUBMED Abstract]\n- Gupta NK, Nolan A, Omuro A, et al.: Long-term survival in AIDS-related primary central nervous system lymphoma. Neuro Oncol 19 (1): 99-108, 2017. [PUBMED Abstract]\n- McGowan JP, Shah S: Long-term remission of AIDS-related primary central nervous system lymphoma associated with highly active antiretroviral therapy. AIDS 12 (8): 952-4, 1998. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (09/18/2024)",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (09/18/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of AIDS-related lymphoma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 10,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for AIDS-Related Lymphoma Treatment are:\n- Eric J. Seifter, MD (Johns Hopkins University)\n- Minh Tam Truong, MD (Boston University Medical Center)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ AIDS-Related Lymphoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/lymphoma/hp/aids-related-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389186]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\0462a4692d52bc8568d7.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "AIDS-Related Lymphoma",
+      "title": "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+      "summary_name": "AIDS-Related Lymphoma Treatment",
+      "url": "https://www.cancer.gov/types/lymphoma/patient/aids-related-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "November 17, 2023",
+      "retrieved_at": "2026-08-31T07:12:35.652057+00:00",
+      "content_sha256": "11b1c3decef2f65174727caac1fca60455c6fa358b69c5ff56edf3cf265e3c0e",
+      "section_count": 37,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- AIDS-related lymphoma is a disease in which malignant (cancer) cells form in the lymph system of patients who have acquired immunodeficiency syndrome (AIDS).\n- There are many different types of lymphoma.\n- Signs of AIDS-related lymphoma include weight loss, fever, and drenching night sweats.\n- Tests that examine the lymph system and other parts of the body are used to diagnose AIDS-related lymphoma.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "AIDS-related lymphoma is a disease in which malignant (cancer) cells form in the lymph system of patients who have acquired immunodeficiency syndrome (AIDS).",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "General Information About AIDS-Related Lymphoma",
+            "AIDS-related lymphoma is a disease in which malignant (cancer) cells form in the lymph system of patients who have acquired immunodeficiency syndrome (AIDS)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "AIDS is caused by the human immunodeficiency virus (HIV), which attacks and weakens the body's immune system . A weakened immune system is unable to fight infection and disease. People with HIV disease have an increased risk of infection and lymphoma or other types of cancer . A person with HIV and certain types of infection or cancer, such as lymphoma, is diagnosed as having AIDS. Sometimes, people are diagnosed with AIDS and AIDS-related lymphoma at the same time. For information about AIDS and its treatment, see the AIDSinfo website .\nAIDS-related lymphoma is a type of cancer that affects the lymph system . The lymph system is part of the immune system. It helps protect the body from infection and disease.\nThe lymph system is made up of the following:\n- Lymph : Colorless, watery fluid that travels through the lymph vessels and carries T and B lymphocytes . Lymphocytes are a type of white blood cell .\n- Lymph vessels: A network of thin tubes that collect lymph from different parts of the body and return it to the bloodstream.\n- Lymph nodes : Small, bean-shaped structures that filter lymph and store white blood cells that help fight infection and disease. Lymph nodes are found along a network of lymph vessels throughout the body. Groups of lymph nodes are found in the neck, underarm, mediastinum , abdomen , pelvis , and groin .\n- Spleen : An organ that makes lymphocytes, stores red blood cells and lymphocytes, filters the blood , and destroys old blood cells . The spleen is on the left side of the abdomen near the stomach .\n- Thymus : An organ in which T lymphocytes mature and multiply. The thymus is in the chest behind the breastbone .\n- Tonsils : Two small masses of lymph tissue at the back of the throat . There is one tonsil on each side of the throat.\n- Bone marrow : The soft, spongy tissue in the center of certain bones, such as the hip bone and breastbone. White blood cells, red blood cells, and platelets are made in the bone marrow.\nLymph tissue is also found in other parts of the body such as the brain , stomach, thyroid gland , and skin.\nSometimes AIDS-related lymphoma occurs outside the lymph nodes in the bone marrow, liver , meninges (thin membranes that cover the brain) and gastrointestinal tract . Less often, it may occur in the anus , heart, bile duct , gingiva , and muscles."
+        },
+        {
+          "section": "There are many different types of lymphoma.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "General Information About AIDS-Related Lymphoma",
+            "There are many different types of lymphoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Lymphomas are divided into two general types:\n- Hodgkin lymphoma .\n- Non-Hodgkin lymphoma .\nBoth non-Hodgkin lymphoma and Hodgkin lymphoma may occur in patients with AIDS, but non-Hodgkin lymphoma is more common. When a person with AIDS has non-Hodgkin lymphoma, it is called AIDS-related lymphoma. When AIDS-related lymphoma occurs in the central nervous system (CNS), it is called AIDS-related primary CNS lymphoma .\nNon-Hodgkin lymphomas are grouped by the way their cells look under a microscope . They may be indolent (slow-growing) or aggressive (fast-growing). AIDS-related lymphomas are aggressive. There are two main types of AIDS-related non-Hodgkin lymphoma:\n- Diffuse large B-cell lymphoma (including B-cell immunoblastic lymphoma).\n- Burkitt or Burkitt-like lymphoma.\nFor more information about lymphoma or AIDS-related cancers, see the following:\n- Adult Non-Hodgkin Lymphoma Treatment\n- Childhood Non-Hodgkin Lymphoma Treatment\n- Primary CNS Lymphoma Treatment\n- Kaposi Sarcoma Treatment"
+        },
+        {
+          "section": "Signs of AIDS-related lymphoma include weight loss, fever, and drenching night sweats.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Signs of AIDS-related lymphoma include weight loss, fever, and drenching night sweats."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "These and other signs and symptoms may be caused by AIDS-related lymphoma or by other conditions . Check with your doctor if you have any of the following:\n- Weight loss or fever for no known reason.\n- Drenching night sweats.\n- Painless, swollen lymph nodes in the neck, chest, underarm, or groin.\n- A feeling of fullness below the ribs."
+        },
+        {
+          "section": "Tests that examine the lymph system and other parts of the body are used to diagnose AIDS-related lymphoma.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Tests that examine the lymph system and other parts of the body are used to diagnose AIDS-related lymphoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "The following tests and procedures may be used:\n- Physical exam and health history : An exam of the body to check general signs of health, including checking for signs of disease, such as lumps or anything else that seems unusual. A history of the patient’s health, including fever , drenching night sweats, and weight loss, health habits, and past illnesses and treatments will also be taken.\n- Complete blood count (CBC) : A procedure in which a sample of blood is drawn and checked for the following: Enlarge Complete blood count (CBC). Blood is collected by inserting a needle into a vein and allowing the blood to flow into a tube. The blood sample is sent to the laboratory and the red blood cells, white blood cells, and platelets are counted. The CBC is used to test for, diagnose, and monitor many different conditions.\n- The number of red blood cells, white blood cells, and platelets.\n- The amount of hemoglobin (the protein that carries oxygen ) in the red blood cells.\n- The portion of the sample made up of red blood cells.\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease.\n- LDH test : A procedure in which a blood sample is checked to measure the amount of lactic dehydrogenase. An increased amount of LDH in the blood may be a sign of tissue damage, lymphoma, or other diseases.\n- Hepatitis B and hepatitis C test : A procedure in which a sample of blood is checked to measure the amounts of hepatitis B virus-specific antigens and/or antibodies and the amounts of hepatitis C virus-specific antibodies. These antigens or antibodies are called markers . Different markers or combinations of markers are used to determine whether a patient has a hepatitis B or C infection, has had a prior infection or vaccination , or is susceptible to infection.\n- HIV test : A test to measure the level of HIV antibodies in a sample of blood. Antibodies are made by the body when it is invaded by a foreign substance. A high level of HIV antibodies may mean the body has been infected with HIV.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, such as the neck, chest, abdomen, pelvis, and lymph nodes , taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- PET scan (positron emission tomography scan) : A procedure to find malignant tumor cells in the body. A small amount of radioactive glucose (sugar) is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do.\n- Bone marrow aspiration and biopsy : The removal of bone marrow and a small piece of bone by inserting a hollow needle into the hipbone or breastbone . A pathologist views the bone marrow and bone under a microscope to look for signs of cancer. Enlarge Bone marrow aspiration and biopsy. After a small area of skin is numbed, a long, hollow needle is inserted through the patient's skin and hip bone into the bone marrow. A sample of bone marrow and a small piece of bone are removed for examination under a microscope.\n- Lymph node biopsy : The removal of all or part of a lymph node. A pathologist views the tissue under a microscope to look for cancer cells. One of the following types of biopsies may be done: Other areas of the body, such as the liver, lung , bone, bone marrow, and brain, may also have a sample of tissue removed and checked by a pathologist for signs of cancer.\n- Excisional biopsy : The removal of an entire lymph node.\n- Incisional biopsy : The removal of part of a lymph node.\n- Core biopsy : The removal of tissue from a lymph node using a wide needle.\nIf cancer is found, the following tests may be done to study the cancer cells:\n- Immunohistochemistry : A laboratory test that uses antibodies to check for certain antigens (markers) in a sample of a patient’s tissue. The antibodies are usually linked to an enzyme or a fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and to help tell one type of cancer from another type of cancer.\n- Cytogenetic analysis : A laboratory test in which the chromosomes of cells in a sample of blood or bone marrow are counted and checked for any changes, such as broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes may be a sign of cancer. Cytogenetic analysis is used to help diagnose cancer, plan treatment, or find out how well treatment is working.\n- FISH (fluorescence in situ hybridization) : A laboratory test used to look at and count genes or chromosomes in cells and tissues. Pieces of DNA that contain fluorescent dyes are made in the laboratory and added to a sample of a patient’s cells or tissues. When these dyed pieces of DNA attach to certain genes or areas of chromosomes in the sample, they light up when viewed under a fluorescent microscope. The FISH test is used to help diagnose cancer and help plan treatment.\n- Immunophenotyping : A laboratory test that uses antibodies to identify cancer cells based on the types of antigens or markers on the surface of the cells. This test is used to help diagnose specific types of lymphoma."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "General Information About AIDS-Related Lymphoma",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The prognosis and treatment options depend on the following:\n- The stage of the cancer.\n- The age of the patient.\n- The number of CD4 lymphocytes (a type of white blood cell) in the blood.\n- The number of places in the body lymphoma is found outside the lymph system.\n- Whether the patient has a history of intravenous (IV) drug use .\n- The patient's ability to carry out regular daily activities ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Stages of AIDS-Related Lymphoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- After AIDS-related lymphoma has been diagnosed, tests are done to find out if cancer cells have spread within the lymph system or to other parts of the body.\n- There are three ways that cancer spreads in the body.\n- The following stages are used for AIDS-related lymphoma:\n- Stage I\n- Stage II\n- Stage III\n- Stage IV\n- For treatment, AIDS-related lymphomas are grouped based on where they started in the body, as follows:\n- Peripheral/systemic lymphoma\n- Primary CNS lymphoma"
+        },
+        {
+          "section": "After AIDS-related lymphoma has been diagnosed, tests are done to find out if cancer cells have spread within the lymph system or to other parts of the body.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Stages of AIDS-Related Lymphoma",
+            "After AIDS-related lymphoma has been diagnosed, tests are done to find out if cancer cells have spread within the lymph system or to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The process used to find out if cancer cells have spread within the lymph system or to other parts of the body is called staging . The information gathered from the staging process determines the stage of the disease. It is important to know the stage in order to plan treatment, but AIDS-related lymphoma is usually advanced when it is diagnosed .\nThe following tests and procedures may be used to find out if the cancer has spread:\n- MRI (magnetic resonance imaging) with gadolinium : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body, such as the brain and spinal cord . A substance called gadolinium is injected into the patient through a vein . The gadolinium collects around the cancer cells so they show up brighter in the picture. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- Lumbar puncture : A procedure used to collect cerebrospinal fluid (CSF) from the spinal column . This is done by placing a needle between two bones in the spine and into the CSF around the spinal cord and removing a sample of the fluid. The sample of CSF is checked under a microscope for signs that the cancer has spread to the brain and spinal cord. The sample may also be checked for Epstein-Barr virus . This procedure is also called an LP or spinal tap. Enlarge Lumbar puncture. A patient lies in a curled position on a table. After a small area on the lower back is numbed, a spinal needle (a long, thin needle) is inserted into the lower part of the spinal column to remove cerebrospinal fluid (CSF, shown in blue). The fluid may be sent to a laboratory for testing."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Stages of AIDS-Related Lymphoma",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Stage I",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Stages of AIDS-Related Lymphoma",
+            "The following stages are used for AIDS-related lymphoma:",
+            "Stage I"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Stage I AIDS-related lymphoma is divided into stages I and IE.\n- In stage I, cancer is found in one of the following places in the lymph system :\n- One or more lymph nodes in a group of lymph nodes.\n- Waldeyer's ring .\n- Thymus .\n- Spleen .\n- In stage IE, cancer is found in one area outside the lymph system."
+        },
+        {
+          "section": "Stage II",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Stages of AIDS-Related Lymphoma",
+            "The following stages are used for AIDS-related lymphoma:",
+            "Stage II"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Stage II AIDS-related lymphoma is divided into stages II and IIE.\n- In stage II, cancer is found in two or more groups of lymph nodes that are either above the diaphragm or below the diaphragm. Enlarge Stage II adult lymphoma. Cancer is found in two or more groups of lymph nodes that are either above the diaphragm or below the diaphragm.\n- In stage IIE, cancer has spread from a group of lymph nodes to a nearby area that is outside the lymph system . Cancer may have spread to other lymph node groups on the same side of the diaphragm. Enlarge Stage IIE adult lymphoma. Cancer has spread from a group of lymph nodes to a nearby area that is outside the lymph system. Cancer may have spread to other lymph node groups on the same side of the diaphragm.\nIn stage II, the term bulky disease refers to a larger tumor mass. The size of the tumor mass that is referred to as bulky disease varies based on the type of lymphoma."
+        },
+        {
+          "section": "Stage III",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Stages of AIDS-Related Lymphoma",
+            "The following stages are used for AIDS-related lymphoma:",
+            "Stage III"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In stage III AIDS-related lymphoma , cancer is found:\n- in groups of lymph nodes both above and below the diaphragm ; or\n- in lymph nodes above the diaphragm and in the spleen ."
+        },
+        {
+          "section": "Stage IV",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Stages of AIDS-Related Lymphoma",
+            "The following stages are used for AIDS-related lymphoma:",
+            "Stage IV"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "In stage IV AIDS-related lymphoma , cancer :\n- has spread throughout one or more organs outside the lymph system ; or\n- is found in two or more groups of lymph nodes that are either above the diaphragm or below the diaphragm and in one organ that is outside the lymph system and not near the affected lymph nodes; or\n- is found in groups of lymph nodes both above and below the diaphragm and in any organ that is outside the lymph system; or\n- is found in the liver , bone marrow , more than one place in the lung , or cerebrospinal fluid (CSF). The cancer has not spread directly into the liver, bone marrow, lung, or CSF from nearby lymph nodes.\nPatients who are infected with the Epstein-Barr virus or whose AIDS-related lymphoma affects the bone marrow have an increased risk of the cancer spreading to the central nervous system (CNS)."
+        },
+        {
+          "section": "Peripheral/systemic lymphoma",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Stages of AIDS-Related Lymphoma",
+            "For treatment, AIDS-related lymphomas are grouped based on where they started in the body, as follows:",
+            "Peripheral/systemic lymphoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Lymphoma that starts in the lymph system or elsewhere in the body, other than the brain, is called peripheral/systemic lymphoma. It may spread throughout the body, including to the brain or bone marrow . It is often diagnosed in an advanced stage."
+        },
+        {
+          "section": "Primary CNS lymphoma",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Stages of AIDS-Related Lymphoma",
+            "For treatment, AIDS-related lymphomas are grouped based on where they started in the body, as follows:",
+            "Primary CNS lymphoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Primary CNS lymphoma starts in the central nervous system (brain and spinal cord). It is linked to the Epstein-Barr virus. Lymphoma that starts somewhere else in the body and spreads to the central nervous system is not primary CNS lymphoma."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- There are different types of treatment for patients with AIDS-related lymphoma.\n- Treatment of AIDS-related lymphoma combines treatment of the lymphoma with treatment for AIDS.\n- The following types of treatment are used:\n- Chemotherapy\n- Radiation therapy\n- High-dose chemotherapy with stem cell transplant\n- Targeted therapy\n- New types of treatment are being tested in clinical trials.\n- Treatment for AIDS-related lymphoma may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with AIDS-related lymphoma.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with AIDS-related lymphoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatment are available for patients with AIDS-related lymphoma . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Treatment of AIDS-related lymphoma combines treatment of the lymphoma with treatment for AIDS.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment of AIDS-related lymphoma combines treatment of the lymphoma with treatment for AIDS."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Patients with AIDS have weakened immune systems and treatment can cause the immune system to become even weaker. For this reason, treating patients who have AIDS-related lymphoma is difficult and some patients may be treated with lower doses of drugs than lymphoma patients who do not have AIDS.\nHighly active antiretroviral therapy (HAART) is used to lessen the damage to the immune system caused by HIV . Treatment with HAART may allow some patients with AIDS-related lymphoma to safely receive anticancer drugs in standard or higher doses. In these patients, treatment may work as well as it does in lymphoma patients who do not have AIDS. Medicine to prevent and treat infections , which can be serious, is also used.\nFor more information about AIDS and its treatment, see the AIDSinfo website ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells , either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). When chemotherapy is placed directly into the cerebrospinal fluid ( intrathecal chemotherapy ), an organ , or a body cavity such as the abdomen , the drugs mainly affect cancer cells in those areas ( regional chemotherapy ). Combination chemotherapy is treatment using more than one anticancer drug.\nIntrathecal chemotherapy may be used in patients who are more likely to have lymphoma in the central nervous system (CNS). Enlarge Intrathecal chemotherapy. Anticancer drugs are injected into the intrathecal space, which is the space that holds the cerebrospinal fluid (CSF, shown in blue). There are two different ways to do this. One way, shown in the top part of the figure, is to inject the drugs into an Ommaya reservoir (a dome-shaped container that is placed under the scalp during surgery; it holds the drugs as they flow through a small tube into the brain). The other way, shown in the bottom part of the figure, is to inject the drugs directly into the CSF in the lower part of the spinal column, after a small area on the lower back is numbed.\nChemotherapy is used in the treatment of AIDS-related peripheral/ systemic lymphoma. It is not yet known whether it is best to give HAART at the same time as chemotherapy or after chemotherapy ends.\nColony-stimulating factors are sometimes given together with chemotherapy. This helps lessen the side effects chemotherapy may have on the bone marrow ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer."
+        },
+        {
+          "section": "High-dose chemotherapy with stem cell transplant",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "High-dose chemotherapy with stem cell transplant"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "High doses of chemotherapy are given to kill cancer cells. Healthy cells, including blood -forming cells, are also destroyed by the cancer treatment. Stem cell transplant is a treatment to replace the blood-forming cells. Stem cells (immature blood cells) are removed from the blood or bone marrow of the patient and are frozen and stored. After the patient completes chemotherapy, the stored stem cells are thawed and given back to the patient through an infusion . These reinfused stem cells grow into (and restore) the body's blood cells."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells. Targeted therapies usually cause less harm to normal cells than chemotherapy or radiation therapy do.\n- Monoclonal antibodies : Monoclonal antibodies are immune system proteins made in the laboratory to treat many diseases, including cancer. As a cancer treatment, these antibodies can attach to a specific target on cancer cells or other cells that may help cancer cells grow. The antibodies are able to then kill the cancer cells, block their growth, or keep them from spreading. Monoclonal antibodies are given by infusion. These may be used alone or to carry drugs, toxins , or radioactive material directly to cancer cells. Rituximab is used in the treatment of AIDS-related peripheral/systemic lymphoma. How do monoclonal antibodies work to treat cancer? This video shows how monoclonal antibodies, such as trastuzumab, pembrolizumab, and rituximab, block molecules cancer cells need to grow, flag cancer cells for destruction by the body’s immune system, or deliver harmful substances to cancer cells."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Treatment for AIDS-related lymphoma may cause side effects.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for AIDS-related lymphoma may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of AIDS-Related Peripheral/Systemic Lymphoma",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment of AIDS-Related Peripheral/Systemic Lymphoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of AIDS-related peripheral/ systemic lymphoma may include the following:\n- Combination chemotherapy with or without targeted therapy .\n- High-dose chemotherapy and stem cell transplant , for lymphoma that has not responded to treatment or has come back.\n- Intrathecal chemotherapy for lymphoma that is likely to spread to the central nervous system (CNS).\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of AIDS-Related Primary Central Nervous System Lymphoma",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "Treatment of AIDS-Related Primary Central Nervous System Lymphoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of AIDS-related primary central nervous system lymphoma may include the following:\n- External radiation therapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About AIDS-Related Lymphoma",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "To Learn More About AIDS-Related Lymphoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "For more information from the National Cancer Institute about AIDS-related lymphoma, see the following:\n- Stem Cell Transplants in Cancer Treatment\n- Targeted Therapy to Treat Cancer\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of AIDS-related lymphoma. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ AIDS-Related Lymphoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/lymphoma/patient/aids-related-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389358]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "AIDS-Related Lymphoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\1021b905fb390cfb99a6.html"
+    }
+  ]
+}

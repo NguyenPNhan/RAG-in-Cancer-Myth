@@ -1,0 +1,653 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+  "generated_at": "2026-08-31T07:15:23.418344+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "prevention"
+      ],
+      "topic": "prevention",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+      "title": "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+      "summary_name": "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+      "url": "https://www.cancer.gov/types/head-and-neck/hp/oral-prevention-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "April 14, 2025",
+      "retrieved_at": "2026-08-31T07:10:42.604650+00:00",
+      "content_sha256": "4feab6b9bda5044d27739a3868c54d98a9780c9e5fd7e8ebac3a868d0a9f883a",
+      "section_count": 31,
+      "sections": [
+        {
+          "section": "Overview",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Note: The Overview section summarizes the published evidence on this topic. The rest of the summary describes the evidence in more detail.\nOral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers may be referred to as head and neck squamous cell cancers. Head and neck squamous cell cancers most commonly arise from the mucosal surfaces lining the oral cavity, oropharynx, hypopharynx, and larynx. Anatomically, the pharynx includes the nasopharynx, oropharynx, and hypopharynx, but cancers in these sites have distinct clinical and epidemiologic characteristics. Thus, it is inappropriate to group them together.[ 1 ] For more information, see the following PDQ summaries:\n- Laryngeal Cancer Treatment\n- Lip and Oral Cavity Cancer Treatment\n- Nasopharyngeal Carcinoma Treatment\n- Oropharyngeal Cancer Treatment\nFigure 1 shows the anatomy of the pharynx."
+        },
+        {
+          "section": "Who Is at Risk?",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Overview",
+            "Who Is at Risk?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Head and neck squamous cell cancers have common risk factors. People who use tobacco in any of the commonly available forms (cigarettes, cigars, pipes, and smokeless tobacco) or have a high alcohol intake are at elevated risk of oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers; they are at particularly high risk if they use both tobacco and alcohol.[ 2 ] Individuals who chew betel quid (whether mixed with tobacco or not) are also at high risk of cancer of the oral cavity and oropharynx.[ 3 , 4 ] Individuals who have a personal history of cancer of the head and neck region also are at elevated risk of a future primary cancer of the head and neck.[ 5 ] Human papillomavirus type 16 (HPV-16) is a sufficient, but not necessary, cause of oral, tongue, and oropharyngeal cancers.[ 2 , 6 ]\nNote: Separate PDQ summaries on Oral Cavity and Nasopharyngeal Cancers Screening and Cigarette Smoking: Health Risks and How to Quit are also available."
+        },
+        {
+          "section": "Tobacco use",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Overview",
+            "Factors With Adequate Evidence of an Increased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Tobacco use"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Based on solid evidence from numerous observational studies, tobacco use increases the risk of cancers of the oral cavity, oropharynx, hypopharynx, and larynx.[ 7 - 9 ]\nMagnitude of Effect : Large. Risk for current smokers ranges from fourfold to fivefold for oral cavity, oropharyngeal, and hypopharyngeal cancers to tenfold for laryngeal cancer compared with never-smokers, and is dose related. Most cancers of the oral cavity, oropharynx, hypopharynx, and larynx are attributable to the use of tobacco products.\n- Study Design : Case-control and cohort studies.\n- Internal Validity : Good.\n- Consistency : Good.\n- External Validity : Good."
+        },
+        {
+          "section": "Alcohol use",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Overview",
+            "Factors With Adequate Evidence of an Increased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Alcohol use"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Based on solid evidence, alcohol use is a risk factor for the development of head and neck cancers. Its effects are independent of those of tobacco use.[ 9 - 12 ]\nMagnitude of Effect : Lower than the risk associated with tobacco use, but the risk is approximately twofold to sixfold for people who drink two or more alcoholic beverages per day compared with nondrinkers, and is dose related.\n- Study Design : Case-control and cohort studies.\n- Internal Validity : Good.\n- Consistency : Good.\n- External Validity : Good."
+        },
+        {
+          "section": "Tobacco and alcohol use",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Overview",
+            "Factors With Adequate Evidence of an Increased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Tobacco and alcohol use"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The risk of oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers is highest in people who consume large amounts of both alcohol and tobacco. When both risk factors are present, the risk of cancer is greater than a simple multiplicative effect of the two individual risks.[ 13 - 15 ]\nMagnitude of Effect : About two to three times greater for oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers than the simple multiplicative effect, with risks for persons who both smoke and drink heavily approximately 5- to 14-fold that of persons who both never smoke and never drink.\n- Study Design : Case-control and cohort studies.\n- Internal Validity : Good.\n- Consistency : Good.\n- External Validity : Good."
+        },
+        {
+          "section": "Betel-quid chewing",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Overview",
+            "Factors With Adequate Evidence of an Increased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Betel-quid chewing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Based on solid evidence, chewing betel quid alone or with added tobacco increases the risk of both oral cavity and oropharyngeal cancers.[ 3 , 4 ] Of the three primary components of betel quid (betel leaf, areca nut, and lime), the areca nut is the only one considered to be carcinogenic when chewed.\nMagnitude of Effect : Relative risks for oral cavity cancer are high and typically stronger for betel quid with tobacco than for betel quid alone. Both products appear to confer a statistically significant increase in risk of oropharyngeal cancer.[ 4 ]\n- Study Design : Case-control, and cohort studies.\n- Internal Validity : Good.\n- Consistency : Good.\n- External Validity : Good."
+        },
+        {
+          "section": "Human papillomavirus (HPV) infection",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Overview",
+            "Factors With Adequate Evidence of an Increased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Human papillomavirus (HPV) infection"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Based on solid evidence, HPV type 16 (HPV-16) infection causes oropharyngeal cancer.[ 6 , 16 ] Other high-risk HPV subtypes, including HPV type 18 (HPV-18), have been found in a small percentage of oropharyngeal cancers.[ 17 , 18 ]\nMagnitude of Effect : Large. Oral infection with HPV-16 confers about a 15-fold increase in risk of oropharyngeal cancer relative to individuals without oral HPV-16 infection.\n- Study Design : Case-control and cohort studies.\n- Internal Validity : Good.\n- Consistency : Good.\n- External Validity : Good."
+        },
+        {
+          "section": "Tobacco cessation",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Overview",
+            "Interventions With Adequate Evidence of a Decreased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Tobacco cessation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Based on solid evidence, cessation of exposure to tobacco (e.g., cigarettes, pipes, cigars, and smokeless tobacco) leads to a decrease in the risk of oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers.[ 19 ]\nMagnitude of Effect : Decreased risk, moderate to large magnitude.\n- Study Design : Case-control and cohort studies.\n- Internal Validity : Good.\n- Consistency : Good.\n- External Validity : Good."
+        },
+        {
+          "section": "Cessation of alcohol consumption",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Overview",
+            "Interventions With Inadequate Evidence of a Reduced Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Cessation of alcohol consumption"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Based on fair evidence, cessation of alcohol consumption leads to a decrease in oral cavity and laryngeal cancer risk 20 years or more after cessation.[ 19 ]\nMagnitude of Effect : Decreased risk, small to moderate magnitude.\n- Study Design : Case-control studies.\n- Internal Validity : Fair.\n- Consistency : Fair.\n- External Validity : Fair."
+        },
+        {
+          "section": "Vaccination against HPV-16 and the other high-risk subtypes",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Overview",
+            "Interventions With Inadequate Evidence of a Reduced Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Vaccination against HPV-16 and the other high-risk subtypes"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Vaccination against HPV-16 and HPV-18 has been shown to prevent approximately 90% of oral HPV-16/HPV-18 infections within 4 years of vaccination.[ 20 ] However, no data are available to assess whether vaccination at any age will lead to reduced risk of oropharyngeal cancer at current typical ages of diagnosis.[ 21 ]\n- Study Design : No studies available.\n- Internal Validity : Not applicable (N/A).\n- Consistency : N/A.\n- External Validity : N/A."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Overview",
+            "Interventions With Inadequate Evidence of a Reduced Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Vaccination against HPV-16 and the other high-risk subtypes",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "- IARC Working Group on the Evaluation of Carcinogenic Risks to Humans: Personal habits and indoor combustions. Volume 100 E. A review of human carcinogens. IARC Monogr Eval Carcinog Risks Hum 100 (Pt E): 1-538, 2012. [PUBMED Abstract]\n- Castellsagué X, Alemany L, Quer M, et al.: HPV Involvement in Head and Neck Cancers: Comprehensive Assessment of Biomarkers in 3680 Patients. J Natl Cancer Inst 108 (6): djv403, 2016. [PUBMED Abstract]\n- Song H, Wan Y, Xu YY: Betel quid chewing without tobacco: a meta-analysis of carcinogenic and precarcinogenic effects. Asia Pac J Public Health 27 (2): NP47-57, 2015. [PUBMED Abstract]\n- Guha N, Warnakulasuriya S, Vlaanderen J, et al.: Betel quid chewing and the risk of oral and oropharyngeal cancers: a meta-analysis with implications for cancer control. Int J Cancer 135 (6): 1433-43, 2014. [PUBMED Abstract]\n- Atienza JA, Dasanu CA: Incidence of second primary malignancies in patients with treated head and neck cancer: a comprehensive review of literature. Curr Med Res Opin 28 (12): 1899-909, 2012. [PUBMED Abstract]\n- Kreimer AR, Johansson M, Waterboer T, et al.: Evaluation of human papillomavirus antibodies and risk of subsequent head and neck cancer. J Clin Oncol 31 (21): 2708-15, 2013. [PUBMED Abstract]\n- U.S. Department of Health and Human Services: The Health Consequences of Smoking—50 Years of Progress: A Report of the Surgeon General. U.S. Department of Health and Human Services, CDC, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 2014. Also available online . Last accessed December 30, 2024.\n- Vineis P, Alavanja M, Buffler P, et al.: Tobacco and cancer: recent epidemiological evidence. J Natl Cancer Inst 96 (2): 99-106, 2004. [PUBMED Abstract]\n- Hashibe M, Brennan P, Benhamou S, et al.: Alcohol drinking in never users of tobacco, cigarette smoking in never drinkers, and the risk of head and neck cancer: pooled analysis in the International Head and Neck Cancer Epidemiology Consortium. J Natl Cancer Inst 99 (10): 777-89, 2007. [PUBMED Abstract]\n- IARC Working Group on the Evaluation of Carcinogenic Risks to Humans: Smokeless tobacco and some tobacco-specific N-nitrosamines. IARC Monogr Eval Carcinog Risks Hum 89: 1-592, 2007. [PUBMED Abstract]\n- Purdue MP, Hashibe M, Berthiller J, et al.: Type of alcoholic beverage and risk of head and neck cancer--a pooled analysis within the INHANCE Consortium. Am J Epidemiol 169 (2): 132-42, 2009. [PUBMED Abstract]\n- Islami F, Tramacere I, Rota M, et al.: Alcohol drinking and laryngeal cancer: overall and dose-risk relation--a systematic review and meta-analysis. Oral Oncol 46 (11): 802-10, 2010. [PUBMED Abstract]\n- Hashibe M, Brennan P, Chuang SC, et al.: Interaction between tobacco and alcohol use and the risk of head and neck cancer: pooled analysis in the International Head and Neck Cancer Epidemiology Consortium. Cancer Epidemiol Biomarkers Prev 18 (2): 541-50, 2009. [PUBMED Abstract]\n- Lubin JH, Purdue M, Kelsey K, et al.: Total exposure and exposure rate effects for alcohol and smoking and risk of head and neck cancer: a pooled analysis of case-control studies. Am J Epidemiol 170 (8): 937-47, 2009. [PUBMED Abstract]\n- Mello FW, Melo G, Pasetto JJ, et al.: The synergistic effect of tobacco and alcohol consumption on oral squamous cell carcinoma: a systematic review and meta-analysis. Clin Oral Investig 23 (7): 2849-2859, 2019. [PUBMED Abstract]\n- Hobbs CG, Sterne JA, Bailey M, et al.: Human papillomavirus and head and neck cancer: a systematic review and meta-analysis. Clin Otolaryngol 31 (4): 259-66, 2006. [PUBMED Abstract]\n- D'Souza G, Kreimer AR, Viscidi R, et al.: Case-control study of human papillomavirus and oropharyngeal cancer. N Engl J Med 356 (19): 1944-56, 2007. [PUBMED Abstract]\n- Steinau M, Saraiya M, Goodman MT, et al.: Human papillomavirus prevalence in oropharyngeal cancer before vaccine introduction, United States. Emerg Infect Dis 20 (5): 822-8, 2014. [PUBMED Abstract]\n- Marron M, Boffetta P, Zhang ZF, et al.: Cessation of alcohol drinking, tobacco smoking and the reversal of head and neck cancer risk. Int J Epidemiol 39 (1): 182-96, 2010. [PUBMED Abstract]\n- Herrero R, Quint W, Hildesheim A, et al.: Reduced prevalence of oral human papillomavirus (HPV) 4 years after bivalent HPV vaccination in a randomized clinical trial in Costa Rica. PLoS One 8 (7): e68329, 2013. [PUBMED Abstract]\n- Chaturvedi AK, Graubard BI, Broutian T, et al.: Effect of Prophylactic Human Papillomavirus (HPV) Vaccination on Oral HPV Infections Among Young Adults in the United States. J Clin Oncol 36 (3): 262-267, 2018. [PUBMED Abstract]"
+        },
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Oral cavity and oropharynx cancers\nFrom 2017 to 2021, the estimated age-adjusted incidence rate for cancers of the oral cavity and oropharynx in the United States was 11.5 cases per 100,000 persons per year.[ 1 ] Cancers of the tongue, oropharynx, and tonsil comprise the majority of cases (30% tongue and 24% oropharynx and tonsil). The estimated age-adjusted mortality rate for cancers of the oral cavity and oropharynx from 2018 to 2022 was 2.6 per 100,000 persons per year. U.S. incidence rates are about 1.7 times higher in men than in women. However, mortality rates are about 1.9 times higher in men than in women.[ 1 ] It is estimated that there will be 59,660 new cases of oral cavity and oropharynx cancer diagnosed in the United States in 2025 and 12,770 deaths due to these diseases.[ 2 ] Rates of oral cavity cancer vary greatly across the world, primarily because of differences in alcohol use, tobacco use, and betel-quid chewing and the products chewed.[ 3 ]\nAlthough localized cancers of the oral cavity and oropharynx have an excellent anticipated 5-year survival rate of about 87.5%, only 26.4% of these cancer cases are diagnosed at this stage.[ 1 ] The overall 5-year relative survival rate for patients with cancers of the oral cavity and oropharynx combined is only 69%.[ 2 ] However, the 5-year relative survival rate is much lower in Black patients (57%) than in White patients (71%).[ 2 ] Additionally, the 5-year survival rate varies greatly by cancer site, with 52.1% survival among patients with cancer on the floor of the mouth and 73.8% survival among patients with cancer in the oropharynx and tonsil.[ 4 ]\nHypopharyngeal cancer\nHypopharyngeal cancers are rare, with approximately 2,500 new cases diagnosed in the United States each year and an annual incidence of 0.6 cases per 100,000 persons.[ 5 ] The 5-year survival rate for hypopharyngeal cancer is 35%.[ 5 ] New cases have been falling an average of 2% per year over the last 20 years.[ 5 ] This has been attributed to a reduction in cigarette smoking.\nLaryngeal cancer\nLaryngeal cancers are less common, with an annual incidence of 2.6 cases per 100,000 persons.[ 6 ] It is estimated that 13,020 new cases of laryngeal cancer will be diagnosed in the United States in 2025, and an estimated 3,910 individuals will die of this disease.[ 2 ] The 5-year relative survival rate for laryngeal cancer is 62%.[ 2 ] Age-adjusted death rates have been falling on average 1.6% each year from 2013 to 2022.[ 6 ] This has been attributed to a reduction in cigarette smoking."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Incidence and Mortality",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- National Cancer Institute: SEER Cancer Stat Facts: Oral Cavity and Pharynx Cancer. National Cancer Institute. Available online . Last accessed December 30, 2024.\n- American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. Available online . Last accessed January 16, 2025.\n- Shield KD, Ferlay J, Jemal A, et al.: The global incidence of lip, oral cavity, and pharyngeal cancers by subsite in 2012. CA Cancer J Clin 67 (1): 51-64, 2017. [PUBMED Abstract]\n- Surveillance Research Program, National Cancer Institute: SEER*Explorer: An interactive website for SEER cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed December 30, 2024.\n- Kuo P, Chen MM, Decker RH, et al.: Hypopharyngeal cancer incidence, treatment, and survival: temporal trends in the United States. Laryngoscope 124 (9): 2064-9, 2014. [PUBMED Abstract]\n- National Cancer Institute: SEER Cancer Stat Facts: Laryngeal Cancer. National Cancer Institute. Available online . Last accessed April 14, 2025."
+        },
+        {
+          "section": "Tobacco Use",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Factors With Adequate Evidence of an Increased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Tobacco Use"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Tobacco use is implicated in most cases of oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers.[ 1 ] All forms of tobacco use (cigarettes, pipes, cigars, snuff, chewing tobacco, gutka [betel quid with tobacco added], and other smoked and smokeless products) increase the risk of these cancers.[ 1 , 2 ] Epidemiological studies consistently demonstrate that cigarette smokers have a higher incidence of mortality from head and neck squamous cell cancers compared with lifetime nonsmokers, and there is general consensus that the relationship is causal. Risk for current smokers ranges from fourfold to fivefold for oral cavity, oropharyngeal, and hypopharyngeal cancers to tenfold for laryngeal cancer when compared with never-smokers.[ 3 ] However, other epidemiological studies have observed smaller and larger increases in risk, with some variation by anatomic location. Betel-quid chewing is prevalent in many countries in south and southeast Asia, including China and India, and is an important risk factor for both oral cavity and oropharyngeal cancers.[ 4 ]"
+        },
+        {
+          "section": "Alcohol Use",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Factors With Adequate Evidence of an Increased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Alcohol Use"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Alcohol use is a major independent risk factor for the development of head and neck squamous cell cancer.[ 5 ] Most epidemiological studies demonstrate an increase in risk with increasing drinks per day, with a more than twofold to sixfold increase in risk for individuals who consume two or more drinks a day relative to nonconsumers.[ 6 ] Associations are observed in studies that adjust for confounding by smoking, as well as in studies of nonsmokers.[ 7 ] There is a suggestion that consumption of beer and hard liquor confers a greater risk than does wine consumption.[ 6 ]"
+        },
+        {
+          "section": "Tobacco and Alcohol Use",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Factors With Adequate Evidence of an Increased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Tobacco and Alcohol Use"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Head and neck squamous cell cancer risk is highest in people who consume large amounts of both alcohol and tobacco.[ 8 - 10 ] When both risk factors are present, the risk of oral cavity and oropharyngeal cancer is typically about two to three times greater than a simple multiplicative or additive effect.[ 11 ] In a study that pooled data from 17 case-control studies, individuals who consumed more than a pack of cigarettes and three or more alcoholic drinks per day had a 15-fold increased risk of oral cavity cancer, 14-fold increased risk of oropharyngeal cancer, and 36-fold increased risk of laryngeal cancer relative to individuals who neither smoked nor drank.[ 8 , 11 ]"
+        },
+        {
+          "section": "Betel-Quid Chewing",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Factors With Adequate Evidence of an Increased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Betel-Quid Chewing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Betel quid is composed of betel leaf, areca nut, and lime; gutka is betel quid with added tobacco. Both betel-quid and gutka chewing increase the risk of cancer of the oral cavity and oropharynx.[ 4 , 12 ] The carcinogenic component of chewed betel quid arises from the areca nut.[ 4 ]\nRelative risks are typically stronger for betel quid with tobacco than for betel quid alone.[ 12 ] A meta-analysis of oral cavity cancer studies conducted on the Indian subcontinent calculated a statistically significant eightfold increase in risk for betel quid with tobacco and a statistically significant twofold increase in risk for betel quid alone.[ 12 ] A statistically significant tenfold increase in oral cavity cancer risk for betel-quid chewing was demonstrated by studies conducted in China or Taiwan. A meta-analysis of oropharyngeal cancer studies conducted on the Indian subcontinent calculated a statistically significant fourfold increase in risk for betel quid with tobacco and a statistically significant twofold increase in risk for betel quid alone.[ 12 ] Studies of head and neck cancer (without specification of subsite) suggest that increases in risk are positively correlated with chewing frequency and duration.[ 4 ]"
+        },
+        {
+          "section": "Human Papillomavirus (HPV) Infection",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Factors With Adequate Evidence of an Increased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Human Papillomavirus (HPV) Infection"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "HPV type 16 (HPV-16) infection is a sufficient, but not necessary, cause of head and neck cancers, with a greater causal relationship with oropharyngeal cancer.[ 13 , 14 ] A meta-analysis of five case-control studies of HPV-16 positivity in either serum or tissue calculated an odds ratio of 15.1 (95% confidence interval [CI], 6.8–33.7) for cancer of the tonsils, 4.3 (95% CI, 2.1–8.9) for other oropharyngeal sites, and 2.0 for both oral cavity (95% CI, 1.2–3.4) and larynx (95% CI, 1.0–4.2).[ 14 ] In a case-control study, the observed strong association of HPV-16 serologic status and oropharyngeal cancer did not vary at different levels of tobacco or alcohol use.[ 15 ] HPV-16 E6 seroconversion was shown to occur over a range of 6 to 28 years before oropharyngeal cancer diagnosis, at a median age of 52 years.[ 16 ] Thus, the HPV-16 infection that increases the risk of oropharyngeal cancer may occur in individuals aged 20 to 40 years. A recent national survey observed that men have a higher prevalence of oral HPV than women (11.5% vs. 3.2%), including high-risk HPV subtypes (7.3% of men; 1.4% of women).[ 17 ]\nOther high-risk HPV subtypes, including HPV type 18, have been found in a smaller proportion of oropharyngeal cancers.[ 15 , 18 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Factors With Adequate Evidence of an Increased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Human Papillomavirus (HPV) Infection",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "- IARC Working Group on the Evaluation of Carcinogenic Risks to Humans: Personal habits and indoor combustions. Volume 100 E. A review of human carcinogens. IARC Monogr Eval Carcinog Risks Hum 100 (Pt E): 1-538, 2012. [PUBMED Abstract]\n- U.S. Department of Health and Human Services: The Health Consequences of Smoking—50 Years of Progress: A Report of the Surgeon General. U.S. Department of Health and Human Services, CDC, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 2014. Also available online . Last accessed December 30, 2024.\n- Vineis P, Alavanja M, Buffler P, et al.: Tobacco and cancer: recent epidemiological evidence. J Natl Cancer Inst 96 (2): 99-106, 2004. [PUBMED Abstract]\n- IARC Working Group on the Evaluation of Carcinogenic Risks to Humans: Betel-quid and areca-nut chewing and some areca-nut derived nitrosamines. IARC Monogr Eval Carcinog Risks Hum 85: 1-334, 2004. [PUBMED Abstract]\n- Hashibe M, Brennan P, Benhamou S, et al.: Alcohol drinking in never users of tobacco, cigarette smoking in never drinkers, and the risk of head and neck cancer: pooled analysis in the International Head and Neck Cancer Epidemiology Consortium. J Natl Cancer Inst 99 (10): 777-89, 2007. [PUBMED Abstract]\n- Purdue MP, Hashibe M, Berthiller J, et al.: Type of alcoholic beverage and risk of head and neck cancer--a pooled analysis within the INHANCE Consortium. Am J Epidemiol 169 (2): 132-42, 2009. [PUBMED Abstract]\n- Goldstein BY, Chang SC, Hashibe M, et al.: Alcohol consumption and cancers of the oral cavity and pharynx from 1988 to 2009: an update. Eur J Cancer Prev 19 (6): 431-65, 2010. [PUBMED Abstract]\n- Hashibe M, Brennan P, Chuang SC, et al.: Interaction between tobacco and alcohol use and the risk of head and neck cancer: pooled analysis in the International Head and Neck Cancer Epidemiology Consortium. Cancer Epidemiol Biomarkers Prev 18 (2): 541-50, 2009. [PUBMED Abstract]\n- Lubin JH, Purdue M, Kelsey K, et al.: Total exposure and exposure rate effects for alcohol and smoking and risk of head and neck cancer: a pooled analysis of case-control studies. Am J Epidemiol 170 (8): 937-47, 2009. [PUBMED Abstract]\n- Mello FW, Melo G, Pasetto JJ, et al.: The synergistic effect of tobacco and alcohol consumption on oral squamous cell carcinoma: a systematic review and meta-analysis. Clin Oral Investig 23 (7): 2849-2859, 2019. [PUBMED Abstract]\n- Blot WJ, McLaughlin JK, Winn DM, et al.: Smoking and drinking in relation to oral and pharyngeal cancer. Cancer Res 48 (11): 3282-7, 1988. [PUBMED Abstract]\n- Guha N, Warnakulasuriya S, Vlaanderen J, et al.: Betel quid chewing and the risk of oral and oropharyngeal cancers: a meta-analysis with implications for cancer control. Int J Cancer 135 (6): 1433-43, 2014. [PUBMED Abstract]\n- Kreimer AR, Johansson M, Waterboer T, et al.: Evaluation of human papillomavirus antibodies and risk of subsequent head and neck cancer. J Clin Oncol 31 (21): 2708-15, 2013. [PUBMED Abstract]\n- Hobbs CG, Sterne JA, Bailey M, et al.: Human papillomavirus and head and neck cancer: a systematic review and meta-analysis. Clin Otolaryngol 31 (4): 259-66, 2006. [PUBMED Abstract]\n- D'Souza G, Kreimer AR, Viscidi R, et al.: Case-control study of human papillomavirus and oropharyngeal cancer. N Engl J Med 356 (19): 1944-56, 2007. [PUBMED Abstract]\n- Kreimer AR, Ferreiro-Iglesias A, Nygard M, et al.: Timing of HPV16-E6 antibody seroconversion before OPSCC: findings from the HPVC3 consortium. Ann Oncol 30 (8): 1335-1343, 2019. [PUBMED Abstract]\n- Sonawane K, Suk R, Chiao EY, et al.: Oral Human Papillomavirus Infection: Differences in Prevalence Between Sexes and Concordance With Genital Human Papillomavirus Infection, NHANES 2011 to 2014. Ann Intern Med 167 (10): 714-724, 2017. [PUBMED Abstract]\n- Steinau M, Saraiya M, Goodman MT, et al.: Human papillomavirus prevalence in oropharyngeal cancer before vaccine introduction, United States. Emerg Infect Dis 20 (5): 822-8, 2014. [PUBMED Abstract]"
+        },
+        {
+          "section": "Tobacco Cessation",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Interventions With Adequate Evidence of a Decreased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Tobacco Cessation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cessation of cigarette smoking is associated with an approximately 50% reduction in risk of developing oral cavity, oropharyngeal, and hypopharyngeal cancers within 5 to 9 years,[ 1 ] and a return to a cancer risk comparable to that of never-smokers within 20 years.[ 1 ] For laryngeal cancer, the risk reduction is approximately 40% within 5 to 9 years, and a similar return to cancer risk comparable to that of never-smokers within 20 years.[ 1 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Interventions With Adequate Evidence of a Decreased Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Tobacco Cessation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Marron M, Boffetta P, Zhang ZF, et al.: Cessation of alcohol drinking, tobacco smoking and the reversal of head and neck cancer risk. Int J Epidemiol 39 (1): 182-96, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cessation of Alcohol Consumption",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Interventions With Inadequate Evidence of a Reduced Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Cessation of Alcohol Consumption"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Because alcohol is associated with oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers in a dose-dependent fashion, it is believed that cessation or avoidance of alcohol use would result in reduced incidence. Most studies suggest that the risk of oral cavity and laryngeal cancer decreases as time from cessation increases; one pooled analysis of 13 studies observed a statistically significant reduction (odds ratio [OR], 0.45; 95% confidence interval [CI], 0.26–0.78) for oral cavity and laryngeal cancers (OR, 0.69; 95% CI, 0.52–0.91), relative to current drinkers, for those who ceased consumption 20 years or more ago. Among never-smokers, cessation of alcohol consumption leads to a decrease in oral cavity and laryngeal cancer risk more than 1 to 4 years after cessation. Data for oropharyngeal and hypopharyngeal cancers did not support risk reduction with alcohol cessation.[ 1 ]"
+        },
+        {
+          "section": "Vaccination Against Human Papillomavirus (HPV) Type 16 (HPV-16) and Other High-Risk Subtypes",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Interventions With Inadequate Evidence of a Reduced Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Vaccination Against Human Papillomavirus (HPV) Type 16 (HPV-16) and Other High-Risk Subtypes"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Vaccination against HPV-16 and type 18 (HPV-18) has been shown to prevent approximately 90% of oral HPV-16/HPV-18 infections within 4 years of vaccination.[ 2 , 3 ] Given the relatively recent adoption of vaccination and the age at which individuals are vaccinated, there is not yet evidence that vaccination at a young age will lead to a substantially reduced risk of HPV-associated oropharyngeal cancer later in life. In addition, no data are available to examine whether incidence or mortality would be reduced if vaccination occurred at an age closer to that at which oropharyngeal cancers tend to present."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Interventions With Inadequate Evidence of a Reduced Risk of Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+            "Vaccination Against Human Papillomavirus (HPV) Type 16 (HPV-16) and Other High-Risk Subtypes",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Marron M, Boffetta P, Zhang ZF, et al.: Cessation of alcohol drinking, tobacco smoking and the reversal of head and neck cancer risk. Int J Epidemiol 39 (1): 182-96, 2010. [PUBMED Abstract]\n- Herrero R, Quint W, Hildesheim A, et al.: Reduced prevalence of oral human papillomavirus (HPV) 4 years after bivalent HPV vaccination in a randomized clinical trial in Costa Rica. PLoS One 8 (7): e68329, 2013. [PUBMED Abstract]\n- Chaturvedi AK, Graubard BI, Broutian T, et al.: Effect of Prophylactic Human Papillomavirus (HPV) Vaccination on Oral HPV Infections Among Young Adults in the United States. J Clin Oncol 36 (3): 262-267, 2018. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (04/14/2025)",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (04/14/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nIncidence and Mortality\nUpdated statistics with estimated new cases and deaths for oral cavity and pharynx cancer for 2025 (cited American Cancer Society as reference 2).\nUpdated statistics with estimated new cases and deaths for laryngeal cancer for 2025.\nThis summary is written and maintained by the PDQ Screening and Prevention Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers prevention. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 7,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Screening and Prevention Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Screening and Prevention Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Screening and Prevention Editorial Board. PDQ Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/hp/oral-prevention-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389416]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\99eaac4732380beeb073.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "prevention"
+      ],
+      "topic": "prevention",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+      "title": "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+      "summary_name": "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+      "url": "https://www.cancer.gov/types/head-and-neck/patient/oral-prevention-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "November 8, 2024",
+      "retrieved_at": "2026-08-31T07:11:02.464627+00:00",
+      "content_sha256": "c86ba2a471877ceccc65ef8abc8f85ee1cdb0b52b9b1d4deb24e7ed56b6d1f8c",
+      "section_count": 21,
+      "sections": [
+        {
+          "section": "What is prevention?",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "What is prevention?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Cancer prevention is action taken to lower the chance of getting cancer. By preventing cancer, the number of new cases of cancer in a group or population is lowered. Hopefully, this will lower the number of deaths caused by cancer.\nTo prevent new cancers from starting, scientists look at risk factors and protective factors . Anything that increases your chance of developing cancer is called a cancer risk factor; anything that decreases your chance of developing cancer is called a cancer protective factor.\nSome risk factors for cancer can be avoided, but many cannot. For example, both smoking and inheriting certain genes are risk factors for some types of cancer, but only smoking can be avoided. Regular exercise and a healthy diet may be protective factors for some types of cancer. Avoiding risk factors and increasing protective factors may lower your risk but it does not mean that you will not get cancer.\nDifferent ways to prevent cancer are being studied, including:\n- Changing lifestyle or eating habits.\n- Avoiding things known to cause cancer.\n- Taking medicines to treat a precancerous condition or to keep cancer from starting.\nFor information about screening , diagnosis , and treatment of oral cavity , oropharyngeal , hypopharyngeal , and laryngeal cancer , see the following:\n- Oral Cavity and Nasopharyngeal Cancers Screening\n- Lip and Oral Cavity Cancer Treatment\n- Oropharyngeal Cancer Treatment\n- Cigarette Smoking: Health Risks and How to Quit\n- Laryngeal Cancer Treatment\n- Hypopharyngeal Cancer Treatment"
+        },
+        {
+          "section": "General Information About Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "General Information About Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 28,
+          "text": "Oral cavity , pharyngeal , and laryngeal cancers usually form in the squamous cells (thin, flat cells lining the inside of the oral cavity , pharynx , and larynx ).\nOral cavity cancer forms in any of these tissues of the oral cavity:\n- The lips.\n- The front two thirds of the tongue.\n- The gingiva (gums).\n- The buccal mucosa (the lining of the inside of the cheeks).\n- The floor (bottom) of the mouth under the tongue.\n- The hard palate (the front, bony part of the roof of the mouth).\n- The retromolar trigone (the small area behind the wisdom teeth ).\nPharyngeal cancer forms in any of these tissues of the pharynx (throat):\n- The nasopharynx (the upper part of the throat behind the nose).\n- The oropharynx , which includes the following tissues:\n- The middle part of the throat behind the mouth.\n- The back one third of the tongue.\n- The soft palate (the back of the roof of the mouth), including the uvula .\n- The side and back walls of the throat.\n- The tonsils .\n- The hypopharynx (the bottom part of the throat).\nCancers of the nasopharynx have causes, screening , risk factors , and treatment approaches which are distinct from other cancers of the pharynx. For more information, see Nasopharyngeal Cancer Treatment and Oral Cavity and Nasopharyngeal Cancers Screening .\nLaryngeal cancer forms in any of these tissues of the larynx (voice box):\n- The supraglottis (the area above the vocal cords, including the epiglottis).\n- The vocal cords (two small bands of muscle within the larynx that vibrate to produce the voice).\n- The glottis (the middle part of the larynx, including the vocal cords).\n- The subglottis (the lowest part of the larynx, from just below the vocal cords to the top of the trachea).\nOral cavity cancer and oropharyngeal cancer : Men are more than twice as likely as women to have oral cavity cancer or oropharyngeal cancer and die from it.\nHypopharyngeal cancer : Hypopharyngeal cancer is rare. The number of new cases of hypopharyngeal cancer has slightly decreased over the past twenty years. The decrease in new cases is likely because of a decrease in cigarette smoking.\nNasopharyngeal cancer : Nasopharyngeal cancer is rare in the United States. It is more common in parts of Asia, the Arctic region, North Africa, and the Middle East.\nLaryngeal cancer: Laryngeal cancer is less common than oral cavity and oropharyngeal cancers. The number of new cases of laryngeal cancer has slightly decreased over the past ten years. The decrease in new cases is likely because of a decrease in cigarette smoking."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "- Avoiding risk factors and increasing protective factors may help prevent cancer.\n- The following are risk factors for oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers:\n- Tobacco use\n- Alcohol use\n- Tobacco and alcohol use\n- Betel quid chewing\n- Personal history of head and neck cancer\n- The following is a risk factor for oral cavity cancer and oropharyngeal cancer:\n- Human papillomavirus (HPV) infection\n- The following is a protective factor for oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers:\n- Quitting smoking\n- It is not clear whether avoiding certain risk factors will decrease the risk of oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers.\n- Cancer prevention clinical trials are used to study ways to prevent cancer.\n- New ways to prevent oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers are being studied in clinical trials."
+        },
+        {
+          "section": "Avoiding risk factors and increasing protective factors may help prevent cancer.",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+            "Avoiding risk factors and increasing protective factors may help prevent cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Avoiding cancer risk factors may help prevent certain cancers. Risk factors include smoking, having overweight , and not getting enough exercise. Increasing protective factors such as quitting smoking and exercising may also help prevent some cancers. Talk to your doctor or other health care professional about how you might lower your risk of cancer.\nOral cavity , oropharyngeal , hypopharyngeal , and laryngeal cancers have common risk factors ."
+        },
+        {
+          "section": "Tobacco use",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+            "The following are risk factors for oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers:",
+            "Tobacco use"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Using tobacco is the most common cause of oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers. The risk of these cancers is about 5 to 10 times higher for current smokers than for people who have never smoked, and is linked to how much and how long the person has smoked.\nThe use of all types of tobacco, including cigarettes , pipes , cigars , and smokeless tobacco ( snuff and chewing tobacco ) can cause cancers of the oral cavity , oropharynx , hypopharynx , and larynx ."
+        },
+        {
+          "section": "Alcohol use",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+            "The following are risk factors for oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers:",
+            "Alcohol use"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Using alcohol is also an important risk factor for oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers.\nThe risk of oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers increases with the number of alcoholic drinks consumed per day. The risk of these cancers is 2 to 6 times higher in people who have 2 or more alcoholic drinks per day compared with those who don't drink alcohol."
+        },
+        {
+          "section": "Tobacco and alcohol use",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+            "The following are risk factors for oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers:",
+            "Tobacco and alcohol use"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The risk of oral cavity, oropharyngeal , hypopharyngeal , and laryngeal cancers is higher in people who use both tobacco and alcohol than it is in people who use only tobacco or only alcohol. The risk of oral cavity cancer and oropharyngeal cancer is about 5 to 14 times higher in people who both smoke and drink heavily than it is in people who never smoke cigarettes or consume alcohol."
+        },
+        {
+          "section": "Betel quid chewing",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+            "The following are risk factors for oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers:",
+            "Betel quid chewing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chewing betel quid alone or with added tobacco has been shown to increase the risk of oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers. Betel quid contains areca nut, which is a cancer-causing substance. The risk of these cancers increases with how long and how often betel quid is chewed. The risk is higher when chewing betel quid with tobacco than when chewing betel quid alone. Betel quid chewing is common in many countries in South Asia and Southeast Asia, including China and India."
+        },
+        {
+          "section": "Personal history of head and neck cancer",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+            "The following are risk factors for oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers:",
+            "Personal history of head and neck cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A personal history of head and neck cancer increases the risk of oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers."
+        },
+        {
+          "section": "Human papillomavirus (HPV) infection",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+            "The following is a risk factor for oral cavity cancer and oropharyngeal cancer:",
+            "Human papillomavirus (HPV) infection"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Being infected with certain types of human papillomavirus (HPV), especially HPV-16, increases the risk of oropharyngeal cancers. HPV infection may also increase the risk of some oral cavity cancers. HPV infection is spread mainly through sexual contact.\nThe risk of oropharyngeal cancer is about 15 times higher in people who have oral HPV-16 infection compared with people who do not have oral HPV-16 infection."
+        },
+        {
+          "section": "Quitting smoking",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+            "The following is a protective factor for oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers:",
+            "Quitting smoking"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Studies have shown that when people stop smoking cigarettes, their risk of oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers decreases by one half (50%) within 5 to 9 years. Within 20 years of quitting, their risk of these cancers is the same as for a person who never smoked cigarettes."
+        },
+        {
+          "section": "It is not clear whether avoiding certain risk factors will decrease the risk of oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers.",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+            "It is not clear whether avoiding certain risk factors will decrease the risk of oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some studies show that when people stop drinking alcohol, their risk of oral cavity and laryngeal cancers decreases within about 20 years.\nGetting an HPV vaccination greatly lessens the risk of oral HPV infection. It is not yet known whether getting an HPV vaccination at any age will decrease the risk of oropharyngeal cancer from HPV infection. For information about the use of HPV vaccination to prevent cervical cancer, see Cervical Cancer Causes, Risk Factors, and Prevention ."
+        },
+        {
+          "section": "Cancer prevention clinical trials are used to study ways to prevent cancer.",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+            "Cancer prevention clinical trials are used to study ways to prevent cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Cancer prevention clinical trials are used to study ways to lower the risk of certain types of cancer. Some cancer prevention trials are done with healthy people who have not had cancer but who have an increased risk for cancer. Other prevention trials are done with people who have had cancer and are trying to prevent another cancer of the same type or to lower their chance of developing a new type of cancer. Other trials are done with healthy volunteers who are not known to have any risk factors for cancer.\nThe purpose of some cancer prevention clinical trials is to find out whether actions people take can prevent cancer. These may include eating fruits and vegetables, exercising, quitting smoking, or taking certain medicines , vitamins , minerals , or food supplements ."
+        },
+        {
+          "section": "New ways to prevent oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers are being studied in clinical trials.",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention",
+            "New ways to prevent oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers are being studied in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about oral cavity, oropharyngeal, hypopharyngeal, and laryngeal cancers prevention. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Screening and Prevention Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Screening and Prevention Editorial Board. PDQ Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/patient/oral-prevention-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389257]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\3bdc11a50cd675257bc2.html"
+    }
+  ]
+}

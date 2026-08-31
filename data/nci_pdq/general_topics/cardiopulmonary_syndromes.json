@@ -1,0 +1,1113 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "scope": "general_or_multi_cancer",
+  "summary_name": "Cardiopulmonary Syndromes",
+  "generated_at": "2026-08-31T07:15:23.637806+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "supportive_care"
+      ],
+      "topic": "supportive_care",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+      "summary_name": "Cardiopulmonary Syndromes",
+      "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/cardiopulmonary-hp-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "February 20, 2025",
+      "retrieved_at": "2026-08-31T07:07:55.533090+00:00",
+      "content_sha256": "cdf16540e513ae0eef7260d1c0e6bde6be752064a8a19e788c3f9c2cb58c00d1",
+      "section_count": 49,
+      "sections": [
+        {
+          "section": "Overview",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Patients with cancer often have comorbid medical problems. Patients older than 65 years bear a disproportionate burden of cancer as well as increased prevalence of medical problems such as chronic obstructive pulmonary disease, heart disease, diabetes, and hypertension.[ 1 ] In both primary care and cancer care settings, unexplained symptoms often frustrate physicians and patients.[ 2 ] Because many advanced cancers spread to the thorax, symptoms such as dyspnea, cough, chest pain, and palpitations are common. Sorting out the likely cause of these problems and developing appropriate interventions can be difficult. Evidence-based recommendations describing various approaches to cancer-related fatigue, anorexia, depression, and dyspnea have been published.[ 3 ] Cancer patients are also often at higher risk of developing pulmonary infections.\nClinicians caring for cancer patients should be familiar with the assessment and treatment of common conditions that manifest as chest symptoms. In addition, these clinicians need to be familiar with some cancer-specific aspects of chest symptoms and syndromes. Dyspnea is a common symptom of certain cancers such as lung cancer and is also common in patients with numerous advanced cancers. Dyspnea is often multifactorial. Optimal treatment requires an understanding of contributing etiologies and pathophysiologies to direct therapeutic interventions as clinically appropriate.\nImportant cardiopulmonary syndromes include the following:\n- Malignant pleural effusion.\n- Malignant pericardial effusion.\n- Superior vena cava syndrome.\n- Lymphangitic carcinomatosis.\nIn this summary, unless otherwise stated, evidence and practice issues as they relate to adults are discussed. The evidence and application to practice related to children may differ significantly from information related to adults. When specific information about the care of children is available, it is summarized under its own heading."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Overview",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Yancik R, Ganz PA, Varricchio CG, et al.: Perspectives on comorbidity and cancer in older patients: approaches to expand the knowledge base. J Clin Oncol 19 (4): 1147-51, 2001. [PUBMED Abstract]\n- Komaroff AL: Symptoms: in the head or in the brain? Ann Intern Med 134 (9 Pt 1): 783-5, 2001. [PUBMED Abstract]\n- Dy SM, Lorenz KA, Naeim A, et al.: Evidence-based recommendations for cancer fatigue, anorexia, depression, and dyspnea. J Clin Oncol 26 (23): 3886-95, 2008. [PUBMED Abstract]"
+        },
+        {
+          "section": "Introduction",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Dyspnea in Patients With Advanced Cancer",
+            "Introduction"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Dyspnea is an uncomfortable awareness of breathing. It is a subjective experience involving many factors that affect the quality and intensity of its perception. Patients with comparable degrees of functional lung impairment and disease burden may describe varying intensities of dyspnea, using various words and phrases such as \"tightness\" and \"suffocating.\"[ 1 ]\nReports on the frequency of dyspnea also vary, depending on the setting and the extent of disease.[ 2 ] In one study, 49% of a general cancer population reported breathlessness, and 20% rated their breathlessness as moderate to severe.[ 3 ] Patients with advanced cancer experience dyspnea more frequently and more intensely than patients with limited disease. One study found that 75 of 135 patients with advanced cancer reporting to an outpatient palliative care clinic had moderate-to-severe dyspnea.[ 4 ] In addition, 60% of 289 patients with lung cancer reported breathlessness at presentation.[ 5 ] Results of a large study showed that 70% of patients suffered from dyspnea in the last 6 weeks of life.[ 6 ] About one-third of patients who could report the intensity of their dyspnea rated it as moderate to severe. Another study revealed that one-half of patients with advanced cancer scored their dyspnea as moderate to severe.[ 7 ]"
+        },
+        {
+          "section": "Pathophysiology and Etiology",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Dyspnea in Patients With Advanced Cancer",
+            "Pathophysiology and Etiology"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "The pathophysiological mechanisms of breathlessness are numerous and complex.[ 8 ] Peripheral and central mechanisms, as well as mechanical and chemical pathways, are involved with a variety of sensory afferent sources.[ 9 - 11 ]\nThe qualities of dyspnea can be seen as work/effort, tightness, and air hunger. The experience of excess work/effort is caused by sensory-perceptual mechanisms similar to those involved in muscles exercising. Tightness is caused by stimulation of airway receptors with bronchoconstriction. The intensity of air hunger and unsatisfied inspiration is caused by the following:[ 12 ]\n- Imbalances of respiratory drive.\n- Outgoing signals from the brain.\n- Feedback from afferents in the respiratory system.\nDyspnea in patients with advanced cancer has many possible direct causes, and categorizing them can assist in the etiologic work-up. One approach is to divide direct causes into the following groups:\n- Direct tumor effects such as intrinsic or extrinsic airway obstruction, pleural involvement, parenchymal involvement by either primary or metastatic disease, superior vena cava syndrome, lymphangitic carcinomatosis, pericardial effusion, and postobstructive pneumonitis.\n- Indirect tumor effects such as pneumonia, a pulmonary embolus, paralysis of a hemidiaphragm, or weakening of the respiratory muscles from sarcopenia.\n- Treatment-related causes such as pulmonary fibrosis secondary to radiation therapy or chemotherapy, chemotherapy-induced cardiomyopathy, and immunotherapy-related pneumonitis from targeted therapy. Although uncommon, checkpoint inhibitor immunotherapy–related pneumonitis can be potentially severe or fatal.[ 13 , 14 ] This drug-induced pneumonitis is a diagnosis of exclusion; other differential diagnoses, including infection and worsening malignancy, need to be excluded.\n- Causes unrelated to cancer include chronic obstructive airway disease, congestive heart failure, anemia, certain acidotic states, and bronchospasm.\n- Functional causes (e.g., anxiety).\nOne study found that in patients experiencing dyspnea from advanced cancer, a median of five different abnormalities could have contributed to their shortness of breath.[ 7 ] Spirometry was abnormal in 93% of 100 patients examined, with 5% having obstructive patterns, 41% restrictive patterns, and 47% mixed patterns. Also, 49% of patients had lung cancer, 91% had abnormal chest radiographs, and 65% had parenchymal or pleural involvement. These results show that a subset of patients experience shortness of breath without any apparent lung involvement. The potentially correctable causes of dyspnea included:\n- Hypoxia (40%).\n- Anemia (20%).\n- Bronchospasm (52%).\nNo significant association between the type of respiratory impairment and the degree of dyspnea was found. Most of these patients were current or former smokers and had a significant lowering of their maximum inspiratory pressures, suggesting severe respiratory muscle dysfunction.[ 7 ] This finding was duplicated in another study.[ 4 ] Of patients admitted to hospice care, 34% had histories of cardiac disease, and 24% had histories of respiratory disease.[ 6 ] Only 39% of terminally ill patients who reported dyspnea had lung or pleural involvement. The etiology of dyspnea could not be clearly identified in approximately one-quarter of patients. Another study found that 49% of lung cancer patients presented with airflow obstruction.[ 7 , 15 ]\nRespiratory muscle dysfunction is an underrecognized factor contributing to dyspnea. Causes of respiratory muscle dysfunction include:[ 16 ]\n- Neuromuscular disease.\n- Malnutrition.\n- Deficiencies of potassium, magnesium, and inorganic phosphate.\nPoor oxygenation, muscle fatigue, abnormal cortisol and catecholamine levels, and circulating cytokines are also implicated.[ 16 ]\nAlthough anxiety is commonly thought to be associated with breathlessness, researchers have found that anxiety and shortness of breath do not invariably go together.[ 7 ] One study demonstrated that the involvement of the lungs by cancer, anxiety, and poor maximal inspiratory pressures were correlates of the intensity of dyspnea in patients with advanced cancer.[ 4 ]"
+        },
+        {
+          "section": "Assessment",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Dyspnea in Patients With Advanced Cancer",
+            "Assessment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "The multidimensional nature of dyspnea must be noted in the complicated assessment of this symptom. Patient-reported outcome is the gold standard for assessment of dyspnea. There is no consensus on the best instrument for assessing dyspnea, but some of the tools used include:\n- Visual analog and numerical rating scales, which are commonly used.[ 8 , 17 - 19 ]\n- Borg Scale, which is occasionally used.[ 17 ]\n- Cancer Dyspnea Scale, a multidimensional instrument that has been shown to be valid and reliable in patients with advanced lung cancer. The subscales measure sense of effort (physical dimension), sense of anxiety (psychological dimension), and sense of discomfort.[ 20 ]\nThese tools are limited, however, because they are unidimensional and do not account for the relative contribution of different factors to a patient’s perception of breathlessness. Assessment should include the impact of dyspnea on the patient’s functional status and recognition of the dynamic component of dyspnea—namely, exertional dyspnea.\nObjective signs, such as tachypnea or the use of accessory breathing muscles, frequently do not match a patient’s perception of dyspnea and the degree of functional impairment it causes. Numerous factors, including psychosocial issues, may affect a patient’s experience of dyspnea. Pulmonary function tests, with few exceptions, play a limited role in the assessment of this syndrome.\nA comprehensive history and examination are essential to an accurate assessment of dyspnea.[ 8 , 17 ] The temporal onset, qualities of the symptom, associated symptoms, precipitating and relieving events or activities, and responses to medications should be reviewed. Sudden onset may herald a pulmonary embolism or infection, whereas gradual onset may suggest development of a pleural effusion. A history of obstructive airways or cardiac disease can shed some light on possible underlying causes. Investigations such as measuring oxygen saturation can be useful in determining whether a patient is hypoxic. In the setting of advanced, incurable cancer, arterial blood gasses play a limited role.\nIn the study looking at checkpoint inhibitor immunotherapy–related pneumonitis, one-third of patients were asymptomatic. However, the most common presenting symptoms were dyspnea (53%) and cough (35%).[ 13 ]\nMelanoma and non-small cell lung cancer were the most common cancers treated in this study. Interestingly, the duration of treatment before the onset of pneumonitis was quite variable, with a median time to onset of 2.8 months (range, 9 days–19 months). In addition, pneumonitis seemed to occur earlier in patients who received combination therapy than in those who received monotherapy (median, 2.7 months vs. 4.6 months).[ 13 ]\nDiagnostic tests that may help to determine the etiology of dyspnea include the following:[ 7 ]\n- Chest imaging by radiography.\n- Computed tomography.\n- Complete blood counts.\n- Oxygen saturation at rest and with exercise.\n- Pulmonary function tests, to a much lesser extent.\nMaximal inspiratory pressure (MIP) measurements may be helpful, particularly if no apparent cause can be found. MIP is a reliable functional test of the strength of the diaphragm and other respiratory muscles. Functional assessments such as the 6-minute walk test and exercise ergometry may also provide valuable information about the severity and impact of dyspnea.[ 21 , 22 ]"
+        },
+        {
+          "section": "Management of underlying causes",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Dyspnea in Patients With Advanced Cancer",
+            "Management of Dyspnea",
+            "Management of underlying causes"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "Lack of a clear understanding of the pathophysiological mechanisms underlying dyspnea hampers the clinician’s overall ability to effectively manage it.[ 8 , 17 ] As with all symptoms, it is essential to identify and treat the underlying cause(s) of dyspnea, if possible and when appropriate. Underlying causes (some of them potentially reversible) and their treatments include the following:\n- Tumor obstruction (upper airways, bronchus, postobstructive pneumonitis, or superior vena cava): Radiation therapy, hormone therapy, or chemotherapy for sensitive tumors. Bronchoscope-guided cauterization or laser ablation of intraluminal masses in large airways can be considered when such technology and expertise are available.[ 23 ]\n- Carcinomatous lymphangitis: A trial of corticosteroids, e.g., dexamethasone. The optimal dose is not clear. Chemotherapy should be considered in sensitive cancers.\n- Superior vena cava obstruction: Chemotherapy for sensitive tumors, radiation therapy, stenting, opioids for dyspnea, and/or steroids as appropriate for the clinical context.\n- Bronchospasms: Bronchodilators. The indiscriminate use of bronchodilators, particularly in the absence of bronchospasm, is discouraged. The treatment of underlying chronic obstructive disease should be optimized with bronchodilators and inhaled corticosteroids as appropriate, particularly because many patients may be current or former smokers.\n- Postradiation bronchiolitis obliterans: A rare complication that occurs in 0.8% to 2.9% of women receiving radiation therapy for breast cancer.[ 24 ] Patients are usually treated with corticosteroids.\n- Pleural effusions: Pleural aspiration by thoracentesis or chest drain. Pleurodesis in selected patients with recurrent effusions should be considered. Indwelling catheters are available for patients with recurrent effusions who are not suitable for pleurodesis.\n- Pericardial effusions : Drainage for immediate relief and possibly intrapericardial chemotherapy or definitive surgery, depending on the clinical context and goals of care.\n- Gross ascites: Abdominal paracentesis to relieve diaphragmatic splinting.\n- Cardiac failure: Diuretics and other drugs as appropriate.\n- Chest infections: Antibiotics and chest physiotherapy when appropriate.\n- Anemia: Blood transfusions in select patients.\n- Pulmonary embolism: Anticoagulate when appropriate.\n- Checkpoint inhibitor immunotherapy–related pneumonitis: For patients with a severity of grade 2 or higher (based on the National Cancer Institute Common Terminology Criteria for Adverse Events [ 25 ]), withholding of drug treatment, administration of corticosteroids, and close follow-up. If pneumonitis worsens, additional immunosuppression may be considered, though its benefit is not clear.\n- Anxiety: Psychotropic medications and psychotherapy."
+        },
+        {
+          "section": "Symptomatic management",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Dyspnea in Patients With Advanced Cancer",
+            "Management of Dyspnea",
+            "Symptomatic management"
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "Symptomatic management of dyspnea is based primarily on the following:\n- Oxygen therapy.\n- Opioids for palliation of dyspnea.\n- Treatment of underlying causes (e.g., superimposed infection), when appropriate.\nOpioids are an extremely effective treatment for dyspnea in cancer patients, and fear of side effects should not prevent their appropriate use. Most authorities believe that, if used appropriately, opioids do not hasten death in dyspneic cancer patients; rather, they reduce physical and psychological distress and exhaustion, and early use improves quality of life.[ 17 , 26 , 27 ] Clinically significant hypoventilation after opioid therapy depends largely on the history of previous exposure to opioids and the rate of increase of the opioid dose. As with opioid use in pain management, starting at a regular low dose in opioid-naïve patients, followed by appropriate dose titration, is advised. Opioid therapy for dyspnea is administered similarly to, and often concurrent with, opioid therapy for pain control. Most of the evidence supports the role of opioids in relieving dyspnea in malignant and nonmalignant conditions.[ 28 , 29 ][ Level of evidence: I ];[ 30 - 32 ][ Level of evidence: II ]\nAnecdotal and experimental evidence suggest a role for nebulized opioid administration in the treatment of dyspnea.[ 33 - 35 ] Opioid receptors are present on sensory nerve endings in the airways; however, nebulization is an inefficient way of administering drugs.[ 33 ] Pharmacokinetic studies suggest that the systemic bioavailability of nebulized morphine is extremely poor and erratic, varying from 4% to 8%.[ 36 ] Some patients may experience claustrophobia. The evidence does not support the clinical use of nebulized opioids. More clinical trials are needed to better determine the role of this mode of treatment.\nPatients who are hypoxic in room air are likely to benefit from oxygen therapy, probably through a decrease in the chemoreceptor input to the respiratory center and the brain cortex. In two controlled trials, cancer patients with dyspnea who were randomly assigned to oxygen therapy in a crossover design showed significant improvement in their dyspnea.[ 37 , 38 ][ Level of evidence: I ] The role of supplemental oxygen has also been examined in patients without hypoxemia in a large randomized controlled trial. Supplemental oxygen given at 2 L/min did not significantly improve dyspnea, compared with supplemental air.[ 39 ] Therefore, supplemental oxygen is recommended for cancer patients with hypoxemia but not for those without hypoxemia.\nOther investigators have examined the effect of other oxygen delivery modalities on dyspnea in cancer patients, such as:[ 40 ]\n- High-flow oxygen. High-flow oxygen devices deliver up to 40 L of humidified and heated oxygen per minute, and may reduce the intensity of dyspnea in patients who do not respond to low-flow oxygen.[ 40 ]\n- Noninvasive ventilation with bilevel positive airway pressure (BiPAP). BiPAP has been shown in several randomized controlled trials to alleviate dyspnea among hospitalized cancer patients,[ 40 , 41 ] particularly in patients with hypoventilation.\nThese interventions may be reasonable options for patients with hypoxemia and refractory dyspnea despite the use of low-flow supplemental oxygen.\nOther options for symptomatic treatment include:\n- Methylxanthines.\n- Sedatives.\n- Tranquilizers.\n- Nebulized local anesthetics.\n- Antiprostaglandins.\nThe role of methylxanthines in cancer-related dyspnea is unclear. Chlorpromazine and promethazine have been shown to decrease dyspnea without affecting ventilation in patients without cancer, but their role in cancer-related dyspnea is uncertain. Four out of five randomized controlled trials failed to show any benefit for using benzodiazepines in cancer patients.[ 17 ];[ 42 ][ Level of evidence: I ]\nOne randomized single-blind study suggested that the combination of two scheduled medications (subcutaneous morphine and subcutaneous midazolam) and one as needed (subcutaneous morphine) for episodes of breakthrough dyspnea is more effective than the other evaluated combinations, but this approach requires further study.[ 43 ][ Level of evidence: I ]\nThe role of benzodiazepines appears to be limited to treatment of dyspnea that is a somatic manifestation of a panic disorder or that is concurrent with severe anxiety. In a randomized placebo-controlled trial of 432 cancer patients with moderate-to-severe dyspnea, 20 mg of buspirone, a nonbenzodiazepine anxiolytic drug, did not improve dyspnea or anxiety, compared with placebo.[ 44 ][ Level of evidence: I ] Buspirone cannot be recommended at this time for the treatment of dyspnea in cancer patients. No evidence supports the use of nebulized local anesthetics for the treatment of breathlessness.\nGiven the role inflammation may play in cancer and dyspnea, dexamethasone has been used for symptomatic treatment of dyspnea. A randomized controlled trial prospectively evaluated dexamethasone in a highly selected group of ambulatory patients who had an average dyspnea score of 4 or greater (on a numerical scale of 0–10).[ 45 ][ Level of evidence: I ] Patients were randomly assigned to receive dexamethasone 8 mg bid for 1 week, then 4 mg bid for 1 week versus a matching placebo. In-person assessments were taken at baseline, day 7, and day 14, as well as telephone assessments every other day from day 1 to day 28. Assessments included average dyspnea intensity, activity-adjusted dyspnea, and dyspnea unpleasantness via a numerical rating scale. Dyspnea was also measured via maximal inspiratory pressure and spirometry. The trial was terminated at the second preplanned interim analysis for futility. A clinically meaningful improvement in dyspnea was seen in both the placebo and the dexamethasone groups, leading to the conclusion that high-dose dexamethasone should not be given routinely to alleviate cancer-related dyspnea. Interestingly, the patients who took dexamethasone had significantly better appetite and well-being scores but worse anxiety, depression, and adverse events."
+        },
+        {
+          "section": "General support measures",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Dyspnea in Patients With Advanced Cancer",
+            "Management of Dyspnea",
+            "General support measures"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "In addition to pharmacological therapies, a number of nonpharmacological measures are suggested for the treatment of dyspnea. These measures include:\n- Pursed-lip breathing.\n- Diaphragmatic breathing and muscle training.\n- Cold air directed across the cheek.\n- Meditation.\n- Relaxation training.\n- Biofeedback techniques.\n- Psychotherapy.\nThe effectiveness of these measures in relieving breathlessness appears to be variable."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Dyspnea in Patients With Advanced Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Dyspnea in Patients With Advanced Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 45,
+          "text": "- Wilcock A, Crosby V, Hughes A, et al.: Descriptors of breathlessness in patients with cancer and other cardiorespiratory diseases. J Pain Symptom Manage 23 (3): 182-9, 2002. [PUBMED Abstract]\n- Ripamonti C, Fulfaro F, Bruera E: Dyspnoea in patients with advanced cancer: incidence, causes and treatments. Cancer Treat Rev 24 (1): 69-80, 1998. [PUBMED Abstract]\n- Dudgeon DJ, Kristjanson L, Sloan JA, et al.: Dyspnea in cancer patients: prevalence and associated factors. J Pain Symptom Manage 21 (2): 95-102, 2001. [PUBMED Abstract]\n- Bruera E, Schmitz B, Pither J, et al.: The frequency and correlates of dyspnea in patients with advanced cancer. J Pain Symptom Manage 19 (5): 357-62, 2000. [PUBMED Abstract]\n- Muers MF, Round CE: Palliation of symptoms in non-small cell lung cancer: a study by the Yorkshire Regional Cancer Organisation Thoracic Group. Thorax 48 (4): 339-43, 1993. [PUBMED Abstract]\n- Reuben DB, Mor V: Dyspnea in terminally ill cancer patients. Chest 89 (2): 234-6, 1986. [PUBMED Abstract]\n- Dudgeon DJ, Lertzman M: Dyspnea in the advanced cancer patient. J Pain Symptom Manage 16 (4): 212-9, 1998. [PUBMED Abstract]\n- Ripamonti C, Bruera E: Dyspnea: pathophysiology and assessment. J Pain Symptom Manage 13 (4): 220-32, 1997. [PUBMED Abstract]\n- Widdicombe J: Lung afferent activity: implications for respiratory sensation. Respir Physiol Neurobiol 167 (1): 2-8, 2009. [PUBMED Abstract]\n- Lee LY: Respiratory sensations evoked by activation of bronchopulmonary C-fibers. Respir Physiol Neurobiol 167 (1): 26-35, 2009. [PUBMED Abstract]\n- Undem BJ, Nassenstein C: Airway nerves and dyspnea associated with inflammatory airway disease. Respir Physiol Neurobiol 167 (1): 36-44, 2009. [PUBMED Abstract]\n- Parshall MB, Schwartzstein RM, Adams L, et al.: An official American Thoracic Society statement: update on the mechanisms, assessment, and management of dyspnea. Am J Respir Crit Care Med 185 (4): 435-52, 2012. [PUBMED Abstract]\n- Naidoo J, Wang X, Woo KM, et al.: Pneumonitis in Patients Treated With Anti-Programmed Death-1/Programmed Death Ligand 1 Therapy. J Clin Oncol 35 (7): 709-717, 2017. [PUBMED Abstract]\n- Khunger M, Rakshit S, Pasupuleti V, et al.: Incidence of Pneumonitis With Use of Programmed Death 1 and Programmed Death-Ligand 1 Inhibitors in Non-Small Cell Lung Cancer: A Systematic Review and Meta-Analysis of Trials. Chest 152 (2): 271-281, 2017. [PUBMED Abstract]\n- Congleton J, Muers MF: The incidence of airflow obstruction in bronchial carcinoma, its relation to breathlessness, and response to bronchodilator therapy. Respir Med 89 (4): 291-6, 1995. [PUBMED Abstract]\n- Mancini DM, LaManca J, Henson D: The relation of respiratory muscle function to dyspnea in patients with heart failure. Heart Fail 8: 183-9, 1992.\n- Dudgeon DJ, Rosenthal S: Management of dyspnea and cough in patients with cancer. Hematol Oncol Clin North Am 10 (1): 157-71, 1996. [PUBMED Abstract]\n- Bausewein C, Farquhar M, Booth S, et al.: Measurement of breathlessness in advanced disease: a systematic review. Respir Med 101 (3): 399-410, 2007. [PUBMED Abstract]\n- Dorman S, Byrne A, Edwards A: Which measurement scales should we use to measure breathlessness in palliative care? A systematic review. Palliat Med 21 (3): 177-91, 2007. [PUBMED Abstract]\n- Henoch I, Bergman B, Gaston-Johansson F: Validation of a Swedish version of the Cancer Dyspnea Scale. J Pain Symptom Manage 31 (4): 353-61, 2006. [PUBMED Abstract]\n- American Thoracic Society, American College of Chest Physicians: ATS/ACCP Statement on cardiopulmonary exercise testing. Am J Respir Crit Care Med 167 (2): 211-77, 2003. [PUBMED Abstract]\n- ATS Committee on Proficiency Standards for Clinical Pulmonary Function Laboratories: ATS statement: guidelines for the six-minute walk test. Am J Respir Crit Care Med 166 (1): 111-7, 2002. [PUBMED Abstract]\n- Mantovani G, Astara G, Manca G, et al.: Endoscopic laser ablation as palliative treatment of endobronchial, nonresectable, or recurrent lung cancer: assessment of its impact on quality of life. Clin Lung Cancer 1 (4): 277-85; discussion 286, 2000. [PUBMED Abstract]\n- Epler GR, Kelly EM: Systematic review of postradiotherapy bronchiolitis obliterans organizing pneumonia in women with breast cancer. Oncologist 19 (12): 1216-26, 2014. [PUBMED Abstract]\n- National Cancer Institute: Common Terminology Criteria for Adverse Events (CTCAE), Version 5.0. Bethesda, Md: U.S. Department of Health and Human Services, National Institutes of Health, 2017. Available online . Last accessed Dec. 18, 2024.\n- Bruera E, Ripamonti C: Dyspnea in patients with advanced cancer. In: Berger A, Portenoy RK, Weissman DE, eds.: Principles and Practice of Supportive Oncology. Lippincott-Raven Publishers, 1998, pp 295-307.\n- Kloke M, Cherny N; ESMO Guidelines Committee: Treatment of dyspnoea in advanced cancer patients: ESMO Clinical Practice Guidelines. Ann Oncol 26 (Suppl 5): v169-73, 2015. [PUBMED Abstract]\n- Bruera E, MacEachern T, Ripamonti C, et al.: Subcutaneous morphine for dyspnea in cancer patients. Ann Intern Med 119 (9): 906-7, 1993. [PUBMED Abstract]\n- Allard P, Lamontagne C, Bernard P, et al.: How effective are supplementary doses of opioids for dyspnea in terminally ill cancer patients? A randomized continuous sequential clinical trial. J Pain Symptom Manage 17 (4): 256-65, 1999. [PUBMED Abstract]\n- Bruera E, Macmillan K, Pither J, et al.: Effects of morphine on the dyspnea of terminal cancer patients. J Pain Symptom Manage 5 (6): 341-4, 1990. [PUBMED Abstract]\n- Cohen MH, Anderson AJ, Krasnow SH, et al.: Continuous intravenous infusion of morphine for severe dyspnea. South Med J 84 (2): 229-34, 1991. [PUBMED Abstract]\n- Boyd KJ, Kelly M: Oral morphine as symptomatic treatment of dyspnoea in patients with advanced cancer. Palliat Med 11 (4): 277-81, 1997. [PUBMED Abstract]\n- Zeppetella G: Nebulized morphine in the palliation of dyspnoea. Palliat Med 11 (4): 267-75, 1997. [PUBMED Abstract]\n- Farncombe M, Chater S: Clinical application of nebulized opioids for treatment of dyspnoea in patients with malignant disease. Support Care Cancer 2 (3): 184-7, 1994. [PUBMED Abstract]\n- Farncombe M, Chater S, Gillin A: The use of nebulized opioids for breathlessness: a chart review. Palliat Med 8 (4): 306-12, 1994. [PUBMED Abstract]\n- Masood AR, Thomas SH: Systemic absorption of nebulized morphine compared with oral morphine in healthy subjects. Br J Clin Pharmacol 41 (3): 250-2, 1996. [PUBMED Abstract]\n- Bruera E, de Stoutz N, Velasco-Leiva A, et al.: Effects of oxygen on dyspnoea in hypoxaemic terminal-cancer patients. Lancet 342 (8862): 13-4, 1993. [PUBMED Abstract]\n- Bruera E, Schoeller T, MacEachern T: Symptomatic benefit of supplemental oxygen in hypoxemic patients with terminal cancer: the use of the N of 1 randomized controlled trial. J Pain Symptom Manage 7 (6): 365-8, 1992. [PUBMED Abstract]\n- Abernethy AP, McDonald CF, Frith PA, et al.: Effect of palliative oxygen versus room air in relief of breathlessness in patients with refractory dyspnoea: a double-blind, randomised controlled trial. Lancet 376 (9743): 784-93, 2010. [PUBMED Abstract]\n- Hui D, Morgado M, Chisholm G, et al.: High-flow oxygen and bilevel positive airway pressure for persistent dyspnea in patients with advanced cancer: a phase II randomized trial. J Pain Symptom Manage 46 (4): 463-73, 2013. [PUBMED Abstract]\n- Nava S, Ferrer M, Esquinas A, et al.: Palliative use of non-invasive ventilation in end-of-life patients with solid tumours: a randomised feasibility trial. Lancet Oncol 14 (3): 219-27, 2013. [PUBMED Abstract]\n- Moroni M, Porta C, Gualtieri G, et al.: Inhaled sodium cromoglycate to treat cough in advanced lung cancer patients. Br J Cancer 74 (2): 309-11, 1996. [PUBMED Abstract]\n- Navigante AH, Cerchietti LC, Castro MA, et al.: Midazolam as adjunct therapy to morphine in the alleviation of severe dyspnea perception in patients with advanced cancer. J Pain Symptom Manage 31 (1): 38-47, 2006. [PUBMED Abstract]\n- Peoples AR, Bushunow PW, Garland SN, et al.: Buspirone for management of dyspnea in cancer patients receiving chemotherapy: a randomized placebo-controlled URCC CCOP study. Support Care Cancer 24 (3): 1339-47, 2016. [PUBMED Abstract]\n- Hui D, Puac V, Shelal Z, et al.: Effect of dexamethasone on dyspnoea in patients with cancer (ABCD): a parallel-group, double-blind, randomised, controlled trial. Lancet Oncol 23 (10): 1321-1331, 2022. [PUBMED Abstract]"
+        },
+        {
+          "section": "Chronic Cough",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Chronic Cough"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "Chronic coughing may be the source of major suffering for some patients.[ 1 ] Chronic cough can:\n- Cause pain.\n- Interfere with sleep.\n- Aggravate dyspnea.\n- Worsen fatigue.\nThe causes of cough can be classified much like the causes of dyspnea.\nFor chronic cough in patients receiving palliative care, consider the following differential diagnoses:\n- Malignancy-related causes of cough, e.g., direct irritation by the presence of a tumor or tracheo-esophageal fistula.\n- Drug-related cough: rule out cough induced by medications such as angiotensin-converting enzyme inhibitors.\n- Other noncancer causes of cough: rule out asthma, chronic obstructive pulmonary disease, postnasal drip, reflux issues, and chronic heart failure.\nThe optimal therapy for chronic cough is treatment of the underlying disorder, such as:\n- Radiation therapy for the underlying endobronchial tumor mass irritating the airway.\n- Stenting of tracheo-esophageal fistula.\n- Drainage of a pleural effusion.\n- Corticosteroids for lymphangitic carcinomatosis.\nCough-suppressing agents such as opioids are commonly used. Anecdotal evidence suggests a role for inhaled local anesthetics, which should be used judiciously and sparingly because of their unpleasant taste, suppression of the gag reflex, and anaphylactic reactions to preservatives in these solutions. Opioid and nonopioid antitussives, such as dextromethorphan, may act synergistically, but further studies are required to confirm this hypothesis.[ 1 ] Gabapentin was found to be efficacious compared with placebo for chronic refractory cough, although this study did not include cancer patients.[ 2 ]\nIn cases of increased sputum production, expectorants and mucolytics have been used, but the effects have not been well evaluated. Inhaled sodium cromoglycate has shown promise as a safe method of controlling chronic coughing related to lung cancer.[ 3 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Chronic Cough",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Dudgeon DJ, Rosenthal S: Management of dyspnea and cough in patients with cancer. Hematol Oncol Clin North Am 10 (1): 157-71, 1996. [PUBMED Abstract]\n- Ryan NM, Birring SS, Gibson PG: Gabapentin for refractory chronic cough: a randomised, double-blind, placebo-controlled trial. Lancet 380 (9853): 1583-9, 2012. [PUBMED Abstract]\n- Moroni M, Porta C, Gualtieri G, et al.: Inhaled sodium cromoglycate to treat cough in advanced lung cancer patients. Br J Cancer 74 (2): 309-11, 1996. [PUBMED Abstract]"
+        },
+        {
+          "section": "Significance",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pleural Effusion",
+            "Significance"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Malignant pleural effusions are a common complication of malignancy, and malignancy is a common cause of pleural effusions in general. Malignancy causes roughly 40% of symptomatic pleural effusions, with congestive heart failure and infection being the other leading causes.[ 1 ] The cancers that account for approximately 75% of all malignancy-associated effusions include the following:\n- Lung cancer.\n- Breast cancer.\n- Lymphoma.\n- Leukemia.\nSignificant use of health care resources is attributable to malignant effusions, with approximately 100,000 cases per year diagnosed in the United States and 43 cases detected per 100,000 hospital admissions.[ 2 ]"
+        },
+        {
+          "section": "Pathogenesis",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pleural Effusion",
+            "Pathogenesis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "The normal pleural fluid space is occupied with approximately 10 mL of fluid with 2 g/dL protein. A pleural effusion is an accumulation of an abnormal amount of fluid between the visceral and parietal pleura of the chest. Normally, pleural fluid is absorbed by pulmonary venous capillaries (80%–90%), with some of it also absorbed by pleural lymphatics. Malignant effusions are usually exudative rather than transudative. Exudative effusions exhibit any one of the following characteristics:[ 3 ]\n- Pleural fluid to serum protein ratio greater than 0.5.\n- Pleural fluid to serum lactate dehydrogenase (LDH) ratio greater than 0.6.\n- Pleural fluid LDH greater than two-thirds of the upper limit of serum LDH.\nThese exudative malignant effusions are generally caused by:\n- Pleural metastases.\n- Disruption of pulmonary capillary endothelium.\n- Malignant obstruction of pleural lymphatics.\nParamalignant effusions may result from chemotherapy, radiation therapy, atelectasis, or lymph node involvement."
+        },
+        {
+          "section": "Assessment",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pleural Effusion",
+            "Assessment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "Common symptoms associated with malignant pleural effusions include:\n- Dyspnea.\n- Cough.\n- Chest discomfort.\nAbout 20% of patients may experience weight loss and malaise. A chest x-ray is most commonly used for radiographic assessment. About 175 mL of pleural fluid will cause a blunted costophrenic angle discernible on chest radiography. A chest computed tomography scan is more sensitive than a simple chest x-ray and is often used for assessment of loculated effusions because, in some instances, up to 500 mL of loculated fluid can be obscured behind the dome of the diaphragm.[ 1 ]\nNot all pleural effusions detected in cancer patients are malignant effusions. Cancer patients are prone to developing conditions such as:[ 1 ]\n- Congestive heart failure.\n- Pneumonia.\n- Pulmonary embolism.\n- Malnutrition.\n- Associated low serum albumin.\nEach of these conditions may cause a symptomatic effusion for which clinical management would substantially differ from management of a malignant effusion. For this reason, cytological assessment is important. Pleural fluid cytology requires a minimum sample of 250 mL. The morphology of cells obtained from the pleural space can be difficult to assess because of mesothelial and macrophage abnormalities. The diagnostic sensitivity of pleural fluid cytology is approximately 65%, with a specificity of 97%.[ 1 ]\n- Flow cytometry can be applied to these specimens and is often useful, especially for assessment of lymphomas.\n- Thoracoscopy and pleural biopsy are rarely needed for a definitive diagnosis, but these techniques may be useful when routine pleural fluid collection and assessment are difficult because of loculation of the effusion.\n- Thoracoscopy-guided biopsy is generally performed under local anesthesia and has a yield of more than 80%, with a lower risk of complications than thoracotomy."
+        },
+        {
+          "section": "To treat or not to treat",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pleural Effusion",
+            "Management of Malignant Pleural Effusions",
+            "To treat or not to treat"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Pleural effusions are generally markers of advanced, unresectable disease or disease progression. The median survival for patients with malignant pleural effusions is around 3 to 4 months.[ 4 , 5 ] Because a paramalignant effusion resulting from pneumonia or atelectasis may be present, the cytology should be confirmed before making major treatment decisions. The management strategy depends on the underlying primary malignancy and the number and type of previous therapies. For example, patients with newly diagnosed small cell carcinoma or malignant lymphoma are likely to respond to systemic chemotherapy; however, patients with gastric or ovarian cancer in whom several lines of chemotherapy have failed are unlikely to obtain significant palliation with systemic therapy.\nAbout three-quarters of patients exhibit symptoms such as cough, dyspnea, and chest discomfort. Such patients may benefit from efforts to reduce the fluid burden, depending on the following:\n- Their performance status.\n- Their expected survival.\n- Their preference for risks versus benefits.\nThe literature on the efficacy of treatment for pleural effusions is difficult to interpret because of the paucity of randomized trials, and wide variability in the response criteria and the timing and duration of follow-up in uncontrolled trials.[ 6 , 7 ] Generally, the goal of therapy is palliation of symptoms. Measures of success may include:\n- Complete drainage of the effusion.\n- Lung re-expansion.\n- Lack of fluid reaccumulation (i.e., duration of response).\n- Subjective report of symptom relief.\nThe choice of treatment depends on patient prognosis, functional status, and goals of care."
+        },
+        {
+          "section": "Thoracentesis",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pleural Effusion",
+            "Management of Malignant Pleural Effusions",
+            "Thoracentesis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Thoracentesis involves percutaneous insertion of a needle for drainage of the effusion. Thoracentesis is not expected to permanently resolve the problem but rather to alleviate acute and severe symptoms. The use of thoracentesis is also appropriate as a therapeutic trial to determine whether fluid drainage is beneficial when the relationship between symptoms and effusion is unclear.\nMost effusions will reaccumulate a few days after thoracentesis. The reaccumulation rate is approximately 98% by day 30.[ 8 ] Repeated thoracenteses carry the potential risks of bleeding, infection, and pneumothorax. Other potential complications of thoracentesis include noncardiogenic pulmonary edema from rapid lung re-expansion (usually with the rapid removal of >1,500 mL) and pleural shock caused by an excessive vagal response to penetration of the parietal pleura. Any of these complications may be lethal, especially for the cancer patient with poor cardiopulmonary reserve."
+        },
+        {
+          "section": "Chronic long-term indwelling tunneled pleural catheters",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pleural Effusion",
+            "Management of Malignant Pleural Effusions",
+            "Chronic long-term indwelling tunneled pleural catheters"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Indwelling pleural catheters (IPCs) represent an alternative to pleurodesis for patients with malignant pleural effusion whose dyspnea has responded to thoracentesis. IPCs are relatively contraindicated in patients with a short life expectancy, pleural infections, multiloculated collections, and chylothorax. The insertion of chronic long-term indwelling tunneled pleural catheters is useful to treat recurrent and symptomatic malignant pleural effusions, including for patients with trapped lung. These tunneled pleural catheters allow up to 96% of patients to achieve symptom improvement, with spontaneous pleurodesis occurring in up to 44% of patients.[ 9 ] Published results indicate significantly shorter hospital stays for patients with IPCs versus those receiving doxycycline pleurodesis (1 day vs. 6 days). In the IPC group, spontaneous pleurodesis was achieved in 42 of 91 patients. Both the IPC group and doxycycline pleurodesis group reported modest improvement in quality of life (QOL) and dyspnea.[ 10 ]\nA randomized controlled trial comparing IPC and talc pleurodesis showed similar reduction of dyspnea (24 mm of 100 mm) and similar QOL.[ 11 ] IPC use was associated with a shorter initial hospitalization and lower rates of re-treatment, with a spontaneous pleurodesis rate of 51%. However, IPCs also had higher rates of adverse effects, such as infections and catheter blockage. A second randomized controlled trial compared the effect of IPC versus talc pleurodesis on the total number of hospitalization days from procedure to death or to 12 months.[ 12 ] There was a statistically significant reduction in the number of hospitalization days for patients with IPCs compared with those who received talc pleurodesis (median,10 days [interquartile range (IQR), 3–17] vs. 12 days [IQR, 7–21], respectively; P = .03). IPC use also resulted in fewer hospitalization days related to pleural effusion management and fewer additional invasive pleural drainage procedures. There were no significant differences in improvement in breathlessness or QOL between the two procedures. The choice between IPC and pleurodesis should be based on patient preference and local resource availability."
+        },
+        {
+          "section": "Use of pleural sclerosing agents after chest tube drainage",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pleural Effusion",
+            "Management of Malignant Pleural Effusions",
+            "Use of pleural sclerosing agents after chest tube drainage"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Chemical sclerosants may be administered through a chest tube to create inflammation and subsequent fusion of the parietal and visceral pleura so that fluid cannot reaccumulate in this potential space. Numerous chemical agents can cause the irritation necessary to produce this kind of fusion, called pleurodesis. The ideal agent would produce effective pleurodesis with minimal cost and minimal side effects. Agents that have been studied include:\n- Chemotherapeutic agents (bleomycin, cisplatin, etoposide, doxorubicin, mitomycin-C, fluorouracil).\n- Antibiotics (doxycycline, minocycline, tetracycline).\n- Infectious agents ( Corynebacterium parvum ).\n- Biological agents (interferon beta, interleukin-2).\n- Bovine dermal collagen.[ 13 ][ Level of evidence: II ]\n- Other agents (talc, methylprednisolone).\nSeveral uncontrolled trials and case series have reported the efficacy of pleurodesis,[ 14 ];[ 15 , 16 ][ Level of evidence: II ];[ 17 , 18 ] as have numerous randomized trials.[ 19 - 25 ][ Level of evidence: I ] A meta-analysis of pleurodesis studies that were reported between 1966 and 1992 indicated that about two-thirds of patients responded to pleurodesis, and that the most effective agents appeared to be tetracyclines (or tetracycline replacement agents, such as doxycycline and minocycline), bleomycin, and talc.[ 26 ]\nA prospective, randomized study of video-assisted thoracoscopic pleurodesis with talc versus doxycycline in 33 patients with malignant pleural effusion suggested that talc provides superior short-term and long-term results.[ 27 ][ Level of evidence: I ] Talc appears to be the least expensive agent, at least when given as a slurry rather than by video-assisted thoracoscopic talc insufflation.[ 25 ][ Level of evidence: I ] However, bleomycin is the only agent approved by the U.S. Food and Drug Administration for the prevention of recurrent pleural effusions.[ 1 ] An observational cohort study investigated the use of intrapleural urokinase in 48 patients with loculated pleural effusions or trapped lungs. Lung reexpansion and resolution of dyspnea occurred in approximately 60% of patients, suggesting that intrapleural urokinase may be useful in treating loculated pleural effusions or trapped lungs in medically inoperable patients with cancer. Most responders maintained pleurodesis when urokinase was followed by minocycline pleurodesis.[ 28 ][ Level of evidence: II ]"
+        },
+        {
+          "section": "Surgical treatment",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pleural Effusion",
+            "Management of Malignant Pleural Effusions",
+            "Surgical treatment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For rare patients, standard management of the malignant effusion is unsuccessful and aggressive treatment remains appropriate. Pleuroperitoneal shunting can be considered for these patients. This procedure involves implantation of a shunt with one-way valves that allow the transfer of fluid from the pleural space to the peritoneal space, in which the fluid creates less hazard and is more easily removed. Another option is surgical pleurectomy, which requires general anesthesia. The risk of significant acute and chronic pain as well as other morbidity approaches 20% to 25%, and the risk of mortality at 1 month is 5% to 10%.[ 2 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pleural Effusion",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pleural Effusion",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 28,
+          "text": "- Maghfoor I, Doll DC, Yarbro JW: Effusions. In: Abeloff MD, Armitage JO, Lichter AS, et al., eds.: Clinical Oncology. Churchill Livingstone, 2000, pp 922-49.\n- Fiocco M, Krasna MJ: The management of malignant pleural and pericardial effusions. Hematol Oncol Clin North Am 11 (2): 253-65, 1997. [PUBMED Abstract]\n- Light RW: Useful tests on the pleural fluid in the management of patients with pleural effusions. Curr Opin Pulm Med 5 (4): 245-9, 1999. [PUBMED Abstract]\n- Burrows CM, Mathews WC, Colt HG: Predicting survival in patients with recurrent symptomatic malignant pleural effusions: an assessment of the prognostic values of physiologic, morphologic, and quality of life measures of extent of disease. Chest 117 (1): 73-8, 2000. [PUBMED Abstract]\n- Sahn SA: Malignant pleural effusions. Semin Respir Crit Care Med 22 (6): 607-16, 2001. [PUBMED Abstract]\n- Tattersall M: Management of malignant pleural effusion. Aust N Z J Med 28 (3): 394-6, 1998. [PUBMED Abstract]\n- Schafers SJ, Dresler CM: Update on talc, bleomycin, and the tetracyclines in the treatment of malignant pleural effusions. Pharmacotherapy 15 (2): 228-35, 1995 Mar-Apr. [PUBMED Abstract]\n- Anderson CB, Philpott GW, Ferguson TB: The treatment of malignant pleural effusions. Cancer 33 (4): 916-22, 1974. [PUBMED Abstract]\n- Tremblay A, Michaud G: Single-center experience with 250 tunnelled pleural catheter insertions for malignant pleural effusion. Chest 129 (2): 362-8, 2006. [PUBMED Abstract]\n- Putnam JB, Light RW, Rodriguez RM, et al.: A randomized comparison of indwelling pleural catheter and doxycycline pleurodesis in the management of malignant pleural effusions. Cancer 86 (10): 1992-9, 1999. [PUBMED Abstract]\n- Davies HE, Mishra EK, Kahan BC, et al.: Effect of an indwelling pleural catheter vs chest tube and talc pleurodesis for relieving dyspnea in patients with malignant pleural effusion: the TIME2 randomized controlled trial. JAMA 307 (22): 2383-9, 2012. [PUBMED Abstract]\n- Thomas R, Fysh ETH, Smith NA, et al.: Effect of an Indwelling Pleural Catheter vs Talc Pleurodesis on Hospitalization Days in Patients With Malignant Pleural Effusion: The AMPLE Randomized Clinical Trial. JAMA 318 (19): 1903-1912, 2017. [PUBMED Abstract]\n- Akopov AL, Egorov VI, Varlamov VV, et al.: Thoracoscopic collagen pleurodesis in the treatment of malignant pleural effusions. Eur J Cardiothorac Surg 28 (5): 750-3, 2005. [PUBMED Abstract]\n- Gravelyn TR, Michelson MK, Gross BH, et al.: Tetracycline pleurodesis for malignant pleural effusions. A 10-year retrospective study. Cancer 59 (11): 1973-7, 1987. [PUBMED Abstract]\n- Markman M, Cleary S, King ME, et al.: Cisplatin and cytarabine administered intrapleurally as treatment of malignant pleural effusions. Med Pediatr Oncol 13 (4): 191-3, 1985. [PUBMED Abstract]\n- Heffner JE, Standerfer RJ, Torstveit J, et al.: Clinical efficacy of doxycycline for pleurodesis. Chest 105 (6): 1743-7, 1994. [PUBMED Abstract]\n- Holoye PY, Jeffries DG, Dhingra HM, et al.: Intrapleural etoposide for malignant effusion. Cancer Chemother Pharmacol 26 (2): 147-50, 1990. [PUBMED Abstract]\n- Ostrowski MJ, Priestman TJ, Houston RF, et al.: A randomized trial of intracavitary bleomycin and Corynebacterium parvum in the control of malignant pleural effusions. Radiother Oncol 14 (1): 19-26, 1989. [PUBMED Abstract]\n- Martínez-Moragón E, Aparicio J, Rogado MC, et al.: Pleurodesis in malignant pleural effusions: a randomized study of tetracycline versus bleomycin. Eur Respir J 10 (10): 2380-3, 1997. [PUBMED Abstract]\n- Emad A, Rezaian GR: Treatment of malignant pleural effusions with a combination of bleomycin and tetracycline. A comparison of bleomycin or tetracycline alone versus a combination of bleomycin and tetracycline. Cancer 78 (12): 2498-501, 1996. [PUBMED Abstract]\n- Zimmer PW, Hill M, Casey K, et al.: Prospective randomized trial of talc slurry vs bleomycin in pleurodesis for symptomatic malignant pleural effusions. Chest 112 (2): 430-4, 1997. [PUBMED Abstract]\n- Patz EF, McAdams HP, Erasmus JJ, et al.: Sclerotherapy for malignant pleural effusions: a prospective randomized trial of bleomycin vs doxycycline with small-bore catheter drainage. Chest 113 (5): 1305-11, 1998. [PUBMED Abstract]\n- Yim AP, Chan AT, Lee TW, et al.: Thoracoscopic talc insufflation versus talc slurry for symptomatic malignant pleural effusion. Ann Thorac Surg 62 (6): 1655-8, 1996. [PUBMED Abstract]\n- Nio Y, Nagami H, Tamura K, et al.: Multi-institutional randomized clinical study on the comparative effects of intracavital chemotherapy alone versus immunotherapy alone versus immunochemotherapy for malignant effusion. Br J Cancer 80 (5-6): 775-85, 1999. [PUBMED Abstract]\n- Noppen M, Degreve J, Mignolet M, et al.: A prospective, randomised study comparing the efficacy of talc slurry and bleomycin in the treatment of malignant pleural effusions. Acta Clin Belg 52 (5): 258-62, 1997. [PUBMED Abstract]\n- Walker-Renard PB, Vaughan LM, Sahn SA: Chemical pleurodesis for malignant pleural effusions. Ann Intern Med 120 (1): 56-64, 1994. [PUBMED Abstract]\n- Kuzdzał J, Sładek K, Wasowski D, et al.: Talc powder vs doxycycline in the control of malignant pleural effusion: a prospective, randomized trial. Med Sci Monit 9 (6): PI54-9, 2003. [PUBMED Abstract]\n- Hsu LH, Soong TC, Feng AC, et al.: Intrapleural urokinase for the treatment of loculated malignant pleural effusions and trapped lungs in medically inoperable cancer patients. J Thorac Oncol 1 (5): 460-7, 2006. [PUBMED Abstract]"
+        },
+        {
+          "section": "Malignant Pericardial Effusion",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pericardial Effusion"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Malignant pericardial effusions occur in up to 21% of cancer patients [ 1 - 3 ] and are frequently not suspected until clinical signs or symptoms of pericardial tamponade develop.[ 4 ] Two-thirds of patients have subclinical pericardial effusions with no overt cardiovascular signs or symptoms.[ 5 , 6 ] One-half of cases of pericardial effusion initially present with symptoms of cardiac tamponade.[ 7 ] In 50% of cases, pericardial effusion is the first sign of malignant disease.[ 8 ] Symptoms of pericardial effusion are often attributed to the underlying cancer and may include the following:[ 9 ]\n- Dyspnea.\n- Fatigue.\n- Asthenia.\nSymptomatic pericardial effusions are often a preterminal event; however, significant symptom palliation can be achieved with prompt diagnosis and management.\nOf patients with malignant pericardial effusions, 50% will have concomitant pleural effusions, and one-third will have pulmonary parenchymal disease.[ 4 ]\nOne-third of patients with pericardial metastases will eventually die of pericardial tamponade.[ 4 ] Pericardial involvement contributed to the cause of death in 85% of patients in a series reported in 1962 but in only 46% of patients in a more recent study.[ 10 ] Improvements in diagnostic and therapeutic options account for the decrease in mortality over the past 40 years."
+        },
+        {
+          "section": "Incidence and Prevalence",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pericardial Effusion",
+            "Incidence and Prevalence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Malignant pericardial effusion occurs in up to 21% of autopsy cases in patients with common malignancies.[ 4 , 7 ] Of patients with lung cancer, 33% have pericardial metastases at autopsy, and one-third of cases of pericardial metastases are caused by lung cancer. Breast cancer causes 25% of pericardial effusions, and about 25% of patients with breast cancer have pericardial effusions. Hematological malignancies (leukemia, Hodgkin disease, non-Hodgkin lymphoma) cause 15% of cases of malignant pericardial effusions.[ 11 ]\nA retrospective review of 23,592 effusions over a 24-year period revealed 65 malignant effusions (17%) out of 375 pericardial effusions. Lung cancer was the most common cancer found among the malignant pericardial effusions in males, and breast cancer was the most common in females. In 43% of cases, pericardial effusion was the first detected sign of cancer. Of patients diagnosed with malignant pericardial effusions, 86% died within 1 year of diagnosis, with nearly one-third dying within the first month.[ 8 ]\nIn a study of 31 patients with both cancer and pericardial effusions, malignant pericardial effusion accounted for 58% of the effusions, benign idiopathic pericarditis caused 32% of the cases, and radiation pericarditis caused 10% of cases.[ 11 , 12 ]"
+        },
+        {
+          "section": "Pathophysiology",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pericardial Effusion",
+            "Pathophysiology"
+          ],
+          "is_boilerplate": false,
+          "block_count": 42,
+          "text": "Malignant involvement of the pericardium is the most common reason for development of pericardial effusions, which result from blockage of venous and lymphatic circulation of pericardial fluid. Such blockage may be caused by primary malignancy of the pericardium, such as pericardial mesothelioma, or by tumors arising in the myocardium, including angiosarcoma, rhabdomyosarcoma, and malignant fibrous histiocytosis. Malignancies can also involve the pericardium through direct extension from carcinomas of the lung or esophagus, thymoma, or lymphoma.[ 9 ] Lymphatic or hematogenous metastasis to the pericardium occurs most commonly with the following cancers:\n- Carcinomas of the breast and lung.\n- Leukemia.\n- Lymphoma.\n- Melanoma.\nPrimary tumors of the pleura or pericardium have been termed primary intrathoracic malignant effusions.[ 13 ]\nNonmalignant causes of pericardial effusion include:[ 14 - 16 ]\n- Pericarditis.\n- Myocardial infarction.\n- Uremia.\n- Hypothyroidism.\n- Systemic lupus erythematosus.\n- Trauma.\n- Postsurgical pericardiotomy syndrome.\n- Intrapericardial hematomas.\nAIDS may also cause pericardial effusion with pericarditis.[ 17 ] Radiation therapy or chemotherapy drugs can cause pericarditis without metastatic involvement of the pericardium. Radiation pericarditis is usually associated with radiation doses to the cardiac window exceeding 30 Gy [ 10 ] and occurs most frequently in patients who have received mediastinal radiation for Hodgkin lymphoma or breast cancer.[ 10 ] Doxorubicin and cyclophosphamide have been associated with the development of acute pericarditis with effusions.[ 11 , 12 ] Other drugs that may cause acute pericarditis include procainamide, hydralazine, isoniazid, methysergide, phenytoin, and anticoagulants.\nPericardial tamponade results from progressive fluid accumulation in the pericardial sac, causing the following:[ 15 ]\n- Elevated intrapericardial pressure.\n- Diminished stroke volume.\n- Decreased cardiac output.\n- Progressive decrease in cardiac diastolic filling.\n- Hemodynamic compromise resulting in death if not treated.\nHemodynamic compromise occurs when the normal amount of pericardial fluid (approximately 15–50 mL) increases to 200 mL to 1,800 mL.[ 15 , 18 ] When fluid accumulates rapidly, as little as 250 mL of fluid can result in tamponade.[ 11 , 19 ]\nDyspnea occurs in 93% of patients with pericardial effusions.[ 6 ] Common symptoms include the following:\n- Cough.\n- Chest pain.\n- Orthopnea (discomfort with breathing while lying flat).\nOther symptoms of pericardial effusion include:\n- Upper abdominal distention or pressure caused by downward hepatic distention.\n- Hiccups resulting from pressure on the diaphragm.\n- Pleuritic pain caused by stretching of the pericardium (especially when lying flat).\nSigns of effusion include the following:\n- Kussmaul’s sign (increased distention of jugular veins with inspiration).\n- Friedreich's sign (rapid diastolic descent of the venous pulse).\n- Pulsus paradoxus (decrease of more than 10 mm Hg in the diastolic pressure on inspiration).\nPericardial friction rubs and fever are more commonly associated with nonmalignant causes of pericardial effusions than with malignant etiologies.[ 9 ]\nSigns of pericardial tamponade include:\n- Tachycardia.\n- Pulsus paradoxus.\n- Elevated jugular venous pressure.\n- Hypotension.\nHowever, some patients may develop tamponade without this clinical pattern.[ 4 ]"
+        },
+        {
+          "section": "Diagnosis",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pericardial Effusion",
+            "Diagnosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "A chest x-ray may show widening of the cardiac silhouette [ 7 ] if the amount of pericardial fluid collection exceeds 250 mL.[ 20 ] However, a chest x-ray cannot determine the degree of cardiac dysfunction or tamponade. Loculated pericardial effusions may not be apparent on standard posterior/anterior or lateral chest radiographic views.[ 15 ]\nTransthoracic echocardiography using apical, subxiphoid, and parasternal views can evaluate the presence, quantity, and quality of suspected pericardial effusions, as well as associated pericardial masses and inflammation. Moderate effusions on echocardiography show an echo-free space of 10 mm to 20 mm during diastole in M-mode or 2-dimensional echocardiography, whereas severe effusions have an echo-free space exceeding 20 mm.[ 21 , 22 ] Echocardiography can also determine right and left ventricular function and the possibility of right ventricular or atrial diastolic collapse.[ 7 ] Left ventricular collapse caused by large pleural effusions without clinically significant pericardial effusions has been reported.[ 4 , 16 , 23 , 24 ] However, transesophageal echocardiography may be useful for loculated effusions resulting from adhesions adjacent to the atria, where the thinness of the atrial wall may not be well visualized on transthoracic echocardiography.[ 4 , 16 ]\nEchocardiography in pericardial effusion with tamponade shows right atrial or right ventricular compression, or left atrial compression, decreased left ventricular dimension, and absence of collapse of the inferior vena cava on deep inspiration.[ 6 , 25 ] Echocardiography findings predictive of pericardial tamponade have been reported.[ 26 ] Right atrial collapse has a sensitivity of 55% to 60% and a specificity of 50% to 68%. Right ventricular diastolic collapse has a lower sensitivity of 38% to 48% but a higher specificity ranging from 84% to 100%. Because neither finding provides 100% sensitivity and specificity, patients who are clinically symptomatic should have a diagnostic pericardiocentesis, even in the absence of definitive findings on echocardiography.[ 4 , 27 ] One study found right atrial collapse present in only 42% of patients and right ventricular collapse in 62%.[ 27 ] Nonetheless, 80% of patients with malignant pericardial effusions had symptomatic relief following pericardiocentesis.\nThe most definitive test for the diagnosis of cardiac tamponade is equalization of diastolic pressures between all cardiac chambers on right-heart cardiac catheterization.[ 7 ] However, this invasive technique is not necessary to diagnose tamponade.\nAn electrocardiogram (ECG) in patients with pericardial effusions typically shows diminished QRS amplitude in all leads. A classic but uncommonly seen finding in large effusions with pericardial tamponade is variation in the amplitude of the P wave and QRS complex in successive beats on ECG, referred to as electrical alternans. This finding results from movement of the heart within the pericardial sac.[ 6 ] Electrocardiography is not sufficiently sensitive to diagnose pericardial effusions.\nPericardial fluid cytology has an accuracy of 80% to 90% in diagnosing malignant pericardial effusion.[ 6 , 28 ] Lymphomas and mesothelioma have higher false-negative detection rates on cytology evaluation.[ 6 , 29 ] Pericardial fluid cytology has a specificity of up to 100%, but sensitivity ranges from 57% to 100% [ 10 ][ Level of evidence: II ] in patients with a known cancer diagnosis and pericardial fluid. Because nonmalignant causes of pericardial effusion can occur in 42% to 62% of patients with cancer and pericardial fluid, a negative cytology examination of pericardial fluid does not help distinguish malignant from nonmalignant causes. The use of more than one cytological preparation (such as concentrating the sample via cytospin, using special markers, or analyzing DNA content) increases the yield over a single preparation. However, multiple samples using the same technique did not significantly increase the diagnostic yield in a retrospective study of 215 patients.[ 30 ] In a survey of 80 samples, measurement of DNA index via flow cytometry of pericardial fluid has a sensitivity of 94.8% and a specificity of 100%, compared with routine cytology, which has a sensitivity of 98.5% and a specificity of 92.3%.[ 31 ][ Level of evidence: II ]\nPericardial biopsy may increase the sensitivity of diagnosing pericardial effusions of malignant origin. However, because pericardial effusions usually occur in advanced disease and portend a shorter survival than other sites of metastatic involvement, the relief of symptoms rather than diagnosis should be the overriding factor in determining the extent of the evaluation and the course of treatment. Two studies failed to show a difference in survival in cancer patients with pericardial effusion dependent on the results of fluid cytology.[ 10 , 32 ]\nIn a study of patients with stage I esophageal cancer who underwent radiation and chemotherapy, risk factors for developing pericardial effusion included advanced age, higher pericardial volume 30 (≥41.6 percentage of cardiac volume receiving more than 30 Gy), high body mass index, and diabetes mellitus.[ 33 ]"
+        },
+        {
+          "section": "Treatment",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pericardial Effusion",
+            "Treatment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 31,
+          "text": "No large controlled, randomized, prospective clinical trials demonstrate the optimal management of malignant pericardial effusions or tamponade. Treatment should therefore be individualized to maximize symptom relief with minimal impact on quality of life. Treatment options include the following:[ 34 ][ Level of evidence: III ]\n- Percutaneous pericardiocentesis.\n- Percutaneous balloon pericardiotomy.\n- Pericardial sclerosis.\n- Subxiphoid pericardial window.\n- Pericardiectomy.\n- Pericardiotomy by thoracotomy or video-assisted thoracoscopy.\nIn choosing a treatment, consider the following:[ 34 ][ Level of evidence: III ]\n- Relief of tamponade.\n- Minimal invasiveness.\n- Cost.\n- Morbidity.\n- Safety.\n- Shortened hospitalization for patients with advanced disease.\n- The patient's prognosis.\nLarge, symptomatic, malignant pericardial effusions are managed by draining the fluid, unless the goals of therapy dictate a less invasive, conservative approach, with concomitant shorter survival balanced against quality-of-life concerns. If treatment is indicated for tamponade, percutaneous subxiphoid pericardiocentesis is the treatment of choice in the acute setting. Echocardiography is recommended for catheter guidance.[ 6 , 35 ] Catheter drainage is recommended for large effusions to prevent rapid reaccumulation of fluid and subsequent tamponade and for the anticipated survival of the patient.\nRecurrent pericardial effusion occurs in 21% [ 36 ] to 50% [ 34 , 35 ] of patients following pericardiocentesis. Limited case series suggest rates of pericardial fluid reaccumulation at 30 days ranging from 5% to 33% after pericardial drainage followed by intrapericardial treatment with sclerosing agents or phosphorus-colloid, compared with more than 50% for patients treated with pericardial drainage alone.[ 34 , 35 ]\nProlonged catheter drainage can be effective in preventing fluid reaccumulation; however, the mechanism is unclear. One series reported recurrence in 30% of patients at a median time of 39 days. In another series, the reported recurrence rate of the pericardial effusion was 13% by 1 year of follow-up.[ 37 , 38 ]\nThe prolonged catheter drainage could be left in for several days.[ 38 , 39 ] The catheter should be left in situ until the drainage is minimal (<25–50 mL in a 24-hour period) to none. In one series of 171 patients with malignant pericardial effusion who received echocardiography-guided pericardiocentesis followed by extended catheter drainage, the average time to very little catheter output (<50 mL in 24 hours) was about 3 days.[ 39 ] Other treatment options to prevent reaccumulation include intrapericardial sclerosis to obliterate the space within the pericardial sac or pericardiotomy to increase the quantity of fluid drained from the pericardium.\nThe most effective sclerosing agent for malignant pericardial effusions had been tetracycline, with success rates of up to 80%.[ 6 ] However, this agent is no longer available as an intravenous drug in the United States. Alternative sclerosants that have been used include the following:\n- Doxycycline.[ 40 ]\n- Bleomycin, thiotepa.[ 35 ];[ 41 ][ Level of evidence: II ]\n- Carboplatin.[ 42 ][ Level of evidence: II ]\n- Mitoxantrone.[ 43 ]\n- Docetaxel.\n- Chromic phosphate P 32.\nMost patients may require three or more treatments to achieve adequate sclerosis.[ 6 ] Significant pain is reported by 16% of patients undergoing pericardial sclerosis.[ 6 ] The side effects of various sclerosing agents (e.g., chest pain and arrhythmias) must be considered. Of patients undergoing pericardial sclerotherapy, 70% to 80% have no fluid reaccumulation within 30 days of the procedure.[ 35 ]\nA retrospective comparison of pericardiocentesis with sclerotherapy to open surgical drainage in 60 patients showed similar rates of treatment complications, incidence of recurrent effusion, and survival following treatment in both groups.[ 44 ] A retrospective review of 59 patients found similar success rates, whether patients were managed with surgical subxiphoid pericardial window or by pericardiocentesis with or without sclerosis.[ 34 ] Patients who underwent pericardiocentesis followed by pericardial window had the longest survival, with a median of 6 months. However, selection bias toward patients with better performance status undergoing more aggressive surgical techniques may contribute this reported survival advantage. The surgical procedure group had significantly higher average costs of $4,830 compared with $1,625 for patients managed with pericardiocentesis.[ 34 ]\nOther studies have reported mortality, recurrence, and survival rates for sclerosis that are similar to or slightly lower than those for subxiphoid window or video-assisted thoracoscopy.[ 44 , 45 ];[ 46 ][ Level of evidence: II ][ 34 ][ Level of evidence: III ] Pericardiocentesis with or without sclerotherapy should be considered instead of more invasive procedures in patients with advanced disease or poor functional status.[ 47 ]\nTranscutaneous balloon pericardiostomy is another technique that is less invasive than open surgical approaches, which include subxiphoid pericardial windows, thoracotomy with pericardiopleural window formation,[ 48 ] and thoracotomy with pericardectomy.\nVideo pericardioscopy has a diagnostic sensitivity of 97% for detecting malignant effusions.[ 49 ] Pericardioscopy also is useful for drainage of loculated effusions.[ 50 ][ Level of evidence: II ] Video-assisted thoracoscopy is preferable to more invasive surgical management and should be considered for patients requiring repeated pericardiocentesis to control symptomatic effusions.[ 47 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pericardial Effusion",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Malignant Pericardial Effusion",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 50,
+          "text": "- Lam KY, Dickens P, Chan AC: Tumors of the heart. A 20-year experience with a review of 12,485 consecutive autopsies. Arch Pathol Lab Med 117 (10): 1027-31, 1993. [PUBMED Abstract]\n- Silvestri F, Bussani R, Pavletic N, et al.: Metastases of the heart and pericardium. G Ital Cardiol 27 (12): 1252-5, 1997. [PUBMED Abstract]\n- Galli M, Politi A, Jemoli R, et al.: Transcatheter management of cardiac and pericardial metastatic involvement. G Ital Cardiol 28 (6): 687-90, 1998. [PUBMED Abstract]\n- Shepherd FA: Malignant pericardial effusion. Curr Opin Oncol 9 (2): 170-4, 1997. [PUBMED Abstract]\n- Bisel HF, Wroblewski F, Ladue JS: Incidence and clinical manifestations of cardiac metastases. J Am Med Assoc 153 (8): 712-5, 1953. [PUBMED Abstract]\n- Fiocco M, Krasna MJ: The management of malignant pleural and pericardial effusions. Hematol Oncol Clin North Am 11 (2): 253-65, 1997. [PUBMED Abstract]\n- DeCamp MM, Mentzer SJ, Swanson SJ, et al.: Malignant effusive disease of the pleura and pericardium. Chest 112 (4 Suppl): 291S-295S, 1997. [PUBMED Abstract]\n- García-Riego A, Cuiñas C, Vilanova JJ: Malignant pericardial effusion. Acta Cytol 45 (4): 561-6, 2001 Jul-Aug. [PUBMED Abstract]\n- Warren WH: Malignancies involving the pericardium. Semin Thorac Cardiovasc Surg 12 (2): 119-29, 2000. [PUBMED Abstract]\n- Wang PC, Yang KY, Chao JY, et al.: Prognostic role of pericardial fluid cytology in cardiac tamponade associated with non-small cell lung cancer. Chest 118 (3): 744-9, 2000. [PUBMED Abstract]\n- Chiles C, Woodard PK, Gutierrez FR, et al.: Metastatic involvement of the heart and pericardium: CT and MR imaging. Radiographics 21 (2): 439-49, 2001 Mar-Apr. [PUBMED Abstract]\n- Posner MR, Cohen GI, Skarin AT: Pericardial disease in patients with cancer. The differentiation of malignant from idiopathic and radiation-induced pericarditis. Am J Med 71 (3): 407-13, 1981. [PUBMED Abstract]\n- Ang P, Tan EH, Leong SS, et al.: Primary intrathoracic malignant effusion: a descriptive study. Chest 120 (1): 50-4, 2001. [PUBMED Abstract]\n- Guberman BA, Fowler NO, Engel PJ, et al.: Cardiac tamponade in medical patients. Circulation 64 (3): 633-40, 1981. [PUBMED Abstract]\n- Beauchamp KA: Pericardial tamponade: an oncologic emergency. Clin J Oncol Nurs 2 (3): 85-95, 1998. [PUBMED Abstract]\n- D'Cruz IA, Kanuru N: Echocardiography of serous effusions adjacent to the heart. Echocardiography 18 (5): 445-56, 2001. [PUBMED Abstract]\n- White CS: MR evaluation of the pericardium and cardiac malignancies. Magn Reson Imaging Clin N Am 4 (2): 237-51, 1996. [PUBMED Abstract]\n- Celermajer DS, Boyer MJ, Bailey BP, et al.: Pericardiocentesis for symptomatic malignant pericardial effusion: a study of 36 patients. Med J Aust 154 (1): 19-22, 1991. [PUBMED Abstract]\n- Hancock EW: Neoplastic pericardial disease. Cardiol Clin 8 (4): 673-82, 1990. [PUBMED Abstract]\n- Mercé J, Sagristà-Sauleda J, Permanyer-Miralda G, et al.: Correlation between clinical and Doppler echocardiographic findings in patients with moderate and large pericardial effusion: implications for the diagnosis of cardiac tamponade. Am Heart J 138 (4 Pt 1): 759-64, 1999. [PUBMED Abstract]\n- Weitzman LB, Tinker WP, Kronzon I, et al.: The incidence and natural history of pericardial effusion after cardiac surgery--an echocardiographic study. Circulation 69 (3): 506-11, 1984. [PUBMED Abstract]\n- Sagristà-Sauleda J, Mercé J, Permanyer-Miralda G, et al.: Clinical clues to the causes of large pericardial effusions. Am J Med 109 (2): 95-101, 2000. [PUBMED Abstract]\n- Kisanuki A, Shono H, Kiyonaga K, et al.: Two-dimensional echocardiographic demonstration of left ventricular diastolic collapse due to compression by pleural effusion. Am Heart J 122 (4 Pt 1): 1173-5, 1991. [PUBMED Abstract]\n- Kaplan LM, Epstein SK, Schwartz SL, et al.: Clinical, echocardiographic, and hemodynamic evidence of cardiac tamponade caused by large pleural effusions. Am J Respir Crit Care Med 151 (3 Pt 1): 904-8, 1995. [PUBMED Abstract]\n- Himelman RB, Kircher B, Rockey DC, et al.: Inferior vena cava plethora with blunted respiratory response: a sensitive echocardiographic sign of cardiac tamponade. J Am Coll Cardiol 12 (6): 1470-7, 1988. [PUBMED Abstract]\n- Chong HH, Plotnick GD: Pericardial effusion and tamponade: evaluation, imaging modalities, and management. Compr Ther 21 (7): 378-85, 1995. [PUBMED Abstract]\n- Cooper JP, Oliver RM, Currie P, et al.: How do the clinical findings in patients with pericardial effusions influence the success of aspiration? Br Heart J 73 (4): 351-4, 1995. [PUBMED Abstract]\n- Meyers DG, Meyers RE, Prendergast TW: The usefulness of diagnostic tests on pericardial fluid. Chest 111 (5): 1213-21, 1997. [PUBMED Abstract]\n- Thurber DL, Edwards JE, Achor RW: Secondary malignant tumors of the pericardium. Circulation 26: 228-41, 1962. [PUBMED Abstract]\n- Garcia LW, Ducatman BS, Wang HH: The value of multiple fluid specimens in the cytological diagnosis of malignancy. Mod Pathol 7 (6): 665-8, 1994. [PUBMED Abstract]\n- Decker D, Stratmann H, Springer W, et al.: Benign and malignant cells in effusions: diagnostic value of image DNA cytometry in comparison to cytological analysis. Pathol Res Pract 194 (11): 791-5, 1998. [PUBMED Abstract]\n- Okamoto H, Shinkai T, Yamakido M, et al.: Cardiac tamponade caused by primary lung cancer and the management of pericardial effusion. Cancer 71 (1): 93-8, 1993. [PUBMED Abstract]\n- Tamari K, Isohashi F, Akino Y, et al.: Risk factors for pericardial effusion in patients with stage I esophageal cancer treated with chemoradiotherapy. Anticancer Res 34 (12): 7389-93, 2014. [PUBMED Abstract]\n- Anderson TM, Ray CW, Nwogu CE, et al.: Pericardial catheter sclerosis versus surgical procedures for pericardial effusions in cancer patients. J Cardiovasc Surg (Torino) 42 (3): 415-9, 2001. [PUBMED Abstract]\n- Martinoni A, Cipolla CM, Civelli M, et al.: Intrapericardial treatment of neoplastic pericardial effusions. Herz 25 (8): 787-93, 2000. [PUBMED Abstract]\n- Tsang TS, Seward JB, Barnes ME, et al.: Outcomes of primary and secondary treatment of pericardial effusion in patients with malignancy. Mayo Clin Proc 75 (3): 248-53, 2000. [PUBMED Abstract]\n- Allen KB, Faber LP, Warren WH, et al.: Pericardial effusion: subxiphoid pericardiostomy versus percutaneous catheter drainage. Ann Thorac Surg 67 (2): 437-40, 1999. [PUBMED Abstract]\n- Patel N, Rafique AM, Eshaghian S, et al.: Retrospective comparison of outcomes, diagnostic value, and complications of percutaneous prolonged drainage versus surgical pericardiotomy of pericardial effusion associated with malignancy. Am J Cardiol 112 (8): 1235-9, 2013. [PUBMED Abstract]\n- Lekhakul A, Assawakawintip C, Fenstad ER, et al.: Safety and Outcome of Percutaneous Drainage of Pericardial Effusions in Patients with Cancer. Am J Cardiol 122 (6): 1091-1094, 2018. [PUBMED Abstract]\n- Vaitkus PT, Herrmann HC, LeWinter MM: Treatment of malignant pericardial effusion. JAMA 272 (1): 59-64, 1994. [PUBMED Abstract]\n- Colleoni M, Martinelli G, Beretta F, et al.: Intracavitary chemotherapy with thiotepa in malignant pericardial effusions: an active and well-tolerated regimen. J Clin Oncol 16 (7): 2371-6, 1998. [PUBMED Abstract]\n- Moriya T, Takiguchi Y, Tabeta H, et al.: Controlling malignant pericardial effusion by intrapericardial carboplatin administration in patients with primary non-small-cell lung cancer. Br J Cancer 83 (7): 858-62, 2000. [PUBMED Abstract]\n- Norum J, Lunde P, Aasebø U, et al.: Mitoxantrone in malignant pericardial effusion. J Chemother 10 (5): 399-404, 1998. [PUBMED Abstract]\n- Girardi LN, Ginsberg RJ, Burt ME: Pericardiocentesis and intrapericardial sclerosis: effective therapy for malignant pericardial effusions. Ann Thorac Surg 64 (5): 1422-7; discussion 1427-8, 1997. [PUBMED Abstract]\n- Maher EA, Shepherd FA, Todd TJ: Pericardial sclerosis as the primary management of malignant pericardial effusion and cardiac tamponade. J Thorac Cardiovasc Surg 112 (3): 637-43, 1996. [PUBMED Abstract]\n- Liu G, Crump M, Goss PE, et al.: Prospective comparison of the sclerosing agents doxycycline and bleomycin for the primary management of malignant pericardial effusion and cardiac tamponade. J Clin Oncol 14 (12): 3141-7, 1996. [PUBMED Abstract]\n- Lin JC, Hazelrigg SR, Landreneau RJ: Video-assisted thoracic surgery for diseases within the mediastinum. Surg Clin North Am 80 (5): 1511-33, 2000. [PUBMED Abstract]\n- Olson JE, Ryan MB, Blumenstock DA: Eleven years' experience with pericardial-peritoneal window in the management of malignant and benign pericardial effusions. Ann Surg Oncol 2 (2): 165-9, 1995. [PUBMED Abstract]\n- Porte HL, Janecki-Delebecq TJ, Finzi L, et al.: Pericardoscopy for primary management of pericardial effusion in cancer patients. Eur J Cardiothorac Surg 16 (3): 287-91, 1999. [PUBMED Abstract]\n- Millaire A, Wurtz A, de Groote P, et al.: Malignant pericardial effusions: usefulness of pericardioscopy. Am Heart J 124 (4): 1030-4, 1992. [PUBMED Abstract]"
+        },
+        {
+          "section": "Overview",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Superior vena cava syndrome (SVCS) is an array of symptoms caused by the impairment of blood flow through the superior vena cava (SVC) to the right atrium. Symptoms that suggest this syndrome include the following:[ 1 ]\n- Dyspnea.\n- Coughing.\n- Swelling of the face, neck, upper trunk, and extremities.\nIn rare instances, patients may complain of hoarseness, chest pain, dysphagia, and hemoptysis.\nPhysical signs that may be noted on presentation include the following:\n- Neck vein distention.\n- Thoracic vein distention.\n- Edema of the face or upper extremities.\n- Plethora.\n- Tachypnea.\nRarely, cyanosis, Horner syndrome, and a paralyzed vocal cord may also be present.[ 1 ]\nSVCS is usually a sign of locally advanced bronchogenic carcinoma. Survival depends on the status of the patient’s disease. When small cell bronchogenic carcinoma is treated with chemotherapy, the median survival times with or without SVCS are almost identical (42 weeks or 40 weeks, respectively). The 24-month survival rate is 9% in patients without SVCS and 3% in those with the syndrome. When the malignancy is treated with radiation therapy, 46% of patients who have non-small cell lung cancer experience relief of symptoms, compared with 62% of patients who have small cell bronchogenic carcinoma. The 2-year survival rate of 5% is almost the same for both groups.[ 2 ]\nMost patients with non-Hodgkin lymphoma and SVCS respond to appropriate chemotherapy or to combined-modality regimens."
+        },
+        {
+          "section": "Etiology and Physiology",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Etiology and Physiology"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Since William Hunter first described SVCS in 1757, the spectrum of underlying conditions associated with it has shifted from tuberculosis and syphilitic aneurysms of the ascending aorta to malignant disorders. Almost 95% of SVCS cases described in published modern series result from cancer. The most common cause is small cell bronchogenic carcinoma, followed by squamous cell carcinoma of the lung, adenocarcinoma of the lung, non-Hodgkin lymphoma, and large cell carcinoma of the lung.[ 3 ] Nonmalignant causes of SVCS in cancer patients include thrombosis that is associated with intracaval catheters or pacemaker wires.[ 4 ] A rare cause of SVCS is fibrosing mediastinitis, either idiopathic or associated with histoplasmosis.[ 5 ] Additional rare causes of SVCS include metastatic germ cell neoplasms, metastatic breast cancer, colon cancer, Kaposi sarcoma, esophageal carcinoma, fibrous mesothelioma, Behçet syndrome, thymoma, substernal thyroid goiter, Hodgkin lymphoma, and sarcoidosis.[ 6 ]\nKnowledge of the anatomy of the SVC and its relationship to the surrounding lymph nodes is essential to understand development of the syndrome. The SVC is formed by the junction of the left and right brachiocephalic veins in the mid third of the mediastinum. The SVC extends caudally for 6 to 8 cm, coursing anterior to the right mainstem bronchus and terminating in the superior right atrium, and extends anteriorly to the right mainstem bronchus. The SVC is joined posteriorly by the azygos vein as it loops over the right mainstem bronchus and lies posterior to and to the right of the ascending aorta. The mediastinal parietal pleura is lateral to the SVC, creating a confined space, and the SVC is adjacent to the right paratracheal, azygous, right hilar, and subcarinal lymph node groups. The vessel itself is thin-walled, and the blood flowing in it is under low pressure. Thus, when the nodes or ascending aorta enlarge, the SVC is compressed, blood flow slows, and complete occlusion may occur.\nThe severity of SVCS depends on the speed of onset and location of the obstruction. The more rapid the onset, the more severe the symptoms because the collateral veins do not have time to distend to accommodate an increased blood flow.[ 7 ]\n- If the obstruction is above the entry of the azygos vein, the syndrome is less pronounced because the azygous venous system can readily distend to accommodate the shunted blood with less venous pressure developing in the head, arms, and upper thorax.\n- If the obstruction is below the entry of the azygos vein, more florid symptoms and signs are seen because the blood must be returned to the heart via the upper abdominal veins and the inferior vena cava, which requires higher venous pressure.\nOne study suggested that the general recruitment of venous collaterals over time may lead to remission of the syndrome, although the SVC remains obstructed.[ 8 ]"
+        },
+        {
+          "section": "Assessment and Diagnosis",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Assessment and Diagnosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "Once SVCS is recognized, prompt clinical attention is important. A diagnosis should be established before therapy begins because:[ 3 ]\n- 75% of patients have symptoms and signs for longer than 1 week before seeking medical attention.\n- Cancer patients diagnosed with SVCS do not die of the syndrome itself but rather their underlying disease.\n- 3% to 5% of the patients diagnosed with SVCS do not have cancer.\nIn the absence of tracheal obstruction, SVCS is unlikely to be a life-threatening oncologic emergency, and treatment before definitive diagnosis is not justified.\nThe initial evaluation of the patient should include a chest x-ray to look for mediastinal masses and associated findings, such as pleural effusion, lobar collapse, or cardiomegaly. Computed tomography (CT) scanning of the thorax yields the most useful diagnostic information and can define the anatomy of the involved mediastinal nodes. Venous patency and the presence of thrombi are assessed using contrast and rapid scanning techniques.[ 9 ] Depending on local expertise, contrast or nuclear venography, magnetic resonance imaging, and ultrasonography may be valuable in assessing the site and nature of the obstruction.\nIf bronchogenic carcinoma is suspected, a sputum specimen should be obtained. If the specimen is negative, a biopsy specimen should be taken from the most accessible site that is clinically involved with disease. The biopsy approach depends on the working diagnosis, location of the tumor, physiological status of the patient, and expertise at the facility. It may include:[ 10 ]\n- Bronchoscopy.\n- Biopsy of palpable cervical or supraclavicular lymph nodes.\n- Needle biopsy of a lung mass or mediastinal nodes using either CT or ultrasonography guidance.\n- Mediastinoscopy.\n- Mediastinotomy.\n- Median sternotomy.\n- Video-assisted thoracoscopy.\n- Conventional thoracotomy.\nThe biopsy findings will help the clinician plan appropriate treatment."
+        },
+        {
+          "section": "Treatment Options for SVCS",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Treatment Options for SVCS"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The treatment of SVCS depends on the following:\n- The etiology of the obstruction.\n- The severity of symptoms.\n- The patient's prognosis.\n- Patient preferences and goals for therapy.\nRadiation therapy or chemotherapy should be withheld until the etiology of the obstruction is clear. The treatments discussed here focus on SVC obstruction caused by a malignant tumor. Because the treatment of malignant obstruction may depend on tumor histology, a histological diagnosis should be made before starting treatment. Unless there is airway obstruction or cerebral edema, treatment may be delayed until after an assessment, with no negative effect on outcome.[ 1 , 11 - 15 ]"
+        },
+        {
+          "section": "Medical management",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Treatment Options for SVCS",
+            "Medical management"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A patient with sufficient collateral blood flow and minimal symptoms may not need treatment. If the lesion is above the azygous vein or if the onset of SVC occlusion is slow enough to allow sufficient collateral circulation, the symptoms and signs may stabilize, and further therapy may not be needed. Short-term palliation of a symptomatic patient who does not want aggressive treatment may be achieved by elevating the head and using corticosteroids and diuresis. Although no definitive studies prove the effectiveness of steroids, they may be useful to treat respiratory compromise. Diuretics may relieve edema but can cause systemic complications, such as dehydration.[ 9 , 16 ]"
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Treatment Options for SVCS",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If the obstruction of the SVC is caused by a tumor that is not sensitive to chemotherapy, radiation therapy should be given. Treatment with larger fractions of radiation is thought to help. However, one study shows no obvious need for large radiation fraction sizes for the first few radiation treatments as was previously believed.[ 17 ] Many fractionation schemes have been used, with doses ranging from 30 Gy in 10 fractions to 50 Gy in 25 fractions. Relief of symptoms is reported to be 62% to 80% in patients with small cell lung cancer and about 46% in patients with non-small cell lung cancer.[ 2 , 18 ] In one study, more than 90% of the patients achieved a partial or complete response with a 3-week regimen of 8 Gy given once a week for a total dose of 24 Gy.[ 19 ]"
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Treatment Options for SVCS",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemotherapy is the treatment of choice for sensitive tumors such as lymphoma or small cell lung cancer. SVCS does not appear to be an independent prognostic factor, and its presence should not change the treatment approach. Rapid initiation of chemotherapy can result in complete and partial response rates of the SVCS of more than 80% in patients with small cell lung cancer.[ 2 , 18 ]"
+        },
+        {
+          "section": "Thrombolysis",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Treatment Options for SVCS",
+            "Thrombolysis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "It has been suggested that SVCS arises when a thrombus forms in a partially occluded vein. In patients with a documented thrombus in the SVC, treatment may include thrombectomy, with or without tissue plasminogen activator or other thrombolytic agents, such as streptokinase or urokinase.[ 1 ]"
+        },
+        {
+          "section": "Stent placement",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Treatment Options for SVCS",
+            "Stent placement"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Numerous small studies have reported the use of an intravascular expandable stent to reopen the occluded SVC; however, no prospectively designed comparative studies have been published.[ 20 ] The reported response rates have been about 90% or greater.[ 21 ][ Level of evidence: II ] There is no agreement on the need for anticoagulant therapy after stent placement. In one series that used anticoagulant therapy as part of the treatment protocol, there were reports of reocclusion after this therapy was stopped.[ 22 ][ Level of evidence: II ] However, in another study, 17 patients with cancer who were treated with stents and did not receive anticoagulant therapy had no occlusions.[ 23 ][ Level of evidence: II ]"
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Treatment Options for SVCS",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Surgical bypass of an obstructed SVC is more appropriate for patients with a benign obstruction than with a malignant obstruction,[ 24 ] although surgical bypass has also been used for patients with malignant obstructions."
+        },
+        {
+          "section": "Psychosocial Considerations",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Psychosocial Considerations"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Patients and family members are often frightened and anxious about the symptoms of SVCS, particularly swelling, dysphagia, coughing, and hoarseness. Patients and family members need information about the cause of the symptoms and short-term measures for palliation, especially during the diagnostic period. When aggressive treatment is declined because of the terminal nature of the underlying disease, symptom management can be offered to patients and family members.\nBecause most adult patients who develop SVCS have lung cancer, the treatment and psychological support approaches for SVCS should take into account the patient’s prognosis and mental condition, goals of care, and other symptoms caused by the malignancy.[ 25 ]"
+        },
+        {
+          "section": "Pediatric Considerations",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Pediatric Considerations"
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "As described in this summary, SVCS refers to the symptoms associated with the compression or obstruction of the SVC; the compression of the trachea is termed superior mediastinal syndrome (SMS). Because SMS and the resulting respiratory compromise frequently occur in children with SVCS, the two syndromes have become almost synonymous in pediatric practice.[ 26 , 27 ] In adults, the trachea and the right mainstem bronchus are relatively rigid structures compared with the vena cava, but in children, these structures are more susceptible to compression. In addition, the relatively smaller intraluminal diameters of a child’s trachea and bronchus can tolerate little edema before respiratory symptoms occur. Because of this accompanying respiratory component, SVCS in children differs from the adult syndrome and is a serious medical emergency.\nThe most common symptoms of SVCS in children are similar to those in adults and include the following:[ 26 ]\n- Coughing.\n- Hoarseness.\n- Dyspnea.\n- Orthopnea.\n- Chest pain.\nLess common but more serious symptoms include the following:\n- Syncope.\n- Anxiety.\n- Confusion.\n- Lethargy.\n- Headache.\n- Distorted vision.\n- A sense of fullness in the ears.\nSVCS is rare in children, appearing at presentation in 12% of pediatric patients with malignant mediastinal tumors.[ 28 , 29 ] The etiology, diagnosis, and treatment of SVCS in children differ from those in adults. The most frequent cause of SVCS in adults is bronchogenic carcinoma;[ 3 ] in children, it is non-Hodgkin lymphoma. As in adults, a frequent nonmalignant cause is thrombosis from catheterization for venous access.[ 26 ]\nA physical examination, chest radiograph, and medical history are usually sufficient to diagnose SVCS. If lymphomas or other malignant diseases are suspected, a tissue sample may aid diagnosis. However, the procedure to obtain the specimen may involve significant risk and may not be clinically feasible. Children with SVCS have a poor tolerance for the necessary general anesthesia because the accompanying cardiovascular and pulmonary changes aggravate the SVCS, often making intubation impossible. Also, extubation may be difficult or impossible, requiring prolonged airway provision (intubation). A CT scan of the chest to determine tracheal size, upright and supine echocardiography, and a flow volume loop may help evaluate anesthetic risk. Because anesthesia use is a serious risk, the diagnosis should be made with the least invasive means possible.[ 30 ] Published reports suggest a stepwise approach.[ 26 ]\nWhen a malignant mass causes SVCS, the situation may be a medical emergency with no opportunity to establish a tissue diagnosis. In these cases, the most appropriate course may be to initiate empiric therapy before biopsy. The traditional empiric therapy is radiation therapy, with the daily dose governed by the presumed radiosensitivity of the tumor. After radiation therapy, respiratory deterioration from the apparent tracheal swelling may occur. This swelling occurs because narrow lumens in children cannot accommodate edema and because of the greater degree of edema at onset, the result of rapid tumor growth in children. In these situations, a course of prednisone at 10 mg/m 2 of body surface area 4 times per day may be necessary.[ 26 ]\nIn addition to radiation, empiric therapy for SVCS has included chemotherapeutic agents incorporating steroids, cyclophosphamide, or both in combination with an anthracycline and vincristine.[ 26 ] If the tumor fails to respond, it may be a benign lesion.\nIf surgery becomes necessary, it should be performed with the patient in the semi-Fowler’s position, allowing the surgeon the ability to rapidly change the patient's position to lateral or prone. Cardiopulmonary bypass facilities and a rigid bronchoscope should be available in a standby capacity.[ 30 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Superior Vena Cava Syndrome",
+            "Pediatric Considerations",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 30,
+          "text": "- Gauden SJ: Superior vena cava syndrome induced by bronchogenic carcinoma: is this an oncological emergency? Australas Radiol 37 (4): 363-6, 1993. [PUBMED Abstract]\n- Urban T, Lebeau B, Chastang C, et al.: Superior vena cava syndrome in small-cell lung cancer. Arch Intern Med 153 (3): 384-7, 1993. [PUBMED Abstract]\n- Yellin A, Rosen A, Reichert N, et al.: Superior vena cava syndrome. The myth--the facts. Am Rev Respir Dis 141 (5 Pt 1): 1114-8, 1990. [PUBMED Abstract]\n- Gray BH, Olin JW, Graor RA, et al.: Safety and efficacy of thrombolytic therapy for superior vena cava syndrome. Chest 99 (1): 54-9, 1991. [PUBMED Abstract]\n- Goodwin RA, Nickell JA, Des Prez RM: Mediastinal fibrosis complicating healed primary histoplasmosis and tuberculosis. Medicine (Baltimore) 51 (3): 227-46, 1972. [PUBMED Abstract]\n- Yahalom J: Oncologic emergencies: superior vena cava syndrome. In: DeVita VT, Hellman S, Rosenberg SA, eds.: Cancer: Principles and Practice of Oncology. JB Lippincott Company, 4th Edition, 1993, pp 2111-2118.\n- Netter FH: Superior vena cava syndrome. In: Netter FH: The CIBA Collection of Medical Illustrations: Respiratory System. CIBA Pharmaceutical Company, 1980, pp 164.\n- Ahmann FR: A reassessment of the clinical implications of the superior vena caval syndrome. J Clin Oncol 2 (8): 961-9, 1984. [PUBMED Abstract]\n- Abner A: Approach to the patient who presents with superior vena cava obstruction. Chest 103 (4 Suppl): 394S-397S, 1993. [PUBMED Abstract]\n- Hsu JW, Chiang CD, Hsu WH, et al.: Superior vena cava syndrome in lung cancer: an analysis of 54 cases. Gaoxiong Yi Xue Ke Xue Za Zhi 11 (10): 568-73, 1995. [PUBMED Abstract]\n- Chen JC, Bongard F, Klein SR: A contemporary perspective on superior vena cava syndrome. Am J Surg 160 (2): 207-11, 1990. [PUBMED Abstract]\n- Stanford W, Doty DB: The role of venography and surgery in the management of patients with superior vena cava obstruction. Ann Thorac Surg 41 (2): 158-63, 1986. [PUBMED Abstract]\n- Salsali M, Cliffton EE: Superior vena caval obstruction with lung cancer. Ann Thorac Surg 6 (5): 437-42, 1968. [PUBMED Abstract]\n- Schraufnagel DE, Hill R, Leech JA, et al.: Superior vena caval obstruction. Is it a medical emergency? Am J Med 70 (6): 1169-74, 1981. [PUBMED Abstract]\n- Shimm DS, Logue GL, Rigsby LC: Evaluating the superior vena cava syndrome. JAMA 245 (9): 951-3, 1981. [PUBMED Abstract]\n- Baker GL, Barnes HJ: Superior vena cava syndrome: etiology, diagnosis, and treatment. Am J Crit Care 1 (1): 54-64, 1992. [PUBMED Abstract]\n- Chan RH, Dar AR, Yu E, et al.: Superior vena cava obstruction in small-cell lung cancer. Int J Radiat Oncol Biol Phys 38 (3): 513-20, 1997. [PUBMED Abstract]\n- Würschmidt F, Bünemann H, Heilmann HP: Small cell lung cancer with and without superior vena cava syndrome: a multivariate analysis of prognostic factors in 408 cases. Int J Radiat Oncol Biol Phys 33 (1): 77-82, 1995. [PUBMED Abstract]\n- Rodrigues CI, Njo KH, Karim AB: Hypofractionated radiation therapy in the treatment of superior vena cava syndrome. Lung Cancer 10 (3-4): 221-8, 1993. [PUBMED Abstract]\n- Tanigawa N, Sawada S, Mishima K, et al.: Clinical outcome of stenting in superior vena cava syndrome associated with malignant tumors. Comparison with conventional treatment. Acta Radiol 39 (6): 669-74, 1998. [PUBMED Abstract]\n- Nicholson AA, Ettles DF, Arnold A, et al.: Treatment of malignant superior vena cava obstruction: metal stents or radiation therapy. J Vasc Interv Radiol 8 (5): 781-8, 1997 Sep-Oct. [PUBMED Abstract]\n- Dyet JF, Nicholson AA, Cook AM: The use of the Wallstent endovascular prosthesis in the treatment of malignant obstruction of the superior vena cava. Clin Radiol 48 (6): 381-5, 1993. [PUBMED Abstract]\n- Irving JD, Dondelinger RF, Reidy JF, et al.: Gianturco self-expanding stents: clinical experience in the vena cava and large veins. Cardiovasc Intervent Radiol 15 (5): 328-33, 1992 Sep-Oct. [PUBMED Abstract]\n- Doty DB: Bypass of superior vena cava: Six years' experience with spiral vein graft for obstruction of superior vena cava due to benign and malignant disease. J Thorac Cardiovasc Surg 83 (3): 326-38, 1982. [PUBMED Abstract]\n- Holland JC: Lung Cancer. In: Holland JC, Rowland JH, eds.: Handbook of Psychooncology: Psychological Care of the Patient With Cancer. Oxford University Press, 1989, pp 180-187.\n- Lange B, O'Neill JA, D'Angio G, et al.: Oncologic emergencies. In: Pizzo PA, Poplack DG: Principles and Practice of Pediatric Oncology. 2nd ed. JB Lippincott, 1993, pp 951-972.\n- Ingram L, Rivera GK, Shapiro DN: Superior vena cava syndrome associated with childhood malignancy: analysis of 24 cases. Med Pediatr Oncol 18 (6): 476-81, 1990. [PUBMED Abstract]\n- Pokorny WJ, Sherman JO: Mediastinal masses in infants and children. J Thorac Cardiovasc Surg 68 (6): 869-75, 1974. [PUBMED Abstract]\n- King RM, Telander RL, Smithson WA, et al.: Primary mediastinal tumors in children. J Pediatr Surg 17 (5): 512-20, 1982. [PUBMED Abstract]\n- Neuman GG, Weingarten AE, Abramowitz RM, et al.: The anesthetic management of the patient with an anterior mediastinal mass. Anesthesiology 60 (2): 144-7, 1984. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (02/20/2025)",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (02/20/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Supportive and Palliative Care Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the pathophysiology and treatment of cardiopulmonary syndromes, including dyspnea, malignant pleural effusion, malignant pericardial effusion, and superior vena cava syndrome. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 7,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Supportive and Palliative Care Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Supportive and Palliative Care Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Supportive and Palliative Care Editorial Board. PDQ Cardiopulmonary Syndromes. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/treatment/side-effects/cardiopulmonary-hp-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389275]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\71e1b711cb65815cc35f.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "supportive_care"
+      ],
+      "topic": "supportive_care",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+      "summary_name": "Cardiopulmonary Syndromes",
+      "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/cardiopulmonary-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 15, 2025",
+      "retrieved_at": "2026-08-31T07:07:56.791333+00:00",
+      "content_sha256": "ca2570921cbaf749ec5a1989bca8e18827321167f084d34a715bcfb6a86a69bf",
+      "section_count": 45,
+      "sections": [
+        {
+          "section": "Cardiopulmonary Syndromes Overview",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Cardiopulmonary Syndromes Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Cardiopulmonary syndromes are conditions of the heart and lung that may be caused by cancer or by other health problems. Five cardiopulmonary syndromes that may be caused by cancer are covered in this summary:\n- Dyspnea (shortness of breath).\n- Chronic cough .\n- Malignant pleural effusion (extra fluid in the pleural cavity caused by cancer).\n- Malignant pericardial effusion (extra fluid inside the sac around the heart caused by cancer).\n- Superior vena cava syndrome (a blocked superior vena cava , the large vein that takes blood back to the heart).\nThis summary is about cardiopulmonary syndromes in adults and children with cancer. Section titles show when the information is about children."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Dyspnea During Advanced Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Many conditions can cause dyspnea.\n- A physical exam and health history are important in finding out the cause of dyspnea.\n- There are different ways to treat the causes of dyspnea in people with cancer.\n- Treatment of dyspnea will depend on what is causing it.\n- Treatment may be to control the signs and symptoms of dyspnea."
+        },
+        {
+          "section": "Many conditions can cause dyspnea.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Dyspnea During Advanced Cancer",
+            "Many conditions can cause dyspnea."
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "Dyspnea is the feeling that you can't catch your breath or you can't breathe in enough air. It also may be called shortness of breath, breathlessness, or air hunger. In people with cancer , dyspnea can be caused by:\n- Tumor-related effects:\n- The tumor blocks the airways in the chest and lung or it blocks the vein that carries blood through the chest to the heart.\n- The tumor causes extra fluid to build up in the space between the thin layer of tissue covering the lung and the thin layer of tissue covering the chest wall ( pleural effusion ), between the sac that covers the heart and the heart ( pericardial effusion ), or in the abdominal cavity ( ascites ).\n- Superior vena cava syndrome (a group of signs or symptoms that occur when the superior vena cava is partly blocked).\n- Carcinomatous lymphangitis ( inflammation of the lymph vessels ).\n- Pneumonia and other chest infections .\n- Pneumonitis ( inflammation of the lungs).\n- Blood clots or tumor cells break loose and block a blood vessel in the lungs.\n- Paralysis of part of the diaphragm (a muscle used for breathing).\n- Breathing muscles get weaker.\n- Treatment-related effects:\n- Damage to the lung caused by radiation therapy or chemotherapy . A small number of women who receive radiation therapy for breast cancer develop postradiation bronchiolitis obliterans , a condition in which the bronchioles (tiny branches of air tubes in the lungs) become inflamed and blocked.\n- Weakened heart muscle caused by chemotherapy.\n- Immunotherapy -related pneumonitis. Pneumonitis linked to immunotherapy with a checkpoint inhibitor is uncommon but can be serious or life-threatening. In one study of patients treated for immunotherapy-related pneumonitis, melanoma and non-small cell lung cancer were the most common cancers. The length of time that patients received immunotherapy before developing pneumonitis varied from several days to over a year. In addition, pneumonitis seemed to occur earlier in patients who received combination therapy than in those who received one type of treatment.\n- Conditions that are not related to cancer:\n- Chronic obstructive pulmonary disease (COPD), such as chronic bronchitis or emphysema .\n- Bronchospasm. The muscles in the airways contract and cause spasms .\n- Congestive heart failure .\n- Anemia .\n- Conditions with no known physical cause, such as anxiety ."
+        },
+        {
+          "section": "A physical exam and health history are important in finding out the cause of dyspnea.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Dyspnea During Advanced Cancer",
+            "A physical exam and health history are important in finding out the cause of dyspnea."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Diagnostic tests and procedures include:\n- Physical exam and health history : An exam of the body to check general signs of health, including checking for signs or symptoms of dyspnea, such as breathing fast or using the neck or chest muscles to breathe. A history of your health habits and past illnesses and treatments will also be taken. Your doctor will also ask about when the dyspnea occurs, what it feels like, other signs or symptoms that happen at the same time as the dyspnea, and anything that makes it better or worse.\n- Functional assessment : An exam to check how the dyspnea affects your ability to perform activities of daily living such as eating, bathing, or climbing stairs. This exam may include a 6-minute walk test (6MWT) to measure how far you can walk on a flat, hard surface in 6 minutes.\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body. Enlarge A chest x-ray is used to take pictures of the structures and organs inside the chest. X-rays pass through the patient's body onto film or a computer.\n- CT scan (CAT scan): A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- Complete blood count : A procedure in which a sample of blood is drawn and checked for:\n- The number of red blood cells , white blood cells , and platelets .\n- The amount of hemoglobin (the protein that carries oxygen ) in the red blood cells.\n- The portion of the blood sample made up of red blood cells.\n- Oxygen saturation test : A procedure to check for the amount of oxygen being carried by the red blood cells. A lower-than-normal amount of oxygen may be a sign of lung disease or other health problems. One method uses a device clipped to the finger. The device senses the amount of oxygen in the blood flowing through the small blood vessels in the finger. Another method uses a sample of blood taken from an artery , usually in the wrist, that is tested for the amount of oxygen.\n- Maximum inspiratory pressure (MIP) test : The MIP is the highest pressure that can be reached in the lungs when you take a deep breath. When you breathe through a device called a manometer, the device measures the pressure. The information is sent to a computer. The pressure level shows how strong the breathing muscles are."
+        },
+        {
+          "section": "There are different ways to treat the causes of dyspnea in people with cancer.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Dyspnea During Advanced Cancer",
+            "There are different ways to treat the causes of dyspnea in people with cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Treatment may include:\n- Radiation therapy: Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the cancer.\n- Hormone therapy: Hormone therapy is a cancer treatment that removes hormones or blocks their action and stops cancer cells from growing. Hormones are substances made by glands in the body and circulated in the bloodstream. Some hormones can cause certain cancers to grow. If tests show that the cancer cells have places where hormones can attach (receptors), drugs, surgery, or radiation therapy is used to reduce the production of hormones or block them from working.\n- Chemotherapy: Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). When chemotherapy is placed directly into the cerebrospinal fluid , an organ, or a body cavity such as the abdomen , the drugs mainly affect cancer cells in those areas ( regional chemotherapy ). The way the chemotherapy is given depends on the type and stage of the cancer being treated.\n- Laser therapy (for tumors inside large airways): Use of a laser beam (a narrow beam of intense light) as a knife to remove the tumor.\n- Cauterization (for tumors inside large airways): Use of a hot instrument, an electric current, or a caustic substance to destroy the tumor.\n- Procedures to remove fluid that has built up around the lungs ( malignant pleural effusion ), around the heart ( malignant pericardial effusion ), or in the abdominal cavity ( ascites ). Learn more about controlling symptoms of fluid buildup in the malignant pleural effusion and the malignant pericardial effusion sections.\n- Medicine :\n- Steroid drugs for inflamed or swollen lymph vessels in the lungs.\n- Antibiotics for chest infections. These may be used along with breathing treatments.\n- Anticoagulants for blood clots that are blocking blood vessels in the lungs.\n- Bronchodilators that are inhaled to open up the bronchioles (small airways) in the lungs.\n- Diuretics and other drugs for heart failure.\n- Blood transfusions : Blood transfusions are used to treat anemia."
+        },
+        {
+          "section": "Treatment of dyspnea will depend on what is causing it.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Dyspnea During Advanced Cancer",
+            "Treatment of dyspnea will depend on what is causing it."
+          ],
+          "is_boilerplate": false,
+          "block_count": 29,
+          "text": "The treatment of dyspnea depends on its cause, as follows:\nIf the dyspnea is caused by: | Then the treatment may be:\nTumor blocking the large or small airways in the chest or lung | • Radiation therapy.\n• Hormone therapy.\n• Chemotherapy, for tumors that usually respond quickly to this treatment.\n• Laser surgery to remove the tumor.\n• Cauterization of tumors.\nPleural effusion | • Removal of the extra fluid around the lung using a needle or chest drain .\nPericardial effusion | • Removal of the extra fluid around the heart using a needle.\n• Intrapericardial chemotherapy .\n• Surgery.\nAscites | • Removal of the extra fluid in the abdominal cavity using a needle.\nCarcinomatous lymphangitis | • Steroid therapy .\n• Chemotherapy, for tumors that usually respond quickly to this treatment.\nSuperior vena cava syndrome | • Chemotherapy, for tumors that usually respond quickly to this treatment.\n• Radiation therapy.\n• Surgery to place a stent in the superior vena cava to keep it open.\n• Opioids and steroid therapy.\nChest infections | • Antibiotics.\n• Breathing treatments.\nPulmonary embolism | • Anticoagulants.\nBronchospasms or chronic obstructive pulmonary disease | • Bronchodilators.\n• Inhaled steroids.\nPostradiation bronchiolitis obliterans | • Steroid therapy.\nHeart failure | • Diuretics and other heart medicines.\nAnemia | • Blood transfusion\nCheckpoint inhibitor immunotherapy–related pneumonitis | • Withholding drug therapy.\n• Corticosteroids .\n• Close follow-up ."
+        },
+        {
+          "section": "Treatment may be to control the signs and symptoms of dyspnea.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Dyspnea During Advanced Cancer",
+            "Treatment may be to control the signs and symptoms of dyspnea."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Treatment to control the signs and symptoms of dyspnea may include:\n- Oxygen therapy : If you cannot breathe in enough oxygen, you may be given extra oxygen to inhale from a tank. Devices that deliver a high flow of oxygen or air mixed with oxygen may also be prescribed .\n- Medicines: Opioids, such as morphine, may help with distress , fatigue , and the feeling that you cannot get enough air. Other drugs may be used to treat dyspnea that is related to panic disorder or severe anxiety.\n- Non-drug treatments:\n- Breathing methods, such as breathing with the lips pursed (almost closed).\n- Using a fan to blow cold air across the cheek.\n- Meditation.\n- Relaxation training .\n- Biofeedback .\n- Talk therapy to relieve anxiety."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Chronic Coughing",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Chronic coughing may cause much physical distress.\n- It may be possible to treat the cause of chronic coughing.\n- Medicines may be used to control chronic coughing."
+        },
+        {
+          "section": "Chronic coughing may cause much physical distress.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Chronic Coughing",
+            "Chronic coughing may cause much physical distress."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chronic cough may cause pain, trouble sleeping, dyspnea , or fatigue . The causes of chronic coughing are almost the same as the causes of dyspnea. Learn more in the Dyspnea section."
+        },
+        {
+          "section": "It may be possible to treat the cause of chronic coughing.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Chronic Coughing",
+            "It may be possible to treat the cause of chronic coughing."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatments may include:\n- Radiation therapy for a tumor that is blocking the airway.\n- Placement of a stent (tube) to close a fistula caused by esophageal cancer .\n- Draining the fluid of a pleural effusion .\n- Corticosteroids for lymphangitic carcinomatosis ."
+        },
+        {
+          "section": "Medicines may be used to control chronic coughing.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Chronic Coughing",
+            "Medicines may be used to control chronic coughing."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Medicines may include:\n- Medicines to stop the cough, including opioids .\n- Medicine that breaks down mucus .\n- An inhaled drug for chronic coughing related to lung cancer ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Malignant Pleural Effusion",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Pleural effusion is extra fluid in the pleural cavity.\n- Pleural effusion may be caused by cancer, cancer treatment, or other conditions.\n- Signs and symptoms of pleural effusion include dyspnea (shortness of breath) and cough.\n- Finding out the cause of pleural effusion will help plan the treatment.\n- Treatment may be to control signs and symptoms of pleural effusion and improve quality of life."
+        },
+        {
+          "section": "Pleural effusion is extra fluid in the pleural cavity.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Malignant Pleural Effusion",
+            "Pleural effusion is extra fluid in the pleural cavity."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The pleural cavity is the space between the pleura (thin layer of tissue ) that covers the outer surface of each lung and lines the inner wall of the chest cavity . Pleural tissue usually makes a small amount of fluid that helps the lungs move smoothly in the chest while a person is breathing. A pleural effusion is extra fluid in the pleural cavity. The fluid presses on the lungs and makes it hard to breathe."
+        },
+        {
+          "section": "Pleural effusion may be caused by cancer, cancer treatment, or other conditions.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Malignant Pleural Effusion",
+            "Pleural effusion may be caused by cancer, cancer treatment, or other conditions."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "A pleural effusion may be malignant (caused by cancer ) or nonmalignant (caused by a condition that is not cancer). Malignant pleural effusion is a common problem for people with certain cancers. Lung cancer , breast cancer , lymphoma , and leukemia cause most malignant effusions.\nPleural effusion also may be caused by radiation therapy , chemotherapy , a collapsed lung, or cancer that has spread to lymph nodes. Some people with cancer have conditions such as congestive heart failure , pneumonia , blood clot in the lung, or poor nutrition that may lead to a pleural effusion."
+        },
+        {
+          "section": "Signs and symptoms of pleural effusion include dyspnea (shortness of breath) and cough.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Malignant Pleural Effusion",
+            "Signs and symptoms of pleural effusion include dyspnea (shortness of breath) and cough."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "These and other signs and symptoms may be caused by a pleural effusion. Talk to your doctor if you have:\n- Dyspnea (shortness of breath).\n- Cough.\n- An uncomfortable feeling or pain in the chest."
+        },
+        {
+          "section": "Finding out the cause of pleural effusion will help plan the treatment.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Malignant Pleural Effusion",
+            "Finding out the cause of pleural effusion will help plan the treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment for a malignant pleural effusion is different from treatment for a nonmalignant effusion, so the right diagnosis is important. Diagnostic tests used to find the cause of the pleural effusion include:\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body. Enlarge A chest x-ray is used to take pictures of the structures and organs inside the chest. X-rays pass through the patient's body onto film or a computer.\n- CT scan : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- Ultrasound exam: A procedure in which high-energy sound waves (ultrasound) are bounced off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram .\n- Thoracentesis : The removal of fluid from the space between the lining of the chest and the lung, using a needle. A pathologist views the fluid under a microscope to look for cancer cells . This procedure may be used to reduce pressure on the lungs.\n- Biopsy : The removal of cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer. If thoracentesis is not possible, a biopsy may be done during a thoracoscopy . A thoracoscopy is a procedure to look at the organs inside the chest to check for abnormal areas. An incision (cut) is made between two ribs and a thoracoscope (a thin, tube-like instrument with a light and a lens for viewing) is inserted into the chest. A cutting tool at the end of the thoracoscope is used to remove a sample of tissue.\n- Flow cytometry : A laboratory test that measures the number of cells in a sample, the percentage of live cells in a sample, and certain characteristics of the cells, such as size, shape, and the presence of tumor (or other) markers on the cell surface. The cells from a sample of a person’s blood , bone marrow , or other tissue are stained with a fluorescent dye, placed in a fluid, and then passed one at a time through a beam of light. The test results are based on how the cells that were stained with the fluorescent dye react to the beam of light.\nThe type of cancer, previous treatment for cancer, and your choices also are important in planning treatment."
+        },
+        {
+          "section": "Treatment may be to control signs and symptoms of pleural effusion and improve quality of life.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Malignant Pleural Effusion",
+            "Treatment may be to control signs and symptoms of pleural effusion and improve quality of life."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "A malignant pleural effusion often occurs in cancer that is advanced, cannot be removed by surgery , or continues to grow or spread during treatment. It is also common during the last few weeks of life. The goal of treatment is usually palliative , to relieve signs and symptoms and improve quality of life .\nTreatment of the signs and symptoms of malignant pleural effusion includes:\n- Thoracentesis . Thoracentesis is a procedure to remove extra fluid from the pleural cavity between the lung and the chest wall using a needle. Removal of the fluid may help to relieve severe symptoms for a short time. A few days after the extra fluid is removed, it is likely it will begin to come back. The risk of a thoracentesis includes bleeding, infection , collapsed lung, fluid in the lungs, and a sudden drop in blood pressure .\n- Indwelling pleural catheter (IPC) . An indwelling pleural catheter (IPC) is a small tube that is inserted and left in place to keep fluid from building up around the lungs. One end of the tube stays inside the chest and the other passes outside the body to allow fluid to drain. This type of catheter may be used for long-term care so that a separate procedure won't need to be done each time draining is needed. Risks of IPCs include infection and blockage of the catheter.\n- Pleurodesis . This is a procedure to close the pleural space so that fluid cannot collect there. Fluid is first removed by thoracentesis, using a chest tube. A drug that causes the pleural space to close is then inserted into the space through a chest tube. Drugs such as bleomycin or talc may be used.\n- Surgery . Surgery may be done to put in a shunt (tube) to carry the fluid from the pleural cavity to the abdominal cavity, where the fluid is easier to remove. Pleurectomy is another type of surgery that may be used. In this procedure, the part of the pleura that lines the chest cavity is removed."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Malignant Pericardial Effusion",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Pericardial effusion is extra fluid inside the sac around the heart.\n- Pericardial effusion may be caused by cancer or other conditions.\n- Signs and symptoms of pericardial effusion include dyspnea (shortness of breath) and cough.\n- Pericardial effusion usually occurs in advanced cancer.\n- Treatment may be to control the symptoms of pericardial effusion and improve quality of life."
+        },
+        {
+          "section": "Pericardial effusion is extra fluid inside the sac around the heart.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Malignant Pericardial Effusion",
+            "Pericardial effusion is extra fluid inside the sac around the heart."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Pericardial effusion is extra fluid inside the sac around the heart. The extra fluid causes pressure on the heart, which stops it from pumping blood normally. If fluid builds up, a condition called cardiac tamponade may occur. In cardiac tamponade, the heart cannot pump enough blood to the rest of the body. This is life-threatening and must be treated right away."
+        },
+        {
+          "section": "Pericardial effusion may be caused by cancer or other conditions.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Malignant Pericardial Effusion",
+            "Pericardial effusion may be caused by cancer or other conditions."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A pericardial effusion may be malignant (caused by cancer ) or nonmalignant (caused by a condition that is not cancer). Malignant pericardial effusion is common in people with lung cancer , breast cancer , melanoma , lymphoma , and leukemia . Pericarditis (swelling of tissues around the heart), a heart attack, hypothyroidism , or systemic lupus erythematosus are examples of nonmalignant causes of pericardial effusion. Radiation therapy or chemotherapy may cause pericarditis, leading to pericardial effusion."
+        },
+        {
+          "section": "Signs and symptoms of pericardial effusion include dyspnea (shortness of breath) and cough.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Malignant Pericardial Effusion",
+            "Signs and symptoms of pericardial effusion include dyspnea (shortness of breath) and cough."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "At first, a pericardial effusion may not cause any signs or symptoms . These and other signs and symptoms may be caused by a pericardial effusion or cardiac tamponade. Check with your doctor if you have:\n- Dyspnea (shortness of breath).\n- Cough.\n- Chest pain or pressure.\n- Trouble breathing while lying flat.\n- Fast heartbeat or breathing.\n- Feeling faint.\n- Pressure in the upper abdomen .\n- Hiccups.\n- Tiredness.\n- Weakness."
+        },
+        {
+          "section": "Pericardial effusion usually occurs in advanced cancer.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Malignant Pericardial Effusion",
+            "Pericardial effusion usually occurs in advanced cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Pericardial effusion usually occurs in advanced cancer or in the last few weeks of life. During these times, it may be more important to relieve the symptoms than to diagnose the condition. However, in some cases, the following tests and procedures may be used to diagnose pericardial effusion:\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body. Enlarge A chest x-ray is used to take pictures of the structures and organs inside the chest. X-rays pass through the patient's body onto film or a computer.\n- Echocardiography : A procedure in which high-energy sound waves ( ultrasound ) are bounced off internal tissues or organs of the chest. The echoes form a picture of the heart's position, motion of the walls, and internal parts such as the valves.\n- Electrocardiogram (EKG or ECG): A line graph recording of the heart's electrical activity to check its rate and rhythm. A number of electrodes (small pads) are placed on the patient’s chest, arms, and legs. The electrodes are connected by wires to the EKG machine. Heart activity is then recorded on paper. Electrical activity that is faster or slower than normal may be a sign of heart problems.\n- Pericardiocentesis: A procedure to remove fluid from the pericardium using a needle inserted through the chest wall . The doctor may use echocardiography to watch the movement of the heart and needle inside the chest. The fluid is viewed under a microscope by a pathologist to check for cancer cells or signs of infection . This procedure can also be used to treat pericardial effusion. Removing the fluid lessens the pressure on the heart.\n- Flow cytometry : A laboratory test that measures the number of cells in a sample, the percentage of live cells in a sample, and certain characteristics of the cells, such as size, shape, and the presence of tumor (or other) markers on the cell surface. The cells from a sample of a patient’s blood, bone marrow , or other tissue are stained with a fluorescent dye, placed in a fluid, and then passed one at a time through a beam of light. The test results are based on how the cells that were stained with the fluorescent dye react to the beam of light."
+        },
+        {
+          "section": "Treatment may be to control the symptoms of pericardial effusion and improve quality of life.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Malignant Pericardial Effusion",
+            "Treatment may be to control the symptoms of pericardial effusion and improve quality of life."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "The goal of treatment is usually palliative , to relieve symptoms and improve quality of life . If a malignant pericardial effusion is severe, it is usually controlled by draining the fluid.\nTreatment options include:\n- Pericardiocentesis. A procedure to remove the extra fluid from the sac around the heart using a needle inserted through the chest wall. The doctor may use echocardiography to watch the movement of the heart and needle inside the chest. Removing the fluid can reduce pressure on the heart. In some patients, fluid may again collect in the sac around the heart after pericardiocentesis. A catheter (flexible tube used to put fluids into or take blood out of a vein ) may be inserted and left in place for several days until there is little to no fluid drainage. For people with advanced cancer, this procedure may be used instead of more serious surgery .\n- Pericardial sclerosis. A procedure to close the pericardial space so fluid cannot collect in the sac around the heart. Fluid is first removed by pericardiocentesis. A drug or chemical is then injected through a catheter (flexible tube used to put fluids into or take blood out of a vein) into the pericardial space to cause it to close. Three or more treatments may be needed to completely close the pericardial space.\n- Pericardiotomy. A procedure to insert a drainage tube. An incision (cut) is made in the chest and then in the pericardium and a drainage tube is put in place. This increases the amount of fluid that can be drained from the pericardium.\n- Pericardiectomy. Surgery to remove part of the pericardium. This may be done to drain fluid quickly when cardiac tamponade occurs. This surgery is also called pericardial window.\n- Balloon pericardiostomy. A catheter (flexible tube used to put fluids into or take blood out of a vein) with a balloon tip is inserted through the chest and into the pericardium. The balloon is then inflated to make the pericardial opening bigger. The balloon is then deflated and removed. The bigger opening allows the fluid to drain into the pleural cavity . This may be used when an effusion has recurred (come back) after pericardiocentesis or instead of more serious surgery.\n- Video-assisted thoracoscopic surgery. Surgery that uses a video camera in the chest area that shows an enlarged image on a television screen. This may be preferred since it uses a small incision instead of a larger one."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Superior vena cava syndrome (SVCS) is a group of signs and symptoms that occur when the superior vena cava is partly blocked.\n- SVCS is usually caused by cancer.\n- Common signs and symptoms of SVCS include breathing problems and coughing.\n- Tests are done to find and diagnose the blockage.\n- Treatment for SVCS caused by cancer depends on the cause, signs and symptoms, and prognosis.\n- Treatments for SVCS include watchful waiting, chemotherapy, radiation therapy, thrombolysis, stent placement, and surgery.\n- Palliative care may be given to relieve signs and symptoms of SVCS."
+        },
+        {
+          "section": "Superior vena cava syndrome (SVCS) is a group of signs and symptoms that occur when the superior vena cava is partly blocked.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome",
+            "Superior vena cava syndrome (SVCS) is a group of signs and symptoms that occur when the superior vena cava is partly blocked."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The superior vena cava is a major vein that leads to the heart. The heart is divided into four parts. The right and left atrium make up the top parts of the heart and the right and left ventricle make up the bottom parts of the heart. The right atrium of the heart receives blood from two major veins:\n- The superior vena cava returns blood from the upper body to the heart.\n- The inferior vena cava returns blood from the lower body to the heart.\nDifferent conditions can slow the flow of blood through the superior vena cava. These include a tumor in the chest, nearby lymph nodes that are swollen (from cancer ), or a blood clot in the superior vena cava. The vein may become completely blocked. Sometimes, smaller veins in the area become larger and take over for the superior vena cava if it is blocked, but this takes time. Superior vena cava syndrome (SVCS) is the group of signs and symptoms that occur when this vein is partly blocked."
+        },
+        {
+          "section": "SVCS is usually caused by cancer.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome",
+            "SVCS is usually caused by cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "SVCS is usually caused by cancer. In adults, SVCS is most common in the following types of cancer:\n- Lung cancer .\n- Non-Hodgkin lymphoma (NHL).\nLess common causes of SVCS include:\n- A blood clot that forms during the use of an intravenous catheter (flexible tube used to put fluids into or take blood out of a vein) in the superior vena cava. A clot may also be caused by pacemaker wires.\n- Infection or cancer in the chest that causes affected tissues to become thick and hard.\n- Other cancers, including metastatic breast cancer , metastatic germ cell tumors , colon cancer , esophageal cancer , Kaposi sarcoma , and Hodgkin lymphoma .\n- Thymoma .\n- Abnormal mass in the thyroid gland .\n- Behçet syndrome (a disease of the immune system ).\n- Sarcoidosis (a disease of the lymph nodes that acts like tuberculosis )."
+        },
+        {
+          "section": "Common signs and symptoms of SVCS include breathing problems and coughing.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome",
+            "Common signs and symptoms of SVCS include breathing problems and coughing."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "The signs and symptoms of SVCS are more severe if the vein becomes blocked quickly. This is because the other veins in the area do not have time to widen and take over the blood flow that cannot pass through the superior vena cava.\nThe most common signs are:\n- Trouble breathing.\n- Coughing.\n- Swelling in the face, neck, upper body, or arms.\nLess common signs and symptoms include:\n- Hoarse voice.\n- Trouble swallowing or talking.\n- Coughing up blood.\n- Swollen veins in the chest or neck.\n- Chest pain.\n- Rapid breathing."
+        },
+        {
+          "section": "Tests are done to find and diagnose the blockage.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome",
+            "Tests are done to find and diagnose the blockage."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The following tests may be done to diagnose SVCS and find the blockage:\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body. The radiologist will look for any masses, a pleural effusion , a collapsed lung, or an enlarged heart. Enlarge A chest x-ray is used to take pictures of the structures and organs inside the chest. X-rays pass through the patient's body onto film or a computer.\n- CT scan (CAT scan): A procedure that makes a series of detailed pictures of areas inside the chest, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- Venography : A procedure to x-ray veins. A contrast dye is injected into the veins to outline them on the x-rays.\n- MRI (magnetic resonance imaging): A procedure that uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- Ultrasound : A procedure in which high-energy sound waves (ultrasound) are bounced off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram . The picture can be printed to be looked at later.\nIt is important to find out the cause of SVCS before starting treatment. The type of cancer can affect the type of treatment needed. Unless the airway is blocked or the brain is swelling, waiting to start treatment while a diagnosis is made usually causes no problem in adults. If doctors think lung cancer is causing the problem, a sputum sample may be taken and a biopsy may be done."
+        },
+        {
+          "section": "Treatment for SVCS caused by cancer depends on the cause, signs and symptoms, and prognosis.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome",
+            "Treatment for SVCS caused by cancer depends on the cause, signs and symptoms, and prognosis."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment for SCVS caused by cancer depends on:\n- The type of cancer.\n- The cause of the blockage.\n- The severity of the signs and symptoms.\n- The prognosis (chance of recovery ).\n- Whether treatment is meant to cure , control, or relieve the signs and symptoms of cancer.\n- The person's wishes."
+        },
+        {
+          "section": "Treatments for SVCS include watchful waiting, chemotherapy, radiation therapy, thrombolysis, stent placement, and surgery.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome",
+            "Treatments for SVCS include watchful waiting, chemotherapy, radiation therapy, thrombolysis, stent placement, and surgery."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Watchful waiting . Watchful waiting is closely monitoring a person's condition without giving any treatment unless signs or symptoms appear or change. A person who has good blood flow through smaller veins in the area and mild symptoms may not need treatment. The following may be used to relieve signs or symptoms and keep the person comfortable:\n- Keeping the upper body raised higher than the lower body.\n- Corticosteroids ( drugs that reduce swelling).\n- Diuretics (drugs that make excess fluid pass from the body in urine ). People taking diuretics are closely watched because these drugs can cause dehydration (loss of too much fluid from the body).\n- Chemotherapy . Chemotherapy is the usual treatment for tumors that respond to anticancer drugs, including small cell lung cancer and lymphoma . Chemotherapy stops the growth of cancer cells , either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). When chemotherapy is placed directly into the cerebrospinal fluid , an organ, or a body cavity such as the abdomen , the drugs mainly affect cancer cells in those areas ( regional chemotherapy ). The way the chemotherapy is given depends on the type and stage of the cancer being treated.\n- Radiation therapy . If the blockage of the superior vena cava is caused by a tumor that does not usually respond to chemotherapy, radiation therapy may be given. Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the cancer. The way the radiation therapy is given depends on the type and stage of the cancer being treated.\n- Thrombolysis . SVCS may occur when a thrombus (blood clot) forms in a partly blocked vein. Thrombolysis is a way to break up and remove blood clots. This may done by a thrombectomy . Thrombectomy is surgery to remove the blood clot or the use of a device inserted into the vein to remove the blood clot. This may be done with or without the use of drugs to break up the clot.\n- Stent placement. If the superior vena cava is partly blocked by the tumor, an expandable stent (tube) may be placed inside the superior vena cava to help keep it open and allow blood to pass through. This helps most people. Drugs to keep more blood clots from forming may also be used.\n- Surgery. Surgery to bypass (go around) the blocked part of the vein is sometimes used for people with cancer, but is used more often for those who do not have cancer."
+        },
+        {
+          "section": "Palliative care may be given to relieve signs and symptoms of SVCS.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome",
+            "Palliative care may be given to relieve signs and symptoms of SVCS."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The signs and symptoms of superior vena cava syndrome can be upsetting. It is important that you and your family ask questions about superior vena cava syndrome and how to treat it. This can help relieve anxiety about signs and symptoms such as swelling, trouble swallowing, coughing, and hoarseness.\nIf you have advanced cancer you may decide not to have any more treatment. Palliative care can help keep you comfortable by relieving signs and symptoms to improve your quality of life ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome in Children",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Superior vena cava syndrome (SVCS) in a child is a serious medical emergency because the child's windpipe can become blocked.\n- The most common symptoms of SVCS in children are a lot like those in adults.\n- The most common cause of SVCS in children is non-Hodgkin lymphoma.\n- SVCS in children may be diagnosed and treated before a diagnosis of cancer is made.\n- Treatment for SVCS in children may include radiation therapy, drugs, or surgery."
+        },
+        {
+          "section": "Superior vena cava syndrome (SVCS) in a child is a serious medical emergency because the child's windpipe can become blocked.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome in Children",
+            "Superior vena cava syndrome (SVCS) in a child is a serious medical emergency because the child's windpipe can become blocked."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Superior vena cava syndrome (SVCS) is rare in children, but when it occurs, it can be life-threatening. In adults, the windpipe is stiff, but in children, it is softer and can more easily be squeezed shut or blocked. A child's windpipe is narrow, so any amount of swelling can cause breathing problems. Squeezing of the trachea is called superior mediastinal syndrome (SMS). Because SVCS and SMS usually happen together in children, the two syndromes are considered to be the same."
+        },
+        {
+          "section": "The most common symptoms of SVCS in children are a lot like those in adults.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome in Children",
+            "The most common symptoms of SVCS in children are a lot like those in adults."
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Common signs and symptoms include:\n- Coughing.\n- Hoarseness.\n- Trouble breathing.\n- Chest pain.\nThere are other less common but more serious signs and symptoms:\n- Fainting.\n- Anxiety .\n- Confusion .\n- Drowsiness.\n- Headache.\n- Vision problems.\n- A feeling of fullness in the ears."
+        },
+        {
+          "section": "The most common cause of SVCS in children is non-Hodgkin lymphoma.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome in Children",
+            "The most common cause of SVCS in children is non-Hodgkin lymphoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "SVCS in children is rare. The most common cause is non-Hodgkin lymphoma . As in adults, SVCS may also be caused by a blood clot that forms during use of an intravenous catheter (flexible tube used to put fluids into or take blood out of a vein ) in the superior vena cava ."
+        },
+        {
+          "section": "SVCS in children may be diagnosed and treated before a diagnosis of cancer is made.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome in Children",
+            "SVCS in children may be diagnosed and treated before a diagnosis of cancer is made."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A physical exam , chest x-ray , and medical history are usually all that are needed to diagnose superior vena cava syndrome in children. Even if doctors think cancer is causing SVCS, a biopsy may not be done. This is because the lungs and heart of a child with SVCS may not be able to handle the anesthesia needed. Other imaging tests may be done to help find out if anesthesia can be safely used. In most cases, treatment for SVCS will begin before a diagnosis of cancer is made."
+        },
+        {
+          "section": "Treatment for SVCS in children may include radiation therapy, drugs, or surgery.",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Superior Vena Cava Syndrome in Children",
+            "Treatment for SVCS in children may include radiation therapy, drugs, or surgery."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "There are several ways to treat SVCS in children.\n- Radiation therapy . Radiation therapy is usually used to treat a tumor that is blocking the vein. After radiation therapy, there may be more trouble breathing because swelling narrows the windpipe. A drug to reduce swelling or tumor size may be given.\n- Drugs. Chemotherapy, steroids , or other drugs may be used.\n- Surgery . Surgery may be needed to bypass (go around) the blocked part of the vein or to place a stent (thin tube) to open the vein."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the pathophysiology and treatment of cardiopulmonary syndromes, including dyspnea, malignant pleural effusion, malignant pericardial effusion, and superior vena cava syndrome. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Supportive and Palliative Care Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Supportive and Palliative Care Editorial Board. PDQ Cardiopulmonary Syndromes. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/treatment/side-effects/cardiopulmonary-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389457]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Cardiopulmonary Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\6309c1eb1b4fb58a2a48.html"
+    }
+  ]
+}

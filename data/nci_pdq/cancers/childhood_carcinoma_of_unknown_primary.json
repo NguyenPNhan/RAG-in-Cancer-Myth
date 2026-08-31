@@ -1,0 +1,357 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Childhood Carcinoma of Unknown Primary",
+  "generated_at": "2026-08-31T07:15:23.045789+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Childhood Carcinoma of Unknown Primary",
+      "title": "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+      "summary_name": "Childhood Carcinoma of Unknown Primary Treatment",
+      "url": "https://www.cancer.gov/types/unknown-primary/patient/child-unknown-primary-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "January 12, 2024",
+      "retrieved_at": "2026-08-31T07:15:05.593338+00:00",
+      "content_sha256": "c883a08dcc3feca61f48fa34c0ba2c03144b4d4638d32f7ab868d16952e3be60",
+      "section_count": 29,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Carcinoma of unknown primary is a disease in which malignant (cancer) cells are found in the body but the place the cancer began is not known.\n- The signs and symptoms of disease are caused by the metastatic cancer and depend on where the cancer has spread.\n- Blood and imaging tests are done to learn more about the cause of the signs and symptoms.\n- A biopsy is done to diagnose metastatic cancer.\n- Because the place where the cancer started is not known, more tests and procedures are done to search for the primary cancer.\n- When tests are able to find the primary cancer, the cancer is no longer a CUP and treatment is based on the type of primary cancer.\n- Sometimes the primary cancer is never found."
+        },
+        {
+          "section": "Carcinoma of unknown primary is a disease in which malignant (cancer) cells are found in the body but the place the cancer began is not known.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "Carcinoma of unknown primary is a disease in which malignant (cancer) cells are found in the body but the place the cancer began is not known."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Cancer can form in any tissue in the body. The first cancer to form is called the primary cancer . The process of cancer cells spreading to other parts of the body is called metastasis . The cancer that has spread to another part of the body is called metastatic cancer.\nIn carcinoma of unknown primary (CUP), metastatic cancer is diagnosed , but the primary cancer has not been found.\nThis type of cancer is also called occult primary tumor . Enlarge In cancer of unknown primary, cancer cells have spread in the body but the place where the primary cancer began is not known. Many cancer deaths are caused when cancer moves from the original tumor and spreads to other tissues and organs. This is called metastatic cancer. This animation shows how cancer cells travel from the place in the body where they first formed to other parts of the body."
+        },
+        {
+          "section": "The signs and symptoms of disease are caused by the metastatic cancer and depend on where the cancer has spread.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "The signs and symptoms of disease are caused by the metastatic cancer and depend on where the cancer has spread."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "The primary cancer does not cause signs and symptoms of disease.\nCheck with your doctor if you have any of the following general signs of cancer:\n- Lump or thickening in any part of the body.\n- Pain that is in one part of the body and does not go away.\n- A cough that does not go away or hoarseness in the voice.\n- Change in bowel or bladder habits, such as constipation , diarrhea , or frequent urination .\n- Unusual bleeding or discharge .\n- Fever for no known reason that does not go away.\n- Drenching night sweats.\n- Weight loss for no known reason or loss of appetite ."
+        },
+        {
+          "section": "Blood and imaging tests are done to learn more about the cause of the signs and symptoms.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "Blood and imaging tests are done to learn more about the cause of the signs and symptoms."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Tests and procedures that may be used are described below."
+        },
+        {
+          "section": "A biopsy is done to diagnose metastatic cancer.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "A biopsy is done to diagnose metastatic cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "A biopsy is the removal of cells or tissues so they can be viewed under a microscope by a pathologist .\nOne of the following types of biopsies may be used:\n- Fine-needle aspiration (FNA) biopsy : The removal of tissue or fluid using a thin needle.\n- Core biopsy : The removal of tissue using a wide needle.\n- Incisional biopsy : The removal of part of a lump or a sample of tissue.\n- Excisional biopsy : The removal of an entire lump of tissue.\nThe pathologist views the tissue to look for cancer cells and to find out the type of cancer. Cancer cells usually look like the cells in the type of tissue in which the cancer began. In CUP, the cancer cells do not look like the cells of the tissue they were found in. The pathologist cannot determine the type of primary cancer.\nOne or more of the following laboratory tests may be used to further study the tissue samples:\n- Genetic analysis : A laboratory test in which the DNA in a sample of cancer cells or tissue is studied to check for mutations (changes) that may help predict the best treatment for CUP.\n- Histologic study : A laboratory test in which stains are added to a sample of cancer cells or tissue and viewed under a microscope to look for certain changes in the cells. Certain changes in the cells are linked to certain types of cancer.\n- Immunohistochemistry : A laboratory test that uses antibodies to check for certain antigens ( markers ) in a sample of a patient’s tissue. The antibodies are usually linked to an enzyme or a fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and to help tell one type of cancer from another type of cancer.\n- Reverse transcription–polymerase chain reaction (RT–PCR) test : A laboratory test in which the amount of a genetic substance called mRNA made by a specific gene is measured. An enzyme called reverse transcriptase is used to convert a specific piece of RNA into a matching piece of DNA, which can be amplified (made in large numbers) by another enzyme called DNA polymerase. The amplified DNA copies help tell whether a specific mRNA is being made by a gene. RT–PCR can be used to check the activation of certain genes that may indicate the presence of cancer cells. This test may be used to look for certain changes in a gene or chromosome , which may help diagnose cancer.\n- Cytogenetic analysis : A laboratory test in which the chromosomes of cells in a sample of tumor tissue are counted and checked for any changes, such as broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes may be a sign of cancer. Cytogenetic analysis is used to help diagnose cancer, plan treatment, or find out how well treatment is working. Changes in certain chromosomes are linked to certain types of cancer.\n- Light and electron microscopy : A laboratory test in which cells in a sample of tissue are viewed under regular and high-powered microscopes to look for certain changes in the cells."
+        },
+        {
+          "section": "Because the place where the cancer started is not known, more tests and procedures are done to search for the primary cancer.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "Because the place where the cancer started is not known, more tests and procedures are done to search for the primary cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "The following tests and procedures may be done:\n- Physical exam and health history : An exam of the body to check general signs of health, including checking for signs of disease, such as lumps or anything else that seems unusual. A history of the patient’s health habits and past illnesses and treatments will also be taken.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, such as the chest or abdomen , taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- PET scan (positron emission tomography scan) : A procedure to find malignant tumor cells in the body. A small amount of radioactive glucose (sugar) is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do.\n- Ultrasound exam : A procedure in which high-energy sound waves (ultrasound) are bounced off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram . The picture can be printed to be looked at later.\n- Endoscopy : A procedure to look at organs and tissues inside the body to check for abnormal areas. An endoscope is inserted through an incision (cut) in the skin or opening in the body, such as the mouth. An endoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue or lymph node samples, which are checked under a microscope for signs of disease. For example, a colonoscopy may be done.\n- Tumor marker test : A procedure in which a sample of blood , urine , or tissue is checked to measure the amounts of certain substances made by organs, tissues, or tumor cells in the body. Certain substances are linked to specific types of cancer when found in increased levels in the body. These are called tumor markers . The blood may be checked for the levels of CA-125 , CgA , alpha-fetoprotein (AFP), beta human chorionic gonadotropin (beta-hCG), or prostate-specific antigen (PSA) ."
+        },
+        {
+          "section": "When tests are able to find the primary cancer, the cancer is no longer a CUP and treatment is based on the type of primary cancer.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "When tests are able to find the primary cancer, the cancer is no longer a CUP and treatment is based on the type of primary cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "When it is not known where the cancer first formed at diagnosis, adenocarcinomas , melanomas , and embryonal tumors (such as rhabdomyosarcoma or neuroblastoma ) are tumor types that are often diagnosed later in children and adolescents ."
+        },
+        {
+          "section": "Sometimes the primary cancer is never found.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "Sometimes the primary cancer is never found."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The primary cancer (the cancer that first formed) may not be found for one of the following reasons:\n- The primary cancer is very small and grows slowly.\n- The body’s immune system killed the primary cancer.\n- The primary cancer was removed during surgery for another condition and doctors didn’t know cancer had formed. For example, in adults, a uterus with cancer may be removed during a hysterectomy to treat a serious infection .\nBecause the primary cancer is unknown, it may be harder to choose the best treatment."
+        },
+        {
+          "section": "Stages of Childhood Carcinoma of Unknown Primary",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Stages of Childhood Carcinoma of Unknown Primary"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The extent or spread of cancer is usually described as stages . The stage of the cancer is usually used to plan treatment. However, carcinoma of unknown primary (CUP) has already spread to other parts of the body when it is found. There is no standard staging system for CUP.\nSometimes childhood carcinoma of unknown primary recurs (comes back) after treatment."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- There are different types of treatment for children with carcinoma of unknown primary.\n- Children with carcinoma of unknown primary should have their treatment planned by a team of doctors who are experts in treating childhood cancer.\n- Three types of standard treatment are used:\n- Radiation therapy\n- Chemotherapy\n- Targeted therapy\n- New types of treatment are being tested in clinical trials.\n- Treatment for childhood carcinoma of unknown primary may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for children with carcinoma of unknown primary.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for children with carcinoma of unknown primary."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer. When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment.\nBecause cancer in children is rare, taking part in a clinical trial should be considered. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Children with carcinoma of unknown primary should have their treatment planned by a team of doctors who are experts in treating childhood cancer.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Children with carcinoma of unknown primary should have their treatment planned by a team of doctors who are experts in treating childhood cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment will be overseen by a pediatric oncologist , a doctor who specializes in treating children with cancer . The pediatric oncologist works with other pediatric health professionals who are experts in treating children with cancer and who specialize in certain areas of medicine . This may include the following specialists and others:\n- Pediatrician .\n- Radiation oncologist .\n- Pathologist .\n- Social worker .\n- Rehabilitation specialist .\n- Psychologist .\n- Child-life specialist ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Three types of standard treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the area of the body with metastatic cancer."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Three types of standard treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy )."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Three types of standard treatment are used:",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Targeted therapy is a treatment that uses drugs or other substances to identify and attack cancer cells.Targeted therapies usually cause less harm to normal cells than chemotherapy and radiation therapy do."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Treatment for childhood carcinoma of unknown primary may cause side effects.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for childhood carcinoma of unknown primary may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more about side effects that begin during treatment for cancer, visit Side Effects ."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As your child goes through treatment, they will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your child's condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Childhood Carcinoma of Unknown Primary",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment of Childhood Carcinoma of Unknown Primary"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Treatment of newly diagnosed carcinoma of unknown primary (CUP) in children depends on the following:\n- What the cancer cells look like under a microscope .\n- The child's age.\n- The child's signs and symptoms .\n- The results of tests and procedures.\n- Where the cancer has spread in the body.\nFor information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of newly diagnosed CUP in children may include the following:\n- Radiation therapy .\n- Chemotherapy .\n- Targeted therapy .\nSometimes childhood carcinoma of unknown primary can recur (come back) after treatment. If your child is diagnosed with a recurrent carcinoma of unknown primary, your child's doctor will work with you to plan treatment.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Childhood Carcinoma of Unknown Primary",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "To Learn More About Childhood Carcinoma of Unknown Primary"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "For more information from the National Cancer Institute about carcinoma of unknown primary , see the following:\n- Carcinoma of Unknown Primary Home Page\n- Metastatic Cancer\n- Computed Tomography (CT) Scans and Cancer\n- Targeted Cancer Therapies\nFor more childhood cancer information and other general cancer resources, visit:\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Late Effects of Treatment for Childhood Cancer\n- Adolescents and Young Adults with Cancer\n- Children with Cancer: A Guide for Parents\n- Cancer in Children and Adolescents\n- Cancer Staging\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of childhood carcinoma of unknown primary. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Carcinoma of Unknown Primary Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/unknown-primary/patient/child-unknown-primary-treatment-pdq . Accessed <MM/DD/YYYY>.\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\486239a4e2f0f4400343.html"
+    }
+  ]
+}

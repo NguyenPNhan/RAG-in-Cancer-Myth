@@ -1,0 +1,393 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Ewing Sarcoma",
+  "generated_at": "2026-08-31T07:15:23.243203+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Ewing Sarcoma",
+      "title": "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+      "summary_name": "Ewing Sarcoma Treatment",
+      "url": "https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "February 28, 2025",
+      "retrieved_at": "2026-08-31T07:08:37.088599+00:00",
+      "content_sha256": "9e57816d89a348b1f11020265b5247fc51592cc72b38c920cf9502863254a63e",
+      "section_count": 32,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Ewing Sarcoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Ewing sarcoma is a type of cancer that forms from a certain kind of cell in bone or soft tissue.\n- Undifferentiated small round cell sarcoma may also form in the bone or soft tissue.\n- A genetic condition may increase the risk of Ewing sarcoma and other sarcomas.\n- Symptoms of Ewing sarcoma include swelling and pain near the tumor.\n- Tests that examine the bone and soft tissue are used to diagnose and stage Ewing sarcoma.\n- Certain factors affect prognosis (chance of recovery)."
+        },
+        {
+          "section": "Ewing sarcoma is a type of cancer that forms from a certain kind of cell in bone or soft tissue.",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Ewing Sarcoma",
+            "Ewing sarcoma is a type of cancer that forms from a certain kind of cell in bone or soft tissue."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Ewing sarcoma may form in the bones of the legs, arms, feet, hands, chest , pelvis , spine , or skull . It may also form in the body's soft tissues , which connect, support, and surround other body parts and organs.\nEwing sarcoma is most common in adolescents and young adults (teens through mid-20s).\nEwing sarcoma has also been called peripheral primitive neuroectodermal tumor, Askin tumor (Ewing sarcoma of the chest wall), extraosseous Ewing sarcoma (Ewing sarcoma in tissue other than bone), and Ewing sarcoma family of tumors ."
+        },
+        {
+          "section": "Undifferentiated small round cell sarcoma may also form in the bone or soft tissue.",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Ewing Sarcoma",
+            "Undifferentiated small round cell sarcoma may also form in the bone or soft tissue."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Undifferentiated small round cell sarcoma usually forms in the bones or the muscles that are attached to bones and that help the body move. Undifferentiated small round cell sarcoma is usually treated the same way as Ewing sarcoma. Types of undifferentiated small round cell sarcomas include:\n- Undifferentiated small round cell sarcoma with BCOR rearrangements. This type of round cell sarcoma usually forms in the pelvis, arms, or legs and may spread to other parts of the body. It is more common in children younger than 18 years. In this type of round cell sarcoma, the BCOR gene is joined to the CCNB3 gene or to other genes. To diagnose this round cell sarcoma, the tumor cells are checked for these gene changes.\n- Undifferentiated small round cell sarcoma with CIC::DUX4 rearrangements. This type of round cell sarcoma usually forms in the trunk , arms, or legs. It is most common in males and in young adults. In this type of round cell sarcoma, the CIC gene is joined to the DUX4 gene. To diagnose this round cell sarcoma, the tumor cells are checked for this gene change.\n- Undifferentiated small round cell sarcoma with CIC::NUTM1 rearrangements. This type of soft tissue tumor usually forms in the central nervous system , but it can also form in the trunk. It is most common in children about 6 years of age.\n- Undifferentiated small round cell sarcoma with ATXN1 :: NUTM2A or ATXN1L :: NUTM2A fusions. This type of soft tissue tumor has been found in three children. All were newborns or infants, and the cancer was in the central nervous system or peritoneum .\n- Undifferentiated small round cell sarcoma with EWSR1::NFATC2 and FUS::NFATC2 rearrangements. This type of soft tissue tumor may be a benign cyst or a malignant (cancer) tumor. It usually forms in the arms and legs. The malignant tumor is more common in males and in adults.\n- Undifferentiated small round cell sarcoma with EWSR1::PATZ1 fusions. This type of soft tissue tumor usually forms in the trunk and is more common in adults."
+        },
+        {
+          "section": "A genetic condition may increase the risk of Ewing sarcoma and other sarcomas.",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Ewing Sarcoma",
+            "A genetic condition may increase the risk of Ewing sarcoma and other sarcomas."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Ewing sarcoma is caused by certain changes to the way bone cells function, especially how they grow and divide into new cells. Often, the exact cause of these changes is unknown. Learn more about how cancer develops at What Is Cancer?\nA risk factor is anything that increases the chance of getting a disease. Not every child with a risk factor will develop Ewing sarcoma or other sarcomas. And they can develop in some children who don't have a known risk factor. Children with Fanconi anemia may be at increased risk of Ewing sarcoma. Talk with your child's doctor if you think your child may be at risk."
+        },
+        {
+          "section": "Symptoms of Ewing sarcoma include swelling and pain near the tumor.",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Ewing Sarcoma",
+            "Symptoms of Ewing sarcoma include swelling and pain near the tumor."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "It's important to check with your child's doctor if your child has:\n- a lump (which may feel soft and warm) in the arms, legs, chest, or pelvis\n- pain and/or swelling near the lump\n- fever for no known reason\n- a bone that breaks for no known reason\n- a limp when walking\n- fatigue\n- weight loss\n- anemia\n- shortness of breath\n- back pain, weakness, numbness, or paralysis in the arms or legs\nThese symptoms may be caused by problems other than Ewing sarcoma. The only way to know is for your child to see a doctor."
+        },
+        {
+          "section": "Tests that examine the bone and soft tissue are used to diagnose and stage Ewing sarcoma.",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Ewing Sarcoma",
+            "Tests that examine the bone and soft tissue are used to diagnose and stage Ewing sarcoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "If your child has symptoms that suggest Ewing sarcoma, the doctor will need to find out if these are due to cancer or another problem. The doctor will ask when the symptoms started and how often your child has been having them. They also will ask about your child's personal and family medical history and do a physical exam . Depending on these results, they may recommend other tests. If your child is diagnosed with Ewing sarcoma, the results of these tests will help you and your child's doctor plan treatment.\nCancer stage describes the extent of cancer in the body, such as the size of the tumor, whether it has spread, and how far it has spread from where it first formed. To plan treatment, it is important to know whether the cancer has spread to other parts of the body. Tests and procedures to detect, diagnose, and stage Ewing sarcoma are usually done at the same time.\nThe tests used to diagnose and stage Ewing sarcoma may include:\n- MRI (magnetic resonance imaging) uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas inside the body, such as the area where the tumor formed. This procedure is also called nuclear magnetic resonance imaging (NMRI). Enlarge Magnetic resonance imaging (MRI) scan. The child lies on a table that slides into the MRI machine, which takes a series of detailed pictures of areas inside the body. The positioning of the child on the table depends on the part of the body being imaged.\n- CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body, such as the area where the tumor formed or the chest. The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more about Computed Tomography (CT) Scans and Cancer . Enlarge Computed tomography (CT) scan. The child lies on a table that slides through the CT scanner, which takes a series of detailed x-ray pictures of areas inside the body.\n- PET-CT scan combines the pictures from a positron emission tomography scan ( PET scan ) and CT scan. The PET and CT scans are done at the same time on the same machine. The pictures from both scans are combined to make a more detailed picture than either test would make by itself. For the PET scan, a small amount of radioactive sugar (radioactive glucose) is injected into a vein. The scanner rotates around the body and makes a picture of where the sugar is being used in the body. Cancer cells show up brighter in the picture because they are more active and take up more sugar than normal cells do. Enlarge Positron emission tomography (PET) scan. The child lies on a table that slides through the PET scanner. The head rest and white strap help the child lie still. A small amount of radioactive glucose (sugar) is injected into the child's vein, and a scanner makes a picture of where the glucose is being used in the body. Cancer cells show up brighter in the picture because they take up more glucose than normal cells do.\n- Bone scan checks if there are rapidly dividing cells, such as cancer cells, in the bone. A very small amount of radioactive material is injected into a vein and travels through the bloodstream. The radioactive material collects in the bones with cancer and is detected by a scanner. Enlarge Bone scan. A small amount of radioactive material is injected into the child's vein and travels through the blood. The radioactive material collects in the bones. As the child lies on a table that slides under the scanner, the radioactive material is detected and images are made on a computer screen.\n- Bone marrow aspiration and biopsy removes bone marrow and a small piece of bone by inserting a hollow needle into the hipbone. Samples are removed from both hipbones. A pathologist views the bone marrow and bone under a microscope to see if the cancer has spread. This test is only used if other tests have shown that the cancer may have spread from where it first formed. Enlarge Bone marrow aspiration and biopsy. After a small area of skin is numbed, a bone marrow needle is inserted into the child’s hip bone. Samples of blood, bone, and bone marrow are removed for examination under a microscope.\n- X-ray is a type of radiation that can go through the body and make pictures of areas inside the body, such as the chest or the area where the tumor formed.\n- Complete blood count (CBC) checks a sample of blood for:\n- the number of red blood cells , white blood cells , and platelets\n- the amount of hemoglobin (the protein that carries oxygen ) in the red blood cells\n- the portion of the blood sample made up of red blood cells\n- Blood chemistry study uses a blood sample to measure the amounts of certain substances, such as lactate dehydrogenase (LDH), released into the blood by organs and tissues in the body. An unusual amount of a substance can be a sign of disease.\n- Biopsy is a procedure in which a sample of tissue is removed from the tumor so that a pathologist can view it under a microscope to check for cancer. The following types of biopsies are used to check for Ewing sarcoma: The child's pathologist, radiation oncologist , and surgeon usually work together to decide the best site to place the needle or biopsy incision. The selection of the biopsy site is important. A biopsy site that is not properly selected may result in more extensive surgery to remove the tumor or a larger area that is treated with radiation therapy . If there is a chance that the cancer has spread to nearby lymph nodes , one or more lymph nodes may be removed and checked for cancer. The following tests may be done on the tissue that is removed:\n- Incisional biopsy removes a sample of tissue through an incision in the skin.\n- Needle biopsy uses a needle to remove a sample of tissue.\n- Cytogenetic analysis is a test in which the chromosomes of cells in a sample of tissue are counted and checked for any changes, such as broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes may be a sign of cancer. Cytogenetic analysis is used to help diagnose cancer, plan treatment, or find out how well treatment is working.\n- Immunohistochemistry is a test that uses antibodies to check for certain antigens ( markers ) in a sample of a patient's tissue. The antibodies are usually linked to an enzyme or a fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and to help tell one type of cancer from another type.\n- Flow cytometry measures the number of cells in a sample, the percentage of live cells in a sample, and certain characteristics of the cells, such as size, shape, and the presence of tumor (or other) markers on the cell surface. The cells from a sample of a patient's blood, bone marrow, or other tissue are stained with a fluorescent dye, placed in a fluid, and then passed one at a time through a beam of light. The test results are based on how the cells that were stained with the fluorescent dye react to the beam of light.\n- Molecular test checks for certain genes, proteins, or other molecules in a sample of tissue, blood, or other body fluid. A molecular test may be done with other procedures, such as biopsies, to help diagnose some types of cancer. Molecular tests check for certain gene or chromosome changes that occur in some Ewing sarcomas.\n- Reverse transcription–polymerase chain reaction ( RT–PCR ) test measures the amount of a genetic substance called mRNA made by a specific gene. An enzyme called reverse transcriptase is used to convert a specific piece of RNA into a matching piece of DNA , which can be amplified (made in large numbers) by another enzyme called DNA polymerase. The amplified DNA copies help tell whether a specific mRNA is being made by a gene. RT–PCR can be used to check the activation of certain genes that may indicate the presence of cancer cells. This test may be used to look for certain changes in a gene or chromosome , which may help diagnose cancer."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery).",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Ewing Sarcoma",
+            "Certain factors affect prognosis (chance of recovery)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "If your child has been diagnosed with Ewing sarcoma, you likely have questions about how serious the cancer is and your child's chances of survival. The likely outcome or course of a disease is called prognosis. The factors that affect prognosis are different before and after treatment.\nBefore any treatment is given, prognosis depends on:\n- whether the tumor has spread to lymph nodes or distant parts of the body\n- where in the body the tumor started\n- whether the tumor formed in the bone or in soft tissue\n- how large the tumor is when the tumor is diagnosed\n- whether the LDH level in the blood is higher than normal\n- whether the tumor has certain gene changes\n- whether tumor cells or DNA has been found in the blood\n- your child's age\n- your child's sex\n- whether your child has had treatment for a different cancer\n- whether the tumor has just been diagnosed or has come back\nAfter treatment is given, prognosis is affected by:\n- whether the tumor was completely removed by surgery\n- whether the tumor responded to chemotherapy or radiation therapy\nIf the cancer recurs after initial treatment, prognosis depends on:\n- whether the cancer came back more than two years after the initial treatment\n- whether the cancer came back where it first formed and in other parts of the body, or whether the cancer came back in only one site"
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Ewing Sarcoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Ewing sarcoma is described as localized, metastatic, or recurrent.\n- Localized Ewing sarcoma\n- Metastatic Ewing sarcoma\n- Recurrent Ewing sarcoma"
+        },
+        {
+          "section": "Localized Ewing sarcoma",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Ewing Sarcoma",
+            "Ewing sarcoma is described as localized, metastatic, or recurrent.",
+            "Localized Ewing sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer is found in the bone or soft tissue where it began and may have spread to nearby tissue, including nearby lymph nodes."
+        },
+        {
+          "section": "Metastatic Ewing sarcoma",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Ewing Sarcoma",
+            "Ewing sarcoma is described as localized, metastatic, or recurrent.",
+            "Metastatic Ewing sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer has spread from the bone or soft tissue where it began to other parts of the body. In Ewing sarcoma of bone, the cancer most often spreads to the lung , other bones, and bone marrow."
+        },
+        {
+          "section": "Recurrent Ewing sarcoma",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Ewing Sarcoma",
+            "Ewing sarcoma is described as localized, metastatic, or recurrent.",
+            "Recurrent Ewing sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer has recurred (come back) after it has been treated. The cancer may come back in the bone or soft tissue where it began or in another part of the body."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Children with Ewing sarcoma should have their treatment planned by a team of health care providers who are experts in treating cancer in children.\n- There are different types of treatment for children with Ewing sarcoma.\n- The following types of treatment are used:\n- Chemotherapy\n- Radiation therapy\n- Surgery\n- Stem cell transplant\n- You may want to think about having your child take part in a clinical trial.\n- Treatment for Ewing sarcoma may cause side effects.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "Children with Ewing sarcoma should have their treatment planned by a team of health care providers who are experts in treating cancer in children.",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Children with Ewing sarcoma should have their treatment planned by a team of health care providers who are experts in treating cancer in children."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "A pediatric oncologist, a doctor who specializes in treating children with cancer, oversees treatment of Ewing sarcoma. The pediatric oncologist works with other health care providers who are experts in treating children with Ewing sarcoma and who specialize in certain areas of medicine. Other specialists may include:\n- pediatrician\n- surgical oncologist or orthopedic oncologist\n- radiation oncologist\n- pediatric nurse specialist\n- social worker\n- rehabilitation specialist\n- psychologist\n- fertility specialist"
+        },
+        {
+          "section": "There are different types of treatment for children with Ewing sarcoma.",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for children with Ewing sarcoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You and your child's care team will work together to decide treatment. Many factors will be considered, such as where the cancer is located, your child's age and overall health, and whether the cancer is newly diagnosed or has come back.\nYour child's treatment plan will include information about the tumor, the goals of treatment, treatment options, and the possible side effects. It will be helpful to talk with your child's care team before treatment begins about what to expect. For help every step of the way, visit our booklet, Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells. Chemotherapy either kills the cancer cells or stops them from dividing.\nChemotherapy for Ewing sarcoma is taken by mouth or injected into a vein. When given this way, the drugs enter the bloodstream and can reach cancer cells throughout the body. Systemic combination chemotherapy is often given to shrink the tumor before surgery or radiation therapy and to kill any cancer cells that have spread to other parts of the body. It is often the first treatment given and lasts for about 6 to 12 months.\nChemotherapy drugs used alone or in combination to treat Ewing sarcoma include:\n- cyclophosphamide\n- docetaxel\n- doxorubicin\n- etoposide\n- gemcitabine\n- ifosfamide\n- irinotecan\n- temozolomide\n- topotecan\n- vincristine\nOther chemotherapy drugs not listed here may also be used.\nLearn more about how chemotherapy works, how it is given, common side effects, and more at Chemotherapy to Treat Cancer ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Radiation therapy uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. Ewing sarcoma is treated with external beam radiation therapy. This type of therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\nRadiation therapy is used when the tumor cannot be removed by surgery or when surgery to remove the tumor will affect important body functions or the way the child will look. It may be used to make the tumor smaller and decrease the amount of tissue that needs to be removed during surgery. It may also be used to treat any tumor that remains after surgery and tumors that have spread to other parts of the body.\nRadiation therapy may also be used as palliative therapy to relieve symptoms caused by the tumor in the bone.\nLearn more about External Beam Radiation Therapy for Cancer and Radiation Therapy Side Effects ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Surgery is usually done to remove cancer that is left after chemotherapy or radiation therapy. When possible, the whole tumor is removed by surgery. Tissue and bone that are removed may be replaced with a graft , which uses tissue and bone taken from another part of the child's body or a donor . Sometimes an implant , such as artificial bone, is used.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, some children may be given chemotherapy or radiation therapy to kill any cancer cells that are left. Treatment given after the surgery to lower the risk that the cancer will come back is called adjuvant therapy ."
+        },
+        {
+          "section": "Stem cell transplant",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Stem cell transplant"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "High doses of chemotherapy are given to kill cancer cells. These treatments destroy healthy cells, including blood-forming cells. Stem cell transplant is a treatment to replace the blood-forming cells. Stem cells (immature blood cells) are removed from the child's blood or bone marrow and are frozen and stored. After the child completes chemotherapy, the stored stem cells are thawed and given back to the child through an infusion . These reinfused stem cells grow into (and restore) the body's blood cells. Stem cell transplant is used to treat localized and recurrent Ewing sarcoma."
+        },
+        {
+          "section": "You may want to think about having your child take part in a clinical trial.",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "You may want to think about having your child take part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some children, joining a clinical trial may be an option. There are different types of clinical trials for childhood cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your child's age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment for Ewing sarcoma may cause side effects.",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for Ewing sarcoma may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Cancer treatments can cause side effects. Which side effects your child might have depends on the type of treatment they receive, the dose, and how their body reacts. Talk with your child's treatment team about which side effects to look for and ways to manage them.\nTo learn more about side effects that begin during treatment for cancer, visit Side Effects .\nProblems from cancer treatment that begin 6 months or later after treatment and continue for months or years are called late effects. Late effects of cancer treatment may include:\n- physical problems\n- changes in mood, feelings, thinking, learning, or memory\n- second cancers (new types of cancer), such as acute myeloid leukemia and myelodysplastic syndrome , or sarcoma in the areas treated with radiation therapy\nSome late effects may be treated or controlled. It is important to talk with your child's doctors about the effects cancer treatment can have on your child. Learn more about Late Effects of Treatment for Childhood Cancer ."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "As your child goes through treatment, they will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your child's condition has changed or if the cancer has recurred (come back).\nTo learn more about these follow-up tests, visit Tests to diagnose Ewing sarcoma ."
+        },
+        {
+          "section": "Treatment of Localized Ewing Sarcoma",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Localized Ewing Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatments for newly diagnosed localized Ewing sarcoma include:\n- chemotherapy\n- surgery and/or radiation therapy\n- stem cell transplant with the child's own cells\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Metastatic Ewing Sarcoma",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Metastatic Ewing Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatments for newly diagnosed metastatic Ewing sarcoma include:\n- chemotherapy\n- surgery\n- radiation therapy\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Ewing Sarcoma",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Ewing Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment of recurrent Ewing sarcoma may include:\n- combination chemotherapy\n- surgery\n- radiation therapy to bone tumors, as palliative therapy to relieve symptoms and improve quality of life\n- radiation therapy that may be followed by surgery to remove tumors that have spread to the lungs\n- stem cell transplant with the child's own cells\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Related resources",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "Related resources"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "For more childhood cancer information and other general cancer resources, visit:\n- Bone Cancer Home Page\n- Bone Cancer\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Adolescents and Young Adults with Cancer\n- Cancer in Children and Adolescents\n- Coping with Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of childhood Ewing sarcoma. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Ewing Sarcoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389350]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Ewing Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\e57a68b446747ffb75f3.html"
+    }
+  ]
+}

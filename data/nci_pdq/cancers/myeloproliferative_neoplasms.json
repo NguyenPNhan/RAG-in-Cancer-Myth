@@ -1,0 +1,623 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Myeloproliferative Neoplasms",
+  "generated_at": "2026-08-31T07:15:23.377995+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Myeloproliferative Neoplasms",
+      "title": "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+      "summary_name": "Myeloproliferative Neoplasms Treatment",
+      "url": "https://www.cancer.gov/types/myeloproliferative/patient/chronic-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 12, 2025",
+      "retrieved_at": "2026-08-31T07:12:51.598693+00:00",
+      "content_sha256": "2977063090783af743775924cc87d948f1a388c5328732978ae6cff72bcb88d7",
+      "section_count": 53,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "General Information About Myeloproliferative Neoplasms",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Myeloproliferative neoplasms are a group of diseases in which the bone marrow makes too many red blood cells, white blood cells, or platelets.\n- The following are types of myeloproliferative neoplasms.\n- Tests that examine the blood and bone marrow are used to diagnose myeloproliferative neoplasms."
+        },
+        {
+          "section": "Myeloproliferative neoplasms are a group of diseases in which the bone marrow makes too many red blood cells, white blood cells, or platelets.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "General Information About Myeloproliferative Neoplasms",
+            "Myeloproliferative neoplasms are a group of diseases in which the bone marrow makes too many red blood cells, white blood cells, or platelets."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Normally, the bone marrow makes blood stem cells (immature cells) that become mature blood cells over time.\nA blood stem cell may become a myeloid stem cell or a lymphoid stem cell. A lymphoid stem cell becomes a white blood cell . A myeloid stem cell becomes one of three types of mature blood cells:\n- red blood cells that carry oxygen and other substances to all tissues of the body\n- granulocytes , which are white blood cells that help fight infection and disease\n- platelets that form blood clots to stop bleeding\nIn myeloproliferative neoplasms , too many blood stem cells become one or more types of blood cells. The neoplasms usually get worse slowly as the number of extra blood cells increases."
+        },
+        {
+          "section": "The following are types of myeloproliferative neoplasms.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "General Information About Myeloproliferative Neoplasms",
+            "The following are types of myeloproliferative neoplasms."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "The type of myeloproliferative neoplasm is based on whether too many red blood cells, white blood cells, or platelets are being made. Sometimes the body will make too many of more than one type of blood cell, but usually one type of blood cell is affected more than the others are. Myeloproliferative neoplasms include:\n- chronic myeloid leukemia\n- polycythemia vera\n- essential thrombocythemia\n- vert and prefibrotic primary myelofibrosis (also called chronic idiopathic myelofibrosis)\n- chronic neutrophilic leukemia\n- chronic eosinophilic leukemia\n- myeloproliferative neoplasms unclassifiable\nThese types are described below. Myeloproliferative neoplasms sometimes become acute leukemia , in which too many abnormal white blood cells are made."
+        },
+        {
+          "section": "Tests that examine the blood and bone marrow are used to diagnose myeloproliferative neoplasms.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "General Information About Myeloproliferative Neoplasms",
+            "Tests that examine the blood and bone marrow are used to diagnose myeloproliferative neoplasms."
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Complete blood count (CBC) with differential checks a sample of blood for: Enlarge Complete blood count (CBC). Blood is collected by inserting a needle into a vein and allowing the blood to flow into a tube. The blood sample is sent to the laboratory and the red blood cells, white blood cells, and platelets are counted. The CBC is used to test for, diagnose, and monitor many different conditions.\n- the number of red blood cells and platelets\n- the number and type of white blood cells\n- the amount of hemoglobin (the protein that carries oxygen) in the red blood cells\n- the amount of hematocrit (whole blood that is made up of red blood cells)\n- Peripheral blood smear checks a sample of blood for:\n- whether there are red blood cells shaped like teardrops\n- the number and kinds of white blood cells\n- the number of platelets\n- whether there are blast cells\n- Blood chemistry study uses a blood sample to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual amount of a substance can be a sign of disease.\n- Bone marrow aspiration and biopsy is the removal of bone marrow, blood, and a small piece of bone by inserting a hollow needle into the hipbone or breastbone . A pathologist views the bone marrow, blood, and bone under a microscope to look for abnormal cells. Enlarge Bone marrow aspiration and biopsy. After a small area of skin is numbed, a long, hollow needle is inserted through the patient's skin and hip bone into the bone marrow. A sample of bone marrow and a small piece of bone are removed for examination under a microscope.\n- Cytogenetic analysis checks the chromosomes of cells in a sample of bone marrow, blood, tumor, or other tissue for broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes may be a sign of cancer . Cytogenetic analysis is used to help diagnose cancer, plan treatment, or find out how well treatment is working.\n- Genetic testing is done on a bone marrow or blood sample to check for mutations in JAK2 , MPL , or CALR genes. A JAK2 gene mutation is often found in patients with polycythemia vera, essential thrombocythemia, or primary myelofibrosis. MPL or CALR gene mutations are found in patients with essential thrombocythemia or primary myelofibrosis."
+        },
+        {
+          "section": "Chronic Myeloid Leukemia",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Chronic Myeloid Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chronic myeloid leukemia is a disease in which too many white blood cells are made in the bone marrow . To learn more about diagnosis , staging , and treatment, visit Chronic Myeloid Leukemia Treatment ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Polycythemia Vera",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Polycythemia vera is a disease in which too many red blood cells are made in the bone marrow.\n- Symptoms of polycythemia vera include headaches and a feeling of fullness below the ribs on the left side.\n- Special blood tests are used to diagnose polycythemia vera."
+        },
+        {
+          "section": "Polycythemia vera is a disease in which too many red blood cells are made in the bone marrow.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Polycythemia Vera",
+            "Polycythemia vera is a disease in which too many red blood cells are made in the bone marrow."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In polycythemia vera , the blood becomes thickened with too many red blood cells . The number of white blood cells and platelets may also increase. These extra blood cells may collect in the spleen and cause it to swell. The increased number of red blood cells, white blood cells, or platelets in the blood can cause bleeding problems and make clots form in blood vessels . This can increase the risk of stroke or heart attack. In patients who are older than 65 years or who have a history of blood clots , the risk of stroke or heart attack is higher. Patients also have an increased risk of acute myeloid leukemia or primary myelofibrosis ."
+        },
+        {
+          "section": "Symptoms of polycythemia vera include headaches and a feeling of fullness below the ribs on the left side.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Polycythemia Vera",
+            "Symptoms of polycythemia vera include headaches and a feeling of fullness below the ribs on the left side."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Polycythemia vera often does not cause early signs or symptoms . It may be found during a routine blood test . Signs and symptoms may occur as the number of blood cells increases. Other conditions may cause the same signs and symptoms. Check with your doctor if you have:\n- a feeling of pressure or fullness below the ribs on the left side\n- headaches\n- double vision or seeing dark or blind spots that come and go\n- itching all over the body, especially after being in warm or hot water\n- reddened face that looks like a blush or sunburn\n- weakness\n- dizziness\n- weight loss for no known reason"
+        },
+        {
+          "section": "Special blood tests are used to diagnose polycythemia vera.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Polycythemia Vera",
+            "Special blood tests are used to diagnose polycythemia vera."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In addition to a complete blood count , bone marrow aspiration and biopsy , and cytogenetic analysis , a serum erythropoietin test is used to diagnose polycythemia vera. In this test, a sample of blood is checked for the level of erythropoietin (a hormone that stimulates new red blood cells to be made). In polycythemia vera, the erythropoietin level would be lower than normal because the body does not need to make more red blood cells."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Essential Thrombocythemia",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Essential thrombocythemia is a disease in which too many platelets are made in the bone marrow.\n- Patients with essential thrombocythemia may have no signs or symptoms.\n- Certain factors affect prognosis (chance of recovery) and treatment options for essential thrombocythemia."
+        },
+        {
+          "section": "Essential thrombocythemia is a disease in which too many platelets are made in the bone marrow.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Essential Thrombocythemia",
+            "Essential thrombocythemia is a disease in which too many platelets are made in the bone marrow."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Essential thrombocythemia causes an abnormal increase in the number of platelets made in the blood and bone marrow ."
+        },
+        {
+          "section": "Patients with essential thrombocythemia may have no signs or symptoms.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Essential Thrombocythemia",
+            "Patients with essential thrombocythemia may have no signs or symptoms."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Essential thrombocythemia often does not cause early signs or symptoms . It may be found during a routine blood test . Signs and symptoms may be caused by essential thrombocythemia or by other conditions. Check with your doctor if you have:\n- headaches\n- burning or tingling in the hands or feet\n- redness and warmth of the hands or feet\n- vision or hearing problems\nPlatelets are sticky. When there are too many platelets, they may clump together and make it hard for the blood to flow. Clots may form in blood vessels and there may also be increased bleeding. These can cause serious health problems such as stroke and heart attack, or pulmonary embolism and deep vein thrombosis in people older than 60 years, who have had blood clots or high white blood cell counts in the past. In some people, essential thrombocythemia may become acute leukemia."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options for essential thrombocythemia.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Essential Thrombocythemia",
+            "Certain factors affect prognosis (chance of recovery) and treatment options for essential thrombocythemia."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Prognosis and treatment options depend on:\n- the age of the patient\n- whether the patient has signs or symptoms or other problems related to essential thrombocythemia"
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Overt and Prefibrotic Primary Myelofibrosis",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Primary myelofibrosis is a disease in which abnormal blood cells and fibers build up inside the bone marrow.\n- Symptoms of primary myelofibrosis include pain below the ribs on the left side and feeling very tired.\n- Certain factors affect prognosis (chance of recovery) and treatment options for primary myelofibrosis."
+        },
+        {
+          "section": "Primary myelofibrosis is a disease in which abnormal blood cells and fibers build up inside the bone marrow.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Overt and Prefibrotic Primary Myelofibrosis",
+            "Primary myelofibrosis is a disease in which abnormal blood cells and fibers build up inside the bone marrow."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The bone marrow is made of tissues that make blood cells ( red blood cells , white blood cells , and platelets ) and a web of fibers that support the blood-forming tissues. In primary myelofibrosis (also called chronic idiopathic myelofibrosis), large numbers of blood stem cells become blood cells that do not mature properly ( blasts ). The web of fibers inside the bone marrow also becomes very thick (like scar tissue ) and slows the blood-forming tissue’s ability to make blood cells. This causes the blood-forming tissues to make fewer and fewer blood cells. In order to make up for the low number of blood cells made in the bone marrow, the liver and spleen begin to make the blood cells."
+        },
+        {
+          "section": "Symptoms of primary myelofibrosis include pain below the ribs on the left side and feeling very tired.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Overt and Prefibrotic Primary Myelofibrosis",
+            "Symptoms of primary myelofibrosis include pain below the ribs on the left side and feeling very tired."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Primary myelofibrosis often does not cause early signs or symptoms . It may be found during a routine blood test . Signs and symptoms may be caused by primary myelofibrosis or by other conditions. Check with your doctor if you have:\n- pain or a feeling of fullness below the ribs on the left side\n- early satiety (feeling full sooner than normal when eating)\n- anemia\n- bone pain\n- tiredness\n- shortness of breath\n- easy bruising or bleeding\n- petechiae (flat, red, pinpoint spots under the skin that are caused by bleeding)\n- fever\n- drenching night sweats\n- weight loss"
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options for primary myelofibrosis.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Overt and Prefibrotic Primary Myelofibrosis",
+            "Certain factors affect prognosis (chance of recovery) and treatment options for primary myelofibrosis."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The prognosis depends on:\n- the age of the patient\n- the number of abnormal red blood cells and white blood cells\n- the number of blasts in the blood\n- whether there are certain changes in the chromosomes\n- whether the patient has signs such as fever, drenching night sweats, or weight loss"
+        },
+        {
+          "section": "Chronic Neutrophilic Leukemia",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Chronic Neutrophilic Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chronic neutrophilic leukemia is a disease in which too many blood stem cells become a type of white blood cell called neutrophils . Neutrophils are infection -fighting blood cells that surround and destroy dead cells and foreign substances (such as bacteria ). The spleen and liver may swell because of the extra neutrophils. Chronic neutrophilic leukemia may stay the same or it may progress quickly to acute leukemia ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Chronic Eosinophilic Leukemia",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Chronic eosinophilic leukemia is a disease in which too many white blood cells (eosinophils) are made in the bone marrow.\n- Signs and symptoms of chronic eosinophilic leukemia include fever and feeling very tired."
+        },
+        {
+          "section": "Chronic eosinophilic leukemia is a disease in which too many white blood cells (eosinophils) are made in the bone marrow.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Chronic Eosinophilic Leukemia",
+            "Chronic eosinophilic leukemia is a disease in which too many white blood cells (eosinophils) are made in the bone marrow."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Eosinophils are white blood cells that react to allergens (substances that cause an allergic response ) and help fight infections caused by certain parasites . In chronic eosinophilic leukemia , there are too many eosinophils in the blood, bone marrow , and other tissues. Chronic eosinophilic leukemia may stay the same for many years or it may progress quickly to acute leukemia ."
+        },
+        {
+          "section": "Signs and symptoms of chronic eosinophilic leukemia include fever and feeling very tired.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Chronic Eosinophilic Leukemia",
+            "Signs and symptoms of chronic eosinophilic leukemia include fever and feeling very tired."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Chronic eosinophilic leukemia may not cause early signs or symptoms . It may be found during a routine blood test . Signs and symptoms may be caused by chronic eosinophilic leukemia or by other conditions . Check with your doctor if you have:\n- fever\n- tiredness\n- cough\n- swelling under the skin around the eyes and lips, in the throat , or on the hands and feet\n- muscle pain\n- itching\n- diarrhea"
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Stages of Myeloproliferative Neoplasms",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- There is no standard staging system for myeloproliferative neoplasms."
+        },
+        {
+          "section": "There is no standard staging system for myeloproliferative neoplasms.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Stages of Myeloproliferative Neoplasms",
+            "There is no standard staging system for myeloproliferative neoplasms."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The process used to find out if cancer has spread to other parts of the body is called staging . There is no standard staging system for myeloproliferative neoplasms . It is important to know the type of myeloproliferative neoplasm in order to plan treatment."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "- There are different types of treatment for patients with myeloproliferative neoplasms.\n- The following types of treatment are used:\n- Watchful waiting\n- Phlebotomy\n- Platelet apheresis\n- Transfusion therapy\n- Chemotherapy\n- Radiation therapy\n- Other drug therapy\n- Surgery\n- Immunotherapy\n- Targeted therapy\n- High-dose chemotherapy with stem cell transplant\n- New types of treatment are being tested in clinical trials.\n- Treatment for myeloproliferative neoplasms may cause side effects.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with myeloproliferative neoplasms.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with myeloproliferative neoplasms."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatments are available for patients with myeloproliferative neoplasms . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments. When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Watchful waiting",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Watchful waiting"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Watchful waiting is closely monitoring a patient’s condition without giving any treatment until signs or symptoms appear or change."
+        },
+        {
+          "section": "Phlebotomy",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Phlebotomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Phlebotomy is a procedure in which blood is taken from a vein. A sample of blood may be taken for tests such as a CBC or blood chemistry . Sometimes phlebotomy is used as a treatment and blood is taken from the body to remove extra red blood cells . Phlebotomy is used in this way to treat some myeloproliferative neoplasms."
+        },
+        {
+          "section": "Platelet apheresis",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Platelet apheresis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Platelet apheresis is a treatment that uses a special machine to remove platelets from the blood. Blood is taken from the patient and put through a blood cell separator where the platelets are removed. The rest of the blood is then returned to the patient’s bloodstream."
+        },
+        {
+          "section": "Transfusion therapy",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Transfusion therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Blood transfusion is a method of giving red blood cells, white blood cells , or platelets to replace blood cells destroyed by disease or cancer treatment."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ).\nLearn more at Drugs Approved for Myeloproliferative Neoplasms ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the area of the body, such as the spleen , with cancer."
+        },
+        {
+          "section": "Other drug therapy",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Other drug therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Prednisone and danazol are drugs that may be used to treat anemia in patients with primary myelofibrosis .\nAnagrelide therapy is used to reduce the risk of blood clots in patients who have too many platelets in their blood. Low-dose aspirin may also be used to reduce the risk of blood clots.\nThalidomide , lenalidomide , and pomalidomide are drugs that prevent blood vessels from growing into areas of tumor cells.\nErythropoietic growth factors are used to stimulate the bone marrow to make red blood cells.\nLearn more at Drugs Approved for Myeloproliferative Neoplasms ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Splenectomy (surgery to remove the spleen) may be done if the spleen is enlarged."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Immunotherapy is a treatment that uses the patient's immune system to fight cancer. Substances made by the body or made in a laboratory are used to boost, direct, or restore the body's natural defenses against cancer.\n- Interferon: Interferon affects the division of cancer cells and can slow tumor growth. Interferon alfa and pegylated interferon alpha are commonly used to treat certain myeloproliferative neoplasms."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells.\n- Tyrosine kinase inhibitor (TKI) therapy: TKI therapy blocks signals that cancer cells need to grow. Ruxolitinib is used to treat polycythemia vera and certain types of myelofibrosis .\nLearn more at Drugs Approved for Myeloproliferative Neoplasms .\nOther types of targeted therapies are being studied in clinical trials."
+        },
+        {
+          "section": "High-dose chemotherapy with stem cell transplant",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "High-dose chemotherapy with stem cell transplant"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "High doses of chemotherapy are given to kill cancer cells. Healthy cells, including blood-forming cells, are also destroyed by the cancer treatment. Stem cell transplant is a treatment to replace the blood-forming cells. Stem cells (immature blood cells) are removed from the blood or bone marrow of the patient or a donor and are frozen and stored. After the patient completes chemotherapy, the stored stem cells are thawed and given back to the patient through an infusion . These reinfused stem cells grow into (and restore) the body's blood cells. Enlarge Donor stem cell transplant. (Step 1): Four to five days before donor stem cell collection, the donor receives a medicine to increase the number of stem cells circulating through their bloodstream (not shown). The blood-forming stem cells are then collected from the donor through a large vein in their arm. The blood flows through an apheresis machine that removes the stem cells. The rest of the blood is returned to the donor through a vein in their other arm. (Step 2): The patient receives chemotherapy to kill cancer cells and prepare their body for the donor stem cells. The patient may also receive radiation therapy (not shown). (Step 3): The patient receives an infusion of the donor stem cells."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some people, joining a clinical trial may be an option. There are different types of clinical trials for people with cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment for myeloproliferative neoplasms may cause side effects.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for myeloproliferative neoplasms may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Chronic Myeloid Leukemia",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment of Chronic Myeloid Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Learn more at Chronic Myeloid Leukemia Treatment .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Polycythemia Vera",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment of Polycythemia Vera"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "The purpose of treatment for polycythemia vera is to reduce the number of extra blood cells. Treatment of polycythemia vera may include:\n- phlebotomy\n- chemotherapy ( hydroxyurea ) with or without phlebotomy\n- targeted therapy ( ruxolitinib ), if the chemotherapy does not work\n- immunotherapy ( pegylated interferon alpha or ropeginterferon alfa-2B )\n- low-dose aspirin\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Essential Thrombocythemia",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment of Essential Thrombocythemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment of essential thrombocythemia in patients younger than 60 years who have no signs or symptoms and an acceptable platelet count is usually watchful waiting . Treatment of other patients may include:\n- chemotherapy ( hydroxyurea )\n- immunotherapy ( interferon alfa or pegylated interferon alpha )\n- anagrelide\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Primary Myelofibrosis",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment of Primary Myelofibrosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "Treatment of primary myelofibrosis in patients without signs or symptoms is usually watchful waiting .\nPatients with primary myelofibrosis may have signs or symptoms of anemia . Anemia is usually treated with transfusion of red blood cells to relieve symptoms and improve quality of life . In addition, anemia may be treated with:\n- erythropoietic growth factors\n- prednisone\n- danazol\n- thalidomide , lenalidomide , or pomalidomide , with or without prednisone\nTreatment of primary myelofibrosis in patients with other signs or symptoms may include:\n- targeted therapy with ruxolitinib\n- chemotherapy (hydroxyurea, cladribine)\n- allogeneic stem cell transplant or bone marrow transplant\n- thalidomide, lenalidomide, or pomalidomide\n- splenectomy\n- radiation therapy to the spleen , lymph nodes , or other areas outside the bone marrow where blood cells are forming\n- immunotherapy ( interferon alfa )\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Chronic Neutrophilic Leukemia",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment of Chronic Neutrophilic Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment of chronic neutrophilic leukemia may include:\n- allogenic bone marrow transplant\n- chemotherapy\n- immunotherapy ( interferon alfa )\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Chronic Eosinophilic Leukemia",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "Treatment of Chronic Eosinophilic Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of chronic eosinophilic leukemia may include:\n- bone marrow transplant\n- immunotherapy ( interferon alfa )\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Myeloproliferative Neoplasms",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "To Learn More About Myeloproliferative Neoplasms"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "For more information from the National Cancer Institute about myeloproliferative neoplasms, visit:\n- Myeloproliferative Neoplasms Home Page\n- Drugs Approved for Myeloproliferative Neoplasms\n- Immunotherapy to Treat Cancer\n- Stem Cell Transplants in Cancer Treatment\n- Targeted Therapy to Treat Cancer\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of myeloproliferative neoplasms. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Myeloproliferative Neoplasms Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/myeloproliferative/patient/chronic-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389435]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Myeloproliferative Neoplasms Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\0c127546ea93b1ce1a9f.html"
+    }
+  ]
+}

@@ -1,0 +1,766 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Transitional Cell Cancer of the Renal Pelvis and Ureter",
+  "generated_at": "2026-08-31T07:15:23.569769+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Transitional Cell Cancer of the Renal Pelvis and Ureter",
+      "title": "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment",
+      "url": "https://www.cancer.gov/types/kidney/hp/transitional-cell-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "January 5, 2024",
+      "retrieved_at": "2026-08-31T07:11:05.644289+00:00",
+      "content_sha256": "cf4fe0b5f645d0d3a306d821fe63df5c2107b675a03d9c462d2edea46bb93f0b",
+      "section_count": 24,
+      "sections": [
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Transitional cell cancer of the renal pelvis accounts for only 7% of all kidney tumors, and transitional cell cancer of the ureter accounts for only 4% of upper urinary tract tumors. These cancers are curable in more than 90% of patients if they are superficial and confined to the renal pelvis or ureter. Patients with deeply invasive tumors that are confined to the renal pelvis or ureter have a 10% to 15% likelihood of cure. Patients with tumors with penetration through the urothelial wall or with distant metastases usually cannot be cured with available forms of treatment."
+        },
+        {
+          "section": "Prognosis",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Prognosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The major prognostic factor at the time of diagnosis of upper tract transitional cell cancer is the depth of infiltration into or through the uroepithelial wall.\nMost superficial tumors are likely to be well differentiated, while infiltrative tumors are likely to be poorly differentiated. The incidence of synchronous or metachronous contralateral upper tract cancers ranges from 2% to 4%; the incidence of subsequent bladder cancer after previous upper tract transitional cell cancer ranges from 30% to 50%.[ 1 ] When involvement of the upper tract is diffuse (involving both the renal pelvis and ureter), the likelihood of subsequent bladder cancer increases to 75%. DNA ploidy has not added significant prognostic information beyond that provided by stage and grade.[ 2 ]"
+        },
+        {
+          "section": "Diagnostics",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Diagnostics"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Even if ureteroscopy and pyeloscopy are successfully implemented, accurate assessment of depth of invasion is difficult."
+        },
+        {
+          "section": "Treatment Management and Survivorship",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Treatment Management and Survivorship"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Total excision of the ureter with a bladder cuff, renal pelvis, and kidney is recommended to provide the greatest likelihood of cure."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Treatment Management and Survivorship",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Krogh J, Kvist E, Rye B: Transitional cell carcinoma of the upper urinary tract: prognostic variables and post-operative recurrences. Br J Urol 67 (1): 32-6, 1991. [PUBMED Abstract]\n- Corrado F, Ferri C, Mannini D, et al.: Transitional cell carcinoma of the upper urinary tract: evaluation of prognostic factors by histopathology and flow cytometric analysis. J Urol 145 (6): 1159-63, 1991. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of Transitional Cell Cancer of the Renal Pelvis and Ureter",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Transitional Cell Cancer of the Renal Pelvis and Ureter"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Most upper tract uroepithelial tumors are of transitional cell histology. Squamous cell cancer (SCC) of the urinary tract makes up less than 15% of the tumors of the renal pelvis and a smaller percentage of ureteral tumors. SCC is often associated with chronic calculus disease and infection.\nGrade of transitional cell cancer of the upper tract has generally been found to correlate with stage. Superficial tumors are generally grade I or II, whereas most infiltrative tumors are grades III and IV. Prognosis is worse for patients with high-grade (grades III and IV) tumors than for those with low-grade (grades I and II) tumors."
+        },
+        {
+          "section": "Stage Information for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Transitional Cell Cancer of the Renal Pelvis and Ureter"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Though comparable in many respects to staging systems described for bladder cancer, unique structural aspects of the renal pelvis and ureter have led to several differences in the classification schema of tumors that involve the upper tracts. Clinical staging is based on a combination of radiographic procedures (e.g., intravenous pyelogram and computed tomographic scans) and, more recently, ureteroscopy and biopsy.\nThe advent of rigid and flexible ureteroscopic techniques has permitted endoscopic access to the ureter and renal pelvis. This may permit greater accuracy in preoperative definition of the stage and grade of an upper tract neoplasm. In addition, fulguration and endourological access permit resection or laser coagulation of highly selected low-stage, low-grade lesions of the ureters.[ 1 ] However, this approach is still under clinical evaluation because there is the possibility of inaccurate assessment of the stage and extent of disease, and the adequacy and risks of such treatment have not yet been defined.[ 2 - 5 ]\nBecause of the inaccessibility of ureteral and pelvic anatomy, accurate staging requires pathological analysis of the surgically excised specimen."
+        },
+        {
+          "section": "AJCC Stage Groupings and TNM Definitions",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "AJCC Stage Groupings and TNM Definitions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 66,
+          "text": "The American Joint Committee on Cancer (AJCC) has designated staging by TNM (tumor, node, metastasis) classification to define carcinoma of the renal pelvis and ureter.[ 6 ]\nStage | TNM | Definition\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Renal pelvis and ureter. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 749–55.\n0a | Ta, N0, M0 | Ta = Papillary noninvasive carcinoma.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\n0is | Tis, N0, M0 | Tis = Carcinoma in situ .\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Definition\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Renal pelvis and ureter. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 749–55.\nI | T1, N0, M0 | T1 = Tumor invades subepithelial connective tissue.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Definition\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Renal pelvis and ureter. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 749–55.\nII | T2, N0, M0 | T2 = Tumor invades the muscularis.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Definition\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Renal pelvis and ureter. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 749–55.\nIII | T3, N0, M0 | T3 = For renal pelvis only: Tumor invades beyond muscularis into peripelvic fat or into the renal parenchyma. For ureter only: Tumor invades beyond muscularis into periureteric fat.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Definition\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Renal pelvis and ureter. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 749–55.\nIV | T4, N0, M0 | T4 = Tumor invades adjacent organs, or through the kidney into the perinephric fat.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nAny T, N1, M0 | TX = Primary tumor cannot be assessed.\nT0 = No evidence of primary tumor.\nTa = Papillary noninvasive carcinoma.\nTis = Carcinoma in situ .\nT1 = Tumor invades subepithelial connective tissue.\nT2 = Tumor invades the muscularis.\nT3 = For renal pelvis only: Tumor invades beyond muscularis into peripelvic fat or into the renal parenchyma. For ureter only: Tumor invades beyond muscularis into periureteric fat.\nT4 = Tumor invades adjacent organs, or through the kidney into the perinephric fat.\nN1 = Metastasis in a single lymph node, ≤2 cm in greatest dimension.\nM0 = No distant metastasis.\nAny T, N2, M0 | Any T = See descriptions above in this table, stage IV, Any T, N1, M0.\nN2 = Metastasis in a single lymph node, >2 cm; or multiple lymph nodes.\nM0 = No distant metastasis.\nAny T, Any N, M1 | Any T = See descriptions above in this table, stage IV, Any T, N1, M0.\nNX = Regional lymph nodes cannot be assessed.\nN0 = No regional lymph node metastasis.\nN1 = Metastasis in a single lymph node, ≤2 cm in greatest dimension.\nN2 = Metastasis in a single lymph node, >2 cm; or multiple lymph nodes.\nM1 = Distant metastasis.\nPatients may also be designated as having localized, regional, or metastatic disease, as follows:\nLocalized\nPatients with localized disease may be classified into three groups:\n- Group 1: Low-grade tumor confined to the urothelium without lamina propria invasion ( papilloma grade I transitional cell cancer).\n- Group 2: Grade I–III carcinomas without demonstrable subepithelial invasion or focal microscopic invasion or papillary carcinomas with carcinoma in situ and/or carcinoma in situ elsewhere in the urothelium.\n- Group 3: High-grade tumors that have infiltrated the renal pelvic wall, renal parenchyma, or both but remain confined to the kidney. Infiltration of muscle in the upper tract may not be associated with as much potential for distant dissemination as appears to be the case for bladder cancer.\nRegional\n- Group 4: Extension of tumors beyond the renal pelvis or parenchyma and invasion of peripelvic and perirenal fat, lymph nodes, hilar vessels, and adjacent tissues.\nMetastatic\n- Spread of the tumor to distant tissues.\nEach of these classifications has been subclassified into categories of unicentricity or multicentricity. The latter category indicates a more pervasive tumor diathesis and generally a less favorable prognosis.\nAlthough the classifications listed above have prognostic significance, they can be determined only at the time of nephroureterectomy, which is the treatment of choice for patients with this disease. Because of the high incidence of tumor recurrence within the intramural ureter among patients who have had incomplete excision of this area, nephroureterectomy includes the entire ureter and a margin of periureteral orifice mucosa (i.e., bladder cuff).\nA TNM staging system has demonstrated accurate predictions of survival. The TNM staging system may be a better predictor of prognosis than tumor grade, although both are strongly predictive of survival. Median survival for patients with tumors confined to the subepithelial connective tissue was 91.1 months, compared with 12.9 months for patients with tumors invading the muscularis and beyond, in one report. Flow cytometry analysis identifies low-stage, low-grade tumors at high risk of recurrence by virtue of their aneuploid histograms.[ 7 , 8 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "AJCC Stage Groupings and TNM Definitions",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- Grossman HB, Schwartz SL, Konnak JW: Ureteroscopic treatment of urothelial carcinoma of the ureter and renal pelvis. J Urol 148 (2 Pt 1): 275-7, 1992. [PUBMED Abstract]\n- Batata M, Grabstald H: Upper urinary tract urothelial tumors. Urol Clin North Am 3 (1): 79-86, 1976. [PUBMED Abstract]\n- Cummings KB, Correa RJ, Gibbons RP, et al.: Renal pelvic tumors. J Urol 113 (2): 158-62, 1975. [PUBMED Abstract]\n- Nocks BN, Heney NM, Daly JJ, et al.: Transitional cell carcinoma of renal pelvis. Urology 19 (5): 472-7, 1982. [PUBMED Abstract]\n- Heney NM, Nocks BN, Daly JJ, et al.: Prognostic factors in carcinoma of the ureter. J Urol 125 (5): 632-6, 1981. [PUBMED Abstract]\n- Renal Pelvis and Ureter. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, 749–55.\n- Huben RP, Mounzer AM, Murphy GP: Tumor grade and stage as prognostic variables in upper tract urothelial tumors. Cancer 62 (9): 2016-20, 1988. [PUBMED Abstract]\n- Blute ML, Tsushima K, Farrow GM, et al.: Transitional cell carcinoma of the renal pelvis: nuclear deoxyribonucleic acid ploidy studied by flow cytometry. J Urol 140 (5): 944-9, 1988. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Option Overview for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Transitional Cell Cancer of the Renal Pelvis and Ureter"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Most patients with renal pelvic transitional cell cancers and ureteral cancers undergo total nephroureterectomy with bladder cuff excision. This treatment is because of the rarity of synchronous bilateral renal pelvic neoplasia, the low incidence of asynchronous development of contralateral upper tract tumors, and the increased risk of tumor recurrence in the ipsilateral ureter distal to the original pelvic tumor.\nContemplation of anything less than total excision must take into account the potential risk for tumor recurrence anywhere in the upper tract unit. In other than unifocal, low-grade, low-stage renal pelvic tumors, the probable extensive involvement of both contiguous and noncontiguous sites would appear to make segmental excision an unnecessary option with a potentially serious risk. However, an operative possibility includes segmental excision of a particular lesion. If the extent of a tumor can be determined by intraoperative assessment and frozen section histological diagnosis confirms a low-grade, unifocal tumor of limited size, then segmental excision is possible. However, this approach should be reserved for highly selected patients such as patients with one kidney or those with decreased renal function who require maximal preservation of renal tissue. The likelihood of tumor recurrence in this setting, and of extension of disease outside the renal pelvis once the pelvis has been violated, is a serious risk that must be heavily weighed in offering a patient this therapeutic option.\nUreteral transitional cell cancer may more readily offer the possibility of segmental excision if the absence of proximal disease can be documented. In this setting, attention is focused on the ease of reconstruction of the ureter and restoration of ureterovesical continuity. This treatment is most feasible if the cancer is in the distal ureter. If partial ureterectomy is possible and proximal disease has been excluded, then segmental excision and ureteral reimplantation can be performed.\nSystematic regional lymph node dissection in conjunction with nephroureterectomy or segmental excision has not been found to enhance the effectiveness of surgery if tumors are of high grade or high stage because, in these instances, the overall results are so poor. Correspondingly, lymph node involvement is uncommon in low-stage disease, and lymphadenectomy is unlikely to remove additional tumor. Lymph node dissection at the time of nephrectomy may offer prognostic information, but little, if any, therapeutic benefit."
+        },
+        {
+          "section": "Treatment Options for Localized Transitional Cell Cancer of the Renal Pelvis and Ureter",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Treatment Options for Localized Transitional Cell Cancer of the Renal Pelvis and Ureter"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Treatment options for localized transitional cell cancer of the renal pelvis and ureter include the following:\n- Nephroureterectomy with bladder cuff excision.\n- Segmental resection of ureter, only if the tumor is superficial and located in the distal third of the ureter.\n- Electroresection and fulguration or laser fulguration, if the tumor is superficial (under clinical evaluation).\n- Any parenchymal sparing procedure (segmental resection; ureteroscopic or percutaneous resection/fulguration/laser destruction), if the renal unit is solitary or renal function is depressed (under clinical evaluation).\n- Intrapelvic or intraureteral cytotoxic/immunotherapy (under clinical evaluation). The dramatic success reported with intravesical cytotoxic (thiotepa, mitomycin, doxorubicin) or immunologic/inflammatory (Bacillus Calmette Guerin [BCG], interferon) therapy for superficial transitional cell cancers in the bladder has led to the occasional use of these agents in the treatment of upper tract cancers. Long-term follow-up of the results of such treatments has generally not been reported. The efficacy of this approach cannot be assessed, largely because experience has been limited to patients whose compromised clinical status (solitary kidney, renal failure, medical risks for surgery) may have influenced clinical outcome. The use of this approach is limited by the following:\n- The extent of disease in the renal pelvis.\n- The access that these agents may have to the area of disease.\n- The sensitivity of the cancer being treated.\n- The adequacy and accuracy of initial tumor staging and continued monitoring.\n- Laser vaporization/coagulation (under clinical evaluation). Transurethral and percutaneous access to the upper tract have permitted the use of laser therapy in the control of superficial upper tract transitional cell cancers. This approach is dependent on accurate staging and adequate visualization of the lesions that need to be coagulated. Results of this approach are too preliminary to assess. Therapeutic efficacy, however, will depend on staging accuracy at initial treatment and the ease of monitoring such patients for disease recurrence and possible progression.\nThe development of new instrumentation for endourological treatment of upper tract transitional cell cancer has provided new options for regional management of these cancers. Introduction of electrofulguration and resection instruments or laser probes either transureterally or percutaneously, may permit destruction of a primary cancer. Introduction of cytotoxic agents has also been used. Although a biopsy can be taken for staging purposes, its accuracy remains to be determined. The efficacy of treatment by these maneuvers has not been established."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Regional Transitional Cell Cancer of the Renal Pelvis and Ureter",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Regional Transitional Cell Cancer of the Renal Pelvis and Ureter"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "There is no well-documented success for treatment of extensive regional disease with either radiation therapy or systemic chemotherapy. Patients with extensive regional disease should consider clinical trials."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Regional Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Metastatic or Recurrent Transitional Cell Cancer of the Renal Pelvis and Ureter",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic or Recurrent Transitional Cell Cancer of the Renal Pelvis and Ureter"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "The prognosis for any patient with metastatic or recurrent transitional cell cancer is poor. The proper management of recurrence depends on the sites of recurrence, extent of prior therapy, and individual patient considerations. Chemotherapy regimens that have been effective for metastatic bladder cancer have generally been applied to transitional cell cancers arising from other sites. Patients with distant metastases have a poor prognosis and can be offered treatment in a clinical trial.\nIn patients with metastatic or recurrent transitional cell carcinoma of the bladder, combination chemotherapy has produced high response rates and occasional complete responses.[ 1 , 2 ] Results from a randomized trial that compared methotrexate, vinblastine, doxorubicin, and cisplatin (M-VAC) with single-agent cisplatin in advanced bladder cancer showed a significant advantage with M-VAC in both response rate and median survival. The overall response rate with M-VAC in this cooperative group trial was 39%.[ 3 ]\nOther chemotherapy agents that have shown activity in metastatic transitional cell cancer include the following:[ 4 - 8 ][ Level of evidence C3 ]\n- Paclitaxel.\n- Ifosfamide.\n- Gallium nitrate.\n- Gemcitabine.\n- Pemetrexed.\nIfosfamide, gallium nitrate, and pemetrexed have shown limited activity in patients previously treated with cisplatin."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic or Recurrent Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic or Recurrent Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- Sternberg CN, Yagoda A, Scher HI, et al.: Methotrexate, vinblastine, doxorubicin, and cisplatin for advanced transitional cell carcinoma of the urothelium. Efficacy and patterns of response and relapse. Cancer 64 (12): 2448-58, 1989. [PUBMED Abstract]\n- Harker WG, Meyers FJ, Freiha FS, et al.: Cisplatin, methotrexate, and vinblastine (CMV): an effective chemotherapy regimen for metastatic transitional cell carcinoma of the urinary tract. A Northern California Oncology Group study. J Clin Oncol 3 (11): 1463-70, 1985. [PUBMED Abstract]\n- Loehrer PJ, Einhorn LH, Elson PJ, et al.: A randomized comparison of cisplatin alone or in combination with methotrexate, vinblastine, and doxorubicin in patients with metastatic urothelial carcinoma: a cooperative group study. J Clin Oncol 10 (7): 1066-73, 1992. [PUBMED Abstract]\n- Roth BJ: Preliminary experience with paclitaxel in advanced bladder cancer. Semin Oncol 22 (3 Suppl 6): 1-5, 1995. [PUBMED Abstract]\n- Witte RS, Elson P, Bono B, et al.: Eastern Cooperative Oncology Group phase II trial of ifosfamide in the treatment of previously treated advanced urothelial carcinoma. J Clin Oncol 15 (2): 589-93, 1997. [PUBMED Abstract]\n- Einhorn LH, Roth BJ, Ansari R, et al.: Phase II trial of vinblastine, ifosfamide, and gallium combination chemotherapy in metastatic urothelial carcinoma. J Clin Oncol 12 (11): 2271-6, 1994. [PUBMED Abstract]\n- Pollera CF, Ceribelli A, Crecco M, et al.: Weekly gemcitabine in advanced bladder cancer: a preliminary report from a phase I study. Ann Oncol 5 (2): 182-4, 1994. [PUBMED Abstract]\n- Sweeney CJ, Roth BJ, Kabbinavar FF, et al.: Phase II study of pemetrexed for second-line treatment of transitional cell cancer of the urothelium. J Clin Oncol 24 (21): 3451-7, 2006. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (01/05/2024)",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (01/05/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of transitional cell cancer of the renal pelvis and ureter. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 9,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewer for Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment is:\n- Timothy Gilligan, MD (Cleveland Clinic Taussig Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/kidney/hp/transitional-cell-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389446]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\ea3ea0ac94201251b20d.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Transitional Cell Cancer of the Renal Pelvis and Ureter",
+      "title": "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+      "summary_name": "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment",
+      "url": "https://www.cancer.gov/types/kidney/patient/transitional-cell-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 16, 2025",
+      "retrieved_at": "2026-08-31T07:11:11.067616+00:00",
+      "content_sha256": "d0f10fe6fd6a456d3dba1cbd2f1734bea3d6460d7ba604aad3c36a9ff72b3804",
+      "section_count": 39,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Transitional cell cancer of the renal pelvis and ureter is a type of cancer that forms in the transitional cells of the renal pelvis and ureter.\n- A personal history of bladder cancer and smoking can increase the risk of transitional cell cancer of the renal pelvis and ureter.\n- Signs and symptoms of transitional cell cancer of the renal pelvis and ureter include blood in the urine and back pain.\n- Tests that examine the abdomen and kidneys are used to diagnose transitional cell cancer of the renal pelvis and ureter.\n- After transitional cell cancer of the renal pelvis and ureter has been diagnosed, tests are done to find out if cancer cells have spread within the renal pelvis and ureter or to other parts of the body.\n- Some people decide to get a second opinion.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Transitional cell cancer of the renal pelvis and ureter is a type of cancer that forms in the transitional cells of the renal pelvis and ureter.",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Transitional cell cancer of the renal pelvis and ureter is a type of cancer that forms in the transitional cells of the renal pelvis and ureter."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Transitional cells are a type of cell that lines the inside of the renal pelvis, ureters, and other organs. These cells are able to stretch when the renal pelvis or bladder is full of urine and shrink when it is emptied. Transitional cell cancer can form in the renal pelvis, the ureters, or both.\nThe renal pelvis is the area at the center of the kidney. It collects urine before it flows into the ureters, which are long tubes that connect the kidney to the bladder. There are two kidneys, one on each side of the backbone , above the waist. The kidneys of an adult are about 5 inches long and 3 inches wide and are shaped like a kidney bean.\nThe kidneys play an important role in the urinary system :\n- The kidneys filter and clean the blood by taking out waste products and extra water as urine .\n- The urine collects in the middle of each kidney in the renal pelvis.\n- Urine passes from the renal pelvis through the ureter into the bladder.\n- The bladder holds the urine until it passes through the urethra and leaves the body.\nRenal cell cancer is a more common type of kidney cancer . For more information, see Renal Cell Cancer Treatment ."
+        },
+        {
+          "section": "A personal history of bladder cancer and smoking can increase the risk of transitional cell cancer of the renal pelvis and ureter.",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "A personal history of bladder cancer and smoking can increase the risk of transitional cell cancer of the renal pelvis and ureter."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Transitional cell cancer of the renal pelvis and ureter is caused by certain changes to the way transitional cells in the renal pelvis and ureters function, especially how they grow and divide into new cells. There are many risk factors for transitional cell cancer of the renal pelvis and ureter , but many do not directly cause cancer. Instead, they increase the chance of DNA damage in cells that may lead to cancer. To learn more about how cancer develops, see What Is Cancer?\nA risk factor is anything that increases the chance of getting a disease. Some risk factors for transitional cell cancer of the renal pelvis and ureter, like smoking, can be changed. However, risk factors may also include things you cannot change, like your personal medical history . Learning about risk factors for transitional cell cancer of the renal pelvis and ureter can help you make changes that might lower your risk of getting it.\nRisk factors for transitional cell cancer of the renal pelvis and ureter include:\n- having a personal history of bladder cancer\n- smoking cigarettes\n- taking a lot of certain pain medicines, such as phenacetin\n- being exposed to certain dyes and chemicals used in making leather goods, textiles, plastics, and rubber\nHaving one or more of these risk factors does not mean that you will get transitional cell cancer of the renal pelvis and ureter. Many people with risk factors never develop this type of cancer, while others with no known risk factors do. Talk with your doctor if you think you might be at risk."
+        },
+        {
+          "section": "Signs and symptoms of transitional cell cancer of the renal pelvis and ureter include blood in the urine and back pain.",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Signs and symptoms of transitional cell cancer of the renal pelvis and ureter include blood in the urine and back pain."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "In the early stages, there may be no signs and symptoms of transitional cell cancer of the renal pelvis and ureter. Symptoms may appear as the tumor grows and may include:\n- blood in the urine\n- a pain in the back that doesn't go away\n- extreme tiredness\n- weight loss with no known reason\n- painful or frequent urination\nThese symptoms may be caused by transitional cell cancer of the renal pelvis and ureter or by other conditions. It’s important to check with your doctor if you have any of these symptoms to find out the cause and begin treatment if needed."
+        },
+        {
+          "section": "Tests that examine the abdomen and kidneys are used to diagnose transitional cell cancer of the renal pelvis and ureter.",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Tests that examine the abdomen and kidneys are used to diagnose transitional cell cancer of the renal pelvis and ureter."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Urinalysis is a test to check the color of urine and its contents, such as sugar, protein , blood, and bacteria .\n- Ureteroscopy is a procedure to look inside the ureter and renal pelvis to check for abnormal areas. A ureteroscope is a thin, tube-like instrument with a light and a lens for viewing. The ureteroscope is inserted through the urethra into the bladder, ureter, and renal pelvis. A tool may be inserted through the ureteroscope to take tissue samples to be checked under a microscope for signs of disease. Enlarge A ureteroscopy is a procedure that uses a ureteroscope (a thin, tube-like instrument with a light and a lens for viewing) to look inside the ureter and renal pelvis to check for abnormal areas. The ureteroscope is inserted through the urethra into the bladder, ureter, and renal pelvis.\n- Urine cytology is a laboratory test in which a sample of urine is checked under a microscope for abnormal cells. Cancer in the kidney, bladder, or ureter may shed cancer cells into the urine.\n- CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body from different angles. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- Ultrasound uses high-energy sound waves (ultrasound) that bounce off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram . An ultrasound of the abdomen may be done to help diagnose cancer of the renal pelvis and ureter.\n- MRI (magnetic resonance imaging) uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body, such as the pelvis . This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- Biopsy is the removal of cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer. This may be done during a ureteroscopy or surgery."
+        },
+        {
+          "section": "After transitional cell cancer of the renal pelvis and ureter has been diagnosed, tests are done to find out if cancer cells have spread within the renal pelvis and ureter or to other parts of the body.",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "After transitional cell cancer of the renal pelvis and ureter has been diagnosed, tests are done to find out if cancer cells have spread within the renal pelvis and ureter or to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The process used to find out if the cancer has spread within the renal pelvis and ureter or to other parts of the body is called staging. The information gathered from the staging process determines the stage of the disease. The results of the diagnostic and staging tests will also help you and your doctor plan treatment.\nThe following tests and procedures may also be used in the staging process:\n- Chest x-ray is an x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body.\n- PET scan (positron emission tomography scan) uses a small amount of radioactive sugar (also called glucose) that is injected into a vein. Then a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is taken up. Because cancer cells often take up more glucose than normal cells, the pictures can be used to find cancer cells in the body.\n- Bone scan is used to check if there are rapidly dividing cells, such as cancer cells, in the bone. A very small amount of radioactive material is injected into a vein and travels through the bloodstream. The radioactive material collects in the bones with cancer and is detected by a scanner."
+        },
+        {
+          "section": "Some people decide to get a second opinion.",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Some people decide to get a second opinion."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your cancer diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report, slides, and scans. They may agree with the first doctor, suggest changes or another treatment approach, or provide more information about your cancer.\nTo learn more about choosing a doctor and getting a second opinion, see Finding Cancer Care . You can contact NCI’s Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor, hospital, or getting a second opinion. For questions you might want to ask at your appointments, see Questions to Ask Your Doctor about Cancer ."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "General Information About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The prognosis depends on the stage and grade of the tumor.\nThe treatment options depend on:\n- the stage and grade of the tumor\n- where the tumor is\n- whether the patient's other kidney is healthy\n- whether the cancer has recurred (come back)\nMost transitional cell cancer of the renal pelvis and ureter can be cured if found early."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Stages of Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "- The following stages are used for transitional cell cancer of the renal pelvis and/or ureter:\n- Stage 0 (Noninvasive Papillary Carcinoma and Carcinoma in Situ)\n- Stage I (also called stage 1)\n- Stage II (also called stage 2)\n- Stage III (also called stage 3)\n- Stage IV (also called stage 4)\n- Transitional cell cancer of the renal pelvis and ureter is also described as localized, regional, metastatic, or recurrent:\n- Localized\n- Regional\n- Metastatic\n- Recurrent\nCancer stage describes the extent of cancer in the body, such as the size of the tumor, whether it has spread, and how far it has spread from where it first formed. It is important to know the stage of transitional cell cancer of the renal pelvis and ureter to plan the best treatment.\nThere are several staging systems for cancer that describe the extent of the cancer. Transitional cell cancer of the renal pelvis and ureter staging usually uses the TNM staging system . You may see your cancer described by this staging system in your pathology report. Based on the TNM results, a stage (I, II, III, or IV, also written as 1, 2, 3, or 4) is assigned to your cancer. When talking to you about your cancer, your doctor may describe it as one of these stages.\nLearn more about Cancer Staging ."
+        },
+        {
+          "section": "Stage 0 (Noninvasive Papillary Carcinoma and Carcinoma in Situ)",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Stages of Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "The following stages are used for transitional cell cancer of the renal pelvis and/or ureter:",
+            "Stage 0 (Noninvasive Papillary Carcinoma and Carcinoma in Situ)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In stage 0, abnormal cells are found in tissue lining the inside of the renal pelvis or ureter . These abnormal cells may become cancer and spread into nearby normal tissue. Stage 0 is divided into stages 0a and 0is, depending on the type of tumor:\n- Stage 0a is also called noninvasive papillary carcinoma, which may look like long, thin growths that grow out from the tissue lining the inside of the renal pelvis or ureter.\n- Stage 0is is also called carcinoma in situ, which is a flat tumor on the tissue lining the inside of the renal pelvis or ureter."
+        },
+        {
+          "section": "Stage I (also called stage 1)",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Stages of Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "The following stages are used for transitional cell cancer of the renal pelvis and/or ureter:",
+            "Stage I (also called stage 1)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage I, cancer has formed and has spread from the tissue lining the inside of the renal pelvis or ureter to the connective tissue layer."
+        },
+        {
+          "section": "Stage II (also called stage 2)",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Stages of Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "The following stages are used for transitional cell cancer of the renal pelvis and/or ureter:",
+            "Stage II (also called stage 2)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage III, cancer has spread to the muscle layer of the renal pelvis or ureter ."
+        },
+        {
+          "section": "Stage III (also called stage 3)",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Stages of Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "The following stages are used for transitional cell cancer of the renal pelvis and/or ureter:",
+            "Stage III (also called stage 3)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In stage III, cancer has spread:\n- from the muscle layer of the renal pelvis to fat around the renal pelvis or to tissue in the kidney ; or\n- from the muscle layer of the ureter to fat around the ureter."
+        },
+        {
+          "section": "Stage IV (also called stage 4)",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Stages of Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "The following stages are used for transitional cell cancer of the renal pelvis and/or ureter:",
+            "Stage IV (also called stage 4)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "In stage IV, cancer has spread to at least one of the following:\n- a nearby organ.\n- lymph nodes .\n- other parts of the body, such as the lung , liver , or bone.\nStage IV transitional cell cancer of the renal pelvis and ureter is also called metastatic cancer. Metastatic cancer happens when cancer cells travel through the lymphatic system or blood and form tumors in other parts of the body. The metastatic tumor is the same type of cancer as the primary tumor. For example, if transitional cell cancer renal pelvis and ureter spreads to the liver, the cancer cells in the liver are actually transitional cell cancer of the renal pelvis and ureter. The disease is called metastatic transitional cell cancer of the renal pelvis and ureter, not liver cancer. Learn more in Metastatic Cancer: When Cancer Spreads ."
+        },
+        {
+          "section": "Localized",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Stages of Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Transitional cell cancer of the renal pelvis and ureter is also described as localized, regional, metastatic, or recurrent:",
+            "Localized"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer is found only in the kidney ."
+        },
+        {
+          "section": "Regional",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Stages of Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Transitional cell cancer of the renal pelvis and ureter is also described as localized, regional, metastatic, or recurrent:",
+            "Regional"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer has spread to tissues around the kidney and to nearby lymph nodes and blood vessels in the pelvis ."
+        },
+        {
+          "section": "Metastatic",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Stages of Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Transitional cell cancer of the renal pelvis and ureter is also described as localized, regional, metastatic, or recurrent:",
+            "Metastatic"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer has spread to other parts of the body."
+        },
+        {
+          "section": "Recurrent",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Stages of Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Transitional cell cancer of the renal pelvis and ureter is also described as localized, regional, metastatic, or recurrent:",
+            "Recurrent"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Recurrent cancer is cancer that has recurred (come back) after it has been treated. If transitional cell cancer of the renal pelvis and ureter comes back, it may come back in the renal pelvis, ureter, or in other parts of the body, such as the lung , liver , or bone. Tests will be done to help determine where the cancer has returned. The type of treatment for recurrent transitional cell cancer of the renal pelvis and ureter will depend on where it has come back.\nLearn more in Recurrent Cancer: When Cancer Comes Back ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- There are different types of treatment for patients with transitional cell cancer of the renal pelvis and ureter.\n- The following type of treatment is used:\n- Surgery\n- New types of treatment are being tested in clinical trials.\n- Fulguration\n- Segmental resection of the renal pelvis\n- Treatment for transitional cell cancer of the renal pelvis and ureter may cause side effects.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with transitional cell cancer of the renal pelvis and ureter.",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "There are different types of treatment for patients with transitional cell cancer of the renal pelvis and ureter."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Different types of treatments are available for people with transitional cell cancer of the renal pelvis and ureter. You and your cancer care team will work together to decide your treatment plan, which may include more than one type of treatment. Many factors will be considered, such as the stage of the cancer, your overall health, and your preferences. Your plan will include information about your cancer, the goals of treatment, your treatment options and the possible side effects, and the expected length of treatment.\nTalking with your cancer care team before treatment begins about what to expect will be helpful. You’ll want to learn what you need to do before treatment begins, how you’ll feel while going through it, and what kind of help you will need. To learn more, see Questions to Ask Your Doctor about Treatment ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "The following type of treatment is used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "One of the following surgical procedures may be used to treat transitional cell cancer of the renal pelvis and ureter:\n- Nephroureterectomy is surgery to remove the entire kidney , the ureter, and the bladder cuff (tissue that connects the ureter to the bladder ). Most people with transitional cell cancer of the renal pelvis and ureter undergo nephroureterectomy.\n- Segmental resection of the ureter is a surgical procedure to remove the part of the ureter that contains cancer and some of the healthy tissue around it. The ends of the ureter are then reattached. This treatment is used when the cancer is superficial and in the lower third of the ureter only, near the bladder."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "For some people, joining a clinical trial may be an option. There are different types of clinical trials for people with cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers .\nThis summary section describes treatments that are being studied in clinical trials. It may not mention every new treatment being studied."
+        },
+        {
+          "section": "Fulguration",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "New types of treatment are being tested in clinical trials.",
+            "Fulguration"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Fulguration is a surgical procedure that destroys tissue using an electric current. A tool with a small wire loop on the end is used to remove the cancer or to burn away the tumor with electricity."
+        },
+        {
+          "section": "Segmental resection of the renal pelvis",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "New types of treatment are being tested in clinical trials.",
+            "Segmental resection of the renal pelvis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "This is a surgical procedure to remove localized cancer from the renal pelvis without removing the entire kidney. Segmental resection may be done to save kidney function when the other kidney is damaged or has already been removed."
+        },
+        {
+          "section": "Laser surgery",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "New types of treatment are being tested in clinical trials.",
+            "Laser surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A laser beam (narrow beam of intense light) is used as a knife to remove the cancer. A laser beam can also be used to kill the cancer cells. This procedure may also be called laser fulguration."
+        },
+        {
+          "section": "Regional chemotherapy and regional immunotherapy",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "New types of treatment are being tested in clinical trials.",
+            "Regional chemotherapy and regional immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping the cells from dividing. To learn more about chemotherapy, see Chemotherapy to Treat Cancer and Chemotherapy and You: Support for People With Cancer .\nImmunotherapy helps a person’s immune system fight cancer. Learn more about Immunotherapy to Treat Cancer .\nRegional treatment for transitional cell cancer of renal pelvis and ureter is a method of placing the chemotherapy or immunotherapy drug directly into the renal pelvis or the ureter to mainly affect cancer cells in those areas."
+        },
+        {
+          "section": "Treatment for transitional cell cancer of the renal pelvis and ureter may cause side effects.",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Treatment for transitional cell cancer of the renal pelvis and ureter may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview for Transitional Cell Cancer of the Renal Pelvis and Ureter",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Localized Transitional Cell Cancer of the Renal Pelvis and Ureter",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment of Localized Transitional Cell Cancer of the Renal Pelvis and Ureter"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment of localized transitional cell cancer of the renal pelvis and ureter may include:\n- surgery ( nephroureterectomy or segmental resection of ureter)\n- a clinical trial of fulguration\n- a clinical trial of laser surgery\n- a clinical trial of segmental resection of the renal pelvis\n- a clinical trial of regional chemotherapy or regional immunotherapy\nTo learn more about these treatments, see the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Regional Transitional Cell Cancer of the Renal Pelvis and Ureter",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment of Regional Transitional Cell Cancer of the Renal Pelvis and Ureter"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment of regional transitional cell cancer of the renal pelvis and ureter is usually done in a clinical trial .\nTo learn more about clinical trials, see the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Metastatic or Recurrent Transitional Cell Cancer of the Renal Pelvis and Ureter",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "Treatment of Metastatic or Recurrent Transitional Cell Cancer of the Renal Pelvis and Ureter"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment of metastatic or recurrent transitional cell cancer of the renal pelvis and ureter is usually done in a clinical trial , which may include chemotherapy.\nTo learn more about clinical trials, see the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Transitional Cell Cancer of the Renal Pelvis and Ureter",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "To Learn More About Transitional Cell Cancer of the Renal Pelvis and Ureter"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "For more information from the National Cancer Institute about transitional cell cancer of the renal pelvis and ureter, see:\n- Kidney Cancer Home Page\n- Tobacco (includes help with quitting)\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of transitional cell cancer of the renal pelvis and ureter. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/kidney/patient/transitional-cell-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389285]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\6f89e48f4b1e1f2b7364.html"
+    }
+  ]
+}

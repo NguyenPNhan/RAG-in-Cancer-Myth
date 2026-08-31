@@ -1,0 +1,364 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Myelodysplastic/Myeloproliferative Neoplasms",
+  "generated_at": "2026-08-31T07:15:23.376273+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Myelodysplastic/Myeloproliferative Neoplasms",
+      "title": "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Myelodysplastic/Myeloproliferative Neoplasms Treatment",
+      "url": "https://www.cancer.gov/types/myeloproliferative/hp/mds-mpd-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "May 14, 2025",
+      "retrieved_at": "2026-08-31T07:12:49.491680+00:00",
+      "content_sha256": "df3fb633ff7d937e8442bb59f57f1d1986d557f47c39b48bfa6697d7d75a24d5",
+      "section_count": 29,
+      "sections": [
+        {
+          "section": "Disease Overview",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "General Information About Myelodysplastic/Myeloproliferative Neoplasms (MDS/MPN)",
+            "Disease Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The myelodysplastic/myeloproliferative neoplasms (MDS/MPN) are clonal myeloid disorders that have both dysplastic and proliferative features but are not properly classified as either myelodysplastic syndromes (MDS) or chronic myeloproliferative disorders (CMPD).[ 1 - 3 ] This category includes three major myeloid disorders: chronic myelomonocytic leukemia (CMML), juvenile myelomonocytic leukemia (JMML), and atypical chronic myeloid leukemia (aCML). Myeloid disease that shows features of both MDS and CMPD but does not meet the criteria for any of the three major MDS/MPN entities is designated as myelodysplastic/myeloproliferative neoplasm, unclassifiable (MDS/MPN-UC). The World Health Organization created the MDS/MPN category to provide a less restrictive view of myeloid disorders, which in some instances clearly overlap.[ 1 - 3 ]"
+        },
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "General Information About Myelodysplastic/Myeloproliferative Neoplasms (MDS/MPN)",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The etiology of MDS/MPN is not known. The incidence of MDS/MPN varies widely, ranging from approximately 3 per 100,000 individuals older than 60 years annually for CMML to as few as 0.13 per 100,000 children from birth to 14 years annually for JMML.[ 4 ] Reliable data concerning the incidence of aCML, a recently defined entity, are not available. The incidence of MDS/MPN-UC is unknown."
+        },
+        {
+          "section": "Histopathology",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "General Information About Myelodysplastic/Myeloproliferative Neoplasms (MDS/MPN)",
+            "Histopathology"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The pathophysiology of MDS/MPN involves abnormalities in the regulation of myeloid pathways for cellular proliferation, maturation, and survival. Clinical symptoms result from the following complications:[ 5 ]\n- Cytopenia(s).\n- Dysplastic cells that function abnormally.\n- Leukemic infiltration of various organ systems, especially the spleen and liver.\n- General constitutional symptoms, such as fever and malaise.\nPatients with MDS/MPN do not have a Philadelphia chromosome or a BCR :: ABL1 gene fusion.\nAn international consortium has proposed uniform response criteria to be used in clinical trials because of the spectrum of presentations ranging from the myelodysplastic to the myeloproliferative.[ 6 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "General Information About Myelodysplastic/Myeloproliferative Neoplasms (MDS/MPN)",
+            "Histopathology",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Arber DA, Orazi A, Hasserjian R, et al.: The 2016 revision to the World Health Organization classification of myeloid neoplasms and acute leukemia. Blood 127 (20): 2391-405, 2016. [PUBMED Abstract]\n- Vardiman JW, Thiele J, Arber DA, et al.: The 2008 revision of the World Health Organization (WHO) classification of myeloid neoplasms and acute leukemia: rationale and important changes. Blood 114 (5): 937-51, 2009. [PUBMED Abstract]\n- Loghavi S, Sui D, Wei P, et al.: Validation of the 2017 revision of the WHO chronic myelomonocytic leukemia categories. Blood Adv 2 (15): 1807-1816, 2018. [PUBMED Abstract]\n- Vardiman JW, Harris NL, Brunning RD: The World Health Organization (WHO) classification of the myeloid neoplasms. Blood 100 (7): 2292-302, 2002. [PUBMED Abstract]\n- Bain BJ: The relationship between the myelodysplastic syndromes and the myeloproliferative disorders. Leuk Lymphoma 34 (5-6): 443-9, 1999. [PUBMED Abstract]\n- Savona MR, Malcovati L, Komrokji R, et al.: An international consortium proposal of uniform response criteria for myelodysplastic/myeloproliferative neoplasms (MDS/MPN) in adults. Blood 125 (12): 1857-65, 2015. [PUBMED Abstract]"
+        },
+        {
+          "section": "Disease Overview",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic Myelomonocytic Leukemia",
+            "Disease Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 41,
+          "text": "The World Health Organization (WHO) classifies chronic myelomonocytic leukemia (CMML) as a myelodysplastic/myeloproliferative neoplasm (MDS/MPN).[ 1 ] The WHO recognizes a dysplastic subtype and a proliferative subtype, with prognostic groups differentiated by the circulating white blood cell (WBC) count or the percentage of blasts in the bone marrow (higher percentage with worse prognosis).[ 2 ]\nCMML is a clonal disorder of a bone marrow stem cell. Monocytosis is a major defining feature. CMML exhibits heterogenous clinical, hematological, and morphological features, varying from predominantly myelodysplastic to predominantly myeloproliferative. Evolution to acute myeloid leukemia (AML) portends a particularly poor prognosis.[ 3 ]\nCMML is characterized pathologically by:[ 4 , 5 ]\n- Persistent monocytosis is greater than 1 × 10 9 /L in the peripheral blood.\n- No Philadelphia chromosome or BCR :: ABL1 gene fusion.\n- No PDGFRA and PDGFRB rearrangement.\n- Fewer than 20% blasts in the blood or bone marrow (including monoblasts/promonocytes).\n- Dysplasia involving one or more myeloid lineages or, if myelodysplasia is absent or minimal, either an acquired clonal cytogenetic bone marrow abnormality or at least 3 months of persistent peripheral blood monocytosis, if all other causes are ruled out.\nClinical features of CMML include:[ 4 , 5 ]\n- Fever, fatigue, night sweats, and weight loss. For more information, see Fatigue , Hot Flashes and Night Sweats , and Nutrition in Cancer Care .\n- Infection.\n- Bleeding caused by thrombocytopenia.\n- Hepatomegaly (in some patients).\n- Splenomegaly (in some patients).\n- In patients with a WBC count that is within reference range or slightly decreased, clinical features may be identical to MDS.\n- In patients with elevated WBC count, features are more like chronic myeloproliferative disorders, including more frequent splenomegaly and hepatomegaly.\nThe median age at diagnosis of CMML is 65 to 75 years with a male predominance of 1.5 to 3.1.[ 4 , 5 ] Because CMML is grouped with chronic myeloid leukemia in some epidemiologic surveys and with MDS in others, no reliable incidence data are available for CMML.[ 6 ] Although the specific etiology of CMML is unknown, exposure to occupational and environmental carcinogens, ionizing radiation, and cytotoxic agents has been associated in some cases.[ 6 ]\nMorphologically, the disease is characterized by a persistent peripheral blood monocytosis (always >1 × 10 9 /L) that may exceed 80 × 10 9 /L with monocytes typically accounting for more than 10% of the WBCs.[ 4 , 5 ] Monocytes, though typically mature with an unremarkable morphology, can exhibit abnormal granulation, unusual nuclear lobation, or finely dispersed nuclear chromatin.[ 7 ] Fewer than 20% blasts are seen in the blood or bone marrow. Neutrophilia occurs in nearly 50% of patients with neutrophil precursors (e.g., promyelocytes and myelocytes) accounting for more than 10% of the WBCs.[ 8 ] Mild normocytic anemia is common. Moderate thrombocytopenia is often present. Bone marrow findings include:[ 4 , 5 , 9 , 10 ]\n- Hypercellularity (75% of cases).\n- Blast count less than 20%.\n- Granulocytic proliferation (with dysgranulopoiesis).\n- Monocytic proliferation, dyserythropoiesis (e.g., megaloblastic changes, abnormal nuclear contours, ringed sideroblasts, etc.).\n- Micromegakaryocytes and/or megakaryocytes with abnormally lobated nuclei (as many as 80% of the cases).\n- Fibrosis (30% of the cases).\nHepatosplenomegaly may be present.[ 4 , 5 ] Autoimmune phenomena, including pyoderma gangrenosum, vasculitis, and idiopathic thrombocytopenia have been observed in CMML.[ 11 ] Care should be taken to identify cases of CMML with eosinophilia, a subtype of CMML, because of its association with severe tissue damage secondary to eosinophil degranulation. In CMML with eosinophilia, all criteria for CMML are present, and the eosinophil count in the peripheral blood is more than 1.5 × 10 9 /L.[ 6 ]\nRecurrent somatic pathogenic variants have been identified in most patients with CMML, resulting in altered signaling molecules (especially NRAS , KRAS , JAK2 , and SETBP1 ), epigenetic regulators (especially TET2 and ASXL1 ), splicing factors (especially SRSF2 ), and transcription factors (especially RUNX1 ).[ 12 - 15 ] A CMML-specific prognostic scoring system can distinguish four risk groups based on the following factors:[ 16 ]\n- Red blood cell transfusion dependency.\n- WBC count at least 13 × 10 9 /L.\n- Bone marrow blasts at least 5%.\n- Genetic risk group based on cytogenetics (trisomy 8, ≥3 abnormalities on karyotype, or chromosome 7 abnormalities are high risk), and pathogenic variants in ASXL1 , NRAS , RUNX1 , or SETBP1 .\nThe best prognostic group has a median survival of more than 10 years with no leukemic evolution in the first decade of follow-up. The worst prognostic group has a median survival of 20 months with a 50% evolution to AML by 2 years.[ 16 ]\nPrognostic factors associated with shorter survival include:[ 17 , 18 ]\n- Low hemoglobin level.\n- Low platelet count; high WBC, monocyte, and lymphocyte counts.\n- Presence of circulating immature myeloid cells.\n- High percentage of marrow blasts.\n- Low percentage of marrow erythroid cells.\n- Abnormal molecular genetic data.\n- High levels of serum lactate dehydrogenase and beta-2-microglobulin.\nProgression to acute leukemia occurs in approximately 15% to 20% of cases.[ 17 , 18 ]\nCPSS-Mol is a CMML-specific prognostic scoring system that incorporates molecular genetic data, especially pathogenic variants in RUNX1 , NRAS , SETBP1 , and ASXL1 . This system distinguishes low-risk disease with median survivals longer than 10 years from high-risk disease with median survivals of 2 to 4 years.[ 16 ]"
+        },
+        {
+          "section": "Treatment Overview",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic Myelomonocytic Leukemia",
+            "Treatment Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "CMML is a diagnosis typically made after age 70 years. The clinical course of CMML ranges from indolent or smoldering disease to an aggressive disease progression culminating in severe cytopenias or evolution to acute leukemia. Assessment of the risk factors and the pace of disease over time may help to distinguish patients who require therapy from those who would be best managed with a watchful waiting approach. Asymptomatic patients at low risk of progression may be best served by forgoing therapy.[ 19 , 20 ]"
+        },
+        {
+          "section": "Allogeneic stem cell transplant (SCT)",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic Myelomonocytic Leukemia",
+            "Treatment Overview",
+            "Allogeneic stem cell transplant (SCT)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Patients with high-risk disease who are young enough and fit enough may undergo allogeneic SCT. This represents the only potential cure for CMML. Hypomethylating agents like azacitidine and decitabine are usually given prior to allogeneic SCT for cytoreduction or to ameliorate cytopenias.[ 21 , 22 ] Retrospective reports that included small numbers of patients with CMML (range, 12–80) who underwent allogeneic SCT reported recurrence rates of 20% to 40% and 5-year overall survival (OS) rates of approximately 20% to 30%.[ 23 - 28 ][ Level of evidence C3 ]\nA retrospective review of 1,114 patients with CMML diagnosed between 2000 and 2014 included 384 patients who underwent allogeneic SCT.[ 29 ] With a median follow-up of 51 to 78 months (in two data sets), allogeneic SCT in patients with low-risk CMML was detrimental, with a 5-year OS rates of 20% for patients who underwent allogeneic SCT and 42% for patients who did not undergo allogeneic SCT ( P < .001).[ 29 ][ Level of evidence C1 ] For patients with high-risk CMML, there was no statistically significant difference in 5-year OS rates among patients treated with or without allogeneic SCT (27% vs. 15%, respectively; P = .13)."
+        },
+        {
+          "section": "Hypomethylating agents",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic Myelomonocytic Leukemia",
+            "Treatment Overview",
+            "Hypomethylating agents"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Two randomized prospective clinical trials compared the hypomethylating agent, azacitidine, with best supportive care in patients with myelodysplastic syndromes (MDS). The trials involved large numbers of patients with MDS but also included small numbers of patients (fewer than 25) with CMML.[ 30 , 31 ] The overall response rates exceeded 60% for all patients who received azacitidine, but the data did not allow an assessment specifically for patients with CMML.[ 30 , 31 ][ Level of evidence C3 ] Several phase II trials reported response rates of 30% to 60% for patients with CMML who received hypomethylating agents.[ 32 - 36 ] Azacitidine and decitabine may reverse cytopenias, cytoreduce elevated WBC counts, reduce splenic size, and improve clinical symptoms (like decreased appetite or itching)."
+        },
+        {
+          "section": "Hydroxyurea",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic Myelomonocytic Leukemia",
+            "Treatment Overview",
+            "Hydroxyurea"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Hydroxyurea has been given for other diseases with chronic myeloproliferation, such as thrombocythemia and myelofibrosis. These applications suggest the use of hydroxyurea for CMML with leukocytosis, thrombocytosis, or splenomegaly.[ 37 ] In a randomized prospective clinical trial of 105 patients with CMML, hydroxyurea (up to 4 g/day) was compared with etoposide.[ 38 ] With a median follow-up of 11 months, the median OS was 20 months in patients who received hydroxyurea and 9 months in patients who received etoposide ( P < .0001).[ 38 ][ Level of evidence A1 ]"
+        },
+        {
+          "section": "Hypomethylating agent versus hydroxyurea",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic Myelomonocytic Leukemia",
+            "Treatment Overview",
+            "Hypomethylating agent versus hydroxyurea"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In a prospective randomized trial, 170 patients with newly diagnosed advanced CMML received intravenous decitabine or hydroxyurea (1–4 g/day). With a median follow-up of 17.5 months, there was no statistically significant difference in event-free survival (12.1 months for patients who received decitabine and 10.3 months for patients who received hydroxyurea; hazard ratio, 0.83; 95% confidence interval [CI], 0.59–1.16; P = .27). There was also no statistically significant difference in median OS (16.3 months for patients who received decitabine and 21.9 months for patients who received hydroxyurea; P = .67).[ 39 ][ Level of evidence A1 ] Although decitabine reduced CMML progression or transformation to AML by 38% compared with hydroxyurea, this was offset by a 55% increase in deaths that were not caused by progression (the deaths were usually related to infection). There are no data to suggest that systematic antibiotic prophylaxis would have helped the patients who received decitabine."
+        },
+        {
+          "section": "Other regimens",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic Myelomonocytic Leukemia",
+            "Treatment Overview",
+            "Other regimens"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In a phase II trial, 13 hypomethylating agent–naive patients with high-risk CMML were treated with azacitidine or decitabine plus venetoclax. With a median follow-up of 14.1 months, the overall response rate was 85% (11 of 13 patients), including two with complete response and a median duration of response of 17.9 months.[ 40 , 41 ][ Level of evidence C3 ] Six of these patients underwent subsequent allogeneic SCT.\nA retrospective study included 21 patients with high-risk CMML who received cladribine plus low-dose cytarabine alternating with azacitidine or decitabine. The patients had an objective response rate of 33% (50% in patients with hypomethylating agent–naive CMML and 23% in patients with hypomethylating agent–failure CMML).[ 41 ][ Level of evidence C3 ]\nA phase I/II study of 23 patients with mostly high-risk MDS and greater than 5% marrow blast cells involved 10 patients with CMML. All patients received azacitidine plus venetoclax. With a median follow-up of 13.2 months, the overall response rate was 87% (95% CI, 66%–97%).[ 42 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic Myelomonocytic Leukemia",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Chronic Myelomonocytic Leukemia",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 42,
+          "text": "- Orazi A, Germing U: The myelodysplastic/myeloproliferative neoplasms: myeloproliferative diseases with dysplastic features. Leukemia 22 (7): 1308-19, 2008. [PUBMED Abstract]\n- Arber DA, Orazi A, Hasserjian R, et al.: The 2016 revision to the World Health Organization classification of myeloid neoplasms and acute leukemia. Blood 127 (20): 2391-405, 2016. [PUBMED Abstract]\n- Germing U, Strupp C, Knipp S, et al.: Chronic myelomonocytic leukemia in the light of the WHO proposals. Haematologica 92 (7): 974-7, 2007. [PUBMED Abstract]\n- Onida F, Beran M: Chronic myelomonocytic leukemia: myeloproliferative variant. Curr Hematol Rep 3 (3): 218-26, 2004. [PUBMED Abstract]\n- Emanuel PD: Juvenile myelomonocytic leukemia and chronic myelomonocytic leukemia. Leukemia 22 (7): 1335-42, 2008. [PUBMED Abstract]\n- Aul C, Bowen DT, Yoshida Y: Pathogenesis, etiology and epidemiology of myelodysplastic syndromes. Haematologica 83 (1): 71-86, 1998. [PUBMED Abstract]\n- Kouides PA, Bennett JM: Morphology and classification of the myelodysplastic syndromes and their pathologic variants. Semin Hematol 33 (2): 95-110, 1996. [PUBMED Abstract]\n- Bennett JM, Catovsky D, Daniel MT, et al.: The chronic myeloid leukaemias: guidelines for distinguishing chronic granulocytic, atypical chronic myeloid, and chronic myelomonocytic leukaemia. Proposals by the French-American-British Cooperative Leukaemia Group. Br J Haematol 87 (4): 746-54, 1994. [PUBMED Abstract]\n- Michaux JL, Martiat P: Chronic myelomonocytic leukaemia (CMML)--a myelodysplastic or myeloproliferative syndrome? Leuk Lymphoma 9 (1-2): 35-41, 1993. [PUBMED Abstract]\n- Maschek H, Georgii A, Kaloutsi V, et al.: Myelofibrosis in primary myelodysplastic syndromes: a retrospective study of 352 patients. Eur J Haematol 48 (4): 208-14, 1992. [PUBMED Abstract]\n- Saif MW, Hopkins JL, Gore SD: Autoimmune phenomena in patients with myelodysplastic syndromes and chronic myelomonocytic leukemia. Leuk Lymphoma 43 (11): 2083-92, 2002. [PUBMED Abstract]\n- Meggendorfer M, Roller A, Haferlach T, et al.: SRSF2 mutations in 275 cases with chronic myelomonocytic leukemia (CMML). Blood 120 (15): 3080-8, 2012. [PUBMED Abstract]\n- Kosmider O, Gelsi-Boyer V, Ciudad M, et al.: TET2 gene mutation is a frequent and adverse event in chronic myelomonocytic leukemia. Haematologica 94 (12): 1676-81, 2009. [PUBMED Abstract]\n- Malcovati L, Papaemmanuil E, Ambaglio I, et al.: Driver somatic mutations identify distinct disease entities within myeloid neoplasms with myelodysplasia. Blood 124 (9): 1513-21, 2014. [PUBMED Abstract]\n- Patnaik MM, Itzykson R, Lasho TL, et al.: ASXL1 and SETBP1 mutations and their prognostic contribution in chronic myelomonocytic leukemia: a two-center study of 466 patients. Leukemia 28 (11): 2206-12, 2014. [PUBMED Abstract]\n- Elena C, Gallì A, Such E, et al.: Integrating clinical features and genetic lesions in the risk assessment of patients with chronic myelomonocytic leukemia. Blood 128 (10): 1408-17, 2016. [PUBMED Abstract]\n- Onida F, Kantarjian HM, Smith TL, et al.: Prognostic factors and scoring systems in chronic myelomonocytic leukemia: a retrospective analysis of 213 patients. Blood 99 (3): 840-9, 2002. [PUBMED Abstract]\n- Germing U, Kündgen A, Gattermann N: Risk assessment in chronic myelomonocytic leukemia (CMML). Leuk Lymphoma 45 (7): 1311-8, 2004. [PUBMED Abstract]\n- Hunter AM, Zhang L, Padron E: Current Management and Recent Advances in the Treatment of Chronic Myelomonocytic Leukemia. Curr Treat Options Oncol 19 (12): 67, 2018. [PUBMED Abstract]\n- Patnaik MM, Tefferi A: Chronic Myelomonocytic leukemia: 2020 update on diagnosis, risk stratification and management. Am J Hematol 95 (1): 97-115, 2020. [PUBMED Abstract]\n- Kongtim P, Popat U, Jimenez A, et al.: Treatment with Hypomethylating Agents before Allogeneic Stem Cell Transplant Improves Progression-Free Survival for Patients with Chronic Myelomonocytic Leukemia. Biol Blood Marrow Transplant 22 (1): 47-53, 2016. [PUBMED Abstract]\n- Sekeres MA, Othus M, List AF, et al.: Randomized Phase II Study of Azacitidine Alone or in Combination With Lenalidomide or With Vorinostat in Higher-Risk Myelodysplastic Syndromes and Chronic Myelomonocytic Leukemia: North American Intergroup Study SWOG S1117. J Clin Oncol 35 (24): 2745-2753, 2017. [PUBMED Abstract]\n- Elliott MA, Tefferi A, Hogan WJ, et al.: Allogeneic stem cell transplantation and donor lymphocyte infusions for chronic myelomonocytic leukemia. Bone Marrow Transplant 37 (11): 1003-8, 2006. [PUBMED Abstract]\n- Ocheni S, Kröger N, Zabelina T, et al.: Outcome of allo-SCT for chronic myelomonocytic leukemia. Bone Marrow Transplant 43 (8): 659-61, 2009. [PUBMED Abstract]\n- Krishnamurthy P, Lim ZY, Nagi W, et al.: Allogeneic haematopoietic SCT for chronic myelomonocytic leukaemia: a single-centre experience. Bone Marrow Transplant 45 (10): 1502-7, 2010. [PUBMED Abstract]\n- Eissa H, Gooley TA, Sorror ML, et al.: Allogeneic hematopoietic cell transplantation for chronic myelomonocytic leukemia: relapse-free survival is determined by karyotype and comorbidities. Biol Blood Marrow Transplant 17 (6): 908-15, 2011. [PUBMED Abstract]\n- Park S, Labopin M, Yakoub-Agha I, et al.: Allogeneic stem cell transplantation for chronic myelomonocytic leukemia: a report from the Societe Francaise de Greffe de Moelle et de Therapie Cellulaire. Eur J Haematol 90 (5): 355-64, 2013. [PUBMED Abstract]\n- Symeonidis A, van Biezen A, de Wreede L, et al.: Achievement of complete remission predicts outcome of allogeneic haematopoietic stem cell transplantation in patients with chronic myelomonocytic leukaemia. A study of the Chronic Malignancies Working Party of the European Group for Blood and Marrow Transplantation. Br J Haematol 171 (2): 239-246, 2015. [PUBMED Abstract]\n- Robin M, de Wreede LC, Padron E, et al.: Role of allogeneic transplantation in chronic myelomonocytic leukemia: an international collaborative analysis. Blood 140 (12): 1408-1418, 2022. [PUBMED Abstract]\n- Silverman LR, Demakos EP, Peterson BL, et al.: Randomized controlled trial of azacitidine in patients with the myelodysplastic syndrome: a study of the cancer and leukemia group B. J Clin Oncol 20 (10): 2429-40, 2002. [PUBMED Abstract]\n- Fenaux P, Mufti GJ, Hellstrom-Lindberg E, et al.: Efficacy of azacitidine compared with that of conventional care regimens in the treatment of higher-risk myelodysplastic syndromes: a randomised, open-label, phase III study. Lancet Oncol 10 (3): 223-32, 2009. [PUBMED Abstract]\n- Braun T, Itzykson R, Renneville A, et al.: Molecular predictors of response to decitabine in advanced chronic myelomonocytic leukemia: a phase 2 trial. Blood 118 (14): 3824-31, 2011. [PUBMED Abstract]\n- Drummond MW, Pocock C, Boissinot M, et al.: A multi-centre phase 2 study of azacitidine in chronic myelomonocytic leukaemia. Leukemia 28 (7): 1570-2, 2014. [PUBMED Abstract]\n- Tantravahi SK, Szankasi P, Khorashad JS, et al.: A phase II study of the efficacy, safety, and determinants of response to 5-azacitidine (Vidaza®) in patients with chronic myelomonocytic leukemia. Leuk Lymphoma 57 (10): 2441-4, 2016. [PUBMED Abstract]\n- Santini V, Allione B, Zini G, et al.: A phase II, multicentre trial of decitabine in higher-risk chronic myelomonocytic leukemia. Leukemia 32 (2): 413-418, 2018. [PUBMED Abstract]\n- Coston T, Pophali P, Vallapureddy R, et al.: Suboptimal response rates to hypomethylating agent therapy in chronic myelomonocytic leukemia; a single institutional study of 121 patients. Am J Hematol 94 (7): 767-779, 2019. [PUBMED Abstract]\n- Bennett JM: Chronic myelomonocytic leukemia. Curr Treat Options Oncol 3 (3): 221-3, 2002. [PUBMED Abstract]\n- Wattel E, Guerci A, Hecquet B, et al.: A randomized trial of hydroxyurea versus VP16 in adult chronic myelomonocytic leukemia. Groupe Français des Myélodysplasies and European CMML Group. Blood 88 (7): 2480-7, 1996. [PUBMED Abstract]\n- Itzykson R, Santini V, Thepot S, et al.: Decitabine Versus Hydroxyurea for Advanced Proliferative Chronic Myelomonocytic Leukemia: Results of a Randomized Phase III Trial Within the EMSCO Network. J Clin Oncol 41 (10): 1888-1897, 2023. [PUBMED Abstract]\n- Montalban-Bravo G, Hammond D, DiNardo CD, et al.: Activity of venetoclax-based therapy in chronic myelomonocytic leukemia. Leukemia 35 (5): 1494-1499, 2021. [PUBMED Abstract]\n- Bazinet A, Darbaniyan F, Kadia TM, et al.: A retrospective study of cladribine and low-dose cytarabine-based regimens for the treatment of chronic myelomonocytic leukemia and secondary acute myeloid leukemia. Cancer 129 (4): 560-568, 2023. [PUBMED Abstract]\n- Bazinet A, Darbaniyan F, Jabbour E, et al.: Azacitidine plus venetoclax in patients with high-risk myelodysplastic syndromes or chronic myelomonocytic leukaemia: phase 1 results of a single-centre, dose-escalation, dose-expansion, phase 1-2 study. Lancet Haematol 9 (10): e756-e765, 2022. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Juvenile Myelomonocytic Leukemia",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Juvenile Myelomonocytic Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For more information, see Juvenile Myelomonocytic Leukemia Treatment ."
+        },
+        {
+          "section": "Disease Overview",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Atypical Chronic Myeloid Leukemia",
+            "Disease Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 24,
+          "text": "Atypical chronic myeloid leukemia (aCML) is a leukemic disorder that exhibits both myelodysplastic and myeloproliferative features at the time of diagnosis.\nAtypical CML is characterized pathologically by:[ 1 ]\n- Peripheral blood leukocytosis with increased numbers of mature and immature neutrophils.\n- Prominent dysgranulopoiesis.\n- No Philadelphia chromosome or BCR :: ABL1 gene fusion.\n- Neutrophil precursors (e.g., promyelocytes, myelocytes, and metamyelocytes) accounting for more than 10% of white blood cells.\n- Minimal absolute basophilia with basophils accounting for less than 2% of white blood cells.\n- Absolute monocytosis with monocytes typically account for less than 10% of white blood cells.\n- Hypercellular bone marrow with granulocytic proliferation and granulocytic dysplasia.\n- Fewer than 20% blasts in the blood or bone marrow.\n- Thrombocytopenia.\nClinical features of aCML include:[ 1 - 4 ]\n- Anemia. For more information on anemia, see Fatigue .\n- Thrombocytopenia.\n- Splenomegaly (in 75% of cases).\nAlthough cytogenetic abnormalities are found in as many as 80% of the patients with aCML, none is specific.[ 1 - 3 , 5 ] No Philadelphia chromosome or BCR :: ABL1 gene fusion is present.\nThe exact incidence of aCML is unknown. The median age at the time of diagnosis of this rare leukemic disorder is in the seventh or eighth decade of life.[ 1 - 3 ]\nMorphologically, aCML is characterized by myelodysplasia associated with bone marrow and peripheral blood patterns similar to chronic myeloid leukemia, but cytogenetically it lacks a Philadelphia chromosome or BCR :: ABL1 gene fusion.[ 1 ] The white blood cell count in the peripheral blood is variable. Median values range from 35 × 10 9 /L to 96 × 10 9 /L, and some patients may have white blood cell counts greater than 300 × 10 9 /L.[ 1 - 3 , 5 ] Blasts in the peripheral blood typically account for less than 5% of the white blood cells. Immature neutrophils usually total 10% to 20% or more.[ 1 ] The percentage of monocytes is rarely more than 10%. Minimal basophilia may be present.[ 1 - 3 , 5 ] Nuclear abnormalities, such as acquired Pelger-Huët anomaly, may be seen in the neutrophils. Moderate anemia (often showing changes indicative of dyserythropoiesis) and thrombocytopenia are common.[ 1 - 4 ] Bone marrow findings include: [ 1 - 3 , 5 ]\n- Granulocytic hypercellularity.\n- Blast count less than 20%.\n- Dysgranulopoiesis\n- Megakaryocytic dysplasia.\n- Erythroid precursors accounting for more than 30% of marrow cells with dyserythropoiesis present (in some cases).\nThe median survival times for aCML are reported to be less than 20 months, and thrombocytopenia and marked anemia are poor prognostic factors.[ 1 , 2 ] Atypical CML evolves to acute leukemia in approximately 25% to 40% of patients.[ 1 , 3 ] In the remaining patients, fatal complications include resistant leukocytosis, anemia, thrombocytopenia, hepatosplenomegaly, cerebral bleeding associated with thrombocytopenia, and infection.[ 3 , 4 ]"
+        },
+        {
+          "section": "Treatment Overview",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Atypical Chronic Myeloid Leukemia",
+            "Treatment Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The optimal treatment of aCML is uncertain because of the rare incidence of this chronic leukemic disorder. Treatment with hydroxyurea may lead to short-lived partial remissions of 2 to 4 months in duration.[ 4 ] Atypical CML appears to respond poorly to treatment with interferon alfa.[ 4 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Atypical Chronic Myeloid Leukemia",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Atypical Chronic Myeloid Leukemia",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Orazi A, Germing U: The myelodysplastic/myeloproliferative neoplasms: myeloproliferative diseases with dysplastic features. Leukemia 22 (7): 1308-19, 2008. [PUBMED Abstract]\n- Hernández JM, del Cañizo MC, Cuneo A, et al.: Clinical, hematological and cytogenetic characteristics of atypical chronic myeloid leukemia. Ann Oncol 11 (4): 441-4, 2000. [PUBMED Abstract]\n- Costello R, Sainty D, Lafage-Pochitaloff M, et al.: Clinical and biological aspects of Philadelphia-negative/BCR-negative chronic myeloid leukemia. Leuk Lymphoma 25 (3-4): 225-32, 1997. [PUBMED Abstract]\n- Kurzrock R, Bueso-Ramos CE, Kantarjian H, et al.: BCR rearrangement-negative chronic myelogenous leukemia revisited. J Clin Oncol 19 (11): 2915-26, 2001. [PUBMED Abstract]\n- Bennett JM, Catovsky D, Daniel MT, et al.: The chronic myeloid leukaemias: guidelines for distinguishing chronic granulocytic, atypical chronic myeloid, and chronic myelomonocytic leukaemia. Proposals by the French-American-British Cooperative Leukaemia Group. Br J Haematol 87 (4): 746-54, 1994. [PUBMED Abstract]"
+        },
+        {
+          "section": "Disease Overview",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of MDS/MPN, Unclassifiable",
+            "Disease Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "Myelodysplastic/myeloproliferative neoplasm, unclassifiable (MDS/MPN-UC) (also known as mixed myeloproliferative/myelodysplastic syndrome, unclassifiable and overlap syndrome, unclassifiable) shows features of both myeloproliferative disease and myelodysplastic disease but does not meet the criteria for any of the other MDS/MPN entities.[ 1 ]\nDiagnostic criteria for MDS/MPN-UC can be either:[ 1 ]\n- The combination of four sets of criteria (a–d):\n- Clinical, laboratory, and morphological features of myelodysplastic syndrome (MDS) (e.g., refractory anemia, refractory anemia with ringed sideroblasts, refractory cytopenia with multilineage dysplasia, and refractory anemia with excess of blasts) with fewer than 20% blasts in the blood and bone marrow. For more information on anemia, see Fatigue .\n- Prominent myeloproliferative features, e.g. platelet count greater than 600 × 10 9 /L associated with megakaryocytic proliferation, or white blood cell count greater than 13.0 × 10 9 /L with or without splenomegaly.\n- No history of an underlying chronic myeloproliferative disorder (CMPD), MDS, or recent cytotoxic or growth factor therapy that could cause the myelodysplastic or myeloproliferative features.\n- No Philadelphia chromosome or BCR :: ABL1 gene fusion, del(5q), t(3;3)(q21;q26), or inv(3)(q21q26).\n- Mixed myeloproliferative and myelodysplastic features that cannot be assigned to any other category of MDS, CMPD, or MDS/MPN.\nClinical characteristics of MDS/MPN-UC include:\n- Features of both MDS and CMPD.\n- Hepatomegaly.\n- Splenomegaly.\nThe incidence and etiology of MDS/MPN-UC are unknown.\nLaboratory features typically include anemia and dimorphic erythrocytes on the peripheral blood smear.[ 1 ] Thrombocytosis (platelet count >600 × 10 9 /L) or leukocytosis (white blood cell count >13 × 10 9 /L) are present. Neutrophils may exhibit dysplastic features, and giant or hypogranular platelets may be present. Blasts make up less than 20% of the white blood cells and of the nucleated cells of the bone marrow. The bone marrow is hypercellular and may exhibit proliferation in any or all of the myeloid lineages. Dysplastic features are present in at least one cell line.[ 1 ]\nNo cytogenetic or molecular findings are available that are specific for MDS/MPN-UC. In one small series, six of nine patients (those with ringed sideroblasts associated with marked thrombocytosis [RARS-T]) had JAK2 V617F variants, which caused constitutive activation of the JAK2 tyrosine kinase. This JAK2 pathogenic variant is also commonly observed in patients with polycythemia vera, essential thrombocythemia, and idiopathic myelofibrosis.[ 2 ] Because of its rare occurrence, the prognosis and predictive factors are unknown.[ 1 ]"
+        },
+        {
+          "section": "Treatment Overview",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of MDS/MPN, Unclassifiable",
+            "Treatment Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Adult patients with MDS/MPN associated with platelet-derived growth factor receptor gene rearrangements are candidates for imatinib mesylate at standard dosages.[ 3 ] Because of its rare occurrence, the literature only minimally addresses other treatment options for MDS/MPN-UC. Supportive care involves treating cytopenias and infection as necessary."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of MDS/MPN, Unclassifiable",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Treatment of MDS/MPN, Unclassifiable",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Orazi A, Germing U: The myelodysplastic/myeloproliferative neoplasms: myeloproliferative diseases with dysplastic features. Leukemia 22 (7): 1308-19, 2008. [PUBMED Abstract]\n- Szpurka H, Tiu R, Murugesan G, et al.: Refractory anemia with ringed sideroblasts associated with marked thrombocytosis (RARS-T), another myeloproliferative condition characterized by JAK2 V617F mutation. Blood 108 (7): 2173-81, 2006. [PUBMED Abstract]\n- GLEEVEC - imatinib mesylate tablet. Novartis Pharmaceuticals Corporation, 2020. Available online . Last accessed February 18, 2025."
+        },
+        {
+          "section": "Latest Updates to This Summary (05/14/2025)",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (05/14/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of myelodysplastic/myeloproliferative neoplasms. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 10,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Myelodysplastic/Myeloproliferative Neoplasms Treatment are:\n- Aaron Gerds, MD (Cleveland Clinic Taussig Cancer Institute)\n- Eric J. Seifter, MD (Johns Hopkins University)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Myelodysplastic/Myeloproliferative Neoplasms Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/myeloproliferative/hp/mds-mpd-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389321]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Myelodysplastic/Myeloproliferative Neoplasms Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\45335111ffb9cd4cfbca.html"
+    }
+  ]
+}

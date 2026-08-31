@@ -1,0 +1,801 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "scope": "general_or_multi_cancer",
+  "summary_name": "Sleep Disorders",
+  "generated_at": "2026-08-31T07:15:23.786931+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "supportive_care"
+      ],
+      "topic": "supportive_care",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Sleep Disorders (PDQ®)–Health Professional Version",
+      "summary_name": "Sleep Disorders",
+      "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/sleep-disorders-hp-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "July 17, 2024",
+      "retrieved_at": "2026-08-31T07:08:18.499816+00:00",
+      "content_sha256": "b7b5e8967dd9e744e49740f2148011e525e242fd18ba8b48f9f9c2e83bbed101",
+      "section_count": 33,
+      "sections": [
+        {
+          "section": "Overview",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Insomnia symptoms occur in about 33% to 50% of the adult population [ 1 ] and are often associated with situational stress, illness, aging, and drug treatment.[ 2 ] It is estimated that one-third to one-half of people with cancer experience sleep disturbances.[ 3 , 4 ] Physical illness, pain, hospitalization, drugs and other treatments for cancer, and the psychological impact of a malignant disease may disrupt the sleeping patterns of people with cancer.[ 5 ] Adequate sleep may increase the cancer patient's pain tolerance. Poor sleep adversely affects daytime mood and performance. In the general population, persistent insomnia has been associated with a higher risk of developing clinical anxiety or depression.[ 6 ] Sleep disturbances and, ultimately, sleep-wake cycle reversals can be early signs of a developing delirium.\nSleep consists of two phases:[ 7 ]\n- Rapid eye movement (REM) sleep: REM sleep, also known as dream sleep, is the active or paradoxic phase of sleep in which the brain is active.\n- Non-REM (NREM) sleep: NREM sleep is the quiet or restful phase of sleep. NREM, also referred to as slow-wave sleep, is divided into four stages of progressively deepening sleep based on electroencephalogram findings.\nThe stages of sleep occur in a repeated pattern or cycle of NREM followed by REM, with each cycle lasting approximately 90 minutes. The sleep cycle is repeated four to six times during a 7- to 8-hour sleep period.[ 7 ] The sleep-wake cycle is dictated by an inherent biological clock or circadian rhythm. Disruptions in individual sleep patterns can disrupt the circadian rhythm and impair the sleep cycle.[ 8 ]\nThe Sleep Disorders Classification Committee of the American Academy of Sleep Medicine has identified five major categories of sleep disorders:[ 9 ]\n- Disorders of initiating and maintaining sleep (insomnias).\n- Sleep-related breathing disorders (sleep apnea).\n- Disorders of excessive somnolence (hypersomnias).\n- Disorders of the sleep-wake cycle (circadian rhythm sleep disorders).\n- Dysfunctions associated with sleep, sleep stages, or partial arousals (parasomnias).\nIn this summary, unless otherwise stated, evidence and practice issues as they relate to adults are discussed. The evidence and application to practice related to children may differ significantly from information related to adults. When specific information about the care of children is available, it is summarized under its own heading."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Overview",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Schutte-Rodin S, Broch L, Buysse D, et al.: Clinical guideline for the evaluation and management of chronic insomnia in adults. J Clin Sleep Med 4 (5): 487-504, 2008. [PUBMED Abstract]\n- Sateia MJ, Pigeon WR: Identification and management of insomnia. Med Clin North Am 88 (3): 567-96, vii, 2004. [PUBMED Abstract]\n- Palesh OG, Roscoe JA, Mustian KM, et al.: Prevalence, demographics, and psychological associations of sleep disruption in patients with cancer: University of Rochester Cancer Center-Community Clinical Oncology Program. J Clin Oncol 28 (2): 292-8, 2010. [PUBMED Abstract]\n- Savard J, Morin CM: Insomnia in the context of cancer: a review of a neglected problem. J Clin Oncol 19 (3): 895-908, 2001. [PUBMED Abstract]\n- Berger AM: Update on the state of the science: sleep-wake disturbances in adult patients with cancer. Oncol Nurs Forum 36 (4): E165-77, 2009. [PUBMED Abstract]\n- Ohayon MM, Caulet M, Lemoine P: Comorbidity of mental and insomnia disorders in the general population. Compr Psychiatry 39 (4): 185-97, 1998 Jul-Aug. [PUBMED Abstract]\n- Hirshkowitz M: Normal human sleep: an overview. Med Clin North Am 88 (3): 551-65, vii, 2004. [PUBMED Abstract]\n- Hrushesky WJ, Grutsch J, Wood P, et al.: Circadian clock manipulation for cancer prevention and control and the relief of cancer symptoms. Integr Cancer Ther 8 (4): 387-97, 2009. [PUBMED Abstract]\n- American Academy of Sleep Medicine: The International Classification of Sleep Disorders: Diagnostic & Coding Manual. 2nd ed. American Academy of Sleep Medicine, 2005."
+        },
+        {
+          "section": "Sleep Disturbances in Cancer Patients",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Sleep Disturbances in Cancer Patients"
+          ],
+          "is_boilerplate": false,
+          "block_count": 50,
+          "text": "Cancer patients are at great risk of developing insomnia and disorders of the sleep-wake cycle. Insomnia, the most common sleep disturbance in this population, is most often secondary to physical and/or psychological factors related to cancer and/or cancer treatment.[ 1 - 6 ] Anxiety and depression—common psychological responses to the diagnosis of cancer, cancer treatment, and hospitalization—are highly correlated with insomnia.[ 7 , 8 ];[ 9 ][ Level of evidence: II ] In addition, sleep disturbances may be part of cancer-related symptom clusters. For more information, see Symptom Clusters in Cancer .\nSleep disturbances may be exacerbated by paraneoplastic syndromes associated with steroid production and by symptoms associated with tumor invasion, such as:\n- Draining lesions.\n- Gastrointestinal (GI) and genitourinary (GU) alterations.\n- Pain.\n- Fever.\n- Cough.\n- Dyspnea.\n- Pruritus.\n- Fatigue.\nSleep disturbance can also vary by diagnosis. In a study of patients with melanoma (n = 124), breast cancer (n = 124), and endometrial cancer (n = 82),[ 10 ][ Level of evidence: II ] symptom profiles differed by diagnosis. Four symptom profiles were identified: minimally symptomatic, insomnia-predominant, very sleepy with upper airway symptoms, and symptomatic with severe dysfunction. Using latent class profile analysis, group differences by cancer diagnosis were identified, as shown in Table 1:\nCancer Type | Minimally Symptomatic | Insomnia-Predominant | Very Sleepy With Upper Airway Symptoms | Symptomatic With Severe Dysfunction\nMelanoma | X | X\nBreast | X | X\nEndometrial | X | X | X | X\nDifferences by disease groups may be associated with treatment regimens and/or other factors.\nMedications—including vitamins, corticosteroids, neuroleptics for nausea and vomiting, and sympathomimetics for the treatment of dyspnea—and other treatment factors can negatively impact sleep patterns.\nSide effects of treatment that may affect the sleep-wake cycle include the following:[ 11 ];[ 9 ][ Level of evidence: II ]\n- Pain.\n- Anxiety.\n- Night sweats/hot flashes. For more information, see Hot Flashes and Night Sweats .\n- GI disturbances (e.g., incontinence, diarrhea, constipation, or nausea).\n- GU disturbances (e.g., incontinence, retention, or GU irritation).\n- Respiratory disturbances.\n- Fatigue.\nSustained use of the following can cause insomnia:\n- Sedatives and hypnotics (e.g., glutethimide, benzodiazepines, pentobarbital, chloral hydrate, secobarbital sodium, and amobarbital sodium).\n- Anticonvulsants (e.g., phenytoin).\n- Corticosteroids.\n- Oral contraceptives.\n- Monoamine oxidase inhibitors.\n- Methyldopa.\n- Propranolol.\n- Atenolol.\n- Alcohol.\n- Thyroid preparations.\nIn addition, withdrawal from the following substances may cause insomnia:\n- Central nervous system depressants (e.g., barbiturates, opioids, glutethimide, chloral hydrate, methaqualone, ethchlorvynol, alcohol, and over-the-counter and prescription antihistamine sedatives).\n- Benzodiazepines.\n- Major tranquilizers.\n- Tricyclic and monamine oxidase inhibitor antidepressants.\n- Illicit drugs (e.g., marijuana, cocaine, phencyclidine, and opioids).\nHypnotics can interfere with rapid eye movement (REM) sleep, resulting in increased irritability, apathy, and diminished mental alertness. Abrupt withdrawal of hypnotics and sedatives may lead to symptoms such as:\n- Nervousness.\n- Jitteriness.\n- Seizures.\n- REM rebound.\nREM rebound is a marked increase in REM sleep, with increased frequency and intensity of dreaming, including nightmares.[ 12 ] The increased physiological arousal that occurs during REM rebound may be dangerous for patients with peptic ulcers or a history of cardiovascular problems. Newer medications for insomnia have reduced adverse effects.[ 13 ]\nThe sleep of hospitalized patients is likely to be frequently interrupted by treatment schedules, hospital routines, and roommates, which singularly or collectively alter the sleep-wake cycle. Other factors influencing sleep-wake cycles in the hospital setting include patient age, comfort, pain, anxiety, environmental noise, and temperature.[ 14 ]\nConsequences of sleep disturbances can influence outcomes of therapeutic and supportive care measures.[ 15 ] The patient with mild to moderate sleep disturbances may experience irritability and inability to concentrate, which may in turn affect compliance with treatment protocols, the ability to make decisions, and relationships with significant others. Sleep disturbances can also cause depression and anxiety. Supportive care measures are directed toward promoting quality of life and adequate rest."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Sleep Disturbances in Cancer Patients",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "- Savard J, Morin CM: Insomnia in the context of cancer: a review of a neglected problem. J Clin Oncol 19 (3): 895-908, 2001. [PUBMED Abstract]\n- Savard J, Simard S, Blanchet J, et al.: Prevalence, clinical characteristics, and risk factors for insomnia in the context of breast cancer. Sleep 24 (5): 583-90, 2001. [PUBMED Abstract]\n- Savard J, Simard S, Hervouet S, et al.: Insomnia in men treated with radical prostatectomy for prostate cancer. Psychooncology 14 (2): 147-56, 2005. [PUBMED Abstract]\n- Otte JL, Carpenter JS, Russell KM, et al.: Prevalence, severity, and correlates of sleep-wake disturbances in long-term breast cancer survivors. J Pain Symptom Manage 39 (3): 535-47, 2010. [PUBMED Abstract]\n- Lee ES, Lee MK, Kim SH, et al.: Health-related quality of life in survivors with breast cancer 1 year after diagnosis compared with the general population: a prospective cohort study. Ann Surg 253 (1): 101-8, 2011. [PUBMED Abstract]\n- Wong AK, Wang D, Marco D, et al.: Prevalence, Severity, and Predictors of Insomnia in Advanced Colorectal Cancer. J Pain Symptom Manage 66 (3): e335-e342, 2023. [PUBMED Abstract]\n- Bardwell WA, Profant J, Casden DR, et al.: The relative importance of specific risk factors for insomnia in women treated for early-stage breast cancer. Psychooncology 17 (1): 9-18, 2008. [PUBMED Abstract]\n- Palesh OG, Roscoe JA, Mustian KM, et al.: Prevalence, demographics, and psychological associations of sleep disruption in patients with cancer: University of Rochester Cancer Center-Community Clinical Oncology Program. J Clin Oncol 28 (2): 292-8, 2010. [PUBMED Abstract]\n- Van Onselen C, Cooper BA, Lee K, et al.: Identification of distinct subgroups of breast cancer patients based on self-reported changes in sleep disturbance. Support Care Cancer 20 (10): 2611-9, 2012. [PUBMED Abstract]\n- Kairaitis K, Madut AS, Subramanian H, et al.: Cancer sleep symptom-related phenotypic clustering differs across three cancer specific patient cohorts. J Sleep Res 31 (5): e13588, 2022. [PUBMED Abstract]\n- Vena C, Parker K, Cunningham M, et al.: Sleep-wake disturbances in people with cancer part I: an overview of sleep, sleep regulation, and effects of disease and treatment. Oncol Nurs Forum 31 (4): 735-46, 2004. [PUBMED Abstract]\n- Chouinard G: Issues in the clinical use of benzodiazepines: potency, withdrawal, and rebound. J Clin Psychiatry 65 (Suppl 5): 7-12, 2004. [PUBMED Abstract]\n- Barbera J, Shapiro C: Benefit-risk assessment of zaleplon in the treatment of insomnia. Drug Saf 28 (4): 301-18, 2005. [PUBMED Abstract]\n- Boonstra L, Harden K, Jarvis S, et al.: Sleep disturbance in hospitalized recipients of stem cell transplantation. Clin J Oncol Nurs 15 (3): 271-6, 2011. [PUBMED Abstract]\n- Sateia MJ, Doghramji K, Hauri PJ, et al.: Evaluation of chronic insomnia. An American Academy of Sleep Medicine review. Sleep 23 (2): 243-308, 2000. [PUBMED Abstract]"
+        },
+        {
+          "section": "Assessment",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Assessment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 41,
+          "text": "Assessment is the initial step in managing sleep disturbances in people with cancer. Assessment data should include the following:[ 1 ]\n- Documentation of predisposing factors.\n- Sleep patterns.\n- Emotional status.\n- Exercise and activity levels.\n- Diet.\n- Symptoms.\n- Medications.\n- Caregiver routines.\nThe sections below outline recommendations for a sleep history and physical examination. Data can be retrieved from multiple sources, such as:[ 2 ]\n- The patient’s subjective report of sleep difficulty.\n- Objective observations of behavioral and physiological manifestations of sleep disturbances.\n- Reports from the patient's significant other regarding the patient's quality of sleep.\nThe Insomnia Severity Index, which has been validated in adult oncology populations, is recommended when screening for insomnia in clinical settings.[ 3 , 4 ] In a 2021 study, the Insomnia Severity Index was validated in young adult (18–40 years of age) cancer survivors.[ 5 ]\nThe diagnosis of insomnia is primarily based on a careful, detailed medical and psychiatric history. The American Academy of Sleep Medicine has produced guidelines for the use of polysomnography as an objective tool in evaluating insomnia. The routine polysomnogram includes the monitoring of the following:\n- Electroencephalography.\n- Electro-oculography.\n- Electromyography.\n- Effort of breathing and air flow.\n- Oxygen saturation.\n- Electrocardiography.\n- Body position.\nPolysomnography is the major diagnostic tool for assessment of sleep disorders. It is indicated in the evaluation of suspected sleep-related breathing disorders and periodic limb movement disorder, when the cause of insomnia is uncertain, or when behavioral or pharmacological therapy is unsuccessful.[ 6 ]\nSleep disturbances have been shown to change throughout the cancer trajectory, which supports the need to assess sleep throughout the patient’s cancer experience. One descriptive study [ 7 ] [Level of evidence: II] involving 398 women with breast cancer used the General Sleep Disturbance Scale (GSDS) to identify three different sleep trajectories when self-reported sleep was evaluated beginning before surgery and continuing for 6 months. One group (55% of the sample) had a high level of sleep disturbance throughout the study, defined as scores on the GSDS of about 58 to 60 at all data points. A second group (40% of the sample) was considered to have a low level of sleep disturbance throughout, defined as scores on the GSDS in the low 30s at each data point. The final group (5% of the sample) started out high, with scores around 62, but their scores decreased to below 30 over the first 4 months and remained there through month 6. Participants identified as having a more severe sleep disorder were significantly younger, had more comorbidities, had a lower performance status, and experienced hot flashes. In another study, of 232 women with gynecologic cancers that assessed sleep using the GSDS at six time points over two cycles of chemotherapy, four distinct subgroups of patients with sleep disturbance were identified (Low, 18.5%; Moderate, 43.6%; High, 29.3%; Very High, 8.6%).[ 8 ][ Level of evidence: II ] Participants with the worst sleep disturbance were younger, had a higher body mass index, and were more likely to report depression or back pain.\nSleep disturbances frequently co-occur with cancer-related fatigue and may have common underlying mechanisms. Prospective and multidimensional assessments of these two symptoms were conducted in a study involving patients who were newly diagnosed with stage I through stage IIIA breast cancer (N = 152).[ 9 ] Assessments included validated sleep and fatigue questionnaires and objective sleep assessments using wrist actigraphy, which measure sleep-wake patterns and circadian rhythms. Assessments were conducted before initiation of chemotherapy (T1) and during the last week of the fourth cycle of anthracycline-based chemotherapy (T2). Most patients in the group characterized by severe symptoms at T1 were also in a higher-symptoms group at T2. Similarly, many patients in that group at T1 remained in the minimal-symptoms group at T2. From T1 to T2, the average-symptoms group was relatively unstable compared with the severe- and minimal-symptoms groups. At both time points, younger patients reported more severe symptoms, and married patients reported less severe symptoms. Patients who reported more comorbidities, more use of medications, and other indicators of worse health (e.g., higher BMI) were more likely to be in the group characterized by higher symptom severity at both time points.\nIn addition, stress can contribute to sleep disturbance. A study of 957 patients undergoing chemotherapy treatment for breast, lung, gastrointestinal, or gynecological cancer measured responses to validated stress/resilience assessment instruments (14-item Perceived Stress Scale, 22-item Impact of Event Scale-Revised, 30-item Life Stressor Checklist-Revised, and 10-item Connor-Davidson Resilience Scale). Compared with patients classified in a normative or resilient class, patients in the stressed class had significantly higher levels of sleep disturbance. Also, each of the domains of sleep disturbance within the validated 21-item GSDS (quantity, quality, sleep onset latency, mid-sleep awakening, early awakenings, and excessive daytime sleepiness) and use of medications to help with sleep were statistically significant and crossed clinically meaningful cutoff points for patients in the stressed class.[ 10 ]\nRisk Factors for Sleep Disorders\n- Disease factors, including paraneoplastic syndromes with increased steroid production, and symptoms associated with tumor invasion (e.g., obstruction, pain, fever, shortness of breath, pruritus, and fatigue).\n- Treatment factors, including symptoms related to surgery (e.g., pain, frequent monitoring, and use of opioids), chemotherapy (e.g., exogenous corticosteroids), and symptoms related to chemotherapy.\n- Medications such as opioids; sedatives/hypnotics; steroids; caffeine/nicotine; some antidepressants; and dietary supplements, including some vitamins, diet pills, and other products promoting weight loss and appetite suppression.\n- Environmental factors.\n- Physical and/or psychological stressors.\n- Depression. For more information, see Depression .\n- Anxiety. For more information, see the Anxiety Disorders: Description and Etiology section in Adjustment to Cancer: Anxiety and Distress.\n- Delirium.\n- Daytime seizures, snoring, and headaches.\nCharacterization of Sleep\n- Usual patterns of sleep, including usual bedtime, routine before retiring (e.g., food, bath, and medications), length of time before onset of sleep, and duration of sleep (waking episodes during night, ability to resume sleep, and usual time of awakening).\n- Characteristics of disturbed sleep (changes after diagnosis, treatment, and/or hospitalization).\n- The significant other's perception of the patient's quantity and quality of sleep.\n- Family history of sleep disorders."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Assessment",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- American Academy of Sleep Medicine: The International Classification of Sleep Disorders: Diagnostic & Coding Manual. 2nd ed. American Academy of Sleep Medicine, 2005.\n- Perlis ML, Jungquist C, Smith MT, et al.: Cognitive Behavioral Treatment of Insomnia: A Session-by-Session Guide. Springer Science+Business Media LLC, 2008.\n- Bastien CH, Vallières A, Morin CM: Validation of the Insomnia Severity Index as an outcome measure for insomnia research. Sleep Med 2 (4): 297-307, 2001. [PUBMED Abstract]\n- Savard MH, Savard J, Simard S, et al.: Empirical validation of the Insomnia Severity Index in cancer patients. Psychooncology 14 (6): 429-41, 2005. [PUBMED Abstract]\n- Michaud AL, Zhou ES, Chang G, et al.: Validation of the Insomnia Severity Index (ISI) for identifying insomnia in young adult cancer survivors: comparison with a structured clinical diagnostic interview of the DSM-5 (SCID-5). Sleep Med 81: 80-85, 2021. [PUBMED Abstract]\n- Kushida CA, Littner MR, Morgenthaler T, et al.: Practice parameters for the indications for polysomnography and related procedures: an update for 2005. Sleep 28 (4): 499-521, 2005. [PUBMED Abstract]\n- Van Onselen C, Cooper BA, Lee K, et al.: Identification of distinct subgroups of breast cancer patients based on self-reported changes in sleep disturbance. Support Care Cancer 20 (10): 2611-9, 2012. [PUBMED Abstract]\n- Pozzar RA, Hammer MJ, Paul SM, et al.: Distinct sleep disturbance profiles among patients with gynecologic cancer receiving chemotherapy. Gynecol Oncol 163 (2): 419-426, 2021. [PUBMED Abstract]\n- Fox RS, Ancoli-Israel S, Roesch SC, et al.: Sleep disturbance and cancer-related fatigue symptom cluster in breast cancer patients undergoing chemotherapy. Support Care Cancer 28 (2): 845-855, 2020. [PUBMED Abstract]\n- Jakovljevic K, Kober KM, Block A, et al.: Higher Levels of Stress Are Associated With a Significant Symptom Burden in Oncology Outpatients Receiving Chemotherapy. J Pain Symptom Manage 61 (1): 24-31.e4, 2021. [PUBMED Abstract]"
+        },
+        {
+          "section": "Management",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Management of sleep disturbances should focus on treatment of problems such as:\n- Falling asleep.\n- Staying asleep.\n- Early-morning awakenings.\nOther areas to manage include symptoms from cancer and its treatment and the identification and management of environmental and psychological factors. When sleep disturbances are caused by symptoms of cancer or its treatment, measures that control or alleviate symptoms are often the key to resolving sleep disturbances. Management of sleep disturbances combines nonpharmacological and pharmacological approaches individualized for the patient."
+        },
+        {
+          "section": "Nonpharmacological Management of Sleep Disturbances",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Nonpharmacological Management of Sleep Disturbances"
+          ],
+          "is_boilerplate": false,
+          "block_count": 46,
+          "text": "Many people who experience insomnia have poor sleep hygiene (such as smoking and drinking excessive alcohol just before bedtime), which can exacerbate or perpetuate insomnia.[ 1 ][ Level of evidence: III ] A complete assessment of sleep hygiene (i.e., time in bed; napping during the day; intake of caffeine, alcohol, or foods that are heavy, spicy, or sugary; exercise; and sleep environment) and use of behavioral management strategies (i.e., fixed bedtime; restrictions on smoking, diet, and excessive alcohol 4–6 hours before bedtime; and increased exercise) may prove effective in reducing sleep disturbances.\nSleep hygiene in an inpatient setting involves modifying the sleep environment to decrease sleep disruption. Minimizing noise, dimming or turning off lights, adjusting room temperature, and consolidating patient care tasks to reduce the number of interruptions can increase the amount of uninterrupted sleep.[ 2 ][ Level of evidence: IV ]\nCognitive strategies include:[ 3 ]\n- Restructuring negative thoughts, beliefs, and attitudes related to sleep.\n- Preventing excessive monitoring or worrying about getting enough sleep.\nBehavioral strategies include:\n- Stimulus control.\n- Sleep restriction.\nBoth of these strategies seek to limit the time spent in bed that does not involve sleeping.[ 3 - 5 ] Several large randomized trials and meta-analyses provide the evidence base for the efficacy of cognitive behavioral therapy (CBT) for insomnia (CBT-I).[ 3 , 6 , 7 ] Most of these trials have been in populations of patients without cancer.\nComponents of CBT-I include the following:\n- Cognitive restructuring.\n- Behavioral strategies.\n- Relaxation training.[ 4 ]\n- Basic sleep hygiene education.\nRelaxation therapy can be used to achieve both behavioral and cognitive outcomes, particularly when it is combined with imagery. Educational objectives around sleep hygiene are also used to treat insomnia and include content on the following:[ 4 ]\n- Sleeping and waking up at regular times.\n- Relaxing before bedtime.\n- Creating a dark, comfortable sleep environment.\n- Avoiding watching television or working in the bedroom.\n- Getting ample daylight during nonsleep hours.\n- Avoiding naps.\n- Limiting caffeine.\n- Getting regular exercise but no closer than 3 hours before bedtime.\nPractice guidelines from the American Academy of Sleep Medicine clearly state that multicomponent therapy is recommended over single therapies. Because of insufficient evidence about its efficacy, sleep hygiene education is not recommended as a single-modality management approach; other reviews state that sleep hygiene by itself is not effective.[ 6 , 8 ] Information about sleep hygiene should be included in patient education about sleep issues.\nSeveral trials and meta-analyses have shown CBT-I to be at least as effective as conventional pharmacological therapies in treating primary chronic insomnia but without side effects.[ 6 , 7 , 9 - 11 ]\nA four-arm study (conducted in patients with primary chronic insomnia) that evaluated zolpidem versus CBT versus zolpidem and CBT versus placebo reported a greater effect ( P = .05) on sleep-onset latency for both groups involving CBT (change of 44%) versus the group receiving zolpidem alone (change of 29%).[ 12 ] Another study, also conducted in patients with primary chronic insomnia, evaluated CBT with temazepam alone versus a combination of CBT and temazepam versus placebo and found that all active treatments were significantly better than placebo and that there was a trend for the most improvement in the combined arm of CBT and temazepam.[ 13 ] Both arms with CBT demonstrated greater reductions in time to sleep onset than the pharmacotherapy-alone arm (64% in the combined arm, 55% in the CBT arm, and 47% in the temazepam arm). A meta-analysis examining pharmacological and behavioral studies for persistent insomnia found that pharmacological and behavioral treatments did not differ in magnitude of benefit except for latency to sleep onset, in which greater reductions were found with behavioral therapy.[ 7 ]\nThere are limited data evaluating elements of CBT-I in cancer survivors, and most data are about women with breast cancer. However, there have been at least four randomized controlled trials of CBT-I in cancer survivors.[ 14 - 17 ] The intervention was typically delivered over five to eight weekly, small-group, in-person sessions. One trial included patients with cancer diagnoses other than breast cancer,[ 16 ] and results did not differ by cancer diagnosis. All studies showed improvements in numerous sleep parameters over time in the groups receiving CBT-I and demonstrated continued benefits 6 and 12 months later. Two of the four trials did not use active control arms.[ 14 , 16 ]\nMost studies using active control arms were in breast cancer survivors. One study compared CBT-I with sleep education and hygiene in 72 women,[ 15 ] while the other study used a healthy-eating education control group.[ 17 ] In the first study, both groups significantly improved over time, with some significant differences between groups favoring CBT-I for time to fall asleep, time awake after sleep, total sleep time, and overall sleep quality. For example, the group receiving CBT-I improved by 30 minutes in time to fall asleep, compared with 11 minutes in the sleep education and hygiene group.[ 15 ]\nIn the second study, 219 women were randomly assigned to a behavioral therapy group consisting of stimulus control, general sleep hygiene (limiting naps, going to bed and rising at consistent times), and relaxation or to a healthy-eating education control group. The interventions were delivered by trained nurses in person, 2 days before the initiation of chemotherapy, before each chemotherapy treatment, and 30 days after the last chemotherapy treatment. The nurses worked with women assigned to behavioral therapy to individualize and reinforce the behaviors. The Pittsburgh Sleep Quality Index (PSQI) was used to measure subjective sleep quality, complemented by use of a sleep diary and wrist actigraph. Sleep quality significantly improved in the group receiving behavioral therapy, compared with the control group. These differences were also seen in data from the sleep diary and actigraph, with both showing significantly fewer awakenings in the behavioral therapy group.[ 18 ] Sleep quality was significantly better at 90 days and at 1 year in the behavioral therapy group, as measured by the PSQI but not the diary or actigraph.[ 17 ]\nIn some places, patients may not have access to in-person, professionally delivered CBT-I. A randomized controlled trial conducted with breast cancer survivors demonstrated that CBT-I delivered via digital media can also produce meaningful clinical improvements, although improvements are not as robust as those produced with professionally delivered CBT-I. This three-armed trial compared video-based CBT-I (VCBT-I) and professionally delivered CBT-I (PCBT-I) with a no-treatment control group in 242 breast cancer survivors. Both the VCBT-I and PCBT-I groups had significantly greater improvements in diary-measured sleep variables, compared with the control group. The patients in the PCBT-I group reported greater improvements in some sleep outcomes and in fatigue and depression levels than did the VCBT-I group.[ 19 ]\nReference | Cancer Type | Sample Size and Design | Control and CBT-I Intervention | Measures | Outcomes\nISI = Insomnia Severity Index; PCBT-I = professionally administered CBT-I; PSQI = Pittsburgh Sleep Quality Index; QOL = quality of life; RCT = randomized controlled trial; VCBT-I = video-based CBT-I.\na Actigraphy: A technique that uses a small instrument called an actigraph (a watch-like sensory unit) worn on the wrist or ankle to measure body gross motor activity. It is helpful in determining sleep patterns and daytime activity.\nb Polysomnography: A test used to diagnose sleep disorders on the basis of sleep-related biophysiological changes.\nBerger et al., 2009 [ 17 ] | Breast (stages I–III) during chemotherapy | N = 219; RCT | Control: Healthy-eating group (sessions with equal time, attention) | PSQI, sleep diary, actigraphy a , fatigue assessment | Significant improvement in sleep quality and nighttime awakenings for CBT group, compared with control group\nCBT-I: Individualized plan before chemotherapy, stimulus control, modified sleep restriction, relaxation therapy, sleep hygiene\nEpstein et al., 2007 [ 15 ] | Breast (stages I–III) | N = 72; RCT | Control: Sleep education and hygiene | Sleep diary, actigraphy, ISI | Both groups improved over time; significant improvement between groups favored CBT-I group in time to fall asleep, time awake after sleep onset, total sleep time, sleep quality (as measured by ISI)\nCBT-I: 6 sessions, stimulus control, sleep restriction, sleep education and hygiene\nEspie et al., 2008 [ 16 ] | Mixed | N = 150; RCT | Control: Sleep education and hygiene | Sleep diary; actigraphy; fatigue, depression/anxiety, and QOL assessments | Significant improvement in time to fall asleep, time awake after sleep onset, sleep efficiency, fatigue, specific QOL outcomes for CBT-I group, compared with control group\nCBT-I: 5 weekly sessions, stimulus control, sleep restriction, cognitive restructuring\nSavard et al., 2005 [ 14 ] | Breast (stages I–III) | N = 57; RCT | Control: Wait list | Sleep diary; polysomnography b ; ISI; fatigue, depression/anxiety, and QOL assessments | Significant improvement in time to fall asleep, time awake after sleep onset, sleep efficiency, depression/anxiety, and QOL outcomes for CBT group, compared with control group\nCBT-I: 8 weekly sessions, stimulus control, sleep restriction, sleep education and hygiene, cognitive restructuring, fatigue management\nSavard et al., 2014 [ 19 ] | Breast (stages I–III) | N = 242; RCT | Control: No treatment (n = 81) | Sleep diary; ISI; actigraphy; fatigue, depression/anxiety, and QOL assessments | Compared with control group, PCBT-I and VCBT-I groups associated with significant improvement in sleep diary–measured sleep variables; compared with VCBT-I group, PCBT-I group had more improvement in sleep, fatigue, and depression/anxiety outcomes and had higher remission rates for insomnia\nPCBT-I (n = 81): 6 weekly sessions\nVCBT-I (n = 80): 60-min animated video, 6 booklets\nCBT-I content: Similar for both groups (stimulus control, sleep restriction, sleep education and hygiene, cognitive restructuring)"
+        },
+        {
+          "section": "Inpatient nonpharmacological management",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Nonpharmacological Management of Sleep Disturbances",
+            "Inpatient nonpharmacological management"
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "CBT delivered by psychologists has shown promise for the treatment of insomnia in patients with cancer.[ 14 ][ Level of evidence: I ] A randomized controlled study investigated the effectiveness of a protocol-driven cognitive behavioral intervention for insomnia delivered by oncology nurses.[ 16 ][ Level of evidence: I ] This group intervention consisted of standard CBT components such as stimulus control and sleep restriction. Participants included patients with heterogeneous cancers randomly assigned to receive the intervention (n = 100) or treatment as usual (n = 50). Primary outcomes were sleep diary measures at baseline, posttreatment, and at 6-month follow-up. CBT was associated with significant and sustained improvements in several sleep aspects. These improvements were seen for both subjective (sleep diary) and objective (actigraphy) assessments. Additionally, patients who received CBT showed significant improvements in fatigue, anxiety, and depressive symptoms and reported improved quality of life, compared with patients who received treatment as usual.[ 16 ][ Level of evidence: I ]\nA study conducted in cancer survivors demonstrated the benefits of a specialized yoga program to improve sleep quality and reduce medication use. A total of 410 cancer survivors with moderate to severe sleep disturbances were randomly assigned to receive standard care or standard care plus a 4-week yoga intervention delivered in two weekly sessions by trained yoga instructors. The yoga participants showed significant improvement in sleep quality, daytime dysfunction, nighttime awakening, and sleep efficiency, compared with standard-care participants. One major limitation of this study was its limited population generalizability, as most study participants were female, White, married, and well-educated breast cancer survivors. Another major limitation was the lack of an adequate control group with respect to nonspecific effects such as group support and attention.[ 20 ]\nExercise interventions have shown positive effects on subjective and objective sleep quality in patients with cancer. A study conducted in Taiwanese patients with lung cancer investigated the effects of a 12-week exercise intervention on sleep quality and rest-activity rhythms.[ 21 ] The intervention included a home-based walking exercise regimen (walking at a moderate intensity for 40 minutes, 3 times per week) and weekly exercise counseling. Participants were randomly assigned to either the intervention group (n = 56) or the usual-care group (n = 55). Assessments conducted at baseline, 3 months, and 6 months included a subjective sleep assessment using the PSQI and objective sleep and rest-activity assessment using actigraphy.\nOver time, the walking exercise group showed significant improvement in subjective sleep quality (lower PSQI scores) compared with the usual-care group. The walking exercise group also showed improvement in total sleep time (TST), an important objective measure of sleep quality, compared with the usual-care group. Additionally, the positive effects on TST (i.e., increase in TST) were greater in patients with poor rest-activity rhythm at baseline, suggesting more benefits in patients with poor circadian sleep-activity rhythms. The limitations of the study included a lack of blinding, hence a possible placebo effect in the intervention group. Also, despite randomization, the mean amount of baseline moderate physical activity was higher in the usual-care group than in the intervention group.\nOther actions or interventions that may promote rest in the hospital or extended-care setting include the following:[ 22 , 23 ]\n- Keeping the patient's skin clean and dry.\n- Giving back rubs and/or massaging areas of the body to bring comfort to the patient (e.g., bony prominences, head and scalp, shoulders, hands, and feet).\n- Keeping bedding and/or surfaces of support devices (chairs and pillows) clean, dry, and wrinkle-free.\n- Ensuring adequate bedcovers for warmth.\n- Regulating fluid intake to avoid frequent awakening for elimination.\n- Encouraging bowel and bladder elimination before sleep.\n- Promoting optimal bowel function (increased fluids, dietary fiber, and use of stool softeners and laxatives).\n- Using a condom catheter for nocturnal incontinence.\n- Providing a high-protein snack 2 hours before bedtime (e.g., milk, turkey, or other foods high in tryptophan).\n- Avoiding beverages with caffeine and other stimulants, including dietary supplements that promote metabolism changes and appetite suppression.\n- Encouraging the patient to dress in loose, soft clothing.\n- Facilitating comfort through repositioning and support with pillows as needed.\n- Encouraging activity and being out of bed as much as possible during waking hours.\n- Encouraging the patient to keep regular bedtime and waking hours and avoid napping during the day.\n- Minimizing and coordinating necessary bedside contacts.\nPsychological interventions are directed toward facilitating the patient's coping processes through education, support, and reassurance. As the patient learns to cope with the stresses of illness, hospitalization, and treatment, sleep may improve.[ 24 ][ Level of evidence: IV ] Communication, verbalization of concerns, and openness between the patient, family, and health care team should be encouraged. Relaxation exercises and self-hypnosis performed at bedtime can help promote calm and sleep. Cognitive-behavioral interventions that diminish the distress associated with early insomnia and change the goal from “need to sleep” to “just relax” can diminish anxiety and promote sleep.[ 25 ]"
+        },
+        {
+          "section": "Pharmacological Management of Sleep-Wake Cycle Disturbances",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Pharmacological Management of Sleep-Wake Cycle Disturbances"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "When cancer survivors experience sleep-wake disturbances, cognitive behavioral intervention counseling should be the first consideration for management. For more information, see the Nonpharmacological Management of Sleep Disturbances section. Resources for education and training in CBT may not be readily available in many cancer centers; therefore, community resources need to be investigated. If CBT is not available or has not been successful, pharmacological management can be considered. In addition, when patients have comorbidities contributing to sleep-wake cycle disturbances (such as hot flashes, uncontrolled pain, anxiety, depression, or other mood disturbances),[ 26 , 27 ] then pharmacological management will probably be necessary. While many pharmacological agents are approved for primary insomnia and many others are used off-label to manage sleep and related symptoms, most of the approved sleep aids have not been studied in cancer populations; therefore, the risk/benefit profiles of these drugs are not delineated in this setting.\nDespite the lack of evidence in cancer populations, clinicians widely use pharmacological interventions. Therefore, the following discussion of pharmacological agents and recommendations for use is based on evidence from studies conducted in patients with primary insomnia and clinical experience.[ 4 , 28 , 29 ]\nSeveral classes of medications are used to treat sleep-wake cycle disturbances, including the following:\n- Nonbenzodiazepine benzodiazepine receptor agonists (e.g., zolpidem).\n- Benzodiazepines (e.g., lorazepam).\n- Melatonin receptor agonists (e.g., ramelteon).\n- Antihistamines (e.g., hydroxyzine).\n- Antidepressants (e.g., trazodone) and antipsychotics (e.g., quetiapine) that have sedative effects.\nDrug characteristics to consider before a drug is chosen to treat an individual patient include the following:\n- Absorption.\n- Time to reach maximum concentration.\n- Elimination half-life.\n- Receptor activity.\n- Ability to cross the blood-brain barrier.\n- Dose and frequency.\n- Formulation (short-acting versus long-acting).\nThese pharmacokinetic principles are important to match the agent to the type of sleep disturbance (e.g., problems falling asleep versus problems staying asleep). There are also safety issues to be considered, such as potentials for tolerance, abuse, dependence, withdrawal (including risk of rebound insomnia), and drug-drug and drug-disease interactions. Medications for sleep-wake cycle disturbances should be used short term and/or as needed."
+        },
+        {
+          "section": "General considerations for the use of hypnotics",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Pharmacological Management of Sleep-Wake Cycle Disturbances",
+            "General considerations for the use of hypnotics"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "Medications used to induce sleep are intended for the short-term management of sleep disorders. The use of these medications for longer periods is poorly studied. They are usually combined with lifestyle changes that reinforce good sleep habits and negate the need for chronic hypnotic medications.\nMost research studies of current and historic hypnotic medications rarely exceed a duration of 12 to 16 weeks. Additionally, no current hypnotic re-creates normal sleep architecture, and variations from normal periods of rapid eye movement (REM) sleep and non-REM sleep are common. It is important to taper hypnotic medications slowly, or the variations in normal sleep patterns can become even more pronounced, with the majority of time spent in REM sleep in a condition known as REM rebound.[ 30 , 31 ]\nTable 3 lists the drug categories and specific medications, including doses, commonly used to treat sleep disturbances.\nDrug Category | Medication | Dose | Comments | Reference\nCR = controlled-release; FDA = U.S. Food and Drug Administration; REM = rapid eye movement.\nNonbenzodiazepine benzodiazepine receptor agonist | zaleplon (Sonata) | 5–20 mg | Useful for problems falling asleep only. | [ 32 ][ Level of evidence: I ]\nzolpidem tartrate (Ambien) | 5–10 mg | Useful for problems falling asleep only. Maximum suggested dose for women: 5 mg. | [ 32 ][ Level of evidence: I ]\nzolpidem tartrate extended-release (Ambien CR) | 6.25–12.5 mg | Biphasic release; useful for problems both falling asleep and staying asleep. Do not crush or split tablets. Maximum suggested dose for women: 6.25 mg. | [ 32 ][ Level of evidence: I ]\neszopiclone (Lunesta) | 1–3 mg | Useful for problems both falling asleep and staying asleep. Do not take with or right after meal. | [ 32 ][ Level of evidence: I ]\nBenzodiazepine | clonazepam (Klonopin) | 0.25–2 mg | Used for REM sleep disorder (not FDA approved). | [ 32 ][ Level of evidence: III ];[ 33 ]\nlorazepam (Ativan) | 0.5–4 mg; dose >2 mg rare | Risk of loss of motor coordination, falls, and cognitive impairment. | [ 32 ][ Level of evidence: I ]\ntemazepam (Restoril) | 7.5–30 mg | Risk of loss of motor coordination, falls, and cognitive impairment. | [ 32 ][ Level of evidence: II ]\nMelatonin receptor agonist | ramelteon (Rozerem) | 8 mg | Useful for problems falling asleep only. Little negative effect on cognition, somnolence, motor coordination, or nausea. | [ 32 ][ Level of evidence: I ]\nAntihistamine | diphenhydramine (Benadryl) | 25–100 mg | Useful for problems falling asleep only. Anticholinergic side effects; increases delirium risk in older patients. | [ 32 ][ Level of evidence: I ]\nhydroxyzine (Vistaril, Atarax) | 10–100 mg | Useful for problems falling asleep only. Anticholinergic side effects; increases delirium risk in older patients. | [ 34 ][ Level of evidence: II ]\nTricyclic antidepressant | doxepin (Silenor) | 3–6 mg | Lower doses used for treatment of primary insomnia when antidepressant effect not needed. Risk of anticholinergic side effects and weight gain. | [ 32 ][ Level of evidence: I ]\namitriptyline (Elavil) | 10–25 mg | Lower doses used for treatment of primary insomnia when antidepressant effect not needed. Risk of anticholinergic side effects and weight gain. | [ 35 ][ Level of evidence: II ]\nnortriptyline (Pamelor) | 10–50 mg | Risk of anticholinergic side effects and weight gain. | [ 36 ][ Level of evidence: III ]\nSecond-generation antidepressant | trazodone (Desyrel) | 25–100 mg | Risk of orthostatic hypotension and falls. | [ 37 ]\nmirtazapine (Remeron) | 7.5–45 mg | If depression not a concern, 7.5–15 mg best for sleep, hot flashes, increased appetite, and less morning sedation. Risk of falls. | [ 35 ][ Level of evidence: III ]\nAntipsychotic | quetiapine (Seroquel) | 25–100 mg | Risk of weight gain, metabolic syndrome, abnormal/involuntary movements; possible cardiovascular effects (e.g., prolonged QT interval). Generally not a preferred agent due to side effects. | [ 38 ][ Level of evidence: III ]\nChloral derivative | chloral hydrate | 500–1,000 mg | Used mainly for sleep maintenance. Risk of gastric irritation, dependence, and withdrawal. Lethal in overdose. | [ 32 ][ Level of evidence: I ]"
+        },
+        {
+          "section": "Nonbenzodiazepine benzodiazepine receptor agonists",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Pharmacological Management of Sleep-Wake Cycle Disturbances",
+            "Nonbenzodiazepine benzodiazepine receptor agonists"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "All agents in this class are FDA approved for primary insomnia. These agents promote sleep by enhancing the effects of gamma-aminobutyric acid (GABA) at the GABA type A (GABAA) receptor. Unlike traditional benzodiazepines, these agents preferentially target specific GABAA receptor subtypes. Zolpidem and zaleplon bind predominantly to the alpha-1 subtype of GABAA, and eszopiclone preferentially targets the alpha-3 receptor subtype. This selective receptor subtype targeting has both advantages and disadvantages. These agents have mainly hypnotic/sedative effects and lack the anxiolytic, anticonvulsant, and myorelaxant effects seen with benzodiazepines. Conversely, because of the selective receptor subtype targeting, these agents have fewer effects on cognitive and psychomotor function and carry less risk of tolerance, dependence, and withdrawal (especially physical withdrawal) than benzodiazepines.[ 4 , 28 , 29 ]\nThese agents may be preferred for use in patients with cancer when only hypnotic effects are desired and should be taken just before bedtime (or even in bed) because they enter the brain very quickly. Some of these agents (e.g., zaleplon) have a short elimination half-life. Because of their longer-lasting effects, zolpidem extended-release and eszopiclone are preferred in the treatment of difficulty staying asleep. However, these agents carry a higher risk of residual morning sedation and cognitive/motor impairments than do agents with shorter elimination half-lives (e.g., zaleplon and immediate-release zolpidem)."
+        },
+        {
+          "section": "Benzodiazepines",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Pharmacological Management of Sleep-Wake Cycle Disturbances",
+            "Benzodiazepines"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Benzodiazepines target several GABAA receptor subtypes, including alpha-1, -2, -3, and -5, and work by enhancing GABA effects at these receptors. In addition to hypnotic/sedative effects, these agents also have anxiolytic, anticonvulsant, and myorelaxant effects. Benzodiazepines are preferred when other effects (such as antianxiety or muscle relaxation) are desirable with or without the hypnotic effects.[ 4 , 28 , 29 ]\nBenzodiazepines carry a much higher risk of tolerance, dependence, and withdrawal than nonbenzodiazepine receptor agonists. Benzodiazepine withdrawal has been associated with the risk of seizures, delirium tremens, autonomic instability, and death. These agents should be used with extreme caution and close monitoring in patients with histories of significant substance use because of potential tolerance and dependence issues. Benzodiazepines have also been associated with cognitive impairment and difficulties with motor coordination.\nGenerally, benzodiazepines with longer half-lives (e.g., clonazepam) are associated with a higher risk of residual morning sedation and cognitive/motor impairments. Agents with shorter elimination half-lives (e.g., lorazepam) are generally preferred for short-term anxiolytic effects and difficulties falling asleep and in older patients. Agents with longer half-lives (e.g., clonazepam) are preferred for the treatment of persistent anxiety and difficulties falling and staying asleep. All benzodiazepines are associated with risk of respiratory depression and should be used with caution in patients with preexisting respiratory disorders."
+        },
+        {
+          "section": "Melatonin receptor agonists: Ramelteon and tasimelteon",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Pharmacological Management of Sleep-Wake Cycle Disturbances",
+            "Melatonin receptor agonists: Ramelteon and tasimelteon"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Ramelteon and tasimelteon work by binding to the melatonin receptor types MT1 and MT2. Ramelteon is useful only for the treatment of difficulties falling asleep and does not have any other effects, such as anxiolytic or myorelaxant effects. Tasimelteon is indicated for use in circadian sleep disorder. These agents do not treat difficulties staying asleep but also carry much less risk of cognitive/motor impairments and dependence.[ 28 , 29 , 39 ]"
+        },
+        {
+          "section": "Antihistamines",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Pharmacological Management of Sleep-Wake Cycle Disturbances",
+            "Antihistamines"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Diphenhydramine and hydroxyzine decrease arousal by blockading histamine receptors. Antihistamines are sold over the counter and are useful for treating difficulties in falling asleep only. There is limited evidence for the use of antihistamines to treat insomnia; these agents are used when traditional hypnotics or benzodiazepines are less suitable because of the risk of cross-dependence or other issues, such as vulnerability of a patient to addictions. The anticholinergic properties of antihistamines may also be beneficial in the treatment of nausea and vomiting. The sedative and anticholinergic properties of these agents increase the risk of delirium, especially in older patients.[ 28 , 29 ]"
+        },
+        {
+          "section": "Antidepressants",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Pharmacological Management of Sleep-Wake Cycle Disturbances",
+            "Antidepressants"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Sedating antidepressants are considered first-line agents when insomnia is comorbid with depression/anxiety symptomatology. These drugs include tricyclic antidepressants (e.g., amitriptyline) and second-generation antidepressants (e.g., mirtazapine). The sedating effects of tricyclic antidepressants are caused mainly by histamine receptor blockading and partially by blockading of 5-HT2 and muscarinic receptors. The sedating effects of mirtazapine are caused by its blocking of 5-HT2 and histamine receptors, while those of trazodone are caused by its blocking actions at the at histamine, 5-HT, and noradrenaline receptors.[ 4 , 28 , 29 ] For more information, see the Pharmacological Intervention section in Depression.\nTricyclic antidepressants have a small therapeutic window and can be lethal in overdose, compared with second-generation antidepressants such as mirtazapine. Additionally, tricyclics carry other risks, such as weight gain, anticholinergic side effects, and cardiovascular side effects, and should be used under close supervision. These agents sometimes are used in low doses (see Table 3 ) as adjuncts to other antidepressants to treat insomnia comorbid with depression/anxiety. This helps to avoid the side effects associated with higher doses while delivering the needed sedating effects. Tricyclics can also boost appetite and may be the treatment of choice for insomnia in patients with comorbid cachexia. Certain tricyclics (amitriptyline and nortriptyline) can also be beneficial in the treatment of pain syndromes (e.g., neuropathic pain) and headaches when these issues are comorbid with insomnia. Low doses of antidepressants (subtherapeutic for depression) are frequently used to treat insomnia without any comorbidities.\nMirtazapine has appetite-stimulating and antiemetic properties in addition to sedating effects. It is frequently used in insomniac patients with depression (therapeutic dose for depression, 15–45 mg) or without depression (subtherapeutic dose for depression, 7.5–15 mg) with comorbid nausea or loss of appetite. In low doses, trazodone (50–100 mg) can promote sleep and is often combined with other antidepressants (e.g., fluoxetine 20 mg in the morning) in depressed patients with insomnia."
+        },
+        {
+          "section": "Antipsychotics",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Pharmacological Management of Sleep-Wake Cycle Disturbances",
+            "Antipsychotics"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Antipsychotics such as quetiapine have sedating effects caused mainly by the blockade of histamine receptors. However, these agents should be considered as a last resort and as a short-term treatment because of their serious side-effect profile. The use of antipsychotics has been associated with the following:\n- Weight gain.\n- Metabolic syndrome.\n- Diabetes.\n- Cardiovascular risks.\n- The risk of extrapyramidal side effects, including tardive dyskinesia.\nAntipsychotics can be considered for treatment-refractory insomnia, especially with comorbid anxiety symptomatology.[ 28 ]"
+        },
+        {
+          "section": "Chloral derivative: Chloral hydrate",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Pharmacological Management of Sleep-Wake Cycle Disturbances",
+            "Chloral derivative: Chloral hydrate"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chloral hydrate has sleep-promoting effects resulting from its effects on GABA systems. It is associated with risk of withdrawal symptoms similar to those of benzodiazepines and with rapid development of tolerance. Additionally, chloral hydrate carries the risk of gastric irritation and multiple drug interactions, and it is lethal in overdose. Like antipsychotics, chloral hydrate is usually considered only in cases of treatment-refractory insomnia because of its serious side-effect profile and the availability of safer alternatives.[ 28 ]"
+        },
+        {
+          "section": "Melatonin",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Pharmacological Management of Sleep-Wake Cycle Disturbances",
+            "Botanical/dietary supplements",
+            "Melatonin"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Melatonin, a hormone produced by the pineal gland during the hours of darkness, plays a major role in the sleep-wake cycle and has been linked to the circadian rhythm. A review found that short-term use of melatonin appears to be safe; however, the studies were not conducted in the context of cancer therapy.[ 40 ] Adjuvant melatonin may also improve sleep disruption caused by drugs known to alter normal melatonin production (e.g., beta-blockers and benzodiazepines).[ 41 ][ Level of evidence: IV ] However, a meta-analysis of 25 studies exploring the efficacy and safety of melatonin in managing secondary sleep disorders or sleep disorders accompanying sleep restriction found that melatonin was not effective in these conditions.[ 42 ]\nEvidence suggests that circulating melatonin levels are significantly lower in physically healthy older people and in insomniacs than in age-matched control subjects. In view of these findings, melatonin replacement therapy may be beneficial in the initiation and maintenance of sleep in older patients.[ 43 ][ Level of evidence: II ] A slow-release formulation of melatonin is licensed in Europe and is approved as monotherapy for patients aged 55 years or older for the short-term treatment (up to 13 weeks) of primary insomnia characterized by poor-quality sleep. However, melatonin replacement as a treatment for insomnia has not been studied in older people with cancer. Ramelteon and tasimelteon work via the melatonin receptor system: ramelteon to support the initiation of sleep, and tasimelteon to correct circadian sleep disorder.\nMelatonin may interact with certain chemotherapeutic regimens via the cytochrome P450 enzyme and other systems.[ 44 ] It may augment the effects of some chemotherapeutic agents metabolized via the enzyme CYP1A2 and may exert inhibitory effects on P-glycoprotein–mediated doxorubicin efflux.\nClinical studies in individuals with renal, breast, colon, lung, and brain cancer suggest that melatonin exerts anticancer effects in conjunction with chemotherapy and radiation therapy; however, evidence remains inconclusive.[ 45 , 46 ] All of the studies suggesting antitumor effects of melatonin have been conducted by the same group of investigators and were open label. Efforts by independent groups of investigators are under way to investigate these effects in carefully designed, randomized, blinded studies.[ 45 ] In vitro and animal studies have demonstrated the anticancer effects of exogenous melatonin, and lower melatonin levels are associated with tumor growth.[ 47 ] Human studies have yet to substantiate any causal or associative relationships."
+        },
+        {
+          "section": "Cannabis and cannabinoids",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Pharmacological Management of Sleep-Wake Cycle Disturbances",
+            "Botanical/dietary supplements",
+            "Cannabis and cannabinoids"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "No studies have been conducted to specifically evaluate the effects of Cannabis inhalation or other Cannabis products in patients with primary or secondary sleep disturbances. Limited data from in vitro studies, animal studies, and small populations of healthy individuals or chronic Cannabis users are beginning to elucidate some of the relationships among various neurotransmitters, the sleep-wake cycle, and related effects of Cannabis pharmacology.[ 48 , 49 ]\nCannabis -based medicines are under development as a treatment for chronic pain syndromes, including cancer-related pain. One such medication is nabiximols (Sativex), an oromucosal formulation (delta-9-tetrahydrocannabinol and cannabidiol mixed in a 1:1 ratio). Studies conducted with nabiximols, primarily focusing on pain syndromes, have shown improvement in subjective sleep quality when sleep was measured as a secondary outcome.[ 50 ] Comorbidities such as pain are common reasons for sleep disturbances. Concerns have been raised about the abuse and dependence potential of nabiximols, especially in the subpopulation of patients with histories of Cannabis use.[ 51 ] Nabiximols is approved in Canada for the treatment of central neuropathic pain in patients with multiple sclerosis. In the United States, it is only available for investigational use and is currently under investigation for the treatment of intractable cancer pain. For more information, see Cannabis and Cannabinoids ."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Management",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 51,
+          "text": "- Jefferson CD, Drake CL, Scofield HM, et al.: Sleep hygiene practices in a population-based sample of insomniacs. Sleep 28 (5): 611-5, 2005. [PUBMED Abstract]\n- Savard J, Morin CM: Insomnia in the context of cancer: a review of a neglected problem. J Clin Oncol 19 (3): 895-908, 2001. [PUBMED Abstract]\n- Morin CM, Bootzin RR, Buysse DJ, et al.: Psychological and behavioral treatment of insomnia:update of the recent evidence (1998-2004). Sleep 29 (11): 1398-414, 2006. [PUBMED Abstract]\n- Becker PM: Pharmacologic and nonpharmacologic treatments of insomnia. Neurol Clin 23 (4): 1149-63, 2005. [PUBMED Abstract]\n- Jacobs GD, Benson H, Friedman R: Home-based central nervous system assessment of a multifactor behavioral intervention for chronic sleep-onset insomnia. Behav Ther 24 (1): 159-74, 1993.\n- Morin CM, Culbert JP, Schwartz SM: Nonpharmacological interventions for insomnia: a meta-analysis of treatment efficacy. Am J Psychiatry 151 (8): 1172-80, 1994. [PUBMED Abstract]\n- Smith MT, Perlis ML, Park A, et al.: Comparative meta-analysis of pharmacotherapy and behavior therapy for persistent insomnia. Am J Psychiatry 159 (1): 5-11, 2002. [PUBMED Abstract]\n- Morgenthaler T, Kramer M, Alessi C, et al.: Practice parameters for the psychological and behavioral treatment of insomnia: an update. An american academy of sleep medicine report. Sleep 29 (11): 1415-9, 2006. [PUBMED Abstract]\n- Edinger JD, Wohlgemuth WK, Radtke RA, et al.: Cognitive behavioral therapy for treatment of chronic primary insomnia: a randomized controlled trial. JAMA 285 (14): 1856-64, 2001. [PUBMED Abstract]\n- Berger AM, VonEssen S, Kuhn BR, et al.: Adherence, sleep, and fatigue outcomes after adjuvant breast cancer chemotherapy: results of a feasibility intervention study. Oncol Nurs Forum 30 (3): 513-22, 2003 May-Jun. [PUBMED Abstract]\n- Berger AM, VonEssen S, Khun BR, et al.: Feasibilty of a sleep intervention during adjuvant breast cancer chemotherapy. Oncol Nurs Forum 29 (10): 1431-41, 2002 Nov-Dec. [PUBMED Abstract]\n- Jacobs GD, Pace-Schott EF, Stickgold R, et al.: Cognitive behavior therapy and pharmacotherapy for insomnia: a randomized controlled trial and direct comparison. Arch Intern Med 164 (17): 1888-96, 2004. [PUBMED Abstract]\n- Morin CM, Colecchi C, Stone J, et al.: Behavioral and pharmacological therapies for late-life insomnia: a randomized controlled trial. JAMA 281 (11): 991-9, 1999. [PUBMED Abstract]\n- Savard J, Simard S, Ivers H, et al.: Randomized study on the efficacy of cognitive-behavioral therapy for insomnia secondary to breast cancer, part I: Sleep and psychological effects. J Clin Oncol 23 (25): 6083-96, 2005. [PUBMED Abstract]\n- Epstein DR, Dirksen SR: Randomized trial of a cognitive-behavioral intervention for insomnia in breast cancer survivors. Oncol Nurs Forum 34 (5): E51-9, 2007. [PUBMED Abstract]\n- Espie CA, Fleming L, Cassidy J, et al.: Randomized controlled clinical effectiveness trial of cognitive behavior therapy compared with treatment as usual for persistent insomnia in patients with cancer. J Clin Oncol 26 (28): 4651-8, 2008. [PUBMED Abstract]\n- Berger AM, Kuhn BR, Farr LA, et al.: One-year outcomes of a behavioral therapy intervention trial on sleep quality and cancer-related fatigue. J Clin Oncol 27 (35): 6033-40, 2009. [PUBMED Abstract]\n- Berger AM, Kuhn BR, Farr LA, et al.: Behavioral therapy intervention trial to improve sleep quality and cancer-related fatigue. Psychooncology 18 (6): 634-46, 2009. [PUBMED Abstract]\n- Savard J, Ivers H, Savard MH, et al.: Is a video-based cognitive behavioral therapy for insomnia as efficacious as a professionally administered treatment in breast cancer? Results of a randomized controlled trial. Sleep 37 (8): 1305-14, 2014. [PUBMED Abstract]\n- Mustian KM, Sprod LK, Janelsins M, et al.: Multicenter, randomized controlled trial of yoga for sleep quality among cancer survivors. J Clin Oncol 31 (26): 3233-41, 2013. [PUBMED Abstract]\n- Chen HM, Tsai CM, Wu YC, et al.: Effect of walking on circadian rhythms and sleep quality of patients with lung cancer: a randomised controlled trial. Br J Cancer 115 (11): 1304-1312, 2016. [PUBMED Abstract]\n- Page M: Sleep pattern disturbance. In: McNally JC, Stair JC, Somerville ET, eds.: Guidelines for Cancer Nursing Practice. Grune and Stratton, Inc., 1985, pp 89-95.\n- Kaempfer SH: Insomnia. In: Baird SB, ed.: Decision Making in Oncology Nursing. B.C. Decker, Inc., 1988, pp 78-9.\n- Berlin RM: Management of insomnia in hospitalized patients. Ann Intern Med 100 (3): 398-404, 1984. [PUBMED Abstract]\n- Horowitz SA, Breitbart W: Relaxation and imagery for symptom control in cancer patients. In: Breitbart W, Holland JC, eds.: Psychiatric Aspects of Symptom Management in Cancer Patients. American Psychiatric Press, 1993, pp 147-71.\n- Jim HS, Small B, Faul LA, et al.: Fatigue, depression, sleep, and activity during chemotherapy: daily and intraday variation and relationships among symptom changes. Ann Behav Med 42 (3): 321-33, 2011. [PUBMED Abstract]\n- Savard MH, Savard J, Trudel-Fitzgerald C, et al.: Changes in self-reported hot flashes and their association with concurrent changes in insomnia symptoms among women with breast cancer. Menopause 18 (9): 985-93, 2011. [PUBMED Abstract]\n- Wilson SJ, Nutt DJ, Alford C, et al.: British Association for Psychopharmacology consensus statement on evidence-based treatment of insomnia, parasomnias and circadian rhythm disorders. J Psychopharmacol 24 (11): 1577-601, 2010. [PUBMED Abstract]\n- Sullivan SS: Insomnia pharmacology. Med Clin North Am 94 (3): 563-80, 2010. [PUBMED Abstract]\n- Ramakrishnan K, Scheid DC: Treatment options for insomnia. Am Fam Physician 76 (4): 517-26, 2007. [PUBMED Abstract]\n- Schutte-Rodin S, Broch L, Buysse D, et al.: Clinical guideline for the evaluation and management of chronic insomnia in adults. J Clin Sleep Med 4 (5): 487-504, 2008. [PUBMED Abstract]\n- Lexicomp Online. Hudson, Ohio: Lexi-Comp, Inc., 2025. Available online with subscription . Last accessed Jan. 15, 2025.\n- Howell M, Avidan AY, Foldvary-Schaefer N, et al.: Management of REM sleep behavior disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med 19 (4): 759-768, 2023. [PUBMED Abstract]\n- Alford C, Rombaut N, Jones J, et al.: Acute effects of hydroxyzine on nocturnal sleep and sleep tendency the following day: a C-EEG study. Hum Psychopharmacol Clin Exp 7 (1): 25-35, 1992.\n- Wilson S, Nutt D: Management of insomnia: treatments and mechanismsi. Br J Psychiatry 191: 195-7, 2007. [PUBMED Abstract]\n- Pagel JF, Parnes BL: Medications for the Treatment of Sleep Disorders: An Overview. Prim Care Companion J Clin Psychiatry 3 (3): 118-125, 2001. [PUBMED Abstract]\n- James SP, Mendelson WB: The use of trazodone as a hypnotic: a critical review. J Clin Psychiatry 65 (6): 752-5, 2004. [PUBMED Abstract]\n- Chakravorty S, Hanlon AL, Kuna ST, et al.: The effects of quetiapine on sleep in recovering alcohol-dependent subjects: a pilot study. J Clin Psychopharmacol 34 (3): 350-4, 2014. [PUBMED Abstract]\n- Johnsa JD, Neville MW: Tasimelteon: a melatonin receptor agonist for non-24-hour sleep-wake disorder. Ann Pharmacother 48 (12): 1636-41, 2014. [PUBMED Abstract]\n- Buscemi N, Vandermeer B, Hooton N, et al.: Efficacy and safety of exogenous melatonin for secondary sleep disorders and sleep disorders accompanying sleep restriction: meta-analysis. BMJ 332 (7538): 385-93, 2006. [PUBMED Abstract]\n- Dawson D, Encel N: Melatonin and sleep in humans. J Pineal Res 15 (1): 1-12, 1993. [PUBMED Abstract]\n- van Geijlswijk IM, Korzilius HP, Smits MG: The use of exogenous melatonin in delayed sleep phase disorder: a meta-analysis. Sleep 33 (12): 1605-14, 2010. [PUBMED Abstract]\n- Haimov I, Lavie P, Laudon M, et al.: Melatonin replacement therapy of elderly insomniacs. Sleep 18 (7): 598-603, 1995. [PUBMED Abstract]\n- Seely D, Stempak D, Baruchel S: A strategy for controlling potential interactions between natural health products and chemotherapy: a review in pediatric oncology. J Pediatr Hematol Oncol 29 (1): 32-47, 2007. [PUBMED Abstract]\n- Lissoni P, Barni S, Mandalà M, et al.: Decreased toxicity and increased efficacy of cancer chemotherapy using the pineal hormone melatonin in metastatic solid tumour patients with poor clinical status. Eur J Cancer 35 (12): 1688-92, 1999. [PUBMED Abstract]\n- Mills E, Wu P, Seely D, et al.: Melatonin in the treatment of cancer: a systematic review of randomized controlled trials and meta-analysis. J Pineal Res 39 (4): 360-6, 2005. [PUBMED Abstract]\n- Mirick DK, Davis S: Melatonin as a biomarker of circadian dysregulation. Cancer Epidemiol Biomarkers Prev 17 (12): 3306-13, 2008. [PUBMED Abstract]\n- Schierenbeck T, Riemann D, Berger M, et al.: Effect of illicit recreational drugs upon sleep: cocaine, ecstasy and marijuana. Sleep Med Rev 12 (5): 381-9, 2008. [PUBMED Abstract]\n- Murillo-Rodriguez E, Poot-Ake A, Arias-Carrion O, et al.: The emerging role of the endocannabinoid system in the sleep-wake cycle modulation. Cent Nerv Syst Agents Med Chem 11 (3): 189-96, 2011. [PUBMED Abstract]\n- Barnes MP: Sativex: clinical efficacy and tolerability in the treatment of symptoms of multiple sclerosis and neuropathic pain. Expert Opin Pharmacother 7 (5): 607-15, 2006. [PUBMED Abstract]\n- Robson P: Abuse potential and psychoactive effects of δ-9-tetrahydrocannabinol and cannabidiol oromucosal spray (Sativex), a new cannabinoid medicine. Expert Opin Drug Saf 10 (5): 675-85, 2011. [PUBMED Abstract]"
+        },
+        {
+          "section": "The Patient With Pain",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Special Considerations",
+            "The Patient With Pain"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Since enhanced pain control improves sleep, appropriate analgesics or nonpharmacological pain management should be administered before introducing sleep medications. Tricyclic antidepressants can be particularly useful for the treatment of insomnia in patients with neuropathic pain and depression. Patients on high-dose opioids for pain may be at increased risk for the development of delirium and organic mental disorders. Such patients may benefit from the use of low-dose neuroleptics as sleep agents (e.g., haloperidol 0.5–1 mg)."
+        },
+        {
+          "section": "The Older Patient",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Special Considerations",
+            "The Older Patient"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Older patients frequently have insomnia due to age-related changes in sleep. The sleep cycle in this population is characterized by lighter sleep, more frequent awakenings, and less total sleep time. Anxiety, depression, loss of social support, and a diagnosis of cancer are contributory factors in sleep disturbances in older patients.[ 1 ]\nSleep problems in older adults are so common that nearly one-half of all hypnotic prescriptions written are for people older than 65 years. Although normal aging affects sleep, the clinician should evaluate the many factors that cause insomnia, such as:[ 2 ]\n- Medical illness.\n- Psychiatric illness.\n- Dementia.\n- Alcohol and/or polypharmacy.\n- Restless legs syndrome.\n- Periodic leg movements.\n- Sleep apnea syndrome.\nNonpharmacological treatment of sleep disorders is the preferred initial management, with the use of medication when indicated and referral to a sleep disorder center when specialized care is necessary.[ 2 ]\nProviding a regular schedule of meals, discouraging daytime naps, and encouraging physical activity may improve sleep. Hypnotic prescriptions for older patients must be adjusted for variations in metabolism, increased fat stores, and increased sensitivity. Dosages should be reduced by 30% to 50%. Problems associated with drug accumulation (especially flurazepam) must be weighed against the risks of more severe withdrawal or rebound effects associated with short-acting benzodiazepines. An alternate drug for older patients is chloral hydrate.[ 1 ]"
+        },
+        {
+          "section": "Sleep Apnea After Mandibulectomy",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Special Considerations",
+            "Sleep Apnea After Mandibulectomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Anterior mandibulectomy can result in the development of sleep apnea. All patients with head and neck tumors who have had extensive anterior oral cavity resection should be evaluated before decannulation of the tracheostomy tube. Subsequent flap and/or reconstruction of the lower jaw seems to prevent the development of sleep apnea. In contrast, facial sling suspension of the lower lip does not prevent the development of sleep apnea.[ 3 ] Assessment for symptoms and preparation for the appearance of symptoms in this population provide indications for interventions related to sleep apnea."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Special Considerations",
+            "Sleep Apnea After Mandibulectomy",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Berlin RM: Management of insomnia in hospitalized patients. Ann Intern Med 100 (3): 398-404, 1984. [PUBMED Abstract]\n- Johnston JE: Sleep problems in the elderly. J Am Acad Nurse Pract 6 (4): 161-6, 1994. [PUBMED Abstract]\n- Panje WR, Holmes DK: Mandibulectomy without reconstruction can cause sleep apnea. Laryngoscope 94 (12 Pt 1): 1591-4, 1984. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (07/17/2024)",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (07/17/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Supportive and Palliative Care Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the pathophysiology and treatment of sleep disorders. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 10,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Supportive and Palliative Care Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Sleep Disorders are:\n- Marilyn J. Hammer, PhD, DC, RN, FAAN (Dana-Farber Cancer Institute)\n- Jayesh Kamath, MD, PhD (University of Connecticut Health Center)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Supportive and Palliative Care Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Supportive and Palliative Care Editorial Board. PDQ Sleep Disorders. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/treatment/side-effects/sleep-disorders-hp-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389467]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\a9c2de2c02c3f6c91e20.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "supportive_care"
+      ],
+      "topic": "supportive_care",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Sleep Disorders (PDQ®)–Patient Version",
+      "summary_name": "Sleep Disorders",
+      "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/sleep-disorders-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "September 17, 2024",
+      "retrieved_at": "2026-08-31T07:08:19.538805+00:00",
+      "content_sha256": "9301ac773726a6c9b70455f944e1f8f98836a49a32fa4ee389768bef31839d16",
+      "section_count": 33,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "General Information About Sleep Disorders",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Getting enough sleep is needed for both physical and mental health.\n- Sleep has two main phases that repeat during the sleeping period.\n- Sleep disorders affect normal sleep patterns."
+        },
+        {
+          "section": "Getting enough sleep is needed for both physical and mental health.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "General Information About Sleep Disorders",
+            "Getting enough sleep is needed for both physical and mental health."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Sleep is an important part of physical and mental health . While we sleep, the brain and body do a number of important jobs that help us stay in good health and function at our best.\nGetting the sleep we need:\n- Improves our ability to learn, remember, and solve problems.\n- Lowers blood pressure and gives the heart and blood vessels the rest they need.\n- Helps certain hormones control the following:\n- Growth.\n- The repair of cells and tissues .\n- The immune system (to fight infection ).\n- Blood sugar levels (which affect energy).\n- Appetite ."
+        },
+        {
+          "section": "Sleep has two main phases that repeat during the sleeping period.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "General Information About Sleep Disorders",
+            "Sleep has two main phases that repeat during the sleeping period."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "There are two main phases of sleep, and both are needed in order to get \"a good night's sleep.\" The two main phases of sleep are rapid eye movement (REM) and non-rapid eye movement (NREM):\n- REM sleep, also known as \"dream sleep,\" is the phase of sleep in which the brain is active.\n- NREM is the quiet or restful phase of sleep. It has four stages, from light sleep to deep sleep.\nThe phases of sleep repeat during the night in a cycle of a non-REM phase followed by a REM phase. Each cycle lasts about 90 minutes and is repeated 4 to 6 times during 7 to 8 hours of sleep."
+        },
+        {
+          "section": "Sleep disorders affect normal sleep patterns.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "General Information About Sleep Disorders",
+            "Sleep disorders affect normal sleep patterns."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Normal sleep patterns differ from person to person. The amount of sleep you need to feel rested may be less or more than others need. If sleep is interrupted or does not last long enough, the phases of sleep are not completed and the brain cannot finish all the tasks that help restore the body and mind. There are five major types of sleep disorders that affect normal sleep.\n- Insomnia : Being unable to fall asleep and stay asleep.\n- Sleep apnea : A breathing disorder in which breathing stops for 10 seconds or more during sleep.\n- Hypersomnia: Being unable to stay awake during the day.\n- Circadian rhythm disorders: Problems with the sleep-wake cycle, making you unable to sleep and wake at the right times.\n- Parasomnia : Acting in unusual ways while falling asleep, sleeping, or waking from sleep, such as walking, talking, or eating.\nSleep disorders keep you from having a good night's sleep. This may make it hard for you to stay alert and involved in activities during the day. Sleep disorders can cause problems for people with cancer . You may not be able to remember treatment instructions and may have trouble making decisions. Being well-rested can improve energy and help you cope with side effects of cancer and treatment.\nSleep problems that go on for a long time may increase the risk of anxiety or depression ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Sleep Disorders in People with Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Sleep disorders are common in people with cancer.\n- Tumors may cause sleep problems.\n- Certain drugs or treatments may affect sleep.\n- Being in the hospital may make it harder to sleep.\n- Stress caused by learning the cancer diagnosis often causes sleeping problems.\n- Other health problems not related to cancer may cause a sleep disorder."
+        },
+        {
+          "section": "Sleep disorders are common in people with cancer.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Sleep Disorders in People with Cancer",
+            "Sleep disorders are common in people with cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "As many as half of people with cancer have problems sleeping. The sleep disorders most likely to affect people with cancer are insomnia and an abnormal sleep-wake cycle.\nThere are many reasons you may have trouble sleeping, including:\n- Physical changes caused by the cancer or surgery .\n- Side effects of drugs or other treatments.\n- Being in the hospital.\n- Stress about having cancer.\n- Health problems not related to the cancer."
+        },
+        {
+          "section": "Tumors may cause sleep problems.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Sleep Disorders in People with Cancer",
+            "Tumors may cause sleep problems."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "If you have a tumor , it may cause the following problems that make it hard to sleep:\n- Pressure from the tumor on nearby areas of the body.\n- Gastrointestinal problems ( nausea , constipation , diarrhea , being unable to control your bowels ).\n- Bladder problems (irritation, being unable to control urine flow).\n- Pain.\n- Fever .\n- Cough.\n- Trouble breathing.\n- Itching.\n- Feeling very tired."
+        },
+        {
+          "section": "Certain drugs or treatments may affect sleep.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Sleep Disorders in People with Cancer",
+            "Certain drugs or treatments may affect sleep."
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "Common cancer treatments and drugs can affect normal sleep patterns. How well you sleep may be affected by:\n- Hormone therapy .\n- Corticosteroids .\n- Sedatives and tranquilizers .\n- Antidepressants .\n- Anticonvulsants .\nLong-term use of certain drugs may cause insomnia. Stopping or decreasing the use of certain drugs can also affect normal sleep. Other side effects of drugs and treatments that may affect the sleep-wake cycle include the following:\n- Pain. For more information, see Pain .\n- Anxiety . For more information, see Adjustment to Cancer: Anxiety and Distress .\n- Night sweats or hot flashes . For more information, see Hot Flashes and Night Sweats .\n- Gastrointestinal problems such as nausea, constipation, and diarrhea. For more information, see:\n- Nausea and Vomiting and Cancer Treatment\n- Constipation and Cancer Treatment\n- Diarrhea and Cancer Treatment\n- Bladder problems, such as irritation or being unable to control urine.\n- Breathing problems."
+        },
+        {
+          "section": "Being in the hospital may make it harder to sleep.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Sleep Disorders in People with Cancer",
+            "Being in the hospital may make it harder to sleep."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Getting a normal night’s sleep in the hospital is difficult. The following may affect your sleep in a hospital:\n- Hospital environment – You may be bothered by an uncomfortable bed, pillow, or room temperature; noise; or sharing a room with a stranger.\n- Hospital routine – Sleep may be interrupted when doctors and nurses come in to check on you or give you drugs, other treatments, or exams.\nGetting sleep during a hospital stay may also be affected by anxiety and age."
+        },
+        {
+          "section": "Stress caused by learning the cancer diagnosis often causes sleeping problems.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Sleep Disorders in People with Cancer",
+            "Stress caused by learning the cancer diagnosis often causes sleeping problems."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Stress, anxiety, and depression are common reactions to learning you have cancer, receiving treatments, and being in the hospital. These are common causes of insomnia. For more information, see Depression ."
+        },
+        {
+          "section": "Other health problems not related to cancer may cause a sleep disorder.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Sleep Disorders in People with Cancer",
+            "Other health problems not related to cancer may cause a sleep disorder."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "People with cancer can have sleep disorders that are caused by other health problems. Conditions such as snoring, headaches and daytime seizures increase the chance of having a sleep disorder."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Assessment of Sleep Disorders",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- An assessment is done for people with sleep disorders.\n- A sleep disorder assessment includes a physical exam, health history, and sleep history.\n- A polysomnogram may be used to help diagnose the sleep disorder."
+        },
+        {
+          "section": "An assessment is done for people with sleep disorders.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Assessment of Sleep Disorders",
+            "An assessment is done for people with sleep disorders."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "An assessment is done to find problems that may be causing the sleep disorder and how it affects your life. People with mild sleep disorders may be irritable and unable to concentrate. People with moderate sleep disorders can be depressed and anxious . These sleep disorders may make it hard for you to stay alert and involved in activities during the day. You may not be able to remember treatment instructions and may have trouble making decisions. Being well-rested can improve energy and help you cope with side effects of cancer and treatment.\nPeople with cancer should have assessments done from time to time because sleep disorders may become more or less severe over time."
+        },
+        {
+          "section": "A sleep disorder assessment includes a physical exam, health history, and sleep history.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Assessment of Sleep Disorders",
+            "A sleep disorder assessment includes a physical exam, health history, and sleep history."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Your doctor will do a physical exam and take a medical history that includes:\n- Side effects of your cancer and cancer treatments.\n- Medicines , including vitamins , and other over-the-counter drugs .\n- Emotional effects of the cancer and treatments.\n- Diet .\n- Exercise.\n- Caregiver routines.\nYou and your family can tell your doctor about your sleep history and patterns of sleep."
+        },
+        {
+          "section": "A polysomnogram may be used to help diagnose the sleep disorder.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Assessment of Sleep Disorders",
+            "A polysomnogram may be used to help diagnose the sleep disorder."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "A polysomnogram is a group of recordings taken during sleep that show:\n- Brain wave changes.\n- Eye movements.\n- Breathing rate.\n- Blood pressure .\n- Heart rate and electrical activity of the heart and other muscles.\nThis information helps the doctor find the cause of your sleeping problems."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Treatment of Sleep Disorders",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Treating sleep disorders may include supportive care for side effects of cancer or cancer treatment.\n- Cognitive behavioral therapy may reduce anxiety and help you relax.\n- Learning good sleep habits is important.\n- If treatment without drugs does not help, sleep medicines may be used for a short time."
+        },
+        {
+          "section": "Treating sleep disorders may include supportive care for side effects of cancer or cancer treatment.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Treatment of Sleep Disorders",
+            "Treating sleep disorders may include supportive care for side effects of cancer or cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Sleep disorders often occur along with cancer -related fatigue and may be related. Sleep disorders that are caused by side effects of the cancer or cancer treatment may be helped by relieving the symptoms of those side effects. It's important to talk about your sleep problems with your family and the health care team so education and support can be given. Supportive care may improve your quality of life and ability to sleep."
+        },
+        {
+          "section": "Cognitive behavioral therapy may reduce anxiety and help you relax.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Treatment of Sleep Disorders",
+            "Cognitive behavioral therapy may reduce anxiety and help you relax."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Cognitive behavioral therapy (CBT) helps reduce anxiety about getting enough sleep. You learn to change negative thoughts and beliefs about sleep into positive thoughts and images, in order to fall asleep more easily. CBT helps replace the anxiety of “I need to sleep” with the idea of “just relax.” You learn how to change sleep habits that keep you from sleeping well. If in-person CBT sessions with a health professional are not available, video CBT sessions have been shown to be helpful. CBT may include the following:\n- Stimulus control.\n- Sleep restriction.\n- Relaxation therapy .\n- Stimulus control When you have sleep problems for a long time, just getting ready for bed or getting into bed to sleep may cause you to start worrying that you will have another sleepless night. That worry then makes it very hard to fall asleep. Stimulus control can help you learn to connect getting ready for bed and being in bed only with being asleep. By using the bed and bedroom only when you're sleepy, the bed and sleep are linked in your mind. Stimulus control may include the following changes in your sleeping habits:\n- Go to bed only when sleepy and get out of bed if you do not fall asleep after a short time. Return to bed only when you feel sleepy.\n- Use the bed and bedroom only for sleeping, not for other activities.\n- Sleep restriction Sleep restriction decreases the time you spend in bed sleeping. This makes you more likely to feel sleepy the next night. The time you can set aside for sleeping is increased when your sleep improves.\n- Relaxation therapy Relaxation therapy is used to relieve muscle tension and stress , lower blood pressure , and control pain. It may involve tensing and relaxing muscles throughout the body. It is often used with guided imagery (focusing the mind on positive images) and meditation (focusing thoughts). Self- hypnosis at bedtime can also help you feel relaxed and sleepy. Relaxation therapy exercises can make it easier for stimulus control and sleep restriction to work for you."
+        },
+        {
+          "section": "Learning good sleep habits is important.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Treatment of Sleep Disorders",
+            "Learning good sleep habits is important."
+          ],
+          "is_boilerplate": false,
+          "block_count": 34,
+          "text": "Good sleep habits help you fall asleep more easily and stay asleep. Habits and routines that may help improve sleep include the following:\nA comfortable bed and bedroom\nMaking your bed and bedroom more comfortable may help you sleep. Some ways to increase bedroom comfort include:\n- Keep the room quiet.\n- Dim or turn off lights.\n- Keep the room at a comfortable temperature.\n- Keep skin clean and dry.\n- Dress in loose, soft clothing.\n- Keep bedding and pillows clean, dry, and smooth, without wrinkles.\n- Use blankets to keep warm.\n- Use pillows to get into a comfortable position.\nRegular bowel and bladder habits\nRegular bowel and bladder habits reduce the number of times you have to get up during the night. Waking during the night to go to the bathroom may be reduced by doing the following:\n- Drink more fluids during the day.\n- Eat more high- fiber foods during the day.\n- Avoid drinking a lot before bedtime.\n- Empty your bowel and bladder before going to bed.\nDiet and exercise\nThe following diet and exercise habits may improve sleep:\n- Stay active during the day.\n- Get regular exercise but don't exercise within 3 hours of bedtime.\n- Eat a high- protein snack (such as milk or turkey) 2 hours before bedtime.\n- Avoid heavy, spicy, or sugary foods before bedtime.\n- Avoid drinking alcohol or smoking before bedtime.\n- Avoid foods and drinks that have caffeine , including dietary supplements to control appetite .\nOther habits that may improve sleep include:\n- Avoid naps.\n- Avoid watching TV or working in the bedroom.\n- Relax before bedtime.\n- Go to sleep and wake up at the same hours every day, no matter how little you slept.\nHospital routines\nGetting a good night's sleep in a hospital or other care facility can be hard to do. The good sleep habits listed above may help you. As a hospital patient, you may also:\n- Ask caregivers to plan care so they wake you up the least number of times during the night.\n- Ask for a back rub or massage to relieve pain or help you relax."
+        },
+        {
+          "section": "If treatment without drugs does not help, sleep medicines may be used for a short time.",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Treatment of Sleep Disorders",
+            "If treatment without drugs does not help, sleep medicines may be used for a short time."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment without drugs does not always work. Sometimes cognitive behavioral therapies are not available or they do not help. Also, some sleep disorders are caused by conditions that need to be treated with drugs, such as hot flashes , pain, anxiety, depression , or mood disorders . The drug used will depend on your type of sleep problem (such as trouble falling asleep or trouble staying asleep) and other medicines you're taking. All of your other medicines and health conditions will affect which sleeping medicines are safe and will work well for you.\nSome drugs that help you sleep should not be stopped suddenly. Suddenly stopping them may cause nervousness, seizures , and a change in the REM phase of sleep that increases dreaming, including nightmares. This change in REM sleep may be dangerous for people with peptic ulcers or heart conditions."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Sleep Disorders in Special Cases",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- People Who Have Pain\n- Older Patients\n- People Who Have Jaw Surgery"
+        },
+        {
+          "section": "People Who Have Pain",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Sleep Disorders in Special Cases",
+            "People Who Have Pain"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If pain disturbs your sleep, treatment to relieve the pain will be used before sleep medicines are used. Pain drugs , other drugs being taken, and any other health conditions may affect which sleeping medicines are prescribed ."
+        },
+        {
+          "section": "Older Patients",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Sleep Disorders in Special Cases",
+            "Older Patients"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "It's normal for older people to have some insomnia . Changes related to age can cause lighter sleep, waking up more often during the night, and sleeping less total time. If you are an older person with cancer who is having trouble sleeping, the doctor will look for the specific causes, such as:\n- Physical health problems.\n- Mental health problems, such as anxiety or depression .\n- Loss of social support .\n- Alcohol use (drinking).\n- Side effects of medicines.\n- Conditions that commonly affect sleep, such as restless legs syndrome , cramping or jerking of the legs during sleep, and sleep apnea syndrome .\nTreating sleeping problems without drugs is tried first. The following may help improve sleep in older people with cancer:\n- Having meals at regular times.\n- Avoiding naps during the day.\n- Being more active during the day.\nMedicine may be used if non-drug treatments don't work. The doctor will look at all your medicines and health conditions before choosing a sleeping medicine. For some people, doctors will suggest a sleep disorder clinic for treatment."
+        },
+        {
+          "section": "People Who Have Jaw Surgery",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Sleep Disorders in Special Cases",
+            "People Who Have Jaw Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "People who have surgery on the jaw may develop sleep apnea, which is a sleep disorder that causes the person to stop breathing for 10 seconds or more during sleep. Plastic surgery to rebuild the jaw may help prevent sleep apnea."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Sleep Disorders",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "To Learn More About Sleep Disorders"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "For more information from the National Cancer Institute about sleep problems, see the following:\n- Sleep Problems and Cancer Treatment"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the causes and treatment of sleep disorders. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Supportive and Palliative Care Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Supportive and Palliative Care Editorial Board. PDQ Sleep Disorders. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/treatment/side-effects/sleep-disorders-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389249]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Sleep Disorders (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\ede13e56b699c147829d.html"
+    }
+  ]
+}

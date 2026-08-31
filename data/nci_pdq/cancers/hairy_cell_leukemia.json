@@ -1,0 +1,670 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Hairy Cell Leukemia",
+  "generated_at": "2026-08-31T07:15:23.274790+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Hairy Cell Leukemia",
+      "title": "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Hairy Cell Leukemia Treatment",
+      "url": "https://www.cancer.gov/types/leukemia/hp/hairy-cell-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "February 21, 2025",
+      "retrieved_at": "2026-08-31T07:11:36.924461+00:00",
+      "content_sha256": "6511362ff3b38ecbb711e91f18ed0230c2ee980af032fdf0a49d8e168908c95d",
+      "section_count": 25,
+      "sections": [
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Hairy Cell Leukemia",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Hairy cell leukemia is an indolent, low-grade, B-cell lymphoid malignancy. It is rare, with only 1,200 to 1,300 new cases annually in the United States.[ 1 ]"
+        },
+        {
+          "section": "Clinical Presentation",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Hairy Cell Leukemia",
+            "Clinical Presentation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Hairy cell leukemia usually presents with:\n- Splenomegaly.\n- Varying degrees of leukopenia (occasionally leukocytosis).\n- Pancytopenia.\n- Monocytopenia.\n- Bone marrow infiltration by atypical cells with prominent cytoplasmic projections (i.e., hairy cells).\nLymphadenopathy is absent, except with multiply recurrent progressive disease."
+        },
+        {
+          "section": "Diagnostic Evaluation",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Hairy Cell Leukemia",
+            "Diagnostic Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "The following tests and procedures may be used to diagnose hairy cell leukemia:\n- Flow cytometry.\n- Bone marrow aspiration and biopsy.\n- Immunophenotyping.\n- Cytogenetic analysis.\n- BRAF gene testing.\n- Computed tomography scan.\nThe bone marrow is usually fibrotic and is not easily aspirated. It has circulating B cells with cytoplasmic projections (hairy appearance). Although a bone marrow biopsy may be required to enroll in a clinical trial, the hairy cell leukemia diagnosis can usually be made by flow cytometry.\nIn addition to the B-cell antigens CD19, CD20 (very high levels), and CD22, the cells coexpress CD11c, CD25, and CD103. The BRAF V600E pathogenic variant is a hairy cell leukemia–defining genetic feature that can aid in diagnosis.[ 2 , 3 ]\nThere is a variation of hairy cell leukemia (HCL-v) which accounts for 10% of cases. HCL-v is distinguished clinically by an elevated white blood cell count (15–50 × 10 9 /L) and aberrant markers, including variable (instead of bright) CD103 and the absence of CD23, CD25, CD12, and CD43.[ 4 , 5 ] HCL-v cells also lack BRAF variants. Patients with HCL-v have more aggressive clinical courses, reduced responses to purine nucleoside analogue-based therapy, and shorter durations of response.[ 5 ]\nThe depth of a complete remission can be evaluated with measurable residual disease (MRD) by testing for a BRAF variant or an immunoglobulin heavy chain gene rearrangement. However, the usefulness of altering therapeutic choices with MRD remains unclear and requires further evaluation.[ 6 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "General Information About Hairy Cell Leukemia",
+            "Diagnostic Evaluation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Falini B, Tiacci E: Hairy-Cell Leukemia. N Engl J Med 391 (14): 1328-1341, 2024. [PUBMED Abstract]\n- Tiacci E, Schiavoni G, Forconi F, et al.: Simple genetic diagnosis of hairy cell leukemia by sensitive detection of the BRAF-V600E mutation. Blood 119 (1): 192-5, 2012. [PUBMED Abstract]\n- Naik RR, Saven A: My treatment approach to hairy cell leukemia. Mayo Clin Proc 87 (1): 67-76, 2012. [PUBMED Abstract]\n- Jones G, Parry-Jones N, Wilkins B, et al.: Revised guidelines for the diagnosis and management of hairy cell leukaemia and hairy cell leukaemia variant*. Br J Haematol 156 (2): 186-95, 2012. [PUBMED Abstract]\n- Troussard X, Grever MR: The revised guidelines for the diagnosis and management of hairy cell leukaemia and the hairy cell leukaemia variant. Br J Haematol 193 (1): 11-14, 2021. [PUBMED Abstract]\n- Ravandi F, Kreitman RJ, Tiacci E, et al.: Consensus opinion from an international group of experts on measurable residual disease in hairy cell leukemia. Blood Cancer J 12 (12): 165, 2022. [PUBMED Abstract]"
+        },
+        {
+          "section": "Stage Information for Hairy Cell Leukemia",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Hairy Cell Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "There is no generally accepted staging system used in the prognosis and treatment of hairy cell leukemia."
+        },
+        {
+          "section": "Treatment of Hairy Cell Leukemia",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Hairy cell leukemia is highly treatable but rarely cured. Because it is easily controlled, many patients have prolonged survival with the use of sequential therapies. The decision to treat is based on signs of disease progression, including any of the following factors:\n- Cytopenias (especially if symptomatic).\n- Increasing splenomegaly.\n- The presence of other, usually infectious, complications.\nIf the patient is asymptomatic and if blood counts are maintained in an acceptable range, therapy may not be needed.[ 1 ]"
+        },
+        {
+          "section": "Treatment Options for Hairy Cell Leukemia",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia",
+            "Treatment Options for Hairy Cell Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "Prior to the COVID-19 (SARS-CoV-2) pandemic, the standard initial therapy for patients with hairy cell leukemia was infusion of cladribine daily for 5 days, given with or without eight weekly doses of rituximab.[ 2 - 4 ] However, treatment with a purine analogue–based regimen led to significant and prolonged neutropenia and impairment of T-cell function, which were both problematic during the pandemic in fighting viral infection and establishing vaccination-induced immunity.\nOther options for initial standard therapy, instead of cladribine or pentostatin, may offer less toxicity in terms of infection and long-term risk of secondary malignancies. However, these options may provide less durable response.\nThe Hairy Cell Leukemia Foundation convened a virtual meeting of 39 experts from around the world to amend the 2017 consensus recommendations.[ 5 ] The adapted treatment guidelines, published in 2021, are based primarily on anecdotal experience and expert opinion, as controlled trials for this indolent leukemia cannot be completed expeditiously given the low incidence of this disease.[ 6 ][ Level of evidence C3 ] The adapted treatment guidelines are summarized below.\n- Consider watchful waiting when feasible; asymptomatic patients with noncritical levels of pancytopenia can be monitored closely.\n- Cladribine, with or without rituximab,[ 4 ] remains the standard of care. However, due to the risk of serious and prolonged immunosuppression, nonchemotherapy treatment options may be preferable for older, frail patients with higher risk of infection (or for those who have active infections).\n- BRAF inhibitors such as vemurafenib, dabrafenib, or encorafenib are nonchemotherapeutic options that can be combined with rituximab or obinutuzumab.[ 7 - 10 ] Most patients with hairy cell leukemia have BRAF pathogenic variants, but this should be verified by flow cytometry. Despite extensive experience with vemurafenib for patients with relapsed disease, the U.S. Food and Drug Administration (FDA) has not approved oral vemurafenib for patients with hairy cell leukemia.\n- Consider using rituximab alone intravenously (IV) for 4 to 8 weeks or in combination with a BRAF inhibitor.[ 11 ] Anti-CD20 monoclonal antibodies can impair future vaccine response, but they do not affect immunity from prior vaccination.\n- In patients with relapsed disease, the previously mentioned options are available, along with ibrutinib (the Bruton tyrosine kinase inhibitor).[ 12 ]\nTreatment options for hairy cell leukemia include:\n- Watchful waiting, if feasible.\n- Cladribine with or without rituximab .\n- BRAF inhibitors (vemurafenib or dabrafenib) with or without rituximab or trametinib .\n- Rituximab .\n- Pentostatin .\n- Ibrutinib .\n- Re-treatment with cladribine or pentostatin .\n- Bendamustine with rituximab .\n- Splenectomy .\n- Interferon ."
+        },
+        {
+          "section": "Cladribine with or without rituximab",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia",
+            "Treatment Options for Hairy Cell Leukemia",
+            "Cladribine with or without rituximab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "Cladribine may be given with or without rituximab to treat hairy cell leukemia.\nEvidence (cladribine with or without rituximab):\n- In a phase II study, 68 patients with previously untreated hairy cell leukemia were randomly assigned to receive cladribine (0.15 mg/kg IV) on days 1 to 5, with eight weekly doses of rituximab either concurrently (starting on day 1) or delayed (starting after 6 months of cladribine treatment) if still positive with measurable residual disease (MRD) testing.[ 4 ][ Level of evidence C3 ]\n- With a median follow-up of 96 months, 94% of patients who received concurrent therapy were MRD-free, compared with 12% of patients who received delayed therapy.\n- Although patients who underwent concurrent therapy had more need for platelet transfusions, they demonstrated higher neutrophil and platelet counts after 1 month.\n- A retrospective case series reported a median progression-free survival (PFS) of 67 months in patients with relapsed disease who received a purine nucleoside analogue (usually cladribine) plus rituximab.[ 13 ][ Level of evidence C2 ]\n- A retrospective case series of nine patients with a histologic variation of hairy cell leukemia (HCL-v) reported an 88% complete response rate and 3-year PFS rate of 42% (95% confidence interval [CI], 1%–84%) after treatment with a purine nucleoside analogue (usually cladribine) plus rituximab.[ 14 ][ Level of evidence C2 ]\n- Cladribine was given by daily subcutaneous injections or by daily 2-hour IV infusions for 5 to 7 days.[ 5 , 15 - 17 ][ Level of evidence C3 ] Purine analogues should be avoided in cases of active infection or moderate to severe hepatic or renal impairment.\n- The complete response rate was 50% to 80%.\n- The overall response rate was 85% to 95%.\n- A National Cancer Institute group C protocol of 979 patients treated with cladribine reported lower response rates (i.e., 50% complete remission rate, 37% partial remission rate) compared with other studies.[ 18 ] Responses were durable in patients treated with a short course of cladribine, and patients who had a relapse often responded to re-treatment with cladribine.[ 2 , 13 , 19 ]\n- A retrospective review included 83 patients, aged 40 years and younger.[ 2 ]\n- The median time to first relapse was 54 months for all responders, and the median overall survival (OS) was 21 years from diagnosis.\n- Cladribine may cause fever and immunosuppression; documented infection was found in 33% of treated patients.\nIn a retrospective study of patients with cladribine-associated neutropenic fever, filgrastim (G-CSF) did not reduce the percentage of febrile patients, number of febrile days, or frequency of hospital admissions to receive antibiotics.[ 3 ]"
+        },
+        {
+          "section": "BRAF inhibitors (vemurafenib or dabrafenib) with or without rituximab or trametinib",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia",
+            "Treatment Options for Hairy Cell Leukemia",
+            "BRAF inhibitors (vemurafenib or dabrafenib) with or without rituximab or trametinib"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "BRAF V600E pathogenic variants are found in almost 100% of patients with classic-form hairy cell leukemia and almost never found in patients with other B-cell lymphomas and leukemias, including HCL-v.[ 20 ][ Level of evidence C3 ] Vemurafenib or other BRAF inhibitors such as dabrafenib can be given with rituximab or obinutuzumab.[ 10 , 21 ] The FDA has not approved BRAF inhibitors for hairy cell leukemia, but they can be used off-label in clinical practice.[ 22 ]\nEvidence (vemurafenib with or without rituximab):\n- Several multicenter studies evaluated vemurafenib, given orally alone for 4 months or orally for 2 months with rituximab infused in eight doses over 18 weeks, in patients with relapsed or refractory hairy cell leukemia.[ 7 , 8 , 10 , 23 ][ Level of evidence C3 ]\n- After a median follow-up of 23 to 40 months, for the 86 patients treated with vemurafenib alone, the following was reported in two studies:[ 7 , 8 , 23 ][ Level of evidence C3 ]\n- The overall response rate was 86% to 98%.\n- The complete response rate was 33% to 38%.\n- The median treatment-free survival was 18 to 25 months.\n- Retreatment at relapse resulted in an 86% response rate, and the median relapse-free survival was 12.7 months in one of the trials, with a 40-month median follow-up.[ 23 ][ Level of evidence C2 ]\n- After a median follow-up of 37 months, for the 30 patients treated with vemurafenib plus rituximab, the following was reported:[ 10 ][ Level of evidence C3 ]\n- The complete response rate was 87%.\n- The PFS rate was 78% at 37 months.\n- In patients who had a complete response, 65% had no MRD.\nEvidence (dabrafenib plus trametinib):\n- In a phase II trial of patients with relapsed or refractory disease, 55 patients received dabrafenib and trametinib orally until their disease progressed, they experienced unacceptable toxicity, or death occurred.[ 24 ]\n- With a median follow-up of 43.2 months, the overall response rate was 89.0% (95% CI, 77.8%–95.9%), the complete response rate was 65.5%, the 2-year PFS rate was 94.5%, and the 2-year OS rate was 95.5%.[ 24 ][ Level of evidence C1 ]"
+        },
+        {
+          "section": "Rituximab",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia",
+            "Treatment Options for Hairy Cell Leukemia",
+            "Rituximab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Rituximab can induce durable remissions (with minimal toxic effects), but rarely complete remissions, in patients with multiple relapses or refractory disease after treatment with a purine analogue or interferon.[ 11 , 22 , 25 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Pentostatin",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia",
+            "Treatment Options for Hairy Cell Leukemia",
+            "Pentostatin"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Pentostatin given IV every other week for 3 to 6 months produced a 50% to 76% complete response rate and an 80% to 87% overall response rate.[ 26 ] Complete remissions were of substantial duration. Purine analogues should be avoided in cases of active infection or moderate to severe hepatic or renal impairment.\nEvidence (pentostatin):\n- Two trials reported results on the 9-year median follow-up of patients treated with pentostatin.[ 27 , 28 ]\n- The relapse-free survival rates ranged from 56% to 67%.\n- Side effects included fever, immunosuppression, cytopenias, and renal dysfunction.\n- A randomized trial compared pentostatin to recombinant interferon alfa-2a.[ 26 ]\n- Pentostatin demonstrated higher response rates and more durable responses."
+        },
+        {
+          "section": "Ibrutinib",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia",
+            "Treatment Options for Hairy Cell Leukemia",
+            "Ibrutinib"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Ibrutinib, a tyrosine kinase inhibitor, has been studied in the treatment of hairy cell leukemia.\nEvidence (ibrutinib):\n- In a phase II study, 37 patients with refractory hairy cell leukemia were treated with ibrutinib. The median follow-up was 42 months.[ 29 ][ Level of evidence C3 ]\n- The response rate was 54%.\n- The estimated 36-month PFS rate was 73%.\n- The OS rate was 85%."
+        },
+        {
+          "section": "Re-treatment with cladribine or pentostatin",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia",
+            "Treatment Options for Hairy Cell Leukemia",
+            "Re-treatment with cladribine or pentostatin"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Patients with hairy cell leukemia who have a relapse after the first course of cladribine or pentostatin often respond well to re-treatment with the same or another purine analogue, especially if relapse occurs after several years.[ 13 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Bendamustine with rituximab",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia",
+            "Treatment Options for Hairy Cell Leukemia",
+            "Bendamustine with rituximab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Evidence (bendamustine with rituximab):\n- A phase II study evaluated 12 patients with relapsed or refractory disease, three of whom were negative for BRAF variants. Patients received the combination of bendamustine and rituximab.[ 30 ]\n- The overall response rate was 100%, and the complete remission rate was 50%.[ 30 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Splenectomy",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia",
+            "Treatment Options for Hairy Cell Leukemia",
+            "Splenectomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Splenectomy plays a decreasing role in treating hairy cell leukemia because effective alternatives are available. Splenectomy will partially or completely normalize the peripheral blood in most patients with hairy cell leukemia.[ 31 ] After a splenectomy, there is usually little or no change in the bone marrow, and virtually all patients have progressive disease within 12 to 18 months."
+        },
+        {
+          "section": "Interferon",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia",
+            "Treatment Options for Hairy Cell Leukemia",
+            "Interferon"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Interferon alfa is no longer available because production has been halted.[ 32 ] According to the Hairy Cell Leukemia Foundation, ropeginterferon alfa-2b-njft is the best available preparation, but it is not FDA approved for hairy cell leukemia.\nInterferon is useful when treating hairy cell leukemia during pregnancy because it does not involve cytotoxic agents."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Hairy Cell Leukemia",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 32,
+          "text": "- Troussard X, Maître E, Cornet E: Hairy cell leukemia 2022: Update on diagnosis, risk-stratification, and treatment. Am J Hematol 97 (2): 226-236, 2022. [PUBMED Abstract]\n- Rosenberg JD, Burian C, Waalen J, et al.: Clinical characteristics and long-term outcome of young hairy cell leukemia patients treated with cladribine: a single-institution series. Blood 123 (2): 177-83, 2014. [PUBMED Abstract]\n- Saven A, Burian C, Adusumalli J, et al.: Filgrastim for cladribine-induced neutropenic fever in patients with hairy cell leukemia. Blood 93 (8): 2471-7, 1999. [PUBMED Abstract]\n- Chihara D, Arons E, Stetler-Stevenson M, et al.: Randomized Phase II Study of First-Line Cladribine With Concurrent or Delayed Rituximab in Patients With Hairy Cell Leukemia. J Clin Oncol 38 (14): 1527-1538, 2020. [PUBMED Abstract]\n- Grever MR, Abdel-Wahab O, Andritsos LA, et al.: Consensus guidelines for the diagnosis and management of patients with classic hairy cell leukemia. Blood 129 (5): 553-560, 2017. [PUBMED Abstract]\n- Grever M, Andritsos L, Banerji V, et al.: Hairy cell leukemia and COVID-19 adaptation of treatment guidelines. Leukemia 35 (7): 1864-1872, 2021. [PUBMED Abstract]\n- Tiacci E, Park JH, De Carolis L, et al.: Targeting Mutant BRAF in Relapsed or Refractory Hairy-Cell Leukemia. N Engl J Med 373 (18): 1733-47, 2015. [PUBMED Abstract]\n- Dietrich S, Pircher A, Endris V, et al.: BRAF inhibition in hairy cell leukemia with low-dose vemurafenib. Blood 127 (23): 2847-55, 2016. [PUBMED Abstract]\n- Falini B, Tiacci E: New treatment options in hairy cell leukemia with focus on BRAF inhibitors. Hematol Oncol 37 (Suppl 1): 30-37, 2019. [PUBMED Abstract]\n- Tiacci E, De Carolis L, Simonetti E, et al.: Vemurafenib plus Rituximab in Refractory or Relapsed Hairy-Cell Leukemia. N Engl J Med 384 (19): 1810-1823, 2021. [PUBMED Abstract]\n- Angelopoulou MK, Pangalis GA, Sachanas S, et al.: Outcome and toxicity in relapsed hairy cell leukemia patients treated with rituximab. Leuk Lymphoma 49 (9): 1817-20, 2008. [PUBMED Abstract]\n- Jones J, Andritsos L, Kreitman RJ: Efficacy and safety of the Bruton tyrosine kinase inhibitor ibrutinib in patients with hairy cell leukemia: stage 1 results of a phase 2 study. [Abstract] Blood 128 (22): A-1215, 2016.\n- Hu R, Wei W, Mian A, et al.: Treatment outcomes with purine nucleoside analog alone or with rituximab for hairy cell leukemia at first relapse. Eur J Haematol 108 (5): 379-382, 2022. [PUBMED Abstract]\n- Wang Y, Wang T, Yu Y, et al.: Purine nucleoside analogs plus rituximab are an effective treatment choice for hairy cell leukemia-variant. Ann Hematol 101 (6): 1201-1210, 2022. [PUBMED Abstract]\n- Pagano L, Criscuolo M, Broccoli A, et al.: Long-term follow-up of cladribine treatment in hairy cell leukemia: 30-year experience in a multicentric Italian study. Blood Cancer J 12 (7): 109, 2022. [PUBMED Abstract]\n- Zenhäusern R, Schmitz SF, Solenthaler M, et al.: Randomized trial of daily versus weekly administration of 2-chlorodeoxyadenosine in patients with hairy cell leukemia: a multicenter phase III trial (SAKK 32/98). Leuk Lymphoma 50 (9): 1501-11, 2009. [PUBMED Abstract]\n- Hermel DJ, Cheng B, Bhangoo MS, et al.: Long-term outcomes of elderly hairy cell leukemia patients treated with cladribine. Ann Hematol 101 (5): 1089-1096, 2022. [PUBMED Abstract]\n- Cheson BD, Sorensen JM, Vena DA, et al.: Treatment of hairy cell leukemia with 2-chlorodeoxyadenosine via the Group C protocol mechanism of the National Cancer Institute: a report of 979 patients. J Clin Oncol 16 (9): 3007-15, 1998. [PUBMED Abstract]\n- Else M, Dearden CE, Catovsky D: Long-term follow-up after purine analogue therapy in hairy cell leukaemia. Best Pract Res Clin Haematol 28 (4): 217-29, 2015. [PUBMED Abstract]\n- Pettirossi V, Santi A, Imperi E, et al.: BRAF inhibitors reverse the unique molecular signature and phenotype of hairy cell leukemia and exert potent antileukemic activity. Blood 125 (8): 1207-16, 2015. [PUBMED Abstract]\n- Park JH, Devlin S, Durham BH, et al.: Vemurafenib and Obinutuzumab as Frontline Therapy for Hairy Cell Leukemia. NEJM Evid 2 (10): EVIDoa2300074, 2023. [PUBMED Abstract]\n- Falini B, De Carolis L, Tiacci E: How I treat refractory/relapsed hairy cell leukemia with BRAF inhibitors. Blood 139 (15): 2294-2305, 2022. [PUBMED Abstract]\n- Handa S, Lee JO, Derkach A, et al.: Long-term outcomes in patients with relapsed or refractory hairy cell leukemia treated with vemurafenib monotherapy. Blood 140 (25): 2663-2671, 2022. [PUBMED Abstract]\n- Kreitman RJ, Moreau P, Ravandi F, et al.: Dabrafenib plus trametinib in patients with relapsed/refractory BRAF V600E mutation-positive hairy cell leukemia. Blood 141 (9): 996-1006, 2023. [PUBMED Abstract]\n- Thomas DA, O'Brien S, Bueso-Ramos C, et al.: Rituximab in relapsed or refractory hairy cell leukemia. Blood 102 (12): 3906-11, 2003. [PUBMED Abstract]\n- Grever M, Kopecky K, Foucar MK, et al.: Randomized comparison of pentostatin versus interferon alfa-2a in previously untreated patients with hairy cell leukemia: an intergroup study. J Clin Oncol 13 (4): 974-82, 1995. [PUBMED Abstract]\n- Johnston JB, Eisenhauer E, Wainman N, et al.: Long-term outcome following treatment of hairy cell leukemia with pentostatin (Nipent): a National Cancer Institute of Canada study. Semin Oncol 27 (2 Suppl 5): 32-6, 2000. [PUBMED Abstract]\n- Flinn IW, Kopecky KJ, Foucar MK, et al.: Long-term follow-up of remission duration, mortality, and second malignancies in hairy cell leukemia patients treated with pentostatin. Blood 96 (9): 2981-6, 2000. [PUBMED Abstract]\n- Rogers KA, Andritsos LA, Wei L, et al.: Phase 2 study of ibrutinib in classic and variant hairy cell leukemia. Blood 137 (25): 3473-3483, 2021. [PUBMED Abstract]\n- Burotto M, Stetler-Stevenson M, Arons E, et al.: Bendamustine and rituximab in relapsed and refractory hairy cell leukemia. Clin Cancer Res 19 (22): 6313-21, 2013. [PUBMED Abstract]\n- Golomb HM, Vardiman JW: Response to splenectomy in 65 patients with hairy cell leukemia: an evaluation of spleen weight and bone marrow involvement. Blood 61 (2): 349-52, 1983. [PUBMED Abstract]\n- Assanto GM, Riemma C, Malaspina F, et al.: The current role of interferon in hairy cell leukaemia: clinical and molecular aspects. Br J Haematol 194 (1): 78-82, 2021. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (02/21/2025)",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (02/21/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nGeneral Information About Hairy Cell Leukemia\nAdded Falini et al. as reference 1 .\nTreatment of Hairy Cell Leukemia\nRevised text to state that cladribine, with or without rituximab, remains the standard of care. However, due to the risk of serious and prolonged immunosuppression, nonchemotherapy treatment options may be preferable for older, frail patients with higher risks of infection (or for those who have active infections). BRAF inhibitors such as vemurafenib, dabrafenib, or encorafenib are nonchemotherapeutic options that can be combined with rituximab or obinutuzumab.\nRevised the list of treatment options for hairy cell leukemia to include interferon.\nRevised text to state that vemurafenib or other BRAF inhibitors such as dabrafenib can be given with rituximab or obinutuzumab (cited Park et al. as reference 21).\nAdded Interferon as a new subsection.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of hairy cell leukemia. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 9,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewer for Hairy Cell Leukemia Treatment is:\n- Eric J. Seifter, MD (Johns Hopkins University)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Hairy Cell Leukemia Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/leukemia/hp/hairy-cell-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389184]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\0d58959bcd3aab3cef00.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Hairy Cell Leukemia",
+      "title": "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+      "summary_name": "Hairy Cell Leukemia Treatment",
+      "url": "https://www.cancer.gov/types/leukemia/patient/hairy-cell-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "April 23, 2025",
+      "retrieved_at": "2026-08-31T07:11:44.796683+00:00",
+      "content_sha256": "4bb5072a9d2d82169c884d71298a4e981b0983315195d0fe130e1bc0d4d66b48",
+      "section_count": 29,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Hairy Cell Leukemia",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Hairy cell leukemia is a type of cancer in which the bone marrow makes too many lymphocytes (a type of white blood cell).\n- Leukemia may affect red blood cells, white blood cells, and platelets.\n- Signs and symptoms of hairy cell leukemia include infections, tiredness, and pain below the ribs.\n- Tests that examine the blood and bone marrow are used to diagnose hairy cell leukemia.\n- Certain factors affect treatment options and prognosis (chance of recovery)."
+        },
+        {
+          "section": "Hairy cell leukemia is a type of cancer in which the bone marrow makes too many lymphocytes (a type of white blood cell).",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Hairy Cell Leukemia",
+            "Hairy cell leukemia is a type of cancer in which the bone marrow makes too many lymphocytes (a type of white blood cell)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Hairy cell leukemia is a cancer of the blood and bone marrow . This rare type of leukemia gets worse slowly or does not get worse at all. The disease is called hairy cell leukemia because the leukemia cells look \"hairy\" when viewed under a microscope ."
+        },
+        {
+          "section": "Leukemia may affect red blood cells, white blood cells, and platelets.",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Hairy Cell Leukemia",
+            "Leukemia may affect red blood cells, white blood cells, and platelets."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Normally, the bone marrow makes blood stem cells (immature cells) that become mature blood cells over time. A blood stem cell may become a myeloid stem cell or a lymphoid stem cell.\nA myeloid stem cell becomes one of three types of mature blood cells:\n- Red blood cells that carry oxygen and other substances to all tissues of the body.\n- Granulocytes , which are white blood cells that help fight infection and disease.\n- Platelets that form blood clots to stop bleeding.\nA lymphoid stem cell becomes a lymphoblast cell and then one of three types of lymphocytes (white blood cells):\n- B lymphocytes that make antibodies to help fight infection.\n- T lymphocytes that help B lymphocytes make antibodies to help fight infection.\n- Natural killer cells that attack cancer cells and viruses .\nIn hairy cell leukemia, too many blood stem cells become lymphocytes. These lymphocytes are abnormal and do not become healthy white blood cells. The abnormal lymphocytes are also called leukemia cells. The leukemia cells can build up in the blood and bone marrow so there is less room for healthy white blood cells, red blood cells, and platelets. This may cause infection, anemia , and easy bleeding. Some of the leukemia cells may collect in the spleen and cause it to swell."
+        },
+        {
+          "section": "Signs and symptoms of hairy cell leukemia include infections, tiredness, and pain below the ribs.",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Hairy Cell Leukemia",
+            "Signs and symptoms of hairy cell leukemia include infections, tiredness, and pain below the ribs."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "These and other signs and symptoms may be caused by hairy cell leukemia or by other conditions . Check with your doctor if you have:\n- Weakness or fatigue (feeling tired).\n- Frequent infections.\n- Easy bruising or bleeding.\n- Shortness of breath.\n- Pain or a feeling of fullness below the ribs.\n- Painless lumps in the neck, underarm, stomach , or groin ."
+        },
+        {
+          "section": "Tests that examine the blood and bone marrow are used to diagnose hairy cell leukemia.",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Hairy Cell Leukemia",
+            "Tests that examine the blood and bone marrow are used to diagnose hairy cell leukemia."
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Complete blood count (CBC) : A procedure in which a sample of blood is drawn and checked for: Enlarge Complete blood count (CBC). Blood is collected by inserting a needle into a vein and allowing the blood to flow into a tube. The blood sample is sent to the laboratory and the red blood cells, white blood cells, and platelets are counted. The CBC is used to test for, diagnose, and monitor many different conditions.\n- The number of red blood cells, white blood cells, and platelets.\n- The amount of hemoglobin (the protein that carries oxygen) in the red blood cells.\n- The portion of the sample made up of red blood cells.\n- Peripheral blood smear : A procedure in which a sample of blood is checked for cells that look \"hairy,\" the number and kinds of white blood cells, the number of platelets, and changes in the shape of blood cells.\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease.\n- Flow cytometry : A laboratory test that measures the number of cells in a sample, the percentage of live cells in a sample, and certain characteristics of the cells, such as size, shape, and the presence of tumor (or other) markers on the cell surface. The cells from a sample of a patient’s blood, bone marrow, or other tissue are stained with a fluorescent dye, placed in a fluid, and then passed one at a time through a beam of light. The test results are based on how the cells that were stained with the fluorescent dye react to the beam of light. This test is used to help diagnose and manage certain types of cancers, such as leukemia and lymphoma .\n- Bone marrow aspiration and biopsy : The removal of bone marrow, blood, and a small piece of bone by inserting a hollow needle into the hipbone or breastbone . A pathologist views the bone marrow, blood, and bone under a microscope to look for signs of cancer. Enlarge Bone marrow aspiration and biopsy. After a small area of skin is numbed, a long, hollow needle is inserted through the patient's skin and hip bone into the bone marrow. A sample of bone marrow and a small piece of bone are removed for examination under a microscope.\n- Immunophenotyping : A laboratory test that uses antibodies to identify cancer cells based on the types of antigens or markers on the surface of the cells. This test is used to help diagnose specific types of leukemia.\n- Cytogenetic analysis : A laboratory test in which the chromosomes of cells in a sample of blood or bone marrow are counted and checked for any changes, such as broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes may be a sign of cancer. Cytogenetic analysis is used to help diagnose cancer, plan treatment, or find out how well treatment is working.\n- BRAF gene testing : A laboratory test in which a sample of blood or tissue is tested for certain changes in the BRAF gene. A BRAF gene mutation is often found in patients with hairy cell leukemia.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. A CT scan of the abdomen may be done to check for swollen lymph nodes or a swollen spleen."
+        },
+        {
+          "section": "Certain factors affect treatment options and prognosis (chance of recovery).",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "General Information About Hairy Cell Leukemia",
+            "Certain factors affect treatment options and prognosis (chance of recovery)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "The treatment options depend on:\n- The number of hairy (leukemia) cells and healthy blood cells in the blood and bone marrow.\n- Whether the spleen is swollen.\n- Whether there are signs or symptoms of leukemia, such as infection.\n- Whether the leukemia has recurred (come back) after previous treatment.\nThe prognosis depends on:\n- Whether the hairy cell leukemia does not grow or grows so slowly it does not need treatment.\n- Whether the hairy cell leukemia responds to treatment.\nTreatment often results in a long-lasting remission (a period during which some or all of the signs and symptoms of the leukemia are gone). If the leukemia returns after it has been in remission, re-treatment often causes another remission."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Stages of Hairy Cell Leukemia",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- There is no standard staging system for hairy cell leukemia.\n- Sometimes hairy cell leukemia does not respond to treatment or comes back after treatment."
+        },
+        {
+          "section": "There is no standard staging system for hairy cell leukemia.",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Stages of Hairy Cell Leukemia",
+            "There is no standard staging system for hairy cell leukemia."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The process used to find out if cancer has spread to other parts of the body is called staging . There is no standard staging system for hairy cell leukemia .\nIn untreated hairy cell leukemia, some or all of the following conditions occur:\n- Hairy ( leukemia ) cells are found in the blood and bone marrow .\n- The number of red blood cells , white blood cells , or platelets may be lower than normal.\n- The spleen may be larger than normal."
+        },
+        {
+          "section": "Sometimes hairy cell leukemia does not respond to treatment or comes back after treatment.",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Stages of Hairy Cell Leukemia",
+            "Sometimes hairy cell leukemia does not respond to treatment or comes back after treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Refractory hairy cell leukemia is cancer that does not respond to treatment.\nRecurrent hairy cell leukemia is cancer that has recurred (come back) after it has been treated."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- There are different types of treatment for patients with hairy cell leukemia.\n- The following types of treatment are used:\n- Watchful waiting\n- Chemotherapy\n- Targeted therapy\n- Surgery\n- New types of treatment are being tested in clinical trials.\n- Treatment for hairy cell leukemia may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with hairy cell leukemia.",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with hairy cell leukemia."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatment are available for patients with hairy cell leukemia . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Watchful waiting",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Watchful waiting"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Watchful waiting is closely monitoring a patient's condition, without giving any treatment until signs or symptoms appear or change."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). The way the chemotherapy is given depends on the type and stage of the cancer being treated. Cladribine and pentostatin are anticancer drugs commonly used to treat hairy cell leukemia. These drugs may increase the risk of other types of cancer, especially Hodgkin lymphoma and non-Hodgkin lymphoma . Long-term follow-up for second cancers is very important. Bendamustine is another anticancer drug that is being studied to treat hairy cell leukemia.\nLearn more about Drugs Approved for Hairy Cell Leukemia ."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells.\n- Monoclonal antibody therapy: Monoclonal antibodies are immune system proteins made in the laboratory to treat many diseases, including cancer. As a cancer treatment, these antibodies can attach to a specific target on cancer cells or other cells that may help cancer cells grow. The antibodies are able to then kill the cancer cells, block their growth, or keep them from spreading. Monoclonal antibodies are given by infusion . They may be used alone or to carry drugs, toxins , or radioactive material directly to cancer cells. Rituximab is a type of monoclonal antibody that may be used to treat certain patients with hairy cell leukemia.\nOther types of targeted therapies are being studied in the treatment of hairy cell leukemia, including:\n- Vemurafenib , dabrafenib , and trametinib are types of kinase inhibitors that block certain proteins made by the mutated BRAF gene, which may help keep cancer cells from growing.\n- Ibrutinib is a type of targeted therapy that blocks a protein called Bruton's tyrosine kinase (BTK), which may help keep cancer cells from growing.\nLearn more about Drugs Approved for Hairy Cell Leukemia ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Splenectomy is a surgical procedure to remove the spleen ."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Treatment for hairy cell leukemia may cause side effects.",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for hairy cell leukemia may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Hairy Cell Leukemia",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "Treatment of Hairy Cell Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Treatment of hairy cell leukemia may include:\n- Watchful waiting when possible.\n- Cladribine with or without rituximab .\n- BRAF inhibitors ( vemurafenib or dabrafenib ) with or without rituximab or trametinib .\n- Rituximab.\n- Pentostatin .\n- Ibrutinib .\n- Repeat treatment with cladribine or pentostatin.\n- Bendamustine with rituximab.\n- Splenectomy .\nLearn more about these treatments in the Treatment Option Overview\nYou and your doctor will discuss what treatment plan is best for you.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Hairy Cell Leukemia",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "To Learn More About Hairy Cell Leukemia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "For more information from the National Cancer Institute about hairy cell leukemia, visit:\n- Leukemia Home Page\n- Drugs Approved for Hairy Cell Leukemia\n- Immunotherapy to Treat Cancer\n- Targeted Therapy to Treat Cancer\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of hairy cell leukemia. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Hairy Cell Leukemia Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/leukemia/patient/hairy-cell-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389248]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Hairy Cell Leukemia Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\ac0944e3f8d0add691a9.html"
+    }
+  ]
+}

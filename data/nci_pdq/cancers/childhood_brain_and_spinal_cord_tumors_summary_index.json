@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Childhood Brain and Spinal Cord Tumors Summary Index",
+  "generated_at": "2026-08-31T07:15:23.027225+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Childhood Brain and Spinal Cord Tumors Summary Index",
+      "title": "Childhood Brain and Spinal Cord Tumors Summary Index (PDQ®)–Health Professional Version",
+      "summary_name": "Childhood Brain and Spinal Cord Tumors Summary Index",
+      "url": "https://www.cancer.gov/types/brain/hp/child-brain-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "December 19, 2023",
+      "retrieved_at": "2026-08-31T07:08:43.113636+00:00",
+      "content_sha256": "941a5154fe5f0be05a9eace263ad8a785ce3824bac8c030d2c4da9f4a7aff689",
+      "section_count": 11,
+      "sections": [
+        {
+          "section": "General Information About Childhood Brain and Spinal Cord Tumors",
+          "section_path": [
+            "Childhood Brain and Spinal Cord Tumors Summary Index (PDQ®)–Health Professional Version",
+            "General Information About Childhood Brain and Spinal Cord Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Primary brain tumors are a diverse group of diseases that together constitute the most common solid tumor of childhood. The Central Brain Tumor Registry of the United States (CBTRUS) estimates that approximately 4,300 U.S. children are diagnosed each year.[ 1 ]\nBrain tumors are classified by histology, but tumor location and extent of spread are also important factors that affect treatment and prognosis. Immunohistochemical analysis, cytogenetic and molecular genetic findings, and measures of proliferative activity are increasingly used in tumor diagnosis and classification.[ 2 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Brain and Spinal Cord Tumors Summary Index (PDQ®)–Health Professional Version",
+            "General Information About Childhood Brain and Spinal Cord Tumors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Ostrom QT, Gittleman H, Farah P, et al.: CBTRUS statistical report: Primary brain and central nervous system tumors diagnosed in the United States in 2006-2010. Neuro Oncol 15 (Suppl 2): ii1-56, 2013. [PUBMED Abstract]\n- Louis DN, Perry A, Reifenberger G, et al.: The 2016 World Health Organization Classification of Tumors of the Central Nervous System: a summary. Acta Neuropathol 131 (6): 803-20, 2016. [PUBMED Abstract]"
+        },
+        {
+          "section": "Type of Childhood Brain and Spinal Cord Tumors",
+          "section_path": [
+            "Childhood Brain and Spinal Cord Tumors Summary Index (PDQ®)–Health Professional Version",
+            "Type of Childhood Brain and Spinal Cord Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 67,
+          "text": "For information about the type of childhood brain and spinal cord tumor and its related PDQ summary, see the table below. If a tumor type is not listed, a corresponding PDQ treatment summary is not available.\nTumor Type (Based on the 2021 WHO Classification) a | Pathological Subtype (Based on the 2021 WHO Classification) a | Related PDQ Treatment Summary\nCNS = central nervous system; NEC = not elsewhere classified; NOS = not otherwise specified; WHO = World Health Organization.\na WHO classification adapted from Louis et al.[ 1 ]\nPediatric-type diffuse high-grade gliomas | Diffuse pediatric-type high-grade glioma, H3-wild type and IDH -wild type | Childhood Astrocytomas, Other Gliomas, and Glioneuronal/Neuronal Tumors Treatment\nDiffuse midline glioma, H3 K27-altered\nDiffuse hemispheric glioma, H3 G34-mutant\nInfant-type hemispheric glioma\nCircumscribed astrocytic gliomas | Pilocytic astrocytoma | Childhood Astrocytomas, Other Gliomas, and Glioneuronal/Neuronal Tumors Treatment\nHigh-grade astrocytoma with piloid features\nSubependymal giant cell astrocytoma\nPleomorphic xanthoastrocytoma\nChoroid glioma\nAstroblastoma, MN1 -altered\nEpendymal tumors | Subependymoma | Childhood Ependymoma Treatment\nMyxopapillary ependymoma\nSupratentorial ependymoma, NOS\nSupratentorial ependymoma, ZFTA fusion–positive\nSupratentorial ependymoma, YAP1 fusion–positive\nPosterior fossa ependymoma, NOS\nPosterior fossa group A (PFA) ependymoma\nPosterior fossa group B (PFB) ependymoma\nSpinal ependymoma, NOS\nSpinal ependymoma, MYCN -amplified\nPediatric-type diffuse low-grade glioma | Diffuse astrocytoma, MYB - or MYBL1 -altered | Childhood Astrocytomas, Other Gliomas, and Glioneuronal/Neuronal Tumors Treatment\nAngiocentric glioma\nPolymorphous low-grade neuroepithelial tumor of the young\nDiffuse low-grade glioma, MAPK pathway-altered\nGlioneuronal and neuronal tumors | Dysembryoplastic neuroepithelial tumor | Childhood Astrocytomas, Other Gliomas, and Glioneuronal/Neuronal Tumors Treatment\nGanglioglioma\nGangliocytoma\nDesmoplastic infantile ganglioglioma\nDesmoplastic infantile astrocytoma\nDiffuse glioneuronal tumor with oligodendroglioma-like features and nuclear clusters (provisional entity)\nPapillary glioneuronal tumor\nRosette-forming glioneuronal tumor\nMyxoid glioneuronal tumor\nDiffuse leptomeningeal glioneuronal tumor\nMultinodular and vacuolating neuronal tumor\nDysplastic cerebellar gangliocytoma (Lhermitte-Duclos disease)\nExtraventricular neurocytoma\nCerebellar liponeurocytoma\nCentral neurocytoma\nTumors of the pineal region | Pineoblastoma | Childhood Medulloblastoma and Other Central Nervous System Embryonal Tumors Treatment\nEmbryonal tumors | Medulloblastoma, WNT -activated | Childhood Medulloblastoma and Other Central Nervous System Embryonal Tumors Treatment\nMedulloblastoma, SHH-activated and TP53 -mutant; Medulloblastoma, SHH-activated and TP53 -wildtype\nMedulloblastoma, non- WNT /non-SHH\nMedulloblastoma, histologically defined\nDesmoplastic nodular medulloblastoma\nMedulloblastoma with extensive nodularity\nLarge cell medulloblastoma\nAnaplastic medulloblastoma\nEmbryonal tumor with multilayered rosettes, C19MC -altered\nCNS tumor with BCOR internal tandem duplication\nCNS neuroblastoma, FOXR2 -activated\nCNS embryonal tumor, NEC/NOS\nAtypical teratoid/rhabdoid tumor | Childhood Central Nervous System Atypical Teratoid/Rhabdoid Tumor Treatment\nGerm cell tumors | Germinoma | Childhood Central Nervous System Germ Cell Tumors Treatment\nEmbryonal carcinoma\nYolk sac tumor\nChoriocarcinoma\nMature teratoma\nImmature teratoma\nTeratoma with somatic-type malignancy\nMixed germ cell tumor\nTumors of the sellar region | Adamantinomatous craniopharyngioma | Childhood Craniopharyngioma Treatment\nPapillary craniopharyngioma"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Brain and Spinal Cord Tumors Summary Index (PDQ®)–Health Professional Version",
+            "Type of Childhood Brain and Spinal Cord Tumors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Louis DN, Perry A, Wesseling P, et al.: The 2021 WHO Classification of Tumors of the Central Nervous System: a summary. Neuro Oncol 23 (8): 1231-1251, 2021. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (12/19/2023)",
+          "section_path": [
+            "Childhood Brain and Spinal Cord Tumors Summary Index (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (12/19/2023)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nThis summary was comprehensively reviewed and extensively revised.\nThis summary was renamed from Childhood Brain and Spinal Cord Tumors Treatment Overview.\nThis summary is written and maintained by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Brain and Spinal Cord Tumors Summary Index (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of childhood brain and spinal cord tumors. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Brain and Spinal Cord Tumors Summary Index (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 13,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Childhood Brain and Spinal Cord Tumors Summary Index are:\n- Kenneth J. Cohen, MD, MBA (Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins Hospital)\n- Louis S. Constine, MD (James P. Wilmot Cancer Center at University of Rochester Medical Center)\n- Roger J. Packer, MD (Children's National Hospital)\n- D. Williams Parsons, MD, PhD (Texas Children's Hospital)\n- Malcolm A. Smith, MD, PhD (National Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Childhood Brain and Spinal Cord Tumors Summary Index (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Pediatric Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Brain and Spinal Cord Tumors Summary Index (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Brain and Spinal Cord Tumors Summary Index. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/brain/hp/child-brain-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389453]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Brain and Spinal Cord Tumors Summary Index (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Brain and Spinal Cord Tumors Summary Index (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\51bc016b2d3e2391cb6a.html"
+    }
+  ]
+}

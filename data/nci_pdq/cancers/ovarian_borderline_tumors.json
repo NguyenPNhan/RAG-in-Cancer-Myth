@@ -1,0 +1,656 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Ovarian Borderline Tumors",
+  "generated_at": "2026-08-31T07:15:23.431554+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Ovarian Borderline Tumors",
+      "title": "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Ovarian Borderline Tumors Treatment",
+      "url": "https://www.cancer.gov/types/ovarian/hp/ovarian-borderline-tumors-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "February 12, 2025",
+      "retrieved_at": "2026-08-31T07:13:01.993129+00:00",
+      "content_sha256": "88179ba6f34853c7cb65e0f83c294cb36aece3d466b2c59ee26d6c2c8e5d6472",
+      "section_count": 22,
+      "sections": [
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "General Information About Ovarian Borderline Tumors",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Ovarian borderline tumors (i.e., tumors of low malignant potential) account for 15% of all epithelial ovarian cancers. Nearly 75% of borderline tumors are stage I at the time of diagnosis.[ 1 ] Recognizing these tumors is important because their prognosis and treatment is different from the frankly malignant invasive carcinomas. Ovarian borderline tumors can also become low-grade serous tumors. For more information, see the Treatment of Low-Grade Serous Carcinoma section in Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancer Treatment.\nA review of 22 series (which included 953 patients), with a mean follow-up of 7 years, revealed a survival rate of 92% for patients with advanced-stage ovarian borderline tumors, if patients with so-called invasive implants were excluded. The causes of death in these patients were determined to be benign complications of disease (e.g., small bowel obstruction), complications of therapy, and only rarely (0.7% of patients), malignant transformation.[ 2 ] In one series, the 5-, 10-, 15-, and 20-year survival rates of patients with borderline tumors (all stages), as demonstrated by clinical life table analysis, were 97%, 95%, 92%, and 89%, respectively.[ 3 ] In this series, mortality rates were stage dependent: 0.7% of patients with stage I tumors, 4.2% of patients with stage II tumors, and 26.8% of patients with stage III tumors died of disease.[ 3 ] The Fédération Internationale de Gynécologie et d’Obstétrique reported an extremely good prognosis for ovarian borderline tumors, with a 10-year survival rate of approximately 95%.[ 1 ] These survival rates are clearly in contrast with the 30% survival rate for patients with invasive tumors (all stages).\nAnother large retrospective study showed that early stage, serous histology, and younger age were associated with more favorable prognoses in patients with ovarian borderline tumors.[ 4 ]"
+        },
+        {
+          "section": "Endometrioid Tumors",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "General Information About Ovarian Borderline Tumors",
+            "Endometrioid Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Endometrioid borderline tumors are less common and should not be regarded as malignant because they seldom, if ever, metastasize. However, malignant transformation can occur and may be associated with a similar tumor outside of the ovary. Such tumors are the result of either a second primary or rupture of the primary endometrial tumor.[ 5 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "General Information About Ovarian Borderline Tumors",
+            "Endometrioid Tumors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Berek JS, Renz M, Kehoe S, et al.: Cancer of the ovary, fallopian tube, and peritoneum: 2021 update. Int J Gynaecol Obstet 155 (Suppl 1): 61-85, 2021. [PUBMED Abstract]\n- Kurman RJ, Trimble CL: The behavior of serous tumors of low malignant potential: are they ever malignant? Int J Gynecol Pathol 12 (2): 120-7, 1993. [PUBMED Abstract]\n- Leake JF, Currie JL, Rosenshein NB, et al.: Long-term follow-up of serous ovarian tumors of low malignant potential. Gynecol Oncol 47 (2): 150-8, 1992. [PUBMED Abstract]\n- Kaern J, Tropé CG, Abeler VM: A retrospective study of 370 borderline tumors of the ovary treated at the Norwegian Radium Hospital from 1970 to 1982. A review of clinicopathologic features and treatment modalities. Cancer 71 (5): 1810-20, 1993. [PUBMED Abstract]\n- Norris HJ: Proliferative endometrioid tumors and endometrioid tumors of low malignant potential of the ovary. Int J Gynecol Pathol 12 (2): 134-40, 1993. [PUBMED Abstract]"
+        },
+        {
+          "section": "Fédération Internationale de Gynécologie et d’Obstétrique (FIGO) Staging",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Ovarian Borderline Tumors",
+            "Fédération Internationale de Gynécologie et d’Obstétrique (FIGO) Staging"
+          ],
+          "is_boilerplate": false,
+          "block_count": 33,
+          "text": "FIGO and the American Joint Committee on Cancer have designated staging to define ovarian borderline tumors; the FIGO system is most commonly used.[ 1 , 2 ]\nStage | Definition | Illustration\nFIGO = Fédération Internationale de Gynécologie et d’Obstétrique.\na Adapted from FIGO Committee for Gynecologic Oncology.[ 1 ]\nI | Tumor confined to ovaries or fallopian tube(s). | Enlarge\nIA | Tumor limited to one ovary (capsule intact) or fallopian tube; no tumor on ovarian or fallopian tube surface; no malignant cells in the ascites or peritoneal washings.\nIB | Tumor limited to both ovaries (capsules intact) or fallopian tubes; no tumor on ovarian or fallopian tube surface; no malignant cells in the ascites or peritoneal washings.\nIC | Tumor limited to one or both ovaries or fallopian tubes, with any of the following:\nIC1: Surgical spill.\nIC2: Capsule ruptured before surgery or tumor on ovarian or fallopian tube surface.\nIC3: Malignant cells in the ascites or peritoneal washings.\nStage | Definition | Illustration\nFIGO = Fédération Internationale de Gynécologie et d’Obstétrique.\na Adapted from FIGO Committee for Gynecologic Oncology.[ 1 ]\nII | Tumor involves one or both ovaries or fallopian tubes with pelvic extension (below the pelvic brim) or primary peritoneal cancer. | Enlarge\nIIA | Extension and/or implants on uterus and/or fallopian tubes and/or ovaries.\nIIB | Extension to other pelvic intraperitoneal tissues.\nStage | Definition | Illustration\nFIGO = Fédération Internationale de Gynécologie et d’Obstétrique.\na Adapted from FIGO Committee for Gynecologic Oncology.[ 1 ]\nIII | Tumor involves one or both ovaries or fallopian tubes, or primary peritoneal cancer, with cytologically or histologically confirmed spread to the peritoneum outside the pelvis and/or metastasis to the retroperitoneal lymph nodes.\nIIIA1 | Positive retroperitoneal lymph nodes only (cytologically or histologically proven): | Enlarge\nIIIA1(I): Metastasis ≤10 mm in greatest dimension.\nIIIA1(ii): Metastasis >10 mm in greatest dimension.\nIIIA2 | Microscopic extrapelvic (above the pelvic brim) peritoneal involvement with or without positive retroperitoneal lymph nodes.\nIIIB | Macroscopic peritoneal metastasis beyond the pelvis ≤2 cm in greatest dimension, with or without metastasis to the retroperitoneal lymph nodes. | Enlarge\nIIIC | Macroscopic peritoneal metastasis beyond the pelvis >2 cm in greatest dimension, with or without metastasis to the retroperitoneal lymph nodes (includes extension of tumor to capsule of liver and spleen without parenchymal involvement of either organ). | Enlarge\nStage | Definition | Illustration\nFIGO = Fédération Internationale de Gynécologie et d’Obstétrique.\na Adapted from FIGO Committee for Gynecologic Oncology.[ 1 ]\nIV | Distant metastasis excluding peritoneal metastases. | Enlarge\nIVA | Pleural effusion with positive cytology.\nIVB | Parenchymal metastases and metastases to extra-abdominal organs (including inguinal lymph nodes and lymph nodes outside of the abdominal cavity)."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Ovarian Borderline Tumors",
+            "Fédération Internationale de Gynécologie et d’Obstétrique (FIGO) Staging",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Berek JS, Renz M, Kehoe S, et al.: Cancer of the ovary, fallopian tube, and peritoneum: 2021 update. Int J Gynaecol Obstet 155 (Suppl 1): 61-85, 2021. [PUBMED Abstract]\n- Ovary, fallopian tube, and primary peritoneal carcinoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 681-90."
+        },
+        {
+          "section": "Treatment Options for Early-Stage Ovarian Borderline Tumors",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Early-Stage Ovarian Borderline Tumors",
+            "Treatment Options for Early-Stage Ovarian Borderline Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for early-stage ovarian borderline tumors include:\n- Surgery ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Early-Stage Ovarian Borderline Tumors",
+            "Treatment Options for Early-Stage Ovarian Borderline Tumors",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In early-stage disease (stage I or II), no additional treatment is indicated for patients with a completely resected borderline tumor.[ 1 ]"
+        },
+        {
+          "section": "Importance of Staging for Treatment",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Early-Stage Ovarian Borderline Tumors",
+            "Importance of Staging for Treatment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The value of complete staging has not been demonstrated for patients with early-stage disease, but the opposite ovary should be carefully evaluated for evidence of bilateral disease. The impact of surgical staging on therapeutic management has not been defined. However, in a study of 29 patients with presumed localized disease, 7 patients were upstaged after complete surgical staging.[ 2 ]\nIn two other studies, 16% and 18% of patients with presumed localized borderline tumors were upstaged as a result of a staging laparotomy.[ 3 , 4 ] In one of these studies, the yield for serous tumors was 30.8%, compared with 0% for mucinous tumors.[ 3 ]\nIn another study, patients with localized intraperitoneal disease and negative lymph nodes had a low incidence of recurrence (5%), whereas patients with localized intraperitoneal disease and positive lymph nodes had a statistically significant higher incidence of recurrence (50%).[ 5 ]"
+        },
+        {
+          "section": "Fertility Preservation",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Early-Stage Ovarian Borderline Tumors",
+            "Fertility Preservation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "When a patient wishes to retain childbearing potential, a unilateral salpingo-oophorectomy is adequate therapy.[ 6 , 7 ] In the presence of bilateral ovarian cystic neoplasms, or for patients with a single ovary, a partial oophorectomy can be used to preserve fertility.[ 8 ] Some physicians stress the importance of limiting ovarian cystectomy to patients with stage IA disease whose cystectomy specimen margins are tumor free.[ 9 ]\nIn a large series, the relapse rate was higher for patients who underwent more conservative surgery (cystectomy > unilateral oophorectomy > total abdominal hysterectomy and bilateral salpingo-oophorectomy [TAHBSO]). However, differences were not statistically significant, and the survival rates were nearly 100% for all groups.[ 5 , 10 ] When childbearing is not a consideration, a TAHBSO is appropriate therapy. Once a patient's family is complete, most, but not all,[ 9 ] physicians favor removal of remaining ovarian tissue as there is risk of recurrence of a borderline tumor or, rarely, a carcinoma.[ 3 , 6 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Early-Stage Ovarian Borderline Tumors",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Early-Stage Ovarian Borderline Tumors",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Tropé C, Kaern J, Vergote IB, et al.: Are borderline tumors of the ovary overtreated both surgically and systemically? A review of four prospective randomized trials including 253 patients with borderline tumors. Gynecol Oncol 51 (2): 236-43, 1993. [PUBMED Abstract]\n- Yazigi R, Sandstad J, Munoz AK: Primary staging in ovarian tumors of low malignant potential. Gynecol Oncol 31 (3): 402-8, 1988. [PUBMED Abstract]\n- Snider DD, Stuart GC, Nation JG, et al.: Evaluation of surgical staging in stage I low malignant potential ovarian tumors. Gynecol Oncol 40 (2): 129-32, 1991. [PUBMED Abstract]\n- Leake JF, Rader JS, Woodruff JD, et al.: Retroperitoneal lymphatic involvement with epithelial ovarian tumors of low malignant potential. Gynecol Oncol 42 (2): 124-30, 1991. [PUBMED Abstract]\n- Leake JF, Currie JL, Rosenshein NB, et al.: Long-term follow-up of serous ovarian tumors of low malignant potential. Gynecol Oncol 47 (2): 150-8, 1992. [PUBMED Abstract]\n- Kaern J, Tropé CG, Abeler VM: A retrospective study of 370 borderline tumors of the ovary treated at the Norwegian Radium Hospital from 1970 to 1982. A review of clinicopathologic features and treatment modalities. Cancer 71 (5): 1810-20, 1993. [PUBMED Abstract]\n- Lim-Tan SK, Cajigas HE, Scully RE: Ovarian cystectomy for serous borderline tumors: a follow-up study of 35 cases. Obstet Gynecol 72 (5): 775-81, 1988. [PUBMED Abstract]\n- Rice LW, Berkowitz RS, Mark SD, et al.: Epithelial ovarian tumors of borderline malignancy. Gynecol Oncol 39 (2): 195-8, 1990. [PUBMED Abstract]\n- Piura B, Dgani R, Blickstein I, et al.: Epithelial ovarian tumors of borderline malignancy: a study of 50 cases. Int J Gynecol Cancer 2 (4): 189-197, 1992. [PUBMED Abstract]\n- Casey AC, Bell DA, Lage JM, et al.: Epithelial ovarian tumors of borderline malignancy: long-term follow-up. Gynecol Oncol 50 (3): 316-22, 1993. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Advanced-Stage Ovarian Borderline Tumors",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Advanced-Stage Ovarian Borderline Tumors",
+            "Treatment Options for Advanced-Stage Ovarian Borderline Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for advanced-stage ovarian borderline tumors include:\n- Surgery ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Advanced-Stage Ovarian Borderline Tumors",
+            "Treatment Options for Advanced-Stage Ovarian Borderline Tumors",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Patients with advanced disease should undergo a total hysterectomy, bilateral salpingo-oophorectomy, omentectomy, node sampling, and aggressive cytoreductive surgery. Patients with stage III or IV disease with no gross residual tumor had a survival rate of 100% in some series, regardless of the follow-up duration.[ 1 , 2 ] Patients with gross residual disease had a 7-year survival rate of only 69% in a large series, [ 3 ] and survival appeared to be inversely proportional to the length of follow-up.[ 3 ]\nChemotherapy and/or radiation therapy are not indicated for patients with more advanced-stage disease and microscopic or gross residual disease. Scant evidence exists that postoperative chemotherapy or radiation therapy alters the course of this disease in any beneficial way.[ 1 , 3 - 6 ] In a retrospective study of 364 patients without residual tumor, adjuvant therapy had no effect on disease-free or corrected survival when stratified for disease stage.[ 7 ] Patients without residual tumor who received no adjuvant treatment had a survival rate equal to or greater than the treated groups. No controlled studies have compared postoperative treatment with no postoperative treatment.\nIn a review of 150 patients with borderline ovarian tumors, the survival of patients with residual tumors smaller than 2 cm was significantly better than survival for those with residual tumors measuring 2 cm to 5 cm or tumors measuring larger than 5 cm ( P < .05).[ 8 ] It is not clear whether invasive implants imply a worse prognosis. Some investigators have correlated invasive implants with a poor prognosis,[ 9 ] while others have not.[ 2 , 10 ] Some studies have suggested DNA ploidy of the tumors can identify patients who will develop aggressive disease.[ 11 , 12 ] One study could not correlate DNA ploidy of the primary serous tumor with patient survival, but found that aneuploid invasive implants were associated with a poor prognosis.[ 13 ] No evidence indicates that treating patients with aneuploid tumors would have an impact on survival. No significant associations were found between TP53 and HER2/neu overexpression and tumor recurrence or patient survival.[ 14 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Advanced-Stage Ovarian Borderline Tumors",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Advanced-Stage Ovarian Borderline Tumors",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "- Barnhill D, Heller P, Brzozowski P, et al.: Epithelial ovarian carcinoma of low malignant potential. Obstet Gynecol 65 (1): 53-9, 1985. [PUBMED Abstract]\n- Bostwick DG, Tazelaar HD, Ballon SC, et al.: Ovarian epithelial tumors of borderline malignancy. A clinical and pathologic study of 109 cases. Cancer 58 (9): 2052-65, 1986. [PUBMED Abstract]\n- Leake JF, Currie JL, Rosenshein NB, et al.: Long-term follow-up of serous ovarian tumors of low malignant potential. Gynecol Oncol 47 (2): 150-8, 1992. [PUBMED Abstract]\n- Casey AC, Bell DA, Lage JM, et al.: Epithelial ovarian tumors of borderline malignancy: long-term follow-up. Gynecol Oncol 50 (3): 316-22, 1993. [PUBMED Abstract]\n- Tumors of the ovary: neoplasms derived from coelomic epithelium. In: Morrow CP, Curtin JP: Synopsis of Gynecologic Oncology. 5th ed. Churchill Livingstone, 1998, pp 233-281.\n- Sutton GP, Bundy BN, Omura GA, et al.: Stage III ovarian tumors of low malignant potential treated with cisplatin combination therapy (a Gynecologic Oncology Group study). Gynecol Oncol 41 (3): 230-3, 1991. [PUBMED Abstract]\n- Kaern J, Tropé CG, Abeler VM: A retrospective study of 370 borderline tumors of the ovary treated at the Norwegian Radium Hospital from 1970 to 1982. A review of clinicopathologic features and treatment modalities. Cancer 71 (5): 1810-20, 1993. [PUBMED Abstract]\n- Tamakoshi K, Kikkawa F, Nakashima N, et al.: Clinical behavior of borderline ovarian tumors: a study of 150 cases. J Surg Oncol 64 (2): 147-52, 1997. [PUBMED Abstract]\n- Bell DA, Scully RE: Serous borderline tumors of the peritoneum. Am J Surg Pathol 14 (3): 230-9, 1990. [PUBMED Abstract]\n- Michael H, Roth LM: Invasive and noninvasive implants in ovarian serous tumors of low malignant potential. Cancer 57 (6): 1240-7, 1986. [PUBMED Abstract]\n- Friedlander ML, Hedley DW, Swanson C, et al.: Prediction of long-term survival by flow cytometric analysis of cellular DNA content in patients with advanced ovarian cancer. J Clin Oncol 6 (2): 282-90, 1988. [PUBMED Abstract]\n- Kaern J, Trope C, Kjorstad KE, et al.: Cellular DNA content as a new prognostic tool in patients with borderline tumors of the ovary. Gynecol Oncol 38 (3): 452-7, 1990. [PUBMED Abstract]\n- de Nictolis M, Montironi R, Tommasoni S, et al.: Serous borderline tumors of the ovary. A clinicopathologic, immunohistochemical, and quantitative study of 44 cases. Cancer 70 (1): 152-60, 1992. [PUBMED Abstract]\n- Eltabbakh GH, Belinson JL, Kennedy AW, et al.: p53 and HER-2/neu overexpression in ovarian borderline tumors. Gynecol Oncol 65 (2): 218-24, 1997. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (02/12/2025)",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (02/12/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nGeneral Information About Ovarian Borderline Tumors\nAdded text to state that ovarian borderline tumors can also become low-grade serous tumors.\nRevised text to state that the Fédération Internationale de Gynécologie et d’Obstétrique reported an extremely good prognosis for ovarian borderline tumors, with a 10-year survival rate of approximately 95%.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of ovarian borderline tumors. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 10,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Ovarian Borderline Tumors Treatment are:\n- Olga T. Filippova, MD (Lenox Hill Hospital)\n- Marina Stasenko, MD (New York University Medical Center)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Ovarian Borderline Tumors Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/ovarian/hp/ovarian-borderline-tumors-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389466]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\34fe0067bb9af8f46cde.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Ovarian Borderline Tumors",
+      "title": "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+      "summary_name": "Ovarian Borderline Tumors Treatment",
+      "url": "https://www.cancer.gov/types/ovarian/patient/ovarian-low-malignant-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "April 10, 2025",
+      "retrieved_at": "2026-08-31T07:13:11.118955+00:00",
+      "content_sha256": "edc57e90b1ec11342d82c4ec69b77533a9ce2ac43b1fc0f3e856a145cdce057f",
+      "section_count": 31,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Ovarian Borderline Tumors",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Ovarian borderline tumor is a disease in which abnormal cells form in the tissue covering the ovary.\n- Signs and symptoms of ovarian borderline tumor include pain or swelling in the abdomen.\n- Tests that examine the ovaries are used to diagnose and stage ovarian borderline tumor.\n- Some people decide to get a second opinion.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Ovarian borderline tumor is a disease in which abnormal cells form in the tissue covering the ovary.",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Ovarian Borderline Tumors",
+            "Ovarian borderline tumor is a disease in which abnormal cells form in the tissue covering the ovary."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Ovarian borderline tumors have abnormal cells that may become cancer , but usually do not. This disease usually remains in the ovary . When disease is found in one ovary, the other ovary should also be checked carefully for signs of disease.\nThe ovaries are a pair of organs in the female reproductive system . They are in the pelvis , one on each side of the uterus (the hollow, pear-shaped organ where a fetus grows). Each ovary is about the size and shape of an almond. The ovaries make eggs and female hormones . Enlarge Anatomy of the female reproductive system. The organs in the female reproductive system include the uterus, ovaries, fallopian tubes, cervix, and vagina. The uterus has a muscular outer layer called the myometrium and an inner lining called the endometrium."
+        },
+        {
+          "section": "Signs and symptoms of ovarian borderline tumor include pain or swelling in the abdomen.",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Ovarian Borderline Tumors",
+            "Signs and symptoms of ovarian borderline tumor include pain or swelling in the abdomen."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Ovarian borderline tumor may not cause early signs or symptoms . If you do have signs or symptoms, they may include:\n- pain or swelling in the abdomen\n- pain in the pelvis\n- gastrointestinal problems, such as gas, bloating , or constipation\nThese signs and symptoms may be caused by other conditions. If they get worse or do not go away on their own, check with your doctor."
+        },
+        {
+          "section": "Tests that examine the ovaries are used to diagnose and stage ovarian borderline tumor.",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Ovarian Borderline Tumors",
+            "Tests that examine the ovaries are used to diagnose and stage ovarian borderline tumor."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Pelvic exam is an exam of the vagina , cervix , uterus, fallopian tubes , ovaries, and rectum . A speculum is inserted into the vagina and the doctor or nurse looks at the vagina and cervix for signs of disease. A Pap test of the cervix is usually done. The doctor or nurse also inserts one or two lubricated, gloved fingers of one hand into the vagina and places the other hand over the lower abdomen to feel the size, shape, and position of the uterus and ovaries. The doctor or nurse also inserts a lubricated, gloved finger into the rectum to feel for lumps or abnormal areas. Enlarge Pelvic exam. A doctor or nurse inserts one or two lubricated, gloved fingers of one hand into the vagina and presses on the lower abdomen with the other hand. This is done to feel the size, shape, and position of the uterus and ovaries. The vagina, cervix, fallopian tubes, and rectum are also checked.\n- Ultrasound exam is a procedure in which high-energy sound waves (ultrasound) are bounced off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram . The picture can be printed to be looked at later. Enlarge Abdominal ultrasound. An ultrasound transducer connected to a computer is passed over the surface of the abdomen. The ultrasound transducer bounces sound waves off internal organs and tissues to make echoes that form a sonogram (computer picture). Other patients may have a transvaginal ultrasound . Enlarge Transvaginal ultrasound. An ultrasound probe connected to a computer is inserted into the vagina and is gently moved to show different organs. The probe bounces sound waves off internal organs and tissues to make echoes that form a sonogram (computer picture).\n- CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body. The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- CA 125 assay is a laboratory test that measures the level of CA 125 in the blood. CA 125 is a substance released by cells into the bloodstream. An increased CA 125 level is sometimes a sign of cancer or other condition.\n- Chest x-ray is a type of radiation that can go through the body and make pictures of the organs and bones inside the chest.\n- Biopsy is the removal of cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer. The tissue is usually removed during surgery to remove the tumor.\n- Staging laparotomy is surgery to determine the extent of cancer within the abdomen. An incision (cut) is made in the wall of the abdomen to remove tissue so a pathologist can check it for signs of cancer."
+        },
+        {
+          "section": "Some people decide to get a second opinion.",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Ovarian Borderline Tumors",
+            "Some people decide to get a second opinion."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report, slides, and scans. They may agree with the first doctor, suggest changes or another treatment approach, or provide more information about your tumor.\nLearn more about choosing a doctor and getting a second opinion at Finding Cancer Care . You can contact NCI's Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor, hospital, or getting a second opinion. For questions you might want to ask at your appointments, visit Questions to Ask Your Doctor About Cancer ."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "General Information About Ovarian Borderline Tumors",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The prognosis and treatment options depend on:\n- the stage of the disease (whether it affects part of the ovary, involves the whole ovary, or has spread to other places in the body)\n- what type of cells make up the tumor\n- the size of the tumor\n- the patient's general health\nPatients with ovarian borderline tumors have a good prognosis, especially when the tumor is found early."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Ovarian Borderline Tumors",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- After ovarian borderline tumor has been diagnosed, tests are done to find out if abnormal cells have spread within the ovary or to other parts of the body.\n- The following stages are used for ovarian borderline tumor:\n- Stage I (also called stage 1) ovarian borderline tumor\n- Stage II (also called stage 2) ovarian borderline tumor\n- Stage III (also called stage 3) ovarian borderline tumor\n- Stage IV (also called stage 4) ovarian borderline tumor\n- Ovarian borderline tumors can recur (come back) after they have been treated."
+        },
+        {
+          "section": "After ovarian borderline tumor has been diagnosed, tests are done to find out if abnormal cells have spread within the ovary or to other parts of the body.",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Ovarian Borderline Tumors",
+            "After ovarian borderline tumor has been diagnosed, tests are done to find out if abnormal cells have spread within the ovary or to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Cancer stage describes the extent of cancer in the body, such as the size of the tumor, whether it has spread, and how far it has spread from where it first formed. It is important to know the stage of the ovarian borderline tumors to plan the best treatment. Most people are diagnosed with stage I disease.\nBorderline ovarian tumor staging usually uses the FIGO staging system. The tumor may be described by this staging system in your pathology report. Based on the FIGO results, a stage (I, II, III, or IV, also written as 1, 2, 3, or 4) is assigned to your tumor. When talking to you about your diagnosis, your doctor may describe the tumor as one of these stages."
+        },
+        {
+          "section": "Stage I (also called stage 1) ovarian borderline tumor",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Ovarian Borderline Tumors",
+            "The following stages are used for ovarian borderline tumor:",
+            "Stage I (also called stage 1) ovarian borderline tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "In stage I, the tumor is found in one or both ovaries or fallopian tubes . Stage I is divided into stage IA, stage IB, and stage IC.\n- Stage IA: The tumor is found inside a single ovary or fallopian tube.\n- Stage IB: The tumor is found inside both ovaries or fallopian tubes.\n- Stage IC: The tumor is found inside one or both ovaries or fallopian tubes and one of the following is true:\n- tumor cells are found on the outside surface of one or both ovaries or fallopian tubes; or\n- the capsule (outer covering) of the ovary ruptured (broke open) before or during surgery; or\n- tumor cells are found in the fluid of the peritoneal cavity (the body cavity that contains most of the organs in the abdomen ) or in washings of the peritoneum (tissue lining the peritoneal cavity)."
+        },
+        {
+          "section": "Stage II (also called stage 2) ovarian borderline tumor",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Ovarian Borderline Tumors",
+            "The following stages are used for ovarian borderline tumor:",
+            "Stage II (also called stage 2) ovarian borderline tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In stage II, the tumor is found in one or both ovaries or fallopian tubes and has spread into other areas of the pelvis , or primary peritoneal cancer is found within the pelvis. Stage II is divided into stage IIA and stage IIB.\n- Stage IIA: The tumor has spread from where it first formed to the uterus and/or the fallopian tubes and/or the ovaries.\n- Stage IIB: The tumor has spread from the ovary or fallopian tube to organs in the peritoneal cavity (the space that contains the abdominal organs)."
+        },
+        {
+          "section": "Stage III (also called stage 3) ovarian borderline tumor",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Ovarian Borderline Tumors",
+            "The following stages are used for ovarian borderline tumor:",
+            "Stage III (also called stage 3) ovarian borderline tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "In stage III, the tumor is found in one or both ovaries or fallopian tubes , or is primary peritoneal cancer , and has spread outside the pelvis to other parts of the abdomen and/or to nearby lymph nodes . Stage III is divided into stage IIIA, stage IIIB, and stage IIIC.\n- In stage IIIA, one of the following is true: Enlarge In stage IIIA, cancer is found in one or both ovaries or fallopian tubes and (a) cancer has spread to lymph nodes behind the peritoneum only, or (b) cancer cells that can be seen only with a microscope have spread to the surface of the peritoneum outside the pelvis, such as the omentum. Cancer may have also spread to nearby lymph nodes.\n- The tumor has spread to lymph nodes in the area outside or behind the peritoneum only; or\n- Tumor cells that can be seen only with a microscope have spread to the surface of the peritoneum outside the pelvis, such as the omentum (a fold of the peritoneum that surrounds the stomach and other organs in the abdomen). The tumor may have spread to nearby lymph nodes.\n- Stage IIIB : The tumor has spread to the peritoneum outside the pelvis, such as the omentum, and the tumor in the peritoneum is 2 centimeters or smaller. The tumor may have spread to lymph nodes behind the peritoneum. Enlarge In stage IIIB, cancer is found in one or both ovaries or fallopian tubes and has spread to the peritoneum outside the pelvis, such as the omentum. The cancer in the omentum is 2 centimeters or smaller. Cancer may have also spread to lymph nodes behind the peritoneum.\n- Stage IIIC: The tumor has spread to the peritoneum outside the pelvis, such as the omentum, and the tumor in the peritoneum is larger than 2 centimeters. The tumor may have spread to lymph nodes behind the peritoneum or to the surface of the liver or spleen . Enlarge In stage IIIC, cancer is found in one or both ovaries or fallopian tubes and has spread to the peritoneum outside the pelvis, such as the omentum. The cancer in the omentum is larger than 2 centimeters. Cancer may have also spread to lymph nodes behind the peritoneum or to the surface of the liver or spleen (not shown)."
+        },
+        {
+          "section": "Stage IV (also called stage 4) ovarian borderline tumor",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Ovarian Borderline Tumors",
+            "The following stages are used for ovarian borderline tumor:",
+            "Stage IV (also called stage 4) ovarian borderline tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In stage IV, tumor cells have spread beyond the abdomen to other parts of the body. Stage IV is divided into stage IVA and stage IVB. Enlarge In stage IV, cancer has spread beyond the abdomen to other parts of the body. In stage IVA, cancer cells are found in extra fluid that builds up around the lungs. In stage IVB, cancer has spread to organs and tissues outside the abdomen, including the lung, liver, and lymph nodes in the groin.\n- Stage IVA: Tumor cells are found in extra fluid that builds up around the lungs .\n- Stage IVB: The tumor has spread to organs and tissues outside the abdomen, including lymph nodes in the groin ."
+        },
+        {
+          "section": "Ovarian borderline tumors can recur (come back) after they have been treated.",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Stages of Ovarian Borderline Tumors",
+            "Ovarian borderline tumors can recur (come back) after they have been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Recurrent ovarian borderline tumors are tumors that have come back after they have been treated. The tumors may come back in the other ovary or in other parts of the body. Tests will be done to help determine where the tumor has returned. The type of treatment for a recurrent ovarian borderline tumor will depend on where it has come back."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- There are different types of treatment for patients with ovarian borderline tumors.\n- The following types of treatment are used:\n- Surgery\n- Chemotherapy\n- New types of treatment are being tested in clinical trials.\n- Treatment for ovarian borderline tumors may cause side effects.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with ovarian borderline tumors.",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with ovarian borderline tumors."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Different types of treatments are available for ovarian borderline tumors. You and your care team will work together to decide your treatment plan, which may include more than one type of treatment. Many factors will be considered, such as the stage of the tumor, your overall health, and your preferences. Your plan will include information about your tumor, the goals of treatment, your treatment options and the possible side effects, and the expected length of treatment.\nTalking with your care team before treatment begins about what to expect will be helpful. You'll want to learn what you need to do before treatment begins, how you'll feel while going through it, and what kind of help you will need. To learn more, visit Questions to Ask Your Doctor About Treatment ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The type of surgery (removing the tumor in an operation) depends on the size and spread of the tumor and the patient's plans for having children. Surgery may include:\n- Unilateral salpingo-oophorectomy is surgery to remove one ovary and one fallopian tube .\n- Bilateral salpingo-oophorectomy is surgery to remove both ovaries and both fallopian tubes.\n- Total hysterectomy and bilateral salpingo-oophorectomy is surgery to remove the uterus , cervix , and both ovaries and fallopian tubes. If the uterus and cervix are taken out through the vagina , the operation is called a vaginal hysterectomy. If the uterus and cervix are taken out through a large incision (cut) in the abdomen , the operation is called a total abdominal hysterectomy. If the uterus and cervix are taken out through a small incision (cut) in the abdomen using a laparoscope , the operation is called a total laparoscopic hysterectomy. Enlarge Hysterectomy. The uterus is surgically removed with or without other organs or tissues. In a total hysterectomy, the uterus and cervix are removed. In a total hysterectomy with salpingo-oophorectomy, (a) the uterus plus one (unilateral) ovary and fallopian tube are removed; or (b) the uterus plus both (bilateral) ovaries and fallopian tubes are removed. In a radical hysterectomy, the uterus, cervix, both ovaries, both fallopian tubes, and nearby tissue are removed. These procedures are done using a low transverse incision or a vertical incision.\n- Partial oophorectomy is surgery to remove part of one ovary or part of both ovaries.\n- Omentectomy is surgery to remove the omentum (a tissue layer that lines the abdominal wall).\nAfter the doctor removes all disease that can be seen at the time of the surgery, the patient may be given chemotherapy (also called chemo) after surgery to kill any tumor cells that are left. Treatment given after the surgery to lower the risk that the tumor will come back is called adjuvant therapy ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Chemotherapy uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Chemotherapy for ovarian borderline tumors is usually systemic, meaning it is injected into a vein or given by mouth. When given this way, the drugs enter the bloodstream to reach cancer cells throughout the body.\nLearn more about how chemotherapy works, how it is given, common side effects, and more at Chemotherapy to Treat Cancer and Chemotherapy and You: Support for People With Cancer ."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some people, joining a clinical trial may be an option. There are different types of clinical trials for people with cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment for ovarian borderline tumors may cause side effects.",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for ovarian borderline tumors may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Early Stage Ovarian Borderline Tumors (Stages I and II)",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Early Stage Ovarian Borderline Tumors (Stages I and II)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Surgery is the standard treatment for early stage ovarian borderline tumors. The type of surgery usually depends on whether a patient plans to have children.\nFor patients who plan to have children, surgery is either:\n- unilateral salpingo-oophorectomy or\n- partial oophorectomy\nTo prevent recurrence of disease, most doctors recommend surgery to remove the remaining ovarian tissue when a patient no longer plans to have children.\nFor patients who do not plan to have children, treatment may be hysterectomy and bilateral salpingo-oophorectomy .\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Advanced Stage Ovarian Borderline Tumors (Stages III and IV)",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Advanced Stage Ovarian Borderline Tumors (Stages III and IV)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment for advanced stage ovarian borderline tumors may be hysterectomy, bilateral salpingo-oophorectomy , and omentectomy . A lymph node dissection may also be done. Patients with advanced disease should undergo a total hysterectomy , bilateral salpingo-oophorectomy, omentectomy, node sampling, and aggressive cytoreductive surgery.\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Ovarian Borderline Tumors",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Ovarian Borderline Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment for recurrent ovarian borderline tumors may include:\n- surgery to remove cancer that has spread in the abdominal cavity\n- surgery followed by chemotherapy\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Ovarian Borderline Tumors",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "To Learn More About Ovarian Borderline Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "For general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of ovarian borderline tumors. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Ovarian Borderline Tumors Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/ovarian/patient/ovarian-low-malignant-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389247]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Ovarian Borderline Tumors Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\fa8d4852528fe2d57efd.html"
+    }
+  ]
+}

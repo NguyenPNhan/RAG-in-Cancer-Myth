@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "scope": "general_or_multi_cancer",
+  "summary_name": "Medicinal Mushrooms",
+  "generated_at": "2026-08-31T07:15:23.739396+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "integrative_therapies"
+      ],
+      "topic": "integrative_therapies",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+      "summary_name": "Medicinal Mushrooms",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/mushrooms-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "November 6, 2024",
+      "retrieved_at": "2026-08-31T07:07:16.206648+00:00",
+      "content_sha256": "9cd3d87a91575363cae6d4619642955dd6d14542f9a61980595ad16a053e7963",
+      "section_count": 29,
+      "sections": [
+        {
+          "section": "Introduction",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Introduction"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Medicinal mushrooms have been used for hundreds of years, mainly in Asian countries, for treatment of infections . More recently, they have also been used in the treatment of pulmonary diseases and cancer . Medicinal mushrooms have been approved adjuncts to standard cancer treatments in Japan and China for more than 30 years and have an extensive clinical history of safe use as single agents or combined with radiation therapy or chemotherapy .\nMore than 100 species of medicinal mushrooms are used in Asia. Some of the more commonly used species include the following:\n- Ganoderma lucidum (reishi).\n- Trametes versicolor or Coriolus versicolor (turkey tail).\n- Lentinus edodes ( shiitake ).\n- Grifola frondosa (maitake).\nStudies have examined the effects of mushrooms on immune response pathways and on direct antitumor mechanisms. The immune effects are mediated through the mushroom's stimulation of innate immune cells , such as monocytes , natural killer cells , and dendritic cells . The activity is generally considered to be caused by the presence of high- molecular-weight polysaccharides (beta-glucans) in the mushrooms, although other constituents may also be involved. Clinical trials in cancer patients have demonstrated that G. lucidum products are generally well tolerated.[ 1 ]\nSeveral companies distribute medicinal mushrooms as dietary supplements . In the United States, dietary supplements are regulated by the U.S. Food and Drug Administration (FDA) as a separate category from foods, cosmetics, and drugs. Unlike drugs, dietary supplements do not require premarket evaluation and approval by the FDA unless specific disease prevention or treatment claims are made. The quality and amount of ingredients in dietary supplements are also regulated by the FDA through Good Manufacturing Practices (GMPs). The FDA GMPs requires that every finished batch of dietary supplement meets each product specification for identity, purity, strength, composition, and limits on contamination that may adulterate dietary supplements. Because dietary supplements are not formally reviewed for manufacturing consistency every year, ingredients may vary considerably from lot to lot and there is no guarantee that ingredients claimed on product labels are present (or are present in the specified amounts). The FDA has not approved the use of medicinal mushrooms as a treatment for cancer or any other medical condition .\nMany of the medical and scientific terms used in this summary are hypertext linked (at first use in each section) to the NCI Dictionary of Cancer Terms , which is oriented toward nonexperts. When a linked term is clicked, a definition will appear in a separate window.\nReference citations in some PDQ cancer information summaries may include links to external websites that are operated by individuals or organizations for the purpose of marketing or advocating the use of specific treatments or products. These reference citations are included for informational purposes only. Their inclusion should not be viewed as an endorsement of the content of the websites, or of any treatment or product, by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board or the National Cancer Institute ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Introduction",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Jin X, Ruiz Beguerie J, Sze DM, et al.: Ganoderma lucidum (Reishi mushroom) for cancer treatment. Cochrane Database Syst Rev 6: CD007731, 2012. [PUBMED Abstract]"
+        },
+        {
+          "section": "General Information",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Turkey Tail and Polysaccharide-K",
+            "General Information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Turkey tail is a woody bracket polypore fungus that grows on dead logs worldwide. The scientific name of turkey tail is Trametes versicolor (L.) Lloyd, although it has been known by other names, notably Coriolus versicolor (L. ex Fr.) Quel. It is known as Yun Zhi in traditional Chinese medicine and Kawaratake (roof tile fungus) in Japan. The name turkey tail refers to its concentric rings of brown and tan, which resemble the tail feathers of a turkey. There are many other species of Trametes , some of which are difficult to distinguish from turkey tail. Internal transcribed spacer sequences alone have been found inadequate to distinguish turkey tail from other species of Trametes , so additional molecular characters are required for that task.[ 1 ] Another Trametes species used primarily in China is Trametes robiniophila Murr , also known as Huaier."
+        },
+        {
+          "section": "History",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Turkey Tail and Polysaccharide-K",
+            "History"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The fungus has been used in traditional Chinese medicine for many years to treat pulmonary diseases .[ 2 , 3 ] A purified hot water extract prepared from the cultivated fungal mycelium has been used in Japan for its immunomodulatory effects as an adjuvant treatment for cancer .[ 4 - 6 ] Polysaccharide -K (PSK) or krestin, from the mushroom T. versicolor , is an approved mushroom product used for cancer treatment in Japan. PSK is a proprietary formulation from the Kureha Corporation. PSK has been used as an adjunctive cancer treatment in thousands of patients since the mid-1970s. The safety record for PSK is well established in Japan. Few adverse events have been reported in patients treated with PSK. Polysaccharopeptide (PSP) is another extract from T. versicolor produced in China."
+        },
+        {
+          "section": "Chemistry",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Turkey Tail and Polysaccharide-K",
+            "Laboratory/Animal/Preclinical Studies",
+            "Chemistry"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The best known constituent of turkey tail is the glycoprotein mixture known as PSK. PSK is not a homogeneous substance, with a range of molecular weights averaging 9.4 kDa (range 5–300 kDa). The glycoprotein molecules are composed of a main chain beta-(1,4) glucan with beta-(1,3)– and beta-(1,6)–linked side chains. Small amounts of galactose, mannose, and arabinose have also been detected in the hydrolysate. Between 25% and 38% of the mass comes from a covalently linked protein whose amino acid composition has been reported.[ 4 ]\nPSK radiolabeled with carbon C-14 has been used to study the oral bioavailability and distribution of PSK in mice, rats, and rabbits. A fraction of the dose appears to be orally absorbed, more or less intact, and is excreted in bile over several hours. However, most of the radiolabeled dose is found in exhaled air, suggesting that the digestion of PSK may occur in the gut or the metabolism of absorbed PSK may occur somewhere else in the body.[ 7 ] A monoclonal antibody (specific for PSK) that neutralizes PSK's antitumor effects has been developed. It has been used to validate the presence of PSK in implanted tumors .[ 8 ]\nPSP, a very similar substance, has also been purified from a different strain of turkey tail; PSP and PSK differ somewhat in sugar composition.[ 2 ]\nA lipid component of PSK has been separated by lipase treatment and found to have toll-like receptor 2 agonist activity, synergistic with the protein-bound beta-glucan . The lipid component was primarily linoleic acid , with smaller amounts of other fatty acids .[ 9 ]\nThe nonselective protein kinase inhibitor hypothemycin [ 10 ] and the adipocyte fat accumulation–inhibitory cyclic peptide ternatin [ 11 ] have also been isolated from cultures of T. versicolor ."
+        },
+        {
+          "section": "Mechanistic studies",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Turkey Tail and Polysaccharide-K",
+            "Laboratory/Animal/Preclinical Studies",
+            "Mechanistic studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Since the earliest reports of clinical benefits, other investigators have sought to define the mechanism of PSK’s beneficial action. One group hypothesized that T-cell dysfunction , including apoptosis of peripheral blood T cells, commonly occurs in patients receiving chemotherapy .[ 12 ] They postulated that reversal of T-cell dysfunction induced by chemotherapy could reduce the adverse effects or enhance the antitumor effect. PSK is reported to enhance natural killer (NK) cell and T-cell activities by upregulation of interleukin-2 or interferon-gamma . Twenty patients with curatively resected stage III gastric cancer were randomly assigned to receive adjuvant therapy with the second-generation dihydropyrimidine dehydrogenase–inhibitory oral fluoropyrimidine S-1 alone (n = 10) or S-1 plus PSK (n = 10). At 5 weeks after adjuvant therapy, T-cell apoptosis was significantly higher in the S-1–alone group than in the S-1–plus-PSK group, leading the authors to conclude that PSK could partially prevent the T-cell apoptosis induced by S-1.\nAnother group of investigators studied the effect of PSK added to tegafur-uracil (UFT) chemotherapy compared with that of UFT alone.[ 13 ] Baseline immune parameters were comparable in the two groups. However, CD57-positive T cells decreased more significantly after surgery for patients treated with PSK than for those in the control group ( P = .0486). These investigators had previously noted that a high CD57-positive cell count was an indicator of poor prognosis in patients with advanced gastric cancer , leading them to suggest that PSK may improve overall survival (OS) partly by inhibiting CD57-positive T cells.\nNoting that hosts become immunocompromised at the time of tumor progression and that decreased expression of major histocompatibility complex (MHC) class I by the tumor is one mechanism that allows it to evade destruction by cytotoxic T lymphocytes , investigators conducted a retrospective study to evaluate the expression of MHC class I by immunohistochemical staining in the primary lesions of patients with stage II or stage III gastric cancer.[ 14 ] They analyzed data from 349 patients who had undergone adjuvant therapy (after curative resection ) between 1995 and 2008; 225 patients received adjuvant chemotherapy with an oral fluoropyrimidine alone, while 124 patients received adjuvant chemotherapy plus PSK 3 g /d. Although this was not a randomized trial , baseline characteristics of the patients were well matched. The mean duration of follow-up was 49 months. Three-year recurrence -free survival (RFS) rates were the same for both groups (60% for the PSK group and 62% for the chemotherapy-only group). For MHC expression–negative cases, the 3-year RFS rates were 65% for the PSK group and 50% for the chemotherapy-only group; the difference was not considered significant . For 82 MHC expression–negative patients with lymph node status of pN2 or greater, the RFS rates were 65% for the PSK group and 34% for the chemotherapy-only group—a significant difference with no P value offered. The authors concluded that PSK adjuvant immunotherapy may be effective in MHC class I–negative patients with advanced lymph node metastasis of pN2 or greater.\nWhile the mechanism of action for PSK in general and in colorectal cancer specifically is not clearly defined, the potential activity of PSK as an immunomodulatory adjunct to chemoradiation therapy in rectal cancer has been studied.[ 15 ] Thirty patients with stage II or III rectal cancer who were treated with S-1 and external-beam radiation therapy were randomly assigned to receive either the standard regimen or standard regimen plus PSK. A number of cellular and humoral immune parameters were tested. An increase in peripheral blood NK cells after therapy was observed in the PSK-treated group compared with the control group. Immunosuppressive acidic protein (IAP) levels have been reported to be elevated in cancer patients and correlated to cancer progression and prognosis. In the study, a more-marked decrease in IAP level was observed in patients treated with PSK than in those treated in the control group. In addition, cytotoxic T cells increased in the peritumoral mucosa and normal mucosa within the radiation field in the PSK-treated group. The authors of the study concluded that PSK treatment may promote local tissue immunity within the radiation field.\nOne review included preclinical studies conducted in lung cancer models using either PSK or other T. versicolor preparations.[ 16 ] Data from the 15 preclinical studies supported the anticancer effects of PSK by way of immunomodulation and potentiation of immune surveillance. In animal models , direct antitumor effects resulted in reduced tumor growth and metastases."
+        },
+        {
+          "section": "Observational studies",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Turkey Tail and Polysaccharide-K",
+            "Human Studies",
+            "Gastric cancer",
+            "Observational studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Gastric cancer is the most common malignancy diagnosed in Korea. Investigators in Korea performed a retrospective analysis of survival in patients who received PSK in addition to chemotherapy and in those who received chemotherapy only (control group).[ 17 ] Unfortunately, the chemotherapy regimens differed in that the PSK patients were treated with fluorouracil and mitomycin-C (207 patients), while the controls received fluorouracil with doxorubicin -based chemotherapy (103 patients), introducing a potential bias in the interpretation of the results. Patients with all stages of gastric cancer were included in the analysis. Overall, there was no difference between groups in 5-year disease-free survival (DFS) or progression-free survival (PFS) rates. In a subgroup analysis, PSK recipients with stage IB or stage II disease showed superior 5-year survival (84.4% vs. 67.6%; P = .019), but no significant benefit was observed in patients with higher-stage disease.\nAnother retrospective analysis of nonrandomized data evaluated 254 patients with gastric carcinoma undergoing curative surgery with postoperative adjuvant treatment in Japan.[ 18 ] Researchers compared 139 patients who received chemotherapy alone with 115 patients who received chemotherapy plus PSK. There were no significant differences between groups in patient demographics or tumor characteristics at baseline. There were no differences between groups in 5-year RFS rates (52.7% in the PSK group and 52.7% in the control group) or 5-year OS rates (57.1% in the PSK group and 58.3% in the control group). In a subset analysis of patients with more than seven involved lymph nodes (pN3), the 5-year OS rate was significantly higher in the PSK group (47.8%) than that in the control group (22.8%; P = .0317). Hence, these results contradict the findings from the Korean analysis."
+        },
+        {
+          "section": "Clinical trials",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Turkey Tail and Polysaccharide-K",
+            "Human Studies",
+            "Gastric cancer",
+            "Clinical trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "A study published in 1994 first suggested the clinical benefit of adjuvant PSK for patients who underwent curative resection of gastric cancer in Japan.[ 19 ] Investigators randomly assigned 262 patients who had undergone curative gastrectomy to receive either standard treatment with intravenous mitomycin and oral fluorouracil, or chemotherapy plus protein-bound PSK. Patients were monitored for 5 to 7 years. PSK improved both the 5-year DFS rate (70.7% vs. 59.4%; P = .047) and 5-year survival rate (73.0% vs. 60.0%; P = .044), compared with the standard treatment group. Treatment with PSK was well tolerated, with good compliance . The authors concluded that PSK should be added to standard chemotherapy for gastric cancer patients who undergo curative gastrectomy.\nA 2007 meta-analysis included 8,009 patients from eight randomized controlled trials (RCTs) of adjuvant PSK in patients after curative resection of gastric cancers:[ 20 ] 4,037 patients received PSK with chemotherapy, and 3,972 patients received the same chemotherapy alone. The OS hazard ratio (HR) was 0.88 (95% confidence interval [CI], 0.79–0.98; P = .018), indicating improved survival with the addition of PSK, with no significant heterogeneity between the treatment effects observed in the different studies. The three trials with the best quality supported the findings from the eight studies. The authors concluded that PSK was effective as adjuvant immunotherapy for patients with gastric cancer and suggested that this improvement may well be both statistically and clinically significant.\nOne other large study not included in this meta-analysis was a Japanese multicenter comparative trial of adjuvant chemotherapy versus adjuvant chemotherapy and PSK involving 751 patients undergoing curative resection, conducted from 1978 to 1981.[ 21 ] Patients were randomly assigned to receive either chemotherapy with mitomycin-C plus oral tegafur (also known as futraful) with (n = 377) or without (n = 374) PSK 3 g/d. After reviewing 20 years of data, the investigators stratified patients on the basis of the ratio of their granulocytes to lymphocytes (G/L), believing that G/L ratios above 2.0 would predict responders. The 5-year OS rates were 67.9% in the PSK group and 61.8% in the control group ( P = .053). In the subset of 364 patients with G/L ratios above 2.0, 5-year survival rates were 68.7% in the PSK group and 55.4% in the control group ( P = .007). Because the G/L ratio was not related to stage, the authors suggested that the G/L ratio may be a host-dependent factor and might be useful to predict who might respond best to adjuvant PSK.\nFinally, another small study has been reported since the meta-analysis.[ 13 ] Patients received either oral UFT 300 mg /d or UFT plus PSK 3 g/d for at least 1 year after undergoing gastric resection for stage II or stage III gastric cancer. The 3-year survival rate was 62.2% in the 10 patients who received PSK and 12.5% in the 11 patients who received UFT alone ( P = .038)."
+        },
+        {
+          "section": "Breast cancer",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Turkey Tail and Polysaccharide-K",
+            "Human Studies",
+            "Breast cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "So far, studies that have reported on the use of T. versicolor products in patients with breast cancer have focused on documenting changes in immune parameters (e.g., changes in T-cell subsets and B-cell numbers in blood ) as opposed to clinical parameters (e.g., patient survival, resolution of symptoms / side effects , or improvement in quality of life ).[ 22 , 23 ]"
+        },
+        {
+          "section": "Observational studies",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Turkey Tail and Polysaccharide-K",
+            "Human Studies",
+            "Colorectal cancer",
+            "Observational studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A retrospective study was conducted by two groups from Japan. The study examined the impact on survival in patients with colorectal cancer who received adjuvant treatment with oral fluoropyrimidine with the addition of PSK.[ 24 , 25 ] The first study was conducted at a single institution in Japan and analyzed outcomes from 101 patients with Dukes B or Dukes C colorectal cancer who were treated with UFT or UFT with PSK for 24 months after curative surgery. These patients were monitored for up to 10 years after surgery.[ 25 ] The 10-year survival rate was significantly better for patients treated with PSK (HR, 0.3). The second study examined the results of 63 patients with colorectal cancer who were older than 70 years and treated with UFT with or without PSK. The 3-year relapse-free survival rates were 76.2% in the PSK group and 47.8% in the UFT-only group (control). The 3-year OS rates were 80.8% in the PSK group and 52.8% in the control group.[ 24 ]"
+        },
+        {
+          "section": "Clinical trials",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Turkey Tail and Polysaccharide-K",
+            "Human Studies",
+            "Colorectal cancer",
+            "Clinical trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Clinical studies of PSK in colorectal cancer have shown reduction in recurrence and improvement in OS with adjuvant use.\nA meta-analysis of randomized, centrally assigned, prospective clinical trials of adjuvant therapy with PSK published between 1980 and 2004 identified three clinical trials that met selection criteria covering 1,094 patients.[ 26 ] Combining the data from all three trials, the researchers found that the estimated odds ratio (OR) for the following:\n- The 5-year DFS was 0.72 (95% CI, 0.58–0.90; P = .003, favoring PSK).\n- The 5-year OS was 0.71 (95% CI, 0.55–0.90; P = .006, favoring PSK)."
+        },
+        {
+          "section": "Clinical trials",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Turkey Tail and Polysaccharide-K",
+            "Human Studies",
+            "Lung cancer",
+            "Clinical trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "Thirty-one reports of 28 studies were included in a systematic review of PSK in lung cancer:[ 16 ]\n- Seventeen preclinical studies.\n- Five nonrandomized controlled trials.\n- Six RCTs.\nAll five nonrandomized controlled trials reported improved median survival with the use of PSK in combination with conventional radiation therapy and/or chemotherapy. PSK 3 g/d with concurrent chemotherapy was used in all RCTs, and all six studies showed benefit for at least one of the following endpoints:\n- Immune function measures.\n- Body weight.\n- Performance status .\n- Tumor-related symptoms.\n- Survival.\nReference | Trial Design | Product and Dose | Condition or Cancer Type | Treatment Groups (Enrolled; Treated; Placebo or No Treatment Control) b | Results | Concurrent Therapy Used | Level of Evidence Score c\nG/L = granulocyte to lymphocyte count; OR = odds ratio; PSK = polysaccharide-K; RCT = randomized controlled trial; UFT = tegafur-uracil.\na For more information and definition of terms, see the NCI Dictionary of Cancer Terms .\nb Number of patients treated plus number of patient controls may not equal number of patients enrolled; number of patients enrolled equals number of patients initially recruited/considered by the researchers who conducted a study; number of patients treated equals number of enrolled patients who were given the treatment being studied AND for whom results were reported.\nc Strongest evidence reported that the treatment under study has activity or otherwise improves the well-being of cancer patients. For information about levels of evidence analysis and scores, see Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies .\n[ 21 ] | RCT | PSK (3 g/d) | Gastric cancer | 751; 376; 374 (groups were stratified by G/L ratio of <2 vs. >2) | Overall 5-y survival: all patients, 67.9% (PSK) versus 61.8% (control) ( P = .053); for G/L ratio ≥2: 68.7% (PSK) versus 55.4% (control) ( P = .007) | Mitomycin-C plus tegafur | 1iDii\n[ 19 ] | RCT | PSK (3 g/d) | Gastric cancer | 262; 124; 129 | Improved survival in the treatment group was clinically significant | Mitomycin-C plus oral fluorouracil | 1iDii\n[ 13 ] | RCT | PSK (3 g/d) | Gastric cancer | 21; 10; 11 | Survival was improved significantly in treatment group | UFT 300 mg/d starting 2 wk after surgery and continuing for 1 y or until diagnosis of tumor recurrence | 1iDii\n[ 27 ] | Meta-analysis summarizing 48 studies | PSK (various doses) | Colorectal cancer | 3 trials; 1,094 patients | 5-y survival: 79.0% (chemotherapy plus PSK) versus 72.2% (chemotherapy alone) (OR, 0.71; P = .006) | Mitomycin-C plus long-term administration of oral fluorinated pyrimidines | 1iB"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Turkey Tail and Polysaccharide-K",
+            "Human Studies",
+            "Lung cancer",
+            "Clinical trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 27,
+          "text": "- Carlson A, Justo A, Hibbett DS: Species delimitation in Trametes: a comparison of ITS, RPB1, RPB2 and TEF1 gene phylogenies. Mycologia 106 (4): 735-45, 2014 Jul-Aug. [PUBMED Abstract]\n- Ng TB: A review of research on the protein-bound polysaccharide (polysaccharopeptide, PSP) from the mushroom Coriolus versicolor (Basidiomycetes: Polyporaceae). Gen Pharmacol 30 (1): 1-4, 1998. [PUBMED Abstract]\n- Ying J, Mao X, Ma Q, et al.: Icons of Medicinal Fungi from China. Science Press, 1987.\n- Tsukagoshi S, Hashimoto Y, Fujii G, et al.: Krestin (PSK). Cancer Treat Rev 11 (2): 131-55, 1984. [PUBMED Abstract]\n- Cui J, Chisti Y: Polysaccharopeptides of Coriolus versicolor: physiological activity, uses, and production. Biotechnol Adv 21 (2): 109-22, 2003. [PUBMED Abstract]\n- Sakagami H, Aoki T, Simpson A, et al.: Induction of immunopotentiation activity by a protein-bound polysaccharide, PSK (review). Anticancer Res 11 (2): 993-9, 1991 Mar-Apr. [PUBMED Abstract]\n- Ikuzawa M, Matsunaga K, Nishiyama S, et al.: Fate and distribution of an antitumor protein-bound polysaccharide PSK (Krestin). Int J Immunopharmacol 10 (4): 415-23, 1988. [PUBMED Abstract]\n- Hoshi H, Saito H, Iijima H, et al.: Anti-protein-bound polysaccharide-K monoclonal antibody binds the active structure and neutralizes direct antitumor action of the compound. Oncol Rep 25 (4): 905-13, 2011. [PUBMED Abstract]\n- Quayle K, Coy C, Standish L, et al.: The TLR2 agonist in polysaccharide-K is a structurally distinct lipid which acts synergistically with the protein-bound β-glucan. J Nat Med 69 (2): 198-208, 2015. [PUBMED Abstract]\n- Miller RM, Taunton J: Targeting protein kinases with selective and semipromiscuous covalent inhibitors. Methods Enzymol 548: 93-116, 2014. [PUBMED Abstract]\n- Miller R, Galitsky NM, Duax WL, et al.: Molecular structures of two crystalline forms of the cyclic heptapeptide antibiotic ternatin, cyclo[-beta-OH-D-Leu-D-Ile-(NMe)Ala-(NMe)Leu-Leu-(NMe)Ala-D-(NMe)Ala-]. Int J Pept Protein Res 42 (6): 539-49, 1993. [PUBMED Abstract]\n- Kono K, Kawaguchi Y, Mizukami Y, et al.: Protein-bound polysaccharide K partially prevents apoptosis of circulating T cells induced by anti-cancer drug S-1 in patients with gastric cancer. Oncology 74 (3-4): 143-9, 2008. [PUBMED Abstract]\n- Akagi J, Baba H: PSK may suppress CD57(+) T cells to improve survival of advanced gastric cancer patients. Int J Clin Oncol 15 (2): 145-52, 2010. [PUBMED Abstract]\n- Ito G, Tanaka H, Ohira M, et al.: Correlation between efficacy of PSK postoperative adjuvant immunochemotherapy for gastric cancer and expression of MHC class I. Exp Ther Med 3 (6): 925-930, 2012. [PUBMED Abstract]\n- Sadahiro S, Suzuki T, Maeda Y, et al.: Effects of preoperative immunochemoradiotherapy and chemoradiotherapy on immune responses in patients with rectal adenocarcinoma. Anticancer Res 30 (3): 993-9, 2010. [PUBMED Abstract]\n- Fritz H, Kennedy DA, Ishii M, et al.: Polysaccharide K and Coriolus versicolor extracts for lung cancer: a systematic review. Integr Cancer Ther 14 (3): 201-11, 2015. [PUBMED Abstract]\n- Choi JH, Kim YB, Lim HY, et al.: 5-fluorouracil, mitomycin-C, and polysaccharide-K adjuvant chemoimmunotherapy for locally advanced gastric cancer: the prognostic significance of frequent perineural invasion. Hepatogastroenterology 54 (73): 290-7, 2007 Jan-Feb. [PUBMED Abstract]\n- Tanaka H, Muguruma K, Ohira M, et al.: Impact of adjuvant immunochemotherapy using protein-bound polysaccharide-K on overall survival of patients with gastric cancer. Anticancer Res 32 (8): 3427-33, 2012. [PUBMED Abstract]\n- Nakazato H, Koike A, Saji S, et al.: Efficacy of immunochemotherapy as adjuvant treatment after curative resection of gastric cancer. Study Group of Immunochemotherapy with PSK for Gastric Cancer. Lancet 343 (8906): 1122-6, 1994. [PUBMED Abstract]\n- Oba K, Teramukai S, Kobayashi M, et al.: Efficacy of adjuvant immunochemotherapy with polysaccharide K for patients with curative resections of gastric cancer. Cancer Immunol Immunother 56 (6): 905-11, 2007. [PUBMED Abstract]\n- Toge T, Yamaguchi Y: Protein-bound polysaccharide increases survival in resected gastric cancer cases stratified with a preoperative granulocyte and lymphocyte count. Oncol Rep 7 (5): 1157-61, 2000 Sep-Oct. [PUBMED Abstract]\n- Wong CK, Bao YX, Wong EL, et al.: Immunomodulatory activities of Yunzhi and Danshen in post-treatment breast cancer patients. Am J Chin Med 33 (3): 381-95, 2005. [PUBMED Abstract]\n- Torkelson CJ, Sweet E, Martzen MR, et al.: Phase 1 Clinical Trial of Trametes versicolor in Women with Breast Cancer. ISRN Oncol 2012: 251632, 2012. [PUBMED Abstract]\n- Yoshitani S, Takashima S: Efficacy of postoperative UFT (Tegafur/Uracil) plus PSK therapies in elderly patients with resected colorectal cancer. Cancer Biother Radiopharm 24 (1): 35-40, 2009. [PUBMED Abstract]\n- Sakai T, Yamashita Y, Maekawa T, et al.: Immunochemotherapy with PSK and fluoropyrimidines improves long-term prognosis for curatively resected colorectal cancer. Cancer Biother Radiopharm 23 (4): 461-7, 2008. [PUBMED Abstract]\n- Pilkington K, Wieland LS, Teng L, et al.: Coriolus (Trametes) versicolor mushroom to reduce adverse effects from chemotherapy or radiotherapy in people with colorectal cancer. Cochrane Database Syst Rev 11 (11): CD012053, 2022. [PUBMED Abstract]\n- Sakamoto J, Morita S, Oba K, et al.: Efficacy of adjuvant immunochemotherapy with polysaccharide K for patients with curatively resected colorectal cancer: a meta-analysis of centrally randomized controlled clinical trials. Cancer Immunol Immunother 55 (4): 404-11, 2006. [PUBMED Abstract]"
+        },
+        {
+          "section": "General Information",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Reishi (Ganoderma lucidum)",
+            "General Information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Ganoderma is a genus of woody polypore fungi which grow on live trees. In the Chinese Pharmacopeia, the official species are Ganoderma lucidum (Leyss. ex Fr.) P. Karst and Ganoderma sinense Zhao, Xu et Zhang. Another commonly encountered species is Ganoderma lingzhi Wu , Cao et Dai. In traditional Chinese medicine , the fungi are collectively known as Ling Zhi; in Japan, they are known as Reishi. In China, G. lucidum is known as Chizhi and G. sinense is known as Zizhi.\nRecent molecular taxonomic and chemical studies have made it clear that the originally described European species G. lucidum and the East Asian medicinal species are not identical.[ 1 - 5 ] The newly accepted name for the East Asian species traditionally called G. lucidum is Ganoderma sichuanense . However, most research worldwide has been published under the name G. lucidum . This includes the full genome sequence of G. lucidum .[ 6 ] There are many other species of Ganoderma , which are difficult to distinguish from the medicinal species.[ 5 ]"
+        },
+        {
+          "section": "History",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Reishi (Ganoderma lucidum)",
+            "History"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Ganoderma has a very long history in East Asia as a medicinal mushroom dating back to the Chinese materia medica “Shen Nung Ben Cao Jing,” written between 206 BC and 8 AD. It was considered a superior tonic for prolonging life, preventing aging, and boosting qi . It has been associated with royalty, perhaps due to its rarity in the wild. It was also revered in Japanese culture . It is used by contemporary Chinese physicians to support immune function in patients undergoing chemotherapy or radiation therapy for cancer , among other uses.[ 7 ] In some parts of the world (e.g., Shanghai), cancer patients commonly use supplements containing Ganoderma lucidum .[ 8 ] The development of improved Ganoderma products is currently under way using biotechnological processes.[ 9 ]"
+        },
+        {
+          "section": "Chemistry",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Reishi (Ganoderma lucidum)",
+            "Laboratory/Animal/Preclinical Studies",
+            "Chemistry"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Among the biologically active components of G. lucidum are triterpenoids, polysaccharides , lipids , and proteins .[ 10 - 12 ] Most laboratory research studies have utilized G. lucidum products obtained via any of several extraction processes, which produce products that contain a mixture of two or more of these molecular species. This lack of purity of the products under study may account for some of the overlap of biological activities attributed to the individual components.\nThe best-studied Ganoderma polysaccharides possess mostly 1,3- and 1,4-glycosidic linkages, which are of high molecular weight .[ 10 ] Beta-glucans are known to bind to the complement receptor CR3.[ 13 ] The activity is considered to be immunomodulatory in nature, similar to many other medicinal fungi. It has recently been pointed out that Ganoderma products derived from mycelium grown on different grain substrates contain large amounts of alpha-glucans derived from the substrate, compared with the fruiting body and its extracts , which are entirely beta-glucan in nature.[ 14 ]\nMany Ganoderma species produce large amounts of oxidized lanostane triterpenes in a complex mixture. Ganoderma triterpenes are unique to the genus. Some G. lucidum triterpenes have been found to inhibit cancer cell line growth, although many of the major triterpenes are relatively weak inhibitors or inactive.[ 15 - 17 ] Analytical studies have examined the relative amounts of the different triterpenes in fruiting bodies, as well as in mycelial preparations.[ 18 , 19 ] The mammalian metabolism of the triterpenes has been studied singly and in combination, with numerous sites of metabolism identified.[ 20 ]"
+        },
+        {
+          "section": "In vitro studies",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Reishi (Ganoderma lucidum)",
+            "Laboratory/Animal/Preclinical Studies",
+            "In vitro studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Several G. lucidum -derived products have been studied in preclinical models and reported to produce anticancer effects. Both triterpenoids and polysaccharides cause cell growth arrest and cytotoxicity.[ 21 - 30 ] Studies of the cellular pathway by which G. lucidum triterpenoids produce cytotoxicity have generally implicated apoptosis pathways, both the intrinsic or mitochondrial pathway [ 21 , 23 - 25 , 27 ] and the extrinsic or death receptor pathway.[ 29 ] Triterpenoids also inhibit adhesion and migration of malignant cells.[ 22 , 31 , 32 ] The lipid and protein components of G. lucidum have been less studied but also have demonstrated in vitro cytotoxicity.[ 33 , 34 ]\nPolysaccharides from G. lucidum have been shown to induce dendritic cell maturation, thus raising the possibility that these products might support or elicit immune-mediated anticancer actions.[ 35 ]\nOther potential mechanisms of anticancer activity have been demonstrated, including reports of the induction of differentiation of neuroblastoma cells in vitro [ 36 ] and the inhibition of cellular secretion of factors associated with tumor -induced angiogenesis , such as vascular endothelial growth factor (VEGF) and transforming growth factor (TGF)-beta.[ 37 ]\nGanoderenic acid B, a G. lucidum derived triterpene, has been shown to enhance the cytotoxicity of chemotherapeutic agents in a drug-resistant cell line of hepatocellular carcinoma by inhibiting the transport function of the adenosine triphosphate (ATP)-binding cassette (ABC) superfamily transporters.[ 38 ] This finding led the investigators to conclude that ganoderenic acid B may have the potential to be developed into a multidrug resistance reversal agent."
+        },
+        {
+          "section": "In vivo studies",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Reishi (Ganoderma lucidum)",
+            "Laboratory/Animal/Preclinical Studies",
+            "In vivo studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Relatively few studies have explored the in vivo effects of G. lucidum in animal models , but those available have shown antitumor activity of triterpenoids in mice bearing Lewis lung carcinoma [ 39 ] and antitumor effects of polysaccharides in mice bearing S180 cells [ 40 ] and Ehrlich ascites cells.[ 41 ]"
+        },
+        {
+          "section": "Mechanistic studies",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Reishi (Ganoderma lucidum)",
+            "Human Studies",
+            "Lung cancer",
+            "Mechanistic studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "There are no studies of G. lucidum with measured cancer outcomes. Building on the preclinical evidence that the polysaccharide fractions of G. lucidum enhance host immune function and have potential antitumor activity, investigators studied an over-the-counter product in patients with advanced stage lung cancer .[ 42 ] Patients received Ganopoly, an aqueous polysaccharide fraction extracted from G. lucidum fruiting bodies. In an open-label trial, 36 patients with advanced lung cancer at a hospital in China, enrolled and 30 were accessible for immune function after 12 weeks. The patients were treated with chemotherapy or radiation therapy, and other complementary therapies . Ganopoly was administered as 1,800 mg capsules 3 times daily before meals for 12 weeks. Treatment did not significantly alter the mean mitogenic reactivity to phytohemagglutinin ; mean counts of lymphocyte subsets CD3, CD4, CD8, and CD56; mean plasma concentrations on interleukin-2 , interleukin-6 , or interferon-gamma; or natural killer cell activity ( P > .05). The investigators noted that some patients did experience some significant changes in the parameters studied, but the group effect was null overall.\nAnother mechanistic study in China investigated whether G. lucidum polysaccharides could counteract the immune suppression mediated by the plasma of patients with lung cancer.[ 43 ] It is postulated that cancer cells release immunosuppressive mediators such as PGE2, TGF-beta, IL-10 , and VEGF to inhibit the immune response and escape from immune surveillance . G. lucidum polysaccharides had been shown to counteract this immune suppression in an animal cell culture model; therefore, this experiment was undertaken to evaluate whether the effect could be duplicated in humans. Blood was obtained from 12 lung cancer patients. The G. lucidum polysaccharides were isolated from a boiling water extract of G. lucidum fruit bodies by ethanol precipitation. CD69 expression on mononuclear lymphocytes after phytohemagglutinin stimulation was inhibited markedly compared with controls ( P = .05) after a 24-hour incubation with lung cancer patient plasma. G. lucidum polysaccharides at concentrations of 3.2 μg/mL and 12.8 µg/mL significantly antagonized this inhibition ( P < .05 for both). Similar results were observed with additional assays leading the investigators to conclude that lung cancer patient plasma-induced suppression of lymphocyte activation by phytohemagglutinin may be fully or partially antagonized by G. lucidum polysaccharides, making them an attractive adjuvant in cancer treatment."
+        },
+        {
+          "section": "Prevention",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Reishi (Ganoderma lucidum)",
+            "Human Studies",
+            "Colorectal cancer",
+            "Prevention"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Japanese investigators studied a water- soluble extract from a cultured medium of G. lucidum mycelia (MAK) in patients with colorectal adenomas .[ 44 ] After being diagnosed with colorectal adenomas on colonoscopy , 123 patients were enrolled in the MAK treatment group, and 102 no-treatment controls were randomly selected from the department’s patients. The treatment group was administered 1.5 g/d of MAK for 12 months. Both groups underwent repeat colonoscopy at 12 months. The change in the number of adenomas was +0.66 +/- 0.10 in the control group and -0.42 +/- 0.10 in the treated group ( P < .01). The total size of adenomas increased by 1.73 +/- 0.28 mm in the control group and decreased by -1.40 +/- 0.64 mm in the MAK group ( P < .01). These results suggest that MAK may suppress the development of premalignant colorectal adenomas."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Reishi (Ganoderma lucidum)",
+            "Human Studies",
+            "Colorectal cancer",
+            "Prevention",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 44,
+          "text": "- Raja HA, Baker TR, Little JG, et al.: DNA barcoding for identification of consumer-relevant mushrooms: A partial solution for product certification? Food Chem 214: 383-92, 2017. [PUBMED Abstract]\n- Hennicke F, Cheikh-Ali Z, Liebisch T, et al.: Distinguishing commercially grown Ganoderma lucidum from Ganoderma lingzhi from Europe and East Asia on the basis of morphology, molecular phylogeny, and triterpenic acid profiles. Phytochemistry 127: 29-37, 2016. [PUBMED Abstract]\n- Zhang X, Xu Z, Pei H, et al.: Intraspecific Variation and Phylogenetic Relationships Are Revealed by ITS1 Secondary Structure Analysis and Single-Nucleotide Polymorphism in Ganoderma lucidum. PLoS One 12 (1): e0169042, 2017. [PUBMED Abstract]\n- Liao B, Chen X, Han J, et al.: Identification of commercial Ganoderma (Lingzhi) species by ITS2 sequences. Chin Med 10: 22, 2015. [PUBMED Abstract]\n- Hong SG, Jung HS: Phylogenetic analysis of Ganoderma based on nearly complete mitochondrial small-subunit ribosomal DNA sequences. Mycologia 96 (4): 742-55, 2004 Jul-Aug. [PUBMED Abstract]\n- Chen S, Xu J, Liu C, et al.: Genome sequence of the model medicinal mushroom Ganoderma lucidum. Nat Commun 3: 913, 2012. [PUBMED Abstract]\n- Upton R, ed.: Reishi Mushroom: Ganoderma Lucidum: Standards of Analysis, Quality Control, and Therapeutics. American Herbal Pharmacopoeia, 2000.\n- Bao PP, Lu W, Cui Y, et al.: Ginseng and Ganoderma lucidum use after breast cancer diagnosis and quality of life: a report from the Shanghai Breast Cancer Survival Study. PLoS One 7 (6): e39343, 2012. [PUBMED Abstract]\n- Boh B: Ganoderma lucidum: a potential for biotechnological production of anti-cancer and immunomodulatory drugs. Recent Pat Anticancer Drug Discov 8 (3): 255-87, 2013. [PUBMED Abstract]\n- Ferreira IC, Heleno SA, Reis FS, et al.: Chemical features of Ganoderma polysaccharides with antioxidant, antitumor and antimicrobial activities. Phytochemistry 114: 38-55, 2015. [PUBMED Abstract]\n- Baby S, Johnson AJ, Govindan B: Secondary metabolites from Ganoderma. Phytochemistry 114: 66-101, 2015. [PUBMED Abstract]\n- Xia Q, Zhang H, Sun X, et al.: A comprehensive review of the structure elucidation and biological activity of triterpenoids from Ganoderma spp. Molecules 19 (11): 17478-535, 2014. [PUBMED Abstract]\n- Yan J, Vetvicka V, Xia Y, et al.: Beta-glucan, a \"specific\" biologic response modifier that uses antibodies to target tumors for cytotoxic recognition by leukocyte complement receptor type 3 (CD11b/CD18). J Immunol 163 (6): 3045-52, 1999. [PUBMED Abstract]\n- Chilton J: A new analytical fingerprinting system for quality control of medicinal mushroom products. In: Baars JJP, Sonnenberg ASM, eds.: Science and Cultivation of Edible and Medicinal Fungi: Mushroom Science XIX. Proceedings of the 19th Congress of the International Society for Mushroom Science. International Society for Mushroom Science, 2016, pp 267-71. Also available online . Last accessed April 24, 2017.\n- Cheng CR, Yue QX, Wu ZY, et al.: Cytotoxic triterpenoids from Ganoderma lucidum. Phytochemistry 71 (13): 1579-85, 2010. [PUBMED Abstract]\n- Wu GS, Guo JJ, Bao JL, et al.: Anti-cancer properties of triterpenoids isolated from Ganoderma lucidum - a review. Expert Opin Investig Drugs 22 (8): 981-92, 2013. [PUBMED Abstract]\n- Chen S, Li X, Yong T, et al.: Cytotoxic lanostane-type triterpenoids from the fruiting bodies of Ganoderma lucidum and their structure-activity relationships. Oncotarget 8 (6): 10071-10084, 2017. [PUBMED Abstract]\n- Da J, Cheng CR, Yao S, et al.: A reproducible analytical system based on the multi-component analysis of triterpene acids in Ganoderma lucidum. Phytochemistry 114: 146-54, 2015. [PUBMED Abstract]\n- Qi Y, Zhao L, Sun HH: Development of a rapid and confirmatory method to identify ganoderic acids in ganoderma mushrooms. Front Pharmacol 3: 85, 2012. [PUBMED Abstract]\n- Cheng CR, Yang M, Yu K, et al.: Metabolite identification of crude extract from Ganoderma lucidum in rats using ultra-performance liquid chromatography-quadrupole time-of-flight mass spectrometry. J Chromatogr B Analyt Technol Biomed Life Sci 941: 90-9, 2013. [PUBMED Abstract]\n- Shang D, Li Y, Wang C, et al.: A novel polysaccharide from Se-enriched Ganoderma lucidum induces apoptosis of human breast cancer cells. Oncol Rep 25 (1): 267-72, 2011. [PUBMED Abstract]\n- Jiang J, Grieb B, Thyagarajan A, et al.: Ganoderic acids suppress growth and invasive behavior of breast cancer cells by modulating AP-1 and NF-kappaB signaling. Int J Mol Med 21 (5): 577-84, 2008. [PUBMED Abstract]\n- Liu RM, Zhong JJ: Ganoderic acid Mf and S induce mitochondria mediated apoptosis in human cervical carcinoma HeLa cells. Phytomedicine 18 (5): 349-55, 2011. [PUBMED Abstract]\n- Liang ZE, Yi YJ, Guo YT, et al.: Inhibition of migration and induction of apoptosis in LoVo human colon cancer cells by polysaccharides from Ganoderma lucidum. Mol Med Rep 12 (5): 7629-36, 2015. [PUBMED Abstract]\n- Liang Z, Yi Y, Guo Y, et al.: Chemical characterization and antitumor activities of polysaccharide extracted from Ganoderma lucidum. Int J Mol Sci 15 (5): 9103-16, 2014. [PUBMED Abstract]\n- Hsieh TC, Wu JM: Regulation of cell cycle transition and induction of apoptosis in HL-60 leukemia cells by the combination of Coriolus versicolor and Ganoderma lucidum. Int J Mol Med 32 (1): 251-7, 2013. [PUBMED Abstract]\n- Hsu CL, Yu YS, Yen GC: Lucidenic acid B induces apoptosis in human leukemia cells via a mitochondria-mediated pathway. J Agric Food Chem 56 (11): 3973-80, 2008. [PUBMED Abstract]\n- Ruan W, Wei Y, Popovich DG: Distinct Responses of Cytotoxic Ganoderma lucidum Triterpenoids in Human Carcinoma Cells. Phytother Res 29 (11): 1744-52, 2015. [PUBMED Abstract]\n- Zaidman BZ, Wasser SP, Nevo E, et al.: Androgen receptor-dependent and -independent mechanisms mediate Ganoderma lucidum activities in LNCaP prostate cancer cells. Int J Oncol 31 (4): 959-67, 2007. [PUBMED Abstract]\n- Wang T, Xie ZP, Huang ZS, et al.: Total triterpenoids from Ganoderma Lucidum suppresses prostate cancer cell growth by inducing growth arrest and apoptosis. J Huazhong Univ Sci Technolog Med Sci 35 (5): 736-41, 2015. [PUBMED Abstract]\n- Wu GS, Song YL, Yin ZQ, et al.: Ganoderiol A-enriched extract suppresses migration and adhesion of MDA-MB-231 cells by inhibiting FAK-SRC-paxillin cascade pathway. PLoS One 8 (10): e76620, 2013. [PUBMED Abstract]\n- Weng CJ, Chau CF, Hsieh YS, et al.: Lucidenic acid inhibits PMA-induced invasion of human hepatoma cells through inactivating MAPK/ERK signal transduction pathway and reducing binding activities of NF-kappaB and AP-1. Carcinogenesis 29 (1): 147-56, 2008. [PUBMED Abstract]\n- Liang C, Li H, Zhou H, et al.: Recombinant Lz-8 from Ganoderma lucidum induces endoplasmic reticulum stress-mediated autophagic cell death in SGC-7901 human gastric cancer cells. Oncol Rep 27 (4): 1079-89, 2012. [PUBMED Abstract]\n- Wang JH, Zhou YJ, Zhang M, et al.: Active lipids of Ganoderma lucidum spores-induced apoptosis in human leukemia THP-1 cells via MAPK and PI3K pathways. J Ethnopharmacol 139 (2): 582-9, 2012. [PUBMED Abstract]\n- Chan WK, Cheung CC, Law HK, et al.: Ganoderma lucidum polysaccharides can induce human monocytic leukemia cells into dendritic cells with immuno-stimulatory function. J Hematol Oncol 1: 9, 2008. [PUBMED Abstract]\n- Pinweha S, Wanikiat P, Sanvarinda Y, et al.: The signaling cascades of Ganoderma lucidum extracts in stimulating non-amyloidogenic protein secretion in human neuroblastoma SH-SY5Y cell lines. Neurosci Lett 448 (1): 62-6, 2008. [PUBMED Abstract]\n- Stanley G, Harvey K, Slivova V, et al.: Ganoderma lucidum suppresses angiogenesis through the inhibition of secretion of VEGF and TGF-beta1 from prostate cancer cells. Biochem Biophys Res Commun 330 (1): 46-52, 2005. [PUBMED Abstract]\n- Liu DL, Li YJ, Yang DH, et al.: Ganoderma lucidum derived ganoderenic acid B reverses ABCB1-mediated multidrug resistance in HepG2/ADM cells. Int J Oncol 46 (5): 2029-38, 2015. [PUBMED Abstract]\n- Qu D, He J, Liu C, et al.: Triterpene-loaded microemulsion using Coix lacryma-jobi seed extract as oil phase for enhanced antitumor efficacy: preparation and in vivo evaluation. Int J Nanomedicine 9: 109-19, 2014. [PUBMED Abstract]\n- Li YB, Wang R, Wu HL, et al.: Serum amyloid A mediates the inhibitory effect of Ganoderma lucidum polysaccharides on tumor cell adhesion to endothelial cells. Oncol Rep 20 (3): 549-56, 2008. [PUBMED Abstract]\n- Joseph S, Sabulal B, George V, et al.: Antitumor and anti-inflammatory activities of polysaccharides isolated from Ganoderma lucidum. Acta Pharm 61 (3): 335-42, 2011. [PUBMED Abstract]\n- Gao Y, Tang W, Dai X, et al.: Effects of water-soluble Ganoderma lucidum polysaccharides on the immune functions of patients with advanced lung cancer. J Med Food 8 (2): 159-68, 2005. [PUBMED Abstract]\n- Sun LX, Li WD, Lin ZB, et al.: Protection against lung cancer patient plasma-induced lymphocyte suppression by Ganoderma lucidum polysaccharides. Cell Physiol Biochem 33 (2): 289-99, 2014. [PUBMED Abstract]\n- Oka S, Tanaka S, Yoshida S, et al.: A water-soluble extract from culture medium of Ganoderma lucidum mycelia suppresses the development of colorectal adenomas. Hiroshima J Med Sci 59 (1): 1-6, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Summary of the Evidence for Medicinal Mushrooms",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Summary of the Evidence for Medicinal Mushrooms"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "To assist readers in evaluating the results of human studies of integrative, alternative, and complementary therapies for cancer , the strength of the evidence (i.e., the levels of evidence ) associated with each type of treatment is provided whenever possible. To qualify for a level of evidence analysis , a study must:\n- Be published in a peer-reviewed scientific journal .\n- Report on a therapeutic outcome or outcomes, such as tumor response , improvement in survival, or measured improvement in quality of life .\n- Describe clinical findings in sufficient detail that a meaningful evaluation can be made.\nSeparate levels of evidence scores are assigned to qualifying human studies on the basis of statistical strength of the study design and scientific strength of the treatment outcomes (i.e., endpoints ) measured. The resulting two scores are then combined to produce an overall score. For an explanation of the scores and additional information about levels of evidence analysis of integrative, alternative, and complementary therapies for cancer, see Levels of Evidence for Human Studies of Integrative, Alternative, and Complementary Therapies ."
+        },
+        {
+          "section": "Latest Updates to This Summary (11/06/2024)",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (11/06/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the use of medicinal mushrooms in the treatment of people with cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 7,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Integrative, Alternative, and Complementary Therapies Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Integrative, Alternative, and Complementary Therapies Editorial Board. PDQ Medicinal Mushrooms. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/treatment/cam/hp/mushrooms-pdq . Accessed <MM/DD/YYYY>. [PMID: 27929633]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\4c8cfaaf3673300057d7.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "integrative_therapies"
+      ],
+      "topic": "integrative_therapies",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Medicinal Mushrooms (PDQ®)–Patient Version",
+      "summary_name": "Medicinal Mushrooms",
+      "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/mushrooms-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "July 11, 2024",
+      "retrieved_at": "2026-08-31T07:07:41.911016+00:00",
+      "content_sha256": "62daaa21178e6ec8197f55e6e7f109be60c16d056323808cb9fbecb0118490f1",
+      "section_count": 14,
+      "sections": [
+        {
+          "section": "Introduction",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "Introduction"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Medicinal mushrooms are mushrooms that are used as medicine . They have been used to treat infection for hundreds of years, mostly in Asia. Today, medicinal mushrooms are also used to treat lung diseases and cancer . For more than 30 years, medicinal mushrooms have been approved as an addition to standard cancer treatments in Japan and China. In these countries, mushrooms have been used safely for a long time, either alone or combined with radiation or chemotherapy .\nIn Asia, there are more than 100 types of mushrooms used to treat cancer. Some of the more common ones are Ganoderma lucidum (reishi), Trametes versicolor or Coriolus versicolor (turkey tail), Lentinus edodes (shiitake), and Grifola frondosa (maitake).\nMushrooms are being studied to find out how they affect the immune system and if they stop or slow the growth of tumors or kill tumor cells . It is thought that certain chemical compounds , such as polysaccharides ( beta-glucans ) in turkey tail mushrooms, strengthen the immune system to fight cancer.\nThis summary gives an overview of the use of medicinal mushrooms in treating cancer. The following information is given for Trametes versicolor , also called Coriolus versicolor (turkey tail), and Ganoderma lucidum (reishi):\n- How it is given or taken.\n- Reviews of laboratory and animal studies .\n- Results of clinical trials (studies in humans).\n- Side effects .\n- U.S. Food and Drug Administration (FDA) information."
+        },
+        {
+          "section": "Questions and Answers About Turkey Tail and Polysaccharide-K (PSK)",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "Questions and Answers About Turkey Tail and Polysaccharide-K (PSK)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "- What is turkey tail? Turkey tail is a type of mushroom that grows on dead logs worldwide. It's named turkey tail because its rings of brown and tan look like the tail feathers of a turkey. Its scientific name is Trametes versicolor or Coriolus versicolor . In traditional Chinese medicine , it is known as Yun Zhi. In Japan, it is known as kawaratake (roof tile fungus ). There are many other types of Trametes mushrooms. It can be hard to tell the difference between turkey tail and other types of Trametes mushrooms without the use of special testing. Turkey tail has been used in traditional Chinese medicine to treat lung diseases for many years. In Japan, turkey tail has been used to strengthen the immune system when given with standard cancer treatment.\n- What is PSK? Polysaccharide K (PSK) is the best known active compound in turkey tail mushrooms. In Japan, PSK is an approved mushroom product used to treat cancer.\n- How is PSK given or taken? PSK can be taken as a tea or in capsule form.\n- Have any laboratory or animal studies been done using PSK? In laboratory studies , tumor cells are used to test a substance to find out if it is likely to have any anticancer effects. In animal studies , tests are done to see if a drug , procedure, or treatment is safe and effective in animals. Laboratory and animal studies are done before a substance is tested in people. Laboratory and animal studies have tested the effects of PSK on the immune system, including immune cells called natural killer cells and T-cells . For more information on laboratory and animal studies done using PSK, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Medicinal Mushrooms.\n- Have any studies of PSK been done in people? PSK has been studied in patients with gastric cancer , breast cancer , colorectal cancer , and lung cancer . It has been used as adjuvant therapy in thousands of cancer patients since the mid-1970s. PSK has been safely used in people for a long time in Japan and few side effects have been reported. Gastric cancer Studies show that the use of PSK as adjuvant therapy in patients with gastric (stomach) cancer may help repair immune cell damage caused by chemotherapy and strengthen the immune system. Studies of PSK as adjuvant therapy for gastric cancer include the following: Breast cancer To date, PSK studies in patients with breast cancer have focused on changes in the immune system (T-cell and B-cell levels in the blood) rather than on clinical results (patient survival, symptoms , side effects, and quality of life ). Colorectal cancer Studies of PSK as adjuvant therapy for colorectal cancer include the following: Lung cancer Studies of PSK as adjuvant therapy for patients with lung cancer include the following:\n- A randomized clinical trial in Japan done between 1978 and 1981 included 751 patients who had surgery for gastric cancer. After surgery, patients received chemotherapy with or without PSK. On average, the patients who received chemotherapy and PSK lived longer than those who received chemotherapy alone. The researchers believe it might be possible to predict which patients would benefit the most from PSK depending on the numbers of granulocytes and lymphocytes in the patient’s blood .\n- In 1994, a study in Japan followed 262 patients who had successful surgery for gastric cancer and were given chemotherapy with or without PSK. Patients who received chemotherapy and PSK were less likely to have recurrent cancer and lived longer than those who did not. Treatment with PSK caused few side effects. The researchers thought the study showed that PSK and chemotherapy should be given to gastric cancer patients after surgery to remove the cancer.\n- A review published in 2007 combined results from 8 randomized controlled trials in 8,009 patients who had surgery to remove gastric cancers. After surgery, patients in the trials were given chemotherapy with or without PSK. The results suggest that receiving chemotherapy and PSK helped patients live longer after surgery.\n- PSK was studied in a randomized clinical trial for its effect on the immune system in patients with stage II or stage III rectal cancer . Patients received chemotherapy and radiation therapy, with or without PSK. This study found that PSK increased the number of cancer-killing immune cells and had anticancer effects in tissue that received radiation therapy.\n- A review that combined results from 3 studies in 1,094 patients with colorectal cancer found that patients who received PSK were less likely to have recurrent cancer and lived longer than those who did not.\n- Two groups from Japan studied patients with colorectal cancer who received adjuvant chemotherapy with or without PSK after surgery. In the first study, patients who were treated with both chemotherapy and PSK had markedly better 10-year survival rates. In the second study of patients who were older than 70 years, 3-year survival rates were markedly higher in the group treated with both chemotherapy and PSK.\n- Five nonrandomized clinical trials reported that patients treated with PSK and radiation therapy with or without chemotherapy lived longer.\n- Six randomized clinical trials in patients with lung cancer studied chemotherapy with or without PSK. The studies showed that patients who received PSK improved in one or more ways, including immune function , body weight, well-being, tumor-related symptoms, or longer survival.\n- Have any side effects or risks been reported from turkey tail or PSK? There have been few side effects reported in studies of PSK in Japan.\n- Is turkey tail or PSK approved by the FDA for use as a cancer treatment in the United States? The FDA has not approved the use of turkey tail or its active compound PSK as a treatment for cancer or any other medical condition . The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of mushroom supplements may not be the same."
+        },
+        {
+          "section": "Questions and Answers About Reishi",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "Questions and Answers About Reishi"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- What is reishi? Reishi is a type of mushroom that grows on live trees. Scientists may call it either Ganoderma lucidum or Ganoderma sinense . In traditional Chinese medicine , this group of mushrooms is known as Ling Zhi. In Japan, they are known as Reishi. In China, G. lucidum is known as Chizhi and G. sinense is known as Zizhi. There are many other types of Ganoderma mushrooms and it is hard to tell the medicinal mushrooms from the other types. Reishi has been used as medicine for a very long time in East Asia. It was thought to prolong life, prevent aging, and increase energy. In China, it is being used to strengthen the immune system of cancer patients who receive chemotherapy or radiation therapy .\n- How is reishi given or taken? Reishi is usually dried and taken as an extract in the form of a liquid, capsule , or powder.\n- Have any laboratory or animal studies been conducted using reishi? In laboratory studies , tumor cells are used to test a new substance and find out if it is likely to have any anticancer effects. In animal studies , tests are done to see if a drug , procedure, or treatment is safe and effective in animals. Laboratory and animal studies are done before a substance is tested in people. Laboratory and animal studies have tested the effects of the active ingredients in reishi mushrooms, triterpenoids and polysaccharides , on tumors, including lung cancer . For information on laboratory and animal studies done using reishi, see the Laboratory/Animal/Preclinical Studies section of the health professional version of Medicinal Mushrooms.\n- Have any studies of reishi mushrooms been done in people? Studies using products made from reishi have been done in China and Japan. Lung cancer Studies suggest that the use of products made from reishi as adjuvant therapy may help strengthen the immune system in patients with lung cancer. Studies in patients with lung cancer include the following: Colorectal cancer The following study looked at reishi for the prevention of colorectal cancer:\n- In an open-label trial done in China, 36 patients with advanced lung cancer were given an over-the-counter product made from reishi called Ganopoly. The patients were being treated with chemotherapy or radiation therapy, along with other complementary therapies. Some patients had marked changes in the immune responses being studied, such as lymphocyte count and natural killer cell activity, and some patients had no change in immune response.\n- In China, a study was done with 12 lung cancer patients. Their blood was tested to see if taking a product made from reishi could help improve immune response. The study found that the polysaccharides in reishi mushrooms may help cancer-fighting immune cells, called lymphocytes, stay active.\n- In Japan, 225 patients with benign colorectal tumors were studied. For 12 months, 123 of the patients were given an extract of the mushroom G. lucidum mycelia (MAK), while 102 patients did not receive treatment with MAK. At 12 months, a follow-up colonoscopy was done on all the patients. The number and the size of the tumors decreased in the group that received MAK, but not in the group that did not receive MAK. The researchers suggest that MAK may help stop benign colorectal tumors from forming.\n- Is reishi approved by the FDA for use as a cancer treatment in the United States? The FDA has not approved the use of reishi as a treatment for cancer or any other medical condition . The FDA regulates dietary supplements separately from foods, cosmetics, and drugs. The FDA's Good Manufacturing Practices require that every finished batch of supplements is safe and that the claims on the label are true and do not mislead the consumer. However, the FDA does not regularly review the way that supplements are made, so all batches and brands of mushroom supplements may not be the same."
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the use of medicinal mushrooms in the treatment of people with cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Integrative, Alternative, and Complementary Therapies Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Integrative, Alternative, and Complementary Therapies Editorial Board. PDQ Medicinal Mushrooms. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/treatment/cam/patient/mushrooms-pdq . Accessed <MM/DD/YYYY>. [PMID: 28267306]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        },
+        {
+          "section": "General CAM Information",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "General CAM Information"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Complementary and alternative medicine (CAM)—also called integrative medicine—includes a broad range of healing philosophies, approaches, and therapies. A therapy is generally called complementary when it is used in addition to conventional treatments; it is often called alternative when it is used instead of conventional treatment. (Conventional treatments are those that are widely accepted and practiced by the mainstream medical community.) Depending on how they are used, some therapies can be considered either complementary or alternative. Complementary and alternative therapies are used in an effort to prevent illness, reduce stress, prevent or reduce side effects and symptoms, or control or cure disease.\nUnlike conventional treatments for cancer, complementary and alternative therapies are often not covered by insurance companies. Patients should check with their insurance provider to find out about coverage for complementary and alternative therapies.\nCancer patients considering complementary and alternative therapies should discuss this decision with their doctor, nurse, or pharmacist as they would any type of treatment. Some complementary and alternative therapies may affect their standard treatment or may be harmful when used with conventional treatment."
+        },
+        {
+          "section": "Evaluation of CAM Therapies",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "Evaluation of CAM Therapies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "It is important that the same scientific methods used to test conventional therapies are used to test CAM therapies. The National Cancer Institute and the National Center for Complementary and Integrative Health (NCCIH) are sponsoring a number of clinical trials (research studies) at medical centers to test CAM therapies for use in cancer.\nConventional approaches to cancer treatment have generally been studied for safety and effectiveness through a scientific process that includes clinical trials with large numbers of patients. Less is known about the safety and effectiveness of complementary and alternative methods. Few CAM therapies have been tested using demanding scientific methods. A small number of CAM therapies that were thought to be purely alternative approaches are now being used in cancer treatment—not as cures, but as complementary therapies that may help patients feel better and recover faster. One example is acupuncture. According to a panel of experts at a National Institutes of Health (NIH) meeting in November 1997, acupuncture has been found to help control nausea and vomiting caused by chemotherapy and pain related to surgery. However, some approaches, such as the use of laetrile, have been studied and found not to work and to possibly cause harm.\nThe NCI Best Case Series Program which was started in 1991, is one way CAM approaches that are being used in practice are being studied. The program is overseen by the NCI’s Office of Cancer Complementary and Alternative Medicine (OCCAM). Health care professionals who offer alternative cancer therapies submit their patients’ medical records and related materials to OCCAM. OCCAM carefully reviews these materials to see if any seem worth further research."
+        },
+        {
+          "section": "Questions to Ask Your Health Care Provider About CAM",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "Questions to Ask Your Health Care Provider About CAM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "When considering complementary and alternative therapies, patients should ask their health care provider the following questions:\n- What side effects can be expected?\n- What are the risks related to this therapy?\n- What benefits can be expected from this therapy?\n- Do the known benefits outweigh the risks?\n- Will the therapy affect conventional treatment?\n- Is this therapy part of a clinical trial?\n- If so, who is the sponsor of the trial?\n- Will the therapy be covered by health insurance?"
+        },
+        {
+          "section": "To Learn More About CAM",
+          "section_path": [
+            "Medicinal Mushrooms (PDQ®)–Patient Version",
+            "To Learn More About CAM"
+          ],
+          "is_boilerplate": false,
+          "block_count": 32,
+          "text": "National Center for Complementary and Integrative Health (NCCIH)\nThe National Center for Complementary and Integrative Health (NCCIH) at the National Institutes of Health (NIH) facilitates research and evaluation of complementary and alternative practices, and provides information about a variety of approaches to health professionals and the public.\n- NCCIH Clearinghouse\n- Post Office Box 7923 Gaithersburg, MD 20898–7923\n- Telephone: 1-888-644-6226 (toll free)\n- TTY (for deaf and hard of hearing callers): 1-866-464-3615\n- E-mail: info@nccih.nih.gov\n- Website: https://nccih.nih.gov\nCAM on PubMed\nNCCIH and the NIH National Library of Medicine (NLM) jointly developed CAM on PubMed , a free and easy-to-use search tool for finding CAM-related journal citations. As a subset of the NLM's PubMed bibliographic database, CAM on PubMed features more than 230,000 references and abstracts for CAM-related articles from scientific journals. This database also provides links to the websites of over 1,800 journals, allowing users to view full-text articles. (A subscription or other fee may be required to access full-text articles.)\nOffice of Cancer Complementary and Alternative Medicine\nThe NCI Office of Cancer Complementary and Alternative Medicine (OCCAM) coordinates the activities of the NCI in the area of complementary and alternative medicine (CAM). OCCAM supports CAM cancer research and provides information about cancer-related CAM to health providers and the general public via the NCI website .\nNational Cancer Institute (NCI) Cancer Information Service\nU.S. residents may call the Cancer Information Service (CIS), NCI's contact center, toll free at 1-800-4-CANCER (1-800-422-6237) Monday through Friday from 9:00 am to 9:00 pm. A trained Cancer Information Specialist is available to answer your questions.\nFood and Drug Administration\nThe Food and Drug Administration (FDA) regulates drugs and medical devices to ensure that they are safe and effective.\n- Food and Drug Administration\n- 10903 New Hampshire Avenue\n- Silver Spring, MD 20993\n- Telephone: 1-888-463-6332 (toll free)\n- Website: http://www.fda.gov\nFederal Trade Commission\nThe Federal Trade Commission (FTC) enforces consumer protection laws. Publications available from the FTC include:\n- Who Cares: Sources of Information About Health Care Products and Services\n- Fraudulent Health Claims: Don’t Be Fooled\n- Consumer Response Center\n- Federal Trade Commission\n- 600 Pennsylvania Avenue, NW\n- Washington, DC 20580\n- Telephone: 1-877-FTC-HELP (1-877-382-4357) (toll free)\n- TTY (for deaf and hard of hearing callers): 202-326-2502\n- Website: http://www.ftc.gov"
+        }
+      ],
+      "raw_html_file": "raw_html\\d3dad898c14fbb817590.html"
+    }
+  ]
+}

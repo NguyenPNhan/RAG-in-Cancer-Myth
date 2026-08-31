@@ -1,0 +1,961 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Vaginal Cancer",
+  "generated_at": "2026-08-31T07:15:23.577312+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Vaginal Cancer",
+      "title": "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Vaginal Cancer Treatment",
+      "url": "https://www.cancer.gov/types/vaginal/hp/vaginal-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "April 3, 2025",
+      "retrieved_at": "2026-08-31T07:15:19.555151+00:00",
+      "content_sha256": "a34e0285c25eedb9cebc6fbc0ee62474f7ea5bc53bb2ac1dcf3b134fa7df74ef",
+      "section_count": 40,
+      "sections": [
+        {
+          "section": "General Information About Vaginal Cancer",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Vaginal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Carcinomas of the vagina are uncommon tumors comprising about 2% of the cancers that arise in the female genital system.[ 1 ] Squamous cell carcinoma (SCC) accounts for approximately 80% to 90% of vaginal cancer cases and adenocarcinoma accounts for 5% to 10% of vaginal cancer cases.[ 1 ]\nRarely, melanomas (often nonpigmented), sarcomas, small-cell carcinomas, lymphomas, or carcinoid tumors have been described as primary vaginal cancers. The natural history, prognosis, and treatment of other primary vaginal cancers are different and are not covered in this summary.\nDistant hematogenous metastases occur most commonly in the lungs, and, less frequently, in the liver, bone, or other sites.[ 1 ]\nThe American Joint Committee on Cancer staging system classifies tumors in the vagina that involve the cervix of women with an intact uterus as cervical cancers.[ 2 ] Therefore, tumors that originated in the apical vagina but extend to the cervix are classified as cervical cancers. For more information, see Cervical Cancer Treatment ."
+        },
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Vaginal Cancer",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Estimated new cases and deaths from vaginal and other female genital cancer in the United States in 2025:[ 3 ]\n- New cases: 8,070.\n- Deaths: 1,950."
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Vaginal Cancer",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Enlarge Normal female reproductive system anatomy."
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Vaginal Cancer",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Increasing age is the most important risk factor for most cancers. Other risk factors for vaginal cancer include:\n- Human papillomavirus (HPV) infection. SCC of the vagina is associated with a high rate of infection with oncogenic strains of HPV. SCC of the vagina and SCC of the cervix have many common risk factors.[ 4 - 6 ] HPV infection has also been described in a case of vaginal adenocarcinoma.[ 6 ] For more information, see Cervical Cancer Treatment .\n- Diethylstilbestrol (DES) exposure in utero . A rare form of adenocarcinoma, known as clear cell carcinoma, occurs in association with in utero exposure to DES, with a peak incidence before age 30 years. This association was first reported in 1971.[ 7 ] The incidence of this disease, which is highest for those exposed during the first trimester, peaked in the mid-1970s, reflecting the use of DES in the 1950s. It is extremely rare now.[ 1 ] However, women with a known history of in utero DES exposure should be carefully monitored for possible presence of this tumor. (This association was mainly applicable to vaginal cancers diagnosed in younger women since adenocarcinomas that are not associated with DES exposure occur primarily during postmenopausal years.) Vaginal adenosis is most commonly found in young women who had in utero exposure to DES and may coexist with a clear cell adenocarcinoma, although it rarely progresses to adenocarcinoma. Adenosis is replaced by squamous metaplasia, which occurs naturally, and requires follow-up but not removal.\n- History of hysterectomy. Women who have had a hysterectomy for benign, premalignant, or malignant disease are at risk of vaginal carcinomas.[ 8 ] In a retrospective series of 100 women studied over 30 years, 50% had undergone hysterectomy before the diagnosis of vaginal cancer.[ 8 ] In the posthysterectomy group, 31 of 50 women (62%) developed cancers limited to the upper third of the vagina. In women who had not previously undergone hysterectomy, upper vaginal lesions were found in 17 of 50 women (34%)."
+        },
+        {
+          "section": "Clinical Features",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Vaginal Cancer",
+            "Clinical Features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Although early vaginal cancer may not cause noticeable signs or symptoms, possible signs and symptoms of vaginal cancer include:\n- Metrorrhagia.\n- Dyspareunia.\n- Pelvic pain.\n- Vaginal mass.\n- Dysuria.\n- Constipation."
+        },
+        {
+          "section": "Diagnostic Evaluation",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Vaginal Cancer",
+            "Diagnostic Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The following procedures may be used to diagnose vaginal cancer:\n- History and physical examination.\n- Pelvic examination.\n- Cervical cytology (Pap smear).\n- HPV testing.\n- Colposcopy.\n- Biopsy. If the cervix is intact, biopsies are mandatory to rule out a primary carcinoma of the cervix. Carcinoma of the vulva should also be ruled out."
+        },
+        {
+          "section": "Prognostic Factors",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Vaginal Cancer",
+            "Prognostic Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Prognosis depends primarily on the stage of disease, but survival is reduced among women with the following features:\n- Age older than 60 years.\n- Symptomatic at the time of diagnosis.\n- Lesions of the middle and lower third of the vagina.\n- Poorly differentiated tumors.\nIn addition, the length of vaginal wall involvement has been found to be associated with survival and stage of disease in patients with vaginal SCC."
+        },
+        {
+          "section": "Follow-Up After Treatment",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Vaginal Cancer",
+            "Follow-Up After Treatment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Similar to other gynecologic malignancies, the evidence to support surveillance after initial management of vaginal cancer is weak because of a lack of randomized or prospective clinical studies.[ 9 ] There is no reliable evidence that routine cytological or imaging procedures in patients improves health outcomes beyond what is achieved by careful physical examination and assessment of new symptoms. Therefore, outside the investigational setting, imaging procedures may be reserved for patients in whom physical examination or symptoms raise clinical suspicion of a recurrence or progression."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Vaginal Cancer",
+            "Follow-Up After Treatment",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Eifel PJ, Klopp AH, Berek JS, et al.: Cancer of the cervix, vagina, and vulva. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles & Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1171-1210.\n- Vagina. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 641–7.\n- American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. Available online . Last accessed January 16, 2025.\n- Daling JR, Madeleine MM, Schwartz SM, et al.: A population-based study of squamous cell vaginal cancer: HPV and cofactors. Gynecol Oncol 84 (2): 263-70, 2002. [PUBMED Abstract]\n- Parkin DM: The global health burden of infection-associated cancers in the year 2002. Int J Cancer 118 (12): 3030-44, 2006. [PUBMED Abstract]\n- Ikenberg H, Runge M, Göppinger A, et al.: Human papillomavirus DNA in invasive carcinoma of the vagina. Obstet Gynecol 76 (3 Pt 1): 432-8, 1990. [PUBMED Abstract]\n- Herbst AL, Ulfelder H, Poskanzer DC: Adenocarcinoma of the vagina. Association of maternal stilbestrol therapy with tumor appearance in young women. N Engl J Med 284 (15): 878-81, 1971. [PUBMED Abstract]\n- Stock RG, Chen AS, Seski J: A 30-year experience in the management of primary carcinoma of the vagina: analysis of prognostic factors and treatment modalities. Gynecol Oncol 56 (1): 45-52, 1995. [PUBMED Abstract]\n- Salani R, Backes FJ, Fung MF, et al.: Posttreatment surveillance and diagnosis of recurrence in women with gynecologic malignancies: Society of Gynecologic Oncologists recommendations. Am J Obstet Gynecol 204 (6): 466-78, 2011. [PUBMED Abstract]"
+        },
+        {
+          "section": "FIGO Staging System",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Vaginal Cancer",
+            "FIGO Staging System"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "The Fédération Internationale de Gynécologie et d’Obstétrique (FIGO) and the American Joint Committee on Cancer (AJCC) have designated staging to define vaginal cancer. The FIGO system is the most commonly used staging system for vaginal cancer.[ 1 - 3 ]\nFIGO Nomenclature\nFIGO = Fédération Internationale de Gynécologie et d’Obstétrique.\na Adapted from FIGO Committee on Gynecologic Oncology.[ 1 , 2 ]\nStage I | The carcinoma is limited to the vaginal wall.\nStage II | The carcinoma has involved the subvaginal tissue but has not extended to the pelvic wall.\nStage III | The carcinoma has extended to the pelvic wall.\nStage IV | The carcinoma has extended beyond the true pelvis or has involved the mucosa of the bladder or rectum; bullous edemas as such does not permit a case to be allotted to stage IV.\nIVa - Tumor invades bladder and/or rectal mucosa and/or direct extension beyond the true pelvis.\nIVb - Spread to distant organs.\nIn addition, the FIGO staging system incorporates a modified World Health Organization prognostic scoring system. The scores from the eight risk factors are summed and incorporated into the FIGO stage, separated by a colon (e.g., stage II:4, stage IV:9, etc.). Unfortunately, a variety of risk-scoring systems have been published, making comparisons of results difficult."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Vaginal Cancer",
+            "FIGO Staging System",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- FIGO Committee on Gynecologic Oncology: Current FIGO staging for cancer of the vagina, fallopian tube, ovary, and gestational trophoblastic neoplasia. Int J Gynaecol Obstet 105 (1): 3-4, 2009. [PUBMED Abstract]\n- Adams TS, Rogers LJ, Cuello MA: Cancer of the vagina: 2021 update. Int J Gynaecol Obstet 155 (Suppl 1): 19-27, 2021. [PUBMED Abstract]\n- Vagina. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 641–7."
+        },
+        {
+          "section": "Treatment Option Overview for Vaginal Cancer",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Vaginal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 40,
+          "text": "Because vaginal cancer is rare, studies are limited to retrospective case series, usually from single-referral institutions.[ Level of evidence C2 ] During the long span of time covered by these case series, available staging tests and radiation techniques often changed, including the shift to high-energy accelerators and conformal and intensity-modulated radiation therapy.[ 1 , 2 ] Comparing treatment approaches is further complicated by the frequent failure of investigators to provide precise staging criteria (particularly for stage I vs. stage II disease) or criteria for the choice of treatment modality. This has led to a broad range of reported disease control and survival rates for any given stage and treatment modality.[ 3 ]\nThe following factors should be considered when planning treatment for vaginal cancer:\n- Stage and size of the lesion.\n- Ability to retain a functional vagina.\n- Presence or absence of the uterus.\n- Whether the patient has received previous pelvic radiation therapy.\n- Whether the lymphatics drain to pelvic or inguinal nodes or both, depending on tumor location.\n- Proximity of the vagina to the bladder or rectum. This limits surgical treatment options and increases short-term and long-term surgical complications and functional deficits.\n- Proximity to radiosensitive organs or organs that preclude radical resection without unacceptable functional deficits (e.g., bladder, rectum, urethra).\nRadiation-induced damage to nearby organs may include:[ 1 , 2 ]\n- Rectovaginal fistulas.\n- Vesicovaginal fistulas.\n- Rectal or vaginal strictures.\n- Cystitis.\n- Proctitis.\n- Premature menopause from ovarian damage.\n- Soft tissue or bone necrosis.\nManagement of the extremely rare vaginal clear cell carcinoma is similar to the management of squamous cell carcinoma. However, techniques that preserve vaginal and ovarian function should be strongly considered during treatment planning, given the young age of the patients at diagnosis.[ 4 ]\nStage ( FIGO Staging System) | Treatment Options\nFIGO = Fédération Internationale de Gynécologie et d’Obstétrique; SCC = squamous cell carcinoma; VaIN = vaginal intraepithelial neoplasia.\nVaIN (this stage is not recognized by FIGO) | Laser therapy\nWide local excision\nVaginectomy\nIntravaginal chemotherapy\nIntracavitary radiation therapy\nImiquimod\nStage I vaginal cancer | SCC | Radiation therapy\nSurgery\nAdenocarcinoma | Surgery\nRadiation therapy\nCombined local therapy\nStages II, III, and IVa vaginal cancer (SCC and adenocarcinoma) | Radiation therapy\nSurgery\nChemoradiation\nStage IVb vaginal cancer (SCC and adenocarcinoma) | Radiation therapy\nFor patients with early-stage vaginal carcinoma, radiation therapy, surgery, or a combination of these treatments are standard. Data from randomized trials are lacking, and the choice of therapy is generally determined by institutional experience and the factors listed above .[ 3 ]\nFor patients with stages III and IVa disease, radiation therapy is standard and includes external-beam radiation therapy (EBRT), alone or with brachytherapy. Regional lymph nodes are included in the radiation portal. When used alone, EBRT involves a tumor dose of 65 Gy to 70 Gy, using shrinking fields, delivered within 6 to 7 weeks. Intracavitary brachytherapy provides insufficient dose penetration for locally advanced tumors, so interstitial brachytherapy is used if brachytherapy is given.[ 3 , 5 ]\nFor patients with stage IVb or recurrent disease that cannot be managed with local treatments, current therapy is inadequate. No established anticancer drugs have demonstrated proven clinical benefit, although patients are often treated with regimens used to treat cervical cancer. Concurrent chemotherapy, using fluorouracil or cisplatin-based therapy, and radiation are sometimes advocated, based solely on extrapolation from cervical cancer management strategies.[ 6 - 8 ] Evidence is limited to small case series and the incremental impact on survival and local control is not well defined.[ Level of evidence C3 ]\nLocal control is a problem with bulky tumors. Some investigators have also used concurrent chemotherapy with agents such as cisplatin, bleomycin, mitomycin, floxuridine, and vincristine without improved outcomes.[ 1 ] It is an extrapolation from treatment approaches used in cervical cancer, based on shared etiologic and risk factors.\nBecause vaginal cancer is rare, these patients are candidates for clinical trials of anticancer drugs and/or radiosensitizers to attempt to improve survival or local control. Discussion of clinical trials should be considered with eligible patients. Information about ongoing clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Fluorouracil Dosing",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Vaginal Cancer",
+            "Fluorouracil Dosing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The DPYD gene encodes an enzyme that catabolizes pyrimidines and fluoropyrimidines, like capecitabine and fluorouracil. An estimated 1% to 2% of the population has germline pathogenic variants in DPYD , which lead to reduced DPD protein function and an accumulation of pyrimidines and fluoropyrimidines in the body.[ 9 , 10 ] Patients with the DPYD*2A variant who receive fluoropyrimidines may experience severe, life-threatening toxicities that are sometimes fatal. Many other DPYD variants have been identified, with a range of clinical effects.[ 9 - 11 ] Fluoropyrimidine avoidance or a dose reduction of 50% may be recommended based on the patient's DPYD genotype and number of functioning DPYD alleles.[ 12 - 14 ] DPYD genetic testing costs less than $200, but insurance coverage varies due to a lack of national guidelines.[ 15 ] In addition, testing may delay therapy by 2 weeks, which would not be advisable in urgent situations. This controversial issue requires further evaluation.[ 16 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Vaginal Cancer",
+            "Fluorouracil Dosing",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "- Frank SJ, Jhingran A, Levenback C, et al.: Definitive radiation therapy for squamous cell carcinoma of the vagina. Int J Radiat Oncol Biol Phys 62 (1): 138-47, 2005. [PUBMED Abstract]\n- Tran PT, Su Z, Lee P, et al.: Prognostic factors for outcomes and complications for primary squamous cell carcinoma of the vagina treated with radiation. Gynecol Oncol 105 (3): 641-9, 2007. [PUBMED Abstract]\n- Eifel PJ, Klopp AH, Berek JS, et al.: Cancer of the cervix, vagina, and vulva. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles & Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1171-1210.\n- Senekjian EK, Frey KW, Anderson D, et al.: Local therapy in stage I clear cell adenocarcinoma of the vagina. Cancer 60 (6): 1319-24, 1987. [PUBMED Abstract]\n- Chyle V, Zagars GK, Wheeler JA, et al.: Definitive radiotherapy for carcinoma of the vagina: outcome and prognostic factors. Int J Radiat Oncol Biol Phys 35 (5): 891-905, 1996. [PUBMED Abstract]\n- Grigsby PW: Vaginal cancer. Curr Treat Options Oncol 3 (2): 125-30, 2002. [PUBMED Abstract]\n- Dalrymple JL, Russell AH, Lee SW, et al.: Chemoradiation for primary invasive squamous carcinoma of the vagina. Int J Gynecol Cancer 14 (1): 110-7, 2004 Jan-Feb. [PUBMED Abstract]\n- Samant R, Lau B, E C, et al.: Primary vaginal cancer treated with concurrent chemoradiation using Cis-platinum. Int J Radiat Oncol Biol Phys 69 (3): 746-50, 2007. [PUBMED Abstract]\n- Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021. [PUBMED Abstract]\n- Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016. [PUBMED Abstract]\n- Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021. [PUBMED Abstract]\n- Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018. [PUBMED Abstract]\n- Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018. [PUBMED Abstract]\n- Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022. [PUBMED Abstract]\n- Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022. [PUBMED Abstract]\n- Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Vaginal Intraepithelial Neoplasia",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Vaginal Intraepithelial Neoplasia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Vaginal intraepithelial neoplasia (VaIN), the presence of noninvasive squamous cell atypia, is classified by the degree of involvement of the epithelium, as follows:\n- VaIN 1 is defined as involvement of the upper one-third of the epithelial thickness.\n- VaIN 2 is defined as involvement of the upper two-thirds of the epithelial thickness.\n- VaIN 3 is defined as involvement of more than two-thirds of the epithelial thickness. VaIN 3 lesions that involve the full thickness of the epithelium are called carcinoma in situ .\nVaIN is associated with a high rate of human papillomavirus (HPV) infection and is thought to have an etiology that is similar to that of cervical intraepithelial neoplasia (CIN).[ 1 - 3 ]\nThe cervix and vulva are carefully evaluated because vaginal carcinoma in situ is associated with other genital neoplasia, and in some cases, may be an extension of CIN. Vaginal carcinoma in situ is often multifocal and commonly occurs in the vaginal vault. For more information, see Cervical Cancer Treatment .\nThe extent and type of surgical treatment needed is dependent upon anatomical location, evidence of multifocality, general patient comorbidities, and other specific factors (e.g., anatomical distortion of vaginal vault from prior hysterectomy).[ 4 ]"
+        },
+        {
+          "section": "Treatment Options for VaIN",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Vaginal Intraepithelial Neoplasia",
+            "Treatment Options for VaIN"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "The following treatments have not been directly compared in randomized trials, so their relative efficacy is uncertain.[ Level of evidence C3 ]\nTreatment options for VaIN include:\n- Laser therapy [ 5 ] after biopsy to rule out invasive components that could be missed with this treatment approach.\n- Wide local excision with or without skin grafting.[ 6 ]\n- Partial or total vaginectomy, with skin grafting for multifocal or extensive disease.[ 7 ]\n- Intravaginal chemotherapy with 5% fluorouracil (5-FU) cream. This option may be useful in the setting of multifocal lesions.[ 5 , 8 ]\n- Intracavitary radiation therapy.[ 9 , 10 ] Because of its attendant toxicity and inherent carcinogenicity, this treatment is primarily used in the setting of multifocal or recurrent disease, or when the risk of surgery is high.[ 1 ] The entire vaginal mucosa is usually treated.[ 11 ]\n- Imiquimod cream 5%, an immune stimulant used to treat genital warts, is an additional topical therapy that has a reported complete clinical response rate of 50% to 86% in small case series of patients with multifocal high-grade HPV-associated VaIN 2 and VaIN 3.[ 12 ] However, it is investigational, and it may have only short-lived efficacy.[ 13 ]\nWomen with VaIN 1 can usually be observed carefully without ablative or surgical treatment because the lesions often regress spontaneously. VaIN 2, the intermediate grade, is managed by careful observation or initial treatment. Although the natural history of VaIN is not precisely known because of its rarity, patients with VaIN 3 are presumed to be at substantial risk of progression to invasive cancer and are treated immediately. Lesions with hyperkeratosis respond better to excision or laser vaporization than to 5-FU.[ 4 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Vaginal Intraepithelial Neoplasia",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Vaginal Intraepithelial Neoplasia",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "- Eifel PJ, Klopp AH, Berek JS, et al.: Cancer of the cervix, vagina, and vulva. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles & Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1171-1210.\n- Daling JR, Madeleine MM, Schwartz SM, et al.: A population-based study of squamous cell vaginal cancer: HPV and cofactors. Gynecol Oncol 84 (2): 263-70, 2002. [PUBMED Abstract]\n- Smith JS, Backes DM, Hoots BE, et al.: Human papillomavirus type-distribution in vulvar and vaginal cancers and their associated precursors. Obstet Gynecol 113 (4): 917-24, 2009. [PUBMED Abstract]\n- Wright VC, Chapman W: Intraepithelial neoplasia of the lower female genital tract: etiology, investigation, and management. Semin Surg Oncol 8 (4): 180-90, 1992 Jul-Aug. [PUBMED Abstract]\n- Krebs HB: Treatment of vaginal intraepithelial neoplasia with laser and topical 5-fluorouracil. Obstet Gynecol 73 (4): 657-60, 1989. [PUBMED Abstract]\n- Cheng D, Ng TY, Ngan HY, et al.: Wide local excision (WLE) for vaginal intraepithelial neoplasia (VAIN). Acta Obstet Gynecol Scand 78 (7): 648-52, 1999. [PUBMED Abstract]\n- Indermaur MD, Martino MA, Fiorica JV, et al.: Upper vaginectomy for the treatment of vaginal intraepithelial neoplasia. Am J Obstet Gynecol 193 (2): 577-80; discussion 580-1, 2005. [PUBMED Abstract]\n- Stefanon B, Pallucca A, Merola M, et al.: Treatment with 5-fluorouracil of 35 patients with clinical or subclinical HPV infection of the vagina. Eur J Gynaecol Oncol 17 (6): 534, 1996. [PUBMED Abstract]\n- Chyle V, Zagars GK, Wheeler JA, et al.: Definitive radiotherapy for carcinoma of the vagina: outcome and prognostic factors. Int J Radiat Oncol Biol Phys 35 (5): 891-905, 1996. [PUBMED Abstract]\n- Graham K, Wright K, Cadwallader B, et al.: 20-year retrospective review of medium dose rate intracavitary brachytherapy in VAIN3. Gynecol Oncol 106 (1): 105-11, 2007. [PUBMED Abstract]\n- Kang J, Wethington SL, Viswanathan A: Vaginal cancer. In: Halperin EC, Wazer DE, Perez CE, et al., eds.: Perez & Brady's Principles and Practice of Radiation Oncology. 7th ed. Wolters Kluwer, 2018, pp 1786-1816.\n- Iavazzo C, Pitsouni E, Athanasiou S, et al.: Imiquimod for treatment of vulvar and vaginal intraepithelial neoplasia. Int J Gynaecol Obstet 101 (1): 3-10, 2008. [PUBMED Abstract]\n- Haidopoulos D, Diakomanolis E, Rodolakis A, et al.: Can local application of imiquimod cream be an alternative mode of therapy for patients with high-grade intraepithelial lesions of the vagina? Int J Gynecol Cancer 15 (5): 898-902, 2005 Sep-Oct. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Stage I Vaginal Cancer",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Vaginal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The treatment options for stage I vaginal cancer have not been directly compared in randomized trials.[ Level of evidence C2 ] Because of differences in patient selection, expertise in treating local disease, and staging criteria, it is difficult to determine whether there are differences in disease control rates."
+        },
+        {
+          "section": "Treatment Options for Stage I Squamous Cell Carcinoma (SCC) of the Vagina",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Vaginal Cancer",
+            "Treatment Options for Stage I Squamous Cell Carcinoma (SCC) of the Vagina"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Treatment options for stage I SCC of the vagina superficial lesions less than 0.5 cm thick include:\n- Radiation therapy.[ 1 - 4 ]\n- These tumors may respond to intracavitary brachytherapy alone,[ 1 ] but treatment usually begins with external-beam radiation therapy (EBRT).[ 2 ]\n- EBRT is required for bulky lesions or lesions that encompass the entire vagina.[ 1 ] For lesions in the lower third of the vagina, elective radiation therapy is often administered to the patient's pelvic and/or inguinal lymph nodes.[ 1 , 2 ]\n- Surgery.[ 5 ]\n- Wide local excision or total vaginectomy with vaginal reconstruction may be performed, especially in lesions of the upper vagina. In cases with close or positive surgical margins, adjuvant radiation therapy is often added.[ 6 ]\nTreatment options for stage I SCC of the vagina lesions more than 0.5 cm thick include:\n- Surgery.[ 5 ]\n- For lesions in the upper third of the vagina, radical vaginectomy and pelvic lymphadenectomy should be considered. Construction of a neovagina may be performed if feasible and if desired by the patient.[ 6 , 7 ]\n- In lesions of the lower third, inguinal lymphadenectomy should be considered. In cases with close or positive surgical margins, adjuvant radiation therapy should be considered.[ 6 ]\n- Radiation therapy.[ 1 - 4 ]\n- EBRT [ 2 ] and/or combination of interstitial and intracavitary radiation therapy may be administered to a dose of at least 75 Gy to the primary tumor.[ 1 , 8 ]\n- For lesions of the lower third of the vagina, elective radiation therapy of 45 Gy to 50 Gy is given to the pelvic and/or inguinal lymph nodes.[ 1 , 2 ]"
+        },
+        {
+          "section": "Treatment Options for Stage I Adenocarcinoma of the Vagina",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Vaginal Cancer",
+            "Treatment Options for Stage I Adenocarcinoma of the Vagina"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Treatment options for stage I adenocarcinoma of the vagina include:\n- Surgery.\n- Total radical vaginectomy and hysterectomy with lymph node dissection are indicated because the tumor spreads subepithelially.\n- The deep pelvic lymph nodes are dissected if the lesion invades the upper vagina, and the inguinal lymph nodes are removed if the lesion originates in the lower vagina.\n- Construction of a neovagina may be performed if feasible and if desired by the patient.[ 6 ]\n- In cases with close or positive surgical margins, adjuvant radiation therapy is often given.[ 6 , 7 ]\n- Radiation therapy.\n- Intracavitary and interstitial radiation are administered to a dose of at least 75 Gy to the primary tumor.[ 1 ]\n- For lesions in the lower third of the vagina, elective radiation therapy of 45 Gy to 50 Gy is given to the pelvic and/or inguinal lymph nodes.[ 1 , 9 ]\n- Combined local therapy in selected cases, which may include wide local excision, lymph node sampling, and interstitial therapy.[ 10 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Vaginal Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Vaginal Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Perez CA, Camel HM, Galakatos AE, et al.: Definitive irradiation in carcinoma of the vagina: long-term evaluation of results. Int J Radiat Oncol Biol Phys 15 (6): 1283-90, 1988. [PUBMED Abstract]\n- Frank SJ, Jhingran A, Levenback C, et al.: Definitive radiation therapy for squamous cell carcinoma of the vagina. Int J Radiat Oncol Biol Phys 62 (1): 138-47, 2005. [PUBMED Abstract]\n- Tran PT, Su Z, Lee P, et al.: Prognostic factors for outcomes and complications for primary squamous cell carcinoma of the vagina treated with radiation. Gynecol Oncol 105 (3): 641-9, 2007. [PUBMED Abstract]\n- Lian J, Dundas G, Carlone M, et al.: Twenty-year review of radiotherapy for vaginal cancer: an institutional experience. Gynecol Oncol 111 (2): 298-306, 2008. [PUBMED Abstract]\n- Tjalma WA, Monaghan JM, de Barros Lopes A, et al.: The role of surgery in invasive squamous carcinoma of the vagina. Gynecol Oncol 81 (3): 360-5, 2001. [PUBMED Abstract]\n- Stock RG, Chen AS, Seski J: A 30-year experience in the management of primary carcinoma of the vagina: analysis of prognostic factors and treatment modalities. Gynecol Oncol 56 (1): 45-52, 1995. [PUBMED Abstract]\n- Rubin SC, Young J, Mikuta JJ: Squamous carcinoma of the vagina: treatment, complications, and long-term follow-up. Gynecol Oncol 20 (3): 346-53, 1985. [PUBMED Abstract]\n- Andersen ES: Primary carcinoma of the vagina: a study of 29 cases. Gynecol Oncol 33 (3): 317-20, 1989. [PUBMED Abstract]\n- Chyle V, Zagars GK, Wheeler JA, et al.: Definitive radiotherapy for carcinoma of the vagina: outcome and prognostic factors. Int J Radiat Oncol Biol Phys 35 (5): 891-905, 1996. [PUBMED Abstract]\n- Senekjian EK, Frey KW, Anderson D, et al.: Local therapy in stage I clear cell adenocarcinoma of the vagina. Cancer 60 (6): 1319-24, 1987. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Stages II, III, and IVa Vaginal Cancer",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stages II, III, and IVa Vaginal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The treatment options for stages II, III, and IVa vaginal cancer have not been directly compared in randomized trials.[ Level of evidence C2 ] As a result of differences in patient selection, expertise in treating local disease, and staging criteria, it is difficult to determine whether there are differences in disease control rates.\nRadiation therapy is the most common treatment for patients with stages II, III, and IVa vaginal cancer."
+        },
+        {
+          "section": "Treatment Options for Stages II, III, and IVa Squamous Cell Carcinoma (SCC) and Adenocarcinoma of the Vagina",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stages II, III, and IVa Vaginal Cancer",
+            "Treatment Options for Stages II, III, and IVa Squamous Cell Carcinoma (SCC) and Adenocarcinoma of the Vagina"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment options for stage II SCC and adenocarcinoma of the vagina , stage III SCC and adenocarcinoma of the vagina , and stage IVa SCC and adenocarcinoma of the vagina include:\n- Radiation therapy.\n- External-beam radiation therapy (EBRT) alone or in combination with interstitial and/or intracavitary brachytherapy.[ 1 - 5 ] For example, EBRT for a period of 5 to 6 weeks (including the pelvic lymph nodes) followed by an interstitial and/or intracavitary implant for a total tumor dose of 75 Gy to 80 Gy and a dose to the lateral pelvic wall of 55 Gy to 60 Gy.[ 1 - 3 ]\n- For lesions in the lower third of the vagina, elective radiation therapy of 45 Gy to 50 Gy is given to the pelvic and/or inguinal lymph nodes.[ 1 , 2 , 6 ]\n- Surgery.\n- Radical vaginectomy or pelvic exenteration is performed with or without radiation therapy.[ 7 - 10 ]\n- Chemoradiation.[ 11 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stages II, III, and IVa Vaginal Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stages II, III, and IVa Vaginal Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Perez CA, Camel HM, Galakatos AE, et al.: Definitive irradiation in carcinoma of the vagina: long-term evaluation of results. Int J Radiat Oncol Biol Phys 15 (6): 1283-90, 1988. [PUBMED Abstract]\n- Chyle V, Zagars GK, Wheeler JA, et al.: Definitive radiotherapy for carcinoma of the vagina: outcome and prognostic factors. Int J Radiat Oncol Biol Phys 35 (5): 891-905, 1996. [PUBMED Abstract]\n- Frank SJ, Jhingran A, Levenback C, et al.: Definitive radiation therapy for squamous cell carcinoma of the vagina. Int J Radiat Oncol Biol Phys 62 (1): 138-47, 2005. [PUBMED Abstract]\n- Tran PT, Su Z, Lee P, et al.: Prognostic factors for outcomes and complications for primary squamous cell carcinoma of the vagina treated with radiation. Gynecol Oncol 105 (3): 641-9, 2007. [PUBMED Abstract]\n- Lian J, Dundas G, Carlone M, et al.: Twenty-year review of radiotherapy for vaginal cancer: an institutional experience. Gynecol Oncol 111 (2): 298-306, 2008. [PUBMED Abstract]\n- Andersen ES: Primary carcinoma of the vagina: a study of 29 cases. Gynecol Oncol 33 (3): 317-20, 1989. [PUBMED Abstract]\n- Rubin SC, Young J, Mikuta JJ: Squamous carcinoma of the vagina: treatment, complications, and long-term follow-up. Gynecol Oncol 20 (3): 346-53, 1985. [PUBMED Abstract]\n- Stock RG, Chen AS, Seski J: A 30-year experience in the management of primary carcinoma of the vagina: analysis of prognostic factors and treatment modalities. Gynecol Oncol 56 (1): 45-52, 1995. [PUBMED Abstract]\n- Tjalma WA, Monaghan JM, de Barros Lopes A, et al.: The role of surgery in invasive squamous carcinoma of the vagina. Gynecol Oncol 81 (3): 360-5, 2001. [PUBMED Abstract]\n- Boronow RC, Hickman BT, Reagan MT, et al.: Combined therapy as an alternative to exenteration for locally advanced vulvovaginal cancer. II. Results, complications, and dosimetric and surgical considerations. Am J Clin Oncol 10 (2): 171-81, 1987. [PUBMED Abstract]\n- Rajagopalan MS, Xu KM, Lin JF, et al.: Adoption and impact of concurrent chemoradiation therapy for vaginal cancer: a National Cancer Data Base (NCDB) study. Gynecol Oncol 135 (3): 495-502, 2014. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Stage IVb Squamous Cell Carcinoma (SCC) and Adenocarcinoma of the Vagina",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IVb Vaginal Cancer",
+            "Treatment Options for Stage IVb Squamous Cell Carcinoma (SCC) and Adenocarcinoma of the Vagina"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for stage IVb SCC and adenocarcinoma of the vagina include:\n- Radiation therapy (for palliation of symptoms) with or without chemotherapy.\nFor patients with stage IVb disease, current therapy is inadequate. No established anticancer drugs have demonstrated clinical benefit, although patients are often treated with regimens used to treat cervical cancer.\nConcurrent chemotherapy using fluorouracil or cisplatin-based therapy and radiation therapy is sometimes advocated on the basis of results extrapolated from cervical cancer management strategies.[ 1 - 3 ] Evidence is limited to small case series, and the incremental impact on patient survival and local disease control is not well defined.[ Level of evidence C3 ] For more information, see Cervical Cancer Treatment .\nBecause stage IVb vaginal cancer is rare, these patients are candidates for clinical trials to improve survival or local control. Information about ongoing clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IVb Vaginal Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IVb Vaginal Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Grigsby PW: Vaginal cancer. Curr Treat Options Oncol 3 (2): 125-30, 2002. [PUBMED Abstract]\n- Dalrymple JL, Russell AH, Lee SW, et al.: Chemoradiation for primary invasive squamous carcinoma of the vagina. Int J Gynecol Cancer 14 (1): 110-7, 2004 Jan-Feb. [PUBMED Abstract]\n- Samant R, Lau B, E C, et al.: Primary vaginal cancer treated with concurrent chemoradiation using Cis-platinum. Int J Radiat Oncol Biol Phys 69 (3): 746-50, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Recurrent Vaginal Cancer",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Vaginal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Patients with recurrent vaginal cancer have a very poor prognosis. Most recurrences occur in the first 2 years after treatment.\nSome patients with centrally recurrent vaginal cancers are candidates for pelvic exenteration or radiation therapy. In a large series, only 5 of 50 patients with recurrence were salvaged using surgery or radiation therapy. All five of these salvaged patients originally presented with stage I or II disease and had tumor recurrence in the central pelvis.[ 1 ]\nNo established anticancer drugs have demonstrated clinical benefit, although patients are often treated with regimens used to treat cervical cancer. If patients are eligible, participation in clinical trials should be considered. Information about ongoing clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Vaginal Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Vaginal Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Stock RG, Chen AS, Seski J: A 30-year experience in the management of primary carcinoma of the vagina: analysis of prognostic factors and treatment modalities. Gynecol Oncol 56 (1): 45-52, 1995. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (04/03/2025)",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (04/03/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nGeneral Information About Vaginal Cancer\nUpdated statistics with estimated new cases and deaths for 2025 (cited American Cancer Society as reference 3).\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of vaginal cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 10,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Vaginal Cancer Treatment are:\n- Fumiko Chino, MD (MD Anderson Cancer Center)\n- Olga T. Filippova, MD (Lenox Hill Hospital)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Vaginal Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/vaginal/hp/vaginal-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389242]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\c38741520a0ccd796545.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Vaginal Cancer",
+      "title": "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+      "summary_name": "Vaginal Cancer Treatment",
+      "url": "https://www.cancer.gov/types/vaginal/patient/vaginal-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "April 5, 2023",
+      "retrieved_at": "2026-08-31T07:15:20.647791+00:00",
+      "content_sha256": "beb4937505f0bf959f0057a3beae58ddf02c0fa02be42e2db1c5e9824c1bbcbb",
+      "section_count": 41,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Vaginal Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Vaginal cancer is a disease in which malignant (cancer) cells form in the vagina.\n- Older age and having an HPV infection are risk factors for vaginal cancer.\n- Signs and symptoms of vaginal cancer include pain or abnormal vaginal bleeding.\n- Tests that examine the vagina and other organs in the pelvis are used to diagnose vaginal cancer.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Vaginal cancer is a disease in which malignant (cancer) cells form in the vagina.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Vaginal Cancer",
+            "Vaginal cancer is a disease in which malignant (cancer) cells form in the vagina."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The vagina is the canal leading from the cervix (the opening of the uterus ) to the outside of the body. At birth, a baby passes out of the body through the vagina (also called the birth canal). Enlarge Anatomy of the female reproductive system. The organs in the female reproductive system include the uterus, ovaries, fallopian tubes, cervix, and vagina. The uterus has a muscular outer layer called the myometrium and an inner lining called the endometrium.\nVaginal cancer is not common. There are two main types of vaginal cancer:\n- Squamous cell carcinoma : Cancer that forms in the thin, flat cells lining the inside of the vagina. Squamous cell vaginal cancer spreads slowly and usually stays near the vagina, but may spread to the lungs , liver , or bone. This is the most common type of vaginal cancer.\n- Adenocarcinoma : Cancer that begins in glandular cells. Glandular cells in the lining of the vagina make and release fluids such as mucus . Adenocarcinoma is more likely than squamous cell cancer to spread to the lungs and lymph nodes . A rare type of adenocarcinoma ( clear cell adenocarcinoma ) is linked to being exposed to diethylstilbestrol (DES) before birth. Adenocarcinomas that are not linked with being exposed to DES are most common in women after menopause ."
+        },
+        {
+          "section": "Older age and having an HPV infection are risk factors for vaginal cancer.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Vaginal Cancer",
+            "Older age and having an HPV infection are risk factors for vaginal cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Anything that increases a person's chance of getting a disease is called a risk factor . Not every person with one or more of these risk factors will develop vaginal cancer, and it will develop in people who don't have any known risk factors. Talk with your doctor if you think you may be at risk. Risk factors for vaginal cancer include the following:\n- Being 60 years or older.\n- Having a human papilloma virus (HPV) infection , which can be linked to squamous cell carcinoma of the vagina.\n- Being exposed to DES while in the mother's womb . In the 1950s, the drug DES was given to some pregnant women to prevent miscarriage (premature birth of a fetus that cannot survive). This is linked to a rare form of vaginal cancer called clear cell adenocarcinoma. The rates of this disease were highest in the mid-1970s, and it is extremely rare now.\n- Having had a hysterectomy for tumors that were benign (not cancer) or cancer."
+        },
+        {
+          "section": "Signs and symptoms of vaginal cancer include pain or abnormal vaginal bleeding.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Vaginal Cancer",
+            "Signs and symptoms of vaginal cancer include pain or abnormal vaginal bleeding."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Vaginal cancer often does not cause early signs or symptoms . It may be found during a routine pelvic exam and Pap test . Signs and symptoms may be caused by vaginal cancer or by other conditions . Check with your doctor if you have any of the following:\n- Bleeding or discharge not related to menstrual periods .\n- Pain during sexual intercourse.\n- Pain in the pelvic area.\n- A lump in the vagina.\n- Pain when urinating .\n- Constipation ."
+        },
+        {
+          "section": "Tests that examine the vagina and other organs in the pelvis are used to diagnose vaginal cancer.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Vaginal Cancer",
+            "Tests that examine the vagina and other organs in the pelvis are used to diagnose vaginal cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Pelvic exam : An exam of the vagina, cervix, uterus, fallopian tubes , ovaries , and rectum . A speculum is inserted into the vagina and the doctor or nurse looks at the vagina and cervix for signs of disease. A Pap test of the cervix is usually done. The doctor or nurse also inserts one or two lubricated , gloved fingers of one hand into the vagina and places the other hand over the lower abdomen to feel the size, shape, and position of the uterus and ovaries. The doctor or nurse also inserts a lubricated, gloved finger into the rectum to feel for lumps or abnormal areas. Enlarge Pelvic exam. A doctor or nurse inserts one or two lubricated, gloved fingers of one hand into the vagina and presses on the lower abdomen with the other hand. This is done to feel the size, shape, and position of the uterus and ovaries. The vagina, cervix, fallopian tubes, and rectum are also checked.\n- Pap test : A procedure to collect cells from the surface of the cervix and vagina. A piece of cotton, a brush, or a small wooden stick is used to gently scrape cells from the cervix and vagina. The cells are viewed under a microscope to find out if they are abnormal. This procedure is also called a Pap smear. Enlarge Pap test. A speculum is inserted into the vagina to widen it. Then, a brush is inserted into the vagina to collect cells from the cervix. The cells are checked under a microscope for signs of disease.\n- Human papillomavirus (HPV) test : A laboratory test used to check DNA or RNA for certain types of HPV infection. Cells are collected from the cervix and DNA or RNA from the cells is checked to find out if an infection is caused by a type of HPV that is linked to cervical cancer. This test may be done using the sample of cells removed during a Pap test. This test may also be done if the results of a Pap test show certain abnormal cervical cells.\n- Colposcopy : A procedure in which a colposcope (a lighted, magnifying instrument) is used to check the vagina and cervix for abnormal areas. Tissue samples may be taken using a curette (spoon-shaped instrument) or a brush and checked under a microscope for signs of disease.\n- Biopsy : The removal of cells or tissues from the vagina and cervix so they can be viewed under a microscope by a pathologist to check for signs of cancer. If a Pap test shows abnormal cells in the vagina, a biopsy may be done during a colposcopy."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Vaginal Cancer",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "The prognosis depends on the following:\n- The stage of the cancer (whether it is in the vagina only or has spread to other areas).\n- The size of the tumor .\n- The grade of tumor cells (how different they look from normal cells under a microscope).\n- Where the cancer is within the vagina.\n- Whether there are signs or symptoms at diagnosis .\n- Whether the cancer has just been diagnosed or has recurred (come back).\nTreatment options depend on the following:\n- The stage and size of the cancer.\n- Whether the cancer is close to other organs that may be damaged by treatment.\n- Whether the tumor is made up of squamous cells or is an adenocarcinoma.\n- Whether the patient has a uterus or has had a hysterectomy.\n- Whether the patient has had past radiation treatment to the pelvis ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Vaginal Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- After vaginal cancer has been diagnosed, tests are done to find out if cancer cells have spread within the vagina or to other parts of the body.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- In vaginal intraepithelial neoplasia (VaIN), abnormal cells are found in tissue lining the inside of the vagina.\n- The following stages are used for vaginal cancer:\n- Stage I\n- Stage II\n- Stage III\n- Stage IV\n- Vaginal cancer may recur (come back) after it has been treated."
+        },
+        {
+          "section": "After vaginal cancer has been diagnosed, tests are done to find out if cancer cells have spread within the vagina or to other parts of the body.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Vaginal Cancer",
+            "After vaginal cancer has been diagnosed, tests are done to find out if cancer cells have spread within the vagina or to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "The process used to find out if cancer has spread within the vagina or to other parts of the body is called staging . The information gathered from the staging process determines the stage of the disease. It is important to know the stage in order to plan treatment. The following procedures may be used in the staging process:\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body such as the abdomen or pelvis , taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- PET scan (positron emission tomography scan) : A procedure to find malignant tumor cells in the body. A small amount of radioactive glucose (sugar) is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do.\n- Cystoscopy : A procedure to look inside the bladder and urethra to check for abnormal areas. A cystoscope is inserted through the urethra into the bladder. A cystoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue samples, which are checked under a microscope for signs of cancer. Enlarge Cystoscopy. A cystoscope (a thin, tube-like instrument with a light and a lens for viewing) is inserted through the urethra into the bladder. Fluid is used to fill the bladder. The doctor looks at an image of the inner wall of the bladder on a computer monitor to check for abnormal areas.\n- Proctoscopy : A procedure to look inside the rectum and anus to check for abnormal areas, using a proctoscope . A proctoscope is a thin, tube-like instrument with a light and a lens for viewing the inside of the rectum and anus. It may also have a tool to remove tissue samples, which are checked under a microscope for signs of cancer.\n- Biopsy : A biopsy may be done to find out if cancer has spread to the cervix . A sample of tissue is removed from the cervix and viewed under a microscope. A biopsy that removes only a small amount of tissue is usually done in the doctor’s office. A cone biopsy (removal of a larger, cone-shaped piece of tissue from the cervix and cervical canal) is usually done in the hospital. A biopsy of the vulva may also be done to see if cancer has spread there."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Vaginal Cancer",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Vaginal Cancer",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of cancer as the primary tumor. For example, if vaginal cancer spreads to the lung , the cancer cells in the lung are actually vaginal cancer cells. The disease is metastatic vaginal cancer, not lung cancer."
+        },
+        {
+          "section": "In vaginal intraepithelial neoplasia (VaIN), abnormal cells are found in tissue lining the inside of the vagina.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Vaginal Cancer",
+            "In vaginal intraepithelial neoplasia (VaIN), abnormal cells are found in tissue lining the inside of the vagina."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "These abnormal cells are not cancer. Vaginal intraepithelial neoplasia (VaIN) is grouped based on how deep the abnormal cells are in the tissue lining the vagina:\n- VaIN 1: Abnormal cells are found in the outermost one third of the tissue lining the vagina.\n- VaIN 2: Abnormal cells are found in the outermost two-thirds of the tissue lining the vagina.\n- VaIN 3: Abnormal cells are found in more than two-thirds of the tissue lining the vagina. When VaIN 3 lesions are found in the full thickness of the tissue lining the vagina, it is called carcinoma in situ .\nVaIN may become cancer and spread into the vaginal wall."
+        },
+        {
+          "section": "Stage I",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Vaginal Cancer",
+            "The following stages are used for vaginal cancer:",
+            "Stage I"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage I , cancer is only found in the vaginal wall."
+        },
+        {
+          "section": "Stage II",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Vaginal Cancer",
+            "The following stages are used for vaginal cancer:",
+            "Stage II"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage II , cancer has spread through the wall of the vagina to the tissue around the vagina. Cancer has not spread to the wall of the pelvis ."
+        },
+        {
+          "section": "Stage III",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Vaginal Cancer",
+            "The following stages are used for vaginal cancer:",
+            "Stage III"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage III , cancer has spread to the wall of the pelvis ."
+        },
+        {
+          "section": "Stage IV",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Vaginal Cancer",
+            "The following stages are used for vaginal cancer:",
+            "Stage IV"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Stage IV is divided into stage IVA and stage IVB:\n- Stage IVA : Cancer may have spread to one or more of the following areas:\n- The lining of the bladder .\n- The lining of the rectum .\n- Beyond the area of the pelvis that has the bladder, uterus , ovaries , and cervix .\n- Stage IVB : Cancer has spread to parts of the body that are not near the vagina , such as the lung or bone."
+        },
+        {
+          "section": "Vaginal cancer may recur (come back) after it has been treated.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Vaginal Cancer",
+            "Vaginal cancer may recur (come back) after it has been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer may come back in the vagina or in other parts of the body."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- There are different types of treatment for patients with vaginal cancer.\n- The following types of treatment are used:\n- Surgery\n- Radiation therapy\n- Chemotherapy\n- New types of treatment are being tested in clinical trials.\n- Immunotherapy\n- Radiosensitizers\n- Treatment for vaginal cancer may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with vaginal cancer.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with vaginal cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatments are available for patients with vaginal cancer . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Surgery is a treatment option for both vaginal intraepithelial neoplasia (VaIN) and vaginal cancer.\nThe following types of surgery may be used to treat VaIN:\n- Laser surgery : A surgical procedure that uses a laser beam (a narrow beam of intense light) as a knife to make bloodless cuts in tissue or to remove a surface lesion such as a tumor .\n- Wide local excision : A surgical procedure that takes out the cancer and some of the healthy tissue around it.\n- Vaginectomy : Surgery to remove all or part of the vagina . Skin grafts from other parts of the body may be needed to reconstruct the vagina.\nThe following types of surgery may be used to treat vaginal cancer:\n- Wide local excision : A surgical procedure that takes out the cancer and some of the healthy tissue around it.\n- Vaginectomy : Surgery to remove all or part of the vagina . Skin grafts from other parts of the body may be needed to reconstruct the vagina.\n- Total hysterectomy : Surgery to remove the uterus , including the cervix . If the uterus and cervix are taken out through the vagina, the operation is called a vaginal hysterectomy . If the uterus and cervix are taken out through a large incision (cut) in the abdomen , the operation is called a total abdominal hysterectomy. If the uterus and cervix are taken out through a small incision in the abdomen using a laparoscope , the operation is called a total laparoscopic hysterectomy. Enlarge Hysterectomy. The uterus is surgically removed with or without other organs or tissues. In a total hysterectomy, the uterus and cervix are removed. In a total hysterectomy with salpingo-oophorectomy, (a) the uterus plus one (unilateral) ovary and fallopian tube are removed; or (b) the uterus plus both (bilateral) ovaries and fallopian tubes are removed. In a radical hysterectomy, the uterus, cervix, both ovaries, both fallopian tubes, and nearby tissue are removed. These procedures are done using a low transverse incision or a vertical incision.\n- Lymph node dissection : A surgical procedure in which lymph nodes are removed and a sample of tissue is checked under a microscope for signs of cancer. This procedure is also called lymphadenectomy. If the cancer is in the upper vagina, the pelvic lymph nodes may be removed. If the cancer is in the lower vagina, lymph nodes in the groin may be removed.\n- Pelvic exenteration : Surgery to remove the lower colon , rectum , bladder , cervix, vagina, and ovaries . Nearby lymph nodes are also removed. Artificial openings ( stoma ) are made for urine and stool to flow from the body into a collection bag.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, some patients may be given radiation therapy after surgery to kill any cancer cells that are left. Treatment given after the surgery, to lower the risk that the cancer will come back, is called adjuvant therapy ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. There are two types of radiation therapy:\n- External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\n- Internal radiation therapy uses a radioactive substance sealed in needles, seeds , wires, or catheters that are placed directly into or near the cancer.\nThe way the radiation therapy is given depends on the type and stage of the cancer being treated. External and internal radiation therapy are used to treat vaginal cancer, and may also be used as palliative therapy to relieve symptoms and improve quality of life ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can affect cancer cells throughout the body ( systemic chemotherapy ). When chemotherapy is placed directly into the cerebrospinal fluid , an organ , or a body cavity such as the abdomen, the drugs mainly affect cancer cells in those areas ( regional chemotherapy ). The way the chemotherapy is given depends on the type and stage of the cancer being treated.\nTopical chemotherapy for squamous cell vaginal cancer may be applied to the vagina in a cream or lotion."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "This summary section describes treatments that are being studied in clinical trials. It may not mention every new treatment being studied. Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Immunotherapy is a treatment that uses the patient’s immune system to fight cancer. Substances made by the body or made in a laboratory are used to boost, direct, or restore the body’s natural defenses against cancer.\nImiquimod is an immune response modifier that is being studied to treat vaginal lesions and is applied to the skin in a cream."
+        },
+        {
+          "section": "Radiosensitizers",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "Radiosensitizers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Radiosensitizers are drugs that make tumor cells more sensitive to radiation therapy. Combining radiation therapy with radiosensitizers may kill more tumor cells."
+        },
+        {
+          "section": "Treatment for vaginal cancer may cause side effects.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for vaginal cancer may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Some of the tests that were done to diagnose the cancer or to find out the stage of the cancer may be repeated. Some tests will be repeated in order to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests."
+        },
+        {
+          "section": "Treatment of Vaginal Intraepithelial Neoplasia (VaIN)",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Vaginal Intraepithelial Neoplasia (VaIN)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of vaginal intraepithelial neoplasia (VaIN) may include the following:\n- Surgery ( laser surgery after biopsy ).\n- Surgery ( wide local excision ) with a skin graft .\n- Surgery (partial or total vaginectomy ) with or without a skin graft.\n- Topical chemotherapy .\n- Internal radiation therapy .\n- A clinical trial of immunotherapy ( imiquimod ) applied to the skin."
+        },
+        {
+          "section": "Treatment of Stage I Vaginal Cancer",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage I Vaginal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of stage I squamous cell vaginal cancer lesions that are less than 0.5 centimeters thick may include the following:\n- External radiation therapy , especially for large tumors or the lymph nodes near tumors in the lower part of the vagina .\n- Internal radiation therapy .\n- Surgery ( wide local excision or vaginectomy with vaginal reconstruction). Radiation therapy may be given after the surgery.\nTreatment of stage I squamous cell vaginal cancer lesions that are more than 0.5 centimeters thick may include the following:\n- Surgery:\n- For lesions in the upper third of the vagina, vaginectomy and lymph node dissection , with or without vaginal reconstruction.\n- For lesions in the lower third of the vagina, lymph node dissection.\n- Radiation therapy may be given after the surgery, which may include:\n- External radiation therapy with or without internal radiation therapy .\n- Internal radiation therapy.\n- For lesions in the lower third of the vagina, radiation therapy may be given to lymph nodes near tumors.\nTreatment of stage I vaginal adenocarcinoma may include the following:\n- Surgery ( vaginectomy and hysterectomy with lymph node dissection ). This may be followed by vaginal reconstruction and/or radiation therapy .\n- Internal radiation therapy . External radiation therapy may also be given to the lymph nodes near tumors in the lower part of the vagina .\n- A combination of therapies that may include wide local excision with or without lymph node dissection and internal radiation therapy."
+        },
+        {
+          "section": "Treatment of Stage II, Stage III, and Stage IVA Vaginal Cancer",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage II, Stage III, and Stage IVA Vaginal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of stage II , stage III , and stage IVA vaginal cancer is the same for squamous cell cancer and adenocarcinoma . Treatment may include the following:\n- Internal and/or external radiation therapy to the vagina . Radiation therapy may also be given to the lymph nodes near tumors in the lower part of the vagina .\n- Surgery ( vaginectomy or pelvic exenteration ) with or without radiation therapy.\n- Chemotherapy given with radiation therapy."
+        },
+        {
+          "section": "Treatment of Stage IVB Vaginal Cancer",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage IVB Vaginal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of stage IVB vaginal cancer is the same for squamous cell cancer and adenocarcinoma . Treatment may include the following:\n- Radiation therapy as palliative therapy , to relieve symptoms and improve the quality of life . Chemotherapy may also be given.\nAlthough no anticancer drugs have been shown to help patients with stage IVB vaginal cancer live longer, they are often treated with regimens used for cervical cancer . For more information, see Cervical Cancer Treatment ."
+        },
+        {
+          "section": "Treatment of Recurrent Vaginal Cancer",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Vaginal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of recurrent vaginal cancer may include the following:\n- Surgery ( pelvic exenteration ).\n- Radiation therapy .\nAlthough no anticancer drugs have been shown to help patients with recurrent vaginal cancer live longer, they are often treated with regimens used for cervical cancer . For more information, see Cervical Cancer Treatment .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Vaginal Cancer",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "To Learn More About Vaginal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "For more information from the National Cancer Institute about vaginal cancer, see the following:\n- Vaginal Cancer Home Page\n- What Is Cervical Cancer?\n- Lasers to Treat Cancer\n- Computed Tomography (CT) Scans and Cancer\n- Immune System Modulators\n- HPV and Cancer\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of vaginal cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Vaginal Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/vaginal/patient/vaginal-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389348]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Vaginal Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\d9fa22313e416577d1a1.html"
+    }
+  ]
+}

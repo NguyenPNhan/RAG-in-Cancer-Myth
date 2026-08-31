@@ -1,0 +1,1460 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Paranasal Sinus and Nasal Cavity Cancer",
+  "generated_at": "2026-08-31T07:15:23.458713+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Paranasal Sinus and Nasal Cavity Cancer",
+      "title": "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Paranasal Sinus and Nasal Cavity Cancer Treatment",
+      "url": "https://www.cancer.gov/types/head-and-neck/hp/adult/paranasal-sinus-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "July 5, 2024",
+      "retrieved_at": "2026-08-31T07:10:32.935432+00:00",
+      "content_sha256": "d9c248b699f6ddf0e3d0f794986af2e0fcd6b86999ade7ca3f6f6a334805bb84",
+      "section_count": 78,
+      "sections": [
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Paranasal Sinus and Nasal Cavity Cancer",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Most tumors of the paranasal sinuses present with advanced disease, and cure rates are generally poor (≤50%). Squamous cell carcinoma (SCC) is the most frequent type of malignant tumor in the nose and paranasal sinuses (70%–80%). Papillomas are distinct entities that may undergo malignant degeneration. The cancers grow within the bony confines of the sinuses and are often asymptomatic until they erode and invade adjacent structures.[ 1 - 3 ]\nNodal involvement is infrequent. Metastases from both the nasal cavity and paranasal sinuses may occur, and distant metastases are found in 20% to 40% of patients who do not respond to treatment. However, locoregional recurrence accounts for most cancer deaths because most patients die of direct extension into vital areas of the skull or of rapidly recurring local disease.\nCancers of the maxillary sinus are the most common of the paranasal sinus cancers. Tumors of the ethmoid sinuses, nasal vestibule, and nasal cavity are less common, and tumors of the sphenoid and frontal sinuses are rare."
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Paranasal Sinus and Nasal Cavity Cancer",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The major lymphatic drainage route of the maxillary antrum is through the lateral and inferior collecting trunks to the first station submandibular, parotid, and jugulodigastric nodes and through the superoposterior trunk to retropharyngeal and jugular nodes."
+        },
+        {
+          "section": "Clinical Evaluation and Follow-Up",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Paranasal Sinus and Nasal Cavity Cancer",
+            "Clinical Evaluation and Follow-Up"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Pretreatment evaluation and staging, as well as the need for multidisciplinary planning of treatment, is very important. Generally, the first opportunity to treat patients with head and neck cancers is the most effective, although salvage surgery or salvage radiation therapy, as appropriate, may occasionally be successful.\nBecause most treatment failures occur within 2 years, patients must be monitored frequently and meticulously during this period. Lifetime follow-up is essential because nearly 33% of these patients develop second primary cancers in the aerodigestive tract."
+        },
+        {
+          "section": "Carcinogenesis and Risk Factors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Paranasal Sinus and Nasal Cavity Cancer",
+            "Carcinogenesis and Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Data indicate that various industrial exposures may be related to cancer of the paranasal sinus and nasal cavity. The risk of a second primary head and neck tumor is considerably increased.[ 4 ] A study has shown that a subgroup of paranasal sinus and nasal cavity SCCs are associated with human papilloma virus (HPV) infection and that HPV-positive patients may have a better prognosis than those who are HPV negative.[ 5 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Paranasal Sinus and Nasal Cavity Cancer",
+            "Carcinogenesis and Risk Factors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80.\n- Laramore GE, ed.: Radiation Therapy of Head and Neck Cancer. Springer-Verlag, 1989.\n- Thawley SE, Panje WR, Batsakis JG, et al., eds.: Comprehensive Management of Head and Neck Tumors. 2nd ed. WB Saunders, 1999.\n- Johns ME, Kaplan MJ: Advances in the management of paranasal sinus tumors. In: Wolf GT, ed.: Head and Neck Oncology. Martinus Nijhoff Publishers, 1984, pp 27-52.\n- Alos L, Moyano S, Nadal A, et al.: Human papillomaviruses are identified in a subgroup of sinonasal squamous cell carcinomas with favorable outcome. Cancer 115 (12): 2701-9, 2009. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The most common cell type for paranasal sinus and nasal cavity cancers is squamous cell carcinoma. Minor salivary gland tumors comprise 10% to 15% of these neoplasms. Malignant melanoma presents in less than 1% of neoplasms in this region. Some 5% of cases are malignant lymphomas.[ 1 , 2 ]\nEsthesioneuroepithelioma, sometimes confused with undifferentiated carcinoma or undifferentiated lymphoma, arises from the olfactory nerves.[ 3 ]\nChondrosarcoma, osteosarcoma, Ewing sarcoma, and most soft tissue sarcomas have been reported for this region.\nInverting papilloma is considered a low-grade benign tumor with a tendency to recur and, in a small percentage of cases, to transform into a malignant tumor.\nMidline granuloma, a progressively destructive condition, also involves this region."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Paranasal Sinus and Nasal Cavity Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80.\n- Goldenberg D, Golz A, Fradis M, et al.: Malignant tumors of the nose and paranasal sinuses: a retrospective review of 291 cases. Ear Nose Throat J 80 (4): 272-7, 2001. [PUBMED Abstract]\n- Jethanamest D, Morris LG, Sikora AG, et al.: Esthesioneuroblastoma: a population-based analysis of survival and prognostic factors. Arch Otolaryngol Head Neck Surg 133 (3): 276-80, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Stage Information for Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The staging systems are clinical estimates of the extent of disease. The assessment of the tumor is based on inspection, palpation, and direct endoscopy when necessary. The tumor must be confirmed histologically, and any other pathological data obtained on biopsy may be included. The appropriate nodal drainage areas are examined by careful palpation. Computed tomographic and/or magnetic resonance imaging studies are generally required to adequately evaluate tumor extent before surgical resection or definitive radiation therapy. If a patient's disease relapses, complete restaging must be done to select the appropriate additional therapy.[ 1 , 2 ]"
+        },
+        {
+          "section": "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Paranasal Sinus and Nasal Cavity Cancer",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 74,
+          "text": "Staging for nasal cavity and paranasal sinus carcinomas is not as well established as staging for other head and neck tumors. For cancer of the maxillary sinus, the nasal cavity, and the ethmoid sinus, the AJCC has designated staging by TNM (tumor, node, metastasis) classification. Lymphomas, sarcomas, and mucosal melanomas of the paranasal sinuses and nasal cavity are not staged using this system.[ 3 ] The staging described below is used only for patients who have not had a lymph node dissection of the neck.\nT Category | Maxillary Sinus T Criteria | Nasal Cavity and Ethmoid Sinus T Criteria\na Reprinted with permission from AJCC: Nasal cavity and paranasal sinuses. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 137–47.\nTX | Primary tumor cannot be assessed. | Primary tumor cannot be assessed.\nTis | Carcinoma in situ . | Carcinoma in situ .\nT1 | Tumor limited to maxillary sinus mucosa with no erosion or destruction of bone. | Tumor restricted to any one subsite, with or without bony invasion.\nT2 | Tumor causing bone erosion or destruction including extension into the hard palate and/or middle nasal meatus, except extension to posterior wall of maxillary sinus and pterygoid plates. | Tumor invading two subsites in a single region or extending to involve an adjacent region within the nasoethmoidal complex, with or without bony invasion.\nT3 | Tumor invades any of the following: bone of the posterior wall of maxillary sinus, subcutaneous tissues, floor or medial wall of orbit, pterygoid fossa, ethmoid sinuses. | Tumor extends to invade the medial wall or floor of the orbit, maxillary sinus, palate, or cribriform plate.\nT4 | Moderately advanced or very advanced local disease. | Moderately advanced or very advanced local disease.\n–T4a | Moderately advanced local disease. Tumor invades anterior orbital contents, skin of cheek, pterygoid plates, infratemporal fossa, cribriform plate, sphenoid or frontal sinuses. | Moderately advanced local disease. Tumor invades any of the following: anterior orbital contents, skin of nose or cheek, minimal extension to anterior cranial fossa, pterygoid plates, sphenoid or frontal sinuses.\n–T4b | Very advanced local disease. Tumor invades any of the following: orbital apex, dura, brain, middle cranial fossa, cranial nerves other than maxillary division of trigeminal nerve (V2), nasopharynx, or clivus. | Very advanced local disease. Tumor invades any of the following: orbital apex, dura, brain, middle cranial fossa, cranial nerves other than V2, nasopharynx, or clivus.\nN Category | Clinical Node (cN) Criteria\nENE = extranodal extension.\na Reprinted with permission from AJCC: Nasal cavity and paranasal sinuses. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 137–47.\nNote: A designation of “U” or “L” may be used for any N category to indicate metastasis above the lower border of the cricoid (U) or below the lower border of the cricoid (L).\nNX | Regional lymph nodes cannot be assessed.\nN0 | No regional lymph node metastasis.\nN1 | Metastasis in a single ipsilateral lymph node, ≤3 cm in greatest dimension and ENE(‒).\nN2 | Metastasis in a single ipsilateral node >3 cm but ≤6 cm in greatest dimension and ENE(‒); or metastases in multiple ipsilateral lymph nodes, none >6 cm in greatest dimension and ENE(‒); or in bilateral or contralateral lymph nodes, none >6 cm in greatest dimension and ENE(‒).\n–N2a | Metastasis in a single ipsilateral node >3 cm but ≤6 cm in greatest dimension and ENE(‒).\n–N2b | Metastases in multiple ipsilateral nodes, none >6 cm in greatest dimension and ENE(‒).\n–N2c | Metastases in bilateral or contralateral lymph nodes, none >6 cm in greatest dimension and ENE(‒).\nN3 | Metastasis in a lymph node >6 cm in greatest dimension and ENE(‒); or metastasis in any node(s) with clinically overt ENE(+).\n–N3a | Metastasis in a lymph node >6 cm in greatest dimension and ENE(‒).\n–N3b | Metastasis in any node(s) with clinically overt ENE (ENEc).\nM Category | M Criteria\na Reprinted with permission from AJCC: Nasal cavity and paranasal sinuses. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 137–47.\nM0 | No distant metastasis (no pathologic M0; use clinical M to complete stage group).\nM1 | Distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Nasal cavity and paranasal sinuses. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 137–47.\n0 | Tis, N0, M0 | Tis = See Table 1 .\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis (no pathological M0; use clinical M to complete stage group).\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Nasal cavity and paranasal sinuses. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 137–47.\nI | T1, N0, M0 | T1 = See Table 1 .\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis (no pathological M0; use clinical M to complete stage group).\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Nasal cavity and paranasal sinuses. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 137–47.\nII | T2, N0, M0 | T2 = See Table 1 .\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis (no pathological M0; use clinical M to complete stage group).\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; ENE = extranodal extension.\na Reprinted with permission from AJCC: Nasal cavity and paranasal sinuses. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 137–47.\nIII | T3, N0, M0 | T3 = See Table 1 .\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis (no pathological M0; use clinical M to complete stage group).\nT1, T2, T3; N1, M0 | T1, T2, T3 = See Table 1 .\nN1 = Metastasis in a single ipsilateral lymph node, ≤3 cm in greatest dimension and ENE(‒).\nM0 = No distant metastasis (no pathological M0; use clinical M to complete stage group).\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Nasal cavity and paranasal sinuses. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 137–47.\nIVA | T4a; N0, N1; M0 | T4a = See Table 1 .\nN0, N1 = See Table 2 .\nM0 = No distant metastasis (no pathological M0; use clinical M to complete stage group).\nT1, T2, T3, T4a; N2, M0 | T1, T2, T3, T4a = See Table 1 .\nN2 = See Table 2 .\nM0 = No distant metastasis (no pathological M0; use clinical M to complete stage group).\nIVB | Any T, N3, M0 | Any T = See Table 1 .\nN3 = See Table 2 .\nM0 = No distant metastasis (no pathological M0; use clinical M to complete stage group).\nT4b, Any N, M0 | T4b = See Table 1 .\nAny N = See Table 2 .\nM0 = No distant metastasis (no pathological M0; use clinical M to complete stage group).\nIVC | Any T, Any N, M1 | Any T = See Table 1 .\nAny N = See Table 2 .\nM1 = Distant metastasis."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Paranasal Sinus and Nasal Cavity Cancer",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80.\n- Laramore GE, ed.: Radiation Therapy of Head and Neck Cancer. Springer-Verlag, 1989.\n- Nasal cavity and paranasal sinuses. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 137-47."
+        },
+        {
+          "section": "Treatment Option Overview for Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Except for patients with T1 mucosal carcinomas, the accepted method of treatment is a combination of radiation therapy and surgery. The incidence of lymph node metastases is generally low (approximately 20% of cases). Thus, routine radical neck dissection or elective neck radiation therapy is recommended only for patients presenting with positive nodes.\nFor patients with operable tumors, radical surgery is generally performed first to remove the bulk of the tumor and to establish drainage of the affected sinus(es). This is followed by postoperative radiation therapy. Some institutions continue to give a full dose of radiation therapy preoperatively for all patients with stage II and stage III tumors and operate 4 to 6 weeks later.[ 1 - 3 ] A review of published clinical results of radical radiation therapy for head and neck cancer suggested a significant loss of local control with prolonged radiation therapy; therefore, lengthening of standard treatment schedules should be avoided whenever possible.[ 4 ]"
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Paranasal Sinus and Nasal Cavity Cancer",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Surgical exploration may be required to determine operability.\nRelative contraindications to surgery include destruction of the base of the skull (i.e., anterior cranial fossa), cavernous sinus, or the pterygoid process; infiltration of the mucous membranes of the nasopharynx; or nonresectable lymph node metastases. Surgical approaches include fenestration with removal of the bulk tumor, which is usually followed by radiation therapy or block resection of the upper jaw. A combined craniofacial approach, including resection of the floor of the anterior cranial fossa, has been used with success in selected patients.[ 5 ] Removal of the eye is performed if the orbit is extensively invaded by cancer. Clinically positive nodes, if resectable, may be treated with radical neck dissection."
+        },
+        {
+          "section": "Radiation Therapy",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Paranasal Sinus and Nasal Cavity Cancer",
+            "Radiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Radiation therapy must be carried to high doses for any significant probability of permanent control. The treatment volume must include all of the maxillary antrum and involved hemiparanasal sinus and contiguous areas. The orbit and its contents are excluded except under unusual circumstances. Lymph nodes of the neck, when palpable, should be treated in conjunction with treatment of advanced carcinomas of the antrum. This may be unnecessary for early tumors.\nAccumulating evidence has demonstrated a high incidence (>30%–40%) of hypothyroidism in patients who have received external-beam radiation therapy to the entire thyroid gland or to the pituitary gland. Thyroid function testing of patients should be considered prior to therapy and as part of posttreatment follow-up.[ 6 , 7 ]"
+        },
+        {
+          "section": "Recurrent Disease",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Paranasal Sinus and Nasal Cavity Cancer",
+            "Recurrent Disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Patients with recurrent disease should consider chemotherapy clinical trials. Chemotherapy for recurrent squamous cell cancer of the head and neck has been shown to be efficacious as palliation and may improve a patient's quality of life and length of survival. Various drug combinations, including cisplatin, fluorouracil, and methotrexate, are effective.[ 8 , 9 ]\nTreatment of tumors of the paranasal sinuses and of the nasal cavity should be planned on an individual basis because of the complexity involved."
+        },
+        {
+          "section": "Fluorouracil dosing",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Paranasal Sinus and Nasal Cavity Cancer",
+            "Recurrent Disease",
+            "Fluorouracil dosing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The DPYD gene encodes an enzyme that catabolizes pyrimidines and fluoropyrimidines, like capecitabine and fluorouracil. An estimated 1% to 2% of the population has germline pathogenic variants in DPYD , which lead to reduced DPD protein function and an accumulation of pyrimidines and fluoropyrimidines in the body.[ 10 , 11 ] Patients with the DPYD*2A variant who receive fluoropyrimidines may experience severe, life-threatening toxicities that are sometimes fatal. Many other DPYD variants have been identified, with a range of clinical effects.[ 10 - 12 ] Fluoropyrimidine avoidance or a dose reduction of 50% may be recommended based on the patient's DPYD genotype and number of functioning DPYD alleles.[ 13 - 15 ] DPYD genetic testing costs less than $200, but insurance coverage varies due to a lack of national guidelines.[ 16 ] In addition, testing may delay therapy by 2 weeks, which would not be advisable in urgent situations. This controversial issue requires further evaluation.[ 17 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Paranasal Sinus and Nasal Cavity Cancer",
+            "Recurrent Disease",
+            "Fluorouracil dosing",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80.\n- Laramore GE, ed.: Radiation Therapy of Head and Neck Cancer. Springer-Verlag, 1989.\n- Thawley SE, Panje WR, Batsakis JG, et al., eds.: Comprehensive Management of Head and Neck Tumors. 2nd ed. WB Saunders, 1999.\n- Fowler JF, Lindstrom MJ: Loss of local control with prolongation in radiotherapy. Int J Radiat Oncol Biol Phys 23 (2): 457-67, 1992. [PUBMED Abstract]\n- Ganly I, Patel SG, Singh B, et al.: Craniofacial resection for malignant paranasal sinus tumors: Report of an International Collaborative Study. Head Neck 27 (7): 575-84, 2005. [PUBMED Abstract]\n- Turner SL, Tiver KW, Boyages SC: Thyroid dysfunction following radiotherapy for head and neck cancer. Int J Radiat Oncol Biol Phys 31 (2): 279-83, 1995. [PUBMED Abstract]\n- Constine LS: What else don't we know about the late effects of radiation in patients treated for head and neck cancer? Int J Radiat Oncol Biol Phys 31 (2): 427-9, 1995. [PUBMED Abstract]\n- Jacobs C, Lyman G, Velez-García E, et al.: A phase III randomized study comparing cisplatin and fluorouracil as single agents and in combination for advanced squamous cell carcinoma of the head and neck. J Clin Oncol 10 (2): 257-63, 1992. [PUBMED Abstract]\n- Schornagel JH, Verweij J, de Mulder PH, et al.: Randomized phase III trial of edatrexate versus methotrexate in patients with metastatic and/or recurrent squamous cell carcinoma of the head and neck: a European Organization for Research and Treatment of Cancer Head and Neck Cancer Cooperative Group study. J Clin Oncol 13 (7): 1649-55, 1995. [PUBMED Abstract]\n- Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021. [PUBMED Abstract]\n- Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016. [PUBMED Abstract]\n- Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021. [PUBMED Abstract]\n- Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018. [PUBMED Abstract]\n- Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018. [PUBMED Abstract]\n- Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022. [PUBMED Abstract]\n- Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022. [PUBMED Abstract]\n- Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Stage I disease includes small lesions."
+        },
+        {
+          "section": "Maxillary Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer",
+            "Maxillary Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Maxillary sinus tumors are small lesions of the infrastructure.\nTreatment options for stage I maxillary sinus tumors include the following:\n- Surgical resection.\n- Postoperative radiation therapy should be considered for close margins (particularly in tumors of the suprastructure)."
+        },
+        {
+          "section": "Ethmoid Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer",
+            "Ethmoid Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Ethmoid sinus tumors are usually extensive when diagnosed.[ 1 - 3 ]\nTreatment options for stage I ethmoid sinus tumors include the following:\n- External-beam radiation therapy alone is generally used for unresectable lesions.\n- Well-localized lesions can be resected, but resection of the ethmoids, maxilla, and orbit, with consideration for a craniofacial approach, is generally required.\n- If surgery can be done with good functional and cosmetic results, postoperative radiation therapy should be given even with clear surgical margins."
+        },
+        {
+          "section": "Sphenoid Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer",
+            "Sphenoid Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for stage I sphenoid sinus tumors include the following:\n- Treatment is the same as for nasopharyngeal cancers, primarily radiation therapy. For more information, see the Treatment of Stage I Nasopharyngeal Carcinoma section in Nasopharyngeal Carcinoma Treatment."
+        },
+        {
+          "section": "Nasal Cavity Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer",
+            "Nasal Cavity Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "For nasal cavity tumors (squamous cell carcinomas), treatment preferences are either surgery or radiation therapy, which have equal cure rates.\nTreatment options for stage I nasal cavity tumors include the following:\n- Surgery for tumors of the septum.\n- Radiation therapy for tumors of the lateral and superior walls.[ 4 ]\n- Surgery plus radiation therapy for tumors of the septal and lateral walls.[ 5 ]"
+        },
+        {
+          "section": "Inverting Papillomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer",
+            "Inverting Papillomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for stage I inverting papillomas include the following:\n- Surgical excision.\n- Re-excision for surgery failures.\n- Radical surgery may eventually be necessary.\n- Radiation therapy has been used successfully for surgical failures."
+        },
+        {
+          "section": "Melanomas and Sarcomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer",
+            "Melanomas and Sarcomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for stage I melanomas and sarcomas include the following:\n- Surgical excision if possible.\n- Combined surgery, radiation therapy, and chemotherapy are recommended for rhabdomyosarcoma."
+        },
+        {
+          "section": "Midline Granulomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer",
+            "Midline Granulomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for stage I midline granulomas include the following:\n- Radiation therapy to nasal cavity and paranasal sinuses."
+        },
+        {
+          "section": "Nasal Vestibule Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer",
+            "Nasal Vestibule Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for stage I nasal vestibule tumors include the following:\n- Surgery or radiation therapy may be performed. If lesions are extremely small, surgery is preferred, provided that no deformity is expected and a need for reconstruction is not anticipated. Radiation therapy is preferred for other small lesions.[ 6 , 7 ] Treatment of the ipsilateral neck should be considered."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Kraus DH, Sterman BM, Levine HL, et al.: Factors influencing survival in ethmoid sinus cancer. Arch Otolaryngol Head Neck Surg 118 (4): 367-72, 1992. [PUBMED Abstract]\n- Shah JP: Surgery of the anterior skull base for malignant tumors. Acta Otorhinolaryngol Belg 53 (3): 191-4, 1999. [PUBMED Abstract]\n- Cantù G, Solero CL, Mariani L, et al.: Anterior craniofacial resection for malignant ethmoid tumors--a series of 91 patients. Head Neck 21 (3): 185-91, 1999. [PUBMED Abstract]\n- Hawkins RB, Wynstra JH, Pilepich MV, et al.: Carcinoma of the nasal cavity--results of primary and adjuvant radiotherapy. Int J Radiat Oncol Biol Phys 15 (5): 1129-33, 1988. [PUBMED Abstract]\n- Ang KK, Jiang GL, Frankenthaler RA, et al.: Carcinomas of the nasal cavity. Radiother Oncol 24 (3): 163-8, 1992. [PUBMED Abstract]\n- Levendag PC, Pomp J: Radiation therapy of squamous cell carcinoma of the nasal vestibule. Int J Radiat Oncol Biol Phys 19 (6): 1363-7, 1990. [PUBMED Abstract]\n- Wong CS, Cummings BJ: The place of radiation therapy in the treatment of squamous cell carcinoma of the nasal vestibule. A review. Acta Oncol 27 (3): 203-8, 1988. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Stage II disease includes small and moderately advanced lesions."
+        },
+        {
+          "section": "Maxillary Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer",
+            "Maxillary Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for stage II maxillary sinus tumors include the following:\n- Surgical resection with high-dose preoperative or postoperative radiation therapy."
+        },
+        {
+          "section": "Ethmoid Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer",
+            "Ethmoid Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Ethmoid sinus tumors are usually extensive when diagnosed.[ 1 - 3 ]\nTreatment options for stage II ethmoid sinus tumors include the following:\n- External-beam radiation therapy alone is generally used and produces better overall results than surgery.\n- Well-localized lesions can be resected, but resection of the ethmoids, maxilla, and orbit, often with a combined neurosurgical sinus craniofacial approach, is generally required.\n- If surgery can be done with good functional and cosmetic results, postoperative radiation therapy should be given, even when surgical margins are clear."
+        },
+        {
+          "section": "Sphenoid Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer",
+            "Sphenoid Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for stage II sphenoid sinus tumors include the following:\n- Treatment is the same as for nasopharyngeal cancers, primarily radiation therapy. Concurrent chemotherapy and radiation therapy may be considered. For more information, see the Treatment of Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma section in Nasopharyngeal Carcinoma Treatment."
+        },
+        {
+          "section": "Nasal Cavity Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer",
+            "Nasal Cavity Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "For nasal cavity tumors (squamous cell carcinomas), treatment preferences are either surgery or radiation therapy, which have equal cure rates.[ 4 ]\nTreatment options for stage II nasal cavity tumors include the following:\n- Surgery or radiation therapy for tumors of the septum.\n- Radiation therapy for tumors of the lateral and superior walls. Concurrent chemotherapy and radiation therapy may be considered.\n- Surgery plus radiation therapy for tumors of the septal and lateral walls.[ 5 ]"
+        },
+        {
+          "section": "Inverting Papillomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer",
+            "Inverting Papillomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for stage II inverting papillomas include the following:\n- Surgical excision.\n- Re-excision for surgery failures.\n- Radiation therapy for radical surgery failures may eventually be necessary."
+        },
+        {
+          "section": "Melanomas and Sarcomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer",
+            "Melanomas and Sarcomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for stage II melanomas and sarcomas include the following:\n- Surgical excision if possible.\n- Combined surgery, radiation therapy, and chemotherapy are recommended for rhabdomyosarcoma."
+        },
+        {
+          "section": "Midline Granulomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer",
+            "Midline Granulomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for stage II midline granulomas include the following:\n- Radiation therapy to nasal cavity and paranasal sinuses."
+        },
+        {
+          "section": "Nasal Vestibule Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer",
+            "Nasal Vestibule Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for stage II nasal vestibule tumors include the following:\n- Surgery or radiation therapy may be performed. If tumors are extremely small, surgery is preferred, provided that no deformity is expected and a need for reconstruction is not anticipated. Radiation therapy is preferred for other small lesions.[ 6 , 7 ] Treatment of the neck should be considered."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Kraus DH, Sterman BM, Levine HL, et al.: Factors influencing survival in ethmoid sinus cancer. Arch Otolaryngol Head Neck Surg 118 (4): 367-72, 1992. [PUBMED Abstract]\n- Cantù G, Solero CL, Mariani L, et al.: Anterior craniofacial resection for malignant ethmoid tumors--a series of 91 patients. Head Neck 21 (3): 185-91, 1999. [PUBMED Abstract]\n- Shah JP: Surgery of the anterior skull base for malignant tumors. Acta Otorhinolaryngol Belg 53 (3): 191-4, 1999. [PUBMED Abstract]\n- Hawkins RB, Wynstra JH, Pilepich MV, et al.: Carcinoma of the nasal cavity--results of primary and adjuvant radiotherapy. Int J Radiat Oncol Biol Phys 15 (5): 1129-33, 1988. [PUBMED Abstract]\n- Ang KK, Jiang GL, Frankenthaler RA, et al.: Carcinomas of the nasal cavity. Radiother Oncol 24 (3): 163-8, 1992. [PUBMED Abstract]\n- Levendag PC, Pomp J: Radiation therapy of squamous cell carcinoma of the nasal vestibule. Int J Radiat Oncol Biol Phys 19 (6): 1363-7, 1990. [PUBMED Abstract]\n- Wong CS, Cummings BJ: The place of radiation therapy in the treatment of squamous cell carcinoma of the nasal vestibule. A review. Acta Oncol 27 (3): 203-8, 1988. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Stage III disease includes small and moderately advanced lesions."
+        },
+        {
+          "section": "Maxillary Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer",
+            "Maxillary Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for stage III maxillary sinus tumors include the following:\n- Surgical resection with high-dose preoperative or postoperative radiation therapy.\n- Superfractionated preoperative or postoperative radiation therapy (under clinical evaluation).[ 1 ]"
+        },
+        {
+          "section": "Ethmoid Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer",
+            "Ethmoid Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for stage III ethmoid sinus tumors include the following:\n- Generally, a craniofacial resection in combination with postoperative radiation therapy.[ 2 - 4 ]\n- Clinical trials using new drug combinations for advanced tumors should be considered to evaluate chemotherapy preoperatively or before radiation therapy. Adjuvant therapy after surgery or after combined-modality therapy should also be considered."
+        },
+        {
+          "section": "Sphenoid Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer",
+            "Sphenoid Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for stage III sphenoid sinus tumors include the following:\n- Treatment is the same as for nasopharyngeal cancers, primarily radiation therapy. For more information, see the Treatment of Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma section in Nasopharyngeal Carcinoma Treatment.\n- Concurrent chemotherapy and radiation therapy may be considered."
+        },
+        {
+          "section": "Nasal Cavity Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer",
+            "Nasal Cavity Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Nasal cavity tumors are squamous cell carcinomas.\nTreatment options for stage III nasal cavity tumors include the following:\n- Surgery alone.\n- Radiation therapy alone.[ 5 ] Concurrent chemotherapy and radiation therapy may be considered.\n- Combined surgery and radiation therapy (postoperative radiation therapy is preferred).[ 5 , 6 ]\n- Clinical trials using new drug combinations for advanced tumors should be considered to evaluate chemotherapy preoperatively or before radiation therapy. Adjuvant therapy after surgery or after combined-modality therapy should also be considered."
+        },
+        {
+          "section": "Inverting Papillomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer",
+            "Inverting Papillomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for stage III inverting papillomas include the following:\n- Surgical excision.\n- Re-excision for surgery failures.\n- Radiation therapy or radical surgery may eventually be necessary."
+        },
+        {
+          "section": "Melanomas and Sarcomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer",
+            "Melanomas and Sarcomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for stage III melanomas and sarcomas include the following:\n- Surgical excision if possible; otherwise, consider radiation therapy.\n- Combined surgery, radiation therapy, and chemotherapy are recommended for rhabdomyosarcoma."
+        },
+        {
+          "section": "Midline Granulomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer",
+            "Midline Granulomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for stage III midline granulomas include the following:\n- Radiation therapy to nasal cavity and paranasal sinuses."
+        },
+        {
+          "section": "Nasal Vestibule Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer",
+            "Nasal Vestibule Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for stage III nasal vestibule tumors include the following:\n- Generally, radiation is preferred to minimize deformity.[ 7 ] External-beam (photons or electrons) and/or interstitial implantation can be used. Surgery is reserved for salvage.\n- Clinical trials using new drug combinations for advanced tumors should be considered to evaluate chemotherapy preoperatively or before radiation therapy. Adjuvant therapy after surgery or after combined-modality therapy should also be considered."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Johnson CR, Schmidt-Ullrich RK, Wazer DE: Concomitant boost technique using accelerated superfractionated radiation therapy for advanced squamous cell carcinoma of the head and neck. Cancer 69 (11): 2749-54, 1992. [PUBMED Abstract]\n- Kraus DH, Sterman BM, Levine HL, et al.: Factors influencing survival in ethmoid sinus cancer. Arch Otolaryngol Head Neck Surg 118 (4): 367-72, 1992. [PUBMED Abstract]\n- Cantù G, Solero CL, Mariani L, et al.: Anterior craniofacial resection for malignant ethmoid tumors--a series of 91 patients. Head Neck 21 (3): 185-91, 1999. [PUBMED Abstract]\n- Shah JP: Surgery of the anterior skull base for malignant tumors. Acta Otorhinolaryngol Belg 53 (3): 191-4, 1999. [PUBMED Abstract]\n- Hawkins RB, Wynstra JH, Pilepich MV, et al.: Carcinoma of the nasal cavity--results of primary and adjuvant radiotherapy. Int J Radiat Oncol Biol Phys 15 (5): 1129-33, 1988. [PUBMED Abstract]\n- Ang KK, Jiang GL, Frankenthaler RA, et al.: Carcinomas of the nasal cavity. Radiother Oncol 24 (3): 163-8, 1992. [PUBMED Abstract]\n- Wong CS, Cummings BJ: The place of radiation therapy in the treatment of squamous cell carcinoma of the nasal vestibule. A review. Acta Oncol 27 (3): 203-8, 1988. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Stage IV disease includes advanced lesions."
+        },
+        {
+          "section": "Maxillary Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer",
+            "Maxillary Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for stage IV maxillary sinus tumors include the following:\n- High-dose radiation therapy is used because extension to the base of the skull and nasopharynx is a potential, but not absolute, contraindication to surgery. If radiation therapy is to be used alone, localized drainage of the sinus(es) must be established before radiation therapy treatments are initiated.\n- Superfractionated radiation therapy (under clinical evaluation).[ 1 ]\n- Clinical trials for advanced tumors should be considered to evaluate chemotherapy preoperatively or before radiation therapy. Adjuvant therapy after surgery or after combined-modality therapy should also be considered.\n- Concurrent chemotherapy and radiation therapy may be considered."
+        },
+        {
+          "section": "Ethmoid Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer",
+            "Ethmoid Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for stage IV ethmoid sinus tumors include the following:\n- Generally, a craniofacial resection in combination with preoperative or postoperative radiation therapy is performed.[ 2 - 4 ]\n- Concurrent chemotherapy and radiation therapy may be considered for patients with inoperable tumors.\n- Clinical trials for advanced tumors should be considered to evaluate chemotherapy preoperatively or before radiation therapy. Adjuvant therapy after surgery or after combined-modality therapy should also be considered."
+        },
+        {
+          "section": "Sphenoid Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer",
+            "Sphenoid Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for stage IV sphenoid sinus tumors include the following:\n- Treatment is the same as for nasopharyngeal cancers, primarily radiation therapy. For more information, see the Treatment of Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma and Treatment of Metastatic and Recurrent Nasopharyngeal Carcinoma sections in Nasopharyngeal Carcinoma Treatment.\n- Concurrent chemotherapy and radiation therapy may be considered."
+        },
+        {
+          "section": "Nasal Cavity Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer",
+            "Nasal Cavity Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Nasal cavity tumors are squamous cell carcinomas.\nTreatment options for stage IV nasal cavity tumors include the following:\n- Surgery alone.\n- Radiation therapy alone.[ 5 ] Concurrent chemotherapy and radiation therapy may be considered.\n- Combined surgery and radiation therapy (postoperative radiation therapy is preferred).[ 5 ]\n- Clinical trials for advanced tumors should be considered to evaluate chemotherapy preoperatively or before radiation therapy. Adjuvant therapy after surgery or after combined-modality therapy should also be considered."
+        },
+        {
+          "section": "Inverting Papillomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer",
+            "Inverting Papillomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for stage IV inverting papillomas include the following:\n- Surgical excision.\n- Re-excision for surgery failures.\n- Radiation therapy or radical surgery may eventually be necessary."
+        },
+        {
+          "section": "Melanomas and Sarcomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer",
+            "Melanomas and Sarcomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for stage IV melanomas and sarcomas include the following:\n- Surgical excision if possible.\n- Appropriate radiation therapy and various chemotherapy agents should be considered."
+        },
+        {
+          "section": "Midline Granulomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer",
+            "Midline Granulomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for stage IV midline granulomas include the following:\n- Radiation therapy to nasal cavity and paranasal sinuses."
+        },
+        {
+          "section": "Nasal Vestibule Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer",
+            "Nasal Vestibule Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for stage IV nasal vestibule tumors include the following:\n- Generally, radiation therapy is preferred to minimize deformity. External-beam (i.e., photons or electrons) and/or interstitial implantation can be used. Surgery is reserved for salvage. Treatment of the neck should be considered.\n- Clinical trials for advanced tumors should be considered to evaluate chemotherapy preoperatively or before radiation therapy. Adjuvant therapy after surgery or after combined-modality therapy should also be considered.\n- Concurrent chemotherapy and radiation therapy may be considered.\nNeoadjuvant chemotherapy as used in clinical trials has been used to shrink tumors and to render them more definitively treatable with either surgery or radiation therapy. This chemotherapy is given before the other modalities; therefore, the designation of neoadjuvant is used to distinguish it from standard adjuvant therapy, which is given after or during definitive therapy with radiation or after surgery. Many drug combinations have been used in neoadjuvant chemotherapy.[ 6 - 8 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- Johnson CR, Schmidt-Ullrich RK, Wazer DE: Concomitant boost technique using accelerated superfractionated radiation therapy for advanced squamous cell carcinoma of the head and neck. Cancer 69 (11): 2749-54, 1992. [PUBMED Abstract]\n- Kraus DH, Sterman BM, Levine HL, et al.: Factors influencing survival in ethmoid sinus cancer. Arch Otolaryngol Head Neck Surg 118 (4): 367-72, 1992. [PUBMED Abstract]\n- Cantù G, Solero CL, Mariani L, et al.: Anterior craniofacial resection for malignant ethmoid tumors--a series of 91 patients. Head Neck 21 (3): 185-91, 1999. [PUBMED Abstract]\n- Shah JP: Surgery of the anterior skull base for malignant tumors. Acta Otorhinolaryngol Belg 53 (3): 191-4, 1999. [PUBMED Abstract]\n- Hawkins RB, Wynstra JH, Pilepich MV, et al.: Carcinoma of the nasal cavity--results of primary and adjuvant radiotherapy. Int J Radiat Oncol Biol Phys 15 (5): 1129-33, 1988. [PUBMED Abstract]\n- Stupp R, Weichselbaum RR, Vokes EE: Combined modality therapy of head and neck cancer. Semin Oncol 21 (3): 349-58, 1994. [PUBMED Abstract]\n- Al-Sarraf M: Head and neck cancer: chemotherapy concepts. Semin Oncol 15 (1): 70-85, 1988. [PUBMED Abstract]\n- Dimery IW, Hong WK: Overview of combined modality therapies for head and neck cancer. J Natl Cancer Inst 85 (2): 95-111, 1993. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemotherapy for recurrent head and neck squamous cell cancer has shown promise. Chemotherapy may be indicated when there is recurrence in either distant or local disease after primary surgery or radiation therapy, and when there is residual disease after primary treatment.[ 1 , 2 ] Survival may be improved in those achieving a complete response to chemotherapy.[ 3 ] Combined-modality therapy with platinum and radiation therapy has been used in clinical trials such as UMCC-8810.[ 4 ]"
+        },
+        {
+          "section": "Maxillary Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer",
+            "Maxillary Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for recurrent maxillary sinus tumors include the following:\n- After surgery, radiation therapy or craniofacial resection with postoperative radiation therapy.\n- After radiation therapy, craniofacial resection if indicated.\n- Chemotherapy should be considered for patients with disease that does not respond to other treatments.\n- Clinical trials using chemotherapy should be considered.[ 5 , 6 ]"
+        },
+        {
+          "section": "Ethmoid Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer",
+            "Ethmoid Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for recurrent ethmoid sinus tumors include the following:\n- After limited surgery, craniofacial resection, radiation therapy, or both.[ 7 - 9 ]\n- After radiation therapy, craniofacial resection.\n- Chemotherapy should be considered for patients with disease that does not respond to other treatments.\n- Clinical trials using chemotherapy should be considered.[ 5 , 6 ]"
+        },
+        {
+          "section": "Sphenoid Sinus Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer",
+            "Sphenoid Sinus Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for recurrent sphenoid sinus tumors include the following:\n- Treatment is the same as for nasopharyngeal cancers, primarily radiation therapy. For more information, see the Treatment of Metastatic and Recurrent Nasopharyngeal Carcinoma section in Nasopharyngeal Carcinoma Treatment.\n- Chemotherapy should be considered for patients with disease that does not respond to other treatments."
+        },
+        {
+          "section": "Nasal Cavity Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer",
+            "Nasal Cavity Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "For nasal cavity tumors (squamous cell carcinomas), salvage is possible in approximately 25% of patients.\nTreatment options for recurrent nasal cavity tumors include the following:\n- For disease that does not respond to radiation therapy, craniofacial resection.\n- For disease that does not respond to surgery, radiation therapy.\n- Chemotherapy should be considered for patients with disease that does not respond to radiation therapy or surgery.\n- Clinical trials using chemotherapy should be considered.[ 5 , 6 ]"
+        },
+        {
+          "section": "Inverting Papillomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer",
+            "Inverting Papillomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for recurrent inverting papillomas include the following:\n- Surgical excision.\n- Re-excision for surgery failures.\n- Radical surgery or radiation therapy may eventually be necessary."
+        },
+        {
+          "section": "Melanomas and Sarcomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer",
+            "Melanomas and Sarcomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment options for recurrent melanomas and sarcomas include the following:\n- Surgical excision if possible.\n- Appropriate chemotherapy geared specifically to cell type. For more information, see the Treatment of Metastatic and Recurrent Nasopharyngeal Carcinoma section in Nasopharyngeal Carcinoma Treatment and the Treatment of Recurrent Major Salivary Gland Cancer section in Salivary Gland Cancer Treatment."
+        },
+        {
+          "section": "Midline Granulomas",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer",
+            "Midline Granulomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for recurrent midline granulomas include the following:\n- Radiation therapy to nasal cavity and paranasal sinuses."
+        },
+        {
+          "section": "Nasal Vestibule Tumors",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer",
+            "Nasal Vestibule Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment options for recurrent nasal vestibule tumors include the following:\n- For disease that does not respond to radiation therapy, surgery.\n- For disease that does not respond to surgery, radiation therapy or a combination of surgery and radiation therapy.\n- Chemotherapy should be considered for patients with disease that does not respond to radiation therapy or surgery.\n- Clinical trials using chemotherapy should be considered.[ 5 , 6 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Kies MS, Levitan N, Hong WK: Chemotherapy of head and neck cancer. Otolaryngol Clin North Am 18 (3): 533-41, 1985. [PUBMED Abstract]\n- LoRusso P, Tapazoglou E, Kish JA, et al.: Chemotherapy for paranasal sinus carcinoma. A 10-year experience at Wayne State University. Cancer 62 (1): 1-5, 1988. [PUBMED Abstract]\n- Al-Kourainy K, Kish J, Ensley J, et al.: Achievement of superior survival for histologically negative versus histologically positive clinically complete responders to cisplatin combination in patients with locally advanced head and neck cancer. Cancer 59 (2): 233-8, 1987. [PUBMED Abstract]\n- Al-Sarraf M, Pajak TF, Marcial VA, et al.: Concurrent radiotherapy and chemotherapy with cisplatin in inoperable squamous cell carcinoma of the head and neck. An RTOG Study. Cancer 59 (2): 259-65, 1987. [PUBMED Abstract]\n- Brasnu D, Laccourreye O, Bassot V, et al.: Cisplatin-based neoadjuvant chemotherapy and combined resection for ethmoid sinus adenocarcinoma reaching and/or invading the skull base. Arch Otolaryngol Head Neck Surg 122 (7): 765-8, 1996. [PUBMED Abstract]\n- Licitra L, Locati LD, Cavina R, et al.: Primary chemotherapy followed by anterior craniofacial resection and radiotherapy for paranasal cancer. Ann Oncol 14 (3): 367-72, 2003. [PUBMED Abstract]\n- Kraus DH, Sterman BM, Levine HL, et al.: Factors influencing survival in ethmoid sinus cancer. Arch Otolaryngol Head Neck Surg 118 (4): 367-72, 1992. [PUBMED Abstract]\n- Cantù G, Solero CL, Mariani L, et al.: Anterior craniofacial resection for malignant ethmoid tumors--a series of 91 patients. Head Neck 21 (3): 185-91, 1999. [PUBMED Abstract]\n- Shah JP: Surgery of the anterior skull base for malignant tumors. Acta Otorhinolaryngol Belg 53 (3): 191-4, 1999. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (07/05/2024)",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (07/05/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nTreatment Option Overview for Paranasal Sinus and Nasal Cavity Cancer\nAdded Fluorouracil dosing as a new subsection.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of adult paranasal sinus and nasal cavity cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 10,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Paranasal Sinus and Nasal Cavity Cancer Treatment are:\n- Andrea Bonetti, MD (Pederzoli Hospital)\n- Minh Tam Truong, MD (Boston University Medical Center)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Paranasal Sinus and Nasal Cavity Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/hp/adult/paranasal-sinus-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389272]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\43d3a897edfc35565db6.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Paranasal Sinus and Nasal Cavity Cancer",
+      "title": "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+      "summary_name": "Paranasal Sinus and Nasal Cavity Cancer Treatment",
+      "url": "https://www.cancer.gov/types/head-and-neck/patient/adult/paranasal-sinus-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "November 8, 2024",
+      "retrieved_at": "2026-08-31T07:10:51.501533+00:00",
+      "content_sha256": "c5c71c73602519823c7635410483d4bbee657b4e398994d7e83f83697d13f63a",
+      "section_count": 48,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Paranasal Sinus and Nasal Cavity Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Paranasal sinus and nasal cavity cancer is a disease in which malignant (cancer) cells form in the tissues of the paranasal sinuses and nasal cavity.\n- Different types of cells in the paranasal sinus and nasal cavity may become malignant.\n- Being exposed to certain chemicals or dust in the workplace can increase the risk of paranasal sinus and nasal cavity cancer.\n- Signs and symptoms of paranasal sinus and nasal cavity cancer include sinus problems and nosebleeds.\n- Tests that examine the sinuses and nasal cavity are used to diagnose paranasal sinus and nasal cavity cancer.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Paranasal sinus and nasal cavity cancer is a disease in which malignant (cancer) cells form in the tissues of the paranasal sinuses and nasal cavity.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Paranasal Sinus and Nasal Cavity Cancer",
+            "Paranasal sinus and nasal cavity cancer is a disease in which malignant (cancer) cells form in the tissues of the paranasal sinuses and nasal cavity."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Paranasal sinuses\n\"Paranasal\" means near the nose. The para sinuses are hollow, air-filled spaces in the bones around the nose. The sinuses are lined with cells that make mucus , which keeps the inside of the nose from drying out during breathing.\nThere are several para sinuses named after the bones that surround them:\n- The frontal sinuses are in the lower forehead above the nose.\n- The maxillary sinuses are in the cheekbones on either side of the nose.\n- The ethmoid sinuses are beside the upper nose, between the eyes.\n- The sphenoid sinuses are behind the nose, in the center of the skull .\nNasal cavity\nThe nose opens into the nasal cavity , which is divided into two nasal passages. Air moves through these passages during breathing. The nasal cavity lies above the bone that forms the roof of the mouth and curves down at the back to join the throat . The area just inside the nostrils is called the nasal vestibule. A small area of special cells in the roof of each nasal passage sends signals to the brain to give the sense of smell.\nTogether the paranasal sinuses and the nasal cavity filter and warm the air, and make it moist before it goes into the lungs . The movement of air through the sinuses and other parts of the respiratory system help make sounds for talking.\nParanasal sinus and nasal cavity cancer is a type of head and neck cancer ."
+        },
+        {
+          "section": "Different types of cells in the paranasal sinus and nasal cavity may become malignant.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Paranasal Sinus and Nasal Cavity Cancer",
+            "Different types of cells in the paranasal sinus and nasal cavity may become malignant."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The most common type of paranasal sinus and nasal cavity cancer is squamous cell carcinoma . This type of cancer forms in the thin, flat cells lining the inside of the paranasal sinuses and the nasal cavity.\nOther types of paranasal sinus and nasal cavity cancer include:\n- Melanomas : Cancer that starts in cells called melanocytes , the cells that give skin its natural color.\n- Sarcomas : Cancer that starts in muscle or connective tissue .\n- Inverting papillomas : Benign tumors that form inside the nose. A small number of these change into cancer.\n- Midline granulomas: Cancer of tissues in the middle part of the face."
+        },
+        {
+          "section": "Being exposed to certain chemicals or dust in the workplace can increase the risk of paranasal sinus and nasal cavity cancer.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Paranasal Sinus and Nasal Cavity Cancer",
+            "Being exposed to certain chemicals or dust in the workplace can increase the risk of paranasal sinus and nasal cavity cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Anything that increases a person's chance of getting a disease is called a risk factor . Not every person with one or more of these risk factors will develop paranasal sinus and nasal cavity cancer, and it will develop in people who don't have any known risk factors. Talk with your doctor if you think you may be at risk. Risk factors for paranasal sinus and nasal cavity cancer include:\n- Being exposed to certain workplace chemicals or dust, such as those found in the following jobs:\n- Furniture-making.\n- Sawmill work.\n- Woodworking (carpentry).\n- Shoemaking.\n- Metal-plating.\n- Flour mill or bakery work.\n- Being infected with human papillomavirus (HPV).\n- Being male and older than 40 years.\n- Smoking."
+        },
+        {
+          "section": "Signs and symptoms of paranasal sinus and nasal cavity cancer include sinus problems and nosebleeds.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Paranasal Sinus and Nasal Cavity Cancer",
+            "Signs and symptoms of paranasal sinus and nasal cavity cancer include sinus problems and nosebleeds."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "These and other signs and symptoms may be caused by paranasal sinus and nasal cavity cancer or by other conditions . There may be no signs or symptoms in the early stages . Signs and symptoms may appear as the tumor grows. Check with your doctor if you have:\n- Blocked sinuses that do not clear, or sinus pressure.\n- Headaches or pain in the sinus areas.\n- A runny nose.\n- Nosebleeds.\n- A lump or sore inside the nose that does not heal.\n- A lump on the face or roof of the mouth.\n- Numbness or tingling in the face.\n- Swelling or other trouble with the eyes, such as double vision or the eyes pointing in different directions.\n- Pain in the upper teeth, loose teeth, or dentures that no longer fit well.\n- Pain or pressure in the ear."
+        },
+        {
+          "section": "Tests that examine the sinuses and nasal cavity are used to diagnose paranasal sinus and nasal cavity cancer.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Paranasal Sinus and Nasal Cavity Cancer",
+            "Tests that examine the sinuses and nasal cavity are used to diagnose paranasal sinus and nasal cavity cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Physical exam of the nose, face, and neck : An exam in which the doctor looks into the nose with a small, long-handled mirror to check for abnormal areas and checks the face and neck for lumps or swollen lymph nodes .\n- X-rays of the head and neck : An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- Biopsy : The removal of cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer. There are three types of biopsy:\n- Fine-needle aspiration (FNA) biopsy : The removal of tissue or fluid using a thin needle.\n- Incisional biopsy : The removal of part of an area of tissue that doesn’t look normal.\n- Excisional biopsy : The removal of an entire area of tissue that doesn’t look normal.\n- Nasoscopy : A procedure to look inside the nose for abnormal areas. A nasoscope is inserted into the nose. A nasoscope is a thin, tube-like instrument with a light and a lens for viewing. A special tool on the nasoscope may be used to remove samples of tissue. The tissues samples are viewed under a microscope by a pathologist to check for signs of cancer.\n- Laryngoscopy : A procedure in which the doctor checks the larynx (voice box) with a mirror or a laryngoscope to check for abnormal areas. A laryngoscope is a thin, tube-like instrument with a light and a lens for viewing the inside of the throat and voice box. It may also have a tool to remove tissue samples, which are checked under a microscope for signs of cancer."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Paranasal Sinus and Nasal Cavity Cancer",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The prognosis and treatment options depend on:\n- Where the tumor is in the paranasal sinus or nasal cavity and whether it has spread.\n- The size of the tumor.\n- The type of cancer.\n- The patient's age and general health.\n- Whether the cancer has just been diagnosed or has recurred (come back).\nParanasal sinus and nasal cavity cancers often have spread by the time they are diagnosed and are hard to cure . After treatment, a lifetime of frequent and careful follow-up is important because there is an increased risk of developing a second kind of cancer in the head or neck."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "- After paranasal sinus and nasal cavity cancer has been diagnosed, tests are done to find out if cancer cells have spread within the paranasal sinuses and nasal cavity or to other parts of the body.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- There is no standard staging system for cancer of the sphenoid and frontal sinuses.\n- The following stages are used for maxillary sinus cancer:\n- Stage 0 (carcinoma in situ)\n- Stage I\n- Stage II\n- Stage III\n- Stage IV\n- The following stages are used for nasal cavity and ethmoid sinus cancer:\n- Stage 0 (carcinoma in situ)\n- Stage I\n- Stage II\n- Stage III\n- Stage IV\n- After surgery, the stage of the cancer may change and more treatment may be needed.\n- Paranasal sinus and nasal cavity cancer can recur (come back) after it has been treated."
+        },
+        {
+          "section": "After paranasal sinus and nasal cavity cancer has been diagnosed, tests are done to find out if cancer cells have spread within the paranasal sinuses and nasal cavity or to other parts of the body.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "After paranasal sinus and nasal cavity cancer has been diagnosed, tests are done to find out if cancer cells have spread within the paranasal sinuses and nasal cavity or to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The process used to find out if cancer has spread within the paranasal sinuses and nasal cavity or to other parts of the body is called staging . The information gathered from the staging process determines the stage of the disease. It is important to know the stage in order to plan treatment. The following tests and procedures may be used in the staging process:\n- Endoscopy : A procedure to look at organs and tissues inside the body to check for abnormal areas. An endoscope is inserted through an opening in the body, such as the nose or mouth. An endoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue or lymph node samples, which are checked under a microscope for signs of disease.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body.\n- MRI (magnetic resonance imaging) with gadolinium : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. Sometimes a substance called gadolinium is injected into a vein. The gadolinium collects around the cancer cells so they show up brighter in the picture. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- PET scan (positron emission tomography scan) : A procedure to find malignant tumor cells in the body. A small amount of radioactive glucose (sugar) is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do.\n- Bone scan : A procedure to check if there are rapidly dividing cells, such as cancer cells, in the bone. A very small amount of radioactive material is injected into a vein and travels through the bloodstream. The radioactive material collects in the bones with cancer and is detected by a scanner."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of cancer as the primary tumor. For example, if nasal cavity cancer spreads to the lung , the cancer cells in the lung are actually nasal cavity cancer cells. The disease is metastatic nasal cavity cancer, not lung cancer."
+        },
+        {
+          "section": "There is no standard staging system for cancer of the sphenoid and frontal sinuses.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "There is no standard staging system for cancer of the sphenoid and frontal sinuses."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The staging described below for the maxillary and ethmoid sinuses and the nasal cavity is only used for patients who have not had lymph nodes in the neck removed and checked for signs of cancer."
+        },
+        {
+          "section": "Stage 0 (carcinoma in situ)",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "The following stages are used for maxillary sinus cancer:",
+            "Stage 0 (carcinoma in situ)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage 0 , abnormal cells are found in the mucous membranes lining the maxillary sinus . These abnormal cells may become cancer and spread into nearby normal tissue . Stage 0 is also called carcinoma in situ ."
+        },
+        {
+          "section": "Stage I",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "The following stages are used for maxillary sinus cancer:",
+            "Stage I"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage I , cancer has formed in the mucous membranes of the maxillary sinus ."
+        },
+        {
+          "section": "Stage II",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "The following stages are used for maxillary sinus cancer:",
+            "Stage II"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage II , cancer has spread to bone around the maxillary sinus , including the roof of the mouth and the nose, but not to bone at the back of the maxillary sinus or the part of the sphenoid bone behind the upper jaw."
+        },
+        {
+          "section": "Stage III",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "The following stages are used for maxillary sinus cancer:",
+            "Stage III"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "In stage III , cancer has spread to any of the following:\n- The bone at the back of the maxillary sinus .\n- The tissues under the skin.\n- The part of the eye socket near the nose or the bottom of the eye socket.\n- The area behind the cheek bone.\n- The ethmoid sinus .\nor\nCancer is found in the maxillary sinus and may have spread to any of the following:\n- The bones around the maxillary sinus, including the roof of the mouth and the nose.\n- The tissues under the skin.\n- The part of the eye socket near the nose or the bottom of the eye socket.\n- The area behind the cheek bone.\n- The ethmoid sinus.\nCancer has also spread to one lymph node on the same side of the neck as the cancer, and the lymph node is 3 centimeters or smaller."
+        },
+        {
+          "section": "Stage IV",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "The following stages are used for maxillary sinus cancer:",
+            "Stage IV"
+          ],
+          "is_boilerplate": false,
+          "block_count": 38,
+          "text": "Stage IV is divided into stages IVA, IVB, and IVC.\nStage IVA\nIn stage IVA , cancer has spread to any of the following:\n- The eye.\n- The skin of the cheek.\n- The part of the sphenoid bone behind the upper jaw.\n- The area behind the upper jaw.\n- The bone between the eyes.\n- The sphenoid or frontal sinuses .\nCancer may have also spread to one lymph node on the same side of the neck as the cancer, and the lymph node is 3 centimeters or smaller.\nor\nCancer is found in the maxillary sinus and may have spread to any of the following:\n- The bones around the maxillary sinus, including the roof of the mouth and the nose.\n- The bone between the eyes.\n- The tissues under the skin.\n- The skin of the cheek.\n- The eye, the part of the eye socket near the nose, or the bottom of the eye socket.\n- The area behind the cheek bone.\n- The part of the sphenoid bone behind the upper jaw.\n- The area behind the upper jaw.\n- The ethmoid , sphenoid, or frontal sinuses.\nCancer has also spread to one of the following:\n- one lymph node on the same side of the neck as the cancer and the lymph node is larger than 3 centimeters but not larger than 6 centimeters; or\n- more than one lymph node on the same side of the neck as the cancer and the lymph nodes are not larger than 6 centimeters; or\n- lymph nodes on the opposite side of the neck as the cancer or on both sides of the neck, and the lymph nodes are not larger than 6 centimeters.\nStage IVB\nIn stage IVB , cancer has spread to any of the following:\n- The area behind the eye.\n- The brain.\n- The middle parts of the skull .\n- The nerves that begin in the brain and go to the face, neck, and other parts of the brain ( cranial nerves ).\n- The upper part of the throat behind the nose.\n- The base of the skull near the spinal cord .\nCancer may have also spread to one or more lymph nodes of any size, anywhere in the neck.\nor\nCancer may be found anywhere in or near the maxillary sinus. Cancer has spread to a lymph node that is larger than 6 centimeters or has spread through the outside covering of a lymph node into nearby connective tissue .\nStage IVC\nIn stage IVC , cancer may be found anywhere in or near the maxillary sinus, may have spread to lymph nodes, and has spread to organs far away from the maxillary sinus, such as the lungs ."
+        },
+        {
+          "section": "Stage 0 (carcinoma in situ)",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "The following stages are used for nasal cavity and ethmoid sinus cancer:",
+            "Stage 0 (carcinoma in situ)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage 0 , abnormal cells are found in the mucous membranes lining the nasal cavity or ethmoid sinus . These abnormal cells may become cancer and spread into nearby normal tissue . Stage 0 is also called carcinoma in situ ."
+        },
+        {
+          "section": "Stage I",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "The following stages are used for nasal cavity and ethmoid sinus cancer:",
+            "Stage I"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage I , cancer has formed and is found in only one area of either the nasal cavity or the ethmoid sinus and may have spread into bone."
+        },
+        {
+          "section": "Stage II",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "The following stages are used for nasal cavity and ethmoid sinus cancer:",
+            "Stage II"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage II , cancer is found in two areas of either the nasal cavity or the ethmoid sinus that are near each other, or cancer has spread to an area next to the sinuses. Cancer may also have spread into bone."
+        },
+        {
+          "section": "Stage III",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "The following stages are used for nasal cavity and ethmoid sinus cancer:",
+            "Stage III"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "In stage III , cancer has spread to any of the following:\n- The part of the eye socket near the nose or the bottom of the eye socket.\n- The maxillary sinus .\n- The roof of the mouth.\n- The bone between the eyes.\nor\nCancer is found in the nasal cavity or ethmoid sinus and may have spread to any of the following:\n- The part of the eye socket near the nose or the bottom of the eye socket.\n- The maxillary sinus.\n- The roof of the mouth.\n- The bone between the eyes.\nCancer has also spread to one lymph node on the same side of the neck as the cancer, and the lymph node is 3 centimeters or smaller."
+        },
+        {
+          "section": "Stage IV",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "The following stages are used for nasal cavity and ethmoid sinus cancer:",
+            "Stage IV"
+          ],
+          "is_boilerplate": false,
+          "block_count": 33,
+          "text": "Stage IV is divided into stages IVA, IVB, and IVC.\nStage IVA\nIn stage IVA , cancer has spread to any of the following:\n- The eye.\n- The skin of the nose or cheek.\n- The front parts of the skull .\n- The part of the sphenoid bone behind the upper jaw.\n- The sphenoid or frontal sinuses .\nCancer may have also spread to one lymph node on the same side of the neck as the cancer, and the lymph node is 3 centimeters or smaller.\nor\nCancer is found in the nasal cavity or ethmoid sinus and may have spread to any of the following:\n- The eye, the part of the eye socket near the nose, or the bottom of the eye socket.\n- The skin of the nose or cheek.\n- The front parts of the skull.\n- The part of the sphenoid bone behind the upper jaw.\n- The sphenoid or frontal sinuses.\nCancer has also spread to one of the following:\n- one lymph node on the same side of the neck as the cancer and the lymph node is larger than 3 centimeters but not larger than 6 centimeters; or\n- more than one lymph node on the same side of the neck as the cancer and the lymph nodes are not larger than 6 centimeters; or\n- lymph nodes on the opposite side of the neck as the cancer or on both sides of the neck, and the lymph nodes are not larger than 6 centimeters.\nStage IVB\nIn stage IVB , cancer has spread to any of the following:\n- The area behind the eye.\n- The brain.\n- The middle parts of the skull.\n- The nerves that begin in the brain and go to the face, neck, and other parts of the brain ( cranial nerves ).\n- The upper part of the throat behind the nose.\n- The base of the skull near the spinal cord .\nCancer may have also spread to one or more lymph nodes of any size, anywhere in the neck.\nor\nCancer may be found anywhere in or near the nasal cavity and ethmoid sinus. Cancer has spread to a lymph node that is larger than 6 centimeters or has spread through the outside covering of a lymph node into nearby connective tissue .\nStage IVC\nIn stage IVC , cancer may be found anywhere in or near the nasal cavity and ethmoid sinus, may have spread to lymph nodes, and has spread to organs far away from the nasal cavity and ethmoid sinus, such as the lungs ."
+        },
+        {
+          "section": "After surgery, the stage of the cancer may change and more treatment may be needed.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "After surgery, the stage of the cancer may change and more treatment may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If the cancer is removed by surgery , a pathologist will examine a sample of the cancer tissue under a microscope. Sometimes, the pathologist’s review results in a change to the stage of the cancer and more treatment is needed after surgery."
+        },
+        {
+          "section": "Paranasal sinus and nasal cavity cancer can recur (come back) after it has been treated.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Paranasal Sinus and Nasal Cavity Cancer",
+            "Paranasal sinus and nasal cavity cancer can recur (come back) after it has been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer may come back in the paranasal sinuses and nasal cavity or in other parts of the body."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- There are different types of treatment for patients with paranasal sinus and nasal cavity cancer.\n- Patients with paranasal sinus and nasal cavity cancer should have their treatment planned by a team of doctors with expertise in treating head and neck cancer.\n- The following types of treatment are used:\n- Surgery\n- Radiation therapy\n- Chemotherapy\n- New types of treatment are being tested in clinical trials.\n- Treatment for paranasal sinus and nasal cavity cancer may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with paranasal sinus and nasal cavity cancer.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with paranasal sinus and nasal cavity cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatment are available for patients with paranasal sinus and nasal cavity cancer . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Patients with paranasal sinus and nasal cavity cancer should have their treatment planned by a team of doctors with expertise in treating head and neck cancer.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients with paranasal sinus and nasal cavity cancer should have their treatment planned by a team of doctors with expertise in treating head and neck cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment will be overseen by a medical oncologist , a doctor who specializes in treating people with cancer. The medical oncologist works with other doctors who are experts in treating patients with head and neck cancer and who specialize in certain areas of medicine and rehabilitation . Patients who have paranasal sinus and nasal cavity cancer may need special help adjusting to breathing problems or other side effects of the cancer and its treatment. If a large amount of tissue or bone around the paranasal sinuses or nasal cavity is taken out, plastic surgery may be done to repair or rebuild the area. The treatment team may include the following specialists :\n- Radiation oncologist .\n- Neurologist .\n- Oral surgeon or head and neck surgeon .\n- Plastic surgeon .\n- Dentist .\n- Nutritionist .\n- Speech and language pathologist.\n- Rehabilitation specialist ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Surgery (removing the cancer in an operation) is a common treatment for all stages of paranasal sinus and nasal cavity cancer. A doctor may remove the cancer and some of the healthy tissue and bone around the cancer. If the cancer has spread, the doctor may remove lymph nodes and other tissues in the neck.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, some patients may be given chemotherapy or radiation therapy after surgery to kill any cancer cells that are left. Treatment given after the surgery, to lower the risk that the cancer will come back, is called adjuvant therapy ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. There are two types of radiation therapy:\n- External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer. The total dose of radiation therapy is sometimes divided into several smaller, equal doses delivered over a period of several days. This is called fractionation . Enlarge External-beam radiation therapy of the head and neck. A machine is used to aim high-energy radiation at the cancer. The machine can rotate around the patient, delivering radiation from many different angles to provide highly conformal treatment. A mesh mask helps keep the patient’s head and neck from moving during treatment. Small ink marks are put on the mask. The ink marks are used to line up the radiation machine in the same position before each treatment.\n- Internal radiation therapy uses a radioactive substance sealed in needles, seeds , wires, or catheters that are placed directly into or near the cancer.\nThe way the radiation therapy is given depends on the type and stage of the cancer being treated. External and internal radiation therapy are used to treat paranasal sinus and nasal cavity cancer.\nExternal radiation therapy to the thyroid or the pituitary gland may change the way the thyroid gland works. The thyroid hormone levels in the blood may be tested before and after treatment."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). When chemotherapy is placed directly into the cerebrospinal fluid , an organ , or a body cavity such as the abdomen , the drugs mainly affect cancer cells in those areas ( regional chemotherapy ). Combination chemotherapy is treatment using more than one anticancer drug.\nThe way the chemotherapy is given depends on the type and stage of the cancer being treated.\nFor more information, see Drugs Approved for Head and Neck Cancer . (Paranasal sinus and nasal cavity cancer is a type of head and neck cancer.)"
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Treatment for paranasal sinus and nasal cavity cancer may cause side effects.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for paranasal sinus and nasal cavity cancer may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage I Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of stage I paranasal sinus and nasal cavity cancer depends on where cancer is found in the paranasal sinuses and nasal cavity :\n- If cancer is in the maxillary sinus , treatment is usually surgery with or without radiation therapy .\n- If cancer is in the ethmoid sinus , treatment is usually radiation therapy and/or surgery.\n- If cancer is in the sphenoid sinus , treatment is the same as for nasopharyngeal cancer , usually radiation therapy. For more information, see Nasopharyngeal Cancer Treatment .\n- If cancer is in the nasal cavity, treatment is usually surgery and/or radiation therapy.\n- For inverting papillomas , treatment is usually surgery with or without radiation therapy.\n- For melanomas and sarcomas , treatment is usually surgery with or without radiation therapy and chemotherapy .\n- For midline granulomas, treatment is usually radiation therapy.\n- If cancer is in the nasal vestibule, treatment is usually surgery or radiation therapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage II Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of stage II paranasal sinus and nasal cavity cancer depends on where cancer is found in the paranasal sinuses and nasal cavity :\n- If cancer is in the maxillary sinus , treatment is usually high-dose radiation therapy before or after surgery .\n- If cancer is in the ethmoid sinus , treatment is usually radiation therapy and/or surgery.\n- If cancer is in the sphenoid sinus , treatment is the same as for nasopharyngeal cancer , usually radiation therapy with or without chemotherapy . For more information, see Nasopharyngeal Cancer Treatment .\n- If cancer is in the nasal cavity, treatment is usually surgery and/or radiation therapy.\n- For inverting papillomas , treatment is usually surgery with or without radiation therapy.\n- For melanomas and sarcomas , treatment is usually surgery with or without radiation therapy and chemotherapy.\n- For midline granulomas, treatment is usually radiation therapy.\n- If cancer is in the nasal vestibule, treatment is usually surgery or radiation therapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage III Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 26,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of stage III paranasal sinus and nasal cavity cancer depends on where cancer is found in the paranasal sinuses and nasal cavity .\nIf cancer is in the maxillary sinus , treatment may include:\n- High-dose radiation therapy before or after surgery .\n- A clinical trial of fractionated radiation therapy before or after surgery.\nIf cancer is in the ethmoid sinus , treatment may include:\n- Surgery followed by radiation therapy .\n- A clinical trial of combination chemotherapy before surgery or radiation therapy.\n- A clinical trial of combination chemotherapy after surgery or other cancer treatment.\nIf cancer is in the sphenoid sinus , treatment is the same as for nasopharyngeal cancer , usually radiation therapy with or without chemotherapy . For more information, see Nasopharyngeal Cancer Treatment .\nIf cancer is in the nasal cavity, treatment may include:\n- Surgery and/or radiation therapy.\n- Chemotherapy and radiation therapy.\n- A clinical trial of combination chemotherapy before surgery or radiation therapy.\n- A clinical trial of combination chemotherapy after surgery or other cancer treatment.\nFor inverting papillomas , treatment is usually surgery with or without radiation therapy.\nFor melanomas and sarcomas , treatment may include:\n- Surgery.\n- Radiation therapy.\n- Surgery, radiation therapy, and chemotherapy.\nFor midline granulomas, treatment is usually radiation therapy.\nIf cancer is in the nasal vestibule, treatment may include:\n- External radiation therapy and/or internal radiation therapy with or without surgery.\n- A clinical trial of combination chemotherapy before surgery or radiation therapy.\n- A clinical trial of combination chemotherapy after surgery or other cancer treatment.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage IV Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 32,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of stage IV paranasal sinus and nasal cavity cancer depends on where cancer is found in the paranasal sinuses and nasal cavity .\nIf cancer is in the maxillary sinus , treatment may include:\n- High-dose radiation therapy with or without surgery .\n- A clinical trial of fractionated radiation therapy .\n- A clinical trial of chemotherapy before surgery or radiation therapy .\n- A clinical trial of chemotherapy after surgery or other cancer treatment.\n- A clinical trial of chemotherapy and radiation therapy.\nIf cancer is in the ethmoid sinus , treatment may include:\n- Radiation therapy before or after surgery.\n- Chemotherapy and radiation therapy.\n- A clinical trial of chemotherapy before surgery or radiation therapy.\n- A clinical trial of chemotherapy after surgery or other cancer treatment.\n- A clinical trial of chemotherapy and radiation therapy.\nIf cancer is in the sphenoid sinus , treatment is the same as for nasopharyngeal cancer , usually radiation therapy with or without chemotherapy. For more information, see Nasopharyngeal Cancer Treatment .\nIf cancer is in the nasal cavity, treatment may include:\n- Surgery and/or radiation therapy.\n- Chemotherapy and radiation therapy.\n- A clinical trial of combination chemotherapy before surgery or radiation therapy.\n- A clinical trial of combination chemotherapy after surgery or other cancer treatment.\nFor inverting papillomas , treatment is usually surgery with or without radiation therapy.\nFor melanomas and sarcomas , treatment may include:\n- Surgery.\n- Radiation therapy.\n- Chemotherapy.\nFor midline granulomas, treatment is usually radiation therapy.\nIf cancer is in the nasal vestibule, treatment may include:\n- External radiation therapy and/or internal radiation therapy with or without surgery.\n- A clinical trial of chemotherapy before surgery or radiation therapy.\n- A clinical trial of chemotherapy after surgery or other cancer treatment.\n- A clinical trial of chemotherapy and radiation therapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 26,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of recurrent paranasal sinus and nasal cavity cancer depends on where cancer is found in the paranasal sinuses and nasal cavity .\nIf cancer is in the maxillary sinus , treatment may include:\n- Surgery followed by radiation therapy .\n- Radiation therapy followed by surgery.\n- Chemotherapy as palliative therapy to relieve symptoms and improve the quality of life .\n- A clinical trial of chemotherapy.\nIf cancer is in the ethmoid sinus , treatment may include:\n- Surgery and/or radiation therapy.\n- Chemotherapy as palliative therapy to relieve symptoms and improve the quality of life.\n- A clinical trial of chemotherapy.\nIf cancer is in the sphenoid sinus , treatment is the same as for nasopharyngeal cancer and may include radiation therapy with or without chemotherapy. For more information, see Nasopharyngeal Cancer Treatment .\nIf cancer is in the nasal cavity, treatment may include:\n- Surgery and/or radiation therapy.\n- Chemotherapy as palliative therapy to relieve symptoms and improve the quality of life.\n- A clinical trial of chemotherapy.\nFor inverting papillomas , treatment is usually surgery with or without radiation therapy.\nFor melanomas and sarcomas , treatment may include:\n- Surgery.\n- Chemotherapy as palliative therapy to relieve symptoms and improve the quality of life.\nFor midline granulomas, treatment is usually radiation therapy.\nIf cancer is in the nasal vestibule, treatment may include:\n- Surgery and/or radiation therapy.\n- Chemotherapy as palliative therapy to relieve symptoms and improve the quality of life.\n- A clinical trial of chemotherapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Paranasal Sinus and Nasal Cavity Cancer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "To Learn More About Paranasal Sinus and Nasal Cavity Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "For more information from the National Cancer Institute about paranasal sinus and nasal cavity cancer, see:\n- Head and Neck Cancer Home Page\n- Oral Complications of Cancer Therapies\n- Drugs Approved for Head and Neck Cancer\n- Head and Neck Cancers\n- Tobacco (includes help with quitting)\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of paranasal sinus and nasal cavity cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Paranasal Sinus and Nasal Cavity Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/patient/adult/paranasal-sinus-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389439]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\9bbea6ceae62b4399713.html"
+    }
+  ]
+}

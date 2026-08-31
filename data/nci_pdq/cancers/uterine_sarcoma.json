@@ -1,0 +1,901 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Uterine Sarcoma",
+  "generated_at": "2026-08-31T07:15:23.574848+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Uterine Sarcoma",
+      "title": "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Uterine Sarcoma Treatment",
+      "url": "https://www.cancer.gov/types/uterine/hp/uterine-sarcoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "December 17, 2024",
+      "retrieved_at": "2026-08-31T07:15:14.498033+00:00",
+      "content_sha256": "09f6a714142e536fcc68285947e63caaadcd57f88595f265bd1e396930aa7884",
+      "section_count": 32,
+      "sections": [
+        {
+          "section": "General Information About Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "Uterine sarcoma accounts for less than 1% of gynecologic malignancies and 2% to 5% of all uterine malignancies.[ 1 ] The following tumors arise primarily from three distinct tissues:\n- Carcinosarcoma arises in the endometrium, in other organs of mullerian origin, and accounts for 40% to 50% of all uterine sarcomas.\n- Leiomyosarcoma arises from myometrial muscle, with a peak incidence occurring at age 50 years, and accounts for 30% of all uterine sarcomas.\n- Sarcoma arises in the endometrial stroma, with a peak incidence occurring before menopause for the low-grade tumors and after menopause for the high-grade tumors. It accounts for 15% of all uterine sarcomas.\nThese three distinct entities are often grouped together as uterine sarcomas; however, each type of tumor is being studied in separate clinical trials.\nCarcinosarcoma (the preferred designation by the World Health Organization [WHO]) is also referred to as mixed mesodermal sarcoma or mullerian tumor. Controversy exists about the following issues:\n- Whether carcinosarcoma is a true sarcoma.\n- Whether the sarcomatous elements are actually derived from a common epithelial-cell precursor that also gives rise to the usually more abundant adenocarcinomatous elements.\nThe stromal components of carcinosarcoma are further characterized by homologous elements, such as malignant mesenchymal tissue considered possibly native to the uterus, or heterologous elements, such as striated muscle, cartilage, or bone, which are foreign to the uterus. Carcinosarcoma parallels endometrial cancer in its postmenopausal predominance and in other epidemiological features. Increasingly, the treatment of carcinosarcoma is becoming similar to combined modality approaches for endometrial adenocarcinoma.\nOther rare forms of uterine sarcoma also fall under the WHO classification for mesenchymal and mixed tumors of the uterus. These sarcomas include the following:[ 2 , 3 ]\n- Mixed endometrial stromal and smooth muscle tumors.\n- Adenosarcomas, in which the epithelial elements appear benign within a malignant mesenchymal background.\n- Embryonal botryoides or rhabdomyosarcomas, which are found almost exclusively in infants.\n- PEComa—a perivascular epithelial-cell tumor that may behave in a malignant fashion, which is the latest to be added.\nFor more information, see Childhood Rhabdomyosarcoma Treatment ."
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Uterine Sarcoma",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The only documented etiological factor in 10% to 25% of these malignancies is prior pelvic radiation therapy, which is often administered for benign uterine bleeding that began 5 to 25 years earlier. An increased incidence of uterine sarcoma has been associated with tamoxifen in the treatment of breast cancer. Subsequently, increases have also been noted when tamoxifen was given to prevent breast cancer in women at increased risk—a possible result of the estrogenic effect of tamoxifen on the uterus. Because of this increase, patients taking tamoxifen should have follow-up pelvic examinations and should undergo endometrial biopsy if there is any abnormal uterine bleeding.[ 4 - 6 ]"
+        },
+        {
+          "section": "Prognosis",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Uterine Sarcoma",
+            "Prognosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "The prognosis for women with uterine sarcoma primarily depends on the extent of disease at the time of diagnosis.[ 7 ] For women with carcinosarcoma, significant predictors of metastatic disease at initial surgery include:[ 7 ]\n- Isthmic or cervical location.\n- Lymphatic vascular space invasion.\n- Serous and clear cell histology.\n- Grade 2 or 3 carcinoma.\nThese factors, in addition to the following ones, correlate with a progression-free interval:[ 7 ]\n- Adnexal spread.\n- Lymph node metastases.\n- Tumor size.\n- Peritoneal cytologic findings.\n- Depth of myometrial invasion.\nFactors that bear no relationship to the presence or absence of metastases at surgical exploration include:\n- Presence or absence of stromal heterologous elements.\n- Types of such elements.\n- Grade of the stromal components.\n- Mitotic activity of the stromal components.\nIn one study, women with well-differentiated sarcomatous components or carcinosarcomas had significantly longer progression-free intervals than those with moderately to poorly differentiated sarcomas for the homologous and heterologous types. The recurrence rate was 44% for homologous tumors and 63% for heterologous tumors. The type of heterologous sarcoma had no effect on the progression-free interval.\nFor women with leiomyosarcomas, some investigators consider tumor size to be the most important prognostic factor. Women with tumors larger than 5.0 cm in maximum diameter have a poor prognosis.[ 8 ] However, in a Gynecologic Oncology Group study, the mitotic index was the only factor significantly related to progression-free interval.[ 7 ] Leiomyosarcomas matched for other known prognostic factors may be more aggressive than their carcinosarcoma counterparts.[ 9 ] The 5-year survival rate for women with stage I disease, which is confined to the corpus, is approximately 50% versus 0% to 20% for the remaining stages.\nSurgery alone can be curative if the malignancy is contained within the uterus. The value of pelvic radiation therapy is not established. Current studies consist primarily of phase II chemotherapy trials for patients with advanced disease. Adjuvant chemotherapy following complete resection for patients with stage I or II disease was not found to be effective in a randomized trial.[ 10 ] Yet, nonrandomized trials have reported improved survival following adjuvant chemotherapy with or without radiation therapy.[ 11 - 13 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Uterine Sarcoma",
+            "Prognosis",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "- Forney JP, Buschbaum HJ: Classifying, staging, and treating uterine sarcomas. Contemp Ob Gyn 18(3):47, 50, 55-56, 61-62, 64, 69, 1981.\n- Gershenson D, McGuire W, Gore Martin, et al.: Gynecologic Cancer: Controversies in Management. 3rd ed. Churchill Livingstone, 2004.\n- Tavassoéli F, Devilee P, et al.: Pathology and Genetics of Tumours of the Breast and Female Genital Organs. International Agency for Research on Cancer, 2004.\n- Bergman L, Beelen ML, Gallee MP, et al.: Risk and prognosis of endometrial cancer after tamoxifen for breast cancer. Comprehensive Cancer Centres' ALERT Group. Assessment of Liver and Endometrial cancer Risk following Tamoxifen. Lancet 356 (9233): 881-7, 2000. [PUBMED Abstract]\n- Cohen I: Endometrial pathologies associated with postmenopausal tamoxifen treatment. Gynecol Oncol 94 (2): 256-66, 2004. [PUBMED Abstract]\n- Wickerham DL, Fisher B, Wolmark N, et al.: Association of tamoxifen and uterine sarcoma. J Clin Oncol 20 (11): 2758-60, 2002. [PUBMED Abstract]\n- Major FJ, Blessing JA, Silverberg SG, et al.: Prognostic factors in early-stage uterine sarcoma. A Gynecologic Oncology Group study. Cancer 71 (4 Suppl): 1702-9, 1993. [PUBMED Abstract]\n- Evans HL, Chawla SP, Simpson C, et al.: Smooth muscle neoplasms of the uterus other than ordinary leiomyoma. A study of 46 cases, with emphasis on diagnostic criteria and prognostic factors. Cancer 62 (10): 2239-47, 1988. [PUBMED Abstract]\n- Oláh KS, Dunn JA, Gee H: Leiomyosarcomas have a poorer prognosis than mixed mesodermal tumours when adjusting for known prognostic factors: the result of a retrospective study of 423 cases of uterine sarcoma. Br J Obstet Gynaecol 99 (7): 590-4, 1992. [PUBMED Abstract]\n- Omura GA, Blessing JA, Major F, et al.: A randomized clinical trial of adjuvant adriamycin in uterine sarcomas: a Gynecologic Oncology Group Study. J Clin Oncol 3 (9): 1240-5, 1985. [PUBMED Abstract]\n- Piver MS, Lele SB, Marchetti DL, et al.: Effect of adjuvant chemotherapy on time to recurrence and survival of stage I uterine sarcomas. J Surg Oncol 38 (4): 233-9, 1988. [PUBMED Abstract]\n- van Nagell JR, Hanson MB, Donaldson ES, et al.: Adjuvant vincristine, dactinomycin, and cyclophosphamide therapy in stage I uterine sarcomas. A pilot study. Cancer 57 (8): 1451-4, 1986. [PUBMED Abstract]\n- Peters WA, Rivkin SE, Smith MR, et al.: Cisplatin and adriamycin combination chemotherapy for uterine stromal sarcomas and mixed mesodermal tumors. Gynecol Oncol 34 (3): 323-7, 1989. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The most common histological types of uterine sarcomas include:\n- Carcinosarcoma (mixed mesodermal sarcoma [40%–50%]).\n- Leiomyosarcoma (30%).\n- Endometrial stromal sarcoma (15%).\nThe uterine neoplasm classification of the International Society of Gynecologic Pathologists and the World Health Organization uses the term carcinosarcoma for all primary uterine neoplasms containing malignant elements of both epithelial and stromal light microscopic appearances, regardless of whether malignant heterologous elements are present.[ 1 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Uterine Sarcoma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Silverberg SG, Major FJ, Blessing JA, et al.: Carcinosarcoma (malignant mixed mesodermal tumor) of the uterus. A Gynecologic Oncology Group pathologic study of 203 cases. Int J Gynecol Pathol 9 (1): 1-19, 1990. [PUBMED Abstract]"
+        },
+        {
+          "section": "FIGO Staging",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Uterine Sarcoma",
+            "FIGO Staging"
+          ],
+          "is_boilerplate": false,
+          "block_count": 35,
+          "text": "The Fédération Internationale de Gynécologie et d’Obstétrique (FIGO) and the American Joint Committee on Cancer have designated staging to define uterine sarcoma; the FIGO system is most commonly used.[ 1 , 2 ]\nThe FIGO staging system has two divisions, one for leiomyosarcoma and endometrial stromal sarcoma, and one for adenosarcoma. Carcinosarcoma is staged using the designated endometrial carcinoma definitions. For more information, see Endometrial Cancer Treatment .[ 1 ]\nStage | Definition\nFIGO = Fédération Internationale de Gynécologie et d’Obstétrique.\na Adapted from the Fédération Internationale de Gynécologie et d’Obstétrique.[ 1 ]\nI | Tumor limited to uterus.\n–IA | Tumor ≤5 cm.\n–IB | Tumor >5 cm.\nII | Tumor extends beyond the uterus, within the pelvis.\n–IIA | Adnexal involvement.\n–IIB | Involvement of other pelvic tissues.\nIII | Tumor invades abdominal tissues (not just protruding into the abdomen).\n–IIIA | One site.\n–IIIB | More than one site.\n–IIIC | Metastasis to pelvic and/or para-aortic lymph nodes.\nIV\n–IVA | Tumor invades bladder and/or rectum.\n–IVB | Distant metastasis.\nStage | Definition\nFIGO = Fédération Internationale de Gynécologie et d’Obstétrique.\na Adapted from the Fédération Internationale de Gynécologie et d’Obstétrique.[ 1 ]\nI | Tumor limited to uterus.\n–IA | Tumor limited to endometrium/endocervix with no myometrial invasion.\n–IB | Less than or equal to half myometrial invasion.\n–IC | More than half myometrial invasion.\nII | Tumor extends to the pelvis.\n–IIA | Adnexal involvement.\n–IIB | Tumor extends to extrauterine pelvic tissue.\nIII | Tumor invades abdominal tissues (not just protruding into the abdomen).\n–IIIA | One site.\n–IIIB | More than one site.\n–IIIC | Metastasis to pelvic and/or para-aortic lymph nodes.\nIV\n–IVA | Tumor invades bladder and/or rectum.\n–IVB | Distant metastasis."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Uterine Sarcoma",
+            "FIGO Staging",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Mbatani N, Olawaiye AB, Prat J: Uterine sarcomas. Int J Gynaecol Obstet 143 (Suppl 2): 51-58, 2018. [PUBMED Abstract]\n- Corpus uteri – sarcoma. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 671-80."
+        },
+        {
+          "section": "Treatment Option Overview for Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Surgery is often the principal means of diagnosis and is the primary treatment for all patients with uterine sarcoma. If the diagnosis is known, the extent of surgery is planned according to the stage of the tumor. Hysterectomy is usually performed when a uterine malignancy is suspected, except for rare instances when preservation of the uterus in a young patient is deemed safe for the type of cancer (e.g., a totally confined low-grade leiomyosarcoma in a woman who desires to retain childbearing potential). Medically suitable patients with the preoperative diagnosis of uterine sarcoma are considered candidates for abdominal hysterectomy, bilateral salpingo-oophorectomy, and pelvic and periaortic selective lymphadenectomy. Cytologic washings are obtained from the pelvis and abdomen. Thorough examination of the diaphragm, omentum, and upper abdomen is performed.\nThere is no firm evidence from a prospective study that adjuvant chemotherapy or radiation therapy is of benefit for patients with uterine sarcoma.[ 1 ] In one Gynecologic Oncology Group (GOG) study, the use of adjuvant doxorubicin did not alter the survival rate of patients with resected stage I or stage II uterine sarcomas; however, interpretation of these results is difficult because this study included some patients who received radiation and three types of uterine sarcomas that have variable responses to doxorubicin.[ 1 ][ Level of evidence A1 ] Because the risk of disease recurrence is high, even with localized presentations, many physicians have considered the use of adjuvant chemotherapy or radiation therapy.[ 2 ] Another GOG study ( GOG-0150 [NCT00002546]) addressed radiation therapy versus adjuvant chemotherapy.[ 3 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Uterine Sarcoma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Omura GA, Blessing JA, Major F, et al.: A randomized clinical trial of adjuvant adriamycin in uterine sarcomas: a Gynecologic Oncology Group Study. J Clin Oncol 3 (9): 1240-5, 1985. [PUBMED Abstract]\n- Kohorn EI, Schwartz PE, Chambers JT, et al.: Adjuvant therapy in mixed mullerian tumors of the uterus. Gynecol Oncol 23 (2): 212-21, 1986. [PUBMED Abstract]\n- Wolfson AH, Brady MF, Rocereto T, et al.: A gynecologic oncology group randomized phase III trial of whole abdominal irradiation (WAI) vs. cisplatin-ifosfamide and mesna (CIM) as post-surgical therapy in stage I-IV carcinosarcoma (CS) of the uterus. Gynecol Oncol 107 (2): 177-85, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Stage I Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Uterine Sarcoma",
+            "Treatment Options for Stage I Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment options for stage I uterine sarcoma include:\n- Surgery (total abdominal hysterectomy, bilateral salpingo-oophorectomy, and pelvic and periaortic selective lymphadenectomy).\n- Surgery plus pelvic radiation therapy.\n- Surgery plus adjuvant chemotherapy.\n- Surgery plus adjuvant radiation therapy.\nA nonrandomized Gynecologic Oncology Group study examined the effect of pelvic radiation therapy on patients with stage I and II carcinosarcomas. Patients who had pelvic radiation therapy had a significant reduction in tumor recurrences within the radiation treatment field but no alteration in survival.[ 1 ] A large nonrandomized study demonstrated improved survival and a lower local failure rate in patients with mixed mullerian tumors following postoperative external and intracavitary radiation therapy.[ 2 ] One nonrandomized study that predominantly included patients with carcinosarcomas showed that adjuvant chemotherapy with cisplatin and doxorubicin benefitted participants.[ 3 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Uterine Sarcoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Uterine Sarcoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Hornback NB, Omura G, Major FJ: Observations on the use of adjuvant radiation therapy in patients with stage I and II uterine sarcoma. Int J Radiat Oncol Biol Phys 12 (12): 2127-30, 1986. [PUBMED Abstract]\n- Larson B, Silfverswärd C, Nilsson B, et al.: Mixed müllerian tumours of the uterus--prognostic factors: a clinical and histopathologic study of 147 cases. Radiother Oncol 17 (2): 123-32, 1990. [PUBMED Abstract]\n- Peters WA, Rivkin SE, Smith MR, et al.: Cisplatin and adriamycin combination chemotherapy for uterine stromal sarcomas and mixed mesodermal tumors. Gynecol Oncol 34 (3): 323-7, 1989. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Stage II Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Uterine Sarcoma",
+            "Treatment Options for Stage II Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment options for stage II uterine sarcoma include:\n- Surgery (total abdominal hysterectomy, bilateral salpingo-oophorectomy, and pelvic and periaortic selective lymphadenectomy).\n- Surgery plus pelvic radiation therapy.\n- Surgery plus adjuvant chemotherapy.\n- Surgery plus adjuvant radiation therapy.\nA nonrandomized Gynecologic Oncology Group study examined the effect of pelvic radiation therapy on patients with stage I and II carcinosarcomas. Patients who had pelvic radiation therapy had a significant reduction in tumor recurrences within the radiation treatment field but no alteration in survival.[ 1 ] One nonrandomized study that predominantly included patients with carcinosarcomas showed that adjuvant chemotherapy with cisplatin and doxorubicin benefitted participants.[ 2 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Uterine Sarcoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage II Uterine Sarcoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Hornback NB, Omura G, Major FJ: Observations on the use of adjuvant radiation therapy in patients with stage I and II uterine sarcoma. Int J Radiat Oncol Biol Phys 12 (12): 2127-30, 1986. [PUBMED Abstract]\n- Peters WA, Rivkin SE, Smith MR, et al.: Cisplatin and adriamycin combination chemotherapy for uterine stromal sarcomas and mixed mesodermal tumors. Gynecol Oncol 34 (3): 323-7, 1989. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Stage III Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Uterine Sarcoma",
+            "Treatment Options for Stage III Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment options for stage III uterine sarcoma include:\n- Surgery (total abdominal hysterectomy, bilateral salpingo-oophorectomy, pelvic and periaortic selective lymphadenectomy, and resection of all gross tumor).\n- Surgery plus pelvic radiation therapy (under clinical evaluation).\n- Surgery plus adjuvant chemotherapy (under clinical evaluation).\nPhase II chemotherapy studies by the Gynecologic Oncology Group have documented some antitumor activity for cisplatin, doxorubicin, and ifosfamide.[ 1 , 2 ] These studies have also documented differences in response leading to separate trials for patients with carcinosarcomas and leiomyosarcomas. In patients previously untreated with chemotherapy, ifosfamide had a 32.2% response rate in patients with carcinosarcomas [ 3 ] and a 17.2% partial response rate in patients with leiomyosarcomas.[ 2 ]\nGOG-108 was a randomized trial that examined the use of ifosfamide with or without cisplatin as first-line therapy for patients with measurable advanced or recurrent carcinosarcomas. Patients in the combination arm had a higher response rate (54% vs. 34%) and longer progression-free survival (PFS) (6 months vs. 4 months). However, patients did not have a significant improvement in survival (9 months vs. 8 months).[ 4 ][ Level of evidence A1 ] The follow-up GOG-0161 study [NCT00003128] used 3-day ifosfamide regimens (instead of the more toxic 5-day regimen in the preceding study) given alone or in combination with paclitaxel (with filgrastim starting on day 4).[ 5 ] The combination was superior in response rates (45% vs. 29%), PFS (8.4 months vs. 5.8 months), and overall survival (13.5 months vs. 8.4 months). The hazard ratio for death favored the combination (0.69; 95% confidence interval, 0.49–0.97).[ 5 ][ Level of evidence A1 ] In this study, 52% of 179 evaluable patients had recurrent disease, 18% had stage III disease, and 30% had stage IV disease. In addition, imbalances were present in the sites of disease and in the use of prior radiation therapy, and 30 patients were excluded for wrong pathology.\nA role for chemotherapy as an adjuvant to surgery has not been established."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Uterine Sarcoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage III Uterine Sarcoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Thigpen JT, Blessing JA, Beecham J, et al.: Phase II trial of cisplatin as first-line chemotherapy in patients with advanced or recurrent uterine sarcomas: a Gynecologic Oncology Group study. J Clin Oncol 9 (11): 1962-6, 1991. [PUBMED Abstract]\n- Sutton GP, Blessing JA, Barrett RJ, et al.: Phase II trial of ifosfamide and mesna in leiomyosarcoma of the uterus: a Gynecologic Oncology Group study. Am J Obstet Gynecol 166 (2): 556-9, 1992. [PUBMED Abstract]\n- Sutton GP, Blessing JA, Rosenshein N, et al.: Phase II trial of ifosfamide and mesna in mixed mesodermal tumors of the uterus (a Gynecologic Oncology Group study). Am J Obstet Gynecol 161 (2): 309-12, 1989. [PUBMED Abstract]\n- Sutton G, Brunetto VL, Kilgore L, et al.: A phase III trial of ifosfamide with or without cisplatin in carcinosarcoma of the uterus: A Gynecologic Oncology Group Study. Gynecol Oncol 79 (2): 147-53, 2000. [PUBMED Abstract]\n- Homesley HD, Filiaci V, Markman M, et al.: Phase III trial of ifosfamide with or without paclitaxel in advanced uterine carcinosarcoma: a Gynecologic Oncology Group Study. J Clin Oncol 25 (5): 526-31, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Stage IV Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Uterine Sarcoma",
+            "Treatment Options for Stage IV Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "There is currently no standard therapy for patients with stage IV disease. These patients should enroll in an ongoing clinical trial.\nPhase II chemotherapy studies by the Gynecologic Oncology Group have documented some antitumor activity for cisplatin, doxorubicin, and ifosfamide.[ 1 , 2 ] These studies have also documented differences in response leading to separate trials for patients with carcinosarcomas and leiomyosarcomas. In patients previously untreated with chemotherapy, ifosfamide had a 32.2% response rate in patients with carcinosarcomas,[ 2 ] a 33% response rate in patients with endometrial stromal cell sarcomas,[ 3 ], and a 17.2% partial response rate in patients with leiomyosarcomas.[ 4 ] Doxorubicin in combination with dacarbazine or cyclophosphamide is no more active than doxorubicin alone for advanced disease.[ 5 , 6 ] Cisplatin has activity as first-line therapy and minimal activity as second-line therapy for patients with carcinosarcomas, but cisplatin is inactive as first- or second-line therapy for patients with leiomyosarcomas.[ 1 , 7 ]\nGOG-108 was a randomized trial that examined the use of ifosfamide with or without cisplatin as first-line therapy for patients with measurable advanced or recurrent carcinosarcomas. Patients in the combination arm had a higher response rate (54% vs. 34%) and longer progression-free survival (PFS) (6 months vs. 4 months). However, patients did not have a significant improvement in survival (9 months vs. 8 months).[ 8 ][ Level of evidence A1 ] The follow-up GOG-0161 study [NCT00003128] used 3-day ifosfamide regimens (instead of the more toxic 5-day regimen in the preceding study) given alone or in combination with paclitaxel (with filgrastim starting on day 4).[ 9 ] The combination was superior in response rates (45% vs. 29%), PFS (8.4 months vs. 5.8 months), and overall survival (13.5 months vs. 8.4 months). The hazard ratio for death favored the combination (0.69; 95% confidence interval, 0.49–0.97).[ 9 ][ Level of evidence A1 ] In this study, 52% of 179 evaluable patients had recurrent disease, 18% had stage III disease, and 30% had stage IV disease. In addition, imbalances were present in the sites of disease and in the use of prior radiation therapy, and 30 patients were excluded for wrong pathology."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Uterine Sarcoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage IV Uterine Sarcoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Thigpen JT, Blessing JA, Beecham J, et al.: Phase II trial of cisplatin as first-line chemotherapy in patients with advanced or recurrent uterine sarcomas: a Gynecologic Oncology Group study. J Clin Oncol 9 (11): 1962-6, 1991. [PUBMED Abstract]\n- Sutton GP, Blessing JA, Rosenshein N, et al.: Phase II trial of ifosfamide and mesna in mixed mesodermal tumors of the uterus (a Gynecologic Oncology Group study). Am J Obstet Gynecol 161 (2): 309-12, 1989. [PUBMED Abstract]\n- Sutton G, Blessing JA, Park R, et al.: Ifosfamide treatment of recurrent or metastatic endometrial stromal sarcomas previously unexposed to chemotherapy: a study of the Gynecologic Oncology Group. Obstet Gynecol 87 (5 Pt 1): 747-50, 1996. [PUBMED Abstract]\n- Sutton GP, Blessing JA, Barrett RJ, et al.: Phase II trial of ifosfamide and mesna in leiomyosarcoma of the uterus: a Gynecologic Oncology Group study. Am J Obstet Gynecol 166 (2): 556-9, 1992. [PUBMED Abstract]\n- Omura GA, Major FJ, Blessing JA, et al.: A randomized study of adriamycin with and without dimethyl triazenoimidazole carboxamide in advanced uterine sarcomas. Cancer 52 (4): 626-32, 1983. [PUBMED Abstract]\n- Muss HB, Bundy B, DiSaia PJ, et al.: Treatment of recurrent or advanced uterine sarcoma. A randomized trial of doxorubicin versus doxorubicin and cyclophosphamide (a phase III trial of the Gynecologic Oncology Group). Cancer 55 (8): 1648-53, 1985. [PUBMED Abstract]\n- Thigpen JT, Blessing JA, Wilbanks GD: Cisplatin as second-line chemotherapy in the treatment of advanced or recurrent leiomyosarcoma of the uterus. A phase II trial of the Gynecologic Oncology Group. Am J Clin Oncol 9 (1): 18-20, 1986. [PUBMED Abstract]\n- Sutton G, Brunetto VL, Kilgore L, et al.: A phase III trial of ifosfamide with or without cisplatin in carcinosarcoma of the uterus: A Gynecologic Oncology Group Study. Gynecol Oncol 79 (2): 147-53, 2000. [PUBMED Abstract]\n- Homesley HD, Filiaci V, Markman M, et al.: Phase III trial of ifosfamide with or without paclitaxel in advanced uterine carcinosarcoma: a Gynecologic Oncology Group Study. J Clin Oncol 25 (5): 526-31, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Recurrent Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Uterine Sarcoma",
+            "Treatment Options for Recurrent Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "There is currently no standard therapy for patients with recurrent disease. These patients should enroll in an ongoing clinical trial.\nPhase II chemotherapy studies by the Gynecologic Oncology Group have documented some antitumor activity for cisplatin, doxorubicin, and ifosfamide.[ 1 , 2 ] These studies have also documented differences in response leading to separate trials for patients with carcinosarcomas and leiomyosarcomas. In patients previously untreated with chemotherapy, ifosfamide had a 32.2% response rate in patients with carcinosarcomas,[ 2 ] a 33% response rate in patients with endometrial stromal cell sarcomas,[ 3 ] and a 17.2% partial response rate in patients with leiomyosarcomas.[ 4 ] Doxorubicin in combination with dacarbazine or cyclophosphamide is no more active than doxorubicin alone for recurrent disease.[ 5 , 6 ] Cisplatin has activity as first-line therapy and minimal activity as second-line therapy for patients with carcinosarcomas, but cisplatin is inactive as first- or second-line therapy for patients with leiomyosarcomas.[ 1 , 7 ] A regimen of gemcitabine plus docetaxel had a 53% response rate in patients with unresectable leiomyosarcomas and is undergoing further study.[ 8 ]\nGOG-108 was a randomized trial that examined the use of ifosfamide with or without cisplatin as first-line therapy for patients with measurable advanced or recurrent carcinosarcomas. Patients in the combination arm had a higher response rate (54% vs. 34%) and longer progression-free survival (PFS) (6 months vs. 4 months). However, patients did not have a significant improvement in survival (9 months vs. 8 months).[ 9 ][ Level of evidence A1 ] The follow-up GOG-0161 study [NCT00003128] used 3-day ifosfamide regimens (instead of the more toxic 5-day regimen in the preceding study) given alone or in combination with paclitaxel (with filgrastim starting on day 4).[ 10 ] The combination was superior in response rates (45% vs. 29%), PFS (8.4 months vs. 5.8 months), and overall survival (13.5 months vs. 8.4 months). The hazard ratio for death favored the combination (0.69; 95% confidence interval, 0.49–0.97).[ 10 ][ Level of evidence A1 ] In this study, 52% of 179 evaluable patients had recurrent disease, 18% had stage III disease, and 30% had stage IV disease. In addition, imbalances were present in the sites of disease and in the use of prior radiation therapy, and 30 patients were excluded for wrong pathology.\nRadiation therapy may be an effective method of palliative care for patients with carcinosarcoma who have localized recurrence in the pelvis confirmed by computed tomography. Phase I and II clinical trials are appropriate for patients who have disease recurrence with distant metastasis and are unresponsive to first-line phase II trials. High-dose progesterone hormone therapy may be of some benefit to patients with low-grade stromal sarcoma.[ 11 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Uterine Sarcoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Uterine Sarcoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Thigpen JT, Blessing JA, Beecham J, et al.: Phase II trial of cisplatin as first-line chemotherapy in patients with advanced or recurrent uterine sarcomas: a Gynecologic Oncology Group study. J Clin Oncol 9 (11): 1962-6, 1991. [PUBMED Abstract]\n- Sutton GP, Blessing JA, Rosenshein N, et al.: Phase II trial of ifosfamide and mesna in mixed mesodermal tumors of the uterus (a Gynecologic Oncology Group study). Am J Obstet Gynecol 161 (2): 309-12, 1989. [PUBMED Abstract]\n- Sutton G, Blessing JA, Park R, et al.: Ifosfamide treatment of recurrent or metastatic endometrial stromal sarcomas previously unexposed to chemotherapy: a study of the Gynecologic Oncology Group. Obstet Gynecol 87 (5 Pt 1): 747-50, 1996. [PUBMED Abstract]\n- Sutton GP, Blessing JA, Barrett RJ, et al.: Phase II trial of ifosfamide and mesna in leiomyosarcoma of the uterus: a Gynecologic Oncology Group study. Am J Obstet Gynecol 166 (2): 556-9, 1992. [PUBMED Abstract]\n- Omura GA, Major FJ, Blessing JA, et al.: A randomized study of adriamycin with and without dimethyl triazenoimidazole carboxamide in advanced uterine sarcomas. Cancer 52 (4): 626-32, 1983. [PUBMED Abstract]\n- Muss HB, Bundy B, DiSaia PJ, et al.: Treatment of recurrent or advanced uterine sarcoma. A randomized trial of doxorubicin versus doxorubicin and cyclophosphamide (a phase III trial of the Gynecologic Oncology Group). Cancer 55 (8): 1648-53, 1985. [PUBMED Abstract]\n- Thigpen JT, Blessing JA, Wilbanks GD: Cisplatin as second-line chemotherapy in the treatment of advanced or recurrent leiomyosarcoma of the uterus. A phase II trial of the Gynecologic Oncology Group. Am J Clin Oncol 9 (1): 18-20, 1986. [PUBMED Abstract]\n- Hensley ML, Maki R, Venkatraman E, et al.: Gemcitabine and docetaxel in patients with unresectable leiomyosarcoma: results of a phase II trial. J Clin Oncol 20 (12): 2824-31, 2002. [PUBMED Abstract]\n- Sutton G, Brunetto VL, Kilgore L, et al.: A phase III trial of ifosfamide with or without cisplatin in carcinosarcoma of the uterus: A Gynecologic Oncology Group Study. Gynecol Oncol 79 (2): 147-53, 2000. [PUBMED Abstract]\n- Homesley HD, Filiaci V, Markman M, et al.: Phase III trial of ifosfamide with or without paclitaxel in advanced uterine carcinosarcoma: a Gynecologic Oncology Group Study. J Clin Oncol 25 (5): 526-31, 2007. [PUBMED Abstract]\n- Katz L, Merino MJ, Sakamoto H, et al.: Endometrial stromal sarcoma: a clinicopathologic study of 11 cases with determination of estrogen and progestin receptor levels in three tumors. Gynecol Oncol 26 (1): 87-97, 1987. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (12/17/2024)",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (12/17/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of uterine sarcoma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 9,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewer for Uterine Sarcoma Treatment is:\n- Marina Stasenko, MD (New York University Medical Center)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Uterine Sarcoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/uterine/hp/uterine-sarcoma-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389327]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\87e4c91691eba06359bb.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Uterine Sarcoma",
+      "title": "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+      "summary_name": "Uterine Sarcoma Treatment",
+      "url": "https://www.cancer.gov/types/uterine/patient/uterine-sarcoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "March 14, 2025",
+      "retrieved_at": "2026-08-31T07:15:18.512613+00:00",
+      "content_sha256": "4b4165e056e73e628bf0e9c3365ad2cf5332154deffddc49bd5d29b38076579a",
+      "section_count": 43,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Uterine Sarcoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Uterine sarcoma is a disease in which malignant (cancer) cells form in the muscles of the uterus or other tissues that support the uterus.\n- Past treatment with radiation therapy to the pelvis can increase the risk of uterine sarcoma.\n- Signs of uterine sarcoma include abnormal bleeding.\n- Tests that examine the uterus are used to diagnose uterine sarcoma.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Uterine sarcoma is a disease in which malignant (cancer) cells form in the muscles of the uterus or other tissues that support the uterus.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Uterine Sarcoma",
+            "Uterine sarcoma is a disease in which malignant (cancer) cells form in the muscles of the uterus or other tissues that support the uterus."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The uterus is part of the female reproductive system . The uterus is the hollow, pear-shaped organ in the pelvis , where a fetus grows. The cervix is at the lower, narrow end of the uterus, and leads to the vagina . Enlarge Anatomy of the female reproductive system. The organs in the female reproductive system include the uterus, ovaries, fallopian tubes, cervix, and vagina. The uterus has a muscular outer layer called the myometrium and an inner lining called the endometrium.\nUterine sarcoma is a very rare kind of cancer that forms in the uterine muscles or in tissues that support the uterus. For more information about other types of sarcomas , visit Soft Tissue Sarcoma Treatment .\nUterine sarcoma is different from endometrial cancer , a disease in which cancer forms in the tissue that lines the uterus. Carcinosarcoma is a subtype of endometrial cancer and is staged using endometrial cancer definitions. For more information, visit Endometrial Cancer Treatment .\nUterine sarcomas include leiomyosarcomas , endometrial stromal sarcomas, and adenosarcomas ."
+        },
+        {
+          "section": "Past treatment with radiation therapy to the pelvis can increase the risk of uterine sarcoma.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Uterine Sarcoma",
+            "Past treatment with radiation therapy to the pelvis can increase the risk of uterine sarcoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Anything that increases a person's chance of getting a disease is called a risk factor . Not every person with one or more of these risk factors will develop an uterine sarcoma, and it will develop in some people who don't have any known risk factors. Talk with your doctor if you think you may be at risk. Risk factors for uterine sarcoma include:\n- Past treatment with radiation therapy to the pelvis.\n- Treatment with tamoxifen for breast cancer . If you are taking this drug , have a pelvic exam every year and report any vaginal bleeding (other than menstrual bleeding) as soon as possible."
+        },
+        {
+          "section": "Signs of uterine sarcoma include abnormal bleeding.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Uterine Sarcoma",
+            "Signs of uterine sarcoma include abnormal bleeding."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Abnormal bleeding from the vagina and other signs and symptoms may be caused by uterine sarcoma or by other conditions . Check with your doctor if you have:\n- Bleeding that is not part of menstrual periods .\n- Bleeding after menopause .\n- A mass in the vagina.\n- Pain or a feeling of fullness in the abdomen .\n- Frequent urination ."
+        },
+        {
+          "section": "Tests that examine the uterus are used to diagnose uterine sarcoma.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Uterine Sarcoma",
+            "Tests that examine the uterus are used to diagnose uterine sarcoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Pelvic exam : An exam of the vagina, cervix, uterus, fallopian tubes , ovaries , and rectum . A speculum is inserted into the vagina and the doctor or nurse looks at the vagina and cervix for signs of disease. A Pap test of the cervix is usually done. The doctor or nurse also inserts one or two lubricated , gloved fingers of one hand into the vagina and places the other hand over the lower abdomen to feel the size, shape, and position of the uterus and ovaries. The doctor or nurse also inserts a lubricated, gloved finger into the rectum to feel for lumps or abnormal areas. Enlarge Pelvic exam. A doctor or nurse inserts one or two lubricated, gloved fingers of one hand into the vagina and presses on the lower abdomen with the other hand. This is done to feel the size, shape, and position of the uterus and ovaries. The vagina, cervix, fallopian tubes, and rectum are also checked.\n- Pap test : A procedure to collect cells from the surface of the cervix and vagina. A piece of cotton, a brush, or a small wooden stick is used to gently scrape cells from the cervix and vagina. The cells are viewed under a microscope to find out if they are abnormal. This procedure is also called a Pap smear. Because uterine sarcoma begins inside the uterus, this cancer may not show up on the Pap test. Enlarge Pap test. A speculum is inserted into the vagina to widen it. Then, a brush is inserted into the vagina to collect cells from the cervix. The cells are checked under a microscope for signs of disease.\n- Transvaginal ultrasound exam : A procedure used to examine the vagina, uterus, fallopian tubes, and bladder . An ultrasound transducer (probe) is inserted into the vagina and used to bounce high-energy sound waves ( ultrasound ) off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram . The doctor can identify tumors by looking at the sonogram. Enlarge Transvaginal ultrasound. An ultrasound probe connected to a computer is inserted into the vagina and is gently moved to show different organs. The probe bounces sound waves off internal organs and tissues to make echoes that form a sonogram (computer picture).\n- Dilatation and curettage : A procedure to remove samples of tissue from the inner lining of the uterus. The cervix is dilated and a curette (spoon-shaped instrument) is inserted into the uterus to remove tissue. The tissue samples are checked under a microscope for signs of disease. This procedure is also called a D&C. Enlarge Dilatation and curettage (D and C). A speculum is inserted into the vagina to widen it in order to look at the cervix (first panel). A dilator is used to widen the cervix (middle panel). A curette is put through the cervix into the uterus to scrape out abnormal tissue (last panel).\n- Endometrial biopsy : The removal of tissue from the endometrium (inner lining of the uterus) by inserting a thin, flexible tube through the cervix and into the uterus. The tube is used to gently scrape a small amount of tissue from the endometrium and then remove the tissue samples. A pathologist views the tissue under a microscope to look for cancer cells."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Uterine Sarcoma",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The prognosis and treatment options depend on:\n- The stage of the cancer.\n- The type and size of the tumor.\n- The patient's general health.\n- Whether the cancer has just been diagnosed or has recurred (come back)."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "- After uterine sarcoma has been diagnosed, tests are done to find out if cancer cells have spread within the uterus or to other parts of the body.\n- Uterine sarcoma may be diagnosed, staged, and treated in the same surgery.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- The following FIGO staging system is used for leiomyosarcomas and endometrial stromal sarcomas:\n- Stage I\n- Stage II\n- Stage III\n- Stage IV\n- The following FIGO staging system is used for adenosarcomas:\n- Stage I\n- Stage II\n- Stage III\n- Stage IV\n- Uterine sarcoma can recur (come back) after it has been treated."
+        },
+        {
+          "section": "After uterine sarcoma has been diagnosed, tests are done to find out if cancer cells have spread within the uterus or to other parts of the body.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "After uterine sarcoma has been diagnosed, tests are done to find out if cancer cells have spread within the uterus or to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The process used to find out if cancer has spread within the uterus or to other parts of the body is called staging . The information gathered from the staging process determines the stage of the disease. It is important to know the stage in order to plan treatment. The following procedures may be used in the staging process:\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease.\n- CA-125 assay : A test that measures the level of CA-125 in the blood. CA-125 is a substance released by cells into the bloodstream. An increased CA-125 level is sometimes a sign of cancer or other condition .\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body.\n- Transvaginal ultrasound exam : A procedure used to examine the vagina , uterus, fallopian tubes , and bladder . An ultrasound transducer (probe) is inserted into the vagina and used to bounce high-energy sound waves ( ultrasound ) off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram . The doctor can identify tumors by looking at the sonogram. Enlarge Transvaginal ultrasound. An ultrasound probe connected to a computer is inserted into the vagina and is gently moved to show different organs. The probe bounces sound waves off internal organs and tissues to make echoes that form a sonogram (computer picture).\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, such as the abdomen and pelvis , taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues to show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- Cystoscopy : A procedure to look inside the bladder and urethra to check for abnormal areas. A cystoscope is inserted through the urethra into the bladder. A cystoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue samples, which are checked under a microscope for signs of cancer. Enlarge Cystoscopy. A cystoscope (a thin, tube-like instrument with a light and a lens for viewing) is inserted through the urethra into the bladder. Fluid is used to fill the bladder. The doctor looks at an image of the inner wall of the bladder on a computer monitor to check for abnormal areas."
+        },
+        {
+          "section": "Uterine sarcoma may be diagnosed, staged, and treated in the same surgery.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "Uterine sarcoma may be diagnosed, staged, and treated in the same surgery."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Surgery is used to diagnose , stage, and treat uterine sarcoma . During this surgery, the doctor removes as much of the cancer as possible. The following procedures may be used to diagnose, stage, and treat uterine sarcoma:\n- Laparotomy : A surgical procedure in which an incision (cut) is made in the wall of the abdomen to check the inside of the abdomen for signs of disease. The size of the incision depends on the reason the laparotomy is being done. Sometimes organs are removed or tissue samples are taken and checked under a microscope for signs of disease.\n- Abdominal and pelvic washings: A procedure in which a saline solution is placed into the abdominal and pelvic body cavities . After a short time, the fluid is removed and viewed under a microscope to check for cancer cells.\n- Total abdominal hysterectomy : A surgical procedure to remove the uterus and cervix through a large incision (cut) in the abdomen. Enlarge Hysterectomy. The uterus is surgically removed with or without other organs or tissues. In a total hysterectomy, the uterus and cervix are removed. In a total hysterectomy with salpingo-oophorectomy, (a) the uterus plus one (unilateral) ovary and fallopian tube are removed; or (b) the uterus plus both (bilateral) ovaries and fallopian tubes are removed. In a radical hysterectomy, the uterus, cervix, both ovaries, both fallopian tubes, and nearby tissue are removed. These procedures are done using a low transverse incision or a vertical incision.\n- Bilateral salpingo-oophorectomy : Surgery to remove both ovaries and both fallopian tubes.\n- Lymphadenectomy : A surgical procedure in which lymph nodes are removed and checked under a microscope for signs of cancer. For a regional lymphadenectomy , some of the lymph nodes in the tumor area are removed. For a radical lymphadenectomy , most or all of the lymph nodes in the tumor area are removed. This procedure is also called lymph node dissection.\nTreatment in addition to surgery may be given, as described in the Treatment Option Overview section of this summary."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "There are three ways that cancer spreads in the body.",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of cancer as the primary tumor. For example, if uterine sarcoma spreads to the lung , the cancer cells in the lung are actually uterine sarcoma cells. The disease is metastatic uterine sarcoma, not lung cancer.\nCancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Stage I",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "The following FIGO staging system is used for leiomyosarcomas and endometrial stromal sarcomas:",
+            "Stage I"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In stage I, the tumor is found in the uterus only. Stage I is divided into stages IA and IB:\n- In stage IA, the tumor is 5 centimeters or smaller.\n- In stage IB, the tumor is larger than 5 centimeters."
+        },
+        {
+          "section": "Stage II",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "The following FIGO staging system is used for leiomyosarcomas and endometrial stromal sarcomas:",
+            "Stage II"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In stage II, the tumor has spread beyond the uterus but has not spread beyond the pelvis . Stage II is divided into stages IIA and IIB:\n- In stage IIA, the tumor has spread to the ovary , fallopian tube , or connective tissues around the uterus.\n- In stage IIB, the tumor has spread to other tissues in the pelvis."
+        },
+        {
+          "section": "Stage III",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "The following FIGO staging system is used for leiomyosarcomas and endometrial stromal sarcomas:",
+            "Stage III"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "In stage III, the tumor has spread into tissues in the abdomen . Stage III is divided into stages IIIA, IIIB, and IIIC:\n- In stage IIIA, the tumor has spread to one site in the abdomen.\n- In stage IIIB, the tumor has spread to more than one site in the abdomen.\n- In stage IIIC, the tumor has spread to lymph nodes in the pelvis and/or around the abdominal aorta (the largest blood vessel in the abdomen)."
+        },
+        {
+          "section": "Stage IV",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "The following FIGO staging system is used for leiomyosarcomas and endometrial stromal sarcomas:",
+            "Stage IV"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Stage IV is divided into stages IVA and IVB:\n- In stage IVA, the tumor has spread into the bladder and/or the rectum .\n- In stage IVB, the tumor has spread to distant parts of the body."
+        },
+        {
+          "section": "Stage I",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "The following FIGO staging system is used for adenosarcomas:",
+            "Stage I"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "In stage I , the tumor is found in the uterus only. Stage I is divided into stages IA, IB, and IC:\n- In stage IA, the tumor is found in the endometrium or endocervix (the inner part of the cervix that forms a canal connecting the vagina to the uterus).\n- In stage IB, the tumor has spread halfway or less into the myometrium (the muscular outer layer of the uterus).\n- In stage IC, the tumor has spread more than halfway into the myometrium."
+        },
+        {
+          "section": "Stage II",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "The following FIGO staging system is used for adenosarcomas:",
+            "Stage II"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In stage II , the tumor has spread outside the uterus into the pelvis . Stage II is divided into stages IIA and IIB:\n- In stage IIA, the tumor has spread to the ovary , fallopian tube , or connective tissues around the uterus.\n- In stage IIB, the tumor has spread to other tissues in the pelvis."
+        },
+        {
+          "section": "Stage III",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "The following FIGO staging system is used for adenosarcomas:",
+            "Stage III"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "In stage III , the tumor has spread into tissues in the abdomen . Stage III is divided into stages IIIA, IIIB, and IIIC:\n- In stage IIIA, the tumor has spread to one site in the abdomen.\n- In stage IIIB, the tumor has spread to more than one site in the abdomen.\n- In stage IIIC, the tumor has spread to lymph nodes in the pelvis and/or around the abdominal aorta (the largest blood vessel in the abdomen)."
+        },
+        {
+          "section": "Stage IV",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "The following FIGO staging system is used for adenosarcomas:",
+            "Stage IV"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Stage IV is divided into stages IVA and IVB:\n- In stage IVA, the tumor has spread into the bladder and/or the rectum .\n- In stage IVB, the tumor has spread to distant parts of the body."
+        },
+        {
+          "section": "Uterine sarcoma can recur (come back) after it has been treated.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Uterine Sarcoma",
+            "Uterine sarcoma can recur (come back) after it has been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer may come back in the uterus, the pelvis, or in other parts of the body."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- There are different types of treatment for patients with uterine sarcoma.\n- The following types of treatment are used:\n- Surgery\n- Radiation therapy\n- Chemotherapy\n- Hormone therapy\n- New types of treatment are being tested in clinical trials.\n- Treatment for uterine sarcoma may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with uterine sarcoma.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with uterine sarcoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatments are available for patients with uterine sarcoma . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Surgery is the most common treatment for uterine sarcoma, as described in the Stages of Uterine Sarcoma section of this summary.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, some patients may be given chemotherapy or radiation therapy after surgery to kill any cancer cells that are left. Treatment given after the surgery, to lower the risk that the cancer will come back, is called adjuvant therapy ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Radiation therapy is a cancer treatment that uses high energy x-rays or other types of radiation to kill cancer cells or keep them from growing. There are two types of radiation therapy:\n- External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\n- Internal radiation therapy uses a radioactive substance sealed in needles, seeds , wires, or catheters that are placed directly into or near the cancer.\nThe way the radiation therapy is given depends on the type and stage of the cancer being treated. External and internal radiation therapy are used to treat uterine sarcoma, and may also be used as palliative therapy to relieve symptoms and improve quality of life ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy )."
+        },
+        {
+          "section": "Hormone therapy",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Hormone therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Hormone therapy is a cancer treatment that removes hormones or blocks their action and stops cancer cells from growing. Hormones are substances produced by glands in the body and circulated in the bloodstream. Some hormones can cause certain cancers to grow. If tests show the cancer cells have places where hormones can attach ( receptors ), drugs, surgery, or radiation therapy is used to reduce the production of hormones or block them from working."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Treatment for uterine sarcoma may cause side effects.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for uterine sarcoma may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Stage I Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage I Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "For information about the treatments listed below, visit the Treatment Option Overview section.\nTreatment of stage I leiomyosarcoma of the uterus , stage I endometrial stromal sarcoma , and stage I adenosarcoma of the uterus may include:\n- Surgery ( total abdominal hysterectomy , bilateral salpingo-oophorectomy , and lymphadenectomy ).\n- Surgery followed by radiation therapy to the pelvis .\n- Surgery followed by chemotherapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Stage II Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage II Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "For information about the treatments listed below, visit the Treatment Option Overview section.\nTreatment of stage II leiomyosarcoma of the uterus , stage II endometrial stromal sarcoma , and stage II adenosarcoma of the uterus may include:\n- Surgery ( total abdominal hysterectomy , bilateral salpingo-oophorectomy , and lymphadenectomy ).\n- Surgery followed by radiation therapy to the pelvis .\n- Surgery followed by chemotherapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Stage III Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage III Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "For information about the treatments listed below, visit the Treatment Option Overview section.\nTreatment of stage III leiomyosarcoma of the uterus , stage III endometrial stromal sarcoma , and stage III adenosarcoma of the uterus may include:\n- Surgery ( total abdominal hysterectomy , bilateral salpingo-oophorectomy , lymphadenectomy , and removal of all other tissue where tumor is found).\n- A clinical trial of surgery followed by radiation therapy to the pelvis .\n- A clinical trial of surgery followed by chemotherapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Stage IV Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Stage IV Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "There is no standard treatment for patients with stage IV leiomyosarcoma of the uterus , stage IV endometrial stromal sarcoma , or stage IV adenosarcoma of the uterus . Treatment may include a clinical trial using chemotherapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "For information about the treatments listed below, visit the Treatment Option Overview section.\nThere is no standard treatment for recurrent uterine sarcoma . Treatment may include a clinical trial using chemotherapy .\nFor patients with recurrent carcinosarcoma (a certain type of tumor ), treatment may include:\n- Radiation therapy as palliative therapy to relieve symptoms (such as pain, nausea , or bowel problems) and improve the quality of life .\n- Hormone therapy .\n- A clinical trial of a new treatment.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Uterine Sarcoma",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "To Learn More About Uterine Sarcoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "For more information from the National Cancer Institute about uterine sarcoma, visit the Uterine Cancer Home Page .\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of uterine sarcoma. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Uterine Sarcoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/uterine/patient/uterine-sarcoma-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389379]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Uterine Sarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\58d665ab0c40333bc798.html"
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Pheochromocytoma and Paraganglioma",
+  "generated_at": "2026-08-31T07:15:23.474404+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Pheochromocytoma and Paraganglioma",
+      "title": "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Pheochromocytoma and Paraganglioma Treatment",
+      "url": "https://www.cancer.gov/types/pheochromocytoma/hp/pheochromocytoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "November 1, 2024",
+      "retrieved_at": "2026-08-31T07:13:30.223184+00:00",
+      "content_sha256": "f3ae52773d8cda71a3aff7a756d69c5507c503c3b373111a023059507ebac925",
+      "section_count": 59,
+      "sections": [
+        {
+          "section": "General Information About Pheochromocytoma and Paraganglioma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Pheochromocytomas and extra-adrenal paragangliomas are rare tumors arising from neural crest tissue that develops into sympathetic and parasympathetic paraganglia throughout the body.\nIn 2004, the World Health Organization classification used the term pheochromocytoma exclusively for tumors arising from the adrenal medulla, and the term extra-adrenal paraganglioma for similar tumors that arise from other locations."
+        },
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The incidence of pheochromocytoma is 2 to 8 per million persons per year.[ 1 , 2 ] Pheochromocytoma is present in 0.1% to 1% of patients with hypertension,[ 3 - 5 ] and it is present in approximately 5% of patients with incidentally discovered adrenal masses.[ 6 ] The peak incidence occurs in the third to fifth decades of life. The average age at diagnosis is 24.9 years in hereditary cases and 43.9 years in sporadic cases.[ 7 ] The incidence is equal between men and women.[ 8 ]"
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Pheochromocytomas and extra-adrenal paragangliomas arise from neural crest tissue. Neural crest tissue develops into sympathetic and parasympathetic paraganglia.\nSympathetic paraganglia include:\n- The adrenal medulla.\n- The organ of Zuckerkandl near the aortic bifurcation.\n- Other paraganglia along the distribution of the sympathetic nervous system.\nParasympathetic paraganglia include:\n- The carotid body.\n- Other paraganglia along the cervical and thoracic branches of the vagus and glossopharyngeal nerves."
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "No known environmental, dietary, or lifestyle risk factors have been linked to the development of pheochromocytoma."
+        },
+        {
+          "section": "Hereditary Predisposition Syndromes",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Hereditary Predisposition Syndromes"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "Of all pheochromocytomas and extra-adrenal paragangliomas, 35% occur in patients with a hereditary cancer syndrome.[ 7 - 9 ] Major genetic syndromes that confer an increased risk of pheochromocytoma are included in Table 1 .\nGenetic Syndrome or Condition | Affected Gene | Comment\na For more information, see the Familial Pheochromocytoma and Paraganglioma Syndrome section in Genetics of Endocrine and Neuroendocrine Neoplasias.\nMultiple endocrine neoplasia type 2A and 2B | RET | For more information, see Multiple Endocrine Neoplasia Type 2 .\nvon Hippel-Lindau disease | VHL | For more information, see von Hippel-Lindau Disease .\nNeurofibromatosis type 1 | NF1\nHereditary pheochromocytoma and paraganglioma syndrome a | SDHD [ 10 ] | Formerly referred to as familial pheochromocytoma-paraganglioma syndrome type 1.\nSDHAF2 ( SDH5 ) [ 11 ] | Formerly referred to as familial pheochromocytoma-paraganglioma syndrome type 2.\nSDHC [ 12 ] | Formerly referred to as familial pheochromocytoma-paraganglioma syndrome type 3.\nSDHB [ 13 ] | Formerly referred to as familial pheochromocytoma-paraganglioma syndrome type 4.\nSDHA [ 14 ]\nTMEM127 [ 15 , 16 ] | Pheochromocytoma; paraganglioma are less common.\nMAX [ 17 ] | Pheochromocytoma; paraganglioma are less common.\nHereditary leiomyomatosis and renal cell cancer | FH [ 18 - 20 ] | Multiple pheochromocytoma and paraganglioma. For more information, see Hereditary Leiomyomatosis and Renal Cell Cancer .\nPheochromocytomas and extra-adrenal paragangliomas can also occur in two other very rare syndromes:\n- The Carney triad of extra-adrenal paraganglioma, gastrointestinal stromal tumor (GIST),[ 21 ] and pulmonary chondroma.\n- The Carney-Stratakis dyad of paraganglioma and GIST.[ 22 ]"
+        },
+        {
+          "section": "Genetic counseling and testing",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Hereditary Predisposition Syndromes",
+            "Genetic counseling and testing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "It has been proposed that all patients diagnosed with a pheochromocytoma or paraganglioma should consider genetic testing because the incidence of a hereditary syndrome in apparently sporadic cases is as high as 25%.[ 7 , 8 , 23 ] Early identification of a hereditary syndrome allows for early screening for other associated tumors and identification of family members who are at risk. In addition, some patients with a hereditary syndrome are more likely to develop multifocal, malignant, or recurrent disease. Knowledge of the specific genetic variant permits increased vigilance during preoperative localization or postoperative surveillance of such patients.\nCertain subgroups of patients are at very low risk of having an inherited syndrome (e.g., <2% in patients diagnosed with apparently sporadic pheochromocytoma after age 50 years).[ 7 ] Therefore, genetic testing for all patients diagnosed with a pheochromocytoma or paraganglioma may not be practical or cost effective from a population standpoint. It is recommended that every patient diagnosed with a pheochromocytoma or extra-adrenal paraganglioma should first undergo risk evaluation for a hereditary syndrome by a certified genetic counselor.[ 24 ]\nGenetic testing is often recommended in the following situations:\n- Patients with a personal or family history of clinical features suggestive of a hereditary pheochromocytoma-paraganglioma syndrome.\n- Patients with bilateral or multifocal tumors.\n- Patients with sympathetic or malignant extra-adrenal paragangliomas.\n- Patients diagnosed before age 40 years.\nGenetic testing can be considered when a patient has the following features:\n- Patient is between the ages of 40 and 50 years.\n- Patients has a history of a unilateral pheochromocytoma.\n- Patient does not have a personal or family history suggestive of a hereditary cancer syndrome.\nIf a germline variant is identified, predictive genetic testing may be offered to asymptomatic at-risk family members. For more information, see Genetics of Endocrine and Neuroendocrine Neoplasias .\nGenetic testing is not recommended in patients who are older than 50 years."
+        },
+        {
+          "section": "Clinical Features",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Clinical Features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "Patients with pheochromocytomas and sympathetic extra-adrenal paragangliomas may present with symptoms of excess catecholamine production, including:\n- Hypertension.\n- Headache.\n- Perspiration.\n- Forceful palpitations.\n- Tremor.\n- Facial pallor.\nThese symptoms are often paroxysmal, although sustained hypertension between paroxysmal episodes occurs in 50% to 60% of patients with pheochromocytoma.[ 25 ] Episodes of hypertension can be variable in frequency, severity, and duration and are often extremely difficult to manage medically. Hypertensive crisis can lead to cardiac arrhythmias, myocardial infarction, and even death.\nPatients are often very symptomatic from excess catecholamine secretion. Symptoms of catecholamine excess can be spontaneous or induced by:\n- Strenuous physical exertion.\n- Trauma.\n- Labor and delivery.\n- Anesthesia induction.\n- Surgery or other invasive procedures, including direct instrumentation of the tumor (e.g., fine-needle aspiration).\n- Eating foods high in tyramine (e.g., red wine, chocolate, and cheese).\n- Urination (e.g., bladder wall tumor, which is rare).\nPhenoxybenzamine (an alpha-adrenergic receptor blocker) is an effective treatment for catecholamine excess and metyrosine (a catecholamine synthesis antagonist) can be added if needed.\nParasympathetic extra-adrenal paragangliomas do not secrete catecholamines. These tumors usually present as a neck mass with symptoms related to compression or are incidentally discovered on an imaging study performed for an unrelated reason. In addition, approximately half of patients with pheochromocytoma are asymptomatic because their neoplasms are discovered in the presymptomatic state by either abdominal imaging for other reasons (e.g., adrenal incidentalomas) or genetic testing in at-risk family members.[ 17 , 26 - 28 ]"
+        },
+        {
+          "section": "Diagnostics",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Diagnostics"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The diagnosis of pheochromocytoma is usually preceded by the presence of an adrenal mass or is discovered incidentally. Biochemical testing is done to document excess catecholamine secretion. Once the biochemical diagnosis of a catecholamine-secreting tumor is confirmed, localization studies should be performed. Controversy exists as to the optimal single test to make the diagnosis."
+        },
+        {
+          "section": "24-hour urine collection",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Diagnostics",
+            "Biochemical testing",
+            "24-hour urine collection"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A 24-hour urine collection for catecholamines (e.g., epinephrine, norepinephrine, and dopamine) and fractionated metanephrines (e.g., metanephrine and normetanephrine) has a relatively low sensitivity (77%–90%) but a high specificity (98%). Pretest probability is also important. The specificity of plasma-free fractionated metanephrines is 82% in patients tested for sporadic pheochromocytoma versus 96% in patients tested for hereditary pheochromocytoma.[ 29 , 30 ]"
+        },
+        {
+          "section": "Plasma-free fractionated metanephrines",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Diagnostics",
+            "Biochemical testing",
+            "Plasma-free fractionated metanephrines"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Measurement of plasma-free fractionated metanephrines appears to be an ideal case-detection test for patients at higher baseline risk of pheochromocytoma. Examples of these patients might include:\n- Patients with an incidentally discovered adrenal mass.\n- Patients with a family history of pheochromocytoma.\n- Patients with a known inherited predisposition to pheochromocytoma.\nThe test is associated with a relatively high false-positive rate in patients with a lower baseline risk of pheochromocytoma. Measurement of plasma-free metanephrines (e.g., metanephrine and normetanephrine) has a high sensitivity (97%–99%) but a relatively low specificity (85%).\nIn general, it is reasonable to use measurement of plasma-free fractionated metanephrines for initial case detection, which is followed by 24-hour measurement of urine-fractionated metanephrines and catecholamines for confirmation. Test results can be difficult to interpret because of the possibility of false-positive results. False-positive results can be caused by:[ 25 , 29 ]\n- Common medications (e.g., tricyclic antidepressants).\n- Physical or emotional stress.\n- Inappropriately low reference ranges based on normal laboratory data rather than clinical data sets.[ 31 ]\n- Common foods (e.g., caffeine and bananas) that interfere with specific assays and medications.\nA mildly elevated catecholamine or metanephrine level is usually the result of assay interference caused by drugs or other factors. Patients with symptomatic pheochromocytoma almost always have increases in catecholamines or metanephrines two to three times higher than the upper limits of reference ranges.[ 25 ]\nProvocative testing (e.g., using glucagon) can be dangerous, adds no value to other current testing methods, and is not recommended.[ 32 ]"
+        },
+        {
+          "section": "Imaging studies",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Diagnostics",
+            "Imaging studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Computed tomography (CT) imaging or magnetic resonance imaging (MRI) of the abdomen and pelvis (at least through the level of the aortic bifurcation) are the most commonly used methods for localization.[ 33 ] Both have similar sensitivities (90%–100%) and specificities (70%–80%).[ 33 ] CT imaging provides superior anatomical detail compared with MRI.\nAdditional functional imaging may be necessary if CT imaging or MRI fails to localize the tumor. It might also be useful in patients who are at risk for multifocal, malignant, or recurrent disease. Iodine I 123 (123I)-metaiodobenzylguanidine (MIBG) scintigraphy coupled with CT imaging provides anatomical and functional information with good sensitivity (80%–90%) and specificity (95%–100%).[ 33 ] 131I-MIBG can be used in the same way, but the image quality is not as high as with 123I-MIBG.[ 34 ] Other functional imaging alternatives include gallium Ga 68 (68Ga)-DOTATATE and fluorine F 18-fludeoxyglucose positron emission tomography (PET), both of which can be coupled with CT imaging for improved anatomical detail.[ 35 , 36 ]\nIt is rare for localization of a catecholamine-secreting tumor to be unsuccessful if currently available imaging methods are used."
+        },
+        {
+          "section": "Prognosis and Survival",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Prognosis and Survival"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "There are no clear data regarding the survival of patients with localized (apparently benign) disease or regional disease. Although patients with localized (apparently benign) disease should experience an overall survival approaching that of age-matched disease-free individuals, 6.5% to 16.5% of these patients will develop a recurrence, usually 5 to 15 years after initial surgery.[ 37 - 39 ]\nApproximately 15% to 25% of patients with recurrent disease experience distant metastasis. The 5-year overall survival rates in those with metastatic disease range from 50% to 70%.[ 40 - 43 ] Carriers of SDHB pathogenic variants have an increased risk of developing metastatic disease of approximately 25% to 50%.[ 44 ] The most commonly associated gene with metastatic pheochromocytoma and paraganglioma is SDHB (over 40% of cases).[ 45 , 46 ]"
+        },
+        {
+          "section": "Follow-Up Evaluation",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Follow-Up Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Long-term follow-up is essential for all patients with pheochromocytoma or extra-adrenal paraganglioma, even when initial pathology demonstrates no findings that are concerning for malignancy.[ 5 ]\n- After resection of a solitary sporadic pheochromocytoma, patients should undergo baseline postoperative biochemical testing followed by annual lifelong biochemical testing.\n- Patients who have undergone resection of a noncatecholamine-producing tumor should initially undergo annual imaging with CT or MRI and periodic imaging with radiolabeled MIBG or 68Ga-DOTATATE PET/CT to monitor for recurrence or metastasis.\n- Patients with a hereditary pheochromocytoma/paraganglioma syndrome who have undergone resection require lifelong annual biochemical screening in addition to routine screening for other component tumors of their specific syndrome.[ 5 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Follow-Up Evaluation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 46,
+          "text": "- Beard CM, Sheps SG, Kurland LT, et al.: Occurrence of pheochromocytoma in Rochester, Minnesota, 1950 through 1979. Mayo Clin Proc 58 (12): 802-4, 1983. [PUBMED Abstract]\n- Stenström G, Svärdsudd K: Pheochromocytoma in Sweden 1958-1981. An analysis of the National Cancer Registry Data. Acta Med Scand 220 (3): 225-32, 1986. [PUBMED Abstract]\n- Sinclair AM, Isles CG, Brown I, et al.: Secondary hypertension in a blood pressure clinic. Arch Intern Med 147 (7): 1289-93, 1987. [PUBMED Abstract]\n- Anderson GH, Blakeman N, Streeten DH: The effect of age on prevalence of secondary forms of hypertension in 4429 consecutively referred patients. J Hypertens 12 (5): 609-15, 1994. [PUBMED Abstract]\n- Omura M, Saito J, Yamaguchi K, et al.: Prospective study on the prevalence of secondary hypertension among hypertensive patients visiting a general outpatient clinic in Japan. Hypertens Res 27 (3): 193-202, 2004. [PUBMED Abstract]\n- Young WF: Management approaches to adrenal incidentalomas. A view from Rochester, Minnesota. Endocrinol Metab Clin North Am 29 (1): 159-85, x, 2000. [PUBMED Abstract]\n- Neumann HP, Bausch B, McWhinney SR, et al.: Germ-line mutations in nonsyndromic pheochromocytoma. N Engl J Med 346 (19): 1459-66, 2002. [PUBMED Abstract]\n- Amar L, Bertherat J, Baudin E, et al.: Genetic testing in pheochromocytoma or functional paraganglioma. J Clin Oncol 23 (34): 8812-8, 2005. [PUBMED Abstract]\n- Jiménez C, Cote G, Arnold A, et al.: Review: Should patients with apparently sporadic pheochromocytomas or paragangliomas be screened for hereditary syndromes? J Clin Endocrinol Metab 91 (8): 2851-8, 2006. [PUBMED Abstract]\n- Baysal BE, Ferrell RE, Willett-Brozick JE, et al.: Mutations in SDHD, a mitochondrial complex II gene, in hereditary paraganglioma. Science 287 (5454): 848-51, 2000. [PUBMED Abstract]\n- Hao HX, Khalimonchuk O, Schraders M, et al.: SDH5, a gene required for flavination of succinate dehydrogenase, is mutated in paraganglioma. Science 325 (5944): 1139-42, 2009. [PUBMED Abstract]\n- Niemann S, Müller U: Mutations in SDHC cause autosomal dominant paraganglioma, type 3. Nat Genet 26 (3): 268-70, 2000. [PUBMED Abstract]\n- Astuti D, Latif F, Dallol A, et al.: Gene mutations in the succinate dehydrogenase subunit SDHB cause susceptibility to familial pheochromocytoma and to familial paraganglioma. Am J Hum Genet 69 (1): 49-54, 2001. [PUBMED Abstract]\n- Burnichon N, Brière JJ, Libé R, et al.: SDHA is a tumor suppressor gene causing paraganglioma. Hum Mol Genet 19 (15): 3011-20, 2010. [PUBMED Abstract]\n- Eijkelenkamp K, Olderode-Berends MJW, van der Luijt RB, et al.: Homozygous TMEM127 mutations in 2 patients with bilateral pheochromocytomas. Clin Genet 93 (5): 1049-1056, 2018. [PUBMED Abstract]\n- Abermil N, Guillaud-Bataille M, Burnichon N, et al.: TMEM127 screening in a large cohort of patients with pheochromocytoma and/or paraganglioma. J Clin Endocrinol Metab 97 (5): E805-9, 2012. [PUBMED Abstract]\n- Else T, Greenberg S, Fishbein L: Hereditary Paraganglioma-Pheochromocytoma Syndromes. In: Adam MP, Feldman J, Mirzaa GM, et al., eds.: GeneReviews. University of Washington, Seattle, 1993-2024, pp. Available online. Last accessed October 29, 2024.\n- Letouzé E, Martinelli C, Loriot C, et al.: SDH mutations establish a hypermethylator phenotype in paraganglioma. Cancer Cell 23 (6): 739-52, 2013. [PUBMED Abstract]\n- Castro-Vega LJ, Buffet A, De Cubas AA, et al.: Germline mutations in FH confer predisposition to malignant pheochromocytomas and paragangliomas. Hum Mol Genet 23 (9): 2440-6, 2014. [PUBMED Abstract]\n- Clark GR, Sciacovelli M, Gaude E, et al.: Germline FH mutations presenting with pheochromocytoma. J Clin Endocrinol Metab 99 (10): E2046-50, 2014. [PUBMED Abstract]\n- Carney JA: Gastric stromal sarcoma, pulmonary chondroma, and extra-adrenal paraganglioma (Carney Triad): natural history, adrenocortical component, and possible familial occurrence. Mayo Clin Proc 74 (6): 543-52, 1999. [PUBMED Abstract]\n- Carney JA, Stratakis CA: Familial paraganglioma and gastric stromal sarcoma: a new syndrome distinct from the Carney triad. Am J Med Genet 108 (2): 132-9, 2002. [PUBMED Abstract]\n- Neumann HP, Pawlu C, Peczkowska M, et al.: Distinct clinical features of paraganglioma syndromes associated with SDHB and SDHD gene mutations. JAMA 292 (8): 943-51, 2004. [PUBMED Abstract]\n- Lenders JW, Duh QY, Eisenhofer G, et al.: Pheochromocytoma and paraganglioma: an endocrine society clinical practice guideline. J Clin Endocrinol Metab 99 (6): 1915-42, 2014. [PUBMED Abstract]\n- Lenders JW, Eisenhofer G, Mannelli M, et al.: Phaeochromocytoma. Lancet 366 (9486): 665-75, 2005 Aug 20-26. [PUBMED Abstract]\n- Kopetschke R, Slisko M, Kilisli A, et al.: Frequent incidental discovery of phaeochromocytoma: data from a German cohort of 201 phaeochromocytoma. Eur J Endocrinol 161 (2): 355-61, 2009. [PUBMED Abstract]\n- Motta-Ramirez GA, Remer EM, Herts BR, et al.: Comparison of CT findings in symptomatic and incidentally discovered pheochromocytomas. AJR Am J Roentgenol 185 (3): 684-8, 2005. [PUBMED Abstract]\n- Young WF: Clinical practice. The incidentally discovered adrenal mass. N Engl J Med 356 (6): 601-10, 2007. [PUBMED Abstract]\n- Lenders JW, Pacak K, Walther MM, et al.: Biochemical diagnosis of pheochromocytoma: which test is best? JAMA 287 (11): 1427-34, 2002. [PUBMED Abstract]\n- Sawka AM, Jaeschke R, Singh RJ, et al.: A comparison of biochemical tests for pheochromocytoma: measurement of fractionated plasma metanephrines compared with the combination of 24-hour urinary metanephrines and catecholamines. J Clin Endocrinol Metab 88 (2): 553-8, 2003. [PUBMED Abstract]\n- Perry CG, Sawka AM, Singh R, et al.: The diagnostic efficacy of urinary fractionated metanephrines measured by tandem mass spectrometry in detection of pheochromocytoma. Clin Endocrinol (Oxf) 66 (5): 703-8, 2007. [PUBMED Abstract]\n- Young WF: Phaeochromocytoma: how to catch a moonbeam in your hand. Eur J Endocrinol 136 (1): 28-9, 1997. [PUBMED Abstract]\n- Ilias I, Pacak K: Current approaches and recommended algorithm for the diagnostic localization of pheochromocytoma. J Clin Endocrinol Metab 89 (2): 479-91, 2004. [PUBMED Abstract]\n- Furuta N, Kiyota H, Yoshigoe F, et al.: Diagnosis of pheochromocytoma using [123I]-compared with [131I]-metaiodobenzylguanidine scintigraphy. Int J Urol 6 (3): 119-24, 1999. [PUBMED Abstract]\n- Janssen I, Wolf KI, Chui CH, et al.: Relevant Discordance Between 68Ga-DOTATATE and 68Ga-DOTANOC in SDHB-Related Metastatic Paraganglioma: Is Affinity to Somatostatin Receptor 2 the Key? Clin Nucl Med 42 (3): 211-213, 2017. [PUBMED Abstract]\n- Janssen I, Chen CC, Millo CM, et al.: PET/CT comparing (68)Ga-DOTATATE and other radiopharmaceuticals and in comparison with CT/MRI for the localization of sporadic metastatic pheochromocytoma and paraganglioma. Eur J Nucl Med Mol Imaging 43 (10): 1784-91, 2016. [PUBMED Abstract]\n- Plouin PF, Chatellier G, Fofol I, et al.: Tumor recurrence and hypertension persistence after successful pheochromocytoma operation. Hypertension 29 (5): 1133-9, 1997. [PUBMED Abstract]\n- van Heerden JA, Roland CF, Carney JA, et al.: Long-term evaluation following resection of apparently benign pheochromocytoma(s)/paraganglioma(s). World J Surg 14 (3): 325-9, 1990 May-Jun. [PUBMED Abstract]\n- Amar L, Servais A, Gimenez-Roqueplo AP, et al.: Year of diagnosis, features at presentation, and risk of recurrence in patients with pheochromocytoma or secreting paraganglioma. J Clin Endocrinol Metab 90 (4): 2110-6, 2005. [PUBMED Abstract]\n- Ayala-Ramirez M, Feng L, Johnson MM, et al.: Clinical risk factors for malignancy and overall survival in patients with pheochromocytomas and sympathetic paragangliomas: primary tumor size and primary tumor location as prognostic indicators. J Clin Endocrinol Metab 96 (3): 717-25, 2011. [PUBMED Abstract]\n- Fishbein L, Ben-Maimon S, Keefe S, et al.: SDHB mutation carriers with malignant pheochromocytoma respond better to CVD. Endocr Relat Cancer 24 (8): L51-L55, 2017. [PUBMED Abstract]\n- Hamidi O, Young WF, Gruber L, et al.: Outcomes of patients with metastatic phaeochromocytoma and paraganglioma: A systematic review and meta-analysis. Clin Endocrinol (Oxf) 87 (5): 440-450, 2017. [PUBMED Abstract]\n- Asai S, Katabami T, Tsuiki M, et al.: Controlling Tumor Progression with Cyclophosphamide, Vincristine, and Dacarbazine Treatment Improves Survival in Patients with Metastatic and Unresectable Malignant Pheochromocytomas/Paragangliomas. Horm Cancer 8 (2): 108-118, 2017. [PUBMED Abstract]\n- Andrews KA, Ascher DB, Pires DEV, et al.: Tumour risks and genotype-phenotype correlations associated with germline variants in succinate dehydrogenase subunit genes SDHB, SDHC and SDHD. J Med Genet 55 (6): 384-394, 2018. [PUBMED Abstract]\n- Fishbein L, Merrill S, Fraker DL, et al.: Inherited mutations in pheochromocytoma and paraganglioma: why all patients should be offered genetic testing. Ann Surg Oncol 20 (5): 1444-50, 2013. [PUBMED Abstract]\n- Neumann HPH, Young WF, Eng C: Pheochromocytoma and Paraganglioma. N Engl J Med 381 (6): 552-565, 2019. [PUBMED Abstract]"
+        },
+        {
+          "section": "Pathological Classification",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Pheochromocytoma and Paraganglioma",
+            "Pathological Classification"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Pheochromocytoma and paraganglioma characteristically form small nests of uniform polygonal chromaffin cells (“zellballen”). A diagnosis of malignancy can only be made by identifying tumor deposits in tissues that do not normally contain chromaffin cells (e.g., lymph nodes, liver, bone, lung, and other distant metastatic sites).\nRegional or distant metastatic disease is documented on initial pathology in only 3% to 8% of patients; thus, an attempt has been made to identify tumor characteristics associated with future malignant behavior. Pathological features associated with malignancy include:\n- Large tumor size.\n- Increased number of mitoses.\n- DNA aneuploidy.\n- Extensive tumor necrosis.\n- Vascular or capsular invasion.\nIn the absence of clearly documented metastases, no combination of clinical, histopathological, or biochemical features has been shown to reliably predict the biological behavior of pheochromocytoma. If no definite malignancy is identified, pathology generally provides insufficient prognostic information regarding the likelihood of recurrence or metastasis. These tumors cannot be considered benign by default; patients require continued lifelong surveillance.[ 1 - 7 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Pheochromocytoma and Paraganglioma",
+            "Pathological Classification",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Plouin PF, Chatellier G, Fofol I, et al.: Tumor recurrence and hypertension persistence after successful pheochromocytoma operation. Hypertension 29 (5): 1133-9, 1997. [PUBMED Abstract]\n- Thompson LD: Pheochromocytoma of the Adrenal gland Scaled Score (PASS) to separate benign from malignant neoplasms: a clinicopathologic and immunophenotypic study of 100 cases. Am J Surg Pathol 26 (5): 551-66, 2002. [PUBMED Abstract]\n- Nativ O, Grant CS, Sheps SG, et al.: The clinical significance of nuclear DNA ploidy pattern in 184 patients with pheochromocytoma. Cancer 69 (11): 2683-7, 1992. [PUBMED Abstract]\n- Wu D, Tischler AS, Lloyd RV, et al.: Observer variation in the application of the Pheochromocytoma of the Adrenal Gland Scaled Score. Am J Surg Pathol 33 (4): 599-608, 2009. [PUBMED Abstract]\n- Kimura N, Watanabe T, Noshiro T, et al.: Histological grading of adrenal and extra-adrenal pheochromocytomas and relationship to prognosis: a clinicopathological analysis of 116 adrenal pheochromocytomas and 30 extra-adrenal sympathetic paragangliomas including 38 malignant tumors. Endocr Pathol 16 (1): 23-32, 2005. [PUBMED Abstract]\n- Linnoila RI, Keiser HR, Steinberg SM, et al.: Histopathology of benign versus malignant sympathoadrenal paragangliomas: clinicopathologic study of 120 cases including unusual histologic features. Hum Pathol 21 (11): 1168-80, 1990. [PUBMED Abstract]\n- Tischler AS: Pheochromocytoma and extra-adrenal paraganglioma: updates. Arch Pathol Lab Med 132 (8): 1272-84, 2008. [PUBMED Abstract]"
+        },
+        {
+          "section": "AJCC Stage Groupings and TNM Definitions",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Pheochromocytoma and Paraganglioma",
+            "AJCC Stage Groupings and TNM Definitions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 45,
+          "text": "The American Joint Committee on Cancer (AJCC) has designated staging by TNM (tumor, node, metastasis) classification to define pheochromocytoma and paraganglioma.[ 1 ] Although the AJCC staging system does not account for the unique characteristics of these tumors, it could increase the understanding of prognostic indicators for survival.\nStage | TNM | Description\nT = primary tumor; N = regional lymph nodes; M = distant metastasis; PH = pheochromocytoma.\na Reprinted with permission from AJCC: Adrenal – Neuroendocrine tumors. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. Springer; 2017, pp. 919–27.\nb PH : within adrenal gland; PG sympathetic : functional; PG parasympathetic : nonfunctional, usually in the head and neck region; Note : parasympathetic paraganglioma are not staged because they are largely benign.\nI | T1, N0, M0 | T1 = PH <5 cm in greatest dimension, no extra-adrenal invasion.\nN0 = No lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph nodes; M = distant metastasis; PG = paraganglioma; PH = pheochromocytoma.\na Reprinted with permission from AJCC: Adrenal – Neuroendocrine tumors. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. Springer; 2017, pp. 919–27.\nb PH : within adrenal gland; PG sympathetic : functional; PG parasympathetic : nonfunctional, usually in the head and neck region; Note : parasympathetic paraganglioma are not staged because they are largely benign.\nII | T2, N0, M0 | T2 = PH ≥5 cm or PG-sympathetic of any size, no extra-adrenal invasion.\nN0 = No lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph nodes; M = distant metastasis; PG = paraganglioma; PH = pheochromocytoma.\na Reprinted with permission from AJCC: Adrenal – Neuroendocrine tumors. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. Springer; 2017, pp. 919–27.\nb PH : within adrenal gland; PG sympathetic : functional; PG parasympathetic : nonfunctional, usually in the head and neck region; Note : parasympathetic paraganglioma are not staged because they are largely benign.\nIII | T1, N1, M0 | T1 = PH <5 cm in greatest dimension, no extra-adrenal invasion.\nN1 = Regional lymph node metastasis.\nM0 = No distant metastasis.\nT2, N1, M0 | T2 = PH ≥5 cm or PG-sympathetic of any size, no extra-adrenal invasion.\nN1 = Regional lymph node metastasis.\nM0 = No distant metastasis.\nT3, Any N, M0 | T3 = Tumor of any size with invasion into surrounding tissues (e.g., liver, pancreas, spleen, kidneys).\nNX = Regional lymph nodes cannot be assessed.\nN0 = No lymph node metastasis.\nN1 = Regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph nodes; M = distant metastasis; PG = paraganglioma; PH = pheochromocytoma.\na Reprinted with permission from AJCC: Adrenal – Neuroendocrine tumors. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. Springer; 2017, pp. 919–27.\nb PH : within adrenal gland; PG sympathetic : functional; PG parasympathetic : nonfunctional, usually in the head and neck region; Note : parasympathetic paraganglioma are not staged because they are largely benign.\nIV | Any T, Any N, M1 | TX = Primary tumor cannot be assessed.\nT1 = PH <5 cm in greatest dimension, no extra-adrenal invasion.\nT2 = PH ≥5 cm or PG-sympathetic of any size, no extra-adrenal invasion.\nT3 = Tumor of any size with invasion into surrounding tissues (e.g., liver, pancreas, spleen, kidneys).\nNX = Regional lymph nodes cannot be assessed.\nN0 = No lymph node metastasis.\nN1 = Regional lymph node metastasis.\nM1 = Distant metastasis.\n–M1a = Distant metastasis to only bone.\n–M1b = Distant metastasis to only distant lymph nodes/liver or lung.\n–M1c = Distant metastasis to bone plus multiple other sites."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Pheochromocytoma and Paraganglioma",
+            "AJCC Stage Groupings and TNM Definitions",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Adrenal – Neuroendocrine tumors. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 919–27."
+        },
+        {
+          "section": "Treatment Option Overview for Pheochromocytoma and Paraganglioma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pheochromocytoma and Paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Limited data are available from phase II clinical trials to guide the management of patients diagnosed with pheochromocytoma or paraganglioma. There are no phase III trials. Everything is based on case series, and the impact on survival is not known."
+        },
+        {
+          "section": "Localized and Regional Pheochromocytoma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pheochromocytoma and Paraganglioma",
+            "Localized and Regional Pheochromocytoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Definitive treatment for localized and regional pheochromocytoma, including localized disease recurrence, consists of alpha- and beta-adrenergic blockade followed by surgery."
+        },
+        {
+          "section": "Metastatic Pheochromocytoma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pheochromocytoma and Paraganglioma",
+            "Metastatic Pheochromocytoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "For patients with unresectable or metastatic pheochromocytoma, treatment may include a combination of:\n- Catecholamine blockade.\n- Surgery.\n- Chemotherapy.\n- Radiofrequency ablation.\n- Cryoablation.\n- Radiation therapy.\nTreatment for patients with localized, regional, metastatic, or recurrent pheochromocytoma is summarized in Table 2 .\nClinical Stage | Treatment Options\nLocalized pheochromocytoma | Surgery\nRegional pheochromocytoma | Surgery\nMetastatic pheochromocytoma | Surgery\nPalliative therapy\nRecurrent pheochromocytoma | Surgery\nPalliative therapy"
+        },
+        {
+          "section": "Preoperative Medical Preparation",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pheochromocytoma and Paraganglioma",
+            "Preoperative Medical Preparation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Surgery is the mainstay of treatment for most patients; however, preoperative medical preparation is critical. Alpha-adrenergic blockade should be initiated at the time of diagnosis and maximized preoperatively to prevent potentially life-threatening cardiovascular complications, which can occur as a result of excess catecholamine secretion during surgery. Complications may include:\n- Hypertensive crisis.\n- Arrhythmia.\n- Myocardial infarction.\n- Pulmonary edema.\nPhenoxybenzamine (a nonselective alpha-antagonist) is the usual drug of choice; prazosin, terazosin, and doxazosin (selective alpha-1-antagonists) are alternative choices.[ 1 , 2 ] Prazosin, terazosin, and doxazosin are shorter acting than phenoxybenzamine, and therefore, the duration of postoperative hypotension is theoretically less than with phenoxybenzamine; however, there is less overall experience with selective alpha-1-antagonists than with phenoxybenzamine.\nA preoperative treatment period of 1 to 3 weeks is usually sufficient; resolution of spells and a target low normal blood pressure for age indicate that alpha-adrenergic blockade is adequate. During alpha-adrenergic blockade, liberal salt and fluid intake should be encouraged because volume loading reduces excessive orthostatic hypotension both preoperatively and postoperatively. If tachycardia develops or if blood pressure control is not optimal with alpha-adrenergic blockade, a beta-adrenergic blocker (e.g., metoprolol or propranolol) can be added, but only after alpha-blockade. Beta-adrenergic blockade must never be initiated before alpha-adrenergic blockade; doing so blocks beta-adrenergic receptor-mediated vasodilation and results in unopposed alpha-adrenergic receptor-mediated vasoconstriction, which can lead to a life-threatening crisis."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pheochromocytoma and Paraganglioma",
+            "Preoperative Medical Preparation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Cubeddu LX, Zarate NA, Rosales CB, et al.: Prazosin and propranolol in preoperative management of pheochromocytoma. Clin Pharmacol Ther 32 (2): 156-60, 1982. [PUBMED Abstract]\n- Prys-Roberts C, Farndon JR: Efficacy and safety of doxazosin for perioperative management of patients with pheochromocytoma. World J Surg 26 (8): 1037-42, 2002. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Localized Pheochromocytoma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Pheochromocytoma",
+            "Treatment Options for Localized Pheochromocytoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for localized pheochromocytoma include:\n- Surgery ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Pheochromocytoma",
+            "Treatment Options for Localized Pheochromocytoma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Surgical resection (i.e., adrenalectomy) is the definitive treatment for patients with localized pheochromocytoma. A minimally invasive adrenalectomy is generally the preferred approach if the following conditions can be met:\n- Preoperative imaging reveals an adrenal pheochromocytoma that is approximately 6 cm or smaller in diameter.\n- No radiographic evidence of invasion into adjacent structures or evidence of regional or metastatic disease (i.e., presumably a benign tumor).\n- Normal contralateral adrenal gland.\nBoth anterior transabdominal laparoscopic adrenalectomy and posterior retroperitoneoscopic adrenalectomy have been demonstrated to be safe for most patients with a modestly sized, radiographically benign pheochromocytoma.[ 1 , 2 ] If preoperative imaging suggests malignancy, or if the patient has an extra-adrenal paraganglioma or multifocal disease, an open approach is generally preferred.\nIntraoperative hypertension can be controlled with intravenous infusion of phentolamine, sodium nitroprusside, or a short-acting calcium-channel blocker (e.g., nicardipine). Tumor removal may be followed by a sudden drop in blood pressure that may require rapid volume replacement and intravenous vasoconstrictors (e.g., norepinephrine or phenylephrine). Postoperatively, patients should remain in a monitored environment for 24 hours. Postoperative hypotension is managed primarily by volume expansion, and postoperative hypertension usually responds to diuretics."
+        },
+        {
+          "section": "Treatment Options for Inherited Pheochromocytoma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Pheochromocytoma",
+            "Treatment Options for Inherited Pheochromocytoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for inherited pheochromocytoma include:\n- Surgery ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Pheochromocytoma",
+            "Treatment Options for Inherited Pheochromocytoma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The surgical management of pheochromocytoma in patients with the hereditary syndromes multiple endocrine neoplasia type 2 (MEN2) or von Hippel-Lindau (VHL) disease has been controversial. In both of these syndromes, pheochromocytoma is bilateral in at least 50% of patients; however, malignancy is very uncommon. Bilateral total adrenalectomy commits all patients to lifelong steroid dependence, and up to 25% of patients will experience Addisonian crisis (acute adrenal insufficiency).[ 3 , 4 ]\nRecommendations generally favor preservation of adrenal cortical tissue in patients with MEN2 or VHL when possible. Patients who initially present with unilateral pheochromocytoma should undergo unilateral adrenalectomy, and patients who present with bilateral pheochromocytomas or who develop pheochromocytoma in their remaining adrenal gland should undergo cortical-sparing adrenalectomy, when technically feasible.[ 3 ]\nEvidence (surgery):\n- A single-institution study included 56 patients with adrenal pheochromocytomas.[ 5 ]\n- Of the 30 patients who underwent one or more cortical-sparing adrenalectomies, 17 (57%) avoided the need for routine steroid replacement.\n- The clinical recurrence rate was low (3 of 30 patients) and none of the patients developed metastatic disease.[ 5 ][ Level of evidence C2 ]\nA similar approach may be reasonable in other hereditary pheochromocytoma-paraganglioma syndromes that are characterized by benign disease, but there are insufficient data upon which to base unequivocal recommendations. For more information, see Genetics of Endocrine and Neuroendocrine Neoplasias ."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Pheochromocytoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized Pheochromocytoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Walz MK, Alesina PF, Wenger FA, et al.: Posterior retroperitoneoscopic adrenalectomy--results of 560 procedures in 520 patients. Surgery 140 (6): 943-8; discussion 948-50, 2006. [PUBMED Abstract]\n- Gagner M, Breton G, Pharand D, et al.: Is laparoscopic adrenalectomy indicated for pheochromocytomas? Surgery 120 (6): 1076-9; discussion 1079-80, 1996. [PUBMED Abstract]\n- Lee JE, Curley SA, Gagel RF, et al.: Cortical-sparing adrenalectomy for patients with bilateral pheochromocytoma. Surgery 120 (6): 1064-70; discussion 1070-1, 1996. [PUBMED Abstract]\n- de Graaf JS, Dullaart RP, Zwierstra RP: Complications after bilateral adrenalectomy for phaeochromocytoma in multiple endocrine neoplasia type 2--a plea to conserve adrenal function. Eur J Surg 165 (9): 843-6, 1999. [PUBMED Abstract]\n- Yip L, Lee JE, Shapiro SE, et al.: Surgical management of hereditary pheochromocytoma. J Am Coll Surg 198 (4): 525-34; discussion 534-5, 2004. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Regional Pheochromocytoma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Regional Pheochromocytoma",
+            "Treatment Options for Regional Pheochromocytoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for regional pheochromocytoma include:\n- Surgery ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Regional Pheochromocytoma",
+            "Treatment Options for Regional Pheochromocytoma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Surgical resection is the definitive treatment for pheochromocytoma or extra-adrenal paraganglioma that is regionally advanced (e.g., from direct tumor extension into adjacent organs or because of regional lymph node involvement). Data to guide management are limited because regional disease is diagnosed in very few patients who present with pheochromocytoma.[ 1 ] However, aggressive surgical resection to remove all existing disease can render patients symptom free.[ 2 ] Surgical management of these patients may require en bloc resection of all or part of adjacent organs (e.g., kidney, liver, inferior vena cava) along with extended lymph node dissection. Patients who have undergone complete resection of regional pheochromocytoma require lifelong monitoring for disease recurrence."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Regional Pheochromocytoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Regional Pheochromocytoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Amar L, Servais A, Gimenez-Roqueplo AP, et al.: Year of diagnosis, features at presentation, and risk of recurrence in patients with pheochromocytoma or secreting paraganglioma. J Clin Endocrinol Metab 90 (4): 2110-6, 2005. [PUBMED Abstract]\n- Zarnegar R, Kebebew E, Duh QY, et al.: Malignant pheochromocytoma. Surg Oncol Clin N Am 15 (3): 555-71, 2006. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Metastatic Pheochromocytoma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic Pheochromocytoma",
+            "Treatment Options for Metastatic Pheochromocytoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for metastatic pheochromocytoma include:\n- Surgery .\n- Palliative therapy .\nThe most common sites of metastasis for pheochromocytoma or extra-adrenal paraganglioma are lymph nodes, bones, lungs, and liver. Patients with known or suspected malignancy should undergo staging with computed tomography or magnetic resonance imaging as well as functional imaging (e.g., with iodine I 123-metaiodobenzylguanidine [MIBG]) to determine the extent and location of disease. Patients are often very symptomatic from excess catecholamine secretion. Phenoxybenzamine is effective, and metyrosine, which is a drug that blocks catecholamine synthesis, can be added if needed."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic Pheochromocytoma",
+            "Treatment Options for Metastatic Pheochromocytoma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If all identifiable disease is resectable, including a limited number of distant metastases, surgery can provide occasional long-term remission. If disease is unresectable, surgical debulking will not improve survival; however, it is occasionally indicated for symptom palliation."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic Pheochromocytoma",
+            "Treatment Options for Metastatic Pheochromocytoma",
+            "Palliative therapy",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Chemotherapy has not been shown to improve survival in patients with metastatic pheochromocytoma; however, chemotherapy may be useful for symptom palliation.\nThe best-established chemotherapy regimen is a combination of cyclophosphamide, vincristine, and dacarbazine (the Averbuch protocol).[ 1 ]\nEvidence (chemotherapy):\n- A nonrandomized single-arm trial included 18 patients with metastatic malignant pheochromocytoma or paraganglioma. Patients were treated with a combination of cyclophosphamide, vincristine, and dacarbazine.[ 2 ]\n- After 22 years of follow-up, the complete response rate was 11%, the partial response rate was 44%, the biochemical response rate was 72%, and the median survival was 3.3 years.[ 2 ][ Level of evidence C3 ]\n- A retrospective study showed a therapeutic benefit of temozolomide in patients with metastatic pheochromocytoma or paraganglioma. Fifteen consecutive patients with metastatic pheochromocytoma or paraganglioma were enrolled; 10 (67%) had an SDHB variant. The mean dose intensity of temozolomide was 172 mg/m 2 daily for 5 days every 28 days.[ 3 ]\n- The median progression-free survival was 13.3 months after a median follow-up of 35 months. Of the 15 patients, 5 (33%) had a partial response, 7 (47%) had stable disease, and 3 (20%) had progressive disease.[ 3 ][ Level of evidence C3 ]\nSeveral other chemotherapy regimens have been used in small numbers of patients, but the overall results were disappointing.[ 4 , 5 ]"
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic Pheochromocytoma",
+            "Treatment Options for Metastatic Pheochromocytoma",
+            "Palliative therapy",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Novel targeted therapies are emerging as potential treatment strategies for metastatic pheochromocytoma. Disappointing initial results were reported with the mammalian target of rapamycin (mTOR) inhibitor everolimus,[ 6 ] but results from a very small number of patients treated with the tyrosine kinase inhibitors sunitinib, axitinib, and cabozantinib have been more promising.[ 7 , 8 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic Pheochromocytoma",
+            "Treatment Options for Metastatic Pheochromocytoma",
+            "Palliative therapy",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Iodine I 131 (131I)-MIBG radiation therapy has been used for the treatment of patients with MIBG-avid metastases.[ 9 , 10 ] Approximately 60% of metastatic pheochromocytoma or paraganglioma sites are MIBG-avid;[ 11 ] protocol-based treatment with other experimental radiolabeled agents, such as radiolabeled somatostatin, can be considered for metastases that do not take up MIBG.\nEvidence (radiation therapy):\n- A phase II study of high-dose 131I-MIBG radiation therapy included 49 patients with metastatic pheochromocytoma or paraganglioma.[ 11 ] Iobenguane I 131 is a high-specific-activity 131I-MIBG agent made of labeled MIBG molecules that allows lower mass doses of MIBG to be given for adult and pediatric patients (age >12 years) with advanced unresectable disease. It has been shown to be safe and generally well tolerated and was approved by the U.S. Food and Drug Administration via fast track designation in 2018.\n- Eight percent of patients had a complete response, 14% had a partial response, and the estimated 5-year survival rate was 64%.[ 11 ][ Level of evidence C3 ]\n- A phase II, open-label, multicenter trial included 68 patients with pheochromocytoma or paraganglioma. The primary end point was a greater than 50% reduction of all antihypertensive medications lasting for at least 6 months.[ 12 ][ Level of evidence C3 ]\n- Twenty-five percent of evaluable patients experienced a 50% or greater reduction of all antihypertensive medication for at least 6 months.\n- Overall tumor response was achieved in 22% of patients and, of those patients, 53% experienced durable tumor responses lasting 6 months or longer."
+        },
+        {
+          "section": "Other therapy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic Pheochromocytoma",
+            "Treatment Options for Metastatic Pheochromocytoma",
+            "Palliative therapy",
+            "Other therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Other palliative treatment modalities include external-beam radiation therapy (e.g., for palliation of bone metastases) and embolization, radiofrequency ablation, or cryoablation (e.g., for palliation of bulky hepatic metastases or isolated bony metastases).\nPheochromocytoma and paraganglioma often express the somatostatin receptor proteins SSTR2 and SSTR3 which may allow for targeted treatment with somatostatin receptor agonists.[ 13 , 14 ] A meta-analysis of studies involving advanced or metastatic pheochromocytoma and paraganglioma patients treated with peptide receptor radionuclide therapy showed that 89.8% of pooled patients had achieved disease stabilization or a partial response.[ 15 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic Pheochromocytoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic Pheochromocytoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "- Averbuch SD, Steakley CS, Young RC, et al.: Malignant pheochromocytoma: effective treatment with a combination of cyclophosphamide, vincristine, and dacarbazine. Ann Intern Med 109 (4): 267-73, 1988. [PUBMED Abstract]\n- Huang H, Abraham J, Hung E, et al.: Treatment of malignant pheochromocytoma/paraganglioma with cyclophosphamide, vincristine, and dacarbazine: recommendation from a 22-year follow-up of 18 patients. Cancer 113 (8): 2020-8, 2008. [PUBMED Abstract]\n- Hadoux J, Favier J, Scoazec JY, et al.: SDHB mutations are associated with response to temozolomide in patients with metastatic pheochromocytoma or paraganglioma. Int J Cancer 135 (11): 2711-20, 2014. [PUBMED Abstract]\n- Nakane M, Takahashi S, Sekine I, et al.: Successful treatment of malignant pheochromocytoma with combination chemotherapy containing anthracycline. Ann Oncol 14 (9): 1449-51, 2003. [PUBMED Abstract]\n- Kulke MH, Stuart K, Enzinger PC, et al.: Phase II study of temozolomide and thalidomide in patients with metastatic neuroendocrine tumors. J Clin Oncol 24 (3): 401-6, 2006. [PUBMED Abstract]\n- Druce MR, Kaltsas GA, Fraenkel M, et al.: Novel and evolving therapies in the treatment of malignant phaeochromocytoma: experience with the mTOR inhibitor everolimus (RAD001). Horm Metab Res 41 (9): 697-702, 2009. [PUBMED Abstract]\n- Jimenez C, Cabanillas ME, Santarpia L, et al.: Use of the tyrosine kinase inhibitor sunitinib in a patient with von Hippel-Lindau disease: targeting angiogenic factors in pheochromocytoma and other von Hippel-Lindau disease-related tumors. J Clin Endocrinol Metab 94 (2): 386-91, 2009. [PUBMED Abstract]\n- Joshua AM, Ezzat S, Asa SL, et al.: Rationale and evidence for sunitinib in the treatment of malignant paraganglioma/pheochromocytoma. J Clin Endocrinol Metab 94 (1): 5-9, 2009. [PUBMED Abstract]\n- Buscombe JR, Cwikla JB, Caplin ME, et al.: Long-term efficacy of low activity meta-[131I]iodobenzylguanidine therapy in patients with disseminated neuroendocrine tumours depends on initial response. Nucl Med Commun 26 (11): 969-76, 2005. [PUBMED Abstract]\n- Scholz T, Eisenhofer G, Pacak K, et al.: Clinical review: Current treatment of malignant pheochromocytoma. J Clin Endocrinol Metab 92 (4): 1217-25, 2007. [PUBMED Abstract]\n- Gonias S, Goldsby R, Matthay KK, et al.: Phase II study of high-dose [131I]metaiodobenzylguanidine therapy for patients with metastatic pheochromocytoma and paraganglioma. J Clin Oncol 27 (25): 4162-8, 2009. [PUBMED Abstract]\n- FDA Approves AZEDRA Specified Use in Pheochromocytomas/Paragangliomas. J Nucl Med 59 (10): 17N, 2018. [PUBMED Abstract]\n- Reubi JC, Waser B, Schaer JC, et al.: Somatostatin receptor sst1-sst5 expression in normal and neoplastic human tissues using receptor autoradiography with subtype-selective ligands. Eur J Nucl Med 28 (7): 836-46, 2001. [PUBMED Abstract]\n- Mundschenk J, Unger N, Schulz S, et al.: Somatostatin receptor subtypes in human pheochromocytoma: subcellular expression pattern and functional relevance for octreotide scintigraphy. J Clin Endocrinol Metab 88 (11): 5150-7, 2003. [PUBMED Abstract]\n- Taïeb D, Jha A, Treglia G, et al.: Molecular imaging and radionuclide therapy of pheochromocytoma and paraganglioma in the era of genomic characterization of disease subgroups. Endocr Relat Cancer 26 (11): R627-R652, 2019. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Recurrent Pheochromocytoma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Pheochromocytoma",
+            "Treatment Options for Recurrent Pheochromocytoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for recurrent pheochromocytoma include:\n- Surgery .\n- Palliative therapy .\nAfter resection of a localized pheochromocytoma presumed to represent a benign tumor and documented normal postoperative biochemical testing, disease recurrence occurs in 6.5% to 16.5% of patients, and 50% of patients with disease recurrence develop metastatic disease.[ 1 - 3 ] Insufficient data exist to determine recurrence rates after complete surgical resection of regional or metastatic disease."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Pheochromocytoma",
+            "Treatment Options for Recurrent Pheochromocytoma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Treatment for recurrent disease involves appropriate medical management (i.e., alpha-adrenergic blockade) followed by complete surgical resection, when possible."
+        },
+        {
+          "section": "Palliative therapy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Pheochromocytoma",
+            "Treatment Options for Recurrent Pheochromocytoma",
+            "Palliative therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Palliation of symptoms, including those related to catecholamine excess and local mass effect, is the primary focus of treatment for disease that is not resectable.\nOptions for patients with local-regional or metastatic disease who are not considered candidates for surgical resection include:\n- Chemotherapy.\n- Targeted therapies.\n- High-dose iodine I 131-metaiodobenzylguanidine radiation therapy.\n- Ablation therapies.\n- Radiation therapy.\nFor more information, see the Treatment of Metastatic Pheochromocytoma section."
+        },
+        {
+          "section": "Treatment Options for Inherited Pheochromocytoma or Paraganglioma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Pheochromocytoma",
+            "Treatment Options for Inherited Pheochromocytoma or Paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Patients with inherited pheochromocytoma or paraganglioma are at risk of recurrent disease in the form of additional primary tumors. Follow-up evaluation and management of additional primary tumors in such patients is essential. For more information, see the Treatment of Localized Pheochromocytoma section."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Pheochromocytoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent Pheochromocytoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Plouin PF, Chatellier G, Fofol I, et al.: Tumor recurrence and hypertension persistence after successful pheochromocytoma operation. Hypertension 29 (5): 1133-9, 1997. [PUBMED Abstract]\n- van Heerden JA, Roland CF, Carney JA, et al.: Long-term evaluation following resection of apparently benign pheochromocytoma(s)/paraganglioma(s). World J Surg 14 (3): 325-9, 1990 May-Jun. [PUBMED Abstract]\n- Amar L, Servais A, Gimenez-Roqueplo AP, et al.: Year of diagnosis, features at presentation, and risk of recurrence in patients with pheochromocytoma or secreting paraganglioma. J Clin Endocrinol Metab 90 (4): 2110-6, 2005. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Pheochromocytoma During Pregnancy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Pheochromocytoma During Pregnancy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Pheochromocytoma diagnosed during pregnancy is extremely rare (0.007% of all pregnancies).[ 1 , 2 ] However, women with hereditary conditions that increase the risk of developing pheochromocytoma are often also of childbearing age, and the outcome of undiagnosed pheochromocytoma during pregnancy can be catastrophic."
+        },
+        {
+          "section": "Diagnosis",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Pheochromocytoma During Pregnancy",
+            "Diagnosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Prenatal diagnosis clearly results in decreased mortality for both mother and fetus.[ 3 ] Prior to 1970, a prenatal diagnosis of pheochromocytoma was made in only approximately 25% of cases, and the mortality rate for both mother and fetus was around 50%.[ 4 , 5 ] The prenatal diagnosis rate rose to greater than 80% through the 1980s and 1990s, and decreased maternal and fetal mortality rates were 6% and 15%, respectively.[ 4 , 6 ]\nThe diagnosis of pheochromocytoma should be suspected in any pregnant woman who develops hypertension in the first trimester, paroxysmal hypertension, or hypertension that is unusually difficult to treat.[ 2 , 7 ] Normal pregnancy does not affect catecholamine levels.[ 8 ] Thus, the usual biochemical tests are valid. Magnetic resonance imaging is the localization method of choice because it does not expose the fetus to ionizing radiation."
+        },
+        {
+          "section": "Treatment Options for Pheochromocytoma During Pregnancy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Pheochromocytoma During Pregnancy",
+            "Treatment Options for Pheochromocytoma During Pregnancy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Phenoxybenzamine use is safe in pregnancy, but beta-adrenergic blockers should be initiated only if needed because their use has been associated with intrauterine growth restriction.[ 9 , 10 ] Resection of the tumor can often be performed safely during the second trimester, or tumor resection can be combined with cesarean delivery for patients diagnosed later in pregnancy.[ 2 ] Case reports have documented successful outcomes in the rare circumstance when surgical resection was delayed until a short time after vaginal delivery.[ 11 ] The successful management of pheochromocytoma in pregnancy depends on careful monitoring and the availability of an experienced team of specialists."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Pheochromocytoma During Pregnancy",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Pheochromocytoma During Pregnancy",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Harrington JL, Farley DR, van Heerden JA, et al.: Adrenal tumors and pregnancy. World J Surg 23 (2): 182-6, 1999. [PUBMED Abstract]\n- Sarathi V, Lila AR, Bandgar TR, et al.: Pheochromocytoma and pregnancy: a rare but dangerous combination. Endocr Pract 16 (2): 300-9, 2010 Mar-Apr. [PUBMED Abstract]\n- Freier DT, Thompson NW: Pheochromocytoma and pregnancy: the epitome of high risk. Surgery 114 (6): 1148-52, 1993. [PUBMED Abstract]\n- Mannelli M, Bemporad D: Diagnosis and management of pheochromocytoma during pregnancy. J Endocrinol Invest 25 (6): 567-71, 2002. [PUBMED Abstract]\n- Schenker JG, Granat M: Phaeochromocytoma and pregnancy--an updated appraisal. Aust N Z J Obstet Gynaecol 22 (1): 1-10, 1982. [PUBMED Abstract]\n- Ahlawat SK, Jain S, Kumari S, et al.: Pheochromocytoma associated with pregnancy: case report and review of the literature. Obstet Gynecol Surv 54 (11): 728-37, 1999. [PUBMED Abstract]\n- Keely E: Endocrine causes of hypertension in pregnancy--when to start looking for zebras. Semin Perinatol 22 (6): 471-84, 1998. [PUBMED Abstract]\n- Jaffe RB, Harrison TS, Cerny JC: Localization of metastatic pheochromocytoma in pregnancy by caval catheterization. Including urinary catecholamine values in uncomplicated pregnancies. Am J Obstet Gynecol 104 (7): 939-44, 1969. [PUBMED Abstract]\n- Butters L, Kennedy S, Rubin PC: Atenolol in essential hypertension during pregnancy. BMJ 301 (6752): 587-9, 1990. [PUBMED Abstract]\n- Montan S, Ingemarsson I, Marsál K, et al.: Randomised controlled trial of atenolol and pindolol in human pregnancy: effects on fetal haemodynamics. BMJ 304 (6832): 946-9, 1992. [PUBMED Abstract]\n- Junglee N, Harries SE, Davies N, et al.: Pheochromocytoma in Pregnancy: When is Operative Intervention Indicated? J Womens Health (Larchmt) 16 (9): 1362-5, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (12/12/2024)",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (12/12/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of pheochromocytoma and paraganglioma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 9,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewer for Pheochromocytoma and Paraganglioma Treatment is:\n- Jaydira del Rivero, MD (National Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Pheochromocytoma and Paraganglioma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/pheochromocytoma/hp/pheochromocytoma-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389312]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\ec117fef3c566f32c2f1.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Pheochromocytoma and Paraganglioma",
+      "title": "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+      "summary_name": "Pheochromocytoma and Paraganglioma Treatment",
+      "url": "https://www.cancer.gov/types/pheochromocytoma/patient/pheochromocytoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "April 10, 2025",
+      "retrieved_at": "2026-08-31T07:13:34.319569+00:00",
+      "content_sha256": "4475126e8788d72cf6d4501aaa75347b7d6c4254a33c41e2a21f4b346a753ffb",
+      "section_count": 47,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Pheochromocytoma and paraganglioma are rare tumors that come from the same type of tissue.\n- Pheochromocytoma is a rare tumor that forms in the adrenal medulla (the center of the adrenal gland).\n- Paragangliomas form outside the adrenal gland.\n- Some inherited disorders and changes in certain genes increase the risk of pheochromocytoma or paraganglioma.\n- Signs and symptoms of pheochromocytoma and paraganglioma include high blood pressure and headache.\n- Signs and symptoms of pheochromocytoma and paraganglioma may occur at any time or be brought on by certain events.\n- Tests that examine the blood and urine are used to diagnose pheochromocytoma and paraganglioma.\n- Genetic counseling is part of the treatment plan for patients with pheochromocytoma or paraganglioma.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Pheochromocytoma and paraganglioma are rare tumors that come from the same type of tissue.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Pheochromocytoma and paraganglioma are rare tumors that come from the same type of tissue."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Paragangliomas form in nerve tissue in the adrenal glands and near certain blood vessels and nerves. Paragangliomas that form in the adrenal glands are called pheochromocytomas . Paragangliomas that form outside the adrenal glands are called extra-adrenal paragangliomas. In this summary, extra-adrenal paragangliomas are called paragangliomas.\nPheochromocytomas and paragangliomas may be benign (not cancer ) or cancer."
+        },
+        {
+          "section": "Pheochromocytoma is a rare tumor that forms in the adrenal medulla (the center of the adrenal gland).",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Pheochromocytoma is a rare tumor that forms in the adrenal medulla (the center of the adrenal gland)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Pheochromocytoma forms in the adrenal glands. There are two adrenal glands, one on top of each kidney in the back of the upper abdomen . Each adrenal gland has two parts. The outer layer of the adrenal gland is the adrenal cortex . The center of the adrenal gland is the adrenal medulla .\nPheochromocytoma is a rare tumor of the adrenal medulla. Usually, pheochromocytoma affects one adrenal gland, but it may affect both adrenal glands. Sometimes there is more than one tumor in one adrenal gland.\nThe adrenal glands make important hormones called catecholamines . Adrenaline (epinephrine) and noradrenaline (norepinephrine) are two types of catecholamines that help control heart rate, blood pressure , blood sugar , and the way the body reacts to stress . Sometimes a pheochromocytoma will release extra adrenaline and noradrenaline into the blood and cause signs or symptoms of disease. Enlarge Anatomy of the adrenal gland. There are two adrenal glands, one on top of each kidney. The outer part of each gland is the adrenal cortex and the inner part is the adrenal medulla."
+        },
+        {
+          "section": "Paragangliomas form outside the adrenal gland.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Paragangliomas form outside the adrenal gland."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Paragangliomas are rare tumors that form near the carotid artery , along nerve pathways in the head and neck, and in other parts of the body. Some paragangliomas make extra catecholamines called adrenaline and noradrenaline. The release of these extra catecholamines into the blood may cause signs or symptoms of disease. Enlarge Paraganglioma of the head and neck. A rare tumor that often forms near the carotid artery. It may also form along nerve pathways in the head and neck and in other parts of the body."
+        },
+        {
+          "section": "Some inherited disorders and changes in certain genes increase the risk of pheochromocytoma or paraganglioma.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Some inherited disorders and changes in certain genes increase the risk of pheochromocytoma or paraganglioma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Anything that increases your chance of getting a disease is called a risk factor . Having a risk factor doesn't mean that you will get cancer; not having risk factors doesn’t mean that you will not get cancer. Talk to your doctor if you think you may be at risk.\nThe following inherited syndromes or gene changes increase the risk of pheochromocytoma or paraganglioma:\n- Multiple endocrine neoplasia 2 syndrome , types A and B (MEN2A and MEN2B).\n- von Hippel-Lindau (VHL) syndrome .\n- Neurofibromatosis type 1 (NF1).\n- Hereditary paraganglioma-pheochromocytoma syndrome .\n- Hereditary leiomyomatosis and renal cell cancer .\n- Carney-Stratakis dyad (paraganglioma and gastrointestinal stromal tumor [GIST]).\n- Carney triad (paraganglioma, GIST, and pulmonary chondroma)."
+        },
+        {
+          "section": "Signs and symptoms of pheochromocytoma and paraganglioma include high blood pressure and headache.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Signs and symptoms of pheochromocytoma and paraganglioma include high blood pressure and headache."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Some tumors do not make extra adrenaline or noradrenaline and do not cause signs and symptoms. These tumors are sometimes found when a lump forms in the neck or when a test or procedure is done for another reason. Signs and symptoms of pheochromocytoma and paraganglioma occur when too much adrenaline or noradrenaline is released into the blood. These and other signs and symptoms may be caused by pheochromocytoma and paraganglioma or by other conditions. Check with your doctor if you have:\n- High blood pressure .\n- Headache.\n- Heavy sweating for no known reason.\n- A strong, fast, or irregular heartbeat.\n- Being shaky.\n- Being extremely pale.\nThe most common sign is high blood pressure that may be hard to control. Very high blood pressure can cause serious health problems such as irregular heartbeat, heart attack, stroke , or death."
+        },
+        {
+          "section": "Signs and symptoms of pheochromocytoma and paraganglioma may occur at any time or be brought on by certain events.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Signs and symptoms of pheochromocytoma and paraganglioma may occur at any time or be brought on by certain events."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Signs and symptoms of pheochromocytoma and paraganglioma may occur when one of the following events happens:\n- Hard physical activity.\n- A physical injury or having a lot of emotional stress.\n- Childbirth.\n- Going under anesthesia .\n- Surgery, including procedures to remove the tumor.\n- Eating foods high in tyramine (such as red wine, chocolate, and cheese)."
+        },
+        {
+          "section": "Tests that examine the blood and urine are used to diagnose pheochromocytoma and paraganglioma.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Tests that examine the blood and urine are used to diagnose pheochromocytoma and paraganglioma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam to check for signs of disease, such as high blood pressure, your doctor may perform the following tests and procedures:\n- Twenty-four-hour urine test : A test in which urine is collected for 24 hours to measure the amounts of catecholamines in the urine. Substances caused by the breakdown of these catecholamines are also measured. An unusual (higher or lower than normal) amount of a substance can be a sign of disease in the organ or tissue that makes it. Higher-than-normal amounts of certain catecholamines may be a sign of pheochromocytoma.\n- Blood catecholamine studies : A procedure in which a blood sample is checked to measure the amount of certain catecholamines released into the blood. Substances caused by the breakdown of these catecholamines are also measured. An unusual (higher than or lower than normal) amount of a substance can be a sign of disease in the organ or tissue that makes it. Higher-than-normal amounts of certain catecholamines may be a sign of pheochromocytoma.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, such as the neck, chest, abdomen, and pelvis , taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas inside the body such as the neck, chest, abdomen, and pelvis. This procedure is also called nuclear magnetic resonance imaging (NMRI)."
+        },
+        {
+          "section": "Genetic counseling is part of the treatment plan for patients with pheochromocytoma or paraganglioma.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Genetic counseling is part of the treatment plan for patients with pheochromocytoma or paraganglioma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "All patients who are diagnosed with pheochromocytoma or paraganglioma should have genetic counseling to find out their risk for having an inherited syndrome and other related cancers.\nGenetic testing is often recommended by a genetic counselor for patients who:\n- Have a personal or family history of traits linked with inherited pheochromocytoma or paraganglioma syndrome.\n- Have tumors in both adrenal glands.\n- Have more than one tumor in one adrenal gland.\n- Have signs or symptoms of extra catecholamines being released into the blood or malignant (cancerous) paraganglioma.\n- Are diagnosed before age 40 years.\nGenetic testing is sometimes recommended for patients with pheochromocytoma who:\n- Are aged 40 to 50 years.\n- Have a tumor in one adrenal gland.\n- Do not have a personal or family history of an inherited syndrome.\nWhen certain gene changes are found during genetic testing, the testing is usually offered to family members who are at risk but do not have signs or symptoms.\nGenetic testing is not recommended for patients older than 50 years."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "General Information About Pheochromocytoma and Paraganglioma",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The prognosis and treatment options depend on:\n- Whether the tumor is benign or malignant .\n- Whether the tumor is in one area only or has spread to other places in the body.\n- Whether there are signs or symptoms caused by a higher-than-normal amount of catecholamines.\n- Whether the tumor has just been diagnosed or has recurred (come back)."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Stages of Pheochromocytoma and Paraganglioma",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- After pheochromocytoma and paraganglioma have been diagnosed, tests are done to find out if the tumor has spread to other parts of the body.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- Pheochromocytoma and paraganglioma are described as localized, regional, or metastatic.\n- Localized pheochromocytoma and paraganglioma\n- Regional pheochromocytoma and paraganglioma\n- Metastatic pheochromocytoma and paraganglioma\n- Pheochromocytoma and paraganglioma can recur (come back) after they have been treated."
+        },
+        {
+          "section": "After pheochromocytoma and paraganglioma have been diagnosed, tests are done to find out if the tumor has spread to other parts of the body.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Stages of Pheochromocytoma and Paraganglioma",
+            "After pheochromocytoma and paraganglioma have been diagnosed, tests are done to find out if the tumor has spread to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The process to find out if cancer has spread to other parts of the body is usually called staging . It is important to know whether the cancer has spread in order to plan treatment. The following tests and procedures may be used to determine if the tumor has spread to other parts of the body:\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, such as the neck, chest, abdomen , and pelvis , taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. The abdomen and pelvis are imaged to detect tumors that release catecholamine . This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas inside the body such as the neck, chest, abdomen, and pelvis. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- MIBG scan : A procedure used to find neuroendocrine tumors , such as pheochromocytoma and paraganglioma. A very small amount of a substance called radioactive MIBG is injected into a vein and travels through the bloodstream. Neuroendocrine tumor cells take up the radioactive MIBG and are detected by a scanner . Scans may be taken over 1-3 days. An iodine solution may be given before or during the test to keep the thyroid gland from absorbing too much of the MIBG.\n- Octreotide scan : A type of radionuclide scan used to find certain tumors, including tumors that release catecholamine. A very small amount of radioactive octreotide (a hormone that attaches to certain tumors) is injected into a vein and travels through the bloodstream. The radioactive octreotide attaches to the tumor and a special camera that detects radioactivity is used to show where the tumors are in the body.\n- PET scan (positron emission tomography scan) or FDG-PET scan (fluorodeoxyglucose-positron emission tomography scan) : A procedure to find malignant tumor cells in the body. A small amount of FDG, a type of radioactive glucose (sugar), is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do. Other substances may be used to attach to the tumor to get a better picture."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Stages of Pheochromocytoma and Paraganglioma",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Stages of Pheochromocytoma and Paraganglioma",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of cancer as the primary tumor. For example, if pheochromocytoma spreads to the bone, the cancer cells in the bone are actually pheochromocytoma cells. The disease is metastatic pheochromocytoma, not bone cancer."
+        },
+        {
+          "section": "Localized pheochromocytoma and paraganglioma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Stages of Pheochromocytoma and Paraganglioma",
+            "Pheochromocytoma and paraganglioma are described as localized, regional, or metastatic.",
+            "Localized pheochromocytoma and paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The tumor is found in one or both adrenal glands (pheochromocytoma) or in one area only ( paraganglioma )."
+        },
+        {
+          "section": "Regional pheochromocytoma and paraganglioma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Stages of Pheochromocytoma and Paraganglioma",
+            "Pheochromocytoma and paraganglioma are described as localized, regional, or metastatic.",
+            "Regional pheochromocytoma and paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Cancer has spread to lymph nodes or other tissues near where the tumor began."
+        },
+        {
+          "section": "Metastatic pheochromocytoma and paraganglioma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Stages of Pheochromocytoma and Paraganglioma",
+            "Pheochromocytoma and paraganglioma are described as localized, regional, or metastatic.",
+            "Metastatic pheochromocytoma and paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer has spread to other parts of the body, such as the liver , lungs , bone, or distant lymph nodes."
+        },
+        {
+          "section": "Pheochromocytoma and paraganglioma can recur (come back) after they have been treated.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Stages of Pheochromocytoma and Paraganglioma",
+            "Pheochromocytoma and paraganglioma are described as localized, regional, or metastatic.",
+            "Pheochromocytoma and paraganglioma can recur (come back) after they have been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer may come back in the same place or in other parts of the body."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- There are different types of treatment for patients with pheochromocytoma or paraganglioma.\n- Patients receive medication to treat the signs and symptoms of pheochromocytoma and paraganglioma.\n- The following types of treatment are used:\n- Surgery\n- Radiation therapy\n- Chemotherapy\n- Ablation therapy\n- Embolization therapy\n- Targeted therapy\n- New types of treatment are being tested in clinical trials.\n- Treatment for pheochromocytoma and paraganglioma may cause side effects.\n- Follow-up care will be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with pheochromocytoma or paraganglioma.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with pheochromocytoma or paraganglioma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatments are available for patients with pheochromocytoma or paraganglioma . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer. When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment"
+        },
+        {
+          "section": "Patients receive medication to treat the signs and symptoms of pheochromocytoma and paraganglioma.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients receive medication to treat the signs and symptoms of pheochromocytoma and paraganglioma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Drug therapy begins when pheochromocytoma or paraganglioma is diagnosed. This may include:\n- Drugs that keep the blood pressure normal. For example, one type of drug called alpha-blockers stops noradrenaline from making small blood vessels more narrow. Keeping the blood vessels open and relaxed improves blood flow and lowers blood pressure.\n- Drugs that keep the heart rate normal. For example, one type of drug called beta-blockers stops the effect of too much noradrenaline and slows the heart rate.\n- Drugs that block the effect of extra hormones made by the adrenal gland .\nDrug therapy is often given for one to three weeks before surgery."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Surgery to remove pheochromocytoma is usually an adrenalectomy (removal of one or both adrenal glands). During this surgery, the tissues and lymph nodes inside the abdomen will be checked and if the tumor has spread, these tissues may also be removed. Drugs may be given before, during, and after surgery to keep blood pressure and heart rate normal.\nAfter surgery to remove the tumor, catecholamine levels in the blood or urine are checked. Normal catecholamine levels are a sign that all the pheochromocytoma cells were removed.\nIf both adrenal glands are removed, life-long hormone therapy to replace hormones made by the adrenal glands is needed."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Radiation therapy uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing.\n- External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\n- Metastatic pheochromocytoma is sometimes treated with a radioactive substance called 131I-MIBG. It is given by infusion to deliver radiation directly to tumor cells throughout the body. 131I-MIBG collects in certain kinds of tumor cells, killing them with the radiation that is given off. Not all pheochromocytomas take up 131I-MIBG, so a test is done first to check for this before treatment begins.\nThe way the radiation therapy is given depends on whether the cancer is localized , regional , metastatic , or recurrent . External radiation therapy and 131I-MIBG therapy are used to treat pheochromocytoma."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). Combination chemotherapy is treatment using more than one anticancer drug. Systemic chemotherapy is used to treat pheochromocytomas and paragangliomas."
+        },
+        {
+          "section": "Ablation therapy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Ablation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Ablation is a treatment to remove or destroy a body part or tissue or its function. Ablation therapies used to help kill cancer cells include:\n- Radiofrequency ablation : A procedure that uses radio waves to heat and destroy abnormal cells. The radio waves travel through electrodes (small devices that carry electricity). Radiofrequency ablation may be used to treat cancer and other conditions.\n- Cryoablation : A procedure in which tissue is frozen to destroy abnormal cells. Liquid nitrogen or liquid carbon dioxide is used to freeze the tissue."
+        },
+        {
+          "section": "Embolization therapy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Embolization therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Embolization therapy is a treatment to block the artery leading to the adrenal gland. Blocking the flow of blood to the adrenal glands helps kill cancer cells growing there."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells. Tyrosine kinase inhibitors (TKIs) block signals needed for tumors to grow. Sunitinib , axitinib , and cabozantinib have been used as palliative therapy for metastatic and recurrent pheochromocytoma."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some people, joining a clinical trial may be an option. There are different types of clinical trials for people with cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment for pheochromocytoma and paraganglioma may cause side effects.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for pheochromocytoma and paraganglioma may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Follow-up care will be needed.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care will be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Some of the tests that were done to diagnose the cancer or to find out the extent of the cancer may be repeated. Some tests will be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment will be based on the results of these tests.\nSome of the tests will continue to be done after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back). These tests are sometimes called follow-up tests.\nFor patients with pheochromocytoma or paraganglioma that causes symptoms , catecholamine levels in the blood and urine will be checked on a regular basis. Catecholamine levels that are higher than normal can be a sign that the cancer has come back.\nFor patients with paraganglioma that does not cause symptoms, follow-up tests, such as CT , MRI , or MIBG scan should be done every year.\nFor patients with inherited pheochromocytoma or paraganglioma, catecholamine levels in the blood and urine will be checked on a regular basis. Other screening tests will be done to check for other tumors that are linked to the inherited syndrome .\nTalk to your doctor about which tests should be done and how often. Patients with pheochromocytoma or paraganglioma need lifelong follow-up."
+        },
+        {
+          "section": "Treatment of Pheochromocytoma and Paraganglioma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment of Pheochromocytoma and Paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section."
+        },
+        {
+          "section": "Localized Pheochromocytoma and Paraganglioma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment of Pheochromocytoma and Paraganglioma",
+            "Localized Pheochromocytoma and Paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment of localized benign pheochromocytoma or paraganglioma is usually surgery to completely remove the tumor. If the tumor is in the adrenal gland , the entire adrenal gland is removed.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Inherited Pheochromocytoma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment of Pheochromocytoma and Paraganglioma",
+            "Inherited Pheochromocytoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "In patients with inherited pheochromocytoma linked to multiple endocrine neoplasia (MEN2) or von Hippel-Lindau (VHL) syndrome , tumors often form in both adrenal glands . The tumors are usually benign .\n- Treatment for inherited pheochromocytoma that forms in one adrenal gland is surgery to completely remove the gland.\n- Treatment for inherited pheochromocytoma that forms in both adrenal glands or later forms in the remaining adrenal gland may be surgery to remove the tumor and as little normal tissue in the adrenal cortex as possible.\nThese surgeries may help patients avoid life-long hormone replacement therapy , acute adrenal insufficiency , and health problems due to the loss of hormones made by the adrenal gland."
+        },
+        {
+          "section": "Regional Pheochromocytoma and Paraganglioma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment of Pheochromocytoma and Paraganglioma",
+            "Regional Pheochromocytoma and Paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment of pheochromocytoma or paraganglioma that has spread to nearby organs or lymph nodes is surgery to completely remove the tumor. Nearby organs that the cancer has spread to, such as the kidney , liver , part of a major blood vessel , and lymph nodes, may also be removed.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Metastatic Pheochromocytoma and Paraganglioma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment of Pheochromocytoma and Paraganglioma",
+            "Metastatic Pheochromocytoma and Paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Treatment of metastatic pheochromocytoma or paraganglioma may include:\n- Surgery to completely remove the cancer, including tumors that have spread to distant parts of the body.\n- Palliative therapy , to relieve symptoms and improve the quality of life , including:\n- Surgery to remove as much cancer as possible.\n- Combination chemotherapy .\n- Radiation therapy with 131I-MIBG .\n- External radiation therapy to areas (such as bone) where cancer has spread and cannot be removed by surgery.\n- Embolization (treatment to block an artery that supplies blood to a tumor).\n- Ablation therapy using radiofrequency ablation or cryoablation for tumors in the liver or bone.\n- Targeted therapy ( tyrosine kinase inhibitors ).\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Recurrent Pheochromocytoma and Paraganglioma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Treatment of Pheochromocytoma and Paraganglioma",
+            "Recurrent Pheochromocytoma and Paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment of recurrent pheochromocytoma or paraganglioma may include:\n- Surgery to completely remove the cancer.\n- When surgery to remove the cancer is not possible, palliative therapy to relieve symptoms and improve the quality of life may include:\n- Combination chemotherapy .\n- Targeted therapy .\n- Radiation therapy using 131I-MIBG .\n- External radiation therapy to areas (such as bone) where cancer has spread and cannot be removed by surgery.\n- Ablation therapy using radiofrequency ablation or cryoablation .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Pheochromocytoma During Pregnancy",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Pregnant women with pheochromocytoma need special care.\n- Treatment of pregnant women with pheochromocytoma may include surgery.\nFor information about the treatments listed below, see the Treatment Option Overview section."
+        },
+        {
+          "section": "Pregnant women with pheochromocytoma need special care.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Pheochromocytoma During Pregnancy",
+            "Pregnant women with pheochromocytoma need special care."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Although it is rarely diagnosed during pregnancy , pheochromocytoma can be very serious for the mother and fetus . Women who have an increased risk of pheochromocytoma should have prenatal testing. Pregnant women with pheochromocytoma should be treated by a team of doctors who are experts in this type of care.\nSigns of pheochromocytoma in pregnancy may include:\n- High blood pressure during the first 3 months of pregnancy.\n- Sudden periods of high blood pressure.\n- High blood pressure that is very hard to treat.\nThe diagnosis of pheochromocytoma in pregnant women includes testing for catecholamine levels in blood and urine. See the General Information section for a description of these tests and procedures. An MRI can be done to safely find tumors in pregnant women because it does not expose the fetus to radiation ."
+        },
+        {
+          "section": "Treatment of pregnant women with pheochromocytoma may include surgery.",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "Pheochromocytoma During Pregnancy",
+            "Treatment of pregnant women with pheochromocytoma may include surgery."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment of pheochromocytoma during pregnancy may include:\n- Surgery to completely remove the cancer during the second trimester (the fourth through the sixth month of pregnancy).\n- Surgery to completely remove the cancer combined with delivery of the baby by cesarean section for patients diagnosed later in pregnancy."
+        },
+        {
+          "section": "To Learn More About Pheochromocytoma and Paraganglioma",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "To Learn More About Pheochromocytoma and Paraganglioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "For more information from the National Cancer Institute about pheochromocytoma and paraganglioma, see:\n- Pheochromocytoma and Paraganglioma Home Page\n- Childhood Pheochromocytoma and Paraganglioma Treatment\n- Cryosurgery to Treat Cancer\n- Targeted Therapy to Treat Cancer\n- Genetic Testing for Inherited Cancer Risk\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of pheochromocytoma and paraganglioma. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Pheochromocytoma and Paraganglioma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/pheochromocytoma/patient/pheochromocytoma-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389499]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Pheochromocytoma and Paraganglioma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\d585d849504b0fb4d570.html"
+    }
+  ]
+}

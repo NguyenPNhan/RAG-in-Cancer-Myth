@@ -1,0 +1,4578 @@
+[
+  {
+    "url": "https://www.cancer.gov/about-cancer/advanced-cancer/caregivers/planning/bereavement-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/advanced-cancer/caregivers/planning/bereavement-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/advanced-cancer/caregivers/planning/last-days-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/advanced-cancer/caregivers/planning/last-days-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/advanced-cancer/planning/end-of-life-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/advanced-cancer/planning/hospice-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/causes-prevention/hp-prevention-overview-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/causes-prevention/patient-prevention-overview-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/quit-smoking-hp-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/quit-smoking-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/communication-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/communication-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/coping/day-to-day/faith-and-spirituality/spirituality-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/coping/day-to-day/faith-and-spirituality/spirituality-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/coping/family-friends/family-caregivers-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/coping/family-friends/family-caregivers-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/coping/feelings/anxiety-distress-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/coping/feelings/anxiety-distress-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/coping/feelings/depression-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/coping/feelings/depression-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/coping/survivorship/new-normal/ptsd-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/coping/survivorship/new-normal/ptsd-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/managing-care/track-care-costs/financial-toxicity-hp-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/managing-care/track-care-costs/financial-toxicity-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/screening/hp-screening-overview-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/714-x-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/acupuncture-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/antineoplastons-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/aromatherapy-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/black-cohosh-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/cancell-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/cannabis-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/cartilage-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/coenzyme-q10-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/curcumin-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/dietary-interactions-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/essiac-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/gerson-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/gonzalez-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/hydrazine-sulfate-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/laetrile-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/milk-thistle-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/mistletoe-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/mushrooms-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/ndv-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/pc-spes-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/prostate-supplements-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/suns-soup-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/hp/vitamin-c-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/714-x-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/acupuncture-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/antineoplastons-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/aromatherapy-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/black-cohosh-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/cancell-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/cannabis-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/cartilage-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/coenzyme-q10-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/curcumin-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/dietary-interactions-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/essiac-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/gerson-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/gonzalez-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/hydrazine-sulfate-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/laetrile-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/milk-thistle-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/mistletoe-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/mushrooms-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/ndv-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/pc-spes-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/prostate-supplements-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/suns-soup-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/vitamin-c-pdq",
+    "collections": [
+      "integrative_therapies"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/cam"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/cancer-symptom-clusters-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/cardiopulmonary-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/cardiopulmonary-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/constipation/gi-complications-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/fatigue/fatigue-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/hot-flashes-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/hot-flashes-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/lymphedema/lymphedema-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/memory/cognitive-impairment-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/memory/cognitive-impairment-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/mouth-throat/oral-complications-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/mouth-throat/oral-complications-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/nausea/nausea-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/pain/pain-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/pain/pain-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/skin-nail-changes/pruritus-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/skin-nail-changes/pruritus-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/sleep-disorders-hp-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/side-effects/sleep-disorders-pdq",
+    "collections": [
+      "supportive_care"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/about-cancer/treatment/types/agnostic-cancer-therapies-hp-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/adrenocortical/hp/adrenocortical-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/adrenocortical/hp/child-adrenocortical-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/anal/hp/anal-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/anal/hp/anal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/bladder/hp/bladder-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/bladder/hp/bladder-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/bladder/hp/child-bladder-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/bone/hp/child-chordoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/bone/hp/ewing-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/bone/hp/osteosarcoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/bone/patient/child-chordoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/bone/patient/osteosarcoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/hp/adult-brain-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/hp/child-brain-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/hp/child-cns-atrt-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/hp/child-cns-embryonal-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/hp/child-cns-germ-cell-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/hp/child-cranio-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/hp/child-ependymoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/patient/adult-brain-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/patient/child-cns-atrt-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/patient/child-cns-embryonal-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/patient/child-cns-germ-cell-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/brain/patient/child-cranio-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/breast/hp/breast-ovarian-genetics-pdq",
+    "collections": [
+      "genetics"
+    ],
+    "index_link_labels": [
+      "Genetics of Breast and Gynecologic Cancers (PDQ®) – health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/genetics"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/breast/hp/breast-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/breast/hp/breast-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/breast/hp/child-breast-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/breast/hp/male-breast-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/breast/hp/pregnancy-breast-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/cardiac/hp-child-cardiac-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/cardiac/patient-child-cardiac-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/cervical/hp/cervical-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/cervical/hp/cervical-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/cervical/hp/cervical-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/cervical/hp/child-cervical-vaginal-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/cervical/hp/treatment-during-pregnancy-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/childhood-cancers/hp/rare-childhood-cancers-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/childhood-cancers/late-effects-hp-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/childhood-cancers/late-effects-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/childhood-cancers/patient/rare-childhood-cancers-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/childhood-cancers/pediatric-genomics-hp-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/colorectal/hp/child-colorectal-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/colorectal/hp/colon-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/colorectal/hp/colorectal-genetics-pdq",
+    "collections": [
+      "genetics"
+    ],
+    "index_link_labels": [
+      "Genetics of Colorectal Cancer (PDQ®) – health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/genetics"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/colorectal/hp/colorectal-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/colorectal/hp/colorectal-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/colorectal/hp/rectal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/colorectal/patient/child-colorectal-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/colorectal/patient/colon-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/colorectal/patient/colorectal-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/colorectal/patient/colorectal-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/colorectal/patient/rectal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/esophageal/hp/child-esophageal-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/esophageal/hp/esophageal-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/esophageal/hp/esophageal-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/esophageal/hp/esophageal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/extracranial-germ-cell/hp/germ-cell-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/extracranial-germ-cell/patient/germ-cell-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/extragonadal-germ-cell/hp/extragonadal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/extragonadal-germ-cell/patient/extragonadal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/eye/hp/child-intraocular-melanoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/eye/hp/intraocular-melanoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/eye/patient/child-intraocular-melanoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/eye/patient/intraocular-melanoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/gallbladder/hp/gallbladder-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/gallbladder/patient/gallbladder-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/gestational-trophoblastic/hp/gtd-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/gestational-trophoblastic/patient/gtd-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/gi-neuroendocrine-tumors/hp/gi-neuroendocrine-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/gi-neuroendocrine-tumors/hp/pediatric-gi-neuroendocrine-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/gi-neuroendocrine-tumors/patient/child-gi-neuroendocrine-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/gi-neuroendocrine-tumors/patient/gi-neuroendocrine-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/adult/hypopharyngeal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/adult/laryngeal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/adult/lip-mouth-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/adult/metastatic-squamous-neck-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/adult/nasopharyngeal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/adult/oropharyngeal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/adult/paranasal-sinus-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/adult/salivary-gland-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/child/esthesioneuroblastoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/child/laryngeal-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/child/nasopharyngeal-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/child/oral-cavity-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/child/salivary-gland-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/oral-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/hp/oral-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/adult/hypopharyngeal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/adult/laryngeal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/adult/lip-mouth-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/adult/metastatic-squamous-neck-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/adult/nasopharyngeal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/adult/oropharyngeal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/adult/paranasal-sinus-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/adult/salivary-gland-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/child/esthesioneuroblastoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/child/laryngeal-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/child/nasopharyngeal-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/child/oral-cavity-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/child/salivary-gland-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/oral-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/head-and-neck/patient/oral-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/kidney/hp/kidney-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/kidney/hp/transitional-cell-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/kidney/hp/wilms-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/kidney/patient/kidney-genetics-pdq",
+    "collections": [
+      "genetics"
+    ],
+    "index_link_labels": [
+      "Genetics of Kidney Cancer (PDQ®) – patient version"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/genetics"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/kidney/patient/kidney-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/kidney/patient/transitional-cell-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/kidney/patient/wilms-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/langerhans/hp/langerhans-treatment-pdq",
+    "collections": [
+      "adult_treatment",
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment",
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/langerhans/patient/langerhans-treatment-pdq",
+    "collections": [
+      "adult_treatment",
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment",
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/hp/adult-all-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/hp/adult-aml-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/hp/child-all-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/hp/child-aml-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/hp/child-aml-treatment-pdq/childhood-apl-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/hp/child-aml-treatment-pdq/childhood-cml-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/hp/child-aml-treatment-pdq/childhood-jmml-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/hp/child-aml-treatment-pdq/myeloid-dysplastic-neoplasms-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/hp/child-aml-treatment-pdq/myeloid-proliferations-down-syndrome-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/hp/cll-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/hp/cml-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/hp/hairy-cell-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/patient/adult-all-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/patient/adult-aml-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/patient/child-all-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/patient/child-aml-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/patient/cll-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/patient/cml-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/leukemia/patient/hairy-cell-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/liver/hp/adult-liver-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/liver/hp/bile-duct-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/liver/hp/child-liver-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/liver/hp/liver-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/liver/hp/liver-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/hp/child-pleuropulmonary-blastoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/hp/child-pulmonary-inflammatory-myofibroblastic-tumor-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/hp/child-tracheobronchial-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/hp/lung-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/hp/lung-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/hp/non-small-cell-lung-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/hp/small-cell-lung-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/patient/child-pleuropulmonary-blastoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/patient/child-tracheobronchial-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/patient/lung-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/patient/lung-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/patient/non-small-cell-lung-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lung/patient/small-cell-lung-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/hp/adult-hodgkin-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/hp/aggressive-b-cell-lymphoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/hp/aids-related-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/hp/child-hodgkin-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/hp/hodgkin-lymphoma-treatment-during-pregnancy-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/hp/indolent-b-cell-lymphoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/hp/mycosis-fungoides-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/hp/non-hodgkin-lymphoma-treatment-during-pregnancy-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/hp/peripheral-t-cell-lymphoma-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/hp/primary-cns-lymphoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/patient/adult-hodgkin-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/patient/adult-nhl-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/patient/aids-related-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/patient/child-hodgkin-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/patient/child-nhl-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/patient/mycosis-fungoides-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/lymphoma/patient/primary-cns-lymphoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/mesothelioma/hp/child-mesothelioma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/mesothelioma/hp/mesothelioma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/midline/hp-child-midline-tract-carcinoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/midline/patient-child-midline-tract-carcinoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/multiple-endocrine-neoplasia/hp-child-men-syndromes-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/myeloma/hp/myeloma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/myeloma/patient/myeloma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/myeloproliferative/hp/mds-mpd-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/myeloproliferative/hp/myelodysplastic-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/myeloproliferative/patient/chronic-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/myeloproliferative/patient/mds-mpd-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/myeloproliferative/patient/myelodysplastic-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/neuroblastoma/hp/neuroblastoma-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/neuroblastoma/hp/neuroblastoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/neuroblastoma/patient/neuroblastoma-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/neuroblastoma/patient/neuroblastoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/ovarian/hp/child-ovarian-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/ovarian/hp/ovarian-borderline-tumors-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/ovarian/hp/ovarian-epithelial-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/ovarian/hp/ovarian-germ-cell-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/ovarian/hp/ovarian-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/ovarian/hp/ovarian-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/ovarian/patient/child-ovarian-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/ovarian/patient/ovarian-epithelial-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/ovarian/patient/ovarian-germ-cell-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/ovarian/patient/ovarian-low-malignant-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/ovarian/patient/ovarian-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/ovarian/patient/ovarian-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/pancreatic/hp/child-pancreatic-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/pancreatic/hp/pancreatic-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/pancreatic/patient/child-pancreatic-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/pancreatic/patient/pancreatic-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/pancreatic/patient/pnet-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/parathyroid/hp/parathyroid-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/penile/hp/penile-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/pheochromocytoma/hp/child-pheochromocytoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/pheochromocytoma/hp/pheochromocytoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/pheochromocytoma/patient/child-pheochromocytoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/pheochromocytoma/patient/pheochromocytoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/pituitary/hp/pituitary-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/prostate/hp/prostate-genetics-pdq",
+    "collections": [
+      "genetics"
+    ],
+    "index_link_labels": [
+      "Genetics of Prostate Cancer (PDQ®) – health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/genetics"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/prostate/hp/prostate-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/prostate/hp/prostate-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/prostate/hp/prostate-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/prostate/patient/prostate-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/prostate/patient/prostate-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/prostate/patient/prostate-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/retinoblastoma/hp/retinoblastoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/retinoblastoma/patient/retinoblastoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/hp/child-melanoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/hp/child-skin-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/hp/melanoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/hp/merkel-cell-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/hp/skin-genetics-pdq",
+    "collections": [
+      "genetics"
+    ],
+    "index_link_labels": [
+      "Genetics of Skin Cancer (PDQ®) – health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/genetics"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/hp/skin-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/hp/skin-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/hp/skin-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/patient/child-melanoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/patient/child-skin-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/patient/melanoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/patient/merkel-cell-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/patient/skin-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/patient/skin-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/skin/patient/skin-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/small-intestine/hp/small-intestine-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/small-intestine/patient/small-intestine-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/hp/adult-soft-tissue-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/hp/child-gist-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/hp/child-soft-tissue-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/hp/child-vascular-tumors-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/hp/gist-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/hp/kaposi-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/hp/rhabdomyosarcoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/patient/adult-soft-tissue-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/patient/child-gist-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/patient/child-soft-tissue-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/patient/child-vascular-tumors-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/patient/gist-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/patient/kaposi-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/soft-tissue-sarcoma/patient/rhabdomyosarcoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/stomach/hp/gastric-genetics-pdq",
+    "collections": [
+      "genetics"
+    ],
+    "index_link_labels": [
+      "Genetics of Gastric Cancer (PDQ®) – health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/genetics"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/stomach/hp/pediatric-gastric-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/stomach/hp/stomach-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/stomach/hp/stomach-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/stomach/hp/stomach-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/testicular/hp/child-testicular-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/testicular/hp/testicular-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/testicular/hp/testicular-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/thymus-cancer/hp/child-thymoma-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/thymus-cancer/hp/thymoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/thyroid/hp/child-thyroid-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/thyroid/hp/medullary-thyroid-genetics-pdq",
+    "collections": [
+      "genetics"
+    ],
+    "index_link_labels": [
+      "Genetics of Endocrine and Neuroendocrine Neoplasias (PDQ®) – health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/genetics"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/thyroid/hp/thryoid-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/thyroid/patient/child-thyroid-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/thyroid/patient/thyroid-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/thyroid/patient/thyroid-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/unknown-primary/hp/child-unknown-primary-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/unknown-primary/hp/unknown-primary-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/unknown-primary/patient/child-unknown-primary-treatment-pdq",
+    "collections": [
+      "pediatric_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/unknown-primary/patient/unknown-primary-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/urethral/hp/urethral-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/urethral/patient/urethral-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/uterine/hp/endometrial-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/uterine/hp/endometrial-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/uterine/hp/endometrial-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/uterine/hp/uterine-sarcoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/uterine/patient/endometrial-prevention-pdq",
+    "collections": [
+      "prevention"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/uterine/patient/endometrial-screening-pdq",
+    "collections": [
+      "screening"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/screening"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/uterine/patient/endometrial-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/uterine/patient/uterine-sarcoma-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/vaginal/hp/vaginal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/vaginal/patient/vaginal-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "patient"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  },
+  {
+    "url": "https://www.cancer.gov/types/vulvar/hp/vulvar-treatment-pdq",
+    "collections": [
+      "adult_treatment"
+    ],
+    "index_link_labels": [
+      "health professional"
+    ],
+    "discovered_from": [
+      "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+    ]
+  }
+]

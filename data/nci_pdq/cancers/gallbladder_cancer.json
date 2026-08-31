@@ -1,0 +1,821 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Gallbladder Cancer",
+  "generated_at": "2026-08-31T07:15:23.258029+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Gallbladder Cancer",
+      "title": "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Gallbladder Cancer Treatment",
+      "url": "https://www.cancer.gov/types/gallbladder/hp/gallbladder-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "February 12, 2025",
+      "retrieved_at": "2026-08-31T07:10:11.925798+00:00",
+      "content_sha256": "addaccec1c3f2425ce3434483f026f9e3adc7e1de5b14b0f30f6ea9a5612d3ec",
+      "section_count": 27,
+      "sections": [
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Gallbladder Cancer",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Estimated new cases and deaths from gallbladder (and other biliary) cancer in the United States in 2025:[ 1 ]\n- New cases: 12,610.\n- Deaths: 4,400.\nCancer that arises in the gallbladder is uncommon."
+        },
+        {
+          "section": "Clinical Features",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Gallbladder Cancer",
+            "Clinical Features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The most common symptoms caused by gallbladder cancer are jaundice, pain, and fever."
+        },
+        {
+          "section": "Histopathology and Diagnostics",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Gallbladder Cancer",
+            "Histopathology and Diagnostics"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In patients whose superficial cancer (T1 or confined to the mucosa) is discovered on pathological examination of tissue after gallbladder removal for other reasons, the disease is often cured without further therapy. In patients who present with symptoms, the tumor is rarely diagnosed preoperatively.[ 2 ] In such cases, the tumor often cannot be removed completely by surgery and the disease cannot be cured, although palliative measures may be beneficial. For patients with T2 or greater disease, extended resection with partial hepatectomy and portal lymph node dissection may be an option.[ 3 , 4 ]"
+        },
+        {
+          "section": "Other Prognostic Factors",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Gallbladder Cancer",
+            "Other Prognostic Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Cholelithiasis is an associated finding in most cases, but less than 1% of patients with cholelithiasis develop this cancer."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Gallbladder Cancer",
+            "Other Prognostic Factors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. Available online . Last accessed January 16, 2025.\n- Chao TC, Greager JA: Primary carcinoma of the gallbladder. J Surg Oncol 46 (4): 215-21, 1991. [PUBMED Abstract]\n- Shoup M, Fong Y: Surgical indications and extent of resection in gallbladder cancer. Surg Oncol Clin N Am 11 (4): 985-94, 2002. [PUBMED Abstract]\n- Sasson AR, Hoffman JP, Ross E, et al.: Trimodality therapy for advanced gallbladder cancer. Am Surg 67 (3): 277-83; discussion 284, 2001. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of Gallbladder Cancer",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Gallbladder Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 20,
+          "text": "Some histological types of gallbladder cancer have a better prognosis than others. Papillary carcinomas have the best prognosis. The histological types of gallbladder cancer include:[ 1 ]\n- Carcinoma in situ .\n- Biliary intraepithelial neoplasia, high grade.\n- Intracystic papillary neoplasm with high-grade intraepithelial neoplasia.\n- Mucinous cystic neoplasm with high-grade intraepithelial neoplasia.\n- Adenocarcinoma.\n- Adenocarcinoma, biliary type.\n- Adenocarcinoma, intestinal type.\n- Adenocarcinoma, gastric foveolar type.\n- Mucinous adenocarcinoma.\n- Clear cell adenocarcinoma.\n- Signet-ring cell carcinoma.\n- Squamous cell carcinoma.\n- Adenosquamous carcinoma.\n- Undifferentiated carcinoma.\n- High-grade neuroendocrine carcinoma.\n- Small cell neuroendocrine carcinoma.\n- Mixed adenoneuroendocrine carcinoma.\n- Intraductal papillary neoplasm with an associated invasive carcinoma.\n- Mucinous cystic neoplasm with an associated invasive carcinoma."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Gallbladder Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Gallbladder. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 303–9."
+        },
+        {
+          "section": "AJCC Stage Groupings and TNM Definitions",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Gallbladder Cancer",
+            "AJCC Stage Groupings and TNM Definitions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 87,
+          "text": "The American Joint Committee on Cancer (AJCC) has designated staging by the TNM classification to define gallbladder cancer.[ 1 ]\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Gallbladder. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 303–9.\n0 | Tis, N0, M0 | Tis = Carcinoma in situ .\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Gallbladder. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 303–9.\nI | T1, N0, M0 | T1 = Tumor invades the lamina propria or muscular layer.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Gallbladder. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 303–9.\nIIA | T2a, N0, M0 | T2a = Tumor invades the perimuscular connective tissue on the peritoneal side, without involvement of the serosa (visceral peritoneum).\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Gallbladder. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 303–9.\nIIB | T2b, N0, M0 | T2b = Tumor invades the perimuscular connective tissue on the hepatic side, with no extension into the liver.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Gallbladder. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 303–9.\nIIIA | T3, N0, M0 | T3 = Tumor perforates the serosa (visceral peritoneum) and/or directly invades the liver and/or one other adjacent organ or structure, such as the stomach, duodenum, colon, pancreas, omentum, or extrahepatic bile ducts.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Gallbladder. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 303–9.\nIIIB | T1–3, N1, M0 | T1 = Tumor invades the lamina propria or muscular layer.\n–T1a = Tumor invades the lamina propria.\n–T1b = Tumor invades the muscular layer.\nT2 = Tumor invades the perimuscular connective tissue on the peritoneal side, without involvement of the serosa (visceral peritoneum). Or, tumor invades the perimuscular connective tissue on the hepatic side, with no extension into the liver.\n–T2a = Tumor invades the perimuscular connective tissue on the peritoneal side, without involvement of the serosa (visceral peritoneum).\n–T2b = Tumor invades the perimuscular connective tissue on the hepatic side, with no extension into the liver.\nT3 = Tumor perforates the serosa (visceral peritoneum) and/or directly invades the liver and/or one other adjacent organ or structure, such as the stomach, duodenum, colon, pancreas, omentum, or extrahepatic bile ducts.\nN1 = Metastases to one to three regional lymph nodes.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Gallbladder. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 303–9.\nIVA | T4, N0–1, M0 | T4 = Tumor invades the main portal vein or hepatic artery or invades two or more extrahepatic organs or structures.\nN0 = No regional lymph node metastasis.\nN1 = Metastases to one to three regional lymph nodes.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Gallbladder. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 303–9.\nIVB | Any T, N2, M0 | TX = Primary tumor cannot be assessed.\nT0 = No evidence of primary tumor.\nTis = Carcinoma in situ .\nT1 = Tumor invades the lamina propria or muscular layer.\n–T1a = Tumor invades the lamina propria.\n–T1b = Tumor invades the muscular layer.\nT2 = Tumor invades the perimuscular connective tissue on the peritoneal side, without involvement of the serosa (visceral peritoneum). Or, tumor invades the perimuscular connective tissue on the hepatic side, with no extension into the liver.\n–T2a = Tumor invades the perimuscular connective tissue on the peritoneal side, without involvement of the serosa (visceral peritoneum).\n–T2b = Tumor invades the perimuscular connective tissue on the hepatic side, with no extension into the liver.\nT3 = Tumor perforates the serosa (visceral peritoneum) and/or directly invades the liver and/or one other adjacent organ or structure, such as the stomach, duodenum, colon, pancreas, omentum, or extrahepatic bile ducts.\nT4 = Tumor invades the main portal vein or hepatic artery or invades two or more extrahepatic organs or structures.\nN2 = Metastases to four or more regional lymph nodes.\nM0 = No distant metastasis.\nAny T, Any N, M1 | TX = Primary tumor cannot be assessed.\nT0 = No evidence of primary tumor.\nTis = Carcinoma in situ .\nT1 = Tumor invades the lamina propria or muscular layer.\n–T1a = Tumor invades the lamina propria.\n–T1b = Tumor invades the muscular layer.\nT2 = Tumor invades the perimuscular connective tissue on the peritoneal side, without involvement of the serosa (visceral peritoneum). Or, tumor invades the perimuscular connective tissue on the hepatic side, with no extension into the liver.\n–T2a = Tumor invades the perimuscular connective tissue on the peritoneal side, without involvement of the serosa (visceral peritoneum).\n–T2b = Tumor invades the perimuscular connective tissue on the hepatic side, with no extension into the liver.\nT3 = Tumor perforates the serosa (visceral peritoneum) and/or directly invades the liver and/or one other adjacent organ or structure, such as the stomach, duodenum, colon, pancreas, omentum, or extrahepatic bile ducts.\nT4 = Tumor invades the main portal vein or hepatic artery or invades two or more extrahepatic organs or structures.\nNX = Regional lymph nodes cannot be assessed.\nN0 = No regional lymph node metastasis.\nN1 = Metastases to one to three regional lymph nodes.\nN2 = Metastases to four or more regional lymph nodes.\nM1 = Distant metastases.\nLocalized and Locally Advanced\nPatients with stage I disease have cancer confined to the gallbladder wall that can be completely resected. Patients with stage I tumors that are discovered incidentally and resected during routine cholecystectomy have 5-year survival rates of nearly 100%.[ 2 ]\nPatients with stage II or III disease have tumors with direct extension into the muscular layer, serosa, or adjacent organs, with or without involvement of locoregional lymph nodes.\nUnresectable\nPatients with disease that has spread beyond the locoregional lymph nodes or to distant organs have unresectable tumors, and standard therapy is directed at palliation. Patients with earlier-stage disease with poor performance status and/or significant comorbidities may be deemed poor surgical candidates."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Gallbladder Cancer",
+            "AJCC Stage Groupings and TNM Definitions",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Gallbladder. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp 303–9.\n- Shirai Y, Yoshida K, Tsukada K, et al.: Inapparent carcinoma of the gallbladder. An appraisal of a radical second operation after simple cholecystectomy. Ann Surg 215 (4): 326-31, 1992. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Localized and Locally Advanced Gallbladder Cancer",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized and Locally Advanced Gallbladder Cancer",
+            "Treatment Options for Localized and Locally Advanced Gallbladder Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Previously unsuspected gallbladder cancer that is incidentally discovered in the mucosa of the gallbladder during pathological examination is curable in more than 80% of patients. However, symptomatic gallbladder cancer that is suspected prior to surgery often penetrates the muscularis and serosa. This type of gallbladder cancer is curable in less than 5% of patients.\nOne study reported the patterns of lymph node spread from gallbladder cancer and outcomes of patients with metastases to lymph nodes in 111 consecutive surgical patients in a single institution from 1981 to 1995.[ 1 ][ Level of evidence C1 ] The standard surgical procedure was removal of the gallbladder, a wedge resection of the liver, resection of the extrahepatic bile duct, and resection of the regional (N1 and N2) lymph nodes. Kaplan-Meier estimates of the 5-year survival rates were 42.5% ± 6.5% for patients with node-negative tumors pathologically staged as T2 to T4 and 31% ± 6.2% for patients with similar node-positive tumors.\nTreatment options for localized and locally advanced gallbladder cancer include:\n- Surgery .\n- External-beam radiation therapy (EBRT) .\n- Clinical trials exploring the use of radiation therapy and radiosensitizer drugs to improve local control."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized and Locally Advanced Gallbladder Cancer",
+            "Treatment Options for Localized and Locally Advanced Gallbladder Cancer",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "In patients with previously unsuspected gallbladder cancer that is discovered in the surgical specimen after a routine gallbladder operation and confined to mucosa (T1), most disease is cured.[ 2 , 3 ] During laparoscopic removal of an unsuspected cancer, implantation of carcinoma at all port sites (including the camera site) is possible.[ 4 ] All port sites are typically excised completely, even for stage I cancers.\nThe need for reexploration for more extended resection in incidentally discovered T1b disease is controversial. A multicenter retrospective review identified lymph node metastases in 12% of patients who underwent re-resection after cholecystectomy, but there are no prospective data regarding relative outcome with a second surgery in these patients.[ 5 ][ Level of evidence C2 ]\nPatients with T2 or T3 disease have higher rates of unsuspected invasive disease at the time of diagnosis. A multicenter retrospective review was performed in patients who underwent re-resection after carcinoma was discovered incidentally. Residual disease was present in 57% of patients with T2 disease (including 31% with lymph node involvement and 10% with liver involvement) and in 77% of patients with T3 disease (including 46% with lymph node metastases and 36% with liver involvement).[ 5 ] On the basis of these observations, eligible patients may undergo reexploration to resect liver tissue near the gallbladder bed, portal lymph nodes, and lymphatic tissue in the hepatoduodenal ligament. Retrospective analyses suggest that extended re-resection can delay recurrences and potentially improve survival.[ 6 - 8 ][ Level of evidence C2 ]\nFor patients with locoregional lymph node involvement (at the cystic duct, common bile duct, hepatic artery, and portal vein), long-term disease-free survival can occasionally be achieved with radical resection. In patients with jaundice (stage III or stage IV), preoperative percutaneous transhepatic biliary drainage for relief of biliary obstruction should be considered.\nSurgery with curative intent is not considered possible in patients with metastatic spread beyond the locoregional lymph nodes or to distant organs."
+        },
+        {
+          "section": "EBRT",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized and Locally Advanced Gallbladder Cancer",
+            "Treatment Options for Localized and Locally Advanced Gallbladder Cancer",
+            "EBRT"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The use of EBRT with or without chemotherapy as a primary treatment has been reported to produce short-term disease control in small groups of patients. Similar benefits have been reported for radiation therapy, with or without chemotherapy, administered after resection.[ 9 , 10 ]\nThere are no phase III studies to support the use of adjuvant radiation therapy, even for patients with high-risk localized disease."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized and Locally Advanced Gallbladder Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Localized and Locally Advanced Gallbladder Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Tsukada K, Kurosaki I, Uchida K, et al.: Lymph node spread from carcinoma of the gallbladder. Cancer 80 (4): 661-7, 1997. [PUBMED Abstract]\n- Fong Y, Brennan MF, Turnbull A, et al.: Gallbladder cancer discovered during laparoscopic surgery. Potential for iatrogenic tumor dissemination. Arch Surg 128 (9): 1054-6, 1993. [PUBMED Abstract]\n- Chijiiwa K, Tanaka M: Carcinoma of the gallbladder: an appraisal of surgical resection. Surgery 115 (6): 751-6, 1994. [PUBMED Abstract]\n- Wibbenmeyer LA, Wade TP, Chen RC, et al.: Laparoscopic cholecystectomy can disseminate in situ carcinoma of the gallbladder. J Am Coll Surg 181 (6): 504-10, 1995. [PUBMED Abstract]\n- Pawlik TM, Gleisner AL, Vigano L, et al.: Incidence of finding residual disease for incidental gallbladder carcinoma: implications for re-resection. J Gastrointest Surg 11 (11): 1478-86; discussion 1486-7, 2007. [PUBMED Abstract]\n- Shirai Y, Yoshida K, Tsukada K, et al.: Inapparent carcinoma of the gallbladder. An appraisal of a radical second operation after simple cholecystectomy. Ann Surg 215 (4): 326-31, 1992. [PUBMED Abstract]\n- Yamaguchi K, Chijiiwa K, Saiki S, et al.: Retrospective analysis of 70 operations for gallbladder carcinoma. Br J Surg 84 (2): 200-4, 1997. [PUBMED Abstract]\n- Downing SR, Cadogan KA, Ortega G, et al.: Early-stage gallbladder cancer in the Surveillance, Epidemiology, and End Results database: effect of extended surgical resection. Arch Surg 146 (6): 734-8, 2011. [PUBMED Abstract]\n- Smoron GL: Radiation therapy of carcinoma of gallbladder and biliary tract. Cancer 40 (4): 1422-4, 1977. [PUBMED Abstract]\n- Hejna M, Pruckmayer M, Raderer M: The role of chemotherapy and radiation in the management of biliary cancer: a review of the literature. Eur J Cancer 34 (7): 977-86, 1998. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Unresectable, Metastatic, or Recurrent Gallbladder Cancer",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Unresectable, Metastatic, or Recurrent Gallbladder Cancer",
+            "Treatment Options for Unresectable, Metastatic, or Recurrent Gallbladder Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Unresectable, metastatic, and recurrent gallbladder cancers are not curable. Symptoms can be significantly improved with relief of biliary obstruction. A few patients have very slow-growing tumors and may live several years. Patients with unresectable, metastatic, or recurrent gallbladder cancer should consider enrolling in clinical trials whenever possible. Information about ongoing clinical trials is available from the NCI website .\nTreatment options for unresectable, metastatic, or recurrent gallbladder cancer include:\n- Percutaneous transhepatic drainage or endoscopically placed stents, or surgical bypass .\n- Systemic therapy ."
+        },
+        {
+          "section": "Percutaneous transhepatic drainage or endoscopically placed stents, or surgical bypass",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Unresectable, Metastatic, or Recurrent Gallbladder Cancer",
+            "Treatment Options for Unresectable, Metastatic, or Recurrent Gallbladder Cancer",
+            "Percutaneous transhepatic drainage or endoscopically placed stents, or surgical bypass"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Relief of biliary obstruction is warranted when symptoms such as pruritus and hepatic dysfunction outweigh other symptoms of the cancer. The preferred approach is percutaneous transhepatic drainage or endoscopically placed stents.[ 1 ] Surgical bypass may be appropriate when these approaches are infeasible.\nPalliative radiation therapy after biliary drainage may be beneficial. Patients may be candidates for inclusion in clinical trials that explore ways to improve the effects of radiation therapy with various radiosensitizers, such as hyperthermia, radiosensitizer drugs, or cytotoxic chemotherapeutic agents."
+        },
+        {
+          "section": "Systemic therapy",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Unresectable, Metastatic, or Recurrent Gallbladder Cancer",
+            "Treatment Options for Unresectable, Metastatic, or Recurrent Gallbladder Cancer",
+            "Systemic therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Systemic therapy is appropriate for selected patients with adequate performance status and intact organ function. Fluoropyrimidines, gemcitabine, platinum agents, and docetaxel have produced transient partial remissions in a few patients. The incidence of gallbladder cancer is low, and clinical trials often enroll patients with all subsites of biliary tract cancers. Therefore, data must be interpreted with caution when applied specifically to patients with gallbladder cancer. In clinical practice, treatment algorithms in advanced disease often follow those with biliary tract cancer, relying on extrapolation from other trials. In this section, only current landmark studies, or those that specifically enrolled patients with gallbladder cancer, have been explicitly summarized. For more information, see Bile Duct Cancer (Cholangiocarcinoma) Treatment ."
+        },
+        {
+          "section": "Capecitabine and fluorouracil dosing",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Unresectable, Metastatic, or Recurrent Gallbladder Cancer",
+            "Treatment Options for Unresectable, Metastatic, or Recurrent Gallbladder Cancer",
+            "Systemic therapy",
+            "Capecitabine and fluorouracil dosing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "The DPYD gene encodes an enzyme that catabolizes pyrimidines and fluoropyrimidines, like capecitabine and fluorouracil. An estimated 1% to 2% of the population has germline pathogenic variants in DPYD , which lead to reduced DPD protein function and an accumulation of pyrimidines and fluoropyrimidines in the body.[ 2 , 3 ] Patients with the DPYD*2A variant who receive fluoropyrimidines may experience severe, life-threatening toxicities that are sometimes fatal. Many other DPYD variants have been identified, with a range of clinical effects.[ 2 - 4 ] Fluoropyrimidine avoidance or a dose reduction of 50% may be recommended based on the patient's DPYD genotype and number of functioning DPYD alleles.[ 5 - 7 ] DPYD genetic testing costs less than $200, but insurance coverage varies due to a lack of national guidelines.[ 8 ] In addition, testing may delay therapy by 2 weeks, which would not be advisable in urgent situations. This controversial issue requires further evaluation.[ 9 ]\nEvidence (systemic therapy):\n- In a phase III study, 410 patients with unresectable metastatic, or recurrent biliary tract cancer were randomly assigned to receive up to 6 months of gemcitabine with or without cisplatin.[ 10 ]\n- With a median follow-up of 8.2 months, the median overall survival (OS) was superior for patients who received combination chemotherapy (11.7 months vs. 8.1 months; hazard ratio [HR], 0.64; 95% confidence interval [CI], 0.52–0.80; P < .001).[ 10 ][ Level of evidence A1 ]\n- A similar median OS benefit was demonstrated in all subgroups, including 149 patients with gallbladder cancer.\n- Grade 3 and 4 toxicities occurred with similar frequency in both study arms, except for increased hematologic toxic effects in patients who received gemcitabine plus cisplatin and increased hepatotoxicity in patients who received single-agent gemcitabine.\n- An international, multicenter, phase III study ( TOPAZ-1 [NCT03875235]) included 685 patients with previously untreated and unresectable locally advanced, recurrent, or metastatic biliary tract cancer. Patients were randomly assigned to receive either durvalumab or placebo with cisplatin plus gemcitabine for up to eight cycles, followed by durvalumab or placebo maintenance until disease progression or unacceptable toxicity. After a median follow-up of 23.4 months for patients in the durvalumab group, the following was observed:[ 11 , 12 ]\n- The primary end point of median OS was 12.9 months in the durvalumab group and 11.3 months in the placebo group (HR, 0.76; 95% CI, 0.64–0.91). In the durvalumab group, the 18-month OS rate was 35.1%, and the 24-month OS was 24.9%. In the placebo group, the 18-month OS rate was 25.5%, and the 24-month OS rate was 10.4%.[ 11 , 12 ][ Level of evidence A1 ]\n- There was no significant difference between groups in the number of grade 3 or 4 treatment-related adverse events or the number of events leading to discontinuation of a study medication.\n- An international, multicenter, phase III study ( KEYNOTE-966 [NCT04003636]) enrolled 1,069 patients with previously untreated unresectable, locally advanced or metastatic biliary tract cancer. Patients were randomly assigned to receive either pembrolizumab or placebo for up to 35 cycles. This was combined with gemcitabine (with no maximum duration) and cisplatin for up to 8 cycles. After a median follow-up of 25.6 months, the following results were observed:[ 13 ][ Level of evidence A1 ]\n- The median OS was 12.7 months in the pembrolizumab group and 10.9 months in the placebo group (HR, 0.83; 95% CI, 0.72–0.95; one-sided P = .0034).\n- There was no difference in the total frequency of treatment-related adverse events between treatment groups, including grade 3 or grade 4 events. Death due to treatment-related adverse events was seen in a total of eight patients (2%) in the pembrolizumab arm and three patients (1%) in the placebo arm.\n- A three-arm randomized phase III study of patients with unresectable gallbladder cancer compared best supportive care (n = 27), fluorouracil plus folinic acid (FUFA) weekly for 30 weeks (n = 28), and modified gemcitabine plus oxaliplatin (mGEMOX) for up to six 21-day cycles.[ 14 ][ Level of evidence A1 ]\n- With a median follow-up of 9 months, the OS was 4.5 months for patients who received best supportive care (95% CI, 0.2−8.8), 4.6 months for patients who received FUFA (95% CI, 3−6.2), and 9.5 months for patients who received mGEMOX (95% CI, 5−14; P = .039).\n- The only significant difference in grade 3 or 4 toxicities between the chemotherapy arms was transaminitis, which was more prevalent in the mGEMOX arm ( P = .04).\n- A phase III noninferiority study ( NCT01470443 ) enrolled 114 patients with metastatic biliary tract cancers, including 30 (26%) with primary gallbladder cancer. Patients were randomly assigned to receive either capecitabine plus oxaliplatin (XELOX) or gemcitabine plus oxaliplatin (GEMOX).[ 15 ][ Level of evidence B1 ]\n- OS was not significantly different, at 10.4 months (95% CI, 8.0−12.6) for patients in the GEMOX group and 10.6 months (95% CI, 7.3−15.5) for patients in the XELOX group ( P = .131).\n- The primary end point of 6-month progression-free survival (PFS) rates were 44.6% for the GEMOX group and 46.7% for the XELOX group (95% CI of difference in 6-month PFS rate, -12% to 16%, meeting criteria for noninferiority).\n- A predefined subgroup analysis based on the primary site of disease was performed. The analysis did not reveal a difference in objective response rate between the two arms in patients with gallbladder cancer ( P = .598).\nPending additional clinical trials, cisplatin plus gemcitabine is considered the reference standard chemotherapy backbone for patients with unresectable, metastatic, or recurrent gallbladder cancer. Extrapolating from the results of the TOPAZ-1 and KEYNOTE-966 trials for biliary tract cancer, addition of a checkpoint inhibitor (durvalumab or pembrolizumab) to first-line therapy has become the standard of care. Potential alternative regimens include gemcitabine plus capecitabine, GEMOX, and XELOX. All patients should consider clinical trials.\nAll patients with unresectable, metastatic, or recurrent disease who have not already received checkpoint inhibitors should undergo molecular testing for deficient mismatch repair (dMMR) or microsatellite instability (MSI-H). Extrapolating from a subgroup of patients with gastrointestinal and hepatopancreatobiliary tumors in the I-PREDICT (NCT02534675) and KEYNOTE-158 (NCT02628067) studies, patients with either dMMR or MSI-H tumors can be considered for treatment with pembrolizumab.[ 16 , 17 ][ Level of evidence C3 ]\nAdditional testing for IDH1 variants, FGFR2 gene fusions, and HER2 expression may provide potential targets in clinical trials. In clinical practice, targeted treatments that have been approved by the U.S. Food and Drug Administration as second-line treatments for patients with cholangiocarcinoma could likely be used to treat appropriate patients with gallbladder cancer. Compelling treatment options for these patients are scarce. For more information, see the Targeted therapy section in Bile Duct Cancer (Cholangiocarcinoma) Treatment."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Unresectable, Metastatic, or Recurrent Gallbladder Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Unresectable, Metastatic, or Recurrent Gallbladder Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "- Baron TH: Expandable metal stents for the treatment of cancerous obstruction of the gastrointestinal tract. N Engl J Med 344 (22): 1681-7, 2001. [PUBMED Abstract]\n- Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021. [PUBMED Abstract]\n- Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016. [PUBMED Abstract]\n- Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021. [PUBMED Abstract]\n- Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018. [PUBMED Abstract]\n- Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018. [PUBMED Abstract]\n- Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022. [PUBMED Abstract]\n- Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022. [PUBMED Abstract]\n- Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023. [PUBMED Abstract]\n- Valle J, Wasan H, Palmer DH, et al.: Cisplatin plus gemcitabine versus gemcitabine for biliary tract cancer. N Engl J Med 362 (14): 1273-81, 2010. [PUBMED Abstract]\n- Oh DY, He AR, Qin S, et al.: Updated overall survival (OS) from the phase III TOPAZ-1 study of durvalumab (D) or placebo (PBO) plus gemcitabine and cisplatin (+ GC) in patients (pts) with advanced biliary tract cancer (BTC). Ann Oncol 33 (Suppl 7): S565-S566, 2022.\n- Oh DY, He AR, Bouattour M, et al.: Durvalumab or placebo plus gemcitabine and cisplatin in participants with advanced biliary tract cancer (TOPAZ-1): updated overall survival from a randomised phase 3 study. Lancet Gastroenterol Hepatol 9 (8): 694-704, 2024. [PUBMED Abstract]\n- Kelley RK, Ueno M, Yoo C, et al.: Pembrolizumab in combination with gemcitabine and cisplatin compared with gemcitabine and cisplatin alone for patients with advanced biliary tract cancer (KEYNOTE-966): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet 401 (10391): 1853-1865, 2023. [PUBMED Abstract]\n- Sharma A, Dwary AD, Mohanti BK, et al.: Best supportive care compared with chemotherapy for unresectable gall bladder cancer: a randomized controlled study. J Clin Oncol 28 (30): 4581-6, 2010. [PUBMED Abstract]\n- Kim ST, Kang JH, Lee J, et al.: Capecitabine plus oxaliplatin versus gemcitabine plus oxaliplatin as first-line therapy for advanced biliary tract cancers: a multicenter, open-label, randomized, phase III, noninferiority trial. Ann Oncol 30 (5): 788-795, 2019. [PUBMED Abstract]\n- Sicklick JK, Kato S, Okamura R, et al.: Molecular profiling of cancer patients enables personalized combination therapy: the I-PREDICT study. Nat Med 25 (5): 744-750, 2019. [PUBMED Abstract]\n- Marabelle A, Le DT, Ascierto PA, et al.: Efficacy of Pembrolizumab in Patients With Noncolorectal High Microsatellite Instability/Mismatch Repair-Deficient Cancer: Results From the Phase II KEYNOTE-158 Study. J Clin Oncol 38 (1): 1-10, 2020. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (02/12/2025)",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (02/12/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nGeneral Information About Gallbladder Cancer\nUpdated statistics with estimated new cases and deaths for 2025 (cited American Cancer Society as reference 1).\nTreatment of Unresectable, Metastatic, or Recurrent Gallbladder Cancer\nRevised text about the results of the TOPAZ-1 study which included 685 patients with locally advanced, recurrent, or metastatic biliary tract cancer that was unresectable and previously untreated and randomly assigned them to receive either durvalumab or placebo with cisplatin plus gemcitabine followed by durvalumab or placebo maintenance (cited Oh et al. as reference 12).\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of gallbladder cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 11,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Gallbladder Cancer Treatment are:\n- Amit Chowdhry, MD, PhD (University of Rochester Medical Center)\n- Leon Pappas, MD, PhD (Massachusetts General Hospital)\n- Ari Seifter, MD (Advocate Health Care)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Gallbladder Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/gallbladder/hp/gallbladder-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389371]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\86c0af42176678a171a4.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Gallbladder Cancer",
+      "title": "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+      "summary_name": "Gallbladder Cancer Treatment",
+      "url": "https://www.cancer.gov/types/gallbladder/patient/gallbladder-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "April 10, 2025",
+      "retrieved_at": "2026-08-31T07:10:13.082316+00:00",
+      "content_sha256": "2d71195d6cb6b1a144fed5dfe63d7c2c292676c4b054adcac1c40c847425bb4a",
+      "section_count": 40,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Gallbladder Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Gallbladder cancer is a rare type of cancer that starts in the tissues of the gallbladder.\n- Signs and symptoms of gallbladder cancer include jaundice, fever, and pain.\n- Gallbladder cancer is difficult to detect (find) and diagnose early.\n- Tests that examine the gallbladder and nearby organs are used to detect (find), diagnose, and stage gallbladder cancer.\n- Certain factors affect the prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Gallbladder cancer is a rare type of cancer that starts in the tissues of the gallbladder.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Gallbladder Cancer",
+            "Gallbladder cancer is a rare type of cancer that starts in the tissues of the gallbladder."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Gallbladder cancer occurs when cells in the gallbladder start to grow out of control. The gallbladder is a pear-shaped organ that lies just under the liver in the upper abdomen . The gallbladder stores bile , a fluid made by the liver to digest fat. When food is being broken down in the stomach and intestines , bile is released from the gallbladder through a tube called the common bile duct , which connects the gallbladder and liver to the first part of the small intestine . Enlarge Anatomy of the gallbladder. The gallbladder is just below the liver. Bile is stored in the gallbladder and flows through the cystic duct and the common bile duct into the small intestine when food is being digested.\nThe wall of the gallbladder has 4 main layers of tissue:\n- mucosal (inner) layer\n- muscle layer\n- connective tissue layer\n- serosal (outer) layer\nPrimary gallbladder cancer starts in the inner layer and spreads through the outer layers as it grows."
+        },
+        {
+          "section": "Signs and symptoms of gallbladder cancer include jaundice, fever, and pain.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Gallbladder Cancer",
+            "Signs and symptoms of gallbladder cancer include jaundice, fever, and pain."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "These and other signs and symptoms may be caused by gallbladder cancer or by other conditions. Check with your doctor if you have:\n- jaundice (yellowing of the skin and whites of the eyes)\n- pain above the stomach\n- fever\n- nausea and vomiting\n- bloating\n- lumps in the abdomen"
+        },
+        {
+          "section": "Gallbladder cancer is difficult to detect (find) and diagnose early.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Gallbladder Cancer",
+            "Gallbladder cancer is difficult to detect (find) and diagnose early."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Gallbladder cancer is difficult to detect and diagnose because:\n- People rarely have signs or symptoms in the early stages of gallbladder cancer.\n- The symptoms of gallbladder cancer, when present, are like the symptoms of many other illnesses.\n- The gallbladder is hidden behind the liver.\nGallbladder cancer is sometimes found when the gallbladder is removed for other reasons. Although gallstones are the most common risk factor for developing gallbladder cancer, the overall risk is low. Most people with gallstones do not develop gallbladder cancer."
+        },
+        {
+          "section": "Tests that examine the gallbladder and nearby organs are used to detect (find), diagnose, and stage gallbladder cancer.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Gallbladder Cancer",
+            "Tests that examine the gallbladder and nearby organs are used to detect (find), diagnose, and stage gallbladder cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Procedures that make pictures of the gallbladder and the area around it help diagnose gallbladder cancer and show how far the cancer has spread. The process used to find out if cancer cells have spread within and around the gallbladder is called staging.\nTo plan treatment, it is important to know if the gallbladder cancer can be removed by surgery. Tests and procedures to detect, diagnose, and stage gallbladder cancer are usually done at the same time. In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Liver function tests : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by the liver. A higher-than-normal amount of a substance can be a sign of liver disease that may be caused by gallbladder cancer.\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, such as the chest, abdomen, and pelvis , taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- Ultrasound exam : A procedure in which high-energy sound waves (ultrasound) are bounced off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram . An abdominal ultrasound is done to diagnose gallbladder cancer.\n- PTC (percutaneous transhepatic cholangiography) : A procedure used to x-ray the liver and bile ducts . A thin needle is inserted through the skin below the ribs and into the liver. Dye is injected into the liver or bile ducts and an x-ray is taken. If a blockage is found, a thin, flexible tube called a stent is sometimes left in the liver to drain bile into the small intestine or a collection bag outside the body.\n- ERCP (endoscopic retrograde cholangiopancreatography) : A procedure used to x-ray the ducts (tubes) that carry bile from the liver to the gallbladder and from the gallbladder to the small intestine. Sometimes gallbladder cancer causes these ducts to narrow and block or slow the flow of bile, causing jaundice. An endoscope (a thin, lighted tube) is passed through the mouth, esophagus , and stomach into the first part of the small intestine. A catheter (a smaller tube) is then inserted through the endoscope into the bile ducts. A dye is injected through the catheter into the ducts and an x-ray is taken. If the ducts are blocked by a tumor, a fine tube may be inserted into the duct to unblock it. This tube (or stent ) may be left in place to keep the duct open. Tissue samples may also be taken.\n- MRI (magnetic resonance imaging) with gadolinium : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. A substance called gadolinium is injected into a vein. The gadolinium collects around the cancer cells so they show up brighter in the picture. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- Endoscopic ultrasound (EUS) : A procedure in which an endoscope is inserted into the body, usually through the mouth or rectum . An endoscope is a thin, tube-like instrument with a light and a lens for viewing. A probe at the end of the endoscope is used to bounce high-energy sound waves (ultrasound) off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram. This procedure is also called endosonography.\n- Laparoscopy : A surgical procedure to look at the organs inside the abdomen to check for signs of disease. Small incisions (cuts) are made in the wall of the abdomen and a laparoscope (a thin, lighted tube) is inserted into one of the incisions. Other instruments may be inserted through the same or other incisions to perform procedures such as removing organs or taking tissue samples for biopsy. Laparoscopy helps to find out if the cancer is within the gallbladder only or has spread to nearby tissues and if it can be removed by surgery.\n- Biopsy : The removal of cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer. The biopsy may be done after surgery to remove the tumor. If the tumor clearly cannot be removed by surgery, the biopsy may be done using a fine needle to remove cells from the tumor."
+        },
+        {
+          "section": "Certain factors affect the prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Gallbladder Cancer",
+            "Certain factors affect the prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The prognosis and treatment options depend on:\n- the stage of the cancer (whether the cancer has spread from the gallbladder to other places in the body)\n- whether the cancer can be completely removed by surgery\n- the type of gallbladder cancer (how the cancer cell looks under a microscope)\n- whether the cancer has just been diagnosed or has recurred (come back)\nTreatment may also depend on the age and general health of the patient and whether the cancer is causing signs or symptoms.\nGallbladder cancer can be cured only if it is found before it has spread, when it can be removed by surgery. If the cancer has spread, palliative treatment can improve the patient's quality of life by controlling the symptoms and complications of this disease."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Gallbladder Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "- Tests and procedures to stage gallbladder cancer are usually done at the same time as diagnosis.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- The following stages are used for gallbladder cancer:\n- Stage 0 (Carcinoma in Situ)\n- Stage I\n- Stage II\n- Stage III\n- Stage IV\n- For gallbladder cancer, stages are also grouped according to how the cancer may be treated. There are two treatment groups:\n- Localized (Stage I)\n- Unresectable, recurrent, or metastatic (Stage II, Stage III, and Stage IV)"
+        },
+        {
+          "section": "Tests and procedures to stage gallbladder cancer are usually done at the same time as diagnosis.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Gallbladder Cancer",
+            "Tests and procedures to stage gallbladder cancer are usually done at the same time as diagnosis."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Learn more about tests and procedures used to detect, diagnose , and stage gallbladder cancer in the General Information section."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Gallbladder Cancer",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Gallbladder Cancer",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of cancer as the primary tumor. For example, if gallbladder cancer spreads to the liver , the cancer cells in the liver are actually gallbladder cancer cells. The disease is metastatic gallbladder cancer, not liver cancer."
+        },
+        {
+          "section": "Stage 0 (Carcinoma in Situ)",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Gallbladder Cancer",
+            "The following stages are used for gallbladder cancer:",
+            "Stage 0 (Carcinoma in Situ)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage 0 , abnormal cells are found in the mucosa (innermost layer) of the gallbladder wall. These abnormal cells may become cancer and spread into nearby normal tissue. Stage 0 is also called carcinoma in situ ."
+        },
+        {
+          "section": "Stage I",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Gallbladder Cancer",
+            "The following stages are used for gallbladder cancer:",
+            "Stage I"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage I , cancer has formed in the mucosa (innermost layer) of the gallbladder wall and may have spread to the muscle layer of the gallbladder wall."
+        },
+        {
+          "section": "Stage II",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Gallbladder Cancer",
+            "The following stages are used for gallbladder cancer:",
+            "Stage II"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Stage II is divided into stages IIA and IIB, depending on where the cancer has spread in the gallbladder .\n- In stage IIA, cancer has spread through the muscle layer to the connective tissue layer of the gallbladder wall on the side of the gallbladder that is not near the liver .\n- In stage IIB, cancer has spread through the muscle layer to the connective tissue layer of the gallbladder wall on the same side as the liver. Cancer has not spread to the liver."
+        },
+        {
+          "section": "Stage III",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Gallbladder Cancer",
+            "The following stages are used for gallbladder cancer:",
+            "Stage III"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Stage III is divided into stages IIIA and IIIB, depending on where the cancer has spread.\n- In stage IIIA, cancer has spread through the connective tissue layer of the gallbladder wall and one or more of the following is true:\n- Cancer has spread to the serosa (layer of tissue that covers the gallbladder).\n- Cancer has spread to the liver .\n- Cancer has spread to one nearby organ or structure (such as the stomach , small intestine , colon , pancreas , or the bile ducts outside the liver).\n- In stage IIIB, cancer has formed in the mucosa (innermost layer) of the gallbladder wall and may have spread to the muscle, connective tissue, or serosa (layer of tissue that covers the gallbladder) and may have also spread to the liver or to one nearby organ or structure (such as the stomach, small intestine, colon, pancreas, or the bile ducts outside the liver). Cancer has spread to one to three nearby lymph nodes ."
+        },
+        {
+          "section": "Stage IV",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Gallbladder Cancer",
+            "The following stages are used for gallbladder cancer:",
+            "Stage IV"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Stage IV is divided into stages IVA and IVB.\n- In stage IVA, cancer has spread to the portal vein or hepatic artery or to two or more organs or structures other than the liver . Cancer may have spread to one to three nearby lymph nodes .\n- In stage IVB, cancer may have spread to nearby organs or structures. Cancer has spread:\n- to four or more nearby lymph nodes; or\n- to other parts of the body, such as the peritoneum and liver."
+        },
+        {
+          "section": "Localized (Stage I)",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Gallbladder Cancer",
+            "For gallbladder cancer, stages are also grouped according to how the cancer may be treated. There are two treatment groups:",
+            "Localized (Stage I)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Cancer is found in the wall of the gallbladder and can be completely removed by surgery."
+        },
+        {
+          "section": "Unresectable, recurrent, or metastatic (Stage II, Stage III, and Stage IV)",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Gallbladder Cancer",
+            "For gallbladder cancer, stages are also grouped according to how the cancer may be treated. There are two treatment groups:",
+            "Unresectable, recurrent, or metastatic (Stage II, Stage III, and Stage IV)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Unresectable cancer cannot be removed completely by surgery. Most patients with gallbladder cancer have unresectable cancer.\nRecurrent cancer is cancer that has recurred (come back) after it has been treated. Gallbladder cancer may come back in the gallbladder or in other parts of the body.\nMetastasis is the spread of cancer from the primary site (place where it started) to other places in the body. Metastatic gallbladder cancer may spread to surrounding tissues, organs, throughout the abdominal cavity , or to distant parts of the body."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "- There are different types of treatment for patients with gallbladder cancer.\n- The following types of treatment are used:\n- Surgery\n- Radiation therapy\n- Chemotherapy\n- New types of treatment are being tested in clinical trials.\n- Radiation sensitizers\n- Targeted therapy\n- Immunotherapy\n- Treatment for gallbladder cancer may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with gallbladder cancer.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with gallbladder cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatments are available for patients with gallbladder cancer. Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer. When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Gallbladder cancer may be treated with a cholecystectomy, surgery to remove the gallbladder and some of the tissues around it. Nearby lymph nodes may be removed. A laparoscope is sometimes used to guide gallbladder surgery. The laparoscope is attached to a video camera and inserted through an incision (port) in the abdomen . Surgical instruments are inserted through other ports to perform the surgery. Because there is a risk that gallbladder cancer cells may spread to these ports, tissue surrounding the port sites may also be removed.\nIf the cancer has spread and cannot be removed, the following types of palliative surgery may relieve symptoms :\n- Biliary bypass : If the tumor is blocking the bile duct and bile is building up in the gallbladder, a biliary bypass may be done. During this operation, the doctor will cut the gallbladder or bile duct in the area before the blockage and sew it to the small intestine to create a new pathway around the blocked area.\n- Endoscopic stent placement: If the tumor is blocking the bile duct, surgery may be done to put in a stent (a thin tube) to drain bile that has built up in the area. The doctor may place the stent through a catheter that drains the bile into a bag on the outside of the body or the stent may go around the blocked area and drain the bile into the small intestine.\n- Percutaneous transhepatic biliary drainage : A procedure done to drain bile when there is a blockage and endoscopic stent placement is not possible. An x-ray of the liver and bile ducts is done to locate the blockage. Images made by ultrasound are used to guide placement of a stent, which is left in the liver to drain bile into the small intestine or a collection bag outside the body. This procedure may be done to relieve jaundice before surgery."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward area of the body with cancer."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping the cells from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body (systemic therapy)."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "This summary section describes treatments that are being studied in clinical trials. It may not mention every new treatment being studied. Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Radiation sensitizers",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "Radiation sensitizers"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Clinical trials are studying ways to improve the effect of radiation therapy on tumor cells, including:\n- Hyperthermia therapy : A treatment in which body tissue is exposed to high temperatures to damage and kill cancer cells or to make cancer cells more sensitive to the effects of radiation therapy and certain anticancer drugs.\n- Radiosensitizers : Drugs that make tumor cells more sensitive to radiation therapy. Giving radiation therapy together with radiosensitizers may kill more tumor cells."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells. The following targeted therapies are being studied in patients with gallbladder cancer that is locally advanced and cannot be removed by surgery or has spread to other parts of the body:\n- Ivosidenib is a type of targeted therapy that blocks a specific mutation in a gene called IDH1 . It works by slowing or stopping the growth of cancer cells.\n- Pemigatinib is a type of targeted therapy that blocks specific changes in a gene called FGFR2 . This may help keep cancer cells from growing and may kill them."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials.",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Immunotherapy is a treatment that uses the patient's immune system to fight cancer. Substances made by the body or made in a laboratory are used to boost, direct, or restore the body's natural defenses against cancer.\nImmune checkpoint inhibitor therapy is a type of immunotherapy that may be used to treat gallbladder cancer.\n- PD-1 and PD-L1 inhibitor therapy: PD-1 is a protein on the surface of T cells that helps keep the body's immune responses in check. PD-L1 is a protein found on some types of cancer cells. When PD-1 attaches to PD-L1, it stops the T cell from killing the cancer cell. PD-1 and PD-L1 inhibitors keep PD-1 and PD-L1 proteins from attaching to each other. This allows the T cells to kill cancer cells.\n- Pembrolizumab is a type of PD-1 inhibitor that may be used in patients whose cancer is locally advanced and cannot be removed by surgery or has spread to other parts of the body.\n- Durvalumab is a type of PD-L1 inhibitor that is being studied in combination with chemotherapy in previously untreated patients whose cancer is locally advanced, recurrent , or has spread to other parts of the body."
+        },
+        {
+          "section": "Treatment for gallbladder cancer may cause side effects.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for gallbladder cancer may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Localized and Locally Advanced Gallbladder Cancer",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Localized and Locally Advanced Gallbladder Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "For information about the treatments listed below, visit the Treatment Option Overview section.\nTreatment of localized and locally advanced gallbladder cancer may include:\n- Surgery to remove the gallbladder and some of the tissue around it. Part of the liver and nearby lymph nodes may also be removed. Radiation therapy with or without chemotherapy may follow surgery.\n- Radiation therapy with or without chemotherapy.\n- A clinical trial of radiation therapy with radiosensitizers .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Unresectable, Metastatic, or Recurrent Gallbladder Cancer",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Unresectable, Metastatic, or Recurrent Gallbladder Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "For information about the treatments listed below, visit the Treatment Option Overview section.\nTreatment of unresectable , metastatic , or recurrent gallbladder cancer is usually within a clinical trial . Treatment may include:\n- Percutaneous transhepatic biliary drainage or the placement of stents to relieve symptoms caused by blocked bile ducts . This may be followed by radiation therapy as palliative treatment .\n- Surgery as palliative treatment to relieve symptoms caused by blocked bile ducts.\n- Chemotherapy .\n- A clinical trial of new ways to give palliative radiation therapy, such as giving it together with hyperthermia therapy , radiosensitizers , or chemotherapy.\n- A clinical trial of targeted therapy or immunotherapy for patients with mutations (changes) in certain genes .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Gallbladder Cancer",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "To Learn More About Gallbladder Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "For more information from the National Cancer Institute about gallbladder cancer, visit the Gallbladder Cancer Home Page .\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of gallbladder cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Gallbladder Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/gallbladder/patient/gallbladder-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389400]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Gallbladder Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\86437f8f2a3f1d1b7928.html"
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "scope": "general_or_multi_cancer",
+  "summary_name": "Cancer Prevention Overview",
+  "generated_at": "2026-08-31T07:15:23.622550+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "prevention"
+      ],
+      "topic": "prevention",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+      "summary_name": "Cancer Prevention Overview",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/hp-prevention-overview-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "February 12, 2025",
+      "retrieved_at": "2026-08-31T07:06:28.973335+00:00",
+      "content_sha256": "ab57a388af6947de5804425f31a10e5092063cdbdfebb2ca0aecc5e790142442",
+      "section_count": 33,
+      "sections": [
+        {
+          "section": "The Burden of Cancer",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "The Burden of Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In 2025, an estimated 2,041,910 people will be diagnosed with cancer in the United States, and an estimated 618,120 people will die of cancer.[ 1 ] Cancer incidence and mortality help to define the scope of the burden that cancer imposes on society, but these indicators do not fully characterize the impact that cancer has on cancer patients and their families. In addition to the physical morbidity caused by cancer, cancer is frequently associated with emotional distress and an overall reduction in quality of life.[ 2 ] Cancer has also been observed to be a financial stressor. In a population-based study in western Washington, 197,840 cancer patients were matched with an equal number of controls by age, sex, and zip code. Cancer patients were 2.6 times more likely to file for bankruptcy than the cancer-free controls ( P < .05).[ 3 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "The Burden of Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. Available online . Last accessed January 16, 2025.\n- Faller H, Schuler M, Richard M, et al.: Effects of psycho-oncologic interventions on emotional distress and quality of life in adult patients with cancer: systematic review and meta-analysis. J Clin Oncol 31 (6): 782-93, 2013. [PUBMED Abstract]\n- Ramsey S, Blough D, Kirchhoff A, et al.: Washington State cancer patients found to be at greater risk for bankruptcy than people without a cancer diagnosis. Health Aff (Millwood) 32 (6): 1143-52, 2013. [PUBMED Abstract]"
+        },
+        {
+          "section": "Description of the Evidence",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Description of the Evidence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Prevention is defined as the reduction of cancer mortality via reduction in the incidence of cancer. This can be accomplished by avoiding a carcinogen or altering its metabolism; pursuing lifestyle or dietary practices that modify cancer-causing factors or genetic predispositions; medical interventions (e.g., chemoprevention) or risk-reducing surgical procedures; or early detection strategies that can result in removal of precancerous lesions, such as colonoscopy for colorectal polyps."
+        },
+        {
+          "section": "About the PDQ Cancer Prevention Summaries",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "About the PDQ Cancer Prevention Summaries"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The PDQ cancer prevention summaries are primarily organized by specific anatomical cancer site to facilitate consideration of the unique characteristics of specific malignancies. This section provides an overview of cancer prevention strategies, including a summary of evidence for selected strategies used to prevent a broad spectrum of malignancies. The strength of evidence and magnitude of effects of these strategies, however, may vary by cancer site. Other PDQ cancer prevention summaries address the prevention of specific types of cancer and provide more detailed descriptions of the evidence.\nThere are many common beliefs or speculations about causes of cancer. However, putative causes of cancer for which there is very little scientific evidence, positive or negative, are not considered in these summaries. Therefore, absence of an environmental, dietary, or lifestyle factor from these summaries implies insufficient evidence for detailed consideration and not necessarily absence of effect. Many such factors are deserving of research regarding their potential roles in cancer, but if that research does not exist, has not been published, or the Editorial Board judges the research to be of insufficient quantity or of poor quality, they are not addressed in these summaries."
+        },
+        {
+          "section": "Carcinogenesis",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Carcinogenesis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Carcinogenesis refers to an underlying etiological pathway that leads to cancer. Several models of carcinogenesis have been proposed. Knudson proposed a “two-hit” model requiring a mutation in both copies of a gene resulting in cancer. Expansion of this concept has resulted in other widely cited models of carcinogenesis including those of Vogelstein and Kinzler [ 1 ] and Hanahan and Weinberg.[ 2 ] The model of Vogelstein and Kinzler emphasizes that cancer is ultimately a disease of damaged DNA, comprised of a series of genetic mutations that can transform normal cells to cancerous cells. The genetic mutations include inactivation of tumor suppressor genes and activation of oncogenes. Compared with cancers arising in the general population, individuals with a major inherited predisposition to cancer are born with inherited (i.e., germline) mutations in genes involved in cancer causation, giving them a head start on the pathway to cancer. Similar mutations would be expected to result in cancer progression among all individuals; however, in those without a major inherited cancer predisposition, the mutation would occur as a somatic mutation later during their lifetime.\nThe model of Hanahan and Weinberg focuses on the hallmark events at the cellular level that lead to a malignant tumor. In this model, the hallmarks of cancer include sustained angiogenesis, limitless replicative potential, evading apoptosis, self-sufficiency in growth signals, and insensitivity to antigrowth signals, leading to the defining characteristics of malignant tumors, which give them the ability to invade and metastasize. This model highlights the fact that malignant tumors arise and flourish within the environment of a whole organism. The tissue organizational field theory [ 3 ] posits that carcinogenesis is better conceptualized at the level of tissues rather than cells. This theory is based on the dual premise that carcinogenesis is driven by defects in tissue organization and that all cells are inherently in a proliferative state.\nModels of carcinogenesis such as these are purposefully simplistic but, nevertheless, illustrate that carcinogenesis requires a constellation of steps that often take place for decades.\nThe complexity of carcinogenesis is magnified when one considers that the specific details of the carcinogenic pathway described by these models would be expected to have unique characteristics for each anatomical site. Under these circumstances, the risk factors and clinical characteristics of malignancies exhibit considerable variation by anatomic site and by different tumor types within the same anatomical site. For these reasons, human cancer is really not a single disease but a family of different diseases."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Carcinogenesis",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Vogelstein B, Kinzler KW: Cancer genes and the pathways they control. Nat Med 10 (8): 789-99, 2004. [PUBMED Abstract]\n- Hanahan D, Weinberg RA: The hallmarks of cancer. Cell 100 (1): 57-70, 2000. [PUBMED Abstract]\n- Sonnenschein C, Soto AM: Theories of carcinogenesis: an emerging perspective. Semin Cancer Biol 18 (5): 372-7, 2008. [PUBMED Abstract]"
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The promise of cancer prevention is derived from observational epidemiological studies that show associations between modifiable lifestyle factors or environmental exposures and specific cancers. The expectation is that, if a risk factor truly causes cancer, it would also be the case that a lifestyle modification (i.e., changing one's risk profile from bad to good) would actually reduce cancer risk, at least partially. This expectation can be fulfilled only if the association is due to a causal (and ideally, reversible) relationship. Because observational studies rarely provide conclusive evidence of such relationships, additional evidence is required.[ 1 ] For a few exposures, randomized controlled trials (RCTs) have tested whether interventions suggested by epidemiological studies and leads based on laboratory research result in reduced cancer incidence and mortality."
+        },
+        {
+          "section": "Cigarette smoking/tobacco use",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "Risk Factors Causally Associated With Cancer",
+            "Cigarette smoking/tobacco use"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Decades of research have consistently established the strong association between tobacco use and cancers of many sites. Specifically, cigarette smoking has been established as a cause of a range of cancers, including lung, oral cavity, esophageal, bladder, kidney, pancreatic, stomach, and cervical cancers, and acute myelogenous leukemia. The body of epidemiological evidence confirming these associations is substantial. Further support is demonstrated by the lung cancer death rates in the United States, which have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking followed by decreases in lung cancer death rates in men. As a single exposure that is relatively easy to measure accurately, this extensive body of evidence has led to the estimation that cigarette smoking causes 30% of all cancer deaths in the United States. Smoking avoidance and smoking cessation result in decreased incidence and mortality from cancer.[ 2 ] For more information, see Lung Cancer Prevention ; Lung Cancer Screening ; and Cigarette Smoking: Health Risks and How to Quit ."
+        },
+        {
+          "section": "Infections",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "Risk Factors Causally Associated With Cancer",
+            "Infections"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Globally, infectious agents have been estimated to cause about 13% of all cancer cases.[ 3 ] Infection with an oncogenic strain of human papillomavirus (HPV) is considered a necessary event for subsequent cervical cancer, and vaccine-conferred immunity results in a marked decrease in precancerous lesions. Oncogenic strains of HPV are also linked with cancers of the penis, vagina, anus, and oropharynx. Other examples of infectious agents that cause cancer are hepatitis B and hepatitis C viruses (liver cancer), Epstein-Barr virus (Burkitt lymphoma), and Helicobacter pylori (gastric cancer).[ 3 ] If an infectious agent is truly a cause of cancer, then efficacious, anti-infective interventions would be expected in most instances to be effective cancer-prevention interventions as has been shown in the case of HPV vaccination for the prevention of invasive cervical cancers.[ 4 ] For more information, see the following PDQ summaries:\n- Cervical Cancer Prevention\n- Cervical Cancer Screening\n- Liver (Hepatocellular) Cancer Prevention\n- Liver (Hepatocellular) Cancer Screening\n- Stomach (Gastric) Cancer Prevention\n- Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention"
+        },
+        {
+          "section": "Radiation",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "Risk Factors Causally Associated With Cancer",
+            "Radiation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Radiation is energy in the form of high-speed particles or electromagnetic waves. Exposure to radiation, primarily UV radiation and ionizing radiation, is a clearly established cause of cancer. Exposure to solar UV radiation is the major cause of nonmelanoma skin cancers, which are by far the most common malignancies in human populations.[ 5 ]\nIonizing radiation is radiation with enough energy to remove tightly bound electrons from their orbits, causing atoms to become charged or ionized. Ions formed in the molecules of living cells can go on to react with and potentially damage other molecules in the cell. At low doses (e.g., those associated with background radiation), the cells repair the damage rapidly. At moderate doses, the cells may be changed permanently or die from their inability to repair the damage. Cells changed permanently may go on to produce abnormal cells when they divide, and in some circumstances, these altered cells may become cancerous or lead to other abnormalities (e.g., birth defects). Defects in ability to repair damage caused by ionizing radiation may influence the impact of radiation exposure on cancer risk.\nThere is extensive epidemiological and biological evidence that links exposure to ionizing radiation with the development of cancer, and in particular, cancer that involves the hematological system, breast, lungs, and thyroid. The National Research Council of the National Academies' Committee to Assess the Health Risks from Exposure to Low Levels of Ionizing Radiation report, the Biologic Effects of Ionizing Radiation VII,[ 6 ] the most widely cited source on the topic, concluded after a comprehensive review of the medical literature that no dose of radiation should be considered completely safe, and attempts should be made to keep radiation doses as low as possible. In this report, several lines of evidence were cited documenting the association between ionizing radiation exposure and cancer. The first line of evidence comes from studies of the development of cancer among Japanese atomic-bomb survivors. Even at low doses of radiation, atomic-bomb survivors were at increased risk of developing cancer.[ 6 ] The second line of evidence comes from epidemiological studies of medically irradiated populations who were therapeutically irradiated for both malignant and benign diseases. Following high-dose radiation therapy for malignant disease, the risk of secondary malignancy is high. The relatively common use of radiation for benign disease between 1940 and 1960 resulted in a substantially increased relative risk (RR) of developing cancer. An additional line of evidence comes from an increased risk of cancer-specific mortality associated with exposure to medical ionizing radiation, for both the recipients of diagnostic x-rays and x-ray personnel.\nThe major sources of population exposure to ionizing radiation are medical radiation (including x-rays, computed tomography [CT], fluoroscopy, and nuclear medicine) and naturally occurring radon gas in the basements of homes. Limiting unnecessary CT scans and other diagnostic studies, as well as reducing radiation exposure doses, are important prevention strategies.[ 7 , 8 ] For more information, see the following PDQ summaries:\n- Breast Cancer Prevention\n- Breast Cancer Screening\n- Skin Cancer Prevention\n- Lung Cancer Prevention\nExposure to ionizing radiation has increased during the last two decades as a result of the dramatic increase in the use of CT. Exposure to ionizing radiation associated with CT is in the range where carcinogenesis has been demonstrated.[ 9 , 10 ] Repeat exposure to radiation from medical imaging will further increase cancer risk, because risk is proportional to exposure. One study found that half the subjects who were exposed to radiation from medical imaging underwent repeat imaging within 3 years. Overall, 0.2% of the nearly 1 million participants followed for 3 years received doses above 50 mSv.[ 11 ]\nOne approach to estimate the potential contribution of exposure to ionizing radiation from medical imaging is to develop statistical models based on the estimated cancer risks associated with a range of dose levels. For example, one estimate of the CT scans performed in the United States in 2007 predicted that 29,000 (95% uncertainty limits of 15,000–45,000) cancers might result in the future. One-third of the projected cancers were caused by CT scans done on individuals aged 35 to 54 years. This estimate was derived from risk models based on organ-specific radiation doses from national surveys, frequency of CT scans in 2007 by age and sex from survey and insurance claim data, and the National Research Council of the National Academies' report, Biological Effects of Ionizing Radiation.[ 9 ]\nData are now emerging from studies large enough to directly estimate the cancer risk associated with diagnostic imaging using ionizing radiation. For example, in a cohort of 10.9 million Australians, electronic medical records were used to document the diagnostic CT scans of youths who received CT scans when they were aged 0 to 19 years. This cohort was then linked to the National Death Index and Australian Cancer Database.[ 12 ] Compared with those who did not have a CT scan, those who had at least one CT scan were statistically significantly more likely to be diagnosed with cancer as they were followed into young adulthood (RR, 1.24; 95% confidence interval [CI], 1.20–1.29; average follow-up in those who had a CT was 9.5 years). A statistically significant dose-response relationship was observed, with cancer risk increasing with each additional CT scan. Thus, the findings of cohort studies with directly measured CT scans now substantiate the statistical models and document the real-world cancer risks associated with exposure to ionizing radiation via medical imaging.\nDiagnostic imaging in childhood and adolescence is even associated with an elevated risk of a broad range of solid and hematologic malignancies at a young age. In a population-based South Korean cohort of more than 12 million children aged 0 to 19 years, the incidence rate ratio of cancers in the 10.6% of those exposed to diagnostic radiation was 1.64 after a lag period of 2 years since exposure (95% CI, 1.56–1.73; P < .001), compared with those who had no exposure.[ 13 ]"
+        },
+        {
+          "section": "Immunosuppression after organ transplant",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "Risk Factors Causally Associated With Cancer",
+            "Immunosuppression after organ transplant"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Medications that suppress the immune system in patients undergoing organ transplant are associated with an increased cancer risk.[ 14 ] A retrospective population-based cohort study of solid-organ transplant recipients in Ontario, Canada, during a 20-year period demonstrated that solid organ transplant recipients are at increased risk of cancer-specific death, regardless of age, sex, and organ transplanted. The risk is higher during the first 6 months posttransplant but persists for many years. It is especially high for cancers linked to viral infections. As outcomes of transplant have improved, cancer mortality from secondary cancers has increased and is now the second most common cause of death after transplant.[ 15 ]"
+        },
+        {
+          "section": "Diet",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "Risk/Protective Factors With Uncertain Associations With Cancer",
+            "Diet"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Estimates concerning the potential contribution of diet to the population burden of cancer have varied widely.[ 16 ] In contrast to the epidemiological evidence on cigarette smoking and cancer, evidence for the influence of dietary factors and cancer is uncertain. An assessment of the potential role of diet entails measuring the net contribution of diets, comprising factors that may protect against cancer and other factors that may increase cancer risk. Measuring an individual’s usual diet and its direct relevance to cancer risk also poses challenges.[ 17 ]\nExamples in which the type of study design led to substantively different results further illustrate the complexities of the relationship between food and nutrient intake and human cancer risk. Observational epidemiological studies (case-control and cohort studies), which used self-reported dietary assessments that are prone to substantial measurement error, have suggested associations between diet and cancer development, but randomized trials of interventions provided little or no support. For example, based on population-based epidemiological data, high-fiber diets were recommended to prevent colon neoplasms. However, a 2017 Cochrane database systematic review of RCTs of supplemental fiber found a lack of evidence to suggest that increased dietary fiber intake reduces the recurrence of adenomatous polyps in those with a history of adenomatous polyps within a 2- to 8-year period.[ 18 ] Likewise, systematic evidence reviews of cohort studies [ 19 , 20 ] and randomized trials [ 21 ] found small or uncertain effects of red meat intake or reduction in intake on overall cancer incidence and mortality. The overall quality of evidence was graded as low to very low. Likewise, a systematic evidence review and meta-analysis of prospective cohort studies found no evident association between dietary total protein, animal protein, or plant protein intakes and cancer mortality.[ 22 ]\nAssociations reported from observational epidemiological analysis based on self-reported assessments should be viewed in the context of the limitations described above. On the other hand, stronger evidence of causal relationships is unlikely to be provided by relatively short-term RCTs, especially if lifelong dietary patterns or dietary intake during specific life stages are most important in inducing or preventing cancer."
+        },
+        {
+          "section": "Alcohol",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "Risk/Protective Factors With Uncertain Associations With Cancer",
+            "Alcohol"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "With respect to dietary factors that may increase cancer risk, the strongest evidence in the World Cancer Research Fund and American Institute for Cancer Research (WCRF/AICR) report was for drinking alcohol. The evidence was judged to be “convincing” that drinking alcohol increased the risk of cancers of the mouth, esophagus, breast, and colorectum (the latter in men). Further, the evidence was judged to be “probable” that drinking alcohol increased the risk of liver cancer and colorectal cancer (the latter in women).\nIn relation to human cancer, diets reflect the sum total of a complex mixture of exposures, as demonstrated by the examples of fruit/vegetable intake and alcohol consumption. No dietary factors appear to be uniformly relevant to all forms of cancer. For more information, see the following PDQ summaries:\n- Breast Cancer Prevention\n- Colorectal Cancer Prevention\n- Lung Cancer Prevention\n- Esophageal Cancer Prevention\n- Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention\n- Liver (Hepatocellular) Cancer Prevention"
+        },
+        {
+          "section": "Physical activity",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "Risk/Protective Factors With Uncertain Associations With Cancer",
+            "Physical activity"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A growing body of epidemiological evidence suggests that people who are more physically active have a lower risk of certain malignancies than those who are more sedentary. The evidence was judged to be “probable” that physical activity was associated with lower risk of postmenopausal breast cancer and endometrial cancer. As with the dietary factors described above, physical activity seems to play a more prominent role in selected malignancies. The inverse associations observed for selected malignancies make this a promising area for cancer prevention research, particularly because causal associations have not been established. The excess risk of many cancers seen with obesity, in combination with evidence to suggest that physical activity is inversely associated with at least a few cancers, raises the hypothesis that energy balance may influence cancer risk. For more information, see Breast Cancer Prevention ; Colorectal Cancer Prevention ; and Endometrial Cancer Prevention ."
+        },
+        {
+          "section": "Obesity",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "Risk/Protective Factors With Uncertain Associations With Cancer",
+            "Obesity"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Obesity is being increasingly recognized as an important cancer risk factor. The WCRF/AICR report concluded that obesity is convincingly linked to postmenopausal breast cancer and cancers of the esophagus, pancreas, colorectum, endometrium, and kidney. Furthermore, the WCRF/AICR report judged body fatness to be a probable risk factor for cancer of the gallbladder and the evidence to be “limited suggestive” for liver cancer. These conclusions from the WCRF/AICR evidence review were corroborated in a cohort study based on medical records data from 5.24 million adults in the United Kingdom.[ 23 ] The results of this U.K. cohort study also bolstered the evidence for an association between body mass index (BMI) and gallbladder cancer (RR, 1.3; 95% CI, 1.1–1.5 per 5 kg/m 2 increase in BMI) and liver cancer (RR, 1.19; 95% CI, 1.12–1.27 per 5 kg/m 2 increase in BMI).[ 23 ] A prospective study of nationally representative cohorts that examined obesity in relation to cancer mortality emphasized that factors associated with cancer do not uniformly apply to all human malignancies. The study results revealed that obesity was associated with an increased risk of dying of obesity-associated malignancies, but obesity was not associated with overall cancer mortality.[ 24 ] If the associations between obesity and the cancers mentioned above are causal, which has yet to be established, the current increase in the prevalence of obesity in the United States and elsewhere poses a severe challenge to cancer prevention efforts. The magnitude of the impact of obesity on public health and the population burden of cancer is likely to be substantial but is expected to be less than that of cigarette smoking. Smoking has a high prevalence and is causally associated with 13 types of cancer, and the magnitude of the associations are often much stronger than those observed for obesity. Furthermore, weight loss has yet to be shown to reduce the risk of obesity-associated malignancies.[ 25 ] For more information, see the following PDQ summaries:\n- Breast Cancer Prevention\n- Colorectal Cancer Prevention\n- Endometrial Cancer Prevention\n- Lung Cancer Prevention\nA recent analysis [ 1 ] of the long-running Nurses' Health Study and Health Professionals Follow-up Study estimated the proportions of cancer cases and deaths in the U.S. population based on adoption of a low-risk lifestyle. A low-risk lifestyle is characterized by being a never-smoker or former smoker, drinking alcohol moderately or not at all, having a BMI between 18.5 and 27.5, and meeting the 2008 Physical Activity Guidelines for Americans. One major weakness of the study was that its premise assumed the causality of the nonsmoking risk factors. The analysis was further weakened by using self-reported measures of diet and alcohol use and by measuring only leisure-time (rather than all) physical activity. Also, the authors did not present the effects of the nonsmoking risk factors after accounting for smoking. This analysis and others with similar weaknesses should therefore be interpreted cautiously.\nRecent efforts to refine associations between obesity and cancer risk center around the hypothesis that visceral adipose tissue (surrounding internal organs) may be driving the associations that have been observed with BMI (which is technically a measure of body size, not adiposity per se ).[ 26 , 27 ] These efforts explore more comprehensive and targeted measures of adiposity than BMI alone to characterize cancer risk."
+        },
+        {
+          "section": "Diabetes",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "Risk/Protective Factors With Uncertain Associations With Cancer",
+            "Diabetes"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Observational studies suggest that all-cancer incidence and mortality are slightly increased (10%–15%) in individuals with diabetes, although the increase is greater for certain organ sites and null for others.[ 28 - 30 ] Because there is biological heterogeneity in diabetes and cancer, diabetes and cancer share a number of risk factors, and diabetes almost always requires long-term medication use, it is not possible to know what the observed associations (especially those that are small) actually represent. Furthermore, most observational studies rely on self-reports of diabetes (as “has diabetes” or “does not have diabetes”), making it impossible to explore whether associations differ by diabetic type or severity, degree of diabetic control, and other factors that can be determined only using biospecimens and repeated measures. These limitations must be considered when findings are interpreted.\nAt least four of the following characteristics of diabetes have been hypothesized to increase cancer risk:\n- Hyperinsulinemia (including insulin resistance).\n- Hyperglycemia.\n- Downregulation of sex hormone–binding globulin.\n- Chronic inflammation.\nDiabetes and cancer share a number of risk factors, including aging, obesity, smoking, unhealthy diet, and physical inactivity.[ 2 ] Diabetes treatments include exogenous insulin injections, as well as oral medications that modify insulin secretion and sensitivity, reduce blood glucose levels, or prevent the kidneys from reabsorbing blood glucose.[ 31 ]\nIn prospective observational studies, risk of, and death due to, cancers of the liver, pancreas, colon/colorectum, and female breast are consistently higher in individuals with diabetes. Increases in risk or death also have been observed for cancers of the endometrium, ovary, bladder, and oral cavity/pharynx. A prospective cohort study that included long-term follow-up of more than a million U.S. adults evaluated diabetes as a predictor of cancer mortality.[ 29 ] The analyses controlled for age, education, BMI, smoking, alcohol intake, vegetable intake, red meat intake, physical activity, and aspirin use. The study found the greatest increase in mortality for the aforementioned cancer sites was for liver cancer in males (RR, 2.26; 95% CI, 1.89–2.70); the smallest increase in mortality was for breast cancer in females (RR, 1.16; 95% CI, 1.03–1.29). Except for death due to male breast cancer (analysis included 12 patients with diabetes who were dying of the cancer), the remainder of positive statistically significant RRs were no greater than 1.5. A pooled data analysis of 97 prospective studies (almost 821,000 individuals) that controlled for age, smoking status, and BMI presented non–sex-stratified hazard ratios (HRs).[ 28 ] The analysis reported findings similar to those in the aforementioned study. However, contrary to that study, it found increases in risk of death caused by lung cancer (HR, 1.27; 95% CI, 1.13–1.43) and ovarian cancer (HR, 1.45; 95% CI, 1.03–2.02). An umbrella review of meta-analyses [ 30 ] of type 2 diabetes and cancer reported a statistically significant 10% increase in risk of all-cancer incidence, a statistically significant 16% increase in all-cancer mortality, and statistically significant increases in the incidence of 12 cancers. Relative increases in the incidence of pancreas, endometrium, and liver cancer were roughly twofold and statistically significant.\nMetformin use has been associated with a decrease in breast cancer incidence and mortality in observational studies and is currently under study in clinical trials. Metformin has been hypothesized to reduce risk by inhibiting tumor cell growth and proliferation through adenosine monophosphate (AMP)–kinase activation. The use of medications that affect incretin receptor signaling has been postulated to increase pancreatic cancer incidence, but neither animal nor clinical data (which are limited) support this claim at this time.[ 32 ] Long-term use of exogenous, long-acting insulin has never consistently been shown to increase cancer risk."
+        },
+        {
+          "section": "The Impact of Screen Detection on Measures of Risk",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "The Impact of Screen Detection on Measures of Risk"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Many of the groundbreaking observational studies in cancer etiology date back to a time when widespread cancer screening did not occur. Given the extensive uptake of screening for certain cancers over the past quarter-century, recently conducted observational etiological studies included participants whose disease was detected through screening. When overdiagnosis exists with screening, and screening behavior or willingness to seek diagnostic evaluation is correlated with cancer risk factors, relative risk measures generated from today’s etiology studies may not agree with those from studies conducted before the widespread use of screening. This is because overdiagnosed cases would never have been diagnosed in the absence of screening. For example, assume that blue eyes (relative to brown eyes) are associated with receiving prostate-specific antigen screening or preference for diagnostic biopsy, but not with prostate cancer. In the absence of screening, a null result would have been observed for the association of blue eyes and prostate cancer. In the presence of screening, blue eyes would be associated with prostate cancer because blue eyes would lead to screening, and screening would detect overdiagnosed cases.[ 33 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Risk Factors",
+            "The Impact of Screen Detection on Measures of Risk",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 33,
+          "text": "- Song M, Giovannucci E: Preventable Incidence and Mortality of Carcinoma Associated With Lifestyle Factors Among White Adults in the United States. JAMA Oncol 2 (9): 1154-61, 2016. [PUBMED Abstract]\n- U.S. Department of Health and Human Services: The Health Consequences of Smoking—50 Years of Progress: A Report of the Surgeon General. U.S. Department of Health and Human Services, CDC, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 2014. Also available online . Last accessed December 30, 2024.\n- de Martel C, Georges D, Bray F, et al.: Global burden of cancer attributable to infections in 2018: a worldwide incidence analysis. Lancet Glob Health 8 (2): e180-e190, 2020. [PUBMED Abstract]\n- Lei J, Ploner A, Elfström KM, et al.: HPV Vaccination and the Risk of Invasive Cervical Cancer. N Engl J Med 383 (14): 1340-1348, 2020. [PUBMED Abstract]\n- Scotto J, Fears TR, Fraumeni JF Jr: Solar radiation. In: Schottenfeld D, Fraumeni JF Jr, eds.: Cancer Epidemiology and Prevention. 2nd ed. Oxford University Press, 1996, pp 355-72.\n- National Research Council (U.S.), Committee to Assess Health Risks from Exposure to Low Levels of Ionizing Radiation: Health Risks From Exposure to Low Levels of Ionizing Radiation: BEIR VII Phase 2. National Academies Press, 2006. Also available online . Last accessed February 5, 2025.\n- National Council on Radiation Protection and Measurements: Ionizing Radiation Exposure of the Population of the United States. National Council on Radiation Protection and Measurements, 2009. Also available online . Last accessed February 5, 2025.\n- Mettler FA, Thomadsen BR, Bhargavan M, et al.: Medical radiation exposure in the U.S. in 2006: preliminary results. Health Phys 95 (5): 502-7, 2008. [PUBMED Abstract]\n- Berrington de González A, Mahesh M, Kim KP, et al.: Projected cancer risks from computed tomographic scans performed in the United States in 2007. Arch Intern Med 169 (22): 2071-7, 2009. [PUBMED Abstract]\n- Smith-Bindman R, Lipson J, Marcus R, et al.: Radiation dose associated with common computed tomography examinations and the associated lifetime attributable risk of cancer. Arch Intern Med 169 (22): 2078-86, 2009. [PUBMED Abstract]\n- Fazel R, Krumholz HM, Wang Y, et al.: Exposure to low-dose ionizing radiation from medical imaging procedures. N Engl J Med 361 (9): 849-57, 2009. [PUBMED Abstract]\n- Mathews JD, Forsythe AV, Brady Z, et al.: Cancer risk in 680,000 people exposed to computed tomography scans in childhood or adolescence: data linkage study of 11 million Australians. BMJ 346: f2360, 2013. [PUBMED Abstract]\n- Hong JY, Han K, Jung JH, et al.: Association of Exposure to Diagnostic Low-Dose Ionizing Radiation With Risk of Cancer Among Youths in South Korea. JAMA Netw Open 2 (9): e1910584, 2019. [PUBMED Abstract]\n- Engels EA, Pfeiffer RM, Fraumeni JF, et al.: Spectrum of cancer risk among US solid organ transplant recipients. JAMA 306 (17): 1891-901, 2011. [PUBMED Abstract]\n- Acuna SA, Fernandes KA, Daly C, et al.: Cancer Mortality Among Recipients of Solid-Organ Transplantation in Ontario, Canada. JAMA Oncol 2 (4): 463-9, 2016. [PUBMED Abstract]\n- Schoenfeld JD, Ioannidis JP: Is everything we eat associated with cancer? A systematic cookbook review. Am J Clin Nutr 97 (1): 127-34, 2013. [PUBMED Abstract]\n- Freedman LS, Schatzkin A, Midthune D, et al.: Dealing with dietary measurement error in nutritional cohort studies. J Natl Cancer Inst 103 (14): 1086-92, 2011. [PUBMED Abstract]\n- Yao Y, Suo T, Andersson R, et al.: Dietary fibre for the prevention of recurrent colorectal adenomas and carcinomas. Cochrane Database Syst Rev 1: CD003430, 2017. [PUBMED Abstract]\n- Han MA, Zeraatkar D, Guyatt GH, et al.: Reduction of Red and Processed Meat Intake and Cancer Mortality and Incidence: A Systematic Review and Meta-analysis of Cohort Studies. Ann Intern Med 171 (10): 711-720, 2019. [PUBMED Abstract]\n- Vernooij RWM, Zeraatkar D, Han MA, et al.: Patterns of Red and Processed Meat Consumption and Risk for Cardiometabolic and Cancer Outcomes: A Systematic Review and Meta-analysis of Cohort Studies. Ann Intern Med 171 (10): 732-741, 2019. [PUBMED Abstract]\n- Zeraatkar D, Johnston BC, Bartoszko J, et al.: Effect of Lower Versus Higher Red Meat Intake on Cardiometabolic and Cancer Outcomes: A Systematic Review of Randomized Trials. Ann Intern Med 171 (10): 721-731, 2019. [PUBMED Abstract]\n- Naghshi S, Sadeghi O, Willett WC, et al.: Dietary intake of total, animal, and plant proteins and risk of all cause, cardiovascular, and cancer mortality: systematic review and dose-response meta-analysis of prospective cohort studies. BMJ 370: m2412, 2020. [PUBMED Abstract]\n- Bhaskaran K, Douglas I, Forbes H, et al.: Body-mass index and risk of 22 specific cancers: a population-based cohort study of 5·24 million UK adults. Lancet 384 (9945): 755-65, 2014. [PUBMED Abstract]\n- Flegal KM, Graubard BI, Williamson DF, et al.: Cause-specific excess deaths associated with underweight, overweight, and obesity. JAMA 298 (17): 2028-37, 2007. [PUBMED Abstract]\n- Wolin KY, Colditz GA: Can weight loss prevent cancer? Br J Cancer 99 (7): 995-9, 2008. [PUBMED Abstract]\n- Lu Y, Zhao YC, Liu K, et al.: A validated estimate of visceral adipose tissue volume in relation to cancer risk. J Natl Cancer Inst 116 (12): 1942-1951, 2024. [PUBMED Abstract]\n- Parra-Soto S, Boonpor J, Lynskey N, et al.: Association between visceral adiposity index and cancer risk in the UK Biobank cohort. Cancer 131 (1): e35576, 2025. [PUBMED Abstract]\n- Seshasai SR, Kaptoge S, Thompson A, et al.: Diabetes mellitus, fasting glucose, and risk of cause-specific death. N Engl J Med 364 (9): 829-41, 2011. [PUBMED Abstract]\n- Coughlin SS, Calle EE, Teras LR, et al.: Diabetes mellitus as a predictor of cancer mortality in a large cohort of US adults. Am J Epidemiol 159 (12): 1160-7, 2004. [PUBMED Abstract]\n- Tsilidis KK, Kasimis JC, Lopez DS, et al.: Type 2 diabetes and cancer: umbrella review of meta-analyses of observational studies. BMJ 350: g7607, 2015. [PUBMED Abstract]\n- Type 2 Diabetes. Scottsdale, AZ: Mayo Clinic, 1998. Available online . Last accessed February 5, 2025.\n- Egan AG, Blind E, Dunder K, et al.: Pancreatic safety of incretin-based drugs--FDA and EMA assessment. N Engl J Med 370 (9): 794-7, 2014. [PUBMED Abstract]\n- Tangen CM, Goodman PJ, Till C, et al.: Biases in Recommendations for and Acceptance of Prostate Biopsy Significantly Affect Assessment of Prostate Cancer Risk Factors: Results From Two Large Randomized Clinical Trials. J Clin Oncol 34 (36): 4338-4344, 2016. [PUBMED Abstract]"
+        },
+        {
+          "section": "Chemoprevention",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Interventions With Possible Benefits",
+            "Chemoprevention"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Chemoprevention refers to the use of natural or synthetic compounds to interfere with early stages of carcinogenesis, before invasive cancer appears.[ 1 ] Several agents have proven benefit.\nSelective estrogen receptor modulators (tamoxifen and raloxifene), taken daily for up to 5 years, reduce breast cancer incidence by 50% in high-risk women.[ 1 ] Widespread use of these medications for prevention is limited because of side effects (hot flashes, and in the case of tamoxifen, endometrial cancer). For more information, see Breast Cancer Prevention .\nFinasteride (an alpha-reductase inhibitor) lowers the incidence of prostate cancer.[ 2 ] Finasteride lowers prostate-specific antigen levels, resulting in fewer prostate biopsies, and shrinks normal prostate tissue, which allows easier detection of cancers. Both of these effects may account for the finding that finasteride recipients have an absolute higher incidence of high-grade prostate cancer, i.e., a lower incidence of low-risk cancer (lower overdiagnosis). Long-term follow-up (median, 18 years) after completion of the 7-year treatment intervention in the finasteride randomized trial demonstrated that there was a continued reduction in prostate cancer risk. Concerns regarding the increased number of high-grade tumors have been addressed with the long-term evidence of no increased risk of prostate cancer mortality in men who received finasteride (hazard ratio [HR] for risk of prostate cancer death, finasteride vs. placebo, 0.75; 95% confidence interval [CI], 0.50–1.12).[ 3 ] For more information, see Prostate Cancer Prevention .\nCOX-2 inhibitors inhibit the cyclooxygenase enzymes that are involved in the synthesis of proinflammatory prostaglandins. Evidence suggests that COX-2 inhibitors may prevent colon and breast cancer, but concerns about cardiovascular risk preclude extensive study. A randomized controlled trial of moderately high-dose celecoxib in patients with arthritis showed no difference in cardiovascular outcomes when compared with nonselective nonsteroidal anti-inflammatory agents (NSAIDs).[ 4 ] For more information, see Breast Cancer Prevention and Colorectal Cancer Prevention ."
+        },
+        {
+          "section": "Bariatric Surgery",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Interventions With Possible Benefits",
+            "Bariatric Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Bariatric surgery is currently the most effective method for achieving long-term weight loss, and in concert, dramatically improving or preventing diabetes mellitus and hypertension, even in those with previous severe obesity.[ 5 , 6 ] An observational study assessed the relationship between contemporary bariatric procedures (i.e., Roux-en-Y gastric bypass or sleeve gastrectomy), and the incidence and mortality of 13 obesity-associated cancer types as assigned by the International Research on Cancer Handbook Working Group.[ 7 ] This study made use of analyzed data from the Surgical Procedures and Long-term Effectiveness in Neoplastic Disease Incidence and Death (SPLENDID) study, which was a retrospective, observational, matched cohort study in patients with obesity who underwent bariatric surgery or received usual care (no bariatric surgery) at the Cleveland Clinic Health System (CCHS).[ 7 ] The median follow-up time was 6.1 years. This study found that bariatric surgery was associated with reductions in the 13 obesity-related cancers. However, when each of these cancers was examined individually, the association only remained for endometrial cancer.[ 7 ] Cancer-related mortality occurred with an incidence rate of 0.6 events per 1,000 person-years in the bariatric-surgery group compared with 1.2 events per 1,000 person-years in the usual-care group. The cumulative incidence of cancer-related mortality at 10 years was 0.8% (95% CI, 0.4%–1.2%) in the bariatric-surgery group and 1.4% (95% CI, 1.1%–1.6%) in the nonsurgical control group (absolute risk difference, 0.6% [95% CI, 0.1%–1.0%]; adjusted HR, 0.52 [95% CI, 0.31–0.88]; P = .01). There were limitations to this study, which included selection bias and different rates of cancer screening behaviors between the study arms, stemming from the observational nature of the study. Also, there was a low number of incident cancers and a limited follow-up time."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Interventions With Possible Benefits",
+            "Bariatric Surgery",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- William WN, Heymach JV, Kim ES, et al.: Molecular targets for cancer chemoprevention. Nat Rev Drug Discov 8 (3): 213-25, 2009. [PUBMED Abstract]\n- Andriole GL, Bostwick DG, Brawley OW, et al.: Effect of dutasteride on the risk of prostate cancer. N Engl J Med 362 (13): 1192-202, 2010. [PUBMED Abstract]\n- Goodman PJ, Tangen CM, Darke AK, et al.: Long-Term Effects of Finasteride on Prostate Cancer Mortality. N Engl J Med 380 (4): 393-394, 2019. [PUBMED Abstract]\n- Nissen SE, Yeomans ND, Solomon DH, et al.: Cardiovascular Safety of Celecoxib, Naproxen, or Ibuprofen for Arthritis. N Engl J Med 375 (26): 2519-29, 2016. [PUBMED Abstract]\n- Buchwald H, Avidor Y, Braunwald E, et al.: Bariatric surgery: a systematic review and meta-analysis. JAMA 292 (14): 1724-37, 2004. [PUBMED Abstract]\n- Schauer DP: Impact of Bariatric Surgery on Life Expectancy in Severely Obese Patients With Diabetes. Ann Surg 266 (6): e57-e58, 2017. [PUBMED Abstract]\n- Aminian A, Wilson R, Al-Kurd A, et al.: Association of Bariatric Surgery With Cancer Risk and Mortality in Adults With Obesity. JAMA 327 (24): 2423-2433, 2022. [PUBMED Abstract]"
+        },
+        {
+          "section": "Aspirin",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Interventions With No Proven Benefit",
+            "Aspirin"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Aspirin has been studied extensively as a chemopreventive agent. However, the evidence of benefit for the prevention of cancer or cancer deaths in the general population is mixed, but generally negative. A secondary analysis of pooled data from seven placebo-controlled randomized controlled trials (RCTs) with primary end points of vascular events showed that daily aspirin for at least 4 years reduced overall cancer deaths by 18% (odds ratio, 0.82; 95% confidence [CI], 0.70–0.95).[ 1 ] The effect of aspirin on cancer incidence seems to be limited to colorectal cancer in this analysis. A more recent meta-analysis of 16 RCTs, with a mean follow-up of 5.48 years (range, 2–10.7 years) that compared aspirin (doses varying from 81–1,200 mg daily) with placebo controls did not reveal favorable effects of aspirin on cancer mortality (relative risk [RR], 0.99; 95% CI, 0.87–1.12), all-cause mortality (RR, 0.97; 95% CI, 0.92–1.02), or cancer incidence (RR, 0.98; 95% CI, 0.92–1.04).[ 2 ]\nCancer incidence was a prospective secondary, albeit underpowered end point in the aspirin components of a 2 × 2 factorial placebo-controlled trial of a polypill (containing simvastatin, atenolol, hydrochlorothiazide, and ramipril) and aspirin (75 mg/day).[ 3 ] A total of 5,713 participants with a mean age of 63.9 years underwent randomization after a 3- to 4-week active run-in period and were followed for up to 6 years (mean, 4.6 years). About 48% of the participants were from India, and about 29% of the participants were from the Philippines. About 82% and 81% of participants were adherent to the aspirin and placebo components of the trial, respectively, at 24 months. At 48 months, adherence was 73% and 71%, respectively. Cancer incidence was 1.3% for participants receiving aspirin versus 1.6% for those receiving placebo (hazard ratio [HR], 0.83; 95% CI, 0.54–1.27). Cancer incidence was 1.3% for participants receiving aspirin plus polypill versus 1.7% for those receiving double placebo (HR, 0.78; 95% CI, 0.43–1.42). Likewise, a secondary analysis of cancer outcomes in a placebo-controlled RCT of aspirin/omega-3 fatty acid chemoprevention for cardiovascular disease in patients with diabetes mellitus found no evidence of reduced gastrointestinal cancer risk caused by aspirin use, although the authors noted that the power to detect differences in cancer rates was low.[ 4 ] Only one randomized trial of aspirin for primary prevention focused on older individuals without a specific indication to take aspirin, and it suggested that aspirin use may have an adverse effect on cancer outcomes in the elderly. The Aspirin in Reducing Events in the Elderly (ASPREE) trial included study participants aged 70 years and older (≥65 years for Black and Hispanic individuals in the United States) who did not have cardiovascular disease, dementia, or disability. In contrast to other randomized trials of aspirin, an increase in all-cause mortality (HR, 1.14; 95% CI, 1.01–1.29) and risk of cancer death (HR, 1.31; 95% CI, 1.10–1.56) were observed in the aspirin group. An accompanying editorial highlighted that the follow-up time was slightly shorter than in other similar trials and that results with continued follow-up will be informative. Additional characteristics of the trial included a study population that appeared to be healthier than the general population, and mortality rates that were lower in the study group compared with the general population of similar age, sex, and race and ethnicity distribution. At year 5 of the trial, no evidence of a net benefit had been shown in this healthy population with no underlying reason or medical indications for aspirin use.[ 5 , 6 ] Of note, aspirin use was associated with a trend toward an increased risk of metastatic cancers (6.1 vs. 5.1 per 1,000 person-years; HR, 1.19; 95% CI, 1.00–1.43), which tended to be metastatic at diagnosis. Post hoc analysis showed that aspirin use was also associated with a higher risk of death with cancers that presented at stage III (HR, 2.11; 95% CI, 1.03–4.33) or stage IV (HR, 1.31; 95% CI, 1.04–1.64), suggesting that aspirin use may accelerate cancer progression in the elderly.[ 7 ] A significant side effect of aspirin use is bleeding, which may preclude widespread use for cancer prevention. Evidence of harm from bleeding, including major bleeding, is more consistent than the evidence of benefit summarized above.\nBecause aspirin may help reduce death from cardiovascular disease (which is responsible for more deaths than cancer), use of aspirin should be considered in a larger context of prevention beyond cancer. Similarly, serious harms from bleeding (from the gastrointestinal tract or intracranially) should be considered in light of patients' individual risks of specific harms. For more information, see Colorectal Cancer Prevention ."
+        },
+        {
+          "section": "Vitamin and Dietary Supplement Use",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Interventions With No Proven Benefit",
+            "Vitamin and Dietary Supplement Use"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Some have advocated vitamin and mineral supplements for cancer prevention. Many different mechanistic pathways for anticancer effects have been invoked. A commonly tested hypothesis is that antioxidant vitamins may protect against cancer, based on the premise that oxidative damage to DNA leads to cancer progression. Hence preventing oxidative DNA damage would prevent progression to cancer. However, the evidence is insufficient to support the use of multivitamin and mineral supplements or single vitamins or minerals to prevent cancer.[ 8 ] Beta carotene is an antioxidant that was thought to prevent or reverse smoking-related changes leading to lung cancer, based on the results of several observational epidemiological studies examining either dietary intake of beta carotene from food sources or blood levels as a marker of dietary intake.[ 9 ] However, two prospective, placebo-controlled trials found that smokers and former smokers who received beta carotene supplements had increased lung cancer incidence and mortality.[ 10 ]\nOther unanticipated adverse events have been documented for dietary supplement use. A meta-analysis of 11 randomized, double-blind, placebo-controlled trials of daily doses of calcium greater than or equal to 500 mg/day versus placebo documented that calcium supplements were associated with a significantly elevated risk of myocardial infarction (RR, 1.27; 95% CI, 1.01–1.59).[ 11 ] Dietary calcium intake has not been observed to be associated with an increased risk of myocardial infarction.[ 12 ] The discrepancy in findings between calcium in the diet versus high-dose supplementation raises questions about the value of dietary supplements compared with dietary intake. The Iowa Women’s Health Study, an observational study that enrolled over 40,000 women aged 55 to 69 years in 1986, examined the association between dietary supplement use and mortality.[ 13 ] Statistically significant excess mortality risk was observed with the use of multivitamins, vitamin B6, folic acid, iron, magnesium, zinc, and copper. Only calcium users were associated with a statistically significant reduction in mortality rates compared with nonusers.\nResearch into the potential anticancer properties of vitamin and mineral supplements is ongoing, and the results continue to reinforce the lack of efficacy of vitamin supplements in preventing cancer. The extended follow-up results of the Selenium and Vitamin E Cancer Prevention Trial (SELECT) found a statistically significant excess risk of prostate cancer associated with vitamin E supplementation (400 IU/day of all rac -α-tocopherol acetate) compared with placebo (HR, 1.17; 99% CI, 1.0004–1.36; P = .008). The absolute increase in risk of prostate cancer with vitamin E use was 1.6 per 1,000 person-years. Selenium did not reduce the risk of prostate cancer (HR, 1.09; 99% CI, 0.93–1.27).[ 14 ]\nThe results of the Physicians’ Health Study (PHS) II demonstrated that supplementation with vitamin E and/or vitamin C had no benefit, compared with placebo, in preventing either prostate cancer incidence or total cancer incidence.[ 15 ]\nThe results of the Women’s Antioxidant Cardiovascular Study indicated that, compared with placebo, supplementation with vitamin C, vitamin E, or beta carotene was not efficacious in reducing total cancer incidence.[ 16 ] In this same study, daily supplements containing folic acid, vitamin B6, and vitamin B12 were compared with placebo; this intervention was not efficacious in reducing the overall risk of developing cancer.[ 17 ] An exploratory analysis of pooled data from two Norwegian RCTs showed an increase in both cancer incidence and cancer death in patients treated with folic acid and vitamin B12 versus those receiving placebo or vitamin B6 alone.[ 18 ] For more information, see the following PDQ summaries:\n- Breast Cancer Prevention\n- Colorectal Cancer Prevention\n- Lung Cancer Prevention\n- Prostate Cancer Prevention\nVitamin D has also generated interest as a potential anticancer agent. Sources of vitamin D include cutaneous synthesis upon exposure to sunlight, dietary intake, and supplements. Evidence for the efficacy of vitamin D supplements with or without calcium in preventing cancer incidence is available as a secondary end point from RCTs, with a summary of the results from three trials providing evidence of lack of efficacy.[ 19 ] A fourth RCT further corroborates this lack of cancer chemopreventive effect.[ 20 ] The overall body of experimental evidence from randomized trials in humans indicates that at the doses studied (range, 400–1,100 IU daily), vitamin D supplements do not reduce or increase the overall risk of cancer.[ 21 , 22 ] Also, there is no high-level evidence that testing a general (Western) population for vitamin D blood levels and the use of supplements in those found to have low vitamin D levels affects cancer incidence.[ 23 ] The VITamin D and OmegA-3 TriaL (VITAL), a placebo-controlled trial of two forms of supplementation (2,000 IU/day of vitamin D and 1g/day of omega-3 fatty acids), found that neither type of supplementation resulted in lower incidence of invasive cancer. Because invasive cancer incidence was one of the primary end points of VITAL (with major cardiovascular events as the coprimary end point), the null results of VITAL provided additional evidence that even large doses of supplemental vitamin D have no discernible impact on cancer incidence.[ 22 , 24 - 26 ] Despite the negative coprimary end point of cancer incidence, a post hoc analysis of the study showed a possible reduction in advanced-stage (metastatic or fatal) cancers associated with vitamin D supplementation versus placebo (1.7% versus 2.1%; HR, 0.83; 95% CI, 0.69–0.99). However, the association was limited to the 31% of participants with a normal BMI (BMI <25 kg/m 2 ), and the analysis was prone to multiplicity and chance post hoc observations.[ 27 ] Moreover, there was no apparent effect in the minority of participants who had a low-baseline serum vitamin D level (<20 ng/mL). The VITAL primary end point findings concerning omega-3 fatty acids agree with those from a secondary analysis of cancer outcomes in a placebo-controlled RCT of aspirin/omega-3 fatty acid chemoprevention for cardiovascular disease in patients with diabetes mellitus.[ 28 ]\nNone of the RCTs mentioned above studied multivitamin supplements as commonly taken by the general U.S. population; however, a separate arm of the PHS II directly studied this question. In the PHS II, 14,641 male physicians were randomly assigned to receive either a daily multivitamin supplement or a placebo for a median of 11 years.[ 29 ] Multivitamin supplements were associated with an 8% relative decrease in cancer incidence (HR, 0.92; 95% CI, 0.86–0.998; P = .04). The overall reduction in cancer risk was more pronounced in men who had been diagnosed with cancer before the study began (HR, 0.66; 95% CI, 0.50–0.88) than in those with no history of cancer (HR, 0.95; 95% CI, 0.87–1.03), suggesting that the small benefit of multivitamins in reducing overall cancer incidence largely stemmed from the prevention of second primary cancers. This puzzling result, along with the weak association and multiple statistical comparisons made for many different trial end points, diminishes the strength of evidence provided by the PHS II trial. Of note, no significant association between multivitamin use and total mortality was observed in the PHS II (HR, 0.94; 95% CI, 0.88–1.02; P = .13), suggesting neither a negative nor positive effect on life span.[ 30 ] This finding differs from the association between supplements and higher mortality reported in the observational Iowa Women’s Health Study.[ 13 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Interventions With No Proven Benefit",
+            "Vitamin and Dietary Supplement Use",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 30,
+          "text": "- Rothwell PM, Fowkes FG, Belch JF, et al.: Effect of daily aspirin on long-term risk of death due to cancer: analysis of individual patient data from randomised trials. Lancet 377 (9759): 31-41, 2011. [PUBMED Abstract]\n- Haykal T, Barbarawi M, Zayed Y, et al.: Safety and efficacy of aspirin for primary prevention of cancer: a meta-analysis of randomized controlled trials. J Cancer Res Clin Oncol 145 (7): 1795-1809, 2019. [PUBMED Abstract]\n- Yusuf S, Joseph P, Dans A, et al.: Polypill with or without Aspirin in Persons without Cardiovascular Disease. N Engl J Med 384 (3): 216-228, 2021. [PUBMED Abstract]\n- Bowman L, Mafham M, Wallendszus K, et al.: Effects of Aspirin for Primary Prevention in Persons with Diabetes Mellitus. N Engl J Med 379 (16): 1529-1539, 2018. [PUBMED Abstract]\n- McNeil JJ, Nelson MR, Woods RL, et al.: Effect of Aspirin on All-Cause Mortality in the Healthy Elderly. N Engl J Med 379 (16): 1519-1528, 2018. [PUBMED Abstract]\n- McNeil JJ, Wolfe R, Woods RL, et al.: Effect of Aspirin on Cardiovascular Events and Bleeding in the Healthy Elderly. N Engl J Med 379 (16): 1509-1518, 2018. [PUBMED Abstract]\n- McNeil JJ, Gibbs P, Orchard SG, et al.: Effect of Aspirin on Cancer Incidence and Mortality in Older Adults. J Natl Cancer Inst 113 (3): 258-265, 2021. [PUBMED Abstract]\n- Fortmann SP, Burda BU, Senger CA, et al.: Vitamin and mineral supplements in the primary prevention of cardiovascular disease and cancer: An updated systematic evidence review for the U.S. Preventive Services Task Force. Ann Intern Med 159 (12): 824-34, 2013. [PUBMED Abstract]\n- Food, Nutrition, Physical Activity, and the Prevention of Cancer: A Global Perspective. Washington, DC: World Cancer Research Fund/American Institute for Cancer Research, 2007. Also available online . Last accessed February 5, 2025.\n- Gallicchio L, Boyd K, Matanoski G, et al.: Carotenoids and the risk of developing lung cancer: a systematic review. Am J Clin Nutr 88 (2): 372-83, 2008. [PUBMED Abstract]\n- Bolland MJ, Avenell A, Baron JA, et al.: Effect of calcium supplements on risk of myocardial infarction and cardiovascular events: meta-analysis. BMJ 341: c3691, 2010. [PUBMED Abstract]\n- Al-Delaimy WK, Rimm E, Willett WC, et al.: A prospective study of calcium intake from diet and supplements and risk of ischemic heart disease among men. Am J Clin Nutr 77 (4): 814-8, 2003. [PUBMED Abstract]\n- Mursu J, Robien K, Harnack LJ, et al.: Dietary supplements and mortality rate in older women: the Iowa Women's Health Study. Arch Intern Med 171 (18): 1625-33, 2011. [PUBMED Abstract]\n- Klein EA, Thompson IM, Tangen CM, et al.: Vitamin E and the risk of prostate cancer: the Selenium and Vitamin E Cancer Prevention Trial (SELECT). JAMA 306 (14): 1549-56, 2011. [PUBMED Abstract]\n- Gaziano JM, Glynn RJ, Christen WG, et al.: Vitamins E and C in the prevention of prostate and total cancer in men: the Physicians' Health Study II randomized controlled trial. JAMA 301 (1): 52-62, 2009. [PUBMED Abstract]\n- Lin J, Cook NR, Albert C, et al.: Vitamins C and E and beta carotene supplementation and cancer risk: a randomized controlled trial. J Natl Cancer Inst 101 (1): 14-23, 2009. [PUBMED Abstract]\n- Zhang SM, Cook NR, Albert CM, et al.: Effect of combined folic acid, vitamin B6, and vitamin B12 on cancer risk in women: a randomized trial. JAMA 300 (17): 2012-21, 2008. [PUBMED Abstract]\n- Ebbing M, Bønaa KH, Nygård O, et al.: Cancer incidence and mortality after treatment with folic acid and vitamin B12. JAMA 302 (19): 2119-26, 2009. [PUBMED Abstract]\n- Chung M, Lee J, Terasawa T, et al.: Vitamin D with or without calcium supplementation for prevention of cancer and fractures: an updated meta-analysis for the U.S. Preventive Services Task Force. Ann Intern Med 155 (12): 827-38, 2011. [PUBMED Abstract]\n- Avenell A, MacLennan GS, Jenkinson DJ, et al.: Long-term follow-up for mortality and cancer in a randomized placebo-controlled trial of vitamin D(3) and/or calcium (RECORD trial). J Clin Endocrinol Metab 97 (2): 614-22, 2012. [PUBMED Abstract]\n- Bjelakovic G, Gluud LL, Nikolova D, et al.: Vitamin D supplementation for prevention of cancer in adults. Cochrane Database Syst Rev 6: CD007469, 2014. [PUBMED Abstract]\n- Manson JE, Bassuk SS, Lee IM, et al.: The VITamin D and OmegA-3 TriaL (VITAL): rationale and design of a large randomized controlled trial of vitamin D and marine omega-3 fatty acid supplements for the primary prevention of cancer and cardiovascular disease. Contemp Clin Trials 33 (1): 159-71, 2012. [PUBMED Abstract]\n- Kahwati LC, LeBlanc E, Weber RP, et al.: Screening for Vitamin D Deficiency in Adults: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA 325 (14): 1443-1463, 2021. [PUBMED Abstract]\n- Manson JE, Cook NR, Lee IM, et al.: Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease. N Engl J Med 380 (1): 33-44, 2019. [PUBMED Abstract]\n- Manson JE, Cook NR, Lee IM, et al.: Marine n-3 Fatty Acids and Prevention of Cardiovascular Disease and Cancer. N Engl J Med 380 (1): 23-32, 2019. [PUBMED Abstract]\n- Keaney JF, Rosen CJ: VITAL Signs for Dietary Supplementation to Prevent Cancer and Heart Disease. N Engl J Med 380 (1): 91-93, 2019. [PUBMED Abstract]\n- Chandler PD, Chen WY, Ajala ON, et al.: Effect of Vitamin D3 Supplements on Development of Advanced Cancer: A Secondary Analysis of the VITAL Randomized Clinical Trial. JAMA Netw Open 3 (11): e2025850, 2020. [PUBMED Abstract]\n- Bowman L, Mafham M, Wallendszus K, et al.: Effects of n-3 Fatty Acid Supplements in Diabetes Mellitus. N Engl J Med 379 (16): 1540-1550, 2018. [PUBMED Abstract]\n- Gaziano JM, Sesso HD, Christen WG, et al.: Multivitamins in the prevention of cancer in men: the Physicians' Health Study II randomized controlled trial. JAMA 308 (18): 1871-80, 2012. [PUBMED Abstract]\n- Sesso HD, Christen WG, Bubes V, et al.: Multivitamins in the prevention of cardiovascular disease in men: the Physicians' Health Study II randomized controlled trial. JAMA 308 (17): 1751-60, 2012. [PUBMED Abstract]"
+        },
+        {
+          "section": "Environmental Exposures and Pollutants",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Environmental Exposures and Pollutants"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The relationship between environmental pollutants and cancer risk has been of long-standing interest to researchers and the public. When estimates of the potential burden of cancer have been calculated for different classes of exposure, the factors described earlier, such as cigarette smoking and infections, have represented much greater proportions of the cancer burden than have environmental pollutants. Nevertheless, some associations between environmental pollutants and cancer have been clearly established. Perhaps because the lungs are most heavily exposed to air pollutants, many of the most firmly established examples of pollutants and cancer relate specifically to lung cancer, including secondhand tobacco smoke, indoor radon, outdoor air pollution, and asbestos for mesothelioma. Another environmental pollutant linked with cancer is highly concentrated inorganic arsenic in drinking water, which is causally associated with cancers of the skin, bladder, and lung. Many other environmental pollutants, such as pesticides, have been assessed for risk with human cancer, but with indeterminate results. There are challenging methodological issues to address in these studies, such as accurately measuring exposures for long periods, which often make it difficult to clearly establish an association between an environmental pollutant and cancer."
+        },
+        {
+          "section": "Summary",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Summary"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The list of topics considered above is not exhaustive. Other lifestyle and environmental factors known to affect cancer risk (either beneficially or detrimentally) include certain sexual and reproductive practices, the use of exogenous estrogens, and certain occupational and chemical exposures.\nIn this summary, factors were selected that appear to impact the risk of several types of cancer and that have been identified as being potentially modifiable. These risk factors include cigarette smoking, which has been conclusively linked with a wide range of malignancies. Avoidance of cigarette smoking has been shown to reduce cancer incidence. Other potential modifiable cancer risk factors include alcohol consumption and obesity, as well as physical activity, which is inversely associated with the risk of certain cancers. More research is needed to determine whether these associations are causal and whether avoiding risk behaviors or increasing protective behaviors would actually reduce cancer incidence."
+        },
+        {
+          "section": "Latest Updates to This Summary (02/12/2025)",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (02/12/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nThe Burden of Cancer\nUpdated statistics with estimated new cases and deaths for 2025 (cited American Cancer Society as reference 1).\nRisk Factors\nAdded text to state that recent efforts to refine associations between obesity and cancer risk center around the hypothesis that visceral adipose tissue may be driving the associations that have been observed with body mass index (BMI) (cited Lu et al. and Parra-Soto et al. as references 26 and 27, respectively). These efforts explore more comprehensive and targeted measures of adiposity than BMI alone to characterize cancer risk.\nThis summary is written and maintained by the PDQ Screening and Prevention Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about cancer prevention. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 7,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Screening and Prevention Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Screening and Prevention Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Screening and Prevention Editorial Board. PDQ Cancer Prevention Overview. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/causes-prevention/hp-prevention-overview-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389451]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\2cbff82eb0d36da846f7.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "prevention"
+      ],
+      "topic": "prevention",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Cancer Prevention Overview (PDQ®)–Patient Version",
+      "summary_name": "Cancer Prevention Overview",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/patient-prevention-overview-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/prevention"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 2, 2025",
+      "retrieved_at": "2026-08-31T07:06:29.893289+00:00",
+      "content_sha256": "ec7d9034596c372474a840525938f4956713bfbbea1424c98aa0f65d473065bf",
+      "section_count": 30,
+      "sections": [
+        {
+          "section": "What Is Prevention?",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "What Is Prevention?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Cancer prevention is action taken to lower the chance of getting cancer. In 2025, about 2 million people will be diagnosed with cancer in the United States. In addition to the physical problems and emotional distress caused by cancer, the high costs of care are also a burden to patients, their families, and to the public. By preventing cancer, the number of new cases of cancer is lowered. Hopefully, this will reduce the burden of cancer and lower the number of deaths caused by cancer.\nCancer is not a single disease but a group of related diseases. Many things in our genes , our lifestyle, and the environment around us may increase or decrease our risk of getting cancer.\nScientists are studying many different ways to help prevent cancer, including:\n- Ways to avoid or control things known to cause cancer.\n- Changes in diet and lifestyle.\n- Finding precancerous conditions early. Precancerous conditions are conditions that may become cancer.\n- Chemoprevention (medicines to treat a precancerous condition or to keep cancer from starting).\n- Risk-reducing surgery."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Carcinogenesis",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Carcinogenesis is the process in which normal cells turn into cancer cells.\n- Changes (mutations) in genes occur during carcinogenesis."
+        },
+        {
+          "section": "Carcinogenesis is the process in which normal cells turn into cancer cells.",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Carcinogenesis",
+            "Carcinogenesis is the process in which normal cells turn into cancer cells."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Carcinogenesis is the series of steps that take place as a normal cell becomes a cancer cell. Cells are the smallest units of the body and they make up the body's tissues. Each cell contains genes that guide the way the body grows, develops, and repairs itself. There are many genes that control whether a cell lives or dies, divides (multiplies), or takes on special functions, such as becoming a nerve cell or a muscle cell."
+        },
+        {
+          "section": "Changes (mutations) in genes occur during carcinogenesis.",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Carcinogenesis",
+            "Changes (mutations) in genes occur during carcinogenesis."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Changes ( mutations ) in genes can cause normal controls in cells to break down. When this happens, cells do not die when they should and new cells are produced when the body does not need them. The buildup of extra cells may cause a mass (tumor) to form.\nTumors can be benign or malignant (cancerous). Malignant tumor cells invade nearby tissues and spread to other parts of the body. Benign tumor cells do not invade nearby tissues or spread."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Risk Factors",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "- Factors that are known to increase the risk of cancer\n- Cigarette smoking and tobacco use\n- Infections\n- Radiation\n- Immunosuppressive medicines after organ transplant\n- Factors that may affect the risk of cancer\n- Diet\n- Alcohol\n- Physical activity\n- Obesity\n- Diabetes\n- Environmental risk factors\nScientists study risk factors and protective factors to find ways to prevent new cancers from starting. Anything that increases your chance of developing cancer is called a cancer risk factor; anything that decreases your chance of developing cancer is called a cancer protective factor.\nSome risk factors for cancer can be avoided, but many cannot. For example, both smoking and inheriting certain genes are risk factors for some types of cancer, but only smoking can be avoided. Risk factors that a person can control are called modifiable risk factors.\nMany other factors in our environment, diet , and lifestyle may cause or prevent cancer. This summary reviews only the major cancer risk factors and protective factors that can be controlled or changed to reduce the risk of cancer. Risk factors that are not described in the summary include certain sexual behaviors, the use of estrogen , and being exposed to certain substances at work or to certain chemicals ."
+        },
+        {
+          "section": "Cigarette smoking and tobacco use",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Risk Factors",
+            "Factors that are known to increase the risk of cancer",
+            "Cigarette smoking and tobacco use"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "Tobacco use is strongly linked to an increased risk for many kinds of cancer. Smoking cigarettes is the leading cause of the following types of cancer:\n- acute myelogenous leukemia (AML)\n- bladder cancer\n- cervical cancer\n- esophageal cancer\n- kidney cancer\n- lung cancer\n- oral cavity cancer\n- pancreatic cancer\n- stomach cancer\nNot smoking or quitting smoking lowers the risk of getting cancer and dying from cancer. Scientists believe that cigarette smoking causes about 30% of all cancer deaths in the United States.\nTo learn more, visit the following PDQ summaries:\n- Lung Cancer Prevention\n- Lung Cancer Screening\n- Cigarette Smoking: Health Risks and How to Quit"
+        },
+        {
+          "section": "Infections",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Risk Factors",
+            "Factors that are known to increase the risk of cancer",
+            "Infections"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Certain viruses and bacteria are able to cause cancer. Examples of cancer-causing viruses and bacteria include:\n- Human papillomavirus (HPV) increases the risk for cancers of the cervix , penis , vagina , anus , and oropharynx .\n- Hepatitis B and hepatitis C viruses increase the risk for liver cancer .\n- Epstein-Barr virus increases the risk for Burkitt lymphoma .\n- Helicobacter pylori increases the risk for gastric cancer .\nTwo vaccines to prevent infection by cancer-causing agents have been developed and approved by the U.S. Food and Drug Administration (FDA). One is a vaccine to prevent infection with hepatitis B virus. The other protects against infection with strains of HPV that cause cervical cancer . Scientists continue to work on vaccines against infections that cause cancer.\nTo learn more, visit the following PDQ summaries:\n- Cervical Cancer Causes, Risk Factors, and Prevention\n- Cervical Cancer Screening\n- Liver Cancer Causes, Risk Factors, and Prevention\n- Stomach Cancer Causes and Risk Factors\n- Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention"
+        },
+        {
+          "section": "Radiation",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Risk Factors",
+            "Factors that are known to increase the risk of cancer",
+            "Radiation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Being exposed to radiation is a known cause of cancer. There are two main types of radiation linked with an increased risk of cancer:\n- ultraviolet radiation from sunlight, the main cause of nonmelanoma skin cancers\n- ionizing radiation including:\n- medical radiation from tests to diagnose cancer such as x-rays , CT scans , fluoroscopy , and nuclear medicine scans\n- radon gas in our homes\nScientists believe that ionizing radiation causes leukemia , thyroid cancer , and breast cancer in women. Ionizing radiation may also be linked to myeloma and cancers of the lung , stomach , colon , esophagus , bladder , and ovary . Being exposed to radiation from diagnostic x-rays increases the risk of cancer in patients and x-ray technicians. Diagnostic radiation in children and adolescents has been linked with a higher risk of cancers at a young age.\nThe growing use of CT scans over the last 20 years has increased exposure to ionizing radiation. The risk of cancer also increases with the number of CT scans a patient has and the radiation dose used each time.\nTo learn more, visit the following PDQ summaries:\n- Breast Cancer Prevention\n- Breast Cancer Screening\n- Skin Cancer Prevention\n- Lung Cancer Prevention"
+        },
+        {
+          "section": "Immunosuppressive medicines after organ transplant",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Risk Factors",
+            "Factors that are known to increase the risk of cancer",
+            "Immunosuppressive medicines after organ transplant"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Immunosuppressive medicines are used after an organ transplant . These medicines stop a transplanted organ from being rejected by decreasing the body's immune response . Immunosuppressive medicines are linked to an increased risk of cancer because they lower the body's ability to keep cancer from forming. The risk of cancer, especially cancer caused by a virus, is higher in the first 6 months after organ transplant, but the risk lasts for many years."
+        },
+        {
+          "section": "Diet",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Risk Factors",
+            "Factors that may affect the risk of cancer",
+            "Diet"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The foods that you eat on a regular basis make up your diet . Diet is being studied as a risk factor for cancer. It is hard to study the effects of diet on cancer because a person's diet includes foods that may protect against cancer and foods that may increase the risk of cancer.\nIt is also hard for people who take part in the studies to keep track of what they eat over a long period of time. This may explain why studies have different results about how diet affects the risk of cancer.\nSome studies have shown that a diet high in fat, proteins , calories , and red meat increases the risk of colorectal cancer , but other studies have not shown this.\nIt is not known if a diet low in fat and high in fiber , fruits, and vegetables lowers the risk of colorectal cancer."
+        },
+        {
+          "section": "Alcohol",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Risk Factors",
+            "Factors that may affect the risk of cancer",
+            "Alcohol"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Studies have shown that drinking alcohol is linked to an increased risk of the following types of cancers:\n- oral cancer\n- esophageal cancer\n- breast cancer\n- colorectal cancer (in men)\nDrinking alcohol may also increase the risk of liver cancer and female colorectal cancer.\nTo learn more, visit the following PDQ summaries:\n- Breast Cancer Prevention\n- Colorectal Cancer Prevention\n- Lung Cancer Prevention\n- Esophageal Cancer Prevention\n- Oral Cavity, Oropharyngeal, Hypopharyngeal, and Laryngeal Cancers Prevention\n- Liver Cancer Causes, Risk Factors, and Prevention"
+        },
+        {
+          "section": "Physical activity",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Risk Factors",
+            "Factors that may affect the risk of cancer",
+            "Physical activity"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Studies show that people who are physically active have a lower risk of certain cancers than those who are not. It is not known if physical activity itself is the reason for this.\nSome studies show that physical activity protects against postmenopausal breast cancer and endometrial cancer .\nTo learn more, visit the following PDQ summaries:\n- Breast Cancer Prevention\n- Colorectal Cancer Prevention\n- Endometrial Cancer Prevention"
+        },
+        {
+          "section": "Obesity",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Risk Factors",
+            "Factors that may affect the risk of cancer",
+            "Obesity"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Studies show that obesity is linked to a higher risk of the following types of cancer:\n- postmenopausal breast cancer\n- colorectal cancer\n- endometrial cancer\n- esophageal cancer\n- kidney cancer\n- pancreatic cancer\nSome studies show that obesity is also a risk factor for gallbladder cancer and liver cancer.\nStudies have shown that people who lose weight decrease their risk of these cancers.\nTo learn more, visit the following PDQ summaries:\n- Breast Cancer Prevention\n- Colorectal Cancer Prevention\n- Endometrial Cancer Prevention\n- Lung Cancer Prevention"
+        },
+        {
+          "section": "Diabetes",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Risk Factors",
+            "Factors that may affect the risk of cancer",
+            "Diabetes"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "Some studies show that diabetes may slightly increase the risk of having the following types of cancer:\n- bladder cancer\n- breast cancer in women\n- colorectal cancer\n- endometrial cancer\n- liver cancer\n- lung cancer\n- oral cancer\n- oropharyngeal cancer\n- ovarian cancer\n- pancreatic cancer\nDiabetes and cancer share some of the same risk factors. These risk factors include:\n- being older\n- having obesity\n- smoking\n- not eating a healthy diet\n- not exercising\nBecause diabetes and cancer share these risk factors, it is hard to know whether the risk of cancer is increased more by diabetes or by these risk factors.\nStudies are being done to see how medicine that is used to treat diabetes affects cancer risk."
+        },
+        {
+          "section": "Environmental risk factors",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Risk Factors",
+            "Factors that may affect the risk of cancer",
+            "Environmental risk factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Being exposed to chemicals and other substances in the environment has been linked to some cancers:\n- Links between air pollution and cancer risk have been found. These include links between lung cancer and secondhand tobacco smoke , outdoor air pollution, and asbestos .\n- Drinking water that contains a large amount of arsenic has been linked to skin , bladder, and lung cancers.\nStudies have been done to see if pesticides and other pollutants increase the risk of cancer. The results of those studies have been unclear because other factors can change the results of the studies."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Interventions That Are Known to Lower Cancer Risk",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Chemoprevention is being studied in people who have a high risk of developing cancer.\n- Studies have shown that weight loss surgery lowers cancer risk.\n- Other types of surgery can help lower the risk of cancer.\nAn intervention is a treatment or action taken to prevent or treat disease, or improve health in other ways. Many studies are being done to find ways to keep cancer from starting or coming back."
+        },
+        {
+          "section": "Chemoprevention is being studied in people who have a high risk of developing cancer.",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Interventions That Are Known to Lower Cancer Risk",
+            "Chemoprevention is being studied in people who have a high risk of developing cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Chemoprevention is the use of substances to lower the risk of cancer, or keep it from recurring. The substances may be natural or made in the laboratory. Some chemopreventive agents are tested in people who are at high risk for a certain type of cancer. The risk may be because of a precancerous condition, family history , or lifestyle factors.\nTaking one of the following agents may lower the risk of cancer:\n- Selective estrogen receptor modulators (SERMs) such as tamoxifen or raloxifene have been shown to reduce the risk of breast cancer in women at high risk. SERMs may cause side effects , such as hot flashes , so they are not often used for prevention of cancer. Learn more at Breast Cancer Prevention .\n- Finasteride has been shown to lower the risk of prostate cancer . Learn more at Prostate Cancer Prevention .\n- COX-2 inhibitors may prevent colon and breast cancer. However, because COX-2 inhibitors may cause heart problems, there have not been many studies on their use to prevent cancer. Learn more at Colorectal Cancer Prevention and Breast Cancer Prevention ."
+        },
+        {
+          "section": "Studies have shown that weight loss surgery lowers cancer risk.",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Interventions That Are Known to Lower Cancer Risk",
+            "Studies have shown that weight loss surgery lowers cancer risk."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Weight loss surgery, also called bariatric surgery , is a procedure that people with obesity can have to lose weight and improve their overall health and quality of life. The surgery changes the anatomy of the stomach or changes the way the body absorbs nutrients. A person who undergoes this procedure will lose a lot of weight and as a result, will have a decreased risk of cancers linked to overweight.\nTo learn more about cancer prevention, visit the NCI website ."
+        },
+        {
+          "section": "Other types of surgery can help lower the risk of cancer.",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Interventions That Are Known to Lower Cancer Risk",
+            "Other types of surgery can help lower the risk of cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "People with changes in the BRCA1 or BRCA2 gene, a personal or family history of cancer, inherited syndromes, and other high risk factors may want to have surgery to lower their risk. It's important to have a cancer risk assessment and counseling before making this decision. The following surgeries could help lower your risk of getting certain types of cancer:\n- Mastectomy is a surgery to remove the entire breast. Learn more at Breast Cancer Prevention and Genetics of Breast and Gynecologic Cancers (written for health professionals).\n- Tubal ligation is a surgery to close both fallopian tubes . Learn more at Ovarian, Fallopian Tube, and Primary Peritoneal Cancer Prevention .\n- Salpingectomy is a surgery to remove one or both fallopian tubes. Oophorectomy is a surgery to remove one or both ovaries. These surgeries can be done separately or together (called a salpingo-oophorectomy ). Learn more at Ovarian, Fallopian Tube, and Primary Peritoneal Cancer Prevention , Breast Cancer Prevention , and Genetics of Breast and Gynecologic Cancers (written for health professionals).\n- Colectomy is a surgery to remove all or part of the colon. Learn more at Genetics of Colorectal Cancer (written for health professionals).\n- Gastrectomy is a surgery to remove all or part of the stomach. Learn more at Genetics of Gastric Cancer (written for health professionals).\n- Thyroidectomy is a surgery to remove all or part of the thyroid. Learn more at Genetics of Endocrine and Neuroendocrine Neoplasias (written for health professionals)."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Interventions That Are Not Known to Lower Cancer Risk",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Aspirin has not been shown to prevent most cancers.\n- Vitamin and dietary supplements have not been shown to prevent cancer.\n- New ways to prevent cancer are being studied in clinical trials."
+        },
+        {
+          "section": "Aspirin has not been shown to prevent most cancers.",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Interventions That Are Not Known to Lower Cancer Risk",
+            "Aspirin has not been shown to prevent most cancers."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Aspirin has been studied as chemoprevention . The studies show mixed results but most have shown that aspirin does not prevent cancer. However, there is evidence that taking aspirin for long periods of time may prevent colorectal cancer in certain people. Learn more at Colorectal Cancer Prevention .\nResults from a randomized trial suggest that taking aspirin may make cancer grow more quickly in the elderly, but longer follow up is needed to confirm these results.\nBleeding in the gastrointestinal tract or brain is a side effect of aspirin. Even though aspirin has not been shown to reduce the risk of most cancers, it has many uses, including helping to lower the chances of dying from heart disease. Before beginning long-term aspirin use, it is important to talk with your doctor about the related benefits and harms."
+        },
+        {
+          "section": "Vitamin and dietary supplements have not been shown to prevent cancer.",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Interventions That Are Not Known to Lower Cancer Risk",
+            "Vitamin and dietary supplements have not been shown to prevent cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "An intervention is a treatment or action taken to prevent or treat disease, or improve health in other ways.\nThere is not enough proof that taking multivitamin and mineral supplements or single vitamins or minerals can prevent cancer. The following vitamins and mineral supplements have been studied, but have not been shown to lower the risk of cancer:\n- vitamin B6\n- vitamin B12\n- vitamin E\n- vitamin C\n- beta carotene\n- folic acid\n- selenium\n- vitamin D\nThe Selenium and Vitamin E Cancer Prevention Trial (SELECT) found that vitamin E taken alone increased the risk of prostate cancer . The risk continued even after the men stopped taking vitamin E. Taking selenium with vitamin E or taking selenium alone did not increase the risk of prostate cancer.\nVitamin D has also been studied to see if it has anticancer effects. Skin exposed to sunshine can make vitamin D. Vitamin D can also be consumed in the diet and in dietary supplements . Taking vitamin D in doses from 400–1100 IU /day has not been shown to lower or increase the risk of cancer.\nThe VITamin D and OmegA-3 TriaL (VITAL) is under way to study whether taking vitamin D (2000 IU/day) and omega-3 fatty acids from marine (oily fish) sources lowers the risk of cancer.\nThe Physicians' Health Study found that men who have had cancer in the past and take a multivitamin daily may have a slightly lower risk of having a second cancer .\nTo learn more, visit the following PDQ summaries:\n- Breast Cancer Prevention\n- Colorectal Cancer Prevention\n- Lung Cancer Prevention\n- Prostate Cancer Prevention"
+        },
+        {
+          "section": "New ways to prevent cancer are being studied in clinical trials.",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "Interventions That Are Not Known to Lower Cancer Risk",
+            "New ways to prevent cancer are being studied in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about cancer prevention. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Screening and Prevention Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Screening and Prevention Editorial Board. PDQ Cancer Prevention Overview. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/causes-prevention/patient-prevention-overview-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389424]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Cancer Prevention Overview (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\aef0d927853bd564935b.html"
+    }
+  ]
+}

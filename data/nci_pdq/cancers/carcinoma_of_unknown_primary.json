@@ -1,0 +1,458 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Carcinoma of Unknown Primary",
+  "generated_at": "2026-08-31T07:15:22.963807+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Carcinoma of Unknown Primary",
+      "title": "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+      "summary_name": "Carcinoma of Unknown Primary Treatment",
+      "url": "https://www.cancer.gov/types/unknown-primary/patient/unknown-primary-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "December 17, 2021",
+      "retrieved_at": "2026-08-31T07:15:06.639182+00:00",
+      "content_sha256": "4fe3b7d5ce9de91087f7a50fc7286e4a96a560447bfaa926f0cfd4b42e34ead4",
+      "section_count": 38,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- Carcinoma of unknown primary (CUP) is a rare disease in which malignant (cancer) cells are found in the body but the place the cancer began is not known.\n- Sometimes the primary cancer is never found.\n- The signs and symptoms of CUP are different, depending on where the cancer has spread in the body.\n- Because the place where the cancer started is not known, many tests and procedures may be done to search for the primary cancer.\n- If tests show there may be cancer, a biopsy is done.\n- When the type of cancer cells or tissue removed is different from the type of cancer cells expected to be found, a diagnosis of CUP may be made.\n- Tests and procedures used to find the primary cancer depend on where the cancer has spread.\n- Certain factors affect prognosis (chance of recovery)."
+        },
+        {
+          "section": "Carcinoma of unknown primary (CUP) is a rare disease in which malignant (cancer) cells are found in the body but the place the cancer began is not known.",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "Carcinoma of unknown primary (CUP) is a rare disease in which malignant (cancer) cells are found in the body but the place the cancer began is not known."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Cancer can form in any tissue of the body. The primary cancer (the cancer that first formed) can spread to other parts of the body. This process is called metastasis . Cancer cells usually look like the cells in the type of tissue in which the cancer began. For example, breast cancer cells may spread to the lung . Because the cancer began in the breast , the cancer cells in the lung look like breast cancer cells.\nSometimes doctors find where the cancer has spread but cannot find where in the body the cancer first began to grow. This type of cancer is called a cancer of unknown primary (CUP) or occult primary tumor . Enlarge In cancer of unknown primary, cancer cells have spread in the body but the place where the primary cancer began is not known.\nTests are done to find where the primary cancer began and to get information about where the cancer has spread. When tests are able to find the primary cancer, the cancer is no longer a CUP and treatment is based on the type of primary cancer."
+        },
+        {
+          "section": "Sometimes the primary cancer is never found.",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "Sometimes the primary cancer is never found."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The primary cancer (the cancer that first formed) may not be found for one of the following reasons:\n- The primary cancer is very small and grows slowly.\n- The body’s immune system killed the primary cancer.\n- The primary cancer was removed during surgery for another condition and doctors didn’t know cancer had formed. For example, a uterus with cancer may be removed during a hysterectomy to treat a serious infection ."
+        },
+        {
+          "section": "The signs and symptoms of CUP are different, depending on where the cancer has spread in the body.",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "The signs and symptoms of CUP are different, depending on where the cancer has spread in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Sometimes CUP does not cause any signs or symptoms . Signs and symptoms may be caused by CUP or by other conditions. Check with your doctor if you have any of the following:\n- Lump or thickening in any part of the body.\n- Pain that is in one part of the body and does not go away.\n- A cough that does not go away or hoarseness in the voice.\n- Change in bowel or bladder habits, such as constipation , diarrhea , or frequent urination .\n- Unusual bleeding or discharge .\n- Fever for no known reason that does not go away.\n- Drenching night sweats .\n- Weight loss for no known reason or loss of appetite ."
+        },
+        {
+          "section": "Because the place where the cancer started is not known, many tests and procedures may be done to search for the primary cancer.",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "Because the place where the cancer started is not known, many tests and procedures may be done to search for the primary cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "The following tests and procedures may be used:\n- Physical exam and health history : An exam of the body to check general signs of health, including checking for signs of disease, such as lumps or anything else that seems unusual. A history of the patient’s health habits and past illnesses and treatments will also be taken.\n- Urinalysis : A test to check the color of urine and its contents, such as sugar, protein , blood , and bacteria .\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease.\n- Complete blood count : A procedure in which a sample of blood is drawn and checked for the following:\n- The number of red blood cells , white blood cells , and platelets .\n- The amount of hemoglobin (the protein that carries oxygen ) in the red blood cells.\n- The portion of the sample made up of red blood cells.\n- Fecal occult blood test : A test to check stool (solid waste) for blood that can only be seen with a microscope . Small samples of stool are placed on special cards and returned to the doctor or laboratory for testing. Because some cancers bleed, blood in the stool may be a sign of cancer in the colon or rectum ."
+        },
+        {
+          "section": "If tests show there may be cancer, a biopsy is done.",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "If tests show there may be cancer, a biopsy is done."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "A biopsy is the removal of cells or tissues so they can be viewed under a microscope by a pathologist . The pathologist views the tissue under a microscope to look for cancer cells and to find out the type of cancer. The type of biopsy that is done depends on the part of the body being tested for cancer. One of the following types of biopsies may be used:\n- Excisional biopsy : The removal of an entire lump of tissue.\n- Incisional biopsy : The removal of part of a lump or a sample of tissue.\n- Core biopsy : The removal of tissue using a wide needle.\n- Fine-needle aspiration (FNA) biopsy : The removal tissue or fluid using a thin needle.\nIf cancer is found, one or more of the following laboratory tests may be used to study the tissue samples and find out the type of cancer:\n- Genetic analysis : A laboratory test in which the DNA in a sample of cancer cells or tissue is studied to check for mutations (changes) that may help predict the best treatment for carcinoma of unknown primary.\n- Histologic study : A laboratory test in which stains are added to a sample of cancer cells or tissue and viewed under a microscope to look for certain changes in the cells. Certain changes in the cells are linked to certain types of cancer.\n- Immunohistochemistry : A laboratory test that uses antibodies to check for certain antigens ( markers ) in a sample of a patient’s tissue. The antibodies are usually linked to an enzyme or a fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and to help tell one type of cancer from another type of cancer.\n- Reverse transcription–polymerase chain reaction (RT–PCR) test : A laboratory test in which the amount of a genetic substance called mRNA made by a specific gene is measured. An enzyme called reverse transcriptase is used to convert a specific piece of RNA into a matching piece of DNA, which can be amplified (made in large numbers) by another enzyme called DNA polymerase. The amplified DNA copies help tell whether a specific mRNA is being made by a gene. RT–PCR can be used to check the activation of certain genes that may indicate the presence of cancer cells. This test may be used to look for certain changes in a gene or chromosome , which may help diagnose cancer.\n- Cytogenetic analysis : A laboratory test in which the chromosomes of cells in a sample of tumor tissue are counted and checked for any changes, such as broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes may be a sign of cancer. Cytogenetic analysis is used to help diagnose cancer, plan treatment, or find out how well treatment is working. Changes in certain chromosomes are linked to certain types of cancer.\n- Light and electron microscopy : A laboratory test in which cells in a sample of tissue are viewed under regular and high-powered microscopes to look for certain changes in the cells."
+        },
+        {
+          "section": "When the type of cancer cells or tissue removed is different from the type of cancer cells expected to be found, a diagnosis of CUP may be made.",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "When the type of cancer cells or tissue removed is different from the type of cancer cells expected to be found, a diagnosis of CUP may be made."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cells in the body have a certain look that depends on the type of tissue they come from. For example, a sample of cancer tissue taken from the breast is expected to be made up of breast cells. However, if the sample of tissue is a different type of cell (not made up of breast cells), it is likely that the cells have spread to the breast from another part of the body. In order to plan treatment, doctors first try to find the primary cancer (the cancer that first formed)."
+        },
+        {
+          "section": "Tests and procedures used to find the primary cancer depend on where the cancer has spread.",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "Tests and procedures used to find the primary cancer depend on where the cancer has spread."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "In some cases, the part of the body where cancer cells are first found helps the doctor decide which diagnostic tests will be most helpful.\n- When cancer is found above the diaphragm (the thin muscle under the lungs that helps with breathing), the primary cancer site is likely to be in the upper part of the body, such as in the lung or breast.\n- When cancer is found below the diaphragm, the primary cancer site is likely to be in the lower part of the body, such as the pancreas , liver , or other organ in the abdomen .\n- Some cancers commonly spread to certain areas of the body. For cancer found in the lymph nodes in the neck, the primary cancer site is likely to be in the head or neck, because head and neck cancers often spread to the lymph nodes in the neck.\nThe following tests and procedures may be done to find where the cancer first began:\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, such as the chest or abdomen, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- PET scan (positron emission tomography scan) : A procedure to find malignant tumor cells in the body. A small amount of radioactive glucose (sugar) is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do.\n- Mammogram : An x-ray of the breast.\n- Endoscopy : A procedure to look at organs and tissues inside the body to check for abnormal areas. An endoscope is inserted through an incision (cut) in the skin or opening in the body, such as the mouth. An endoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue or lymph node samples, which are checked under a microscope for signs of disease. For example, a colonoscopy may be done.\n- Tumor marker test : A procedure in which a sample of blood, urine, or tissue is checked to measure the amounts of certain substances made by organs, tissues, or tumor cells in the body. Certain substances are linked to specific types of cancer when found in increased levels in the body. These are called tumor markers . The blood may be checked for the levels of CA-125 , CgA , alpha-fetoprotein (AFP), beta human chorionic gonadotropin (beta-hCG), or prostate-specific antigen (PSA) .\nSometimes, none of the tests can find the primary cancer site. In these cases, treatment may be based on what the doctor thinks is the most likely type of cancer."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery).",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "General Information About Carcinoma of Unknown Primary",
+            "Certain factors affect prognosis (chance of recovery)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The prognosis depends on the following:\n- Where the cancer began in the body and where it has spread.\n- The number of organs with cancer in them.\n- The way the tumor cells look when viewed under a microscope.\n- Whether the patient is male or female.\n- Whether the cancer has just been diagnosed or has recurred (come back).\nFor most patients with CUP, current treatments do not cure the cancer. Patients may want to take part in one of the many clinical trials being done to improve treatment. Clinical trials for CUP are taking place in many parts of the country. Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Stages of Carcinoma of Unknown Primary",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- There is no standard staging system for carcinoma of unknown primary (CUP).\n- The information that is known about the cancer is used to plan treatment."
+        },
+        {
+          "section": "There is no standard staging system for carcinoma of unknown primary (CUP).",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Stages of Carcinoma of Unknown Primary",
+            "There is no standard staging system for carcinoma of unknown primary (CUP)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The extent or spread of cancer is usually described as stages . The stage of the cancer is usually used to plan treatment. However, carcinoma of unknown primary (CUP) has already spread to other parts of the body when it is found. There is no standard staging system for CUP.\nSometimes CUP recurs (comes back) after treatment."
+        },
+        {
+          "section": "The information that is known about the cancer is used to plan treatment.",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Stages of Carcinoma of Unknown Primary",
+            "The information that is known about the cancer is used to plan treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Doctors use the following types of information to plan treatment:\n- The place in the body where the cancer is found, such as the peritoneum or the cervical (neck), axillary (armpit), or inguinal ( groin ) lymph nodes .\n- The type of cancer cell , such as melanoma .\n- Whether the cancer cell is poorly differentiated (looks very different from normal cells when viewed under a microscope ).\n- The signs and symptoms caused by the cancer.\n- The results of tests and procedures.\n- Whether the cancer is newly diagnosed or has recurred (come back)."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- There are different types of treatment for patients with carcinoma of unknown primary (CUP).\n- Four types of standard treatment are used:\n- Surgery\n- Radiation therapy\n- Chemotherapy\n- Hormone therapy\n- New types of treatment are being tested in clinical trials.\n- Treatment for carcinoma of unknown primary may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment."
+        },
+        {
+          "section": "There are different types of treatment for patients with carcinoma of unknown primary (CUP).",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with carcinoma of unknown primary (CUP)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatment are available for patients with CUP . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Four types of standard treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Surgery is a common treatment for CUP. A doctor may remove the cancer and some of the healthy tissue around it.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, some patients may be given chemotherapy or radiation therapy after surgery to kill any cancer cells that are left. Treatment given after the surgery, to lower the risk that cancer will come back, is called adjuvant therapy ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Four types of standard treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. There are two types of radiation therapy:\n- External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer. Certain ways of giving radiation therapy can help keep radiation from damaging nearby healthy tissue. This type of radiation therapy may include the following:\n- Intensity-modulated radiation therapy (IMRT): IMRT is a type of 3-dimensional (3-D) radiation therapy that uses a computer to make pictures of the size and shape of the tumor . Thin beams of radiation of different intensities (strengths) are aimed at the tumor from many angles. This type of external radiation therapy causes less damage to nearby healthy tissue and is less likely to cause dry mouth, trouble swallowing, and damage to the skin.\n- Internal radiation therapy uses a radioactive substance sealed in needles, seeds , wires, or catheters that are placed directly into or near the cancer.\nThe way the radiation therapy is given depends on the type and stage of the cancer being treated. External and internal radiation therapy are used to treat carcinoma of unknown primary."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Four types of standard treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). When chemotherapy is placed directly into the cerebrospinal fluid , an organ , or a body cavity such as the abdomen , the drugs mainly affect cancer cells in those areas ( regional chemotherapy ). Combination chemotherapy is the use of two or more anticancer drugs."
+        },
+        {
+          "section": "Hormone therapy",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Four types of standard treatment are used:",
+            "Hormone therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Hormone therapy is a cancer treatment that removes hormones or blocks their action and stops cancer cells from growing. Hormones are substances made by glands in the body and circulated in the bloodstream. Some hormones can cause certain cancers to grow. If tests show that the cancer cells have places where hormones can attach ( receptors ), drugs, surgery, or radiation therapy are used to reduce the production of hormones or block them from working."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Treatment for carcinoma of unknown primary may cause side effects.",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for carcinoma of unknown primary may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Cervical (Neck) Lymph Nodes",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment of Newly Diagnosed Carcinoma of Unknown Primary",
+            "Cervical (Neck) Lymph Nodes"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nCancer found in cervical (neck) lymph nodes may have spread from a tumor in the head or neck. Treatment of cervical lymph node carcinoma of unknown primary (CUP) may include the following:\n- Surgery to remove the tonsils .\n- Radiation therapy alone. Intensity-modulated radiation therapy (IMRT) may be used.\n- Radiation therapy followed by surgery to remove the lymph nodes.\n- Surgery to remove the lymph nodes, with or without radiation therapy.\n- A clinical trial of new types of treatment.\nSee the PDQ summary on Metastatic Squamous Neck Cancer with Occult Primary Treatment for more information."
+        },
+        {
+          "section": "Poorly Differentiated Carcinomas",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment of Newly Diagnosed Carcinoma of Unknown Primary",
+            "Poorly Differentiated Carcinomas"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nCancer cells that are poorly differentiated look very different from normal cells. The type of cell they came from is not known. Treatment of poorly differentiated carcinoma of unknown primary , including tumors in the neuroendocrine system (the part of the brain that controls hormone -producing glands throughout the body) may include the following:\n- Combination chemotherapy .\n- A clinical trial of new types of treatment."
+        },
+        {
+          "section": "Women with Peritoneal Cancer",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment of Newly Diagnosed Carcinoma of Unknown Primary",
+            "Women with Peritoneal Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment for women who have peritoneal (lining of the abdomen ) carcinoma of unknown primary may be the same as for ovarian cancer . Treatment may include the following:\n- Chemotherapy .\n- A clinical trial of new types of treatment.\nSee the PDQ summary on Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancer Treatment for more information."
+        },
+        {
+          "section": "Isolated Axillary Lymph Node Metastasis",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment of Newly Diagnosed Carcinoma of Unknown Primary",
+            "Isolated Axillary Lymph Node Metastasis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nCancer found only in the axillary (armpit) lymph nodes may have spread from a tumor in the breast .\nTreatment of axillary lymph node metastasis is usually:\n- Surgery to remove the lymph nodes.\nTreatment also may include one or more of the following:\n- Surgery to remove the breast.\n- Radiation therapy to the breast.\n- Chemotherapy .\n- A clinical trial of new types of treatment."
+        },
+        {
+          "section": "Inguinal Lymph Node Metastasis",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment of Newly Diagnosed Carcinoma of Unknown Primary",
+            "Inguinal Lymph Node Metastasis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nCancer found only in the inguinal ( groin ) lymph nodes most likely began in the genital , anal , or rectal area. Treatment of inguinal lymph node metastasis may include the following:\n- Surgery to remove the cancer and/or lymph nodes in the groin.\n- Surgery to remove the cancer and/or lymph nodes in the groin, followed by radiation therapy or chemotherapy ."
+        },
+        {
+          "section": "Melanoma in a Single Lymph Node Area",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment of Newly Diagnosed Carcinoma of Unknown Primary",
+            "Melanoma in a Single Lymph Node Area"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of melanoma that is found only in a single lymph node area is usually:\n- Surgery to remove the lymph nodes.\nSee PDQ summary on Melanoma Treatment for more information."
+        },
+        {
+          "section": "Multiple Involvement",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment of Newly Diagnosed Carcinoma of Unknown Primary",
+            "Multiple Involvement"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nThere is no standard treatment for carcinoma of unknown primary that is found in several different areas of the body. Treatment may include the following:\n- Hormone therapy .\n- Internal radiation therapy .\n- Chemotherapy with one or more anticancer drugs .\n- A clinical trial .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Carcinoma of Unknown Primary",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Carcinoma of Unknown Primary"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment for recurrent carcinoma of unknown primary is usually within a clinical trial . Treatment depends on the following:\n- The type of cancer .\n- How the cancer was treated before.\n- Where the cancer has come back in the body.\n- The condition and wishes of the patient.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Carcinoma of Unknown Primary",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "To Learn More About Carcinoma of Unknown Primary"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "For more information from the National Cancer Institute about carcinoma of unknown primary , see the following:\n- Carcinoma of Unknown Primary Home Page\n- Metastatic Cancer\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of carcinoma of unknown primary. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Carcinoma of Unknown Primary Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/unknown-primary/patient/unknown-primary-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389238]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Carcinoma of Unknown Primary Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\d22e4df8d851c6750e92.html"
+    }
+  ]
+}

@@ -1,0 +1,967 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+  "generated_at": "2026-08-31T07:15:23.454693+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+      "title": "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment",
+      "url": "https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "May 9, 2025",
+      "retrieved_at": "2026-08-31T07:13:20.179707+00:00",
+      "content_sha256": "f80c62f096aea0609b334954b95dc9ded6f98fe01512ec9f47f724e34e5d720d",
+      "section_count": 41,
+      "sections": [
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Pancreatic neuroendocrine tumors (NETs) are uncommon cancers with about 1,000 new cases per year in the United States.[ 1 ] They account for less than 2% of pancreatic malignancies and, overall, have a better prognosis than the more common pancreatic exocrine tumors.[ 1 , 2 ]"
+        },
+        {
+          "section": "Pathogenesis",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Pathogenesis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Tumors of the endocrine pancreas are a collection of tumor cell types collectively referred to as pancreatic NETs. These tumors originate in islet cells. Although they may be similar or identical in histological appearance to carcinoid tumors of the gastrointestinal tract, differences in their underlying biology and likely differences in response to therapeutic agents suggest that they should be treated and investigated as a distinct entity.[ 3 ]\nMost pancreatic NETs are sporadic, but some occur as part of the autosomal dominant multiple endocrine neoplasia type 1 (MEN1) inherited syndrome. This syndrome consists of tumors of the anterior pituitary, parathyroid, and endocrine pancreas glands and is a result of inactivation of the MEN1 tumor suppressor gene located on chromosome 11q13.[ 4 ] When part of the MEN1 syndrome, there may be multiple pancreatic tumors.\nIslet tumors may either be functional (produce one or more active hormones) or nonfunctional.[ 4 ] The functional tumors, which usually present with symptoms of hormone hypersecretion, include:\n- Gastrinoma.\n- Insulinoma.\n- Glucagonoma.\n- Somatostatinoma.\n- VIPoma (Verner-Morrison syndrome)."
+        },
+        {
+          "section": "Prognostic Factors",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Prognostic Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Most islet cell cancers are functional, but about 15% are nonfunctional, with presentations similar to the far more common exocrine adenocarcinomas of the pancreas.[ 5 - 7 ] Because of the presence of several cell types in the pancreatic islets (alpha, beta, delta, A, B, C, D, E, F), the term islet cell tumors refers to at least five distinct cancers that, when functional, produce unique metabolic and clinical characteristics. The clinical manifestations in functional tumors may result from the distinctive metabolic effects of the polypeptide(s) secreted by the cancer cells rather than from tumor bulk or metastatic disease. Functional tumors may even be too small to be detected by conventional imaging techniques.\nNonfunctional tumors tend to present at later clinical stages with symptoms attributable to mass effect or metastases.[ 4 ] Although nonfunctional tumors do not produce specific clinical syndromes, they may secrete inactive amine and peptide products such as:\n- Neurotensin.\n- Alpha-subunit of human chorionic gonadotropin (alpha-hCG).\n- Neuron-specific enolase.\n- Pancreatic polypeptide.\n- Chromogranin A."
+        },
+        {
+          "section": "Diagnostics",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Diagnostics"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The potential long delays between initial symptoms and diagnosis and the varied effects of the polypeptides secreted often necessitate involvement of multiple surgical and medical subspecialties. Surgery is the only curative modality and is often used, even in patients with metastatic disease, to alleviate the symptoms of hormonal hypersecretion.[ 4 ] Effective palliation may be achieved because of the slow-growing nature of most of these tumors and the potential use of antihormonal pharmacological therapy (e.g., cimetidine in the ulcer-producing Zollinger-Ellison syndrome). In patients with indolent, slow-growing, metastatic islet cell tumors, the best therapy may be careful observation, and no treatment until palliation is required. In patients with MEN1 in which 85% have pancreatic islet cell tumors, 90% have hyperparathyroidism, and 65% have pituitary tumors, and they are less likely to be cured by pancreatic resection than are patients with sporadic islet cell tumors. With the exception of pain relief from bone metastases, radiation therapy has a limited role in this disease.\nTumor localization and staging studies include imaging with computed tomography (CT) with or without magnetic resonance imaging (MRI), and endoscopic ultrasonography. Somatostatin-receptor scintigraphy and single-photon emission CT may be useful adjuncts. However, somatostatin-receptor scintigraphy is less useful in localizing insulinomas versus other pancreatic NETs, since insulinomas often have a low density of somatostatin receptors.[ 4 ] If the noninvasive tests do not reveal a tumor, but clinical suspicion remains high, more invasive and technically demanding tests, such as selective arteriography or selective arterial stimulation (with a secretagogue specific for the suspected tumor type), may be useful.[ 7 ]\nSome of the tumor types have unique characteristics that require specific approaches in their diagnosis and initial evaluation."
+        },
+        {
+          "section": "Gastrinoma",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Diagnostics",
+            "Gastrinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Diagnosis is dependent on elevated serum gastrin and elevated gastric acid levels. Provocative testing with calcium and secretin shows considerable overlap, and the value of these tests is limited. Zollinger-Ellison syndrome is a condition of unrelenting peptic ulcer disease, diarrhea, and gastric hyperacidity, associated with a gastrin-producing tumor. It accounts for less than 1% of all peptic ulcer disease. About 15% to 35% of gastrinomas are associated with MEN1 syndrome and up to 50% are malignant. Up to 33% of patients with gastrinomas have liver metastases.[ 4 ] For more information, see the Diarrhea section in Gastrointestinal Complications.\nDiagnostic tests:\n- BAO:MAO ≥ 0.6 (basal acid output:maximal acid output).\n- Overnight AO ≥ 100 mmol.\n- BAO ≥ 10 mmol/hr.\n- Serum gastrin 10x normal or >500 pg/mL (the accuracy of gastrin assays may vary widely).\n- Secretin test: 1 unit/kg intravenous rapid injection: Positive = 100% increase in gastrin within 10 minutes; 2 units/kg: Positive = 100% increase over baseline.\n- Elevated hCG levels."
+        },
+        {
+          "section": "Insulinoma",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Diagnostics",
+            "Insulinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Insulinomas are far more likely to be benign than malignant. Only 10% of insulinomas are multiple, and only 10% are malignant. About 5% to 8% are associated with MEN1 syndrome.[ 4 ] The clinical manifestations are those of hypoglycemia, which results from inappropriate secretion of insulin by the tumor. Fasting hypoglycemia (<40 mg/dL) associated with an elevated insulin level (in the absence of exogenous administration of insulin) is pathognomonic. Measurement of plasma proinsulin may be helpful for diagnosing insulin-secreting carcinomas. These tumors are usually slow-growing tumors and, when localized to the pancreas or regional lymph nodes, can be cured with pancreatic resection.\nThe approach to management depends on carefully performed preoperative localization studies and the findings at exploratory laparotomy. In a retrospective case series of 30 patients with 32 pancreatic insulinomas, the combination of preoperative, dual-phase, thin-section multidetector CT and endoscopic sonography correctly identified and localized all of the tumors.[ 8 ] These tests, with or without MRI, have replaced older, more invasive, and technically challenging tests, such as percutaneous transhepatic portal venous sampling and arterial stimulation with venous sampling, except for unusual circumstances in which the imaging tests are unsuccessful.[ 4 , 9 ]"
+        },
+        {
+          "section": "Glucagonoma",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Diagnostics",
+            "Glucagonoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Glucagonoma is the third most common endocrine-secreting islet cell tumor. About 75% of glucagonomas are malignant.[ 4 ] Necrolytic migratory erythema, hyperglycemia, and venous thrombosis comprise a virtually diagnostic triad. A serum glucagon level greater than 1,000 pg/mL confirms the diagnosis. These tumors tend to be large and easily visible on CT scan. Somatostatin-receptor scintigraphy scanning may be a useful adjunct in detecting metastases."
+        },
+        {
+          "section": "Miscellaneous islet cell tumors",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Diagnostics",
+            "Miscellaneous islet cell tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "These tumors are rare but have defined clinical syndromes associated with specific production of polypeptide hormone production by islet cell tumors. Because of their rarity and similar approaches to management, they are grouped in the section on treatment. Miscellaneous tumors include:\n- VIPoma. VIPoma is characterized by watery diarrhea, hypokalemia, and achlorhydria. A serum vasoactive intestinal peptide (VIP) greater than 200 pg/mL is diagnostic.[ 4 ] These tumors can generally be easily localized by CT scan. Somatostatin-receptor scintigraphy scanning may be a useful adjunct in detecting metastases.\n- Somatostatinoma. These tumors are particularly rare. They often present with diarrhea, steatorrhea, diabetes, and/or gallstones. Decreased pancreatic secretion of enzymes and bicarbonate accounts for the diarrhea and steatorrhea. Somatostatin-mediated inhibition of cholecystokinin leads to gallstone formation. Somatostatin also inhibits insulin, producing hyperglycemia. The diagnosis is made by a fasting serum somatostatin level greater than 100 pg/mL. CT scan, MRI, and endoscopic ultrasound can usually help localize and stage the tumor. Most of these tumors are malignant and have metastases at diagnosis."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Diagnostics",
+            "Miscellaneous islet cell tumors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Ries LAG, Young JL, Keel GE, et al., eds.: SEER Survival Monograph: Cancer Survival Among Adults: U. S. SEER Program, 1988-2001, Patient and Tumor Characteristics. National Cancer Institute, 2007. NIH Pub. No. 07-6215.\n- Neuroendocrine tumors of the pancreas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 407–19.\n- Kulke MH, Siu LL, Tepper JE, et al.: Future directions in the treatment of neuroendocrine tumors: consensus report of the National Cancer Institute Neuroendocrine Tumor clinical trials planning meeting. J Clin Oncol 29 (7): 934-43, 2011. [PUBMED Abstract]\n- Davies K, Conlon KC: Neuroendocrine tumors of the pancreas. Curr Gastroenterol Rep 11 (2): 119-27, 2009. [PUBMED Abstract]\n- Hochwald SN, Zee S, Conlon KC, et al.: Prognostic factors in pancreatic endocrine neoplasms: an analysis of 136 cases with a proposal for low-grade and intermediate-grade groups. J Clin Oncol 20 (11): 2633-42, 2002. [PUBMED Abstract]\n- O'Grady HL, Conlon KC: Pancreatic neuroendocrine tumours. Eur J Surg Oncol 34 (3): 324-32, 2008. [PUBMED Abstract]\n- King CM, Reznek RH, Dacie JE, et al.: Imaging islet cell tumours. Clin Radiol 49 (5): 295-303, 1994. [PUBMED Abstract]\n- Gouya H, Vignaux O, Augui J, et al.: CT, endoscopic sonography, and a combined protocol for preoperative evaluation of pancreatic insulinomas. AJR Am J Roentgenol 181 (4): 987-92, 2003. [PUBMED Abstract]\n- Nikfarjam M, Warshaw AL, Axelrod L, et al.: Improved contemporary surgical management of insulinomas: a 25-year experience at the Massachusetts General Hospital. Ann Surg 247 (1): 165-72, 2008. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Islet Cells | Secreted Active Agent | Tumor and Syndrome\n5-HT = serotonin; ACTH = adrenocorticotropin hormone; MSH = melanocyte-stimulating hormone; VIP = vasoactive intestinal peptide; WDHA = watery diarrhea, hypokalemia, and achlorhydria.\nAlpha | Glucagon | Glucagonoma (diabetes, dermatitis)\nBeta | Insulin | Insulinoma (hypoglycemia)\nDelta | Somatostatin | Somatostatinoma (mild diabetes); diarrhea/steatorrhea; gallstones\nD | Gastrin | Gastrinoma (peptic ulcer disease)\nA→D | VIP and/or other undefined mediators | WDHA\n5-HT | Carcinoid\nACTH | Cushing disease\nMSH | Hyperpigmentation\nInteracinar Cells | Secreted Active Agent | Tumor and Syndrome\nF | Pancreatic polypeptide | Multiple hormonal syndromes\nEC | 5-HT | Carcinoid"
+        },
+        {
+          "section": "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 48,
+          "text": "The AJCC has designated staging by TNM (tumor, node, metastasis) classification to define pancreatic neuroendocrine tumors (islet cell tumors).[ 1 ]\nStage | TNM | Definition\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Neuroendocrine Tumors of the Pancreas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 407–19.\nb The explanation for superscript b is at the end of Table 5 .\nI | T1, N0, M0 | T1 = Tumor limited to the pancreas, b <2 cm.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis.\nStage | TNM | Definition\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Neuroendocrine Tumors of the Pancreas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 407–19.\nb The explanation for superscript b is at the end of Table 5 .\nII | T2, N0, M0 | T2 = Tumor limited to the pancreas, b 2–4 cm.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis.\nT3, N0, M0 | T3 = Tumor limited to the pancreas, b >4 cm; or tumor invading the duodenum or common bile duct.\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis.\nStage | TNM | Definition\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Neuroendocrine Tumors of the Pancreas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 407–19.\nb The explanation for superscript b is at the end of Table 5 .\nIII | T4, N0, M0 | T4 = Tumor invading adjacent organs (stomach, spleen, colon, adrenal gland) or the wall of large vessels (celiac axis or the superior mesenteric artery).\nN0 = No regional lymph node involvement.\nM0 = No distant metastasis.\nAny T, N1, M0 | TX = Tumor cannot be assessed.\nT1 = Tumor limited to the pancreas, b <2 cm.\nT2 = Tumor limited to the pancreas, b 2–4 cm.\nT3 = Tumor limited to the pancreas, b >4 cm; or tumor invading the duodenum or common bile duct.\nT4 = Tumor invading adjacent organs (stomach, spleen, colon, adrenal gland) or the wall of large vessels (celiac axis or the superior mesenteric artery).\nN1 = Regional lymph node involvement.\nM0 = No distant metastasis.\nStage | TNM | Definition\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Neuroendocrine Tumors of the Pancreas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 407–19.\nb Limited to the pancreas means there is no invasion of adjacent organs (stomach, spleen, colon, adrenal gland) or the wall of large vessels (celiac axis or the superior mesenteric artery). Extension of tumor into peripancreatic adipose tissue is NOT a basis for staging. Note : Multiple tumors should be designated as such (the largest tumor should be used to assign T category): if the number of tumors is known, use T(#); e.g., pT3(4) N0 M0; if the number of tumors is unavailable or too numerous, use the m suffix, T(m); e.g., pT3(m) N0 M0.\nIV | Any T, Any N, M1 | TX = Tumor cannot be assessed.\nT1 = Tumor limited to the pancreas, b <2 cm.\nT2 = Tumor limited to the pancreas, b 2–4 cm.\nT3 = Tumor limited to the pancreas, b >4 cm; or tumor invading the duodenum or common bile duct.\nT4 = Tumor invading adjacent organs (stomach, spleen, colon, adrenal gland) or the wall of large vessels (celiac axis or the superior mesenteric artery).\nNX = Regional lymph nodes cannot be assessed.\nN0 = No regional lymph node involvement.\nN1 = Regional lymph node involvement.\nM1 = Distant metastases.\n–M1a = Metastasis confined to liver.\n–M1b = Metastases in at least one extrahepatic site (e.g., lung, ovary, nonregional lymph node, peritoneum, bone).\n–M1c = Both hepatic and extrahepatic metastases."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Neuroendocrine tumors of the pancreas. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 407–19."
+        },
+        {
+          "section": "Localized Disease",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Localized Disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "If technically and medically feasible, primary management of endocrine tumors of the pancreas involves surgical resection with curative intent. Given the rare nature of these tumors, surgical approaches are based on case series and expert opinion rather than randomized controlled trials.[ 1 ] The surgical options listed below are based on retrospective series from single reporting centers.[ 2 - 4 ][ Level of evidence C2 ]\nAdjuvant therapy has no proven benefit and is, therefore, investigational. There have been no well-controlled trials of adjuvant therapy after complete tumor resection.[ 5 ]"
+        },
+        {
+          "section": "Surgical Cytoreduction for Metastases",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Surgical Cytoreduction for Metastases"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Surgery plays a role even in the setting of metastatic disease. The symptoms of metastatic functional pancreatic neuroendocrine tumors (NETs) may be ameliorated by the reduction of overall tumor burden through surgical debulking.\nThe liver is a common site of metastasis from pancreatic NETs. Because of the slow growth rate of many NETs, liver metastases are often resected when technically feasible. Resection of all grossly visible liver metastases can be associated with long-term survival and, in the case of symptomatic hormonally functional tumors, symptom relief.[ 6 ] Most symptoms from functional tumors respond to this form of surgical debulking. It is not known if the favorable survival rates are attributable to patient selection factors (e.g., underlying patient condition, extent of metastases, slow doubling time, and so forth).\nAlternative approaches to the management of liver metastases have been reported, including Gelfoam embolization or transarterial chemoembolization,[ 7 ] radioembolization with radioactive microspheres,[ 8 - 10 ] radiofrequency ablation, cryoablation, and percutaneous alcohol ablation. These alternative approaches have been reviewed.[ 11 ]\nResults from surgical resection series appear to be more favorable than with these techniques, and surgery is considered to be the standard approach to resectable liver metastases. However, there are no high-quality studies comparing the various approaches. A systematic review of evidence comparing liver resection versus other treatments for patients with resectable liver neuroendocrine metastases found no randomized trials, or even quasi-experimental, cohort, or case-control studies in which the patient population given the alternative therapies was similar enough to the surgery group to draw reliable conclusions.[ 12 ] The evidence for resection of all grossly visible liver metastases is derived solely from case series.[ Level of evidence C2 ]\nIn most cases, liver metastases are not completely resectable. Cytoreductive surgery, with or without radiofrequency ablation or cryoablation, has been used to palliate symptoms. A systematic review found no randomized or quasi-randomized trials comparing cytoreductive surgery to other palliative approaches such as chemotherapy or tumor product inhibitors.[ 13 ] The evidence for surgical cytoreduction of unresectable liver metastases is restricted to case series [ Level of evidence C2 ], and interpretation of outcomes may be strongly affected by patient selection factors."
+        },
+        {
+          "section": "Systemic Therapy for Advanced and Metastatic Disease",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Systemic Therapy for Advanced and Metastatic Disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "Somatostatin analogues may be effective in reducing the symptoms of functional tumors.[ 14 ]\nChemotherapy using drugs such as the following, either alone or in combination, has been shown to have antitumor effects, but evidence is weak or conflicting regarding the impact of chemotherapy on overall survival:[ 15 - 17 ]\n- Streptozocin.\n- Doxorubicin.\n- Fluorouracil.\n- Chlorozotocin.\n- Dacarbazine.\n- Temozolomide.\nA variety of systemic agents have shown biological or palliative activity, including:[ 5 , 18 ]\n- Tyrosine kinase inhibitors (e.g., sunitinib).\n- Temozolomide.\n- Vascular endothelial growth factor pathway inhibitors.\n- Mammalian target of rapamycin inhibitors (e.g., everolimus).\nNearly all of the evidence of activity is derived from case series.[ Level of evidence C3 ] However, there are ongoing placebo-controlled randomized trials of everolimus [ 19 ] and sunitinib [ 20 ] that have been reported in abstract form showing an increase in progression-free survival in each case.[ Level of evidence B1 ]\nFavorable responses have been reported in patients with advanced progressive pancreatic NETs after treatment with several radiolabeled somatostatin analogues in which the analogues octreotide, octreotate, lanreotide, or edotreotide are stably attached to the radionuclides indium In 111, yttrium Y 90, or lutetium Lu 177.[ 21 - 23 ] The relative efficacy of these various compounds is unknown. Study designs have been limited to case series with tumor response, biochemical response, or symptom control as the measure of efficacy.[ Level of evidence C3 ]\nAs noted in each of the clinical situations, there is a paucity or absence of high-level evidence and a need for randomized controlled trials.[ 5 ]"
+        },
+        {
+          "section": "Fluorouracil dosing",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Systemic Therapy for Advanced and Metastatic Disease",
+            "Fluorouracil dosing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The DPYD gene encodes an enzyme that catabolizes pyrimidines and fluoropyrimidines, like capecitabine and fluorouracil. An estimated 1% to 2% of the population has germline pathogenic variants in DPYD , which lead to reduced DPD protein function and an accumulation of pyrimidines and fluoropyrimidines in the body.[ 24 , 25 ] Patients with the DPYD*2A variant who receive fluoropyrimidines may experience severe, life-threatening toxicities that are sometimes fatal. Many other DPYD variants have been identified, with a range of clinical effects.[ 24 - 26 ] Fluoropyrimidine avoidance or a dose reduction of 50% may be recommended based on the patient's DPYD genotype and number of functioning DPYD alleles.[ 27 - 29 ] DPYD genetic testing costs less than $200, but insurance coverage varies due to a lack of national guidelines.[ 30 ] In addition, testing may delay therapy by 2 weeks, which would not be advisable in urgent situations. This controversial issue requires further evaluation.[ 31 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Systemic Therapy for Advanced and Metastatic Disease",
+            "Fluorouracil dosing",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 31,
+          "text": "- Davies K, Conlon KC: Neuroendocrine tumors of the pancreas. Curr Gastroenterol Rep 11 (2): 119-27, 2009. [PUBMED Abstract]\n- Phan GQ, Yeo CJ, Hruban RH, et al.: Surgical experience with pancreatic and peripancreatic neuroendocrine tumors: Review of 125 patients. J Gastrointest Surg 2 (5): 473-82, 1998 Sep-Oct. [PUBMED Abstract]\n- Kazanjian KK, Reber HA, Hines OJ: Resection of pancreatic neuroendocrine tumors: results of 70 cases. Arch Surg 141 (8): 765-9; discussion 769-70, 2006. [PUBMED Abstract]\n- Hochwald SN, Zee S, Conlon KC, et al.: Prognostic factors in pancreatic endocrine neoplasms: an analysis of 136 cases with a proposal for low-grade and intermediate-grade groups. J Clin Oncol 20 (11): 2633-42, 2002. [PUBMED Abstract]\n- Kulke MH, Siu LL, Tepper JE, et al.: Future directions in the treatment of neuroendocrine tumors: consensus report of the National Cancer Institute Neuroendocrine Tumor clinical trials planning meeting. J Clin Oncol 29 (7): 934-43, 2011. [PUBMED Abstract]\n- Sarmiento JM, Que FG: Hepatic surgery for metastases from neuroendocrine tumors. Surg Oncol Clin N Am 12 (1): 231-42, 2003. [PUBMED Abstract]\n- Gupta S, Johnson MM, Murthy R, et al.: Hepatic arterial embolization and chemoembolization for the treatment of patients with metastatic neuroendocrine tumors: variables affecting response rates and survival. Cancer 104 (8): 1590-602, 2005. [PUBMED Abstract]\n- Nguyen C, Faraggi M, Giraudet AL, et al.: Long-term efficacy of radionuclide therapy in patients with disseminated neuroendocrine tumors uncontrolled by conventional therapy. J Nucl Med 45 (10): 1660-8, 2004. [PUBMED Abstract]\n- Kennedy AS, Dezarn WA, McNeillie P, et al.: Radioembolization for unresectable neuroendocrine hepatic metastases using resin 90Y-microspheres: early results in 148 patients. Am J Clin Oncol 31 (3): 271-9, 2008. [PUBMED Abstract]\n- King J, Quinn R, Glenn DM, et al.: Radioembolization with selective internal radiation microspheres for neuroendocrine liver metastases. Cancer 113 (5): 921-9, 2008. [PUBMED Abstract]\n- Siperstein AE, Berber E: Cryoablation, percutaneous alcohol injection, and radiofrequency ablation for treatment of neuroendocrine liver metastases. World J Surg 25 (6): 693-6, 2001. [PUBMED Abstract]\n- Gurusamy KS, Ramamoorthy R, Sharma D, et al.: Liver resection versus other treatments for neuroendocrine tumours in patients with resectable liver metastases. Cochrane Database Syst Rev (2): CD007060, 2009. [PUBMED Abstract]\n- Gurusamy KS, Pamecha V, Sharma D, et al.: Palliative cytoreductive surgery versus other palliative treatments in patients with unresectable liver metastases from gastro-entero-pancreatic neuroendocrine tumours. Cochrane Database Syst Rev (1): CD007118, 2009. [PUBMED Abstract]\n- di Bartolomeo M, Bajetta E, Buzzoni R, et al.: Clinical efficacy of octreotide in the treatment of metastatic neuroendocrine tumors. A study by the Italian Trials in Medical Oncology Group. Cancer 77 (2): 402-8, 1996. [PUBMED Abstract]\n- Moertel CG, Lefkopoulo M, Lipsitz S, et al.: Streptozocin-doxorubicin, streptozocin-fluorouracil or chlorozotocin in the treatment of advanced islet-cell carcinoma. N Engl J Med 326 (8): 519-23, 1992. [PUBMED Abstract]\n- Kouvaraki MA, Ajani JA, Hoff P, et al.: Fluorouracil, doxorubicin, and streptozocin in the treatment of patients with locally advanced and metastatic pancreatic endocrine carcinomas. J Clin Oncol 22 (23): 4762-71, 2004. [PUBMED Abstract]\n- Kulke MH, Hornick JL, Frauenhoffer C, et al.: O6-methylguanine DNA methyltransferase deficiency and response to temozolomide-based therapy in patients with neuroendocrine tumors. Clin Cancer Res 15 (1): 338-45, 2009. [PUBMED Abstract]\n- Yao JC, Lombard-Bohas C, Baudin E, et al.: Daily oral everolimus activity in patients with metastatic pancreatic neuroendocrine tumors after failure of cytotoxic chemotherapy: a phase II trial. J Clin Oncol 28 (1): 69-76, 2010. [PUBMED Abstract]\n- Yao JC, Shah MH, Ito T, et al.: A randomized, double-blind, placebo-controlled multicenter phase III trial of everolimus in patients with advanced pancreatic neuroendocrine tumors (PNET) (RADIANT-3). [Abstract] Ann Oncol 21 (Suppl 8): A-LBA9, viii4-5, 2010.\n- Raymond E, Niccoli-Sire P, Bang Y: Updated results of the phase III trial of sunitinib (SU) versus placebo (PBO) for treatment of advanced pancreatic neuroendocrine tumors (NET). [Abstract] American Society of Clinical Oncology 2010 Gastrointestinal Cancers Symposium, 22–24 January 2010, Orlando, Florida. A-127, 2010.\n- Teunissen JJ, Kwekkeboom DJ, de Jong M, et al.: Endocrine tumours of the gastrointestinal tract. Peptide receptor radionuclide therapy. Best Pract Res Clin Gastroenterol 19 (4): 595-616, 2005. [PUBMED Abstract]\n- Kwekkeboom DJ, de Herder WW, Kam BL, et al.: Treatment with the radiolabeled somatostatin analog [177 Lu-DOTA 0,Tyr3]octreotate: toxicity, efficacy, and survival. J Clin Oncol 26 (13): 2124-30, 2008. [PUBMED Abstract]\n- Bushnell DL, O'Dorisio TM, O'Dorisio MS, et al.: 90Y-edotreotide for metastatic carcinoid refractory to octreotide. J Clin Oncol 28 (10): 1652-9, 2010. [PUBMED Abstract]\n- Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021. [PUBMED Abstract]\n- Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016. [PUBMED Abstract]\n- Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021. [PUBMED Abstract]\n- Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018. [PUBMED Abstract]\n- Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018. [PUBMED Abstract]\n- Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022. [PUBMED Abstract]\n- Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022. [PUBMED Abstract]\n- Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Gastrinoma",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Gastrinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 26,
+          "text": "The approach to treatment often depends on the results of preoperative localization studies and findings at exploratory laparotomy. At exploration, 85% of these tumors are found in the gastrinoma triangle with 40% on the surface of the pancreas and 40% outside of the pancreas. Only 15% are found within the substance of the pancreas. Percutaneous transhepatic venous sampling may occasionally provide accurate localization of single sporadic gastrinomas. Resection (enucleation of individual tumors, if technically feasible), and even excision of liver metastases, is associated with long-term cure or disease control.[ 1 ]\nTreatment options:\n- Single lesion in the head of the pancreas:[ 2 - 5 ]\n- Enucleation.\n- Parietal cell vagotomy and cimetidine.\n- Total gastrectomy (rarely used with the introduction of current therapies).\n- Single or multiple lesions in the duodenum:[ 2 - 5 ]\n- Pancreatoduodenectomy.\n- Single lesion in the body/tail of the pancreas:[ 2 - 5 ]\n- Resection of body/tail.\n- Multiple lesions in the pancreas:[ 2 - 5 ]\n- Resection of body/tail.\n- If residual disease is present, parietal cell vagotomy and cimetidine.\n- Total gastrectomy (rarely used with the introduction of current therapies).\n- No tumor found:\n- Parietal cell vagotomy and cimetidine.\n- Total gastrectomy (rarely used with the introduction of current therapies).\n- Liver metastases:[ 6 - 13 ]\n- Liver resection where possible.\n- Radiofrequency ablation or cryosurgical ablation.\n- Chemoembolization of liver.\n- Metastatic disease or disease refractory to surgery and cimetidine:[ 14 - 23 ]\n- Chemotherapy\n- Somatostatin analogue therapy.\nPatients with hepatic-dominant disease and substantial symptoms caused by tumor bulk or hormone-release syndromes may benefit from procedures that reduce hepatic arterial blood flow to metastases (hepatic arterial occlusion with embolization or with chemoembolization). Such treatment may also be combined with systemic chemotherapy in selected patients. Treatment with proton pump inhibitors or H2 blocking agents may aid in control of peptic symptoms.\nIn the era of proton pump inhibitors and H2 blocking agents, the potentially lethal hyperacidity and hypersecretory states induced by excessive gastrin production can usually be controlled. In a series of 212 patients with Zollinger-Ellison syndrome (ZES), no patients died of causes related to acid hypersecretion. Only 2.3% of those patients had undergone total gastrectomy, and the study cohort had a long median follow-up period of 13.8 years. Although 32% of the patients died during the course of the study, only 50% of the 67 deaths were attributable to ZES-related causes. Those causes were mainly liver metastases with progressive anorexia and cachexia (67%) or secondary endocrine tumors consequent to multiple endocrine neoplasia type 1 syndrome. The development of bone or liver metastases (especially diffuse liver disease) or of ectopic Cushing syndrome during the study period predicted for decreased survival times.[ 24 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Gastrinoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Gastrinoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 24,
+          "text": "- Norton JA, Fraker DL, Alexander HR, et al.: Surgery increases survival in patients with gastrinoma. Ann Surg 244 (3): 410-9, 2006. [PUBMED Abstract]\n- Davies K, Conlon KC: Neuroendocrine tumors of the pancreas. Curr Gastroenterol Rep 11 (2): 119-27, 2009. [PUBMED Abstract]\n- Phan GQ, Yeo CJ, Hruban RH, et al.: Surgical experience with pancreatic and peripancreatic neuroendocrine tumors: Review of 125 patients. J Gastrointest Surg 2 (5): 473-82, 1998 Sep-Oct. [PUBMED Abstract]\n- Kazanjian KK, Reber HA, Hines OJ: Resection of pancreatic neuroendocrine tumors: results of 70 cases. Arch Surg 141 (8): 765-9; discussion 769-70, 2006. [PUBMED Abstract]\n- Hochwald SN, Zee S, Conlon KC, et al.: Prognostic factors in pancreatic endocrine neoplasms: an analysis of 136 cases with a proposal for low-grade and intermediate-grade groups. J Clin Oncol 20 (11): 2633-42, 2002. [PUBMED Abstract]\n- Sarmiento JM, Que FG: Hepatic surgery for metastases from neuroendocrine tumors. Surg Oncol Clin N Am 12 (1): 231-42, 2003. [PUBMED Abstract]\n- Gupta S, Johnson MM, Murthy R, et al.: Hepatic arterial embolization and chemoembolization for the treatment of patients with metastatic neuroendocrine tumors: variables affecting response rates and survival. Cancer 104 (8): 1590-602, 2005. [PUBMED Abstract]\n- Nguyen C, Faraggi M, Giraudet AL, et al.: Long-term efficacy of radionuclide therapy in patients with disseminated neuroendocrine tumors uncontrolled by conventional therapy. J Nucl Med 45 (10): 1660-8, 2004. [PUBMED Abstract]\n- Kennedy AS, Dezarn WA, McNeillie P, et al.: Radioembolization for unresectable neuroendocrine hepatic metastases using resin 90Y-microspheres: early results in 148 patients. Am J Clin Oncol 31 (3): 271-9, 2008. [PUBMED Abstract]\n- King J, Quinn R, Glenn DM, et al.: Radioembolization with selective internal radiation microspheres for neuroendocrine liver metastases. Cancer 113 (5): 921-9, 2008. [PUBMED Abstract]\n- Siperstein AE, Berber E: Cryoablation, percutaneous alcohol injection, and radiofrequency ablation for treatment of neuroendocrine liver metastases. World J Surg 25 (6): 693-6, 2001. [PUBMED Abstract]\n- Gurusamy KS, Ramamoorthy R, Sharma D, et al.: Liver resection versus other treatments for neuroendocrine tumours in patients with resectable liver metastases. Cochrane Database Syst Rev (2): CD007060, 2009. [PUBMED Abstract]\n- Gurusamy KS, Pamecha V, Sharma D, et al.: Palliative cytoreductive surgery versus other palliative treatments in patients with unresectable liver metastases from gastro-entero-pancreatic neuroendocrine tumours. Cochrane Database Syst Rev (1): CD007118, 2009. [PUBMED Abstract]\n- di Bartolomeo M, Bajetta E, Buzzoni R, et al.: Clinical efficacy of octreotide in the treatment of metastatic neuroendocrine tumors. A study by the Italian Trials in Medical Oncology Group. Cancer 77 (2): 402-8, 1996. [PUBMED Abstract]\n- Moertel CG, Lefkopoulo M, Lipsitz S, et al.: Streptozocin-doxorubicin, streptozocin-fluorouracil or chlorozotocin in the treatment of advanced islet-cell carcinoma. N Engl J Med 326 (8): 519-23, 1992. [PUBMED Abstract]\n- Kouvaraki MA, Ajani JA, Hoff P, et al.: Fluorouracil, doxorubicin, and streptozocin in the treatment of patients with locally advanced and metastatic pancreatic endocrine carcinomas. J Clin Oncol 22 (23): 4762-71, 2004. [PUBMED Abstract]\n- Kulke MH, Hornick JL, Frauenhoffer C, et al.: O6-methylguanine DNA methyltransferase deficiency and response to temozolomide-based therapy in patients with neuroendocrine tumors. Clin Cancer Res 15 (1): 338-45, 2009. [PUBMED Abstract]\n- Yao JC, Lombard-Bohas C, Baudin E, et al.: Daily oral everolimus activity in patients with metastatic pancreatic neuroendocrine tumors after failure of cytotoxic chemotherapy: a phase II trial. J Clin Oncol 28 (1): 69-76, 2010. [PUBMED Abstract]\n- Yao JC, Shah MH, Ito T, et al.: A randomized, double-blind, placebo-controlled multicenter phase III trial of everolimus in patients with advanced pancreatic neuroendocrine tumors (PNET) (RADIANT-3). [Abstract] Ann Oncol 21 (Suppl 8): A-LBA9, viii4-5, 2010.\n- Raymond E, Niccoli-Sire P, Bang Y: Updated results of the phase III trial of sunitinib (SU) versus placebo (PBO) for treatment of advanced pancreatic neuroendocrine tumors (NET). [Abstract] American Society of Clinical Oncology 2010 Gastrointestinal Cancers Symposium, 22–24 January 2010, Orlando, Florida. A-127, 2010.\n- Teunissen JJ, Kwekkeboom DJ, de Jong M, et al.: Endocrine tumours of the gastrointestinal tract. Peptide receptor radionuclide therapy. Best Pract Res Clin Gastroenterol 19 (4): 595-616, 2005. [PUBMED Abstract]\n- Kwekkeboom DJ, de Herder WW, Kam BL, et al.: Treatment with the radiolabeled somatostatin analog [177 Lu-DOTA 0,Tyr3]octreotate: toxicity, efficacy, and survival. J Clin Oncol 26 (13): 2124-30, 2008. [PUBMED Abstract]\n- Bushnell DL, O'Dorisio TM, O'Dorisio MS, et al.: 90Y-edotreotide for metastatic carcinoid refractory to octreotide. J Clin Oncol 28 (10): 1652-9, 2010. [PUBMED Abstract]\n- Kvols LK, Buck M, Moertel CG, et al.: Treatment of metastatic islet cell carcinoma with a somatostatin analogue (SMS 201-995). Ann Intern Med 107 (2): 162-8, 1987. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Insulinoma",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Insulinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "Curative surgical excision, by open laparotomy or laparoscopy, is the treatment of choice when possible. The open surgical approach is used if the tumor is suspected to be malignant because en bloc lymphadenectomy is performed for malignant tumors without distant metastases. Intraoperative ultrasonography aids the localization of tumor extent and the relationship to other anatomical structures.[ 1 ]\nTreatment options:\n- Single, small lesion in the head or tail of the pancreas:[ 1 - 4 ]\n- Enucleation, if feasible.\n- Large lesion in the head of the pancreas that is not amenable to enucleation:[ 1 - 4 ]\n- Pancreaticoduodenectomy.\n- Single, large lesion in the body/tail:[ 1 - 4 ]\n- Distal pancreatectomy.\n- Multiple lesions (may occur in 10% of patients, often in association with multiple endocrine neoplasia syndrome type 1):[ 1 - 4 ]\n- Distal pancreatectomy with enucleation of tumors in the head of the pancreas.\n- Metastatic lesions in lymph nodes or distant sites:[ 5 - 12 ]\n- Resect when possible.\n- Consider radiofrequency or cryosurgical ablation, if not resectable.\n- Unresectable:[ 13 - 22 ]\n- Combination chemotherapy.\n- Pharmacological palliation: diazoxide 300 to 500 mg/day.\n- Somatostatin analogue therapy.\nPatients with hepatic-dominant disease and substantial symptoms caused by tumor bulk or hormone-release syndromes may benefit from procedures that reduce hepatic arterial blood flow to metastases (hepatic arterial occlusion with embolization or with chemoembolization).[ 6 , 8 - 12 ] Such treatment may also be combined with systemic chemotherapy in selected patients."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Insulinoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Insulinoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "- Davies K, Conlon KC: Neuroendocrine tumors of the pancreas. Curr Gastroenterol Rep 11 (2): 119-27, 2009. [PUBMED Abstract]\n- Phan GQ, Yeo CJ, Hruban RH, et al.: Surgical experience with pancreatic and peripancreatic neuroendocrine tumors: Review of 125 patients. J Gastrointest Surg 2 (5): 473-82, 1998 Sep-Oct. [PUBMED Abstract]\n- Kazanjian KK, Reber HA, Hines OJ: Resection of pancreatic neuroendocrine tumors: results of 70 cases. Arch Surg 141 (8): 765-9; discussion 769-70, 2006. [PUBMED Abstract]\n- Hochwald SN, Zee S, Conlon KC, et al.: Prognostic factors in pancreatic endocrine neoplasms: an analysis of 136 cases with a proposal for low-grade and intermediate-grade groups. J Clin Oncol 20 (11): 2633-42, 2002. [PUBMED Abstract]\n- Sarmiento JM, Que FG: Hepatic surgery for metastases from neuroendocrine tumors. Surg Oncol Clin N Am 12 (1): 231-42, 2003. [PUBMED Abstract]\n- Gupta S, Johnson MM, Murthy R, et al.: Hepatic arterial embolization and chemoembolization for the treatment of patients with metastatic neuroendocrine tumors: variables affecting response rates and survival. Cancer 104 (8): 1590-602, 2005. [PUBMED Abstract]\n- Nguyen C, Faraggi M, Giraudet AL, et al.: Long-term efficacy of radionuclide therapy in patients with disseminated neuroendocrine tumors uncontrolled by conventional therapy. J Nucl Med 45 (10): 1660-8, 2004. [PUBMED Abstract]\n- Kennedy AS, Dezarn WA, McNeillie P, et al.: Radioembolization for unresectable neuroendocrine hepatic metastases using resin 90Y-microspheres: early results in 148 patients. Am J Clin Oncol 31 (3): 271-9, 2008. [PUBMED Abstract]\n- King J, Quinn R, Glenn DM, et al.: Radioembolization with selective internal radiation microspheres for neuroendocrine liver metastases. Cancer 113 (5): 921-9, 2008. [PUBMED Abstract]\n- Siperstein AE, Berber E: Cryoablation, percutaneous alcohol injection, and radiofrequency ablation for treatment of neuroendocrine liver metastases. World J Surg 25 (6): 693-6, 2001. [PUBMED Abstract]\n- Gurusamy KS, Ramamoorthy R, Sharma D, et al.: Liver resection versus other treatments for neuroendocrine tumours in patients with resectable liver metastases. Cochrane Database Syst Rev (2): CD007060, 2009. [PUBMED Abstract]\n- Gurusamy KS, Pamecha V, Sharma D, et al.: Palliative cytoreductive surgery versus other palliative treatments in patients with unresectable liver metastases from gastro-entero-pancreatic neuroendocrine tumours. Cochrane Database Syst Rev (1): CD007118, 2009. [PUBMED Abstract]\n- di Bartolomeo M, Bajetta E, Buzzoni R, et al.: Clinical efficacy of octreotide in the treatment of metastatic neuroendocrine tumors. A study by the Italian Trials in Medical Oncology Group. Cancer 77 (2): 402-8, 1996. [PUBMED Abstract]\n- Moertel CG, Lefkopoulo M, Lipsitz S, et al.: Streptozocin-doxorubicin, streptozocin-fluorouracil or chlorozotocin in the treatment of advanced islet-cell carcinoma. N Engl J Med 326 (8): 519-23, 1992. [PUBMED Abstract]\n- Kouvaraki MA, Ajani JA, Hoff P, et al.: Fluorouracil, doxorubicin, and streptozocin in the treatment of patients with locally advanced and metastatic pancreatic endocrine carcinomas. J Clin Oncol 22 (23): 4762-71, 2004. [PUBMED Abstract]\n- Kulke MH, Hornick JL, Frauenhoffer C, et al.: O6-methylguanine DNA methyltransferase deficiency and response to temozolomide-based therapy in patients with neuroendocrine tumors. Clin Cancer Res 15 (1): 338-45, 2009. [PUBMED Abstract]\n- Yao JC, Lombard-Bohas C, Baudin E, et al.: Daily oral everolimus activity in patients with metastatic pancreatic neuroendocrine tumors after failure of cytotoxic chemotherapy: a phase II trial. J Clin Oncol 28 (1): 69-76, 2010. [PUBMED Abstract]\n- Yao JC, Shah MH, Ito T, et al.: A randomized, double-blind, placebo-controlled multicenter phase III trial of everolimus in patients with advanced pancreatic neuroendocrine tumors (PNET) (RADIANT-3). [Abstract] Ann Oncol 21 (Suppl 8): A-LBA9, viii4-5, 2010.\n- Raymond E, Niccoli-Sire P, Bang Y: Updated results of the phase III trial of sunitinib (SU) versus placebo (PBO) for treatment of advanced pancreatic neuroendocrine tumors (NET). [Abstract] American Society of Clinical Oncology 2010 Gastrointestinal Cancers Symposium, 22–24 January 2010, Orlando, Florida. A-127, 2010.\n- Teunissen JJ, Kwekkeboom DJ, de Jong M, et al.: Endocrine tumours of the gastrointestinal tract. Peptide receptor radionuclide therapy. Best Pract Res Clin Gastroenterol 19 (4): 595-616, 2005. [PUBMED Abstract]\n- Kwekkeboom DJ, de Herder WW, Kam BL, et al.: Treatment with the radiolabeled somatostatin analog [177 Lu-DOTA 0,Tyr3]octreotate: toxicity, efficacy, and survival. J Clin Oncol 26 (13): 2124-30, 2008. [PUBMED Abstract]\n- Bushnell DL, O'Dorisio TM, O'Dorisio MS, et al.: 90Y-edotreotide for metastatic carcinoid refractory to octreotide. J Clin Oncol 28 (10): 1652-9, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Glucagonoma",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Glucagonoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "As with the other pancreatic neuroendocrine tumors, the mainstay of therapy is surgical resection, and extended survival is possible even when the disease is metastatic. Resection of metastases is also a consideration when feasible.[ 1 ]\nTreatment options:\n- Single, small lesion in the head or tail of the pancreas:[ 1 - 4 ]\n- Enucleation, if feasible.\n- Large lesion in the head of the pancreas that is not amenable to enucleation:[ 1 - 4 ]\n- Pancreaticoduodenectomy.\n- Single, large lesion in the body/tail:[ 1 - 4 ]\n- Distal pancreatectomy.\n- Multiple lesions:[ 1 - 4 ]\n- Enucleation, if feasible.\n- Resect body and tail otherwise.\n- Metastatic disease in lymph nodes or distant sites:[ 5 - 12 ]\n- Resect when possible.\n- Consider radiofrequency or cryosurgical ablation, if not resectable.\n- Unresectable disease:[ 13 - 22 ]\n- Combination chemotherapy.\n- Somatostatin analogue therapy. Necrotizing erythema of glucagonoma may be relieved in 24 hours with somatostatin analogue, with nearly complete disappearance within 1 week.\nPatients with hepatic-dominant disease and substantial symptoms caused by tumor bulk or hormone-release syndromes may benefit from procedures that reduce hepatic arterial blood flow to metastases (hepatic arterial occlusion with embolization or with chemoembolization).[ 6 , 8 - 12 ] Such treatment may also be combined with systemic chemotherapy in selected patients."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Glucagonoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Glucagonoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "- Davies K, Conlon KC: Neuroendocrine tumors of the pancreas. Curr Gastroenterol Rep 11 (2): 119-27, 2009. [PUBMED Abstract]\n- Phan GQ, Yeo CJ, Hruban RH, et al.: Surgical experience with pancreatic and peripancreatic neuroendocrine tumors: Review of 125 patients. J Gastrointest Surg 2 (5): 473-82, 1998 Sep-Oct. [PUBMED Abstract]\n- Kazanjian KK, Reber HA, Hines OJ: Resection of pancreatic neuroendocrine tumors: results of 70 cases. Arch Surg 141 (8): 765-9; discussion 769-70, 2006. [PUBMED Abstract]\n- Hochwald SN, Zee S, Conlon KC, et al.: Prognostic factors in pancreatic endocrine neoplasms: an analysis of 136 cases with a proposal for low-grade and intermediate-grade groups. J Clin Oncol 20 (11): 2633-42, 2002. [PUBMED Abstract]\n- Sarmiento JM, Que FG: Hepatic surgery for metastases from neuroendocrine tumors. Surg Oncol Clin N Am 12 (1): 231-42, 2003. [PUBMED Abstract]\n- Gupta S, Johnson MM, Murthy R, et al.: Hepatic arterial embolization and chemoembolization for the treatment of patients with metastatic neuroendocrine tumors: variables affecting response rates and survival. Cancer 104 (8): 1590-602, 2005. [PUBMED Abstract]\n- Nguyen C, Faraggi M, Giraudet AL, et al.: Long-term efficacy of radionuclide therapy in patients with disseminated neuroendocrine tumors uncontrolled by conventional therapy. J Nucl Med 45 (10): 1660-8, 2004. [PUBMED Abstract]\n- Kennedy AS, Dezarn WA, McNeillie P, et al.: Radioembolization for unresectable neuroendocrine hepatic metastases using resin 90Y-microspheres: early results in 148 patients. Am J Clin Oncol 31 (3): 271-9, 2008. [PUBMED Abstract]\n- King J, Quinn R, Glenn DM, et al.: Radioembolization with selective internal radiation microspheres for neuroendocrine liver metastases. Cancer 113 (5): 921-9, 2008. [PUBMED Abstract]\n- Siperstein AE, Berber E: Cryoablation, percutaneous alcohol injection, and radiofrequency ablation for treatment of neuroendocrine liver metastases. World J Surg 25 (6): 693-6, 2001. [PUBMED Abstract]\n- Gurusamy KS, Ramamoorthy R, Sharma D, et al.: Liver resection versus other treatments for neuroendocrine tumours in patients with resectable liver metastases. Cochrane Database Syst Rev (2): CD007060, 2009. [PUBMED Abstract]\n- Gurusamy KS, Pamecha V, Sharma D, et al.: Palliative cytoreductive surgery versus other palliative treatments in patients with unresectable liver metastases from gastro-entero-pancreatic neuroendocrine tumours. Cochrane Database Syst Rev (1): CD007118, 2009. [PUBMED Abstract]\n- di Bartolomeo M, Bajetta E, Buzzoni R, et al.: Clinical efficacy of octreotide in the treatment of metastatic neuroendocrine tumors. A study by the Italian Trials in Medical Oncology Group. Cancer 77 (2): 402-8, 1996. [PUBMED Abstract]\n- Moertel CG, Lefkopoulo M, Lipsitz S, et al.: Streptozocin-doxorubicin, streptozocin-fluorouracil or chlorozotocin in the treatment of advanced islet-cell carcinoma. N Engl J Med 326 (8): 519-23, 1992. [PUBMED Abstract]\n- Kouvaraki MA, Ajani JA, Hoff P, et al.: Fluorouracil, doxorubicin, and streptozocin in the treatment of patients with locally advanced and metastatic pancreatic endocrine carcinomas. J Clin Oncol 22 (23): 4762-71, 2004. [PUBMED Abstract]\n- Kulke MH, Hornick JL, Frauenhoffer C, et al.: O6-methylguanine DNA methyltransferase deficiency and response to temozolomide-based therapy in patients with neuroendocrine tumors. Clin Cancer Res 15 (1): 338-45, 2009. [PUBMED Abstract]\n- Yao JC, Lombard-Bohas C, Baudin E, et al.: Daily oral everolimus activity in patients with metastatic pancreatic neuroendocrine tumors after failure of cytotoxic chemotherapy: a phase II trial. J Clin Oncol 28 (1): 69-76, 2010. [PUBMED Abstract]\n- Yao JC, Shah MH, Ito T, et al.: A randomized, double-blind, placebo-controlled multicenter phase III trial of everolimus in patients with advanced pancreatic neuroendocrine tumors (PNET) (RADIANT-3). [Abstract] Ann Oncol 21 (Suppl 8): A-LBA9, viii4-5, 2010.\n- Raymond E, Niccoli-Sire P, Bang Y: Updated results of the phase III trial of sunitinib (SU) versus placebo (PBO) for treatment of advanced pancreatic neuroendocrine tumors (NET). [Abstract] American Society of Clinical Oncology 2010 Gastrointestinal Cancers Symposium, 22–24 January 2010, Orlando, Florida. A-127, 2010.\n- Teunissen JJ, Kwekkeboom DJ, de Jong M, et al.: Endocrine tumours of the gastrointestinal tract. Peptide receptor radionuclide therapy. Best Pract Res Clin Gastroenterol 19 (4): 595-616, 2005. [PUBMED Abstract]\n- Kwekkeboom DJ, de Herder WW, Kam BL, et al.: Treatment with the radiolabeled somatostatin analog [177 Lu-DOTA 0,Tyr3]octreotate: toxicity, efficacy, and survival. J Clin Oncol 26 (13): 2124-30, 2008. [PUBMED Abstract]\n- Bushnell DL, O'Dorisio TM, O'Dorisio MS, et al.: 90Y-edotreotide for metastatic carcinoid refractory to octreotide. J Clin Oncol 28 (10): 1652-9, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "VIPoma",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Miscellaneous Islet Cell Tumors",
+            "VIPoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Immediate fluid resuscitation is often necessary to correct the electrolyte and fluid problems that occur as a result of the watery diarrhea, hypokalemia, and achlorhydria that patients experience. Somatostatin analogues are also used to ameliorate the large fluid and electrolyte losses. Once patients are stabilized, excision of the primary tumor and regional nodes is the first line of therapy for clinically localized disease. In the case of locally advanced or metastatic disease, where curative resection is not possible, debulking and removal of gross disease, including metastases, should be considered to alleviate the characteristic manifestations of vasoactive intestinal peptide overproduction.[ 1 ] For more information, see the Treatment Option Overview for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) section."
+        },
+        {
+          "section": "Somatostatinoma",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Miscellaneous Islet Cell Tumors",
+            "Somatostatinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Complete excision is the therapy of choice, if technically possible. However, metastases often preclude curative resection, and palliative debulking can be considered to relieve symptoms.[ 1 ] For more information, see the Treatment Option Overview for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) section."
+        },
+        {
+          "section": "Other Pancreatic Neuroendocrine Tumors",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Miscellaneous Islet Cell Tumors",
+            "Other Pancreatic Neuroendocrine Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For these very rare tumors, complete surgical excision is the only curative option when technically possible. Debulking or somatostatin analogues are used for palliation of symptoms if the tumor is functional. For more information, see the Treatment Option Overview for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) section."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Miscellaneous Islet Cell Tumors",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Miscellaneous Islet Cell Tumors",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Davies K, Conlon KC: Neuroendocrine tumors of the pancreas. Curr Gastroenterol Rep 11 (2): 119-27, 2009. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Recurrent and Progressive Pancreatic Neuroendocrine Tumors",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent and Progressive Pancreatic Neuroendocrine Tumors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "There is no established therapy for pancreatic neuroendocrine tumors that recur or progress after previous therapy.[ 1 ] Deciding on further treatment depends on many factors, including:\n- The specific cancer.\n- Previous treatment.\n- Site of recurrence.\n- Individual patient considerations.\nAttempts at re-resection of local tumors that have recurred or re-resection of metastatic lesions may offer palliation, when technically feasible. Intra-arterial chemotherapy is a consideration for patients with liver metastases. Patients with hepatic-dominant disease and substantial symptoms caused by tumor bulk or hormone-release syndromes may benefit from continuous-infusion intra-arterial chemotherapy or procedures that reduce hepatic arterial blood flow to metastases (hepatic arterial occlusion with embolization or with chemoembolization).[ 2 - 7 ] Such treatment may also be combined with systemic chemotherapy. A variety of systemic agents have shown biological or palliative activity,[ 1 , 8 ] including:\n- Somatostatin analogues.\n- Radiolabeled somatostatin analogues.[ 9 - 11 ]\n- Tyrosine kinase inhibitors (e.g., sunitinib).\n- Temozolomide.\n- Vascular endothelial growth factor pathway inhibitors.\n- Mammalian target of rapamycin inhibitors (e.g., everolimus)."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent and Progressive Pancreatic Neuroendocrine Tumors",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent and Progressive Pancreatic Neuroendocrine Tumors",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Kulke MH, Siu LL, Tepper JE, et al.: Future directions in the treatment of neuroendocrine tumors: consensus report of the National Cancer Institute Neuroendocrine Tumor clinical trials planning meeting. J Clin Oncol 29 (7): 934-43, 2011. [PUBMED Abstract]\n- Gupta S, Johnson MM, Murthy R, et al.: Hepatic arterial embolization and chemoembolization for the treatment of patients with metastatic neuroendocrine tumors: variables affecting response rates and survival. Cancer 104 (8): 1590-602, 2005. [PUBMED Abstract]\n- Kennedy AS, Dezarn WA, McNeillie P, et al.: Radioembolization for unresectable neuroendocrine hepatic metastases using resin 90Y-microspheres: early results in 148 patients. Am J Clin Oncol 31 (3): 271-9, 2008. [PUBMED Abstract]\n- King J, Quinn R, Glenn DM, et al.: Radioembolization with selective internal radiation microspheres for neuroendocrine liver metastases. Cancer 113 (5): 921-9, 2008. [PUBMED Abstract]\n- Siperstein AE, Berber E: Cryoablation, percutaneous alcohol injection, and radiofrequency ablation for treatment of neuroendocrine liver metastases. World J Surg 25 (6): 693-6, 2001. [PUBMED Abstract]\n- Gurusamy KS, Ramamoorthy R, Sharma D, et al.: Liver resection versus other treatments for neuroendocrine tumours in patients with resectable liver metastases. Cochrane Database Syst Rev (2): CD007060, 2009. [PUBMED Abstract]\n- Gurusamy KS, Pamecha V, Sharma D, et al.: Palliative cytoreductive surgery versus other palliative treatments in patients with unresectable liver metastases from gastro-entero-pancreatic neuroendocrine tumours. Cochrane Database Syst Rev (1): CD007118, 2009. [PUBMED Abstract]\n- Yao JC, Lombard-Bohas C, Baudin E, et al.: Daily oral everolimus activity in patients with metastatic pancreatic neuroendocrine tumors after failure of cytotoxic chemotherapy: a phase II trial. J Clin Oncol 28 (1): 69-76, 2010. [PUBMED Abstract]\n- Teunissen JJ, Kwekkeboom DJ, de Jong M, et al.: Endocrine tumours of the gastrointestinal tract. Peptide receptor radionuclide therapy. Best Pract Res Clin Gastroenterol 19 (4): 595-616, 2005. [PUBMED Abstract]\n- Kwekkeboom DJ, de Herder WW, Kam BL, et al.: Treatment with the radiolabeled somatostatin analog [177 Lu-DOTA 0,Tyr3]octreotate: toxicity, efficacy, and survival. J Clin Oncol 26 (13): 2124-30, 2008. [PUBMED Abstract]\n- Bushnell DL, O'Dorisio TM, O'Dorisio MS, et al.: 90Y-edotreotide for metastatic carcinoid refractory to octreotide. J Clin Oncol 28 (10): 1652-9, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (05/09/2025)",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (05/09/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of pancreatic neuroendocrine tumors (islet cell tumors). It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 9,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewer for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment is:\n- Jaydira del Rivero, MD (National Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389309]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\8653cba951bcc111a8dc.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+      "title": "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+      "summary_name": "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment",
+      "url": "https://www.cancer.gov/types/pancreatic/patient/pnet-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "October 7, 2022",
+      "retrieved_at": "2026-08-31T07:13:24.011294+00:00",
+      "content_sha256": "4180e14fe10e3cf56fc82b2bafdd14301ca2ffc835c92dcf7297a68d826b7339",
+      "section_count": 40,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- Pancreatic neuroendocrine tumors form in hormone-making cells (islet cells) of the pancreas.\n- Pancreatic NETs may or may not cause signs or symptoms.\n- There are different kinds of functional pancreatic NETs.\n- Having certain syndromes can increase the risk of pancreatic NETs.\n- Different types of pancreatic NETs have different signs and symptoms.\n- Lab tests and imaging tests are used to diagnose pancreatic NETs.\n- Other kinds of lab tests are used to check for the specific type of pancreatic NETs.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Pancreatic neuroendocrine tumors form in hormone-making cells (islet cells) of the pancreas.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Pancreatic neuroendocrine tumors form in hormone-making cells (islet cells) of the pancreas."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "The pancreas is a gland about 6 inches long that is shaped like a thin pear lying on its side. The wider end of the pancreas is called the head, the middle section is called the body, and the narrow end is called the tail. The pancreas lies behind the stomach and in front of the spine . Enlarge Anatomy of the pancreas. The pancreas has three areas: the head, body, and tail. It is found in the abdomen near the stomach, intestines, and other organs.\nThere are two kinds of cells in the pancreas:\n- Endocrine pancreas cells make several kinds of hormones (chemicals that control the actions of certain cells or organs in the body), such as insulin to control blood sugar. They cluster together in many small groups (islets) throughout the pancreas. Endocrine pancreas cells are also called islet cells or islets of Langerhans. Tumors that form in islet cells are called islet cell tumors , pancreatic endocrine tumors, or pancreatic neuroendocrine tumors (pancreatic NETs).\n- Exocrine pancreas cells make enzymes that are released into the small intestine to help the body digest food. Most of the pancreas is made of ducts with small sacs at the end of the ducts, which are lined with exocrine cells .\nThis summary discusses islet cell tumors of the endocrine pancreas. See the PDQ summary on Pancreatic Cancer Treatment for information on exocrine pancreatic cancer .\nPancreatic neuroendocrine tumors (NETs) may be benign (not cancer ) or malignant (cancer). When pancreatic NETs are malignant, they are called pancreatic endocrine cancer or islet cell carcinoma.\nPancreatic NETs are much less common than pancreatic exocrine tumors and have a better prognosis ."
+        },
+        {
+          "section": "Pancreatic NETs may or may not cause signs or symptoms.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Pancreatic NETs may or may not cause signs or symptoms."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Pancreatic NETs may be functional or nonfunctional :\n- Functional tumors make extra amounts of hormones, such as gastrin , insulin, and glucagon , that cause signs and symptoms .\n- Nonfunctional tumors do not make extra amounts of hormones. Signs and symptoms are caused by the tumor as it spreads and grows. Most nonfunctional tumors are malignant (cancer).\nMost pancreatic NETs are functional tumors."
+        },
+        {
+          "section": "There are different kinds of functional pancreatic NETs.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "There are different kinds of functional pancreatic NETs."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Pancreatic NETs make different kinds of hormones such as gastrin, insulin, and glucagon. Functional pancreatic NETs include the following:\n- Gastrinoma : A tumor that forms in cells that make gastrin. Gastrin is a hormone that causes the stomach to release an acid that helps digest food. Both gastrin and stomach acid are increased by gastrinomas. When increased stomach acid , stomach ulcers , and diarrhea are caused by a tumor that makes gastrin, it is called Zollinger-Ellison syndrome . A gastrinoma usually forms in the head of the pancreas and sometimes forms in the small intestine. Most gastrinomas are malignant (cancer).\n- Insulinoma : A tumor that forms in cells that make insulin. Insulin is a hormone that controls the amount of glucose (sugar) in the blood. It moves glucose into the cells, where it can be used by the body for energy. Insulinomas are usually slow-growing tumors that rarely spread. An insulinoma forms in the head, body, or tail of the pancreas. Insulinomas are usually benign (not cancer).\n- Glucagonoma : A tumor that forms in cells that make glucagon. Glucagon is a hormone that increases the amount of glucose in the blood. It causes the liver to break down glycogen. Too much glucagon causes hyperglycemia ( high blood sugar ). A glucagonoma usually forms in the tail of the pancreas. Most glucagonomas are malignant (cancer).\n- Other types of tumors : There are other rare types of functional pancreatic NETs that make hormones, including hormones that control the balance of sugar, salt, and water in the body. These tumors include: These other types of tumors are grouped together because they are treated in much the same way.\n- VIPomas, which make vasoactive intestinal peptide . VIPoma may also be called Verner-Morrison syndrome.\n- Somatostatinomas, which make somatostatin."
+        },
+        {
+          "section": "Having certain syndromes can increase the risk of pancreatic NETs.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Having certain syndromes can increase the risk of pancreatic NETs."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Anything that increases your risk of getting a disease is called a risk factor . Having a risk factor does not mean that you will get cancer; not having risk factors doesn't mean that you will not get cancer. Talk with your doctor if you think you may be at risk.\nMultiple endocrine neoplasia type 1 (MEN1) syndrome is a risk factor for pancreatic NETs."
+        },
+        {
+          "section": "Different types of pancreatic NETs have different signs and symptoms.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Different types of pancreatic NETs have different signs and symptoms."
+          ],
+          "is_boilerplate": false,
+          "block_count": 50,
+          "text": "Signs or symptoms can be caused by the growth of the tumor and/or by hormones the tumor makes or by other conditions . Some tumors may not cause signs or symptoms. Check with your doctor if you have any of these problems.\nSigns and symptoms of a non-functional pancreatic NET\nA non-functional pancreatic NET may grow for a long time without causing signs or symptoms. It may grow large or spread to other parts of the body before it causes signs or symptoms, such as:\n- Diarrhea.\n- Indigestion.\n- A lump in the abdomen .\n- Pain in the abdomen or back.\n- Yellowing of the skin and whites of the eyes.\nSigns and symptoms of a functional pancreatic NET\nThe signs and symptoms of a functional pancreatic NET depend on the type of hormone being made.\nToo much gastrin may cause:\n- Stomach ulcers that keep coming back.\n- Pain in the abdomen, which may spread to the back. The pain may come and go and it may go away after taking an antacid.\n- The flow of stomach contents back into the esophagus ( gastroesophageal reflux ).\n- Diarrhea.\nToo much insulin may cause:\n- Low blood sugar . This can cause blurred vision, headache, and feeling lightheaded, tired, weak, shaky, nervous, irritable, sweaty, confused, or hungry.\n- Fast heartbeat.\nToo much glucagon may cause:\n- Skin rash on the face, stomach, or legs.\n- High blood sugar. This can cause headaches, frequent urination , dry skin and mouth, or feeling hungry, thirsty, tired, or weak.\n- Blood clots . Blood clots in the lung can cause shortness of breath, cough, or pain in the chest. Blood clots in the arm or leg can cause pain, swelling, warmth, or redness of the arm or leg.\n- Diarrhea.\n- Weight loss for no known reason.\n- Sore tongue or sores at the corners of the mouth.\nToo much vasoactive intestinal peptide (VIP) may cause:\n- Very large amounts of watery diarrhea.\n- Dehydration . This can cause feeling thirsty, making less urine , dry skin and mouth, headaches, dizziness, or feeling tired.\n- Low potassium level in the blood. This can cause muscle weakness, aching, or cramps, numbness and tingling, frequent urination, fast heartbeat, and feeling confused or thirsty.\n- Cramps or pain in the abdomen.\n- Weight loss for no known reason.\nToo much somatostatin may cause:\n- High blood sugar. This can cause headaches, frequent urination, dry skin and mouth, or feeling hungry, thirsty, tired, or weak.\n- Diarrhea.\n- Steatorrhea (very foul-smelling stool that floats).\n- Gallstones .\n- Yellowing of the skin and whites of the eyes.\n- Weight loss for no known reason.\nA pancreatic NET may also make too much adrenocorticotropic hormone (ACTH) and cause Cushing syndrome . Signs and symptoms of Cushing syndrome include the following:\n- Headache.\n- Some loss of vision.\n- Weight gain in the face, neck, and trunk of the body, and thin arms and legs.\n- A lump of fat on the back of the neck.\n- Thin skin that may have purple or pink stretch marks on the chest or abdomen.\n- Easy bruising.\n- Growth of fine hair on the face, upper back, or arms.\n- Bones that break easily.\n- Sores or cuts that heal slowly.\n- Anxiety , irritability, and depression .\nThe treatment of pancreatic NETs that make too much ACTH and Cushing syndrome are not discussed in this summary."
+        },
+        {
+          "section": "Lab tests and imaging tests are used to diagnose pancreatic NETs.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Lab tests and imaging tests are used to diagnose pancreatic NETs."
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "The following tests and procedures may be used:\n- Physical exam and health history : An exam of the body to check general signs of health, including checking for signs of disease, such as lumps or anything else that seems unusual. A history of the patient’s health habits and past illnesses and treatments will also be taken.\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances, such as glucose (sugar), released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease.\n- Chromogranin A test : A test in which a blood sample is checked to measure the amount of chromogranin A in the blood. A higher than normal amount of chromogranin A and normal amounts of hormones such as gastrin, insulin, and glucagon can be a sign of a non-functional pancreatic NET.\n- Abdominal CT scan (CAT scan) : A procedure that makes a series of detailed pictures of the abdomen, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- Somatostatin receptor scintigraphy : A type of radionuclide scan that may be used to find small pancreatic NETs. A small amount of radioactive octreotide (a hormone that attaches to tumors) is injected into a vein and travels through the blood. The radioactive octreotide attaches to the tumor and a special camera that detects radioactivity is used to show where the tumors are in the body. This procedure is also called octreotide scan and SRS.\n- Endoscopic ultrasound (EUS) : A procedure in which an endoscope is inserted into the body, usually through the mouth or rectum . An endoscope is a thin, tube-like instrument with a light and a lens for viewing. A probe at the end of the endoscope is used to bounce high-energy sound waves ( ultrasound ) off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram . This procedure is also called endosonography.\n- Endoscopic retrograde cholangiopancreatography (ERCP) : A procedure used to x-ray the ducts (tubes) that carry bile from the liver to the gallbladder and from the gallbladder to the small intestine. Sometimes pancreatic cancer causes these ducts to narrow and block or slow the flow of bile, causing jaundice . An endoscope is passed through the mouth, esophagus, and stomach into the first part of the small intestine. An endoscope is a thin, tube-like instrument with a light and a lens for viewing. A catheter (a smaller tube) is then inserted through the endoscope into the pancreatic ducts. A dye is injected through the catheter into the ducts and an x-ray is taken. If the ducts are blocked by a tumor, a fine tube may be inserted into the duct to unblock it. This tube (or stent ) may be left in place to keep the duct open. Tissue samples may also be taken and checked under a microscope for signs of cancer.\n- Angiogram : A procedure to look at blood vessels and the flow of blood. A contrast dye is injected into the blood vessel. As the contrast dye moves through the blood vessel, x-rays are taken to see if there are any blockages.\n- Laparotomy : A surgical procedure in which an incision (cut) is made in the wall of the abdomen to check the inside of the abdomen for signs of disease. The size of the incision depends on the reason the laparotomy is being done. Sometimes organs are removed or tissue samples are taken and checked under a microscope for signs of disease.\n- Intraoperative ultrasound : A procedure that uses high-energy sound waves (ultrasound) to create images of internal organs or tissues during surgery. A transducer placed directly on the organ or tissue is used to make the sound waves, which create echoes. The transducer receives the echoes and sends them to a computer, which uses the echoes to make pictures called sonograms.\n- Biopsy : The removal of cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer. There are several ways to do a biopsy for pancreatic NETs. Cells may be removed using a fine or wide needle inserted into the pancreas during an x-ray or ultrasound. Tissue may also be removed during a laparoscopy (a surgical incision made in the wall of the abdomen).\n- Bone scan : A procedure to check if there are rapidly dividing cells, such as cancer cells, in the bone. A very small amount of radioactive material is injected into a vein and travels through the bloodstream. The radioactive material collects in bones with cancer and is detected by a scanner ."
+        },
+        {
+          "section": "Other kinds of lab tests are used to check for the specific type of pancreatic NETs.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Other kinds of lab tests are used to check for the specific type of pancreatic NETs."
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "The following tests and procedures may be used:\nGastrinoma\n- Fasting serum gastrin test : A test in which a blood sample is checked to measure the amount of gastrin in the blood. This test is done after the patient has had nothing to eat or drink for at least 8 hours. Conditions other than gastrinoma can cause an increase in the amount of gastrin in the blood.\n- Basal acid output test : A test to measure the amount of acid made by the stomach. The test is done after the patient has had nothing to eat or drink for at least 8 hours. A tube is inserted through the nose or throat , into the stomach. The stomach contents are removed and four samples of gastric acid are removed through the tube. These samples are used to find out the amount of gastric acid made during the test and the pH level of the gastric secretions .\n- Secretin stimulation test : If the basal acid output test result is not normal, a secretin stimulation test may be done. The tube is moved into the small intestine and samples are taken from the small intestine after a drug called secretin is injected. Secretin causes the small intestine to make acid. When there is a gastrinoma, the secretin causes an increase in how much gastric acid is made and the level of gastrin in the blood.\n- Somatostatin receptor scintigraphy : A type of radionuclide scan that may be used to find small pancreatic NETs. A small amount of radioactive octreotide (a hormone that attaches to tumors) is injected into a vein and travels through the blood. The radioactive octreotide attaches to the tumor and a special camera that detects radioactivity is used to show where the tumors are in the body. This procedure is also called octreotide scan and SRS.\nInsulinoma\n- Fasting serum glucose and insulin test : A test in which a blood sample is checked to measure the amounts of glucose (sugar) and insulin in the blood. The test is done after the patient has had nothing to eat or drink for at least 24 hours.\nGlucagonoma\n- Fasting serum glucagon test : A test in which a blood sample is checked to measure the amount of glucagon in the blood. The test is done after the patient has had nothing to eat or drink for at least 8 hours.\nOther tumor types\n- VIPoma\n- Serum VIP (vasoactive intestinal peptide) test : A test in which a blood sample is checked to measure the amount of VIP.\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease. In VIPoma, there is a lower than normal amount of potassium.\n- Stool analysis : A stool sample is checked for a higher than normal sodium (salt) and potassium levels.\n- Somatostatinoma\n- Fasting serum somatostatin test : A test in which a blood sample is checked to measure the amount of somatostatin in the blood. The test is done after the patient has had nothing to eat or drink for at least 8 hours.\n- Somatostatin receptor scintigraphy : A type of radionuclide scan that may be used to find small pancreatic NETs. A small amount of radioactive octreotide (a hormone that attaches to tumors) is injected into a vein and travels through the blood. The radioactive octreotide attaches to the tumor and a special camera that detects radioactivity is used to show where the tumors are in the body. This procedure is also called octreotide scan and SRS."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "General Information About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Pancreatic NETs can often be cured . The prognosis and treatment options depend on the following:\n- The type of cancer cell.\n- Where the tumor is found in the pancreas.\n- Whether the tumor has spread to more than one place in the pancreas or to other parts of the body.\n- Whether the patient has MEN1 syndrome.\n- The patient's age and general health.\n- Whether the cancer has just been diagnosed or has recurred (come back)."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Neuroendocrine Tumors",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- The plan for cancer treatment depends on where the NET is found in the pancreas and whether it has spread.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- Pancreatic NETs can recur (come back) after they have been treated."
+        },
+        {
+          "section": "The plan for cancer treatment depends on where the NET is found in the pancreas and whether it has spread.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Neuroendocrine Tumors",
+            "The plan for cancer treatment depends on where the NET is found in the pancreas and whether it has spread."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The process used to find out if cancer has spread within the pancreas or to other parts of the body is called staging . The results of the tests and procedures used to diagnose pancreatic neuroendocrine tumors (NETs) are also used to find out whether the cancer has spread. See the General Information section for a description of these tests and procedures.\nAlthough there is a standard staging system for pancreatic NETs, it is not used to plan treatment. Treatment of pancreatic NETs is based on the following:\n- Whether the cancer is found in one place in the pancreas .\n- Whether the cancer is found in several places in the pancreas.\n- Whether the cancer has spread to lymph nodes near the pancreas or to other parts of the body such as the liver , lung , peritoneum , or bone."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Neuroendocrine Tumors",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Neuroendocrine Tumors",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of tumor as the primary tumor. For example, if a pancreatic neuroendocrine tumor spreads to the liver, the tumor cells in the liver are actually neuroendocrine tumor cells. The disease is metastatic pancreatic neuroendocrine tumor, not liver cancer."
+        },
+        {
+          "section": "Pancreatic NETs can recur (come back) after they have been treated.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Stages of Pancreatic Neuroendocrine Tumors",
+            "Pancreatic NETs can recur (come back) after they have been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The tumors may come back in the pancreas or in other parts of the body."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "- There are different types of treatment for patients with pancreatic NETs.\n- The following types of treatment are used:\n- Surgery\n- Chemotherapy\n- Hormone therapy\n- Hepatic arterial occlusion or chemoembolization\n- Targeted therapy\n- Supportive care\n- New types of treatment are being tested in clinical trials.\n- Treatment for pancreatic neuroendocrine tumors may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with pancreatic NETs.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with pancreatic NETs."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatments are available for patients with pancreatic neuroendocrine tumors (NETs). Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "An operation may be done to remove the tumor . One of the following types of surgery may be used:\n- Enucleation : Surgery to remove the tumor only. This may be done when cancer occurs in one place in the pancreas .\n- Pancreatoduodenectomy : A surgical procedure in which the head of the pancreas, the gallbladder , nearby lymph nodes and part of the stomach , small intestine , and bile duct are removed. Enough of the pancreas is left to make digestive juices and insulin . The organs removed during this procedure depend on the patient's condition . This is also called the Whipple procedure .\n- Distal pancreatectomy : Surgery to remove the body and tail of the pancreas. The spleen may also be removed if cancer has spread to the spleen.\n- Total gastrectomy : Surgery to remove the whole stomach.\n- Parietal cell vagotomy : Surgery to cut the nerve that causes stomach cells to make acid .\n- Liver resection : Surgery to remove part or all of the liver.\n- Radiofrequency ablation : The use of a special probe with tiny electrodes that kill cancer cells. Sometimes the probe is inserted directly through the skin and only local anesthesia is needed. In other cases, the probe is inserted through an incision in the abdomen . This is done in the hospital with general anesthesia .\n- Cryosurgical ablation : A procedure in which tissue is frozen to destroy abnormal cells. This is usually done with a special instrument that contains liquid nitrogen or liquid carbon dioxide . The instrument may be used during surgery or laparoscopy or inserted through the skin. This procedure is also called cryoablation ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). When chemotherapy is placed directly into the cerebrospinal fluid , an organ, or a body cavity such as the abdomen, the drugs mainly affect cancer cells in those areas ( regional chemotherapy ). Combination chemotherapy is the use of more than one anticancer drug. The way the chemotherapy is given depends on the type of the cancer being treated."
+        },
+        {
+          "section": "Hormone therapy",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Hormone therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Hormone therapy is a cancer treatment that removes hormones or blocks their action and stops cancer cells from growing. Hormones are substances made by glands in the body and circulated in the bloodstream. Some hormones can cause certain cancers to grow. If tests show that the cancer cells have places where hormones can attach ( receptors ), drugs, surgery, or radiation therapy is used to reduce the production of hormones or block them from working."
+        },
+        {
+          "section": "Hepatic arterial occlusion or chemoembolization",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Hepatic arterial occlusion or chemoembolization"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Hepatic arterial occlusion uses drugs, small particles, or other agents to block or reduce the flow of blood to the liver through the hepatic artery (the major blood vessel that carries blood to the liver). This is done to kill cancer cells growing in the liver. The tumor is prevented from getting the oxygen and nutrients it needs to grow. The liver continues to receive blood from the hepatic portal vein , which carries blood from the stomach and intestine .\nChemotherapy delivered during hepatic arterial occlusion is called chemoembolization . The anticancer drug is injected into the hepatic artery through a catheter (thin tube). The drug is mixed with the substance that blocks the artery and cuts off blood flow to the tumor. Most of the anticancer drug is trapped near the tumor and only a small amount of the drug reaches other parts of the body.\nThe blockage may be temporary or permanent, depending on the substance used to block the artery."
+        },
+        {
+          "section": "Targeted therapy",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Targeted therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Targeted therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells. Targeted therapies usually cause less harm to normal cells than chemotherapy or radiation therapy do. Certain types of targeted therapies are being studied in the treatment of pancreatic NETs."
+        },
+        {
+          "section": "Supportive care",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Supportive care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Supportive care is given to lessen the problems caused by the disease or its treatment. Supportive care for pancreatic NETs may include treatment for the following:\n- Stomach ulcers may be treated with drug therapy such as:\n- Proton pump inhibitor drugs such as omeprazole , lansoprazole , or pantoprazole.\n- Histamine blocking drugs such as cimetidine , ranitidine, or famotidine.\n- Somatostatin-type drugs such as octreotide .\n- Diarrhea may be treated with:\n- Intravenous (IV) fluids with electrolytes such as potassium or chloride.\n- Somatostatin-type drugs such as octreotide.\n- Low blood sugar may be treated by having small, frequent meals or with drug therapy to maintain a normal blood sugar level.\n- High blood sugar may be treated with drugs taken by mouth or insulin by injection ."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Treatment for pancreatic neuroendocrine tumors may cause side effects.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for pancreatic neuroendocrine tumors may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Gastrinoma",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment of Gastrinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 26,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of gastrinoma may include supportive care and the following:\n- For symptoms caused by too much stomach acid , treatment may be a drug that decreases the amount of acid made by the stomach.\n- For a single tumor in the head of the pancreas :\n- Surgery to remove the tumor.\n- Surgery to cut the nerve that causes stomach cells to make acid and treatment with a drug that decreases stomach acid.\n- Surgery to remove the whole stomach (rare).\n- For a single tumor in the body or tail of the pancreas, treatment is usually surgery to remove the body or tail of the pancreas.\n- For several tumors in the pancreas, treatment is usually surgery to remove the body or tail of the pancreas. If tumor remains after surgery, treatment may include either:\n- Surgery to cut the nerve that causes stomach cells to make acid and treatment with a drug that decreases stomach acid; or\n- Surgery to remove the whole stomach (rare).\n- For one or more tumors in the duodenum (the part of the small intestine that connects to the stomach), treatment is usually pancreatoduodenectomy (surgery to remove the head of the pancreas, the gallbladder , nearby lymph nodes and part of the stomach , small intestine , and bile duct ).\n- If no tumor is found, treatment may include the following:\n- Surgery to cut the nerve that causes stomach cells to make acid and treatment with a drug that decreases stomach acid.\n- Surgery to remove the whole stomach (rare).\n- If the cancer has spread to the liver , treatment may include:\n- Surgery to remove part or all of the liver.\n- Radiofrequency ablation or cryosurgical ablation .\n- Chemoembolization .\n- If cancer has spread to other parts of the body or does not get better with surgery or drugs to decrease stomach acid, treatment may include:\n- Chemotherapy .\n- Hormone therapy .\n- If the cancer mostly affects the liver and the patient has severe symptoms from hormones or from the size of tumor, treatment may include:\n- Hepatic arterial occlusion , with or without systemic chemotherapy .\n- Chemoembolization, with or without systemic chemotherapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Insulinoma",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment of Insulinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of insulinoma may include the following:\n- For one small tumor in the head or tail of the pancreas , treatment is usually surgery to remove the tumor.\n- For one large tumor in the head of the pancreas that cannot be removed by surgery, treatment is usually pancreatoduodenectomy (surgery to remove the head of the pancreas, the gallbladder , nearby lymph nodes and part of the stomach , small intestine , and bile duct ).\n- For one large tumor in the body or tail of the pancreas, treatment is usually a distal pancreatectomy (surgery to remove the body and tail of the pancreas).\n- For more than one tumor in the pancreas, treatment is usually surgery to remove any tumors in the head of the pancreas and the body and tail of the pancreas.\n- For tumors that cannot be removed by surgery, treatment may include the following:\n- Combination chemotherapy .\n- Palliative drug therapy to decrease the amount of insulin made by the pancreas.\n- Hormone therapy .\n- Radiofrequency ablation or cryosurgical ablation.\n- For cancer that has spread to lymph nodes or other parts of the body, treatment may include the following:\n- Surgery to remove the cancer.\n- Radiofrequency ablation or cryosurgical ablation , if the cancer cannot be removed by surgery.\n- If the cancer mostly affects the liver and the patient has severe symptoms from hormones or from the size of tumor, treatment may include:\n- Hepatic arterial occlusion , with or without systemic chemotherapy .\n- Chemoembolization , with or without systemic chemotherapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Glucagonoma",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment of Glucagonoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment may include the following:\n- For one small tumor in the head or tail of the pancreas , treatment is usually surgery to remove the tumor.\n- For one large tumor in the head of the pancreas that cannot be removed by surgery, treatment is usually pancreatoduodenectomy (surgery to remove the head of the pancreas, the gallbladder , nearby lymph nodes and part of the stomach , small intestine , and bile duct ).\n- For more than one tumor in the pancreas, treatment is usually surgery to remove the tumor or surgery to remove the body and tail of the pancreas.\n- For tumors that cannot be removed by surgery, treatment may include the following:\n- Combination chemotherapy .\n- Hormone therapy .\n- Radiofrequency ablation or cryosurgical ablation.\n- For cancer that has spread to lymph nodes or other parts of the body, treatment may include the following:\n- Surgery to remove the cancer.\n- Radiofrequency ablation or cryosurgical ablation , if the cancer cannot be removed by surgery.\n- If the cancer mostly affects the liver and the patient has severe symptoms from hormones or from the size of tumor, treatment may include:\n- Hepatic arterial occlusion , with or without systemic chemotherapy .\n- Chemoembolization , with or without systemic chemotherapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Other Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment of Other Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 24,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nFor VIPoma, treatment may include the following:\n- Fluids and hormone therapy to replace fluids and electrolytes that have been lost from the body.\n- Surgery to remove the tumor and nearby lymph nodes .\n- Surgery to remove as much of the tumor as possible when the tumor cannot be completely removed or has spread to distant parts of the body. This is palliative therapy to relieve symptoms and improve the quality of life .\n- For tumors that have spread to lymph nodes or other parts of the body, treatment may include the following:\n- Surgery to remove the tumor.\n- Radiofrequency ablation or cryosurgical ablation , if the tumor cannot be removed by surgery.\n- For tumors that continue to grow during treatment or have spread to other parts of the body, treatment may include the following:\n- Chemotherapy .\n- Targeted therapy .\nFor somatostatinoma, treatment may include the following:\n- Surgery to remove the tumor.\n- For cancer that has spread to distant parts of the body, surgery to remove as much of the cancer as possible to relieve symptoms and improve quality of life.\n- For tumors that continue to grow during treatment or have spread to other parts of the body, treatment may include the following:\n- Chemotherapy.\n- Targeted therapy.\nTreatment of other types of pancreatic neuroendocrine tumors (NETs) may include the following:\n- Surgery to remove the tumor.\n- For cancer that has spread to distant parts of the body, surgery to remove as much of the cancer as possible or hormone therapy to relieve symptoms and improve quality of life.\n- For tumors that continue to grow during treatment or have spread to other parts of the body, treatment may include the following:\n- Chemotherapy.\n- Targeted therapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent or Progressive Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent or Progressive Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of pancreatic neuroendocrine tumors (NETs) that continue to grow during treatment or recur (come back) may include the following:\n- Surgery to remove the tumor .\n- Chemotherapy .\n- Hormone therapy .\n- Targeted therapy .\n- For liver metastases :\n- Regional chemotherapy .\n- Hepatic arterial occlusion or chemoembolization , with or without systemic chemotherapy .\n- A clinical trial of a new therapy ."
+        },
+        {
+          "section": "To Learn More About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent or Progressive Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)",
+            "To Learn More About Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "For more information from the National Cancer Institute about pancreatic neuroendocrine tumors (NETs), see the following:\n- Pancreatic Cancer Home Page\n- Targeted Cancer Therapies\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of pancreatic neuroendocrine tumors (islet cell tumors). It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/pancreatic/patient/pnet-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389340]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\8547114b7142d221bfb0.html"
+    }
+  ]
+}

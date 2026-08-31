@@ -1,0 +1,1114 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Small Cell Lung Cancer",
+  "generated_at": "2026-08-31T07:15:23.541034+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Small Cell Lung Cancer",
+      "title": "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Small Cell Lung Cancer Treatment",
+      "url": "https://www.cancer.gov/types/lung/hp/small-cell-lung-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "May 14, 2025",
+      "retrieved_at": "2026-08-31T07:12:05.865049+00:00",
+      "content_sha256": "a85c94443fe8bb3a1015c3eb5a0a6b9de24d77a502493e8dd6866f54d2592cfd",
+      "section_count": 57,
+      "sections": [
+        {
+          "section": "General Information About Small Cell Lung Cancer (SCLC)",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Small Cell Lung Cancer (SCLC)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "SCLC accounts for approximately 15% of bronchogenic carcinomas.\nAt the time of diagnosis, approximately 30% of patients with SCLC have tumors confined to the hemithorax of origin, mediastinum, or supraclavicular lymph nodes. These patients have limited-stage disease (LD).[ 1 ] Patients with tumors that have spread beyond the supraclavicular areas have extensive-stage disease (ED).\nSCLC is more responsive to chemotherapy and radiation therapy than other cell types of lung cancer. However, a cure is difficult to achieve because SCLC has a greater tendency to be widely disseminated by the time of diagnosis."
+        },
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Small Cell Lung Cancer (SCLC)",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The overall incidence and mortality rates of SCLC in the United States have decreased during the past few decades.[ 2 ]\nEstimated new cases and deaths from lung cancer (SCLC and non-small cell lung cancer [NSCLC] combined) in the United States in 2025:[ 3 ]\n- New cases: 226,650.\n- Deaths: 124,730."
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Small Cell Lung Cancer (SCLC)",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Increasing age is the most important risk factor for most cancers. Other risk factors for lung cancer include:\n- History of or current tobacco use: cigarettes, pipes, and cigars.[ 4 ]\n- Exposure to cancer-causing substances in secondhand smoke.[ 5 , 6 ]\n- Occupational exposure to asbestos, arsenic, chromium, beryllium, nickel, and other agents.[ 7 ]\n- Radiation exposure from any of the following sources:\n- Radiation therapy to the breast or chest.[ 8 ]\n- Radon exposure in the home or workplace.[ 9 ]\n- Medical imaging tests, such as computed tomography (CT) scans.[ 10 ]\n- Atomic bomb radiation.[ 11 ]\n- Living in an area with air pollution.[ 12 - 14 ]\n- Family history of lung cancer.[ 15 ]\n- HIV infection.[ 16 ]\n- Beta carotene supplements in heavy smokers.[ 17 , 18 ]"
+        },
+        {
+          "section": "Clinical Features",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Small Cell Lung Cancer (SCLC)",
+            "Clinical Features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Lung cancer may present with symptoms or be found incidentally on chest imaging. Symptoms and signs may result from the location of the primary local invasion or compression of adjacent thoracic structures, distant metastases, or paraneoplastic phenomena. The most common symptoms at presentation are worsening cough and dyspnea. Other presenting symptoms include:\n- Chest pain.\n- Hoarseness.\n- Malaise.\n- Anorexia.\n- Weight loss.\n- Hemoptysis.\nSymptoms may result from local invasion or compression of adjacent thoracic structures, such as compression involving the esophagus causing dysphagia, compression involving the laryngeal nerves causing hoarseness, or compression involving the superior vena cava causing facial edema and distension of the superficial veins of the head and neck. Symptoms from distant metastases may also be present and include neurological defects or personality changes from brain metastases and pain from bone metastases.\nInfrequently, patients with SCLC may present with symptoms and signs of one of the following paraneoplastic syndromes:\n- Inappropriate antidiuretic hormone secretion.\n- Cushing syndrome from secretion of adrenocorticotropic hormone.\n- Paraneoplastic cerebellar degeneration.\n- Lambert-Eaton myasthenic syndrome.[ 2 ]\nPhysical examination may identify enlarged supraclavicular lymphadenopathy, pleural effusion or lobar collapse, unresolved pneumonia, or signs of associated disease such as chronic obstructive pulmonary disease."
+        },
+        {
+          "section": "Diagnosis",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Small Cell Lung Cancer (SCLC)",
+            "Diagnosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Treatment options for patients are determined by histology, stage, and general health and comorbidities of the patient. Investigations of patients with suspected SCLC focus on confirming the diagnosis and determining the extent of the disease.\nThe procedures used to determine the presence of cancer include:\n- History.\n- Physical examination.\n- Routine laboratory evaluations.\n- Chest x-ray.\n- Chest CT scan with infusion of contrast material.\n- Biopsy.\nBefore a patient begins lung cancer treatment, an experienced lung cancer pathologist must review the pathological material. This is critical because SCLC, which responds well to chemotherapy and is generally not treated surgically, can be confused on microscopic examination with NSCLC.[ 19 ] Immunohistochemistry and electron microscopy are invaluable techniques for diagnosis and subclassification, but most lung tumors can be classified by light microscopic criteria.\nFor more information, see the Staging Evaluation section."
+        },
+        {
+          "section": "Prognosis and Survival",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Small Cell Lung Cancer (SCLC)",
+            "Prognosis and Survival"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Regardless of stage, the prognosis for patients with SCLC is unsatisfactory despite improvements in diagnosis and therapy during the past 25 years. Without treatment, SCLC has the most aggressive clinical course of any type of pulmonary tumor, with a median survival from diagnosis of only 2 to 4 months. About 10% of people with SCLC remain free of disease during the 2 years from the start of therapy, which is the time period during which most relapses occur. However, even these patients are at risk of dying of lung cancer (both small and non-small cell types).[ 20 ] The overall survival rate at 5 years is 5% to 10%.[ 1 , 20 - 22 ]\nAn important prognostic factor for SCLC is the extent of disease. Patients with LD have a better prognosis than patients with ED. For patients with LD, the median survival is 16 to 24 months and the 5-year survival rates is 14% with current forms of treatment.[ 1 , 21 , 23 , 24 ] Patients diagnosed with LD who smoke should be encouraged to stop smoking before undergoing combined-modality therapy because continued smoking may compromise survival.[ 25 ]\nPatients with LD have improved long-term survival with combined-modality therapy.[ 24 , 26 ][ Level of evidence A1 ] Although long-term survivors have been reported among patients who received either surgery or chemotherapy alone, chemotherapy combined with thoracic radiation therapy (TRT) is considered the standard of care.[ 27 ] Adding TRT increases absolute survival by approximately 5% over chemotherapy alone.[ 26 , 28 ] Multiple trials and meta-analyses have evaluated the optimal timing of TRT relative to chemotherapy, with the weight of evidence suggesting a small benefit to early TRT.[ 1 , 29 , 30 ][ Level of evidence A1 ]\nIn patients with ED, the median survival 6 to 12 months with currently available therapy, but long-term disease-free survival is rare.\nProphylactic cranial radiation prevents central nervous system recurrence and can improve survival in patients with good performance status who have had a complete response or a very good partial response to chemoradiation in LD or chemotherapy in ED.[ 31 , 32 ][ Level of evidence A1 ]\nThoracic radiation may also improve long-term outcomes for these patients.[ 33 ]\nAll patients with this type of cancer may appropriately be considered for inclusion in clinical trials at the time of diagnosis. Information about ongoing clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Small Cell Lung Cancer (SCLC)",
+            "Prognosis and Survival",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 33,
+          "text": "- Murray N, Coy P, Pater JL, et al.: Importance of timing for thoracic irradiation in the combined modality treatment of limited-stage small-cell lung cancer. The National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol 11 (2): 336-44, 1993. [PUBMED Abstract]\n- Govindan R, Page N, Morgensztern D, et al.: Changing epidemiology of small-cell lung cancer in the United States over the last 30 years: analysis of the surveillance, epidemiologic, and end results database. J Clin Oncol 24 (28): 4539-44, 2006. [PUBMED Abstract]\n- American Cancer Society: Cancer Facts and Figures 2025. American Cancer Society, 2025. Available online . Last accessed January 16, 2025.\n- Alberg AJ, Ford JG, Samet JM, et al.: Epidemiology of lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition). Chest 132 (3 Suppl): 29S-55S, 2007. [PUBMED Abstract]\n- Tulunay OE, Hecht SS, Carmella SG, et al.: Urinary metabolites of a tobacco-specific lung carcinogen in nonsmoking hospitality workers. Cancer Epidemiol Biomarkers Prev 14 (5): 1283-6, 2005. [PUBMED Abstract]\n- Anderson KE, Kliris J, Murphy L, et al.: Metabolites of a tobacco-specific lung carcinogen in nonsmoking casino patrons. Cancer Epidemiol Biomarkers Prev 12 (12): 1544-6, 2003. [PUBMED Abstract]\n- Straif K, Benbrahim-Tallaa L, Baan R, et al.: A review of human carcinogens--part C: metals, arsenic, dusts, and fibres. Lancet Oncol 10 (5): 453-4, 2009. [PUBMED Abstract]\n- Friedman DL, Whitton J, Leisenring W, et al.: Subsequent neoplasms in 5-year survivors of childhood cancer: the Childhood Cancer Survivor Study. J Natl Cancer Inst 102 (14): 1083-95, 2010. [PUBMED Abstract]\n- Gray A, Read S, McGale P, et al.: Lung cancer deaths from indoor radon and the cost effectiveness and potential of policies to reduce them. BMJ 338: a3110, 2009. [PUBMED Abstract]\n- Berrington de González A, Kim KP, Berg CD: Low-dose lung computed tomography screening before age 55: estimates of the mortality reduction required to outweigh the radiation-induced cancer risk. J Med Screen 15 (3): 153-8, 2008. [PUBMED Abstract]\n- Shimizu Y, Kato H, Schull WJ: Studies of the mortality of A-bomb survivors. 9. Mortality, 1950-1985: Part 2. Cancer mortality based on the recently revised doses (DS86). Radiat Res 121 (2): 120-41, 1990. [PUBMED Abstract]\n- Katanoda K, Sobue T, Satoh H, et al.: An association between long-term exposure to ambient air pollution and mortality from lung cancer and respiratory diseases in Japan. J Epidemiol 21 (2): 132-43, 2011. [PUBMED Abstract]\n- Cao J, Yang C, Li J, et al.: Association between long-term exposure to outdoor air pollution and mortality in China: a cohort study. J Hazard Mater 186 (2-3): 1594-600, 2011. [PUBMED Abstract]\n- Hales S, Blakely T, Woodward A: Air pollution and mortality in New Zealand: cohort study. J Epidemiol Community Health 66 (5): 468-73, 2012. [PUBMED Abstract]\n- Lissowska J, Foretova L, Dabek J, et al.: Family history and lung cancer risk: international multicentre case-control study in Eastern and Central Europe and meta-analyses. Cancer Causes Control 21 (7): 1091-104, 2010. [PUBMED Abstract]\n- Shiels MS, Cole SR, Kirk GD, et al.: A meta-analysis of the incidence of non-AIDS cancers in HIV-infected individuals. J Acquir Immune Defic Syndr 52 (5): 611-22, 2009. [PUBMED Abstract]\n- The effect of vitamin E and beta carotene on the incidence of lung cancer and other cancers in male smokers. The Alpha-Tocopherol, Beta Carotene Cancer Prevention Study Group. N Engl J Med 330 (15): 1029-35, 1994. [PUBMED Abstract]\n- Omenn GS, Goodman GE, Thornquist MD, et al.: Effects of a combination of beta carotene and vitamin A on lung cancer and cardiovascular disease. N Engl J Med 334 (18): 1150-5, 1996. [PUBMED Abstract]\n- Travis WD, Colby TV, Corrin B, et al.: Histological typing of lung and pleural tumours. 3rd ed. Springer-Verlag, 1999.\n- Johnson BE, Grayson J, Makuch RW, et al.: Ten-year survival of patients with small-cell lung cancer treated with combination chemotherapy with or without irradiation. J Clin Oncol 8 (3): 396-401, 1990. [PUBMED Abstract]\n- Fry WA, Menck HR, Winchester DP: The National Cancer Data Base report on lung cancer. Cancer 77 (9): 1947-55, 1996. [PUBMED Abstract]\n- Lassen U, Osterlind K, Hansen M, et al.: Long-term survival in small-cell lung cancer: posttreatment characteristics in patients surviving 5 to 18+ years--an analysis of 1,714 consecutive patients. J Clin Oncol 13 (5): 1215-20, 1995. [PUBMED Abstract]\n- Turrisi AT, Kim K, Blum R, et al.: Twice-daily compared with once-daily thoracic radiotherapy in limited small-cell lung cancer treated concurrently with cisplatin and etoposide. N Engl J Med 340 (4): 265-71, 1999. [PUBMED Abstract]\n- Jänne PA, Freidlin B, Saxman S, et al.: Twenty-five years of clinical research for patients with limited-stage small cell lung carcinoma in North America. Cancer 95 (7): 1528-38, 2002. [PUBMED Abstract]\n- Videtic GM, Stitt LW, Dar AR, et al.: Continued cigarette smoking by patients receiving concurrent chemoradiotherapy for limited-stage small-cell lung cancer is associated with decreased survival. J Clin Oncol 21 (8): 1544-9, 2003. [PUBMED Abstract]\n- Pignon JP, Arriagada R, Ihde DC, et al.: A meta-analysis of thoracic radiotherapy for small-cell lung cancer. N Engl J Med 327 (23): 1618-24, 1992. [PUBMED Abstract]\n- Chandra V, Allen MS, Nichols FC, et al.: The role of pulmonary resection in small cell lung cancer. Mayo Clin Proc 81 (5): 619-24, 2006. [PUBMED Abstract]\n- Warde P, Payne D: Does thoracic irradiation improve survival and local control in limited-stage small-cell carcinoma of the lung? A meta-analysis. J Clin Oncol 10 (6): 890-5, 1992. [PUBMED Abstract]\n- Perry MC, Eaton WL, Propert KJ, et al.: Chemotherapy with or without radiation therapy in limited small-cell carcinoma of the lung. N Engl J Med 316 (15): 912-8, 1987. [PUBMED Abstract]\n- Takada M, Fukuoka M, Kawahara M, et al.: Phase III study of concurrent versus sequential thoracic radiotherapy in combination with cisplatin and etoposide for limited-stage small-cell lung cancer: results of the Japan Clinical Oncology Group Study 9104. J Clin Oncol 20 (14): 3054-60, 2002. [PUBMED Abstract]\n- Aupérin A, Arriagada R, Pignon JP, et al.: Prophylactic cranial irradiation for patients with small-cell lung cancer in complete remission. Prophylactic Cranial Irradiation Overview Collaborative Group. N Engl J Med 341 (7): 476-84, 1999. [PUBMED Abstract]\n- Slotman B, Faivre-Finn C, Kramer G, et al.: Prophylactic cranial irradiation in extensive small-cell lung cancer. N Engl J Med 357 (7): 664-72, 2007. [PUBMED Abstract]\n- Slotman BJ, van Tinteren H, Praag JO, et al.: Use of thoracic radiotherapy for extensive stage small-cell lung cancer: a phase 3 randomised controlled trial. Lancet 385 (9962): 36-42, 2015. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of SCLC",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of SCLC"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Before initiating treatment for a patient with small cell lung cancer (SCLC), an experienced lung cancer pathologist should review the pathological material."
+        },
+        {
+          "section": "Pathological Classification",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of SCLC",
+            "Pathological Classification"
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "The current classification of subtypes of SCLC includes:[ 1 ]\n- Small cell carcinoma.\n- Combined small cell carcinoma (i.e., SCLC combined with additional components from any of the non-small cell lung carcinoma histological types).\nSCLC arising from neuroendocrine cells forms one extreme of the spectrum of neuroendocrine carcinomas of the lung.\nNeuroendocrine tumors include:\n- Low-grade typical carcinoid.\n- Intermediate-grade atypical carcinoid.\n- High-grade neuroendocrine tumors, including large-cell neuroendocrine carcinoma (LCNEC) and SCLC.\nBecause of differences in clinical behavior, therapy, and epidemiology, these tumors are classified separately in the World Health Organization (WHO) revised classification. The variant form of SCLC called mixed small cell/large cell carcinoma was not retained in the revised WHO classification. Instead, SCLC is now divided into SCLC and combined SCLC.[ 2 ] No minimum percentage of the additional component is required for a combined SCLC diagnosis with the exception of mixed LCNEC and SCLC, in which a 10% minimum LCNEC component is required.[ 3 ]\nSCLC presents as a proliferation of small cells with the following morphological features:[ 4 ]\n- Scant cytoplasm.\n- Ill-defined borders.\n- Finely granular salt and pepper chromatin.\n- Absent or inconspicuous nucleoli.\n- Frequent nuclear molding.\n- A high mitotic count.\nNearly all SCLC are immunoreactive for keratin, thyroid transcription factor 1, and epithelial membrane antigen. Neuroendocrine and neural differentiation result in the expression of dopa decarboxylase, calcitonin, neuron-specific enolase, chromogranin A, CD56 (also known as nucleosomal histone kinase 1 or neural-cell adhesion molecule), gastrin-releasing peptide, and insulin-like growth factor 1. One or more markers of neuroendocrine differentiation can be found in approximately 75% of SCLC.[ 5 ]\nAlthough preinvasive and in situ malignant changes are frequently found in patients with non-small cell lung cancer, these findings are rare in patients with SCLC.[ 6 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of SCLC",
+            "Pathological Classification",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Travis WD, Colby TV, Corrin B, et al.: Histological typing of lung and pleural tumours. 3rd ed. Springer-Verlag, 1999.\n- Lei Y, Feng H, Qiang H, et al.: Clinical characteristics and prognostic factors of surgically resected combined small cell lung cancer: a retrospective study. Lung Cancer 146: 244-251, 2020. [PUBMED Abstract]\n- Simbolo M, Centonze G, Ali G, et al.: Integrative molecular analysis of combined small-cell lung carcinomas identifies major subtypes with different therapeutic opportunities. ESMO Open 7 (1): 100308, 2022. [PUBMED Abstract]\n- Brambilla E, Travis WD, Colby TV, et al.: The new World Health Organization classification of lung tumours. Eur Respir J 18 (6): 1059-68, 2001. [PUBMED Abstract]\n- Guinee DG, Fishback NF, Koss MN, et al.: The spectrum of immunohistochemical staining of small-cell lung carcinoma in specimens from transbronchial and open-lung biopsies. Am J Clin Pathol 102 (4): 406-14, 1994. [PUBMED Abstract]\n- Kumar V, Abbas A, Fausto N, eds.: Robins and Cotran Pathologic Basis of Disease. 7th ed. Elsevier Inc, 2005."
+        },
+        {
+          "section": "Staging Systems",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for SCLC",
+            "Staging Systems"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Several staging systems have been proposed for small cell lung cancer (SCLC).\n- American Joint Committee on Cancer (AJCC) Tumor, Node, and Metastasis (TNM).[ 1 ] The 8th edition of the AJCC Cancer Staging Manual recommends the use of the TNM to classify SCLC. For more information, see the AJCC Stage Groupings and TNM Definitions section in Non-Small Cell Lung Cancer Treatment.\n- Veterans Administration Lung Study Group (VALG).[ 2 ]\n- International Association for the Study of Lung Cancer (IASLC).[ 3 ]"
+        },
+        {
+          "section": "Limited-Stage Disease",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for SCLC",
+            "Limited-Stage Disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "No universally accepted definition of this term is available. Limited-stage disease (LD) SCLC is confined to the hemithorax of origin, mediastinum, or supraclavicular nodes, which can be encompassed within a tolerable radiation therapy port.\nPatients with pleural effusion, massive pulmonary tumor, and contralateral supraclavicular nodes have been both included in and excluded from LD by various groups."
+        },
+        {
+          "section": "Extensive-Stage Disease",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for SCLC",
+            "Extensive-Stage Disease"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Extensive-stage disease (ED) SCLC has spread beyond the supraclavicular areas and is too widespread to be included within the definition of LD. Patients with distant metastases (M1) are always considered to have ED.[ 3 , 4 ]"
+        },
+        {
+          "section": "IASLC-AJCC TNM Staging System",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for SCLC",
+            "IASLC-AJCC TNM Staging System"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The AJCC TNM defines LD as any T, except for T3–4, due to multiple lung nodules that do not fit in a tolerable radiation field, any N, and M0.[ 1 ] This corresponds to TNM stages I to IIIB. Extensive disease is TNM stage IV with distant metastases (M1), including malignant pleural effusions.[ 3 , 4 ] For more information, see the AJCC Stage Groupings and TNM Definitions section in Non-Small Cell Lung Cancer Treatment.\nThe IASLC conducted an analysis of clinical TNM staging for SCLC using the sixth edition of the AJCC TNM staging system for lung cancer. Survival rates for patients with clinical stages I and II disease are significantly different from those for patients with stage III disease with N2 or N3 involvement.[ 3 ] Patients with pleural effusion have an intermediate prognosis between LD and ED with hematogenous metastases and will be classified as having M1 disease (or ED). Application of the TNM system will not change how patients are managed; however, the analysis suggests that, in the context of clinical trials in LD, accurate TNM staging and stratification may be important.[ 3 ]"
+        },
+        {
+          "section": "Staging Evaluation",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for SCLC",
+            "Staging Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Staging procedures for SCLC are important to distinguish patients with disease limited to their thorax from those with distant metastases. At the time of initial diagnosis, approximately two-thirds of patients with SCLC have clinical evidence of metastases; most of the remaining patients have clinical evidence of extensive nodal involvement in the hilar, mediastinal, and sometimes supraclavicular regions.\nDetermining the stage of cancer allows an assessment of prognosis and a determination of treatment, particularly when chest radiation therapy or surgical excision is added to chemotherapy for patients with LD. If ED is confirmed, further evaluation should be individualized according to the signs and symptoms unique to the individual patient. Standard staging procedures include:\n- A thorough physical examination.\n- Routine blood counts and serum chemistries.\n- Chest and upper abdominal computed tomography (CT) scanning.\n- A radionuclide bone scan.\n- A brain magnetic resonance imaging scan or CT scan.\n- Bone marrow aspirate or biopsy in selected patients in which treatment would change based on the results.\nThe role of positron emission tomography (PET) is still under study. SCLC is fluorine F 18-fludeoxyglucose (18F-FDG) avid at the primary site and at metastatic sites. PET may be used in staging patients with SCLC who are potential candidates for the addition of thoracic radiation therapy to chemotherapy, as PET may lead to upstaging or downstaging of patients and to alteration of radiation fields resulting from the identification of additional sites of nodal metastases.\nEvidence (18F-FDG PET):\n- In a study of 120 patients with LD SCLC or ED SCLC, FDG-PET led to restaging of ten patients to a higher stage and three patients to a lower stage.[ 5 ] FDG-PET was more sensitive and specific than CT scans for nonbrain distant metastases.\n- In a small series of 24 patients with LD by conventional staging, two patients were restaged to ED.[ 2 ] Unsuspected nodal metastases were documented in 25% of patients, which altered the radiation plan in these patients. At this time, sensitivity, specificity, and positive- or negative-predictive value of PET scanning and its enhancement of staging accuracy are uncertain."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for SCLC",
+            "Staging Evaluation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Lung. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 431–56.\n- Bradley JD, Dehdashti F, Mintun MA, et al.: Positron emission tomography in limited-stage small-cell lung cancer: a prospective study. J Clin Oncol 22 (16): 3248-54, 2004. [PUBMED Abstract]\n- Shepherd FA, Crowley J, Van Houtte P, et al.: The International Association for the Study of Lung Cancer lung cancer staging project: proposals regarding the clinical staging of small cell lung cancer in the forthcoming (seventh) edition of the tumor, node, metastasis classification for lung cancer. J Thorac Oncol 2 (12): 1067-77, 2007. [PUBMED Abstract]\n- Ihde D, Souhami B, Comis R, et al.: Small cell lung cancer. Lung Cancer 17 (Suppl 1): S19-21, 1997. [PUBMED Abstract]\n- Brink I, Schumacher T, Mix M, et al.: Impact of [18F]FDG-PET on the primary staging of small-cell lung cancer. Eur J Nucl Med Mol Imaging 31 (12): 1614-20, 2004. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Option Overview for SCLC",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for SCLC"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemotherapy and radiation therapy have been shown to improve survival for patients with small cell lung cancer (SCLC)."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for SCLC",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Chemotherapy improves the survival of patients with limited-stage disease (LD) or extensive-stage disease (ED), but it is curative in only a few patients.[ 1 , 2 ] Because patients with SCLC tend to develop distant metastases, localized forms of treatment, such as surgical resection or radiation therapy, rarely produce long-term survival.[ 3 ] Incorporating current chemotherapy regimens into the treatment program prolongs survival, with at least a fourfold to fivefold improvement in median survival compared with patients who are given no therapy.\nThe combination of platinum and etoposide is the most widely used standard chemotherapeutic regimen.[ 4 - 6 ][ Level of evidence A1 ] No consistent survival benefit has resulted from platinum versus nonplatinum combinations, increased dose intensity or dose density, altered mode of administration (e.g., alternating or sequential administration) of various chemotherapeutic agents, or maintenance chemotherapy.[ 7 - 12 ][ Level of evidence A1 ]"
+        },
+        {
+          "section": "Radiation Therapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for SCLC",
+            "Radiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "SCLC is highly radiosensitive and thoracic radiation therapy improves survival of patients with LD and ED tumors.[ 13 - 16 ][ Level of evidence A1 ] Prophylactic cranial irradiation prevents central nervous system recurrence and may improve the long-term survival of patients with good performance status who have responded to chemoradiation therapy.[ 17 - 19 ][ Level of evidence A1 ] This type of irradiation also offers palliation of symptomatic metastatic disease.\nTreatment options for patients with LD, ED, or recurrent SCLC are summarized in Table 1 .\nStage | Treatment Options\nED = extensive-stage disease; LD = limited-stage disease.\nLD | Chemotherapy and radiation therapy\nAdjuvant treatment after chemoradiation therapy\nCombination chemotherapy alone\nSurgery followed by chemotherapy or chemoradiation therapy\nProphylactic cranial irradiation\nClinical trials evaluating new drug regimens, surgical resection of the primary tumor, or new radiation therapy schedules and techniques (e.g., timing, three-dimensional treatment planning, and dose fractionation)\nED | Immune checkpoint modulation and combination chemotherapy\nCombination chemotherapy\nRadiation therapy\nClinical trials evaluating new drug regimens or alternative drug doses and schedules\nRecurrent disease | Chemotherapy\nImmunotherapy\nImmune checkpoint modulation\nPalliative therapy\nPhase I and II clinical trials evaluating new drugs\nDespite treatment advances, most patients with SCLC die of their tumor even with the best available therapy. Most of the improvements in survival of patients with SCLC are attributable to clinical trials that have attempted to improve on the best available and most accepted therapy. Patient entry into such studies is highly desirable.\nInformation about ongoing clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for SCLC",
+            "Radiation Therapy",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "- Comis RL, Friedland DM, Good BC: Small-cell lung cancer: a perspective on the past and a preview of the future. Oncology (Huntingt) 12 (1 Suppl 2): 44-50, 1998. [PUBMED Abstract]\n- Agra Y, Pelayo M, Sacristan M, et al.: Chemotherapy versus best supportive care for extensive small cell lung cancer. Cochrane Database Syst Rev (4): CD001990, 2003. [PUBMED Abstract]\n- Prasad US, Naylor AR, Walker WS, et al.: Long term survival after pulmonary resection for small cell carcinoma of the lung. Thorax 44 (10): 784-7, 1989. [PUBMED Abstract]\n- Johnson BE, Grayson J, Makuch RW, et al.: Ten-year survival of patients with small-cell lung cancer treated with combination chemotherapy with or without irradiation. J Clin Oncol 8 (3): 396-401, 1990. [PUBMED Abstract]\n- Lassen U, Osterlind K, Hansen M, et al.: Long-term survival in small-cell lung cancer: posttreatment characteristics in patients surviving 5 to 18+ years--an analysis of 1,714 consecutive patients. J Clin Oncol 13 (5): 1215-20, 1995. [PUBMED Abstract]\n- Fry WA, Menck HR, Winchester DP: The National Cancer Data Base report on lung cancer. Cancer 77 (9): 1947-55, 1996. [PUBMED Abstract]\n- Ihde DC, Mulshine JL, Kramer BS, et al.: Prospective randomized comparison of high-dose and standard-dose etoposide and cisplatin chemotherapy in patients with extensive-stage small-cell lung cancer. J Clin Oncol 12 (10): 2022-34, 1994. [PUBMED Abstract]\n- Arriagada R, Le Chevalier T, Pignon JP, et al.: Initial chemotherapeutic doses and survival in patients with limited small-cell lung cancer. N Engl J Med 329 (25): 1848-52, 1993. [PUBMED Abstract]\n- Klasa RJ, Murray N, Coldman AJ: Dose-intensity meta-analysis of chemotherapy regimens in small-cell carcinoma of the lung. J Clin Oncol 9 (3): 499-508, 1991. [PUBMED Abstract]\n- Elias AD, Ayash L, Frei E, et al.: Intensive combined modality therapy for limited-stage small-cell lung cancer. J Natl Cancer Inst 85 (7): 559-66, 1993. [PUBMED Abstract]\n- Murray N, Livingston RB, Shepherd FA, et al.: Randomized study of CODE versus alternating CAV/EP for extensive-stage small-cell lung cancer: an Intergroup Study of the National Cancer Institute of Canada Clinical Trials Group and the Southwest Oncology Group. J Clin Oncol 17 (8): 2300-8, 1999. [PUBMED Abstract]\n- Amarasena IU, Walters JA, Wood-Baker R, et al.: Platinum versus non-platinum chemotherapy regimens for small cell lung cancer. Cochrane Database Syst Rev (4): CD006849, 2008. [PUBMED Abstract]\n- Pignon JP, Arriagada R, Ihde DC, et al.: A meta-analysis of thoracic radiotherapy for small-cell lung cancer. N Engl J Med 327 (23): 1618-24, 1992. [PUBMED Abstract]\n- Warde P, Payne D: Does thoracic irradiation improve survival and local control in limited-stage small-cell carcinoma of the lung? A meta-analysis. J Clin Oncol 10 (6): 890-5, 1992. [PUBMED Abstract]\n- Murray N, Coy P, Pater JL, et al.: Importance of timing for thoracic irradiation in the combined modality treatment of limited-stage small-cell lung cancer. The National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol 11 (2): 336-44, 1993. [PUBMED Abstract]\n- Slotman BJ, van Tinteren H, Praag JO, et al.: Use of thoracic radiotherapy for extensive stage small-cell lung cancer: a phase 3 randomised controlled trial. Lancet 385 (9962): 36-42, 2015. [PUBMED Abstract]\n- Turrisi AT, Glover DJ: Thoracic radiotherapy variables: influence on local control in small cell lung cancer limited disease. Int J Radiat Oncol Biol Phys 19 (6): 1473-9, 1990. [PUBMED Abstract]\n- Aupérin A, Arriagada R, Pignon JP, et al.: Prophylactic cranial irradiation for patients with small-cell lung cancer in complete remission. Prophylactic Cranial Irradiation Overview Collaborative Group. N Engl J Med 341 (7): 476-84, 1999. [PUBMED Abstract]\n- Slotman B, Faivre-Finn C, Kramer G, et al.: Prophylactic cranial irradiation in extensive small-cell lung cancer. N Engl J Med 357 (7): 664-72, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Patients With Limited-Stage SCLC",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Limited-Stage SCLC",
+            "Treatment Options for Patients With Limited-Stage SCLC"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment options for patients with limited-stage small cell lung cancer (SCLC) include:\n- Chemotherapy and radiation therapy .\n- Adjuvant treatment after chemoradiation therapy .\n- Combination chemotherapy alone .\n- Surgery followed by chemotherapy or chemoradiation therapy .\n- Prophylactic cranial irradiation (PCI) .\n- Clinical trials evaluating new drug regimens, surgical resection of the primary tumor, or new radiation therapy schedules and techniques (e.g., timing, three-dimensional treatment planning, and dose fractionation)."
+        },
+        {
+          "section": "Chemotherapy and radiation therapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Limited-Stage SCLC",
+            "Treatment Options for Patients With Limited-Stage SCLC",
+            "Chemotherapy and radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "Combined-modality treatment with etoposide and cisplatin with thoracic radiation therapy (TRT) is the most widely used treatment for patients with limited-stage disease (LD) SCLC.\nEvidence (combined-modality treatment):\n- Survival. The following results have been reported in clinical trials:\n- Mature results of prospective randomized trials suggest that combined-modality therapy produces a modest but significant improvement in survival of 5% at 3 years compared with chemotherapy alone.[ 1 - 3 ][ Level of evidence A1 ]\n- Clinical trials have consistently achieved median survivals of 18 to 24 months and 2-year survival rates of 40% to 50%, with a treatment-related mortality rate of less than 3%.[ 3 - 7 ][ Level of evidence A1 ]\n- No consistent survival benefit has resulted from the following treatment approaches:[ 8 - 16 ]\n- Increased dose intensity.\n- Increased dose density.\n- Administration of additional drugs or other (non–etoposide-containing) platinum-based combination regimens.\n- Altered modes of administration of various chemotherapeutic agents.\n- Maintenance chemotherapy.\n- Length of treatment. The optimal duration of chemotherapy for patients with LD SCLC is not clearly defined, but no improvement exists in survival after the duration of drug administration exceeds 3 to 6 months. The preponderance of evidence available from randomized trials indicates that maintenance chemotherapy does not prolong survival for patients with LD SCLC.[ 8 - 15 ][ Level of evidence A1 ]\n- Dose and timing. The optimal dose and timing of TRT remain controversial.\n- Multiple clinical trials and meta-analyses addressing the timing of TRT have been published, with the weight of evidence suggesting a small benefit to early TRT (i.e., TRT administered during the first or second cycle of chemotherapy administration).[ 3 - 6 , 8 , 9 , 15 , 17 - 20 ][ Level of evidence A1 ]\n- The amount of time from start to completion of TRT in LD SCLC may also affect overall survival (OS). In an analysis of four trials, the completion of therapy in less than 30 days was associated with an improved 5-year survival rate (relative risk, 0.62; 95% confidence interval [CI], 0.49–0.80; P = .0003).[ 20 ][ Level of evidence A1 ]\n- Both once-daily and twice-daily chest radiation schedules have been used in regimens with etoposide and cisplatin.\n- One randomized study showed a modest survival advantage in favor of twice-daily radiation therapy given for 3 weeks, compared with once-daily radiation therapy to 45 Gy given for 5 weeks (26% vs. 16% at 5 years; P = .04).[ 17 ][ Level of evidence A1 ] Esophagitis was increased with twice-daily treatment.\n- The phase III CONVERT study (NCT00433563) randomly assigned patients to receive either 45 Gy radiation therapy in 30 twice-daily fractions of 1.5 Gy over 19 days or 66 Gy in 33 once-daily fractions of 2 Gy over 45 days, starting on day 22 after commencing cisplatin-etoposide chemotherapy (given as four to six cycles every 3 weeks in both groups).[ 21 ] The primary end point was OS, defined as time from randomization until death from any cause, analyzed by modified intention-to-treat. A 12% higher OS at 2 years in the once-daily group versus the twice-daily group was considered clinically significant to show superiority of the once-daily regimen.\n- At a median follow-up of 45 months (interquartile range [IQR], 35–58), median OS was 30 months (95% CI, 24–34) in the twice-daily group versus 25 months (95% CI, 21–31) in the once-daily group (hazard ratio for death in the once-daily group, 1.18 [95% CI, 0.95–1.45]; P = .14).\n- The two-year OS rate was 56% (95% CI, 50%–62%) in the twice-daily group and 51% (45%–57%) in the once-daily group (absolute difference between the treatment groups, 5.3% [95% CI, -3.2% to 13.7%]).\n- Most toxicities were similar between the groups, except there was significantly more grade 4 neutropenia with twice-daily radiation therapy (129 [49%] vs. 101 [38%]; P = .05). In contrast to the earlier study, there was no difference between the groups in terms of rates of grade 3 to 4 esophagitis or pneumonitis.\n- Twice-daily radiation therapy has not been broadly adopted. Once-daily fractions to doses higher than 60 Gy are feasible and commonly used; their clinical benefits are yet to be defined in phase III trials.[ 21 ][ Level of evidence A1 ]"
+        },
+        {
+          "section": "Adjuvant treatment after chemoradiation therapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Limited-Stage SCLC",
+            "Treatment Options for Patients With Limited-Stage SCLC",
+            "Adjuvant treatment after chemoradiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Evidence (adjuvant treatment after chemoradiation therapy):\n- ADRIATIC (NCT03703297) was a phase III, randomized, double-blind, placebo-controlled, multicenter, global study, published in abstract form, that assessed durvalumab with or without tremelimumab as consolidation treatment for patients with LD SCLC. Patients had stage I to III disease (inoperable if stage I or II) that had not progressed after chemoradiation therapy. PCI was permitted before randomization. Patients were randomly assigned 1 to 42 days after concurrent chemoradiation therapy to receive durvalumab (1,500 mg) plus placebo, durvalumab (1,500 mg) plus tremelimumab (75 mg), or placebo plus placebo every 4 weeks for four cycles, followed by durvalumab or placebo every 4 weeks until investigator-determined progression or intolerable toxicity, or for a maximum of 24 months. The dual primary end points were OS and progression-free survival (PFS) per blinded independent central review for durvalumab versus placebo. The trial randomly assigned 730 patients, including 264 to receive durvalumab and 266 to receive placebo. The abstract was published after the first planned interim analysis of durvalumab versus placebo.[ 22 ] This is the first new treatment option for patients with LD SCLC in over 35 years.\n- The median duration of follow-up was 37.2 months for OS and 27.6 months for PFS.[ 22 ][ Level of evidence A1 ]\n- The median OS was 55.9 months in the durvalumab arm (95% CI, 37.3–not estimable) and 33.4 months in the placebo arm (95% CI, 25.5–39.9). The 24-month OS rate was 68.0% in the durvalumab arm and 58.5% in the placebo arm. The 36-month OS rate was 56.5% in the durvalumab arm and 47.6% in the placebo arm.\n- The median PFS was 16.6 months in the durvalumab arm (95% CI, 10.2–28.2) and 9.2 months (95% CI, 7.4–12.9) in the placebo arm. The 18-month PFS rate was 48.8% in the durvalumab arm and 36.1% in the placebo arm. The 24-month PFS rate was 46.2% in the durvalumab arm and 34.2% in the placebo arm.\n- Grade 3 or 4 all-cause adverse events occurred in 24.3% of patients in the durvalumab arm and 24.2% of patients in the placebo arm. Adverse events led to treatment discontinuation in 16.3% of patients in the durvalumab arm and 10.6% of patients in the placebo arm, and to death in 2.7% of patients in the durvalumab arm and 1.9% of patients in the placebo arm. Any-grade pneumonitis/radiation pneumonitis was reported in 38.0% of patients who received durvalumab and 30.2% of patients who received the placebo."
+        },
+        {
+          "section": "Combination chemotherapy alone",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Limited-Stage SCLC",
+            "Treatment Options for Patients With Limited-Stage SCLC",
+            "Combination chemotherapy alone"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Patients with a contraindication to radiation therapy may receive chemotherapy alone. Patients presenting with superior vena cava syndrome are treated immediately with combination chemotherapy, radiation therapy, or both, depending on the severity of presentation.[ 23 , 24 ] For more information, see Cardiopulmonary Syndromes ."
+        },
+        {
+          "section": "Surgery followed by chemotherapy or chemoradiation therapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Limited-Stage SCLC",
+            "Treatment Options for Patients With Limited-Stage SCLC",
+            "Surgery followed by chemotherapy or chemoradiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The role of surgery in the management of patients with SCLC is unproven. Small case series and population studies have reported favorable outcomes for the minority of LD patients with very limited disease, with small tumors pathologically confined to the lung of origin or the lung and ipsilateral hilar lymph nodes from surgical resection with adjuvant chemotherapy.[ 25 - 29 ][ Level of evidence C2 ] Patients who have undergone surgery and then been diagnosed with SCLC generally receive adjuvant chemotherapy with or without radiation therapy. In patients who receive chemotherapy with radiation therapy, there is no improvement in survival with the addition of surgery.[ 29 ][ Level of evidence C2 ] Given the absence of data from randomized trials, the potential benefits and risks of surgery in the management of individual patients with SCLC must be considered.\nEvidence (role of surgery):\n- A randomized study evaluated the role of surgery in addition to chemoradiation therapy for 328 patients with LD SCLC. The study found no OS benefit with the addition of pulmonary resection.[ 30 ][ Level of evidence A1 ]"
+        },
+        {
+          "section": "PCI",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Limited-Stage SCLC",
+            "Treatment Options for Patients With Limited-Stage SCLC",
+            "PCI"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Patients who have achieved a complete remission may receive PCI. Patients whose cancer can be controlled outside the brain have a 60% actuarial risk of developing central nervous system (CNS) metastases within 2 to 3 years after starting treatment.[ 29 , 31 , 32 ] Most of these patients have disease that relapses only in the brain, and nearly all of those with CNS relapse die of their cranial metastases. The risk of developing CNS metastases can be reduced by more than 50% with the administration of PCI.[ 31 ]\nEvidence (role of PCI):\n- A meta-analysis of seven randomized trials evaluated the value of PCI for patients in complete remission. The addition of PCI improved the rates of brain recurrence, disease-free survival, and OS. The 3-year OS rate increased from 15% to 21% with PCI.[ 31 ][ Level of evidence A1 ]\n- The randomized RTOG-0212 study ( NCT00005062 ) included 720 patients with LD SCLC in complete remission after chemoradiation therapy. The trial demonstrated that standard-dose PCI (25 Gy in 10 fractions) was as effective as, and less toxic than, higher doses of brain radiation.[ 33 ]\n- Randomized trials such as RTOG-0212 ( NCT00005062 ) showed that doses higher than 25 Gy in 10 daily fractions do not improve long-term survival.[ 33 - 35 ]"
+        },
+        {
+          "section": "Neurological sequelae",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Limited-Stage SCLC",
+            "Treatment Options for Patients With Limited-Stage SCLC",
+            "Neurological sequelae"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Retrospective studies have shown that long-term survivors of SCLC (>2 years from the start of treatment) have a high incidence of CNS impairment.[ 29 , 32 , 36 - 38 ] Prospective studies have shown that patients treated with PCI do not have significantly worse neuropsychological function than patients not treated with PCI.[ 38 ] Most patients with SCLC have neuropsychological abnormalities before the start of PCI and have no detectable neurological decline for as long as 2 years after the start of PCI.[ 38 ] Patients treated for SCLC continue to have declining neuropsychological function after 2 years from the start of treatment.[ 36 - 38 ] Additional neuropsychological testing of patients beyond 2 years from the start of treatment is needed before concluding that PCI does not contribute to the decline in intellectual function."
+        },
+        {
+          "section": "Treatment options for older patients",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Limited-Stage SCLC",
+            "Treatment Options for Patients With Limited-Stage SCLC",
+            "Treatment options for older patients"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The optimal therapeutic approach in older patients remains unclear. A population analysis showed that increasing age was associated with decreased performance status and increased comorbidity.[ 39 ] Older patients were less likely to be treated with combined chemoradiation therapy, more intensive chemotherapy, and PCI. Older patients were also less likely to respond to therapy and had poorer survival outcomes. Whether these findings were a result of age and its associated comorbidities or suboptimal treatment delivery remains uncertain.\nNo specific phase III trial in older patients with LD SCLC has been reported. However, three secondary analyses of two cooperative group trials evaluating outcomes in patients aged 70 years or older have been published.[ 40 - 42 ] The survival outcomes for the older patients were identical to those of their younger counterparts in both trials. The older patients experienced more toxic effects, particularly hematological, compared with younger patients. There was a significant increase in treatment-related mortality in the EST-3588 trial that compared etoposide and cisplatin with either once-daily or twice-daily radiation therapy (1% for patients aged <70 years vs. 10% for patients aged ≥70 years; P = .01).[ 41 ] Because the older patients enrolled in these phase III trials may not be representative of LD SCLC patients in the general population, caution must be exercised in extrapolating these results to the general population of older patients."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Limited-Stage SCLC",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Limited-Stage SCLC",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 42,
+          "text": "- Pignon JP, Arriagada R, Ihde DC, et al.: A meta-analysis of thoracic radiotherapy for small-cell lung cancer. N Engl J Med 327 (23): 1618-24, 1992. [PUBMED Abstract]\n- Warde P, Payne D: Does thoracic irradiation improve survival and local control in limited-stage small-cell carcinoma of the lung? A meta-analysis. J Clin Oncol 10 (6): 890-5, 1992. [PUBMED Abstract]\n- Murray N, Coy P, Pater JL, et al.: Importance of timing for thoracic irradiation in the combined modality treatment of limited-stage small-cell lung cancer. The National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol 11 (2): 336-44, 1993. [PUBMED Abstract]\n- Turrisi AT, Glover DJ: Thoracic radiotherapy variables: influence on local control in small cell lung cancer limited disease. Int J Radiat Oncol Biol Phys 19 (6): 1473-9, 1990. [PUBMED Abstract]\n- McCracken JD, Janaki LM, Crowley JJ, et al.: Concurrent chemotherapy/radiotherapy for limited small-cell lung carcinoma: a Southwest Oncology Group Study. J Clin Oncol 8 (5): 892-8, 1990. [PUBMED Abstract]\n- Takada M, Fukuoka M, Kawahara M, et al.: Phase III study of concurrent versus sequential thoracic radiotherapy in combination with cisplatin and etoposide for limited-stage small-cell lung cancer: results of the Japan Clinical Oncology Group Study 9104. J Clin Oncol 20 (14): 3054-60, 2002. [PUBMED Abstract]\n- Johnson BE, Bridges JD, Sobczeck M, et al.: Patients with limited-stage small-cell lung cancer treated with concurrent twice-daily chest radiotherapy and etoposide/cisplatin followed by cyclophosphamide, doxorubicin, and vincristine. J Clin Oncol 14 (3): 806-13, 1996. [PUBMED Abstract]\n- Spiro SG, James LE, Rudd RM, et al.: Early compared with late radiotherapy in combined modality treatment for limited disease small-cell lung cancer: a London Lung Cancer Group multicenter randomized clinical trial and meta-analysis. J Clin Oncol 24 (24): 3823-30, 2006. [PUBMED Abstract]\n- De Ruysscher D, Pijls-Johannesma M, Vansteenkiste J, et al.: Systematic review and meta-analysis of randomised, controlled trials of the timing of chest radiotherapy in patients with limited-stage, small-cell lung cancer. Ann Oncol 17 (4): 543-52, 2006. [PUBMED Abstract]\n- Giaccone G, Dalesio O, McVie GJ, et al.: Maintenance chemotherapy in small-cell lung cancer: long-term results of a randomized trial. European Organization for Research and Treatment of Cancer Lung Cancer Cooperative Group. J Clin Oncol 11 (7): 1230-40, 1993. [PUBMED Abstract]\n- Goodman GE, Crowley JJ, Blasko JC, et al.: Treatment of limited small-cell lung cancer with etoposide and cisplatin alternating with vincristine, doxorubicin, and cyclophosphamide versus concurrent etoposide, vincristine, doxorubicin, and cyclophosphamide and chest radiotherapy: a Southwest Oncology Group Study. J Clin Oncol 8 (1): 39-47, 1990. [PUBMED Abstract]\n- Fukuoka M, Furuse K, Saijo N, et al.: Randomized trial of cyclophosphamide, doxorubicin, and vincristine versus cisplatin and etoposide versus alternation of these regimens in small-cell lung cancer. J Natl Cancer Inst 83 (12): 855-61, 1991. [PUBMED Abstract]\n- Bleehen NM, Girling DJ, Machin D, et al.: A randomised trial of three or six courses of etoposide cyclophosphamide methotrexate and vincristine or six courses of etoposide and ifosfamide in small cell lung cancer (SCLC). I: Survival and prognostic factors. Medical Research Council Lung Cancer Working Party. Br J Cancer 68 (6): 1150-6, 1993. [PUBMED Abstract]\n- Sculier JP, Paesmans M, Bureau G, et al.: Randomized trial comparing induction chemotherapy versus induction chemotherapy followed by maintenance chemotherapy in small-cell lung cancer. European Lung Cancer Working Party. J Clin Oncol 14 (8): 2337-44, 1996. [PUBMED Abstract]\n- Fried DB, Morris DE, Poole C, et al.: Systematic review evaluating the timing of thoracic radiation therapy in combined modality therapy for limited-stage small-cell lung cancer. J Clin Oncol 22 (23): 4837-45, 2004. [PUBMED Abstract]\n- Kubota K, Hida T, Ishikura S, et al.: Etoposide and cisplatin versus irinotecan and cisplatin in patients with limited-stage small-cell lung cancer treated with etoposide and cisplatin plus concurrent accelerated hyperfractionated thoracic radiotherapy (JCOG0202): a randomised phase 3 study. Lancet Oncol 15 (1): 106-13, 2014. [PUBMED Abstract]\n- Turrisi AT, Kim K, Blum R, et al.: Twice-daily compared with once-daily thoracic radiotherapy in limited small-cell lung cancer treated concurrently with cisplatin and etoposide. N Engl J Med 340 (4): 265-71, 1999. [PUBMED Abstract]\n- Huncharek M, McGarry R: A meta-analysis of the timing of chest irradiation in the combined modality treatment of limited-stage small cell lung cancer. Oncologist 9 (6): 665-72, 2004. [PUBMED Abstract]\n- Pijls-Johannesma MC, De Ruysscher D, Lambin P, et al.: Early versus late chest radiotherapy for limited stage small cell lung cancer. Cochrane Database Syst Rev (1): CD004700, 2005. [PUBMED Abstract]\n- De Ruysscher D, Pijls-Johannesma M, Bentzen SM, et al.: Time between the first day of chemotherapy and the last day of chest radiation is the most important predictor of survival in limited-disease small-cell lung cancer. J Clin Oncol 24 (7): 1057-63, 2006. [PUBMED Abstract]\n- Faivre-Finn C, Snee M, Ashcroft L, et al.: Concurrent once-daily versus twice-daily chemoradiotherapy in patients with limited-stage small-cell lung cancer (CONVERT): an open-label, phase 3, randomised, superiority trial. Lancet Oncol 18 (8): 1116-1125, 2017. [PUBMED Abstract]\n- Spigel DR, Cheng Y, Cho BC, et al.: ADRIATIC: Durvalumab (D) as consolidation treatment (tx) for patients (pts) with limited-stage small-cell lung cancer (LS-SCLC). [Abstract] J Clin Oncol 42 (Suppl 17): A-LBA5, 2024.\n- Urban T, Lebeau B, Chastang C, et al.: Superior vena cava syndrome in small-cell lung cancer. Arch Intern Med 153 (3): 384-7, 1993. [PUBMED Abstract]\n- Würschmidt F, Bünemann H, Heilmann HP: Small cell lung cancer with and without superior vena cava syndrome: a multivariate analysis of prognostic factors in 408 cases. Int J Radiat Oncol Biol Phys 33 (1): 77-82, 1995. [PUBMED Abstract]\n- Osterlind K, Hansen M, Hansen HH, et al.: Treatment policy of surgery in small cell carcinoma of the lung: retrospective analysis of a series of 874 consecutive patients. Thorax 40 (4): 272-7, 1985. [PUBMED Abstract]\n- Shepherd FA, Ginsberg RJ, Patterson GA, et al.: A prospective study of adjuvant surgical resection after chemotherapy for limited small cell lung cancer. A University of Toronto Lung Oncology Group study. J Thorac Cardiovasc Surg 97 (2): 177-86, 1989. [PUBMED Abstract]\n- Prasad US, Naylor AR, Walker WS, et al.: Long term survival after pulmonary resection for small cell carcinoma of the lung. Thorax 44 (10): 784-7, 1989. [PUBMED Abstract]\n- Smit EF, Groen HJ, Timens W, et al.: Surgical resection for small cell carcinoma of the lung: a retrospective study. Thorax 49 (1): 20-2, 1994. [PUBMED Abstract]\n- Chandra V, Allen MS, Nichols FC, et al.: The role of pulmonary resection in small cell lung cancer. Mayo Clin Proc 81 (5): 619-24, 2006. [PUBMED Abstract]\n- Lad T, Piantadosi S, Thomas P, et al.: A prospective randomized trial to determine the benefit of surgical resection of residual disease following response of small cell lung cancer to combination chemotherapy. Chest 106 (6 Suppl): 320S-323S, 1994. [PUBMED Abstract]\n- Nugent JL, Bunn PA, Matthews MJ, et al.: CNS metastases in small cell bronchogenic carcinoma: increasing frequency and changing pattern with lengthening survival. Cancer 44 (5): 1885-93, 1979. [PUBMED Abstract]\n- Aupérin A, Arriagada R, Pignon JP, et al.: Prophylactic cranial irradiation for patients with small-cell lung cancer in complete remission. Prophylactic Cranial Irradiation Overview Collaborative Group. N Engl J Med 341 (7): 476-84, 1999. [PUBMED Abstract]\n- Le Péchoux C, Dunant A, Senan S, et al.: Standard-dose versus higher-dose prophylactic cranial irradiation (PCI) in patients with limited-stage small-cell lung cancer in complete remission after chemotherapy and thoracic radiotherapy (PCI 99-01, EORTC 22003-08004, RTOG 0212, and IFCT 99-01): a randomised clinical trial. Lancet Oncol 10 (5): 467-74, 2009. [PUBMED Abstract]\n- Le Péchoux C, Laplanche A, Faivre-Finn C, et al.: Clinical neurological outcome and quality of life among patients with limited small-cell cancer treated with two different doses of prophylactic cranial irradiation in the intergroup phase III trial (PCI99-01, EORTC 22003-08004, RTOG 0212 and IFCT 99-01). Ann Oncol 22 (5): 1154-63, 2011. [PUBMED Abstract]\n- Wolfson AH, Bae K, Komaki R, et al.: Primary analysis of a phase II randomized trial Radiation Therapy Oncology Group (RTOG) 0212: impact of different total doses and schedules of prophylactic cranial irradiation on chronic neurotoxicity and quality of life for patients with limited-disease small-cell lung cancer. Int J Radiat Oncol Biol Phys 81 (1): 77-84, 2011. [PUBMED Abstract]\n- Johnson BE, Patronas N, Hayes W, et al.: Neurologic, computed cranial tomographic, and magnetic resonance imaging abnormalities in patients with small-cell lung cancer: further follow-up of 6- to 13-year survivors. J Clin Oncol 8 (1): 48-56, 1990. [PUBMED Abstract]\n- Laukkanen E, Klonoff H, Allan B, et al.: The role of prophylactic brain irradiation in limited stage small cell lung cancer: clinical, neuropsychologic, and CT sequelae. Int J Radiat Oncol Biol Phys 14 (6): 1109-17, 1988. [PUBMED Abstract]\n- Cull A, Gregor A, Hopwood P, et al.: Neurological and cognitive impairment in long-term survivors of small cell lung cancer. Eur J Cancer 30A (8): 1067-74, 1994. [PUBMED Abstract]\n- Ludbrook JJ, Truong PT, MacNeil MV, et al.: Do age and comorbidity impact treatment allocation and outcomes in limited stage small-cell lung cancer? a community-based population analysis. Int J Radiat Oncol Biol Phys 55 (5): 1321-30, 2003. [PUBMED Abstract]\n- Schild SE, Stella PJ, Geyer SM, et al.: The outcome of combined-modality therapy for stage III non-small-cell lung cancer in the elderly. J Clin Oncol 21 (17): 3201-6, 2003. [PUBMED Abstract]\n- Yuen AR, Zou G, Turrisi AT, et al.: Similar outcome of elderly patients in intergroup trial 0096: Cisplatin, etoposide, and thoracic radiotherapy administered once or twice daily in limited stage small cell lung carcinoma. Cancer 89 (9): 1953-60, 2000. [PUBMED Abstract]\n- Siu LL, Shepherd FA, Murray N, et al.: Influence of age on the treatment of limited-stage small-cell lung cancer. J Clin Oncol 14 (3): 821-8, 1996. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Patients With Extensive-Stage SCLC",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extensive-Stage SCLC",
+            "Treatment Options for Patients With Extensive-Stage SCLC"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment options for patients with extensive-stage disease (ED) small cell lung cancer (SCLC) include:\n- Immune checkpoint modulation and combination chemotherapy .\n- Atezolizumab .\n- Durvalumab .\n- Combination chemotherapy .\n- Radiation therapy .\n- Thoracic radiation therapy for patients who respond to chemotherapy .\n- Prophylactic cranial irradiation (PCI) .\n- Clinical trials evaluating new drug regimens or alternative drug doses and schedules."
+        },
+        {
+          "section": "Immune checkpoint modulation and combination chemotherapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extensive-Stage SCLC",
+            "Treatment Options for Patients With Extensive-Stage SCLC",
+            "Immune checkpoint modulation and combination chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Studies have evaluated the role of immune checkpoint inhibitors (programmed cell death-1 [PD-1] or programmed death-ligand 1 [PD-L1] inhibitors) in frontline treatment of patients with ED SCLC. Two PD-L1 inhibitors, atezolizumab and durvalumab, prolonged overall survival (OS) when combined with platinum and etoposide, compared with the same combination chemotherapy regimen alone. For more information, see the Combination chemotherapy section. Treatment with a PD-1 inhibitor, pembrolizumab, in combination with chemotherapy, did not meet statistical significance for the prespecified end point of OS in the KEYNOTE-604 (NCT03066778) phase III trial.[ 1 ][ Level of evidence B1 ]\nEvidence (immune checkpoint modulation and combination chemotherapy):\n- Atezolizumab . IMpower133 (NCT02763579), a double-blind, placebo-controlled, randomized, phase III trial, compared four cycles of carboplatin and etoposide with either atezolizumab (n = 201) or placebo (n = 202), followed by maintenance with either atezolizumab or placebo (as per the original randomization) until unacceptable toxic effects, disease progression, or no additional benefit.[ 2 ]\n- At the planned interim analysis for OS, with a median follow-up of 22.9 months, the median OS was 12.3 months in the atezolizumab group and 10.3 months in the placebo group (hazard ratio [HR] for death, 0.76; 95% confidence interval [CI], 0.60−0.95; descriptive P = .0154).[ 2 ][ Level of evidence A1 ]\n- The median progression-free survival (PFS) was 5.2 months for the atezolizumab group and 4.3 months for the placebo group (HR for disease progression or death, 0.77; 95% CI, 0.63−0.95; P = .02).\n- The toxicity event rate was similar for both arms, consistent with known adverse events of the individual agents. Grade 3 or 4 adverse events occurred in 56.6% of patients in the atezolizumab group and 56.1% of patients in the placebo group.\n- Durvalumab . CASPIAN (NCT03043872) was a randomized, open-label, phase III trial that assigned patients to durvalumab plus platinum-etoposide (n = 268), durvalumab plus tremelimumab (a cytotoxic T lymphocyte antigen-4 [CTLA-4] inhibitor) plus platinum-etoposide (n = 268), or platinum-etoposide alone (n = 269). In the immunotherapy arms, patients received four cycles of platinum-etoposide plus durvalumab with or without tremelimumab, followed by durvalumab maintenance until intolerance or disease progression or until other discontinuation criteria were met. In the chemotherapy-alone arm, up to six cycles of chemotherapy could be given, as well as PCI, at the investigator’s discretion. At the time of planned interim OS analysis, the durvalumab plus platinum-etoposide group met the predefined threshold for statistical significance.[ 3 ]\n- The median OS was 12.9 months in the durvalumab plus platinum-etoposide group versus 10.5 months in the platinum-etoposide group (HR for OS, 0.75; 95% CI, 0.62−0.91; nominal P = .0032).[ 3 ][ Level of evidence A1 ]\n- The toxicity event rate was similar in both arms, consistent with known adverse events of the individual agents. Grade 3 or 4 events occurred in 62% of patients in both study arms."
+        },
+        {
+          "section": "Combination chemotherapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extensive-Stage SCLC",
+            "Treatment Options for Patients With Extensive-Stage SCLC",
+            "Combination chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 31,
+          "text": "Chemotherapy for patients with ED SCLC is commonly given as a two-drug combination of platinum and etoposide in doses associated with at least moderate toxic effects (as in limited-stage [LD] SCLC).[ 4 ] Cisplatin is associated with significant toxic effects and requires fluid hydration, which can be problematic in patients with cardiovascular disease. Carboplatin is active in SCLC, is dosed according to renal function, and is associated with less nonhematological toxic effects.\nOther regimens appear to produce similar survival outcomes but have been studied less extensively or are in less common use.\nStandard treatment | Etoposide + cisplatin\nEtoposide + carboplatin\nOther regimens | Cisplatin + irinotecan\nIfosfamide + cisplatin + etoposide\nCyclophosphamide + doxorubicin + etoposide\nCyclophosphamide + doxorubicin + etoposide + vincristine\nCyclophosphamide + etoposide + vincristine\nCyclophosphamide + doxorubicin + vincristine\nDoses and schedules used in current programs yield overall response rates of 50% to 80% and complete response rates of 0% to 30% in patients with ED SCLC.[ 5 , 6 ][ Level of evidence A1 ]\nIntracranial metastases from small cell carcinoma may respond to chemotherapy as readily as metastases in other organs.[ 7 , 8 ]\nEvidence (standard regimens):\n- Two meta-analyses evaluated the role of platinum combinations versus nonplatinum combinations.\n- A Cochrane analysis did not identify a difference in 6-, 12-, or 24-month survival.[ 9 ]\n- A meta-analysis of 19 trials published between 1981 and 1999 showed a significant survival advantage for patients receiving platinum-based chemotherapy compared with those receiving a nonplatinum agent.[ 6 ][ Level of evidence A1 ]\n- The Hellenic Oncology Group conducted a phase III trial comparing cisplatin and etoposide with carboplatin plus etoposide.[ 10 ] The median survival was 11.8 months in the cisplatin arm and 12.5 months in the carboplatin arm.[ 10 ][ Level of evidence A1 ] Although this difference was not statistically significant, the trial was underpowered to prove equivalence of the two treatment regimens in patients with either LD or ED.\nEvidence (other combination chemotherapy regimens):\n- Irinotecan. Five trials and two meta-analyses have evaluated the combination of etoposide and cisplatin versus irinotecan and cisplatin. Only one of the trials showed the superiority of the irinotecan-and-cisplatin combination.[ 11 ][ Level of evidence A1 ] Subsequent trials and the meta-analyses support that the regimens provide equivalent clinical benefit with differing toxicity profiles.[ 12 - 17 ][ Level of evidence A1 ] Irinotecan-and-cisplatin regimens led to less grade 3 to 4 anemia, neutropenia, and thrombocytopenia but more grade 3 to 4 vomiting and diarrhea than etoposide-and-cisplatin regimens. Treatment-related deaths were comparable between the two groups.\n- Topotecan. In a randomized trial of 784 patients, the combination of oral topotecan given with cisplatin for 5 days was not superior to etoposide and cisplatin.[ 18 ] The 1-year survival rate was 31% (95% CI, 27%–36%) and was deemed to be noninferior, as the difference of -0.03 met the predefined criteria of no more than 10% absolute difference in 1-year survival.[ 18 ][ Level of evidence A1 ]\n- Paclitaxel. No consistent survival benefit has resulted from the addition of paclitaxel to etoposide and cisplatin.[ 19 , 20 ]\nEvidence (duration of treatment):\n- The optimal duration of chemotherapy is not clearly defined, but no obvious improvement in survival occurs when the duration of drug administration exceeds 6 months.[ 10 , 21 , 22 ]\n- Reported data from randomized trials show no clear evidence that maintenance chemotherapy improves survival duration.[ 23 - 25 ][ Level of evidence A1 ] However, a meta-analysis of 14 published randomized trials assessing the benefit of duration/maintenance therapy reported an odds ratio of 0.67 for both 1- and 2-year OS (95% CI, 0.56–0.79; P < .001 for 1-year OS and 0.53–0.86; P < .001 for 2-year OS). This corresponded to an increase of 9% in 1-year OS and 4% in 2-year OS.[ 26 ][ Level of evidence A1 ]\nEvidence (dose intensification):\n- The role of dose intensification in patients with SCLC remains unclear.[ 27 - 31 ] Early studies showed that under-treatment compromised outcome and suggested that early dose intensification may improve survival.[ 27 , 28 ] A number of clinical trials have examined the use of colony-stimulating factors to support dose-intensified chemotherapy in SCLC.[ 29 - 37 ] These studies have yielded conflicting results.\n- Four studies have shown that a modest increase in dose intensity (25%–34%) was associated with a significant improvement in survival, with no compromise in quality of life (QOL).[ 29 - 32 ][ Level of evidence A1 ]\n- Two of three studies that examined combinations of the variables of interval, dose per cycle, and number of cycles showed no advantage.[ 32 - 35 ][ Level of evidence A1 ]\n- The European Organisation for Research and Treatment of Cancer trial ( EORTC-08923 ) reported a randomized comparison of standard-dose cyclophosphamide, doxorubicin, and etoposide given every 3 weeks for five cycles versus intensified treatment given at 125% of the dose every 2 weeks for four cycles with granulocyte colony-stimulating factor (G-CSF) support.[ 35 ] The median dose intensity delivered was 70% higher in the experimental arm; the median cumulative dose was similar in both arms. There was no difference between treatment groups in median or 2-year survival.\n- A randomized phase III trial compared ifosfamide, cisplatin, and etoposide (ICE), which was given every 4 weeks, with twice weekly ICE with G-CSF and autologous blood support.[ 36 ] Despite achieving a relative dose intensity of 1.84 in the dose-accelerated arm, there was no difference in response rate (88% vs. 80%, respectively), median survival (14.4 vs. 13.9 months, respectively), or 2-year survival (19% vs. 22%, respectively) for dose-dense treatment compared with standard treatment.[ 36 ][ Level of evidence A1 ] Patients who received dose-dense treatment spent less time on treatment and had fewer episodes of infection.\n- A randomized phase II study of identical design reported a significantly better median survival for the dose-dense arm (29.8 vs. 17.4 months, respectively; P = .02) and 2-year survival (62% vs. 36%, respectively; P = .05).[ 37 ] However, given the small study size (only 70 patients), these results should be viewed with caution."
+        },
+        {
+          "section": "Factors influencing treatment with chemotherapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extensive-Stage SCLC",
+            "Treatment Options for Patients With Extensive-Stage SCLC",
+            "Combination chemotherapy",
+            "Factors influencing treatment with chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Performance status. More patients with ED SCLC have greatly impaired performance status at the time of diagnosis than patients with LD. Such patients have a poor prognosis and tolerate aggressive chemotherapy or combined-modality therapy poorly. Single-agent intravenous, oral, and low-dose biweekly regimens have been developed for these patients.[ 33 , 38 - 44 ] Prospective randomized studies have shown that patients with a poor prognosis who are treated with conventional regimens live longer than those treated with single-agent, low-dose regimens or abbreviated courses of therapy. A study comparing chemotherapy every 3 weeks with treatment given as required for symptom control showed an improvement in QOL in patients receiving regular treatment.[ 41 ][ Level of evidence B1 ] Other studies have tested intensive one-drug or two-drug regimens. A study conducted by the Medical Research Council demonstrated similar efficacy for an etoposide-plus-vincristine regimen and a four-drug regimen.[ 42 ] The latter regimen was associated with a greater risk of toxic effects and early death but was superior with respect to palliation of symptoms and psychological distress.[ 42 ][ Level of evidence A3 ] Studies comparing a convenient oral treatment with single-agent oral etoposide versus combination therapy showed that the overall response rate and OS were significantly worse in the oral etoposide arm.[ 38 , 43 ][ Level of evidence A1 ]\n- Age. Subgroup analyses of phase II and III trials of patients with SCLC by age showed that myelosuppression and doxorubicin-induced cardiac toxic effects were more severe in older patients than in younger patients, and that the incidence of treatment-related death tended to be higher in older patients.[ 44 ] About 80% of older patients, however, received optimal treatment, and their survival was comparable with that of younger patients. The standard chemotherapy regimens for the general population could be applied to older patients in good general condition (i.e., performance status of 0–1, normal organ function, and no comorbidity). There is no evidence of a difference in response rate, disease-free survival (DFS), or OS in older patients compared with younger patients."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extensive-Stage SCLC",
+            "Treatment Options for Patients With Extensive-Stage SCLC",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Radiation therapy to sites of metastatic disease unlikely to be immediately palliated by chemotherapy, especially brain, epidural, and bone metastases, is a standard treatment option for patients with ED SCLC. Brain metastases are treated with whole-brain radiation therapy.\nChest radiation therapy is sometimes given for superior vena cava syndrome, but chemotherapy alone, with radiation reserved for nonresponding patients, is appropriate initial treatment. For more information, see Cardiopulmonary Syndromes ."
+        },
+        {
+          "section": "Thoracic radiation therapy for patients who respond to chemotherapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extensive-Stage SCLC",
+            "Treatment Options for Patients With Extensive-Stage SCLC",
+            "Radiation therapy",
+            "Thoracic radiation therapy for patients who respond to chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Patients with ED SCLC treated with chemotherapy who have achieved a response may receive thoracic radiation therapy.\nEvidence (thoracic radiation therapy):\n- A randomized trial of 498 patients who responded after receiving four to six cycles of chemotherapy compared thoracic radiation therapy with 30 Gy in 10 fractions versus no radiation therapy. All patients received PCI.[ 45 ][ Level of evidence A1 ]\n- OS was the primary study end point and not statistically different between the two groups at 1 year (33% for the thoracic radiation therapy group vs. 28% for the control group, P = .066).\n- However, in a secondary analysis, the 2-year OS rate was 13% in the thoracic radiation group (95% CI, 9%–19%) versus 3% in the control group (95% CI, 2%–8%; P = .004). The OS during the entire course of follow-up was not reported.\n- Thoracic radiation therapy resulted in a 6-month PFS rate of 24% in the thoracic radiation group (95% CI, 19%–30%) versus 7% in the control group (95% CI, 4%–11%; P = .001).\n- Intrathoracic recurrences, both isolated (19.8% vs. 46.0%) and in combination with recurrences at other sites (43.7% vs. 79.8%), were reduced by approximately 50%.\n- Thoracic radiation therapy was well tolerated."
+        },
+        {
+          "section": "PCI",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extensive-Stage SCLC",
+            "Treatment Options for Patients With Extensive-Stage SCLC",
+            "Radiation therapy",
+            "PCI"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Patients with ED treated with chemotherapy who have achieved a response can be considered for administration of PCI.\nEvidence (PCI):\n- A randomized trial of 286 patients who responded after four to six cycles of chemotherapy compared PCI with no further therapy.[ 46 ][ Level of evidence B1\n- The cumulative risk of brain metastases within 1 year was 14.6% in the radiation group (95% CI, 8.3%–20.9%) and 40.4% in the control group (95% CI, 32.1%– 48.6%).\n- Radiation was associated with an increase in median DFS from 12.0 weeks to 14.7 weeks and in median OS from 5.4 months to 6.7 months after randomization.\n- The 1-year survival rate was 27.1% (95% CI, 19.4%–35.5%) in the radiation group and 13.3% (95% CI, 8.1%–19.9%) in the control group.[ 46 ]\n- Radiation had side effects but did not have a clinically significant effect on global health status.[ 46 ]\n- Only 29% of the randomly assigned patients had brain imaging at diagnosis.[ 47 ]"
+        },
+        {
+          "section": "Combination chemotherapy and radiation therapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extensive-Stage SCLC",
+            "Treatment Options for Patients With Extensive-Stage SCLC",
+            "Radiation therapy",
+            "Combination chemotherapy and radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Combination chemotherapy plus chest radiation therapy does not appear to improve survival compared with chemotherapy alone in patients with ED SCLC."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extensive-Stage SCLC",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Extensive-Stage SCLC",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 47,
+          "text": "- Rudin CM, Awad MM, Navarro A, et al.: Pembrolizumab or Placebo Plus Etoposide and Platinum as First-Line Therapy for Extensive-Stage Small-Cell Lung Cancer: Randomized, Double-Blind, Phase III KEYNOTE-604 Study. J Clin Oncol 38 (21): 2369-2379, 2020. [PUBMED Abstract]\n- Liu SV, Reck M, Mansfield AS, et al.: Updated Overall Survival and PD-L1 Subgroup Analysis of Patients With Extensive-Stage Small-Cell Lung Cancer Treated With Atezolizumab, Carboplatin, and Etoposide (IMpower133). J Clin Oncol 39 (6): 619-630, 2021. [PUBMED Abstract]\n- Goldman JW, Dvorkin M, Chen Y, et al.: Durvalumab, with or without tremelimumab, plus platinum-etoposide versus platinum-etoposide alone in first-line treatment of extensive-stage small-cell lung cancer (CASPIAN): updated results from a randomised, controlled, open-label, phase 3 trial. Lancet Oncol 22 (1): 51-65, 2021. [PUBMED Abstract]\n- Okamoto H, Watanabe K, Kunikane H, et al.: Randomised phase III trial of carboplatin plus etoposide vs split doses of cisplatin plus etoposide in elderly or poor-risk patients with extensive disease small-cell lung cancer: JCOG 9702. Br J Cancer 97 (2): 162-9, 2007. [PUBMED Abstract]\n- Roth BJ, Johnson DH, Einhorn LH, et al.: Randomized study of cyclophosphamide, doxorubicin, and vincristine versus etoposide and cisplatin versus alternation of these two regimens in extensive small-cell lung cancer: a phase III trial of the Southeastern Cancer Study Group. J Clin Oncol 10 (2): 282-91, 1992. [PUBMED Abstract]\n- Pujol JL, Carestia L, Daurès JP: Is there a case for cisplatin in the treatment of small-cell lung cancer? A meta-analysis of randomized trials of a cisplatin-containing regimen versus a regimen without this alkylating agent. Br J Cancer 83 (1): 8-15, 2000. [PUBMED Abstract]\n- Twelves CJ, Souhami RL, Harper PG, et al.: The response of cerebral metastases in small cell lung cancer to systemic chemotherapy. Br J Cancer 61 (1): 147-50, 1990. [PUBMED Abstract]\n- Nugent JL, Bunn PA, Matthews MJ, et al.: CNS metastases in small cell bronchogenic carcinoma: increasing frequency and changing pattern with lengthening survival. Cancer 44 (5): 1885-93, 1979. [PUBMED Abstract]\n- Amarasena IU, Walters JA, Wood-Baker R, et al.: Platinum versus non-platinum chemotherapy regimens for small cell lung cancer. Cochrane Database Syst Rev (4): CD006849, 2008. [PUBMED Abstract]\n- Controlled trial of twelve versus six courses of chemotherapy in the treatment of small-cell lung cancer. Report to the Medical Research Council by its Lung Cancer Working Party. Br J Cancer 59 (4): 584-90, 1989. [PUBMED Abstract]\n- Noda K, Nishiwaki Y, Kawahara M, et al.: Irinotecan plus cisplatin compared with etoposide plus cisplatin for extensive small-cell lung cancer. N Engl J Med 346 (2): 85-91, 2002. [PUBMED Abstract]\n- Hanna N, Bunn PA, Langer C, et al.: Randomized phase III trial comparing irinotecan/cisplatin with etoposide/cisplatin in patients with previously untreated extensive-stage disease small-cell lung cancer. J Clin Oncol 24 (13): 2038-43, 2006. [PUBMED Abstract]\n- Lara PN, Natale R, Crowley J, et al.: Phase III trial of irinotecan/cisplatin compared with etoposide/cisplatin in extensive-stage small-cell lung cancer: clinical and pharmacogenomic results from SWOG S0124. J Clin Oncol 27 (15): 2530-5, 2009. [PUBMED Abstract]\n- Schmittel A, Sebastian M, Fischer von Weikersthal L, et al.: A German multicenter, randomized phase III trial comparing irinotecan-carboplatin with etoposide-carboplatin as first-line therapy for extensive-disease small-cell lung cancer. Ann Oncol 22 (8): 1798-804, 2011. [PUBMED Abstract]\n- Zatloukal P, Cardenal F, Szczesna A, et al.: A multicenter international randomized phase III study comparing cisplatin in combination with irinotecan or etoposide in previously untreated small-cell lung cancer patients with extensive disease. Ann Oncol 21 (9): 1810-6, 2010. [PUBMED Abstract]\n- Jiang J, Liang X, Zhou X, et al.: A meta-analysis of randomized controlled trials comparing irinotecan/platinum with etoposide/platinum in patients with previously untreated extensive-stage small cell lung cancer. J Thorac Oncol 5 (6): 867-73, 2010. [PUBMED Abstract]\n- Guo S, Liang Y, Zhou Q: Complement and correction for meta-analysis of patients with extensive-stage small cell lung cancer managed with irinotecan/cisplatin versus etoposide/cisplatin as first-line chemotherapy. J Thorac Oncol 6 (2): 406-8; author reply 408, 2011. [PUBMED Abstract]\n- Eckardt JR, von Pawel J, Papai Z, et al.: Open-label, multicenter, randomized, phase III study comparing oral topotecan/cisplatin versus etoposide/cisplatin as treatment for chemotherapy-naive patients with extensive-disease small-cell lung cancer. J Clin Oncol 24 (13): 2044-51, 2006. [PUBMED Abstract]\n- Mavroudis D, Papadakis E, Veslemes M, et al.: A multicenter randomized clinical trial comparing paclitaxel-cisplatin-etoposide versus cisplatin-etoposide as first-line treatment in patients with small-cell lung cancer. Ann Oncol 12 (4): 463-70, 2001. [PUBMED Abstract]\n- Niell HB, Herndon JE, Miller AA, et al.: Randomized phase III intergroup trial of etoposide and cisplatin with or without paclitaxel and granulocyte colony-stimulating factor in patients with extensive-stage small-cell lung cancer: Cancer and Leukemia Group B Trial 9732. J Clin Oncol 23 (16): 3752-9, 2005. [PUBMED Abstract]\n- Spiro SG, Souhami RL, Geddes DM, et al.: Duration of chemotherapy in small cell lung cancer: a Cancer Research Campaign trial. Br J Cancer 59 (4): 578-83, 1989. [PUBMED Abstract]\n- Bleehen NM, Girling DJ, Machin D, et al.: A randomised trial of three or six courses of etoposide cyclophosphamide methotrexate and vincristine or six courses of etoposide and ifosfamide in small cell lung cancer (SCLC). I: Survival and prognostic factors. Medical Research Council Lung Cancer Working Party. Br J Cancer 68 (6): 1150-6, 1993. [PUBMED Abstract]\n- Giaccone G, Dalesio O, McVie GJ, et al.: Maintenance chemotherapy in small-cell lung cancer: long-term results of a randomized trial. European Organization for Research and Treatment of Cancer Lung Cancer Cooperative Group. J Clin Oncol 11 (7): 1230-40, 1993. [PUBMED Abstract]\n- Sculier JP, Paesmans M, Bureau G, et al.: Randomized trial comparing induction chemotherapy versus induction chemotherapy followed by maintenance chemotherapy in small-cell lung cancer. European Lung Cancer Working Party. J Clin Oncol 14 (8): 2337-44, 1996. [PUBMED Abstract]\n- Schiller JH, Adak S, Cella D, et al.: Topotecan versus observation after cisplatin plus etoposide in extensive-stage small-cell lung cancer: E7593--a phase III trial of the Eastern Cooperative Oncology Group. J Clin Oncol 19 (8): 2114-22, 2001. [PUBMED Abstract]\n- Bozcuk H, Artac M, Ozdogan M, et al.: Does maintenance/consolidation chemotherapy have a role in the management of small cell lung cancer (SCLC)? A metaanalysis of the published controlled trials. Cancer 104 (12): 2650-7, 2005. [PUBMED Abstract]\n- Cohen MH, Creaven PJ, Fossieck BE, et al.: Intensive chemotherapy of small cell bronchogenic carcinoma. Cancer Treat Rep 61 (3): 349-54, 1977 May-Jun. [PUBMED Abstract]\n- Arriagada R, Le Chevalier T, Pignon JP, et al.: Initial chemotherapeutic doses and survival in patients with limited small-cell lung cancer. N Engl J Med 329 (25): 1848-52, 1993. [PUBMED Abstract]\n- Fukuoka M, Masuda N, Negoro S, et al.: CODE chemotherapy with and without granulocyte colony-stimulating factor in small-cell lung cancer. Br J Cancer 75 (2): 306-9, 1997. [PUBMED Abstract]\n- Woll PJ, Hodgetts J, Lomax L, et al.: Can cytotoxic dose-intensity be increased by using granulocyte colony-stimulating factor? A randomized controlled trial of lenograstim in small-cell lung cancer. J Clin Oncol 13 (3): 652-9, 1995. [PUBMED Abstract]\n- Steward WP, von Pawel J, Gatzemeier U, et al.: Effects of granulocyte-macrophage colony-stimulating factor and dose intensification of V-ICE chemotherapy in small-cell lung cancer: a prospective randomized study of 300 patients. J Clin Oncol 16 (2): 642-50, 1998. [PUBMED Abstract]\n- Thatcher N, Girling DJ, Hopwood P, et al.: Improving survival without reducing quality of life in small-cell lung cancer patients by increasing the dose-intensity of chemotherapy with granulocyte colony-stimulating factor support: results of a British Medical Research Council Multicenter Randomized Trial. Medical Research Council Lung Cancer Working Party. J Clin Oncol 18 (2): 395-404, 2000. [PUBMED Abstract]\n- James LE, Gower NH, Rudd RM, et al.: A randomised trial of low-dose/high-frequency chemotherapy as palliative treatment of poor-prognosis small-cell lung cancer: a Cancer research Campaign trial. Br J Cancer 73 (12): 1563-8, 1996. [PUBMED Abstract]\n- Pujol JL, Douillard JY, Rivière A, et al.: Dose-intensity of a four-drug chemotherapy regimen with or without recombinant human granulocyte-macrophage colony-stimulating factor in extensive-stage small-cell lung cancer: a multicenter randomized phase III study. J Clin Oncol 15 (5): 2082-9, 1997. [PUBMED Abstract]\n- Ardizzoni A, Tjan-Heijnen VC, Postmus PE, et al.: Standard versus intensified chemotherapy with granulocyte colony-stimulating factor support in small-cell lung cancer: a prospective European Organization for Research and Treatment of Cancer-Lung Cancer Group Phase III Trial-08923. J Clin Oncol 20 (19): 3947-55, 2002. [PUBMED Abstract]\n- Lorigan P, Woll PJ, O'Brien ME, et al.: Randomized phase III trial of dose-dense chemotherapy supported by whole-blood hematopoietic progenitors in better-prognosis small-cell lung cancer. J Natl Cancer Inst 97 (9): 666-74, 2005. [PUBMED Abstract]\n- Buchholz E, Manegold C, Pilz L, et al.: Standard versus dose-intensified chemotherapy with sequential reinfusion of hematopoietic progenitor cells in small cell lung cancer patients with favorable prognosis. J Thorac Oncol 2 (1): 51-8, 2007. [PUBMED Abstract]\n- Girling DJ: Comparison of oral etoposide and standard intravenous multidrug chemotherapy for small-cell lung cancer: a stopped multicentre randomised trial. Medical Research Council Lung Cancer Working Party. Lancet 348 (9027): 563-6, 1996. [PUBMED Abstract]\n- Murray N, Grafton C, Shah A, et al.: Abbreviated treatment for elderly, infirm, or noncompliant patients with limited-stage small-cell lung cancer. J Clin Oncol 16 (10): 3323-8, 1998. [PUBMED Abstract]\n- Westeel V, Murray N, Gelmon K, et al.: New combination of the old drugs for elderly patients with small-cell lung cancer: a phase II study of the PAVE regimen. J Clin Oncol 16 (5): 1940-7, 1998. [PUBMED Abstract]\n- Earl HM, Rudd RM, Spiro SG, et al.: A randomised trial of planned versus as required chemotherapy in small cell lung cancer: a Cancer Research Campaign trial. Br J Cancer 64 (3): 566-72, 1991. [PUBMED Abstract]\n- Randomised trial of four-drug vs less intensive two-drug chemotherapy in the palliative treatment of patients with small-cell lung cancer (SCLC) and poor prognosis. Medical Research Council Lung Cancer Working Party. Br J Cancer 73 (3): 406-13, 1996. [PUBMED Abstract]\n- Souhami RL, Spiro SG, Rudd RM, et al.: Five-day oral etoposide treatment for advanced small-cell lung cancer: randomized comparison with intravenous chemotherapy. J Natl Cancer Inst 89 (8): 577-80, 1997. [PUBMED Abstract]\n- Sekine I, Yamamoto N, Kunitoh H, et al.: Treatment of small cell lung cancer in the elderly based on a critical literature review of clinical trials. Cancer Treat Rev 30 (4): 359-68, 2004. [PUBMED Abstract]\n- Slotman BJ, van Tinteren H, Praag JO, et al.: Use of thoracic radiotherapy for extensive stage small-cell lung cancer: a phase 3 randomised controlled trial. Lancet 385 (9962): 36-42, 2015. [PUBMED Abstract]\n- Slotman B, Faivre-Finn C, Kramer G, et al.: Prophylactic cranial irradiation in extensive small-cell lung cancer. N Engl J Med 357 (7): 664-72, 2007. [PUBMED Abstract]\n- Shivnani AT: Prophylactic cranial irradiation in small-cell lung cancer. N Engl J Med 357 (19): 1977; author reply 1978, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Patients With Recurrent SCLC",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent SCLC",
+            "Treatment Options for Patients With Recurrent SCLC"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Treatment options for patients with recurrent small cell lung cancer (SCLC) include:\n- Chemotherapy .\n- Topotecan .\n- Lurbinectedin .\n- Other chemotherapy agents .\n- Immunotherapy .\n- Tarlatamab .\n- Immune checkpoint modulation .\n- Palliative therapy .\n- Phase I and II clinical trials evaluating new drugs, including bispecific T-cell engager (BiTE) immunotherapies.\nAt the time of recurrence, many patients with SCLC are potential candidates for further therapy.\nFor patients with recurrent SCLC, immune checkpoint modulation with anti–programmed death-ligand 1 (anti–PD-L1) antibodies may lead to durable responses either as single agents or in combination with cytotoxic T lymphocyte antigen-4 (anti–CTLA-4). Impacts on long-term survival from these approaches are being assessed in randomized trials."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent SCLC",
+            "Treatment Options for Patients With Recurrent SCLC",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Although second-line chemotherapy has produced tumor regression, responses are usually short lived. The median survival is rarely more than 12 months and usually less than 6 months after second-line therapy.[ 1 ] Response to first-line chemotherapy predicts subsequent response to second-line therapy.\nAs in other chemosensitive tumors (e.g., Hodgkin lymphoma and ovarian epithelial cancer), two main categories of patients receiving second-line chemotherapy have been described: sensitive and resistant. Sensitive patients have a first-line response that lasted more than 90 days after treatment was completed. These patients have the greatest benefit from second-line chemotherapy. Patients with sensitive disease respond to the same initial regimen in approximately 50% of cases; however, cumulative toxic effects may ensue.[ 2 ] Resistant patients either did not respond to first-line chemotherapy or responded initially but relapsed within 90 days of completion of their primary therapy.[ 3 ] Results from phase II studies of drugs such as topotecan, irinotecan, and gemcitabine indicate that response rates to agents vary depending on whether patients have sensitive, resistant, or refractory disease.[ 4 - 8 ][ Level of evidence C2 ]\nTopotecan is a standard chemotherapy for recurrent SCLC.[ 9 , 10 ] Lurbinectedin, a selective inhibitor of oncogenic transcription, is another option.[ 11 ] Patients with sensitive disease may achieve response to a number of agents including topotecan, irinotecan, taxanes, vinorelbine, paclitaxel, or gemcitabine.[ 4 - 8 , 12 - 14 ][ Level of evidence C2 ] Response rates for combination agents are generally higher than those reported for single agents,[ 15 , 16 ] and one phase III study reported improved survival for patients with sensitive disease treated with combination cisplatin, etoposide, and irinotecan. However, higher rates of toxicity have been seen.[ 17 ]"
+        },
+        {
+          "section": "Topotecan",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent SCLC",
+            "Treatment Options for Patients With Recurrent SCLC",
+            "Chemotherapy",
+            "Topotecan"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Evidence (topotecan and other chemotherapy agents):\n- A randomized comparison of second-line treatment with either cyclophosphamide, doxorubicin, and vincristine or topotecan in patients with sensitive disease reported no significant difference in response rates or survival. However, palliation of common lung cancer symptoms was better with topotecan.[ 9 ][ Level of evidence A3 ]\n- A phase III trial comparing chemotherapy with best supportive care (BSC) in patients with relapsed SCLC demonstrated that the addition of oral topotecan to BSC significantly increased overall survival (OS) and resulted in better symptom control compared with BSC alone.[ 10 ][ Level of evidence A1 ] The study enrolled 141 patients with chemosensitive or chemoresistant relapsed SCLC who were unsuitable for further standard intravenous chemotherapy. The median survivals for patients receiving topotecan plus BSC were 25.9 weeks versus 13.9 weeks for BSC alone ( P = .01).[ 10 ]\n- A randomized phase III trial (CWRU-SKF-1598 [ NCT00003917 ]) of 304 patients assessed the use of oral topotecan (2.3 mg/m 2 /day for 5 days every 21 days) or intravenous topotecan (1.5 mg/m 2 /day for 5 days every 21 days). Confirmed response rates were 18.3% and 21.9%, respectively.[ 12 ][ Level of evidence B1 ] Secondary end points of median survival and 1-year survival rates were also similar (33 weeks vs. 35 weeks and 33% vs. 29%, respectively). Patients receiving oral topotecan experienced less grade 4 neutropenia (47% vs. 64.2%) but more diarrhea of all grades (35.9% vs. 19.9%) than with intravenous topotecan. Quality-of-life (QOL) analysis (using a nonvalidated QOL questionnaire) demonstrated no significant difference between the two arms."
+        },
+        {
+          "section": "Lurbinectedin",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent SCLC",
+            "Treatment Options for Patients With Recurrent SCLC",
+            "Chemotherapy",
+            "Lurbinectedin"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Evidence (lurbinectedin):\n- A single-arm, open-label, phase II basket trial ( NCT02454972 ) enrolled 105 patients with SCLC who had been previously treated with one line of a chemotherapy-containing regimen.[ 11 ]\n- The overall response rate after treatment with lurbinectedin was 35% (95% confidence interval [CI], 26%−45%), with a median response duration of 5.3 months (95% CI, 4.1−6.4).\n- The overall response rate was 45% (95% CI, 32%−58%) for patients with chemosensitive disease and 22% (95% CI, 11%−37%) for patients with chemoresistant disease.\n- The median duration of response was 6.2 months (95% CI, 3.5−7.3) for patients with chemosensitive disease and 4.7 months (95% CI, 2.6−5.6) for patients with chemoresistant disease.[ 11 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Other chemotherapy agents",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent SCLC",
+            "Treatment Options for Patients With Recurrent SCLC",
+            "Chemotherapy",
+            "Other chemotherapy agents"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Evidence (other chemotherapy agents):\n- A phase III trial (University Hospital Medical Information Network Clinical Trials Registry [UMIN000000828]) in Japan included 180 patients with extensive-stage SCLC, who had responded to first-line platinum-doublet chemotherapy but had their disease progress more than 90 days after completion of chemotherapy. Patients were randomly assigned 1:1 to receive intravenous topotecan for four cycles, which is the standard of care, or five 2-week cycles of cisplatin, etoposide, and irinotecan.[ 17 ]\n- The primary end point of OS was significantly prolonged with the combination of cisplatin, etoposide, and irinotecan (18.2 months; 95% CI, 15.7–20.6) compared with topotecan alone (12.5 months; 95% CI, 10.8–14.9; hazard ratio, 0.67; 90% CI, 0.51–0.88; P = .0079).\n- Rates of grade 3 to 4 toxicities were higher in patients treated with the combination regimen. Toxicities included febrile neutropenia (31% for the combination arm vs. 7% for topotecan alone) and thrombocytopenia (41% for the combination arm vs. 28% for topotecan alone).[ 17 ][ Level of evidence A1 ]"
+        },
+        {
+          "section": "Tarlatamab",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent SCLC",
+            "Treatment Options for Patients With Recurrent SCLC",
+            "Immunotherapy",
+            "Tarlatamab"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Tarlatamab is a BiTE immunotherapy drug that targets delta-like ligand 3 (DLL3) and CD3. BiTE technology is a targeted immuno-oncology platform designed to engage a patient's own T cells to any tumor-specific antigen, activating the cytotoxic potential of T cells to eliminate detectable cancer.\nEvidence (tarlatamab):\n- The phase II DeLLphi-301 trial (NCT05060016) evaluated the efficacy and safety of two doses of tarlatamab (10 mg or 100 mg every 2 weeks) in 220 patients with previously treated SCLC. Patients had previously received a median of two lines of treatment. The primary end point was objective response rate by blinded independent central review.[ 18 ]\n- The objective response rates were 40% (97.5% CI, 29%–52%) for patients who received 10 mg of tarlatamab and 32% (97.5% CI, 21%–44%) for patients who received 100 mg of tarlatamab. The median duration of response was not reached.\n- The median progression-free survival was 4.9 months (95% CI, 2.9–6.7) with 10 mg of tarlatamab and 3.9 months (95% CI, 2.6–4.4) with 100 mg of tarlatamab.\n- The most common adverse events were cytokine release syndrome (51% with 10 mg, 61% with 100 mg), decreased appetite, pyrexia, constipation, and anemia.\n- Cytokine release syndrome occurred after the first one to two doses and was managed with supportive care.\n- Neurological adverse events suggestive of immune effector cell–associated neurotoxicity syndrome were higher for patients who received 100 mg (28%) compared with patients who received 10 mg (8%).\n- The 10-mg dose showed improved tolerability over the 100-mg dose, with similar efficacy."
+        },
+        {
+          "section": "Immune checkpoint modulation",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent SCLC",
+            "Treatment Options for Patients With Recurrent SCLC",
+            "Immune checkpoint modulation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Early phase Ib and II trials showed objective response rates of 10% to 33% with nivolumab or pembrolizumab treatment in patients with disease progression after one or more lines of chemotherapy, resulting in accelerated approval from the U.S. Food and Drug Administration. However, both agents were voluntarily withdrawn after subsequent trials failed to confirm benefit.[ 19 , 20 ]"
+        },
+        {
+          "section": "Palliative therapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent SCLC",
+            "Treatment Options for Patients With Recurrent SCLC",
+            "Palliative therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Patients with central nervous system (CNS) recurrences can often obtain palliation of symptoms with additional chemotherapy and/or radiation therapy. A retrospective review showed that 43% of patients had disease response when treated with additional chemotherapy at the time of CNS relapse.[ 21 ] Most patients treated with radiation therapy obtain objective responses and improvement after radiation therapy.[ 22 ]\nSome patients with intrinsic endobronchial obstructing lesions or extrinsic compression caused by the tumor have achieved successful palliation with endobronchial laser therapy (for endobronchial lesions only) and/or brachytherapy.[ 23 ] Expandable metal stents can be safely inserted under local anesthesia via the bronchoscope, which results in improved symptoms and pulmonary function in patients with malignant airways obstruction.[ 24 ]\nPatients with progressive intrathoracic tumor after failing initial chemotherapy can achieve significant tumor responses, palliation of symptoms, and short-term local control with external-beam radiation therapy. Only the rare patient, however, will experience long-term survival after receiving salvage radiation therapy.[ 25 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent SCLC",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Recurrent SCLC",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 25,
+          "text": "- Davies AM, Evans WK, Mackay JA, et al.: Treatment of recurrent small cell lung cancer. Hematol Oncol Clin North Am 18 (2): 387-416, 2004. [PUBMED Abstract]\n- Postmus PE, Berendsen HH, van Zandwijk N, et al.: Retreatment with the induction regimen in small cell lung cancer relapsing after an initial response to short term chemotherapy. Eur J Cancer Clin Oncol 23 (9): 1409-11, 1987. [PUBMED Abstract]\n- Giaccone G, Donadio M, Bonardi G, et al.: Teniposide in the treatment of small-cell lung cancer: the influence of prior chemotherapy. J Clin Oncol 6 (8): 1264-70, 1988. [PUBMED Abstract]\n- Sandler AB: Irinotecan in small-cell lung cancer: the US experience. Oncology (Williston Park) 15 (1 Suppl 1): 11-2, 2001. [PUBMED Abstract]\n- van der Lee I, Smit EF, van Putten JW, et al.: Single-agent gemcitabine in patients with resistant small-cell lung cancer. Ann Oncol 12 (4): 557-61, 2001. [PUBMED Abstract]\n- Masuda N, Fukuoka M, Kusunoki Y, et al.: CPT-11: a new derivative of camptothecin for the treatment of refractory or relapsed small-cell lung cancer. J Clin Oncol 10 (8): 1225-9, 1992. [PUBMED Abstract]\n- Perez-Soler R, Glisson BS, Lee JS, et al.: Treatment of patients with small-cell lung cancer refractory to etoposide and cisplatin with the topoisomerase I poison topotecan. J Clin Oncol 14 (10): 2785-90, 1996. [PUBMED Abstract]\n- Masters GA, Declerck L, Blanke C, et al.: Phase II trial of gemcitabine in refractory or relapsed small-cell lung cancer: Eastern Cooperative Oncology Group Trial 1597. J Clin Oncol 21 (8): 1550-5, 2003. [PUBMED Abstract]\n- von Pawel J, Schiller JH, Shepherd FA, et al.: Topotecan versus cyclophosphamide, doxorubicin, and vincristine for the treatment of recurrent small-cell lung cancer. J Clin Oncol 17 (2): 658-67, 1999. [PUBMED Abstract]\n- O'Brien ME, Ciuleanu TE, Tsekov H, et al.: Phase III trial comparing supportive care alone with supportive care with oral topotecan in patients with relapsed small-cell lung cancer. J Clin Oncol 24 (34): 5441-7, 2006. [PUBMED Abstract]\n- Trigo J, Subbiah V, Besse B, et al.: Lurbinectedin as second-line treatment for patients with small-cell lung cancer: a single-arm, open-label, phase 2 basket trial. Lancet Oncol 21 (5): 645-654, 2020. [PUBMED Abstract]\n- Eckardt JR, von Pawel J, Pujol JL, et al.: Phase III study of oral compared with intravenous topotecan as second-line therapy in small-cell lung cancer. J Clin Oncol 25 (15): 2086-92, 2007. [PUBMED Abstract]\n- Ardizzoni A, Hansen H, Dombernowsky P, et al.: Topotecan, a new active drug in the second-line treatment of small-cell lung cancer: a phase II study in patients with refractory and sensitive disease. The European Organization for Research and Treatment of Cancer Early Clinical Studies Group and New Drug Development Office, and the Lung Cancer Cooperative Group. J Clin Oncol 15 (5): 2090-6, 1997. [PUBMED Abstract]\n- Furuse K, Kubota K, Kawahara M, et al.: Phase II study of vinorelbine in heavily previously treated small cell lung cancer. Japan Lung Cancer Vinorelbine Study Group. Oncology 53 (2): 169-72, 1996 Mar-Apr. [PUBMED Abstract]\n- Smit EF, Fokkema E, Biesma B, et al.: A phase II study of paclitaxel in heavily pretreated patients with small-cell lung cancer. Br J Cancer 77 (2): 347-51, 1998. [PUBMED Abstract]\n- Rocha-Lima CM, Herndon JE, Lee ME, et al.: Phase II trial of irinotecan/gemcitabine as second-line therapy for relapsed and refractory small-cell lung cancer: Cancer and Leukemia Group B Study 39902. Ann Oncol 18 (2): 331-7, 2007. [PUBMED Abstract]\n- Goto K, Ohe Y, Shibata T, et al.: Combined chemotherapy with cisplatin, etoposide, and irinotecan versus topotecan alone as second-line treatment for patients with sensitive relapsed small-cell lung cancer (JCOG0605): a multicentre, open-label, randomised phase 3 trial. Lancet Oncol 17 (8): 1147-1157, 2016. [PUBMED Abstract]\n- Ahn MJ, Cho BC, Felip E, et al.: Tarlatamab for Patients with Previously Treated Small-Cell Lung Cancer. N Engl J Med 389 (22): 2063-2075, 2023. [PUBMED Abstract]\n- Antonia SJ, López-Martin JA, Bendell J, et al.: Nivolumab alone and nivolumab plus ipilimumab in recurrent small-cell lung cancer (CheckMate 032): a multicentre, open-label, phase 1/2 trial. Lancet Oncol 17 (7): 883-895, 2016. [PUBMED Abstract]\n- Ott PA, Elez E, Hiret S, et al.: Pembrolizumab in Patients With Extensive-Stage Small-Cell Lung Cancer: Results From the Phase Ib KEYNOTE-028 Study. J Clin Oncol 35 (34): 3823-3829, 2017. [PUBMED Abstract]\n- Kristensen CA, Kristjansen PE, Hansen HH: Systemic chemotherapy of brain metastases from small-cell lung cancer: a review. J Clin Oncol 10 (9): 1498-502, 1992. [PUBMED Abstract]\n- Carmichael J, Crane JM, Bunn PA, et al.: Results of therapeutic cranial irradiation in small cell lung cancer. Int J Radiat Oncol Biol Phys 14 (3): 455-9, 1988. [PUBMED Abstract]\n- Miller JI, Phillips TW: Neodymium:YAG laser and brachytherapy in the management of inoperable bronchogenic carcinoma. Ann Thorac Surg 50 (2): 190-5; discussion 195-6, 1990. [PUBMED Abstract]\n- Wilson GE, Walshaw MJ, Hind CR: Treatment of large airway obstruction in lung cancer using expandable metal stents inserted under direct vision via the fibreoptic bronchoscope. Thorax 51 (3): 248-52, 1996. [PUBMED Abstract]\n- Ochs JJ, Tester WJ, Cohen MH, et al.: \"Salvage\" radiation therapy for intrathoracic small cell carcinoma of the lung progressing on combination chemotherapy. Cancer Treat Rep 67 (12): 1123-6, 1983. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (05/14/2025)",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (05/14/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of small cell lung cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 12,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Small Cell Lung Cancer Treatment are:\n- Janet Dancey, MD, FRCPC (Ontario Institute for Cancer Research & NCIC Clinical Trials Group)\n- Monaliben Patel, MD (University of Rochester Medical Center)\n- Arun Rajan, MD (National Cancer Institute)\n- Eva Szabo, MD (National Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Small Cell Lung Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/lung/hp/small-cell-lung-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389347]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\2cbbafe249fd41eec144.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Small Cell Lung Cancer",
+      "title": "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+      "summary_name": "Small Cell Lung Cancer Treatment",
+      "url": "https://www.cancer.gov/types/lung/patient/small-cell-lung-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 8, 2025",
+      "retrieved_at": "2026-08-31T07:12:12.408684+00:00",
+      "content_sha256": "6c7154a9f3d574eb402be35940fd2f799bc33cf2111c650a79d960c0b42de0c3",
+      "section_count": 35,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Cell Lung Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- Small cell lung cancer is a type of fast-growing cancer that forms in the tissues of the lung.\n- There are two main types of small cell lung cancer.\n- Smoking is the major risk factor for small cell lung cancer.\n- Signs and symptoms of small cell lung cancer include coughing and shortness of breath.\n- Tests and procedures that examine the lungs are used to diagnose and stage small cell lung cancer.\n- After small cell lung cancer has been diagnosed, tests are done to find out if cancer cells have spread within the chest or to other parts of the body.\n- Some people decide to get a second opinion.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Small cell lung cancer is a type of fast-growing cancer that forms in the tissues of the lung.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Cell Lung Cancer",
+            "Small cell lung cancer is a type of fast-growing cancer that forms in the tissues of the lung."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The lungs are a pair of cone-shaped breathing organs in the chest. The lungs bring oxygen into the body as you breathe in. They release carbon dioxide , a waste product of the body's cells, as you breathe out. Each lung has sections called lobes. The left lung has two lobes. The right lung is slightly larger and has three lobes. A thin membrane called the pleura surrounds the lungs. Two tubes called bronchi lead from the trachea (windpipe) to the right and left lungs. Lung cancer may also form in the bronchi. Small tubes called bronchioles and tiny air sacs called alveoli make up the inside of the lungs. Enlarge Anatomy of the respiratory system showing the trachea, the right and left lungs and their lobes, and the bronchi. The lymph nodes and the diaphragm are also shown. Oxygen is inhaled into the lungs and passes through the alveoli (the tiny air sacs at the end of the bronchioles) and into the bloodstream (see inset), where it travels to the tissues throughout the body.\nThere are two types of lung cancer: small cell lung cancer and non-small cell lung cancer . Small cell lung cancer is less common than non-small cell lung cancer."
+        },
+        {
+          "section": "There are two main types of small cell lung cancer.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Cell Lung Cancer",
+            "There are two main types of small cell lung cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The cancer cells of each type grow and spread in different ways. The types of small cell lung cancer are named for the kinds of cells found in the cancer and how the cells look when viewed under a microscope. The cancer cells of each type grow and spread in different ways:\n- Small cell carcinoma (also called oat cell cancer) is a type of lung cancer that can grow and spread quickly, often leading to the cancer spreading to other parts of the body early in the disease process. This is the most common type of small cell lung cancer.\n- Combined small cell carcinoma is a rare subtype of lung cancer that has characteristics of small cell lung cancer and non-small cell lung cancer in the same tumor."
+        },
+        {
+          "section": "Smoking is the major risk factor for small cell lung cancer.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Cell Lung Cancer",
+            "Smoking is the major risk factor for small cell lung cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 18,
+          "text": "Lung cancer is caused by certain changes to the way lung cells function, especially how they grow and divide into new cells. There are many risk factors for lung cancer, but many do not directly cause cancer. Instead, they increase the chance of DNA damage in cells that may lead to lung cancer. Learn more about how cancer develops at What Is Cancer?\nA risk factor is anything that increases the chance of getting a disease. Some risk factors for lung cancer, like smoking, can be changed. However, risk factors also include things you cannot change, like your genetics, age, and family history . Learning about risk factors for lung cancer can help you make changes that might lower your risk of getting it.\nSmoking tobacco now or in the past is the most important risk factor for lung cancer. Smoking cigarettes , pipes , or cigars increases the risk of lung cancer. The earlier in life a person starts smoking, the more often a person smokes, and the more years a person smokes, the greater the risk of lung cancer.\nOther risk factors for lung cancer include:\n- being exposed to secondhand smoke\n- being exposed to asbestos , arsenic , chromium, beryllium, nickel, soot, or tar in the workplace\n- being exposed to radiation from:\n- radiation therapy to the breast or chest\n- radon in the home or workplace\n- imaging tests such as CT scans\n- atomic bomb radiation\n- living where there is air pollution\n- having a family history of lung cancer\n- being infected with HIV\n- taking beta carotene supplements and being a heavy smoker\nOlder age is the main risk factor for most cancers. The chance of getting cancer increases as you get older.\nHaving one or more of these risk factors does not necessarily mean you will get lung cancer. Many people with risk factors never develop lung cancer, whereas others with no known risk factors do. Talk with your doctor if you think you might be at increased risk.\nWhen smoking is combined with other risk factors , the risk of lung cancer is increased."
+        },
+        {
+          "section": "Signs and symptoms of small cell lung cancer include coughing and shortness of breath.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Cell Lung Cancer",
+            "Signs and symptoms of small cell lung cancer include coughing and shortness of breath."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "These and other signs and symptoms may be caused by small cell lung cancer or by other conditions. Check with your doctor if you have:\n- chest discomfort or pain\n- a cough that doesn't go away or gets worse over time\n- trouble breathing\n- wheezing\n- blood in sputum (mucus coughed up from the lungs)\n- hoarseness\n- trouble swallowing\n- loss of appetite\n- weight loss for no known reason\n- feeling very tired\n- swelling in the face and veins in the neck"
+        },
+        {
+          "section": "Tests and procedures that examine the lungs are used to diagnose and stage small cell lung cancer.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Cell Lung Cancer",
+            "Tests and procedures that examine the lungs are used to diagnose and stage small cell lung cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "In addition to asking about your personal and family health history and doing a physical exam , your doctor may perform the following tests and procedures:\n- Laboratory tests are medical procedures that test samples of tissue, blood, urine , or other substances in the body. These tests help to diagnose disease, plan and check treatment, or monitor the disease over time.\n- Chest x-ray is a type of radiation that can go through the body and make pictures of the organs and bones inside the chest. Enlarge A chest x-ray is used to take pictures of the structures and organs inside the chest. X-rays pass through the patient's body onto film or a computer.\n- CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body, such as the brain, chest, and abdomen. The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more about Computed Tomography (CT) Scans and Cancer .\n- Sputum cytology uses a microscope to check for cancer cells in the sputum (mucus coughed up from the lungs).\n- Biopsy is the removal of a sample of cells or tissue from the tumor so that a pathologist can view it under a microscope to check for cancer. The different ways a biopsy can be done include:\n- Fine-needle aspiration (FNA) biopsy of the lung is the removal of tissue or fluid from the lung, using a thin needle. A CT scan, ultrasound , or other imaging procedure is used to find the abnormal tissue or fluid in the lung. A small incision may be made in the skin where the biopsy needle is inserted into the abnormal tissue or fluid. A sample is removed with the needle and sent to the laboratory. A pathologist then views the sample under a microscope to look for cancer cells. A chest x-ray is done after the procedure to make sure no air is leaking from the lung into the chest. Enlarge Fine-needle aspiration biopsy of the lung. The patient lies on a table that slides through the computed tomography (CT) machine, which takes x-ray pictures of the inside of the body. The x-ray pictures help the doctor see where the abnormal tissue is in the lung. A biopsy needle is inserted through the chest wall and into the area of abnormal lung tissue. A small piece of tissue is removed through the needle and checked under the microscope for signs of cancer.\n- Bronchoscopy is a procedure to look inside the trachea and large airways in the lung for abnormal areas. A bronchoscope is inserted through the nose or mouth into the trachea and lungs. A bronchoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue samples, which are checked under a microscope for signs of cancer. Enlarge Bronchoscopy. A bronchoscope is inserted through the mouth, trachea, and major bronchi into the lung, to look for abnormal areas. A bronchoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a cutting tool. Tissue samples may be taken to be checked under a microscope for signs of disease.\n- Thoracoscopy is a surgical procedure to look at the organs inside the chest to check for abnormal areas. An incision (cut) is made between two ribs, and a thoracoscope is inserted into the chest. A thoracoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue or lymph node samples, which are checked under a microscope for signs of cancer. In some cases, this procedure is used to remove part of the esophagus or lung. If certain tissues, organs, or lymph nodes can't be reached, a thoracotomy may be done. In this procedure, a larger incision is made between the ribs and the chest is opened.\n- Thoracentesis is the removal of fluid from the space between the lining of the chest and the lung, using a needle. A pathologist views the fluid under a microscope to look for cancer cells.\n- Mediastinoscopy is a surgical procedure to look at the organs, tissues, and lymph nodes between the lungs for abnormal areas. An incision (cut) is made at the top of the breastbone and a mediastinoscope is inserted into the chest. A mediastinoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue or lymph node samples, which are checked under a microscope for signs of cancer.\n- Light and electron microscopy is a laboratory test in which cells in a sample of tissue are viewed under regular and high-powered microscopes to look for certain changes in the cells.\n- Immunohistochemistry uses antibodies to check for certain antigens (markers) in a sample of a patient's cells or tissue. The antibodies are usually linked to an enzyme or fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and help tell one type of cancer from another type."
+        },
+        {
+          "section": "After small cell lung cancer has been diagnosed, tests are done to find out if cancer cells have spread within the chest or to other parts of the body.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Cell Lung Cancer",
+            "After small cell lung cancer has been diagnosed, tests are done to find out if cancer cells have spread within the chest or to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The process used to find out if cancer has spread within the chest or to other parts of the body is called staging . The information gathered from the staging process determines the stage of the disease. It is important to know the stage in order to plan treatment. Some of the tests used to diagnose small cell lung cancer are also used to stage the disease.\nImaging tests that may be used in the staging process include:\n- MRI (magnetic resonance imaging) uses a magnet, radio waves , and a computer to make a series of detailed pictures of areas inside the brain, such as the brain. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- PET scan (positron emission tomography scan) uses a small amount of radioactive sugar (also called radioactive glucose) that is injected into a vein. The PET scanner rotates around the body and makes pictures of where sugar is being used by the body. Cancer cells show up brighter in the pictures because they are more active and take up more sugar than normal cells do. When this procedure is done at the same time as a CT scan, it is called a PET-CT scan.\n- Bone scan checks if there are rapidly dividing cells, such as cancer cells, in the bone. A very small amount of radioactive material is injected into a vein and travels through the bloodstream. The radioactive material collects in the areas of the bones with cancer and is detected by a scanner."
+        },
+        {
+          "section": "Some people decide to get a second opinion.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Cell Lung Cancer",
+            "Some people decide to get a second opinion."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your cancer diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report, slides, and scans. They may agree with the first doctor, suggest changes or another treatment approach, or provide more information about your cancer.\nTo learn more about choosing a doctor and getting a second opinion, visit Finding Cancer Care . You can contact NCI's Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor, hospital, or getting a second opinion. For questions you might want to ask at your appointments, visit Questions to Ask Your Doctor about Cancer ."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Small Cell Lung Cancer",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "The prognosis and treatment options depend on:\n- the stage of the cancer (whether it is in the chest cavity only or has spread to other places in the body)\n- the patient's age, sex, and general health\nFor certain patients, prognosis also depends on whether the patient is treated with both chemotherapy and radiation .\nFor most people with small cell lung cancer, current treatments do not cure the cancer. If lung cancer is found, you may want to think about taking part in one of the many clinical trials being done to improve treatment. Clinical trials are taking place in most parts of the country for patients with all stages of small cell lung cancer. Information about ongoing clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Small Cell Lung Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- The following stages are used for small cell lung cancer:\n- Limited-stage small cell lung cancer\n- Extensive-stage small cell lung cancer\n- Small cell lung cancer can recur (come back) after it has been treated.\nCancer stage describes the extent of cancer in the body, such as the size of the tumor, whether it has spread, and how far it has spread from where it first formed. It is important to know the stage of small cell lung cancer to plan the best treatment.\nSmall cell lung cancer is usually classified into two stages due to its tendency to spread early."
+        },
+        {
+          "section": "Limited-stage small cell lung cancer",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Small Cell Lung Cancer",
+            "The following stages are used for small cell lung cancer:",
+            "Limited-stage small cell lung cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In limited-stage , cancer is in the lung where it started and may have spread to the area between the lungs or to the lymph nodes above the collarbone ."
+        },
+        {
+          "section": "Extensive-stage small cell lung cancer",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Small Cell Lung Cancer",
+            "The following stages are used for small cell lung cancer:",
+            "Extensive-stage small cell lung cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In extensive-stage , cancer has spread beyond the lung or the area between the lungs or the lymph nodes above the collarbone to other places in the body."
+        },
+        {
+          "section": "Small cell lung cancer can recur (come back) after it has been treated.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Small Cell Lung Cancer",
+            "Small cell lung cancer can recur (come back) after it has been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Recurrent cancer is cancer that has recurred (come back) after it has been treated. If small cell lung cancer comes back, it may come back in the chest, central nervous system , or in other parts of the body. Tests will be done to help determine where the cancer has returned. The type of treatment for small cell lung cancer will depend on where it has come back.\nLearn more in Recurrent Cancer: When Cancer Comes Back ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- There are different types of treatment for patients with small cell lung cancer.\n- The following types of treatment are used:\n- Surgery\n- Chemotherapy\n- Radiation therapy\n- Immunotherapy\n- Laser therapy\n- Endoscopic stent placement\n- New types of treatment are being tested in clinical trials.\n- Treatment for small cell lung cancer may cause side effects.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with small cell lung cancer.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with small cell lung cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Different types of treatments are available for people with small cell lung cancer. You and your cancer care team will work together to decide your treatment plan, which may include more than one type of treatment. Many factors will be considered, such as the stage of the cancer, your overall health, and your preferences. Your plan will include information about your cancer, the goals of treatment, your treatment options and the possible side effects, and the expected length of treatment.\nTalking with your cancer care team before treatment begins about what to expect will be helpful. You'll want to learn what you need to do before treatment begins, how you'll feel while going through it, and what kind of help you will need. To learn more, visit Questions to Ask Your Doctor about Treatment ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Surgery may be used if the cancer is found in one lung and in nearby lymph nodes only. Because this type of lung cancer is usually found in both lungs, surgery alone is not often used. During surgery, the doctor will also remove lymph nodes to find out if they have cancer in them. Sometimes, surgery may be used to remove a sample of lung tissue to find out the exact type of lung cancer.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, some patients may be given chemotherapy or radiation therapy after surgery to kill any cancer cells that are left. Treatment given after the surgery, to lower the risk that the cancer will come back, is called adjuvant therapy ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing.\nChemotherapy for small cell lung cancer is usually systemic, meaning it is injected into a vein or given by mouth. When given this way, the drugs enter the bloodstream to reach cancer cells throughout the body.\nChemotherapy drugs used to treat small cell lung cancer may include:\n- carboplatin\n- cisplatin\n- cyclophosphamide\n- doxorubicin\n- etoposide\n- ifosfamide\n- irinotecan\n- vincristine\nCombinations of these chemotherapy drugs may be used. Other chemotherapy drugs not listed here may also be used.\nChemotherapy may also be combined with other kinds of treatment. For example, it may be combined with radiation therapy or immunotherapy drugs.\nTo learn more about how chemotherapy works, how it is given, common side effects, and more, visit Chemotherapy to Treat Cancer and Chemotherapy and You: Support for People With Cancer ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer. External radiation therapy is used to treat small cell lung cancer, and may also be used as palliative therapy to relieve symptoms and improve quality of life . Radiation therapy to the brain to lessen the risk that cancer will spread to the brain may also be given.\nLearn more about External Beam Radiation Therapy for Cancer and Radiation Therapy Side Effects ."
+        },
+        {
+          "section": "Immunotherapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Immunotherapy helps a person's immune system fight cancer. Your doctor may suggest biomarker tests to help predict your response to certain immunotherapy drugs. Learn more about Biomarker Testing for Cancer Treatment .\nImmunotherapy drugs used to treat small cell lung cancer include:\n- atezolizumab\n- durvalumab\n- tarlatamab\nLearn more about Immunotherapy to Treat Cancer ."
+        },
+        {
+          "section": "Laser therapy",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Laser therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Laser therapy is a cancer treatment that uses a laser beam (a narrow beam of intense light) to kill cancer cells."
+        },
+        {
+          "section": "Endoscopic stent placement",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Endoscopic stent placement"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "An endoscope is a thin, tube-like instrument used to look at tissues inside the body. An endoscope has a light and a lens for viewing and may be used to place a stent in a body structure to keep the structure open. An endoscopic stent can be used to open an airway blocked by abnormal tissue."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some people, joining a clinical trial may be an option. There are different types of clinical trials for people with cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment for small cell lung cancer may cause side effects.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for small cell lung cancer may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Limited-Stage Small Cell Lung Cancer",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Limited-Stage Small Cell Lung Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "Treatment of limited-stage small cell lung cancer may include:\n- combination chemotherapy and radiation therapy to the chest\n- immunotherapy ( durvalumab ) after chemoradiation therapy\n- combination chemotherapy alone, for patients who cannot receive radiation therapy\n- surgery followed by chemotherapy\n- surgery followed by chemoradiation therapy\n- radiation therapy to the brain, for patients who have had a complete response to chemotherapy, to prevent the spread of cancer to the brain\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Extensive-Stage Small Cell Lung Cancer",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Extensive-Stage Small Cell Lung Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment of extensive-stage small cell lung cancer may include:\n- immunotherapy ( atezolizumab or durvalumab ) and combination chemotherapy\n- combination chemotherapy\n- radiation therapy to the brain, spine , bone, or other parts of the body where the cancer has spread, as palliative therapy to relieve symptoms and improve quality of life\n- radiation therapy to the chest if the cancer responded to chemotherapy\n- radiation therapy to the brain after a complete response to chemotherapy, to prevent the spread of cancer to the brain\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Small Cell Lung Cancer",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Small Cell Lung Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment of recurrent small cell lung cancer may include:\n- chemotherapy\n- immunotherapy\n- radiation therapy as palliative therapy to relieve symptoms and improve quality of life\n- laser therapy , stent placement to keep airways open, and/or internal radiation therapy as palliative therapy to relieve symptoms and improve quality of life\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Small Cell Lung Cancer",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "To Learn More About Small Cell Lung Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "For more information from the National Cancer Institute about small cell lung cancer, visit:\n- Lung Cancer Home Page\n- Lung Cancer Prevention\n- Lung Cancer Screening\n- Drugs Approved for Small Cell Lung Cancer\n- Tobacco (includes help with quitting)\n- Cigarette Smoking: Health Risks and How to Quit\n- Secondhand Smoke and Cancer\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of small cell lung cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Small Cell Lung Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/lung/patient/small-cell-lung-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389478]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Small Cell Lung Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\88a204af0797f1f3066e.html"
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Pleuropulmonary Blastoma",
+  "generated_at": "2026-08-31T07:15:23.486771+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Pleuropulmonary Blastoma",
+      "title": "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+      "summary_name": "Pleuropulmonary Blastoma",
+      "url": "https://www.cancer.gov/types/lung/patient/child-pleuropulmonary-blastoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 8, 2025",
+      "retrieved_at": "2026-08-31T07:12:06.812729+00:00",
+      "content_sha256": "f3e2f443d17ad0dea7da35010f8e5d9bba75261c0465cd6100dfe1c7dfa29935",
+      "section_count": 33,
+      "sections": [
+        {
+          "section": "What is pleuropulmonary blastoma?",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "What is pleuropulmonary blastoma?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Pleuropulmonary blastoma is a rare and aggressive type of childhood cancer that forms in the lungs, the tissue that covers the lungs, and the inside wall of the chest cavity called the pleura. It can also form in the heart, aorta , pulmonary artery (the blood vessel that takes blood from the heart to the lungs), and the diaphragm (the main breathing muscle below the lungs). Pleuropulmonary blastoma mainly occurs in younger children, typically before the age of 5 years.\nThere are four types of pleuropulmonary blastoma:\n- Type I tumors are cyst -like lung tumors. They are most common in children younger than 3 years and children have a good chance of recovery . After treatment, sometimes a Type I tumor may recur as a Type II or III tumor.\n- Type Ir tumors are Type I tumors that have gotten smaller (regressed) or have not grown or spread.\n- Type II tumors are cyst-like with some solid parts. They are found more often in children older than 2 years. Type II tumors sometimes spread to the brain or other parts of the body.\n- Type III tumors are solid tumors. They are found more often in children older than 2 years. Type III tumors often spread to the brain or other parts of the body."
+        },
+        {
+          "section": "Causes and risk factors for pleuropulmonary blastoma",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Causes and risk factors for pleuropulmonary blastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Pleuropulmonary blastoma is caused by certain changes to the way lung cells function, especially how they grow and divide into new cells. Often, the exact cause of these cell changes is unknown. Learn more about how cancer develops at What Is Cancer?\nA risk factor is anything that increases the chance of getting a disease. Children with a change in the DICER1 gene or a family history of DICER1 syndrome may be at an increased risk of pleuropulmonary blastoma. DICER1 syndrome is a rare genetic disorder that may cause a goiter, polyps in the colon, and tumors of the ovary, cervix, testicle, kidney, brain, eye, and lining of the lung. Not every child with these risk factors will develop a pleuropulmonary blastoma. And it will develop in some children who don't have a known risk factor.\nTalk with your child's doctor if you think your child may be at risk."
+        },
+        {
+          "section": "Genetic counseling for children with pleuropulmonary blastoma",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Genetic counseling for children with pleuropulmonary blastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "It may not be clear from the family medical history whether your child's pleuropulmonary blastoma is part of an inherited condition related to a change in the DICER1 gene. Genetic counseling can assess the likelihood that your child's cancer is inherited and whether genetic testing is needed. Genetic counselors and other specially trained health professionals can discuss your child's diagnosis and your family's medical history to help you understand:\n- the options for testing for the DICER1 gene\n- the risk of other cancers for your child\n- the risk of pleuropulmonary blastoma or other cancers for your child's siblings\n- the risks and benefits of learning genetic information\nGenetic counselors can also help you cope with your child's genetic testing results, including how to discuss the results with family members. They can also advise you about whether other members of your family should receive genetic testing.\nLearn more about Genetic Testing for Inherited Cancer Risk ."
+        },
+        {
+          "section": "Symptoms of pleuropulmonary blastoma",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Symptoms of pleuropulmonary blastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Symptoms of pleuropulmonary blastoma are similar to respiratory tract infections. It's important to check with your child's doctor if your child has:\n- a cough that doesn't go away\n- fast breathing\n- trouble breathing\n- a fever\n- lung infections, such as pneumonia\n- pain in the chest or abdomen\n- loss of appetite\n- weight loss for no known reason\nThese symptoms may be caused by problems other than a pleuropulmonary blastoma. The only way to know is to see your child's doctor."
+        },
+        {
+          "section": "Tests to diagnose pleuropulmonary blastoma",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Tests to diagnose pleuropulmonary blastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "If your child has symptoms that suggest a pleuropulmonary blastoma, the doctor will need to find out if these are due to cancer or another problem. The doctor will ask when the symptoms started and how often your child has been having them. They will also ask about your child's personal and family medical history and do a physical exam . Depending on these results, they may recommend other tests. If your child is diagnosed with pleuropulmonary blastoma, the results of these tests will help you and your child's doctor plan treatment.\nThe tests used to diagnose pleuropulmonary blastoma may include:"
+        },
+        {
+          "section": "Chest x-ray",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Tests to diagnose pleuropulmonary blastoma",
+            "Chest x-ray"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chest x-ray is a type of radiation that can go through the body and make pictures of the organs and bones inside the chest."
+        },
+        {
+          "section": "CT scan",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Tests to diagnose pleuropulmonary blastoma",
+            "CT scan"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body, such as the chest and abdomen. The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more about Computed Tomography (CT) Scans and Cancer . Enlarge Computed tomography (CT) scan. The child lies on a table that slides through the CT scanner, which takes a series of detailed x-ray pictures of areas inside the body."
+        },
+        {
+          "section": "PET scan",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Tests to diagnose pleuropulmonary blastoma",
+            "PET scan"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "PET scan (positron emission tomography scan) uses a small amount of radioactive sugar (also called radioactive glucose) that is injected into a vein. The PET scanner rotates around the body and makes pictures of where sugar is being used by the body. Cancer cells show up brighter in the pictures because they are more active and take up more sugar than normal cells do. Enlarge Positron emission tomography (PET) scan. The child lies on a table that slides through the PET scanner. The head rest and white strap help the child lie still. A small amount of radioactive glucose (sugar) is injected into the child's vein, and a scanner makes a picture of where the glucose is being used in the body. Cancer cells show up brighter in the picture because they take up more glucose than normal cells do."
+        },
+        {
+          "section": "Magnetic resonance imaging (MRI)",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Tests to diagnose pleuropulmonary blastoma",
+            "Magnetic resonance imaging (MRI)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "MRI uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas in the body, such as the head. This procedure is also called nuclear magnetic resonance imaging (NMRI)."
+        },
+        {
+          "section": "Echocardiogram",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Tests to diagnose pleuropulmonary blastoma",
+            "Echocardiogram"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Echocardiogram uses high-energy sound waves (ultrasound) that bounce off the heart and nearby tissues or organs and make echoes. A moving picture is made of the heart and heart valves as blood is pumped through the heart."
+        },
+        {
+          "section": "Ultrasound",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Tests to diagnose pleuropulmonary blastoma",
+            "Ultrasound"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Ultrasound uses high-energy sound waves (ultrasound) that bounce off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram."
+        },
+        {
+          "section": "Bronchoscopy",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Tests to diagnose pleuropulmonary blastoma",
+            "Bronchoscopy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Bronchoscopy is a procedure to look inside the trachea and large airways in the lung for abnormal areas. A bronchoscope is inserted through the nose or mouth into the trachea and lungs. A bronchoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue samples, which are checked under a microscope for signs of cancer."
+        },
+        {
+          "section": "Thoracoscopy",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Tests to diagnose pleuropulmonary blastoma",
+            "Thoracoscopy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Thoracoscopy is a type of surgery used to look inside the chest for abnormal areas. For this surgery, a thoracoscope is inserted into the chest through a cut made between two ribs. A thoracoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue or lymph node samples, which are checked under a microscope for signs of cancer. Sometimes part of the esophagus or lung is also removed. A thoracotomy may be done if the thoracoscope cannot reach certain tissues, organs, or lymph nodes. In this procedure, a larger incision is made between the ribs and the chest is opened."
+        },
+        {
+          "section": "DICER1 genetic testing",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Tests to diagnose pleuropulmonary blastoma",
+            "DICER1 genetic testing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "DICER1 genetic testing examines a sample of blood or saliva for changes in the DICER1 gene."
+        },
+        {
+          "section": "Immunohistochemistry",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Tests to diagnose pleuropulmonary blastoma",
+            "Immunohistochemistry"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Immunohistochemistry uses antibodies to check for certain antigens (markers) in a sample of a patient's tissue. The antibodies are usually linked to an enzyme or a fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and help tell one type of cancer from another type."
+        },
+        {
+          "section": "Getting a second opinion",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Getting a second opinion"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your child's cancer diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the genetic test report, pathology report, slides, and scans. This doctor may agree with the first doctor, suggest changes to the treatment plan, or provide more information about your child's cancer.\nTo learn more about choosing a doctor and getting a second opinion, visit Finding Cancer Care . You can contact NCI's Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor or hospital that can provide a second opinion. For questions you might want to ask at your child's appointments, visit Questions to Ask Your Doctor About Cancer ."
+        },
+        {
+          "section": "Who treats children with pleuropulmonary blastoma?",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Types of treatment for pleuropulmonary blastoma",
+            "Who treats children with pleuropulmonary blastoma?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "A pediatric oncologist, a doctor who specializes in treating children with cancer, oversees treatment of pleuropulmonary blastoma. The pediatric oncologist works with other health care providers who are experts in treating children with cancer and also specialize in certain areas of medicine. Other specialists may include:\n- pediatrician\n- pediatric surgeon\n- pathologist\n- pediatric nurse specialist\n- social worker\n- rehabilitation specialist\n- psychologist\n- child-life specialist\n- fertility specialist\nThere are different types of treatment for children with pleuropulmonary blastoma. You and your child's care team will work together to decide treatment. Many factors will be considered, such as where the cancer is located and your child's age and overall health.\nYour child's treatment plan will include information about the tumor, the goals of treatment, treatment options, and the possible side effects. It will be helpful to talk with your child's care team before treatment begins about what to expect. For help every step of the way, visit our booklet, Children with Cancer: A Guide for Parents .\nTypes of treatment your child might have include:"
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Types of treatment for pleuropulmonary blastoma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For all types of pleuropulmonary blastoma, surgery is done to remove the whole lobe of the lung with cancer. Chemotherapy may be given to shrink the tumor before surgery for patients with Types II or III pleuropulmonary blastoma. Enlarge Lobectomy. A lobe of the lung is removed."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Types of treatment for pleuropulmonary blastoma",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells. Chemotherapy either kills the cancer cells or stops them from dividing. Chemotherapy may be given alone or with other types of treatment. Chemotherapy for pleuropulmonary blastoma is injected into a vein. When given this way, the drugs enter the bloodstream and can reach cancer cells throughout the body.\nChemotherapy drugs used alone or in combination to treat pleuropulmonary blastoma include:\n- dactinomycin\n- doxorubicin\n- ifosfamide\n- vincristine\nOther chemotherapy drugs not listed here may also be used.\nLearn more about Chemotherapy to Treat Cancer ."
+        },
+        {
+          "section": "Clinical trials",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Types of treatment for pleuropulmonary blastoma",
+            "Clinical trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some children, joining a clinical trial may be an option. There are different types of clinical trials for childhood cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your child's age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment of pleuropulmonary blastoma",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Types of treatment for pleuropulmonary blastoma",
+            "Treatment of pleuropulmonary blastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment of pleuropulmonary blastoma may include:\n- For Type I and Type Ir pleuropulmonary blastoma, surgery is done to remove the whole lobe of the lung with cancer.\n- For Type II and Type III pleuropulmonary blastoma, surgery is done to remove the whole lobe of the lung with cancer. Chemotherapy may be given before surgery to shrink the tumor.\nIf the cancer comes back after treatment, your child's doctor will talk with you about what to expect and possible next steps. There might be treatment options that may shrink the cancer or control its growth. If there are no treatments, your child can receive care to control symptoms from cancer so they can be as comfortable as possible."
+        },
+        {
+          "section": "Prognostic factors for pleuropulmonary blastoma",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Prognostic factors for pleuropulmonary blastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "If your child has been diagnosed with pleuropulmonary blastoma, you likely have questions about how serious the cancer is and your child's chances of survival. The likely outcome or course of a disease is called prognosis. The prognosis can be affected by the type of pleuropulmonary blastoma, whether the cancer has spread to other parts of the body at the time of diagnosis, and whether the cancer was completely removed by surgery.\nNo two people are alike, and responses to treatment can vary greatly. Your child's cancer care team is in the best position to talk with you about your child's prognosis."
+        },
+        {
+          "section": "Side effects and late effects of treatment",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Side effects and late effects of treatment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Cancer treatments can cause side effects. Which side effects your child might have depends on the type of treatment they receive, the dose, and how their body reacts. Talk with your child's treatment team about which side effects to look for and ways to manage them.\nTo learn more about side effects that begin during treatment for cancer, visit Side Effects .\nProblems from cancer treatment that begin 6 months or later after treatment and continue for months or years are called late effects. Late effects of cancer treatment may include:\n- physical problems\n- changes in mood, feelings, thinking, learning, or memory\n- second cancers (new types of cancer) or other conditions\nSome late effects may be treated or controlled. It is important to talk with your child's doctors about the possible late effects caused by some treatments."
+        },
+        {
+          "section": "Follow-up care",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Follow-up care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "As your child goes through treatment, they will have follow-up tests or check-ups. Some of the tests that were done to diagnose the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your child's condition has changed or if the cancer has recurred (come back).\nTo learn more about follow-up tests, visit Tests to diagnose pleuropulmonary blastoma ."
+        },
+        {
+          "section": "Coping with your child's cancer",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Coping with your child's cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "When your child has cancer, every member of the family needs support. Taking care of yourself during this difficult time is important. Reach out to your child's treatment team and to people in your family and community for support. To learn more, visit Support for Families: Childhood Cancer and the booklet Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Related resources",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "Related resources"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "For more childhood cancer information and other general cancer resources, visit:\n- Lung Cancer Home Page\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Late Effects of Treatment for Childhood Cancer\n- Adolescents and Young Adults with Cancer\n- Cancer in Children and Adolescents\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of pleuropulmonary blastoma. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Pleuropulmonary Blastoma. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/lung/patient/child-pleuropulmonary-blastoma-treatment-pdq . Accessed <MM/DD/YYYY>.\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Pleuropulmonary Blastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\89bbd2f957a258871c5c.html"
+    }
+  ]
+}

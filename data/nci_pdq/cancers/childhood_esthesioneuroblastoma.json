@@ -1,0 +1,724 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Childhood Esthesioneuroblastoma",
+  "generated_at": "2026-08-31T07:15:23.074111+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Childhood Esthesioneuroblastoma",
+      "title": "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Childhood Esthesioneuroblastoma Treatment",
+      "url": "https://www.cancer.gov/types/head-and-neck/hp/child/esthesioneuroblastoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "August 7, 2024",
+      "retrieved_at": "2026-08-31T07:10:35.791045+00:00",
+      "content_sha256": "7811725c155ada197cdc80ea19820fec06c0385bee75ac6ea432c5f3cb00534c",
+      "section_count": 23,
+      "sections": [
+        {
+          "section": "Incidence",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Incidence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Esthesioneuroblastoma (also called olfactory neuroblastoma) is a very rare small round cell tumor arising from the nasal neuroepithelium. Less than 10% of cases occur in children and adolescents.[ 1 , 2 ] The estimated incidence of esthesioneuroblastoma is 0.1 cases per 100,000 people per year in children younger than 15 years.[ 3 ] In the pediatric population, the median age is 10 years, and there are no gender or racial predilections.[ 2 ]\nDespite its rarity, esthesioneuroblastoma is the most common cancer of the nasal cavity in pediatric patients, accounting for 28% of cases in a Surveillance, Epidemiology, and End Results (SEER) Program study.[ 1 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Incidence",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Benoit MM, Bhattacharyya N, Faquin W, et al.: Cancer of the nasal cavity in the pediatric population. Pediatrics 121 (1): e141-5, 2008. [PUBMED Abstract]\n- Berger MH, Lehrich BM, Yasaka TM, et al.: Characteristics and overall survival in pediatric versus adult esthesioneuroblastoma: A population-based study. Int J Pediatr Otorhinolaryngol 144: 110696, 2021. [PUBMED Abstract]\n- Bisogno G, Soloni P, Conte M, et al.: Esthesioneuroblastoma in pediatric and adolescent age. A report from the TREP project in cooperation with the Italian Neuroblastoma and Soft Tissue Sarcoma Committees. BMC Cancer 12: 117, 2012. [PUBMED Abstract]"
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Figure 1 depicts the areas of the body where esthesioneuroblastoma tumors may form, including the olfactory nerve endings, olfactory bulb, nasal cavity, nasal sinuses, and brain."
+        },
+        {
+          "section": "Clinical Presentation",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Clinical Presentation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Most children present with symptoms that may include the following:[ 1 ]\n- Nasal obstruction.\n- Epistaxis.\n- Hyposmia.\n- Exophthalmos.\n- Headaches.\n- Nasopharyngeal mass, which may have local extension into the orbits, sinuses, or frontal lobe."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Clinical Presentation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Venkatramani R, Pan H, Furman WL, et al.: Multimodality Treatment of Pediatric Esthesioneuroblastoma. Pediatr Blood Cancer 63 (3): 465-70, 2016. [PUBMED Abstract]"
+        },
+        {
+          "section": "Histology and Molecular Features",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Histology and Molecular Features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Esthesioneuroblastoma can be histologically confused with other small round cell tumors of the nasal cavity, including sinonasal undifferentiated carcinoma, small cell carcinoma, melanoma, and rhabdomyosarcoma. Esthesioneuroblastoma typically shows diffuse staining with neuron-specific enolase, synaptophysin, and chromogranins, with variable cytokeratin expression.[ 1 ]\nNine medical centers obtained 66 samples of olfactory neuroblastoma and tumor samples from other cancers, including alveolar rhabdomyosarcoma and sinonasal adenocarcinoma. The tumor samples were analyzed by genome-wide DNA methylation profiling, copy number analysis, immunohistochemistry, and next-generation panel sequencing. Unsupervised hierarchal clustering analysis of DNA methylation data identified the following four distinct clusters:[ 2 ]\n- The largest cluster, which comprised 64% of the samples, had classical histological features of olfactory neuroblastoma. Ten percent of the cases had recurrent DNMT3A and TP53 variants.\n- A second cluster consisted of seven cases with a hypermethylator phenotype and IDH2 variants that clustered with the group of IDH2 sinonasal carcinomas.\n- A small third cluster was characterized by hypermethylation without IDH2 variants. This result suggests that this cluster may represent a subgroup of olfactory neuroblastomas or an undefined sinonasal tumor entity.\n- The fourth cluster represented a heterogenous group of 13 tumors that grouped with other entities such as sinonasal adenocarcinoma, sinonasal squamous cell carcinoma, sinonasal neuroendocrine carcinoma, and sinonasal undifferentiated carcinoma.\nUsing this information, the authors developed an algorithm that incorporates methylation analysis to improve the diagnostic accuracy of this entity.[ 2 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Histology and Molecular Features",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Su SY, Bell D, Hanna EY: Esthesioneuroblastoma, neuroendocrine carcinoma, and sinonasal undifferentiated carcinoma: differentiation in diagnosis and treatment. Int Arch Otorhinolaryngol 18 (Suppl 2): S149-56, 2014. [PUBMED Abstract]\n- Capper D, Engel NW, Stichel D, et al.: DNA methylation-based reclassification of olfactory neuroblastoma. Acta Neuropathol 136 (2): 255-271, 2018. [PUBMED Abstract]"
+        },
+        {
+          "section": "Prognostic Factors",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Prognostic Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Review of multiple case series of mainly adult patients indicates that the following may correlate with adverse prognosis:[ 1 - 3 ]\n- Higher histopathological grade.\n- Positive surgical margin status.\n- Metastases to the cervical lymph nodes."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Prognostic Factors",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Dulguerov P, Allal AS, Calcaterra TC: Esthesioneuroblastoma: a meta-analysis and review. Lancet Oncol 2 (11): 683-90, 2001. [PUBMED Abstract]\n- Patel SG, Singh B, Stambuk HE, et al.: Craniofacial surgery for esthesioneuroblastoma: report of an international collaborative study. J Neurol Surg B Skull Base 73 (3): 208-20, 2012. [PUBMED Abstract]\n- Herr MW, Sethi RK, Meier JC, et al.: Esthesioneuroblastoma: an update on the massachusetts eye and ear infirmary and massachusetts general hospital experience with craniofacial resection, proton beam radiation, and chemotherapy. J Neurol Surg B Skull Base 75 (1): 58-64, 2014. [PUBMED Abstract]"
+        },
+        {
+          "section": "Stage Information for Childhood Esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Childhood Esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Tumors are staged according to the Kadish system (see Table 1 ). Correlated with Kadish stage, survival rates range from 90% (stage A) to less than 40% (stage D). Most patients present with locally advanced–stage disease (Kadish stages B and C). Reports of metastatic disease (Kadish stage D) vary among studies and is described at rates of 20% to 30%.[ 1 - 6 ]\nReports suggest that positron emission tomography–computed tomography (PET-CT) may aid in staging the disease.[ 7 ]\nStage | Description\nA | Tumor confined to the nasal cavity.\nB | Tumor extending to the nasal sinuses.\nC | Tumor extending to the nasal sinuses and beyond.\nD | Tumor metastases present."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Childhood Esthesioneuroblastoma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Bisogno G, Soloni P, Conte M, et al.: Esthesioneuroblastoma in pediatric and adolescent age. A report from the TREP project in cooperation with the Italian Neuroblastoma and Soft Tissue Sarcoma Committees. BMC Cancer 12: 117, 2012. [PUBMED Abstract]\n- Benoit MM, Bhattacharyya N, Faquin W, et al.: Cancer of the nasal cavity in the pediatric population. Pediatrics 121 (1): e141-5, 2008. [PUBMED Abstract]\n- Venkatramani R, Pan H, Furman WL, et al.: Multimodality Treatment of Pediatric Esthesioneuroblastoma. Pediatr Blood Cancer 63 (3): 465-70, 2016. [PUBMED Abstract]\n- Berger MH, Lehrich BM, Yasaka TM, et al.: Characteristics and overall survival in pediatric versus adult esthesioneuroblastoma: A population-based study. Int J Pediatr Otorhinolaryngol 144: 110696, 2021. [PUBMED Abstract]\n- Dumont B, Fresneau B, Claude L, et al.: Pattern of loco-regional relapses and treatment in pediatric esthesioneuroblastoma: The French very rare tumors group (Fracture) contribution. Pediatr Blood Cancer 67 (4): e28154, 2020. [PUBMED Abstract]\n- Safi C, Spielman D, Otten M, et al.: Treatment Strategies and Outcomes of Pediatric Esthesioneuroblastoma: A Systematic Review. Front Oncol 10: 1247, 2020. [PUBMED Abstract]\n- Broski SM, Hunt CH, Johnson GB, et al.: The added value of 18F-FDG PET/CT for evaluation of patients with esthesioneuroblastoma. J Nucl Med 53 (8): 1200-6, 2012. [PUBMED Abstract]"
+        },
+        {
+          "section": "Special Considerations for the Treatment of Children With Cancer",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 21,
+          "text": "Cancer in children and adolescents is rare, although the overall incidence has slowly increased since 1975.[ 1 ] Children and adolescents with cancer should be referred to medical centers that have a multidisciplinary team of cancer specialists with experience treating the cancers that occur during childhood and adolescence. This multidisciplinary team approach incorporates the skills of the following pediatric specialists and others to ensure that children receive treatment, supportive care, and rehabilitation to achieve optimal survival and quality of life:\n- Primary care physicians.\n- Pediatric surgeons.\n- Pathologists.\n- Pediatric radiation oncologists.\n- Pediatric medical oncologists and hematologists.\n- Ophthalmologists.\n- Rehabilitation specialists.\n- Pediatric oncology nurses.\n- Social workers.\n- Child-life professionals.\n- Psychologists.\n- Nutritionists.\nFor specific information about supportive care for children and adolescents with cancer, see the summaries on Supportive and Palliative Care .\nThe American Academy of Pediatrics has outlined guidelines for pediatric cancer centers and their role in the treatment of children and adolescents with cancer.[ 2 ] At these centers, clinical trials are available for most types of cancer that occur in children and adolescents, and the opportunity to participate is offered to most patients and their families. Clinical trials for children and adolescents diagnosed with cancer are generally designed to compare potentially better therapy with current standard therapy. Other types of clinical trials test novel therapies when there is no standard therapy for a cancer diagnosis. Most of the progress in identifying curative therapies for childhood cancers has been achieved through clinical trials. Information about ongoing clinical trials is available from the NCI website .\nDramatic improvements in survival have been achieved for children and adolescents with cancer. Between 1975 and 2020, childhood cancer mortality decreased by more than 50%.[ 3 - 5 ] Childhood and adolescent cancer survivors require close monitoring because side effects of cancer therapy may persist or develop months or years after treatment. For information about the incidence, type, and monitoring of late effects in childhood and adolescent cancer survivors, see Late Effects of Treatment for Childhood Cancer .\nChildhood cancer is a rare disease, with about 15,000 cases diagnosed annually in the United States in individuals younger than 20 years.[ 6 ] The U.S. Rare Diseases Act of 2002 defines a rare disease as one that affects populations smaller than 200,000 people in the United States. Therefore, all pediatric cancers are considered rare.\nThe designation of a rare tumor is not uniform among pediatric and adult groups. In adults, rare cancers are defined as those with an annual incidence of fewer than six cases per 100,000 people. They account for up to 24% of all cancers diagnosed in the European Union and about 20% of all cancers diagnosed in the United States.[ 7 , 8 ] In children and adolescents, the designation of a rare tumor is not uniform among international groups, as follows:\n- A consensus effort between the European Union Joint Action on Rare Cancers and the European Cooperative Study Group for Rare Pediatric Cancers estimated that 11% of all cancers in patients younger than 20 years could be categorized as very rare. This consensus group defined very rare cancers as those with annual incidences of fewer than two cases per 1 million people. However, three additional histologies (thyroid carcinoma, melanoma, and testicular cancer) with incidences of more than two cases per 1 million people were also included in the very rare group due to a lack of knowledge and expertise in the management of these tumors.[ 9 ]\n- The Children's Oncology Group defines rare pediatric cancers as those listed in the International Classification of Childhood Cancer subgroup XI, which includes thyroid cancers, melanomas and nonmelanoma skin cancers, and multiple types of carcinomas (e.g., adrenocortical carcinomas, nasopharyngeal carcinomas, and most adult-type carcinomas such as breast cancers and colorectal cancers).[ 10 ] These diagnoses account for about 5% of the cancers diagnosed in children aged 0 to 14 years and about 27% of the cancers diagnosed in adolescents aged 15 to 19 years.[ 4 ] Most cancers in subgroup XI are either melanomas or thyroid cancers, with other cancer types accounting for only 2% of the cancers diagnosed in children aged 0 to 14 years and 9.3% of the cancers diagnosed in adolescents aged 15 to 19 years.\nThese rare cancers are extremely challenging to study because of the relatively few patients with any individual diagnosis, the predominance of rare cancers in the adolescent population, and the small number of clinical trials for adolescents with rare cancers."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Smith MA, Seibel NL, Altekruse SF, et al.: Outcomes for children and adolescents with cancer: challenges for the twenty-first century. J Clin Oncol 28 (15): 2625-34, 2010. [PUBMED Abstract]\n- American Academy of Pediatrics: Standards for pediatric cancer centers. Pediatrics 134 (2): 410-4, 2014. Also available online . Last accessed February 25, 2025.\n- Smith MA, Altekruse SF, Adamson PC, et al.: Declining childhood and adolescent cancer mortality. Cancer 120 (16): 2497-506, 2014. [PUBMED Abstract]\n- National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed February 25, 2025.\n- Surveillance Research Program, National Cancer Institute: SEER*Explorer: An interactive website for SEER cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed December 30, 2024.\n- Ward E, DeSantis C, Robbins A, et al.: Childhood and adolescent cancer statistics, 2014. CA Cancer J Clin 64 (2): 83-103, 2014 Mar-Apr. [PUBMED Abstract]\n- Gatta G, Capocaccia R, Botta L, et al.: Burden and centralised treatment in Europe of rare tumours: results of RARECAREnet-a population-based study. Lancet Oncol 18 (8): 1022-1039, 2017. [PUBMED Abstract]\n- DeSantis CE, Kramer JL, Jemal A: The burden of rare cancers in the United States. CA Cancer J Clin 67 (4): 261-272, 2017. [PUBMED Abstract]\n- Ferrari A, Brecht IB, Gatta G, et al.: Defining and listing very rare cancers of paediatric age: consensus of the Joint Action on Rare Cancers in cooperation with the European Cooperative Study Group for Pediatric Rare Tumors. Eur J Cancer 110: 120-126, 2019. [PUBMED Abstract]\n- Pappo AS, Krailo M, Chen Z, et al.: Infrequent tumor initiative of the Children's Oncology Group: initial lessons learned and their impact on future plans. J Clin Oncol 28 (33): 5011-6, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Childhood Esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "The use of multimodal therapy optimizes the chances for survival, with more than 70% of children expected to survive 5 or more years after initial diagnosis.[ 1 - 5 ] Neuromeningeal progression is the most common type of treatment failure.[ 5 , 6 ][ Level of evidence C1 ]\nTreatment options according to Kadish stage include the following:[ 7 ]\n- Kadish stage A: Surgery alone with clear margins. Adjuvant radiation therapy is indicated in patients with close and positive margins or with residual disease.\n- Kadish stage B: Surgery followed by adjuvant radiation therapy. The role of adjuvant chemotherapy is controversial.\n- Kadish stage C: Neoadjuvant approach with chemotherapy, radiation therapy, or concurrent chemoradiation therapy followed by surgery.\n- Kadish stage D: Systemic chemotherapy and radiation therapy to local and metastatic sites.\nThe mainstay of treatment is surgery and radiation therapy. However, esthesioneuroblastoma is a chemosensitive neoplasm, and the use of neoadjuvant chemotherapy can facilitate resection.[ 5 , 7 - 9 ] Endoscopic sinus surgery offers short-term outcomes similar to open craniofacial resection.[ 10 ]; [ 11 ][ Level of evidence C2 ] Other techniques such as stereotactic radiosurgery and proton-beam therapy ( charged-particle radiation therapy ) may also play a role in the management of this tumor.[ 3 , 12 , 13 ]\nRoutine neck dissection and nodal exploration are not indicated in the absence of clinical or radiological evidence of disease.[ 14 ] Management of cervical lymph node metastases has been addressed in a review article.[ 14 ]\nReports have indicated promising results with the increased use of resection and neoadjuvant or adjuvant chemotherapy in patients with advanced-stage disease.[ 2 , 5 , 15 - 17 ]; [ 18 ][ Level of evidence C1 ] Chemotherapy regimens that have been used with efficacy include the following:\n- Cisplatin and etoposide with or without ifosfamide.[ 19 , 20 ]\n- Vincristine, dactinomycin, and cyclophosphamide with or without doxorubicin.\n- Ifosfamide and etoposide.\n- Cisplatin plus etoposide or doxorubicin.[ 2 ]\n- Vincristine, doxorubicin, and cyclophosphamide.[ 21 ]\n- Irinotecan plus docetaxel.[ 22 ][ Level of evidence C1 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Esthesioneuroblastoma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "- Bisogno G, Soloni P, Conte M, et al.: Esthesioneuroblastoma in pediatric and adolescent age. A report from the TREP project in cooperation with the Italian Neuroblastoma and Soft Tissue Sarcoma Committees. BMC Cancer 12: 117, 2012. [PUBMED Abstract]\n- Eich HT, Müller RP, Micke O, et al.: Esthesioneuroblastoma in childhood and adolescence. Better prognosis with multimodal treatment? Strahlenther Onkol 181 (6): 378-84, 2005. [PUBMED Abstract]\n- Lucas JT, Ladra MM, MacDonald SM, et al.: Proton therapy for pediatric and adolescent esthesioneuroblastoma. Pediatr Blood Cancer 62 (9): 1523-8, 2015. [PUBMED Abstract]\n- Berger MH, Lehrich BM, Yasaka TM, et al.: Characteristics and overall survival in pediatric versus adult esthesioneuroblastoma: A population-based study. Int J Pediatr Otorhinolaryngol 144: 110696, 2021. [PUBMED Abstract]\n- Venkatramani R, Pan H, Furman WL, et al.: Multimodality Treatment of Pediatric Esthesioneuroblastoma. Pediatr Blood Cancer 63 (3): 465-70, 2016. [PUBMED Abstract]\n- Dumont B, Fresneau B, Claude L, et al.: Pattern of loco-regional relapses and treatment in pediatric esthesioneuroblastoma: The French very rare tumors group (Fracture) contribution. Pediatr Blood Cancer 67 (4): e28154, 2020. [PUBMED Abstract]\n- Safi C, Spielman D, Otten M, et al.: Treatment Strategies and Outcomes of Pediatric Esthesioneuroblastoma: A Systematic Review. Front Oncol 10: 1247, 2020. [PUBMED Abstract]\n- Ozsahin M, Gruber G, Olszyk O, et al.: Outcome and prognostic factors in olfactory neuroblastoma: a rare cancer network study. Int J Radiat Oncol Biol Phys 78 (4): 992-7, 2010. [PUBMED Abstract]\n- Di Carlo D, Fichera G, Dumont B, et al.: Olfactory neuroblastoma in children and adolescents: The EXPeRT recommendations for diagnosis and management. EJC Paediatr Oncol 3: 100136, 2024. Also available online . Last accessed July 11, 2024.\n- Soler ZM, Smith TL: Endoscopic versus open craniofacial resection of esthesioneuroblastoma: what is the evidence? Laryngoscope 122 (2): 244-5, 2012. [PUBMED Abstract]\n- Gallia GL, Reh DD, Lane AP, et al.: Endoscopic resection of esthesioneuroblastoma. J Clin Neurosci 19 (11): 1478-82, 2012. [PUBMED Abstract]\n- Unger F, Haselsberger K, Walch C, et al.: Combined endoscopic surgery and radiosurgery as treatment modality for olfactory neuroblastoma (esthesioneuroblastoma). Acta Neurochir (Wien) 147 (6): 595-601; discussion 601-2, 2005. [PUBMED Abstract]\n- Drescher NR, Indelicato DJ, Dagan R, et al.: Outcomes following proton therapy for pediatric esthesioneuroblastoma. Pediatr Blood Cancer 71 (2): e30793, 2024. [PUBMED Abstract]\n- Zanation AM, Ferlito A, Rinaldo A, et al.: When, how and why to treat the neck in patients with esthesioneuroblastoma: a review. Eur Arch Otorhinolaryngol 267 (11): 1667-71, 2010. [PUBMED Abstract]\n- Kumar M, Fallon RJ, Hill JS, et al.: Esthesioneuroblastoma in children. J Pediatr Hematol Oncol 24 (6): 482-7, 2002 Aug-Sep. [PUBMED Abstract]\n- Loy AH, Reibel JF, Read PW, et al.: Esthesioneuroblastoma: continued follow-up of a single institution's experience. Arch Otolaryngol Head Neck Surg 132 (2): 134-8, 2006. [PUBMED Abstract]\n- Porter AB, Bernold DM, Giannini C, et al.: Retrospective review of adjuvant chemotherapy for esthesioneuroblastoma. J Neurooncol 90 (2): 201-4, 2008. [PUBMED Abstract]\n- Benfari G, Fusconi M, Ciofalo A, et al.: Radiotherapy alone for local tumour control in esthesioneuroblastoma. Acta Otorhinolaryngol Ital 28 (6): 292-7, 2008. [PUBMED Abstract]\n- Kim DW, Jo YH, Kim JH, et al.: Neoadjuvant etoposide, ifosfamide, and cisplatin for the treatment of olfactory neuroblastoma. Cancer 101 (10): 2257-60, 2004. [PUBMED Abstract]\n- Kumar R: Esthesioneuroblastoma: Multimodal management and review of literature. World J Clin Cases 3 (9): 774-8, 2015. [PUBMED Abstract]\n- El Kababri M, Habrand JL, Valteau-Couanet D, et al.: Esthesioneuroblastoma in children and adolescent: experience on 11 cases with literature review. J Pediatr Hematol Oncol 36 (2): 91-5, 2014. [PUBMED Abstract]\n- Kiyota N, Tahara M, Fujii S, et al.: Nonplatinum-based chemotherapy with irinotecan plus docetaxel for advanced or metastatic olfactory neuroblastoma: a retrospective analysis of 12 cases. Cancer 112 (4): 885-91, 2008. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options Under Clinical Evaluation for Childhood Esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Options Under Clinical Evaluation for Childhood Esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about National Cancer Institute (NCI)–supported clinical trials can be found on the NCI website . For information about clinical trials sponsored by other organizations, see the ClinicalTrials.gov website ."
+        },
+        {
+          "section": "Latest Updates to This Summary (08/07/2024)",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (08/07/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nThis summary was comprehensively reviewed.\nThis summary is written and maintained by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of childhood esthesioneuroblastoma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 18,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Childhood Esthesioneuroblastoma Treatment are:\n- Denise Adams, MD (Children's Hospital Boston)\n- Karen J. Marcus, MD, FACR (Dana-Farber of Boston Children's Cancer Center and Blood Disorders Harvard Medical School)\n- William H. Meyer, MD\n- Paul A. Meyers, MD (Memorial Sloan-Kettering Cancer Center)\n- Thomas A. Olson, MD (Aflac Cancer and Blood Disorders Center of Children's Healthcare of Atlanta - Egleston Campus)\n- Alberto S. Pappo, MD (St. Jude Children's Research Hospital)\n- D. Williams Parsons, MD, PhD (Texas Children's Hospital)\n- Arthur Kim Ritchey, MD (Children's Hospital of Pittsburgh of UPMC)\n- Carlos Rodriguez-Galindo, MD (St. Jude Children's Research Hospital)\n- Stephen J. Shochat, MD (St. Jude Children's Research Hospital)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Pediatric Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Esthesioneuroblastoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/hp/child/esthesioneuroblastoma-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 29337483]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\9a920991f70be44d111d.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Childhood Esthesioneuroblastoma",
+      "title": "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+      "summary_name": "Childhood Esthesioneuroblastoma",
+      "url": "https://www.cancer.gov/types/head-and-neck/patient/child/esthesioneuroblastoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "November 4, 2024",
+      "retrieved_at": "2026-08-31T07:10:54.048834+00:00",
+      "content_sha256": "bc8747cd546a9795ae5638d67a104c178ac8d04c359025c71b1518c1b5b11e45",
+      "section_count": 38,
+      "sections": [
+        {
+          "section": "What is esthesioneuroblastoma?",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "What is esthesioneuroblastoma?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Childhood esthesioneuroblastoma is a rare type of cancer that forms in the olfactory nerve endings in the upper part of the nasal cavity . The olfactory nerves (sense of smell) pass through the many tiny holes in the bone at the base of the brain to the olfactory bulb . Esthesioneuroblastoma is also called olfactory neuroblastoma.\nEsthesioneuroblastoma affects adults and children. Even though it is very rare, esthesioneuroblastoma is the most common nasal cavity cancer in children and teens."
+        },
+        {
+          "section": "Causes and risk factors for childhood esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Causes and risk factors for childhood esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Childhood esthesioneuroblastoma is caused by certain changes to the way the cells in the olfactory nerve endings function, especially how they grow and divide into new cells. Often, the exact cause of these cell changes is unknown. Learn more about how cancer develops at What Is Cancer?\nA risk factor is anything that increases the chance of getting a disease. There are no known risk factors for childhood esthesioneuroblastoma."
+        },
+        {
+          "section": "Symptoms of childhood esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Symptoms of childhood esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Children may not have symptoms of esthesioneuroblastoma until the tumor has grown bigger. It's important to check with your child's doctor if your child has:\n- a mass in the nose\n- trouble breathing through the nose\n- a change in or loss of the sense of smell\n- nosebleeds\n- a headache\n- bulging of the eye\n- trouble seeing\n- eye pain\nThese symptoms may be caused by problems other than esthesioneuroblastoma. The only way to know is to see your child's doctor."
+        },
+        {
+          "section": "Tests to diagnose childhood esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If your child has symptoms that suggest esthesioneuroblastoma, their doctor will need to find out if these are due to cancer or to another condition. The doctor will ask when the symptoms started and how often your child has been having them. The doctor will also ask about your child's personal and family health history and do a physical exam . Depending on these results, they may recommend other tests. If your child is diagnosed with esthesioneuroblastoma, the results of these tests will help you and your child's doctor plan treatment."
+        },
+        {
+          "section": "Diagnostic tests",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood esthesioneuroblastoma",
+            "Diagnostic tests"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The following tests may be used to diagnose esthesioneuroblastoma:"
+        },
+        {
+          "section": "Nasal endoscopy",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood esthesioneuroblastoma",
+            "Diagnostic tests",
+            "Nasal endoscopy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Nasal endoscopy is a procedure to look at organs and tissues inside the body to check for abnormal areas. A flexible or rigid endoscope is inserted through the nose. An endoscope is a thin, tube-like instrument with a light and a lens for viewing. It may also have a tool to remove tissue samples, which a pathologist checks under a microscope for signs of disease."
+        },
+        {
+          "section": "Magnetic resonance imaging (MRI)",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood esthesioneuroblastoma",
+            "Diagnostic tests",
+            "Magnetic resonance imaging (MRI)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "MRI uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas of the body, such as the head and neck. This procedure is also called nuclear MRI (NMRI). Enlarge Magnetic resonance imaging (MRI) scan. The child lies on a table that slides into the MRI machine, which takes a series of detailed pictures of areas inside the body. The positioning of the child on the table depends on the part of the body being imaged."
+        },
+        {
+          "section": "CT scan (CAT scan)",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood esthesioneuroblastoma",
+            "Diagnostic tests",
+            "CT scan (CAT scan)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "CT scan uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body, such as the head and neck or lymph nodes . The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more about Computed Tomography (CT) Scans and Cancer ."
+        },
+        {
+          "section": "PET scan (positron emission tomography scan)",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood esthesioneuroblastoma",
+            "Diagnostic tests",
+            "PET scan (positron emission tomography scan)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "PET scan uses a small amount of radioactive sugar (radioactive glucose) that is injected into a vein. The PET scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do."
+        },
+        {
+          "section": "Biopsy",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood esthesioneuroblastoma",
+            "Diagnostic tests",
+            "Biopsy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Biopsy is a procedure in which a sample of tissue is removed from the tumor so that a pathologist can view it under a microscope to check for signs of cancer.\nThe following tests may be done on the sample of cells or tissues that were removed:\n- Immunohistochemistry uses antibodies to check for certain antigens (markers) in a sample of a patient's tissue. The antibodies are usually linked to an enzyme or a fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and to help tell one type of cancer from another type of cancer.\n- Genetic analysis is a laboratory test in which cells or tissue are analyzed to look for changes in genes or chromosomes . These changes may be a sign that a person has or is at risk of having a specific disease or condition. Children with esthesioneuroblastoma may be eligible for genetic analysis and other types of molecular testing through the Molecular Characterization Initiative. The Molecular Characterization Initiative offers free molecular testing to children, adolescents, and young adults with certain types of newly diagnosed cancer. The program is offered through NCI's Childhood Cancer Data Initiative. To learn more, visit About the Molecular Characterization Initiative .\n- Electron microscopy is a laboratory test in which cells in a sample of tissue are viewed under regular and high-powered microscopes to look for certain changes in the cells."
+        },
+        {
+          "section": "Tests to stage childhood esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood esthesioneuroblastoma",
+            "Tests to stage childhood esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "If your child is diagnosed with esthesioneuroblastoma, they will be referred to a pediatric oncologist. This is a doctor who specializes in staging and treating esthesioneuroblastoma and other cancers. They will recommend tests to determine the extent (stage) of cancer. Sometimes the cancer is only in the olfactory nerve ending in the upper nasal cavity. Or, it may have spread from the nasal cavity to other parts of the body. The process of learning the extent of cancer in the body is called staging. It is important to know the stage of esthesioneuroblastoma to plan treatment.\nMost children with esthesioneuroblastoma are at an advanced stage at the time of diagnosis. Esthesioneuroblastoma spreads most often to nearby tissue, including the olfactory bulb, nasal sinuses , or brain. It can also spread to the lymph nodes, lungs, liver , bone or bone marrow .\nLearn more about a specific stage of esthesioneuroblastoma at Stages of childhood esthesioneuroblastoma .\nThe following tests may be used to determine the esthesioneuroblastoma stage:"
+        },
+        {
+          "section": "Chest x-ray",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood esthesioneuroblastoma",
+            "Tests to stage childhood esthesioneuroblastoma",
+            "Chest x-ray"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "An x-ray is a type of radiation that can go through the body and make pictures. A chest x-ray is one that makes pictures of the organs and bones inside the chest."
+        },
+        {
+          "section": "PET-CT scan",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood esthesioneuroblastoma",
+            "Tests to stage childhood esthesioneuroblastoma",
+            "PET-CT scan"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "PET-CT scan combines the pictures from a positron emission tomography (PET) scan and a computed tomography (CT) scan. The PET and CT scans are done at the same time on the same machine. The pictures from both scans are combined to make a more detailed picture than either test would make by itself. If there is any cancer, this increases the chance that it will be found.\n- For the PET scan, a small amount of radioactive glucose (sugar) is injected into a vein. The scanner rotates around the body and makes a picture of where glucose is being used in the body. Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells.\n- For the CT scan, a series of detailed pictures of areas inside the body, such as the chest or abdomen , is taken from different angles. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly."
+        },
+        {
+          "section": "Fine-needle aspiration (FNA) biopsy",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood esthesioneuroblastoma",
+            "Tests to stage childhood esthesioneuroblastoma",
+            "Fine-needle aspiration (FNA) biopsy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Fine-needle aspiration biopsy uses a thin needle to remove tissue or fluid from an enlarged lymph node. A pathologist views the tissue or fluid under a microscope to look for cancer cells."
+        },
+        {
+          "section": "Getting a second opinion",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Getting a second opinion"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your child's cancer diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report, slides, and scans. This doctor may agree with the first doctor, suggest changes to the treatment plan, or provide more information about your child's cancer.\nTo learn more about choosing a doctor and getting a second opinion, see Finding Cancer Care . You can contact NCI's Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor or hospital that can provide a second opinion. For questions you might want to ask at your child's appointments, see Questions to Ask Your Doctor About Cancer ."
+        },
+        {
+          "section": "Stages of childhood esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Stages of childhood esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The cancer stage describes the extent of cancer in the body, such as the size of the tumor, whether it has spread, and how far it has spread from where it first formed. It is important to know the stage of esthesioneuroblastoma to plan the best treatment.\nThere are several different staging systems for cancer. The Kadish staging system is used for esthesioneuroblastoma. Based on the diagnostic and staging test results, a Kadish stage is assigned to your child's esthesioneuroblastoma, such as stage A, stage B, stage C, or stage D. When talking with you about your child's cancer, your child's doctor may describe it as one of these stages."
+        },
+        {
+          "section": "Stage A esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Stages of childhood esthesioneuroblastoma",
+            "Stage A esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage A, cancer is found in the nasal cavity only."
+        },
+        {
+          "section": "Stage B esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Stages of childhood esthesioneuroblastoma",
+            "Stage B esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage B, cancer has spread from the nasal cavity to the nasal sinuses."
+        },
+        {
+          "section": "Stage C esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Stages of childhood esthesioneuroblastoma",
+            "Stage C esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage C, cancer has spread through the nasal sinuses to nearby tissue."
+        },
+        {
+          "section": "Stage D esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Stages of childhood esthesioneuroblastoma",
+            "Stage D esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage D, cancer has spread to distant parts of the body, such as the lymph nodes in the neck, or to the brain, bone marrow, or lung."
+        },
+        {
+          "section": "Who treats children with esthesioneuroblastoma?",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Types of treatment for childhood esthesioneuroblastoma",
+            "Who treats children with esthesioneuroblastoma?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "A pediatric oncologist, a doctor who specializes in treating children with cancer, oversees treatment of esthesioneuroblastoma. The pediatric oncologist works with other health care providers who are experts in treating children with cancer and who specialize in certain areas of medicine. Other specialists may include:\n- pediatrician\n- pediatric surgeon\n- radiation oncologist\n- pathologist\n- pediatric nurse specialist\n- social worker\n- rehabilitation specialist\n- psychologist\n- child-life specialist\nThere are different types of treatment for children and adolescents with esthesioneuroblastoma. You and your child's care team will work together to decide treatment. Many factors will be considered, such as your child's overall health and whether the cancer is newly diagnosed or has come back.\nYour child's treatment plan will include information about the cancer, the goals of treatment, treatment options, and the possible side effects. It will be helpful to talk with your child's care team before treatment begins about what to expect. For help every step of the way, see our downloadable booklet, Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Types of treatment for childhood esthesioneuroblastoma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Surgery to remove the tumor is one of the main treatments for esthesioneuroblastoma.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, your child may be given chemotherapy or radiation therapy to kill any cancer cells that are left. Treatment given after surgery to lower the risk that the cancer will come back is called adjuvant therapy."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Types of treatment for childhood esthesioneuroblastoma",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Radiation therapy uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. Esthesioneuroblastoma may be treated with external beam radiation therapy. This type of radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer. Radiation therapy may be given alone or with other treatments, such as chemotherapy.\nLearn more about External Beam Radiation Therapy for Cancer and Radiation Therapy Side Effects ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Types of treatment for childhood esthesioneuroblastoma",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells. Chemotherapy either kills the cells or stops them from dividing. Chemotherapy may be given alone or with other types of treatment, such as radiation therapy.\nFor esthesioneuroblastoma, the chemotherapy is injected into a vein. When given this way, the drugs enter the bloodstream and can reach cancer cells throughout the body.\nChemotherapy drugs used alone or in combination to treat esthesioneuroblastoma in children include:\n- cisplatin\n- cyclophosphamide\n- dactinomycin\n- docetaxel\n- doxorubicin\n- etoposide\n- ifosfamide\n- irinotecan\n- vincristine\nOther chemotherapy drugs not listed here may also be used.\nLearn more about Chemotherapy to Treat Cancer ."
+        },
+        {
+          "section": "Clinical trials",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Types of treatment for childhood esthesioneuroblastoma",
+            "Clinical trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some children, joining a clinical trial may be an option. There are different types of clinical trials for childhood cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your child's age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment of childhood esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Types of treatment for childhood esthesioneuroblastoma",
+            "Treatment of childhood esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Treatment of newly diagnosed stage A esthesioneuroblastoma may include:\n- surgery to remove the tumor followed by radiation therapy if visible tumor cells remain after surgery\nTreatment of newly diagnosed stage B esthesioneuroblastoma may include:\n- surgery to remove the tumor followed by radiation therapy\nTreatment of newly diagnosed stage C esthesioneuroblastoma may include:\n- chemotherapy followed by surgery to remove the tumor\n- radiation therapy followed by surgery to remove the tumor\n- chemotherapy and radiation therapy given at the same time followed by surgery to remove the tumor\nTreatment of newly diagnosed stage D esthesioneuroblastoma may include:\n- chemotherapy given before or after surgery to remove the tumor\n- radiation therapy to the tumor and other places in the body where the cancer has spread\nIf the cancer comes back after treatment, your child's doctor will talk with you about what to expect and possible next steps. There might be treatment options that may shrink the cancer or control its growth. If there are no treatments, your child can receive care to control symptoms from cancer so they can be as comfortable as possible.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Prognostic factors for esthesioneuroblastoma",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Prognostic factors for esthesioneuroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If your child has been diagnosed with esthesioneuroblastoma, you likely have questions about how serious the cancer is and your child's chances of survival. The likely outcome or course of a disease is called prognosis. The prognosis can be affected by whether the cancer is only in the nose or if it has spread to the nasal sinuses, lymph nodes, or other parts of the body and whether the tumor was completely removed by surgery. No two people are alike, and responses to treatment can vary greatly. Your child's cancer care team is in the best position to talk with you about your child's prognosis."
+        },
+        {
+          "section": "Side effects and late effects of treatment",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Side effects and late effects of treatment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Cancer treatments can cause side effects. Which side effects your child might have depends on the type of treatment they receive, the dose, and how their body reacts. Talk with your child's treatment team about which side effects to look for and ways to manage them.\nTo learn more about side effects that begin during treatment for cancer, visit Side Effects .\nProblems from cancer treatment that begin 6 months or later after treatment and continue for months or years are called late effects. Late effects of cancer treatment may include:\n- physical problems\n- changes in mood, feelings, thinking, learning, or memory\n- second cancers (new types of cancer) or other conditions\nSome late effects may be treated or controlled. It is important to talk with your child's doctors about the possible late effects caused by some treatments. Learn more about Late Effects of Treatment for Childhood Cancer ."
+        },
+        {
+          "section": "Follow-up care",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Follow-up care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As your child goes through treatment, they will have follow-up tests or check-ups. Some of the tests that were done to diagnose the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of the these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your child's condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Coping with your child's cancer",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Coping with your child's cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "When your child has cancer, every member of the family needs support. Taking care of yourself during this difficult time is important. Reach out to your child's treatment team and to people in your family and community for support. To learn more, see Support for Families When a Child Has Cancer and the booklet Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Related resources",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "Related resources"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "For more childhood cancer information and other general cancer resources:\n- Head and Neck Cancer Home Page\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Adolescents and Young Adults with Cancer\n- Cancer in Children and Adolescents\n- Coping with Cancer\n- For Survivors and Caregivers"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of childhood esthesioneuroblastoma. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Esthesioneuroblastoma. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/patient/child/esthesioneuroblastoma-treatment-pdq . Accessed <MM/DD/YYYY>.\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Esthesioneuroblastoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\8c4ac4ded93274bde541.html"
+    }
+  ]
+}

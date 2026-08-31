@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Childhood Cancer of Unknown Primary (CUP)",
+  "generated_at": "2026-08-31T07:15:23.043968+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Childhood Cancer of Unknown Primary (CUP)",
+      "title": "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Childhood Cancer of Unknown Primary (CUP) Treatment",
+      "url": "https://www.cancer.gov/types/unknown-primary/hp/child-unknown-primary-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "August 13, 2024",
+      "retrieved_at": "2026-08-31T07:15:02.455267+00:00",
+      "content_sha256": "d759f0eb557be996f8abc17ce21525932c4faf005f7a0cfd7d867b4c99a5e719",
+      "section_count": 16,
+      "sections": [
+        {
+          "section": "Incidence and Clinical Presentation",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "Incidence and Clinical Presentation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Cancers of unknown primary sites present as metastatic cancers for which precise primary tumor sites cannot be determined.[ 1 ] As an example, lymph nodes at the base of the skull may enlarge in relationship to a tumor on the face or scalp that is not evident by physical examination or radiographic imaging. Thus, modern imaging techniques may indicate the extent of the disease but not a primary site. Tumors such as adenocarcinomas, melanomas, and embryonal tumors, like rhabdomyosarcomas and neuroblastomas, may present in this way.\nLess than 1% of all solid cancers of unknown primary sites occur in children. Because of the age-related incidence of tumor types, embryonal histologies are more common in children.[ 2 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "Incidence and Clinical Presentation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Kuttesch JF, Parham DM, Kaste SC, et al.: Embryonal malignancies of unknown primary origin in children. Cancer 75 (1): 115-21, 1995. [PUBMED Abstract]\n- Pavlidis N, Pentheroudakis G: Cancer of unknown primary site. Lancet 379 (9824): 1428-35, 2012. [PUBMED Abstract]"
+        },
+        {
+          "section": "Diagnostic Evaluation",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "Diagnostic Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "For all patients who present with tumors from unknown primary sites, treatment is directed toward the specific histopathology of the tumor and is age-appropriate for the general type of cancer suspected, regardless of the sites involved.[ 1 ]\nStudies in adults suggest that positron emission tomography (PET) imaging can be helpful in identifying cancers of unknown primary sites, particularly in patients whose tumors arise in the head and neck area.[ 2 ] A report in adults using fluorine F 18-fludeoxyglucose PET-computed tomography identified 42.5% of primary tumors in a group of cancers of unknown primary sites.[ 3 ]\nThe use of gene expression profiling and next-generation sequencing can enhance the ability to identify the putative tissue of origin and guide the selection of targeted agents for specific variants.[ 4 - 8 ]\nIn a study of 200 adult patients with carcinomas of unknown primary sites, 125 had adenocarcinomas and 75 had carcinomas without features of adenocarcinoma. Genomic alterations were found in 96% of the cases. The most common alterations were TP53 (55%), KRAS (20%), CDKN2A (19%), and MYC (12%). Clinically relevant and potentially actionable variants included KRAS (20%), CDKN2A (19%), MCL1 (10%), PTEN (7%), PIK3CA (9%), ERBB2 (8%), RICTOR (6%), BRAF (6%), and NF1 (4%). These findings suggest that genomic profiling can help identify potentially actionable targets, which could benefit patients clinically while reducing the complex, costly workup needed to search for a primary tumor site of origin.[ 9 ]\nDespite reports of precision medicine studies in pediatric oncology, none of them have described a case of cancer of unknown primary site with a defined or actionable genomic alteration.[ 10 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "Diagnostic Evaluation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Kuttesch JF, Parham DM, Kaste SC, et al.: Embryonal malignancies of unknown primary origin in children. Cancer 75 (1): 115-21, 1995. [PUBMED Abstract]\n- Bohuslavizki KH, Klutmann S, Kröger S, et al.: FDG PET detection of unknown primary tumors. J Nucl Med 41 (5): 816-22, 2000. [PUBMED Abstract]\n- Han A, Xue J, Hu M, et al.: Clinical value of 18F-FDG PET-CT in detecting primary tumor for patients with carcinoma of unknown primary. Cancer Epidemiol 36 (5): 470-5, 2012. [PUBMED Abstract]\n- Tothill RW, Li J, Mileshkin L, et al.: Massively-parallel sequencing assists the diagnosis and guided treatment of cancers of unknown primary. J Pathol 231 (4): 413-23, 2013. [PUBMED Abstract]\n- Varadhachary GR, Talantov D, Raber MN, et al.: Molecular profiling of carcinoma of unknown primary and correlation with clinical evaluation. J Clin Oncol 26 (27): 4442-8, 2008. [PUBMED Abstract]\n- Fizazi K, Greco FA, Pavlidis N, et al.: Cancers of unknown primary site: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 26 (Suppl 5): v133-8, 2015. [PUBMED Abstract]\n- Greco FA, Lennington WJ, Spigel DR, et al.: Poorly differentiated neoplasms of unknown primary site: diagnostic usefulness of a molecular cancer classifier assay. Mol Diagn Ther 19 (2): 91-7, 2015. [PUBMED Abstract]\n- Gatalica Z, Millis SZ, Vranic S, et al.: Comprehensive tumor profiling identifies numerous biomarkers of drug response in cancers of unknown primary site: analysis of 1806 cases. Oncotarget 5 (23): 12440-7, 2014. [PUBMED Abstract]\n- Ross JS, Wang K, Gay L, et al.: Comprehensive Genomic Profiling of Carcinoma of Unknown Primary Site: New Routes to Targeted Therapies. JAMA Oncol 1 (1): 40-9, 2015. [PUBMED Abstract]\n- Mody RJ, Prensner JR, Everett J, et al.: Precision medicine in pediatric oncology: Lessons learned and next steps. Pediatr Blood Cancer 64 (3): , 2017. [PUBMED Abstract]"
+        },
+        {
+          "section": "Special Considerations for the Treatment of Children With Cancer",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "Cancer in children and adolescents is rare, although the overall incidence has slowly increased since 1975.[ 1 ] Children and adolescents with cancer should be referred to medical centers that have a multidisciplinary team of cancer specialists with experience treating the cancers that occur during childhood and adolescence. This multidisciplinary team approach incorporates the skills of the following pediatric specialists and others to ensure that children receive treatment, supportive care, and rehabilitation to achieve optimal survival and quality of life:\n- Primary care physicians.\n- Pediatric surgeons.\n- Pathologists.\n- Pediatric radiation oncologists.\n- Pediatric medical oncologists and hematologists.\n- Ophthalmologists.\n- Rehabilitation specialists.\n- Pediatric oncology nurses.\n- Social workers.\n- Child-life professionals.\n- Psychologists.\n- Nutritionists.\nFor specific information about supportive care for children and adolescents with cancer, see the summaries on Supportive and Palliative Care .\nThe American Academy of Pediatrics has outlined guidelines for pediatric cancer centers and their role in the treatment of children and adolescents with cancer.[ 2 ] At these centers, clinical trials are available for most types of cancer that occur in children and adolescents, and the opportunity to participate is offered to most patients and their families. Clinical trials for children and adolescents diagnosed with cancer are generally designed to compare potentially better therapy with current standard therapy. Other types of clinical trials test novel therapies when there is no standard therapy for a cancer diagnosis. Most of the progress in identifying curative therapies for childhood cancers has been achieved through clinical trials. Information about ongoing clinical trials is available from the NCI website .\nDramatic improvements in survival have been achieved for children and adolescents with cancer. Between 1975 and 2020, childhood cancer mortality decreased by more than 50%.[ 3 - 5 ] Childhood and adolescent cancer survivors require close monitoring because side effects of cancer therapy may persist or develop months or years after treatment. For information about the incidence, type, and monitoring of late effects in childhood and adolescent cancer survivors, see Late Effects of Treatment for Childhood Cancer .\nChildhood cancer is a rare disease, with about 15,000 cases diagnosed annually in the United States in individuals younger than 20 years.[ 6 ] The U.S. Rare Diseases Act of 2002 defines a rare disease as one that affects populations smaller than 200,000 people in the United States. Therefore, all pediatric cancers are considered rare.\nThe designation of a rare tumor is not uniform among pediatric and adult groups. In adults, rare cancers are defined as those with an annual incidence of fewer than six cases per 100,000 people. They account for up to 24% of all cancers diagnosed in the European Union and about 20% of all cancers diagnosed in the United States.[ 7 , 8 ] In children and adolescents, the designation of a rare tumor is not uniform among international groups, as follows:\n- A consensus effort between the European Union Joint Action on Rare Cancers and the European Cooperative Study Group for Rare Pediatric Cancers estimated that 11% of all cancers in patients younger than 20 years could be categorized as very rare. This consensus group defined very rare cancers as those with annual incidences of fewer than two cases per 1 million people. However, three additional histologies (thyroid carcinoma, melanoma, and testicular cancer) with incidences of more than two cases per 1 million people were also included in the very rare group due to a lack of knowledge and expertise in the management of these tumors.[ 9 ]\n- The Children's Oncology Group defines rare pediatric cancers as those listed in the International Classification of Childhood Cancer subgroup XI, which includes thyroid cancers, melanomas and nonmelanoma skin cancers, and multiple types of carcinomas (e.g., adrenocortical carcinomas, nasopharyngeal carcinomas, and most adult-type carcinomas such as breast cancers and colorectal cancers).[ 10 ] These diagnoses account for about 5% of the cancers diagnosed in children aged 0 to 14 years and about 27% of the cancers diagnosed in adolescents aged 15 to 19 years.[ 4 ] Most cancers in subgroup XI are either melanomas or thyroid cancers, with other cancer types accounting for only 2% of the cancers diagnosed in children aged 0 to 14 years and 9.3% of the cancers diagnosed in adolescents aged 15 to 19 years.\nThese rare cancers are extremely challenging to study because of the relatively few patients with any individual diagnosis, the predominance of rare cancers in the adolescent population, and the small number of clinical trials for adolescents with rare cancers.\nInformation about these tumors may also be found in sources relevant to adults with cancer, such as Cancer of Unknown Primary Treatment ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Smith MA, Seibel NL, Altekruse SF, et al.: Outcomes for children and adolescents with cancer: challenges for the twenty-first century. J Clin Oncol 28 (15): 2625-34, 2010. [PUBMED Abstract]\n- American Academy of Pediatrics: Standards for pediatric cancer centers. Pediatrics 134 (2): 410-4, 2014. Also available online . Last accessed February 25, 2025.\n- Smith MA, Altekruse SF, Adamson PC, et al.: Declining childhood and adolescent cancer mortality. Cancer 120 (16): 2497-506, 2014. [PUBMED Abstract]\n- National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed February 25, 2025.\n- Surveillance Research Program, National Cancer Institute: SEER*Explorer: An interactive website for SEER cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed December 30, 2024.\n- Ward E, DeSantis C, Robbins A, et al.: Childhood and adolescent cancer statistics, 2014. CA Cancer J Clin 64 (2): 83-103, 2014 Mar-Apr. [PUBMED Abstract]\n- Gatta G, Capocaccia R, Botta L, et al.: Burden and centralised treatment in Europe of rare tumours: results of RARECAREnet-a population-based study. Lancet Oncol 18 (8): 1022-1039, 2017. [PUBMED Abstract]\n- DeSantis CE, Kramer JL, Jemal A: The burden of rare cancers in the United States. CA Cancer J Clin 67 (4): 261-272, 2017. [PUBMED Abstract]\n- Ferrari A, Brecht IB, Gatta G, et al.: Defining and listing very rare cancers of paediatric age: consensus of the Joint Action on Rare Cancers in cooperation with the European Cooperative Study Group for Pediatric Rare Tumors. Eur J Cancer 110: 120-126, 2019. [PUBMED Abstract]\n- Pappo AS, Krailo M, Chen Z, et al.: Infrequent tumor initiative of the Children's Oncology Group: initial lessons learned and their impact on future plans. J Clin Oncol 28 (33): 5011-6, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Childhood Cancer of Unknown Primary",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Cancer of Unknown Primary"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Chemotherapy, targeted therapy, and radiation therapy may be used to treat childhood cancers of unknown primary sites. The appropriate and relevant treatments, according to the general category of carcinoma or sarcoma (depending on the histological findings, symptoms, and extent of tumor), are initiated as early as possible.[ 1 ]\nFor more information, see Cancer of Unknown Primary Treatment ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood Cancer of Unknown Primary",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Morris GJ, Greco FA, Hainsworth JD, et al.: Cancer of unknown primary site. Semin Oncol 37 (2): 71-9, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options Under Clinical Evaluation for Childhood Cancer of Unknown Primary",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "Treatment Options Under Clinical Evaluation for Childhood Cancer of Unknown Primary"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about National Cancer Institute (NCI)–supported clinical trials can be found on the NCI website . For information about clinical trials sponsored by other organizations, see the ClinicalTrials.gov website ."
+        },
+        {
+          "section": "Latest Updates to This Summary (08/13/2024)",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (08/13/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nThis summary was comprehensively reviewed.\nThis summary is written and maintained by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of pediatric cancer of unknown primary. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 17,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Childhood Cancer of Unknown Primary (CUP) Treatment are:\n- Denise Adams, MD (Children's Hospital Boston)\n- Karen J. Marcus, MD, FACR (Dana-Farber of Boston Children's Cancer Center and Blood Disorders Harvard Medical School)\n- William H. Meyer, MD\n- Paul A. Meyers, MD (Memorial Sloan-Kettering Cancer Center)\n- Thomas A. Olson, MD (Aflac Cancer and Blood Disorders Center of Children's Healthcare of Atlanta - Egleston Campus)\n- Alberto S. Pappo, MD (St. Jude Children's Research Hospital)\n- Arthur Kim Ritchey, MD (Children's Hospital of Pittsburgh of UPMC)\n- Carlos Rodriguez-Galindo, MD (St. Jude Children's Research Hospital)\n- Stephen J. Shochat, MD (St. Jude Children's Research Hospital)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Pediatric Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Cancer of Unknown Primary (CUP) Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/unknown-primary/hp/child-unknown-primary-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 31909936]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Cancer of Unknown Primary (CUP) Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\d63cc72e2bb49a5793d4.html"
+    }
+  ]
+}

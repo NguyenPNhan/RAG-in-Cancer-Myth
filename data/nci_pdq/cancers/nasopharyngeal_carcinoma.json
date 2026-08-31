@@ -1,0 +1,523 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Nasopharyngeal Carcinoma",
+  "generated_at": "2026-08-31T07:15:23.382110+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Nasopharyngeal Carcinoma",
+      "title": "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Nasopharyngeal Carcinoma Treatment",
+      "url": "https://www.cancer.gov/types/head-and-neck/hp/adult/nasopharyngeal-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "May 14, 2025",
+      "retrieved_at": "2026-08-31T07:10:28.013799+00:00",
+      "content_sha256": "88d5bebd958b18604ed7988342b52fe1f28d64a942b2f83e040ef4775f002199",
+      "section_count": 43,
+      "sections": [
+        {
+          "section": "General Information About Nasopharyngeal Carcinoma",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Nasopharyngeal Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Tumors of many histologies can occur in the nasopharynx, but only nasopharyngeal carcinomas (also called NPC) are covered in this summary. The American Joint Committee on Cancer nasopharynx staging refers exclusively to the World Health Organization's (WHO) classification of grades I, II, and III nasopharyngeal carcinoma."
+        },
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Nasopharyngeal Carcinoma",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Less than one person out of 100,000 is diagnosed with nasopharyngeal carcinoma in the world each year, with most cases found in southern China, Southeast Asia, the Arctic, and the Middle East/North Africa. The incidence is higher in males than in females.[ 1 - 3 ] WHO grade I nasopharyngeal carcinoma (keratinizing subtype) accounts for less than 20% of cases in the United States and WHO grades II and III represent the endemic form of nasopharyngeal carcinoma and are found mostly in Asia. Nonkeratinizing subtypes are associated with Epstein-Barr virus (EBV) infection and account for most cases.[ 4 ]"
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Nasopharyngeal Carcinoma",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The nasopharynx has a cuboidal shape. The lateral walls are formed by the eustachian tube and the fossa of Rosenmuller. The roof, sloping downward from anterior to posterior, is bordered by the pharyngeal hypophysis, pharyngeal tonsil, and pharyngeal bursa with the base of the skull above. Anteriorly, the nasopharynx abuts the posterior choanae and nasal cavity, and the posterior boundary is formed by the muscles of the posterior pharyngeal wall. Inferiorly, the nasopharynx ends at an imaginary horizontal line formed by the upper surface of the soft palate and the posterior pharyngeal wall. Nasopharyngeal carcinoma originates from the epithelial cells that line the nasopharynx."
+        },
+        {
+          "section": "Risk Factors",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Nasopharyngeal Carcinoma",
+            "Risk Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Risk factors for nasopharyngeal carcinoma include:[ 4 - 8 ]\nRisk factors for keratinizing squamous cell carcinoma (WHO grade I):\n- Heavy alcohol intake.\n- History of smoking.\nRisk factors for nonkeratinizing carcinoma (WHO grades II and III):\n- Asian race.\n- EBV exposure.\n- Family history."
+        },
+        {
+          "section": "Clinical Features",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Nasopharyngeal Carcinoma",
+            "Clinical Features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Signs and symptoms at presentation include:\n- Headache caused by cranial nerve dysfunction (usually II–VI or IX–XII).\n- Diplopia.\n- Facial numbness.\n- Cervical adenopathy (present in approximately 75% of patients and often bilateral and posterior).\n- Nasal obstruction.\n- Epistaxis.\n- Diminished hearing.\n- Tinnitus.\n- Otitis media.\n- Sore throat.\nIn patients who present with cervical adenopathy alone, the finding of EBV genomic material in the tissue using polymerase chain reaction (PCR) is strong evidence of a nasopharyngeal primary tumor, and that area should be examined closely.[ 9 ]"
+        },
+        {
+          "section": "Diagnostic tests and procedures",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Nasopharyngeal Carcinoma",
+            "Diagnostic Evaluation",
+            "Diagnostic tests and procedures"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Diagnosis is made by biopsy of the nasopharyngeal mass. The following tests and procedures are used in the diagnosis of nasopharyngeal carcinoma:[ 10 ]\n- Careful visual examination by fiberoptic nasal endoscopic examination and/or examination under anesthesia.\n- Endoscopic biopsy.\n- Physical examination and health history. Documentation of the size and location of the tumor and cervical lymph nodes is noted.\n- Evaluation of cranial nerve function including neuro-ophthalmological evaluation and audiological evaluation.\n- Computed tomography (CT) scan and/or positron emission tomography (PET)-CT scan.\n- Magnetic resonance imaging (MRI) to evaluate skull base invasion.\n- Circulating cancer-derived EBV DNA in plasma.[ 11 ]\n- Human papillomavirus (HPV) type 16 blood test if EBV negative.\nAny clinical or laboratory finding that suggests distant metastasis may prompt further evaluation of other sites. MRI is often more helpful than CT scans in assessing skull base involvement and in defining the extent of abnormalities detected.[ 10 , 12 , 13 ]"
+        },
+        {
+          "section": "Circulating cancer-derived EBV DNA",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Nasopharyngeal Carcinoma",
+            "Diagnostic Evaluation",
+            "Circulating cancer-derived EBV DNA"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "EBV DNA in plasma samples in endemic populations may be useful in screening for early asymptomatic nasopharyngeal carcinoma. Circulating cancer-derived EBV DNA in plasma is an established tumor marker for nasopharyngeal carcinoma, with a sensitivity of 96% and a specificity of 93%.[ 14 - 16 ] The presence of short EBV DNA fragments of fewer than 181 base pairs in the plasma of nasopharyngeal carcinoma patients suggests that EBV DNA molecules are released into the circulation by apoptosis of cancer cells rather than by active viral replication.[ 17 ]\nEvidence (EBV DNA in plasma for screening and diagnosis of nasopharyngeal carcinoma):\n- In a study of 20,174 participants in China, EBV DNA in plasma was used to screen for early nasopharyngeal carcinoma.[ 14 ]\n- Initially, 1,112 participants tested positive for EBV DNA in plasma.\n- Three hundred and nine participants (1.5% of all participants, and 27.8% of those who initially tested positive) had persistently detectable EBV DNA in plasma at baseline and follow-up.\n- Among the 309 participants, nasopharyngeal carcinoma was confirmed after nasal endoscopic examination, MRI, and biopsy in 34 participants (11.0%)."
+        },
+        {
+          "section": "HPV",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Nasopharyngeal Carcinoma",
+            "Diagnostic Evaluation",
+            "HPV"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Differentiating HPV-related nasopharyngeal carcinoma requires identification of p16 immunohistochemical staining, in situ hybridization, and/or PCR similar to the method for differentiating HPV-related oropharyngeal cancer. Less than 10% of nonkeratinizing nasopharyngeal carcinomas are associated with HPV infection.[ 18 , 19 ]"
+        },
+        {
+          "section": "Prognostic Factors",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Nasopharyngeal Carcinoma",
+            "Prognostic Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The following major prognostic factors adversely influence treatment outcome:[ 20 ]\n- WHO grade I.\n- A higher tumor (T) stage.\n- The presence of involved cervical lymph nodes (N).\n- High plasma/serum EBV DNA levels before and after treatment.[ 21 , 22 ]\n- Large tumor volume.[ 23 ][ Level of evidence C1 ]"
+        },
+        {
+          "section": "Follow-Up Testing and Late Effects",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Nasopharyngeal Carcinoma",
+            "Follow-Up Testing and Late Effects"
+          ],
+          "is_boilerplate": false,
+          "block_count": 30,
+          "text": "Follow-up testing for tumor recurrence includes:[ 24 ]\n- Routine periodic examination of the original tumor site and neck.\n- CT or PET-CT scan.\n- MRI scan.\n- Plasma/serum EBV DNA levels.\nPatients should be monitored for the following potential late effects of treatment:[ 25 , 26 ]\n- Xerostomia.\n- Dental and oral complications.\n- Hearing loss.\n- Vision loss.\n- Dysphagia.\n- Trismus.\n- Thyroid and pituitary function.\n- Cranial neuropathies.\n- Cognitive impairment.\nAlthough most recurrences occur within 5 years of diagnosis, relapse can be seen at longer intervals. The incidence of second primary malignancies after treatment is lower for nasopharyngeal carcinoma than for other head and neck cancer sites.[ 27 ]\nAccumulating evidence has demonstrated a high incidence (>30%–40%) of hypothyroidism in patients who have received radiation therapy that delivered external-beam radiation therapy (EBRT) to the entire thyroid gland or to the pituitary gland. Thyroid-function testing of patients should be considered before therapy and as part of posttreatment follow-up.[ 28 , 29 ]\nCareful dental and oral hygiene evaluation and therapy is particularly important before initiation of radiation treatment. Intensity-modulated radiation therapy (IMRT) results in a lower incidence of xerostomia and may provide a better quality of life than conventional three-dimensional or two-dimensional radiation therapy (2DRT).[ 30 , 31 ][ Level of evidence A3 ]\nEvidence (IMRT vs. 2DRT and incidence of xerostomia):\n- A randomized prospective study assessed the incidence of xerostomia in patients with early-stage nasopharyngeal carcinoma treated with IMRT (n = 28) or 2DRT (n = 28).[ 32 ] Long-term toxicities were graded with the Radiation Therapy Oncology Group (RTOG) criteria.\n- The incidence of grade 2 xerostomia was 20% for patients who received IMRT and 90% for patients who received 2DRT ( P = .001). There was no significant difference between the groups with the xerostomia questionnaire.\n- Patients who received IMRT had lower scores for dry mouth than patients who received 2DRT.\n- The overall survival rate was 82% in the IMRT group versus 54% in the 2DRT group.\n- The relapse-free survival rate was 70% in the IMRT group versus 54% in the 2DRT group.\n- More late complications were reported among patients in the 2DRT group.\n- The phase II RTOG-0225 study tested the feasibility of IMRT in a multi-institutional setting.[ 33 ]\n- The rate of grade 2 xerostomia at 1 year from start of IMRT was 13.5%.\n- The rate of grades 3 and 4 xerostomia was minimal.\n- Only 2 of 68 patients were reported with grade 3 xerostomia.\n- None of the patients had grade 4 xerostomia."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Nasopharyngeal Carcinoma",
+            "Follow-Up Testing and Late Effects",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 33,
+          "text": "- Petersson F: Nasopharyngeal carcinoma: a review. Semin Diagn Pathol 32 (1): 54-73, 2015. [PUBMED Abstract]\n- Ferlay J, Soerjomataram I, Dikshit R, et al.: Cancer incidence and mortality worldwide: sources, methods and major patterns in GLOBOCAN 2012. Int J Cancer 136 (5): E359-86, 2015. [PUBMED Abstract]\n- Chang ET, Adami HO: The enigmatic epidemiology of nasopharyngeal carcinoma. Cancer Epidemiol Biomarkers Prev 15 (10): 1765-77, 2006. [PUBMED Abstract]\n- Chen YP, Chan ATC, Le QT, et al.: Nasopharyngeal carcinoma. Lancet 394 (10192): 64-80, 2019. [PUBMED Abstract]\n- Chien YC, Chen JY, Liu MY, et al.: Serologic markers of Epstein-Barr virus infection and nasopharyngeal carcinoma in Taiwanese men. N Engl J Med 345 (26): 1877-82, 2001. [PUBMED Abstract]\n- Chen L, Gallicchio L, Boyd-Lindsley K, et al.: Alcohol consumption and the risk of nasopharyngeal carcinoma: a systematic review. Nutr Cancer 61 (1): 1-15, 2009. [PUBMED Abstract]\n- Okekpa SI, S M N Mydin RB, Mangantig E, et al.: Nasopharyngeal Carcinoma (NPC) Risk Factors: A Systematic Review and Meta-Analysis of the Association with Lifestyle, Diets, Socioeconomic and Sociodemographic in Asian Region. Asian Pac J Cancer Prev 20 (11): 3505-3514, 2019. [PUBMED Abstract]\n- Xie SH, Yu IT, Tse LA, et al.: Tobacco smoking, family history, and the risk of nasopharyngeal carcinoma: a case-referent study in Hong Kong Chinese. Cancer Causes Control 26 (6): 913-21, 2015. [PUBMED Abstract]\n- Feinmesser R, Miyazaki I, Cheung R, et al.: Diagnosis of nasopharyngeal carcinoma by DNA amplification of tissue obtained by fine-needle aspiration. N Engl J Med 326 (1): 17-21, 1992. [PUBMED Abstract]\n- Cummings CW, Fredrickson JM, Harker LA, et al.: Otolaryngology - Head and Neck Surgery. Mosby-Year Book, Inc., 1998.\n- Kim KY, Le QT, Yom SS, et al.: Clinical Utility of Epstein-Barr Virus DNA Testing in the Treatment of Nasopharyngeal Carcinoma Patients. Int J Radiat Oncol Biol Phys 98 (5): 996-1001, 2017. [PUBMED Abstract]\n- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80.\n- Laramore GE, ed.: Radiation Therapy of Head and Neck Cancer. Springer-Verlag, 1989.\n- Chan KCA, Woo JKS, King A, et al.: Analysis of Plasma Epstein-Barr Virus DNA to Screen for Nasopharyngeal Cancer. N Engl J Med 377 (6): 513-522, 2017. [PUBMED Abstract]\n- Lo YM, Chan LY, Lo KW, et al.: Quantitative analysis of cell-free Epstein-Barr virus DNA in plasma of patients with nasopharyngeal carcinoma. Cancer Res 59 (6): 1188-91, 1999. [PUBMED Abstract]\n- Leung SF, Zee B, Ma BB, et al.: Plasma Epstein-Barr viral deoxyribonucleic acid quantitation complements tumor-node-metastasis staging prognostication in nasopharyngeal carcinoma. J Clin Oncol 24 (34): 5414-8, 2006. [PUBMED Abstract]\n- Chan KC, Zhang J, Chan AT, et al.: Molecular characterization of circulating EBV DNA in the plasma of nasopharyngeal carcinoma and lymphoma patients. Cancer Res 63 (9): 2028-32, 2003. [PUBMED Abstract]\n- Huang WB, Chan JYW, Liu DL: Human papillomavirus and World Health Organization type III nasopharyngeal carcinoma: Multicenter study from an endemic area in Southern China. Cancer 124 (3): 530-536, 2018. [PUBMED Abstract]\n- Robinson M, Suh YE, Paleri V, et al.: Oncogenic human papillomavirus-associated nasopharyngeal carcinoma: an observational study of correlation with ethnicity, histological subtype and outcome in a UK population. Infect Agent Cancer 8 (1): 30, 2013. [PUBMED Abstract]\n- Sanguineti G, Geara FB, Garden AS, et al.: Carcinoma of the nasopharynx treated by radiotherapy alone: determinants of local and regional control. Int J Radiat Oncol Biol Phys 37 (5): 985-96, 1997. [PUBMED Abstract]\n- Leung SF, Chan AT, Zee B, et al.: Pretherapy quantitative measurement of circulating Epstein-Barr virus DNA is predictive of posttherapy distant failure in patients with early-stage nasopharyngeal carcinoma of undifferentiated type. Cancer 98 (2): 288-91, 2003. [PUBMED Abstract]\n- Chan AT, Lo YM, Zee B, et al.: Plasma Epstein-Barr virus DNA and residual disease after radiotherapy for undifferentiated nasopharyngeal carcinoma. J Natl Cancer Inst 94 (21): 1614-9, 2002. [PUBMED Abstract]\n- Lee CC, Huang TT, Lee MS, et al.: Clinical application of tumor volume in advanced nasopharyngeal carcinoma to predict outcome. Radiat Oncol 5: 20, 2010. [PUBMED Abstract]\n- Cooper JS, Fu K, Marks J, et al.: Late effects of radiation therapy in the head and neck region. Int J Radiat Oncol Biol Phys 31 (5): 1141-64, 1995. [PUBMED Abstract]\n- McDowell L, Corry J, Ringash J, et al.: Quality of Life, Toxicity and Unmet Needs in Nasopharyngeal Cancer Survivors. Front Oncol 10: 930, 2020. [PUBMED Abstract]\n- Fong R, Ward EC, Rumbach AF: Dysphagia after chemo-radiation for nasopharyngeal cancer: A scoping review. World J Otorhinolaryngol Head Neck Surg 6 (1): 10-24, 2020. [PUBMED Abstract]\n- Cooper JS, Scott C, Marcial V, et al.: The relationship of nasopharyngeal carcinomas and second independent malignancies based on the Radiation Therapy Oncology Group experience. Cancer 67 (6): 1673-7, 1991. [PUBMED Abstract]\n- Turner SL, Tiver KW, Boyages SC: Thyroid dysfunction following radiotherapy for head and neck cancer. Int J Radiat Oncol Biol Phys 31 (2): 279-83, 1995. [PUBMED Abstract]\n- Constine LS: What else don't we know about the late effects of radiation in patients treated for head and neck cancer? Int J Radiat Oncol Biol Phys 31 (2): 427-9, 1995. [PUBMED Abstract]\n- Pow EH, Kwong DL, McMillan AS, et al.: Xerostomia and quality of life after intensity-modulated radiotherapy vs. conventional radiotherapy for early-stage nasopharyngeal carcinoma: initial report on a randomized controlled clinical trial. Int J Radiat Oncol Biol Phys 66 (4): 981-91, 2006. [PUBMED Abstract]\n- Kam MK, Leung SF, Zee B, et al.: Prospective randomized study of intensity-modulated radiotherapy on salivary gland function in early-stage nasopharyngeal carcinoma patients. J Clin Oncol 25 (31): 4873-9, 2007. [PUBMED Abstract]\n- Poon DMC, Kam MKM, Johnson D, et al.: Durability of the parotid-sparing effect of intensity-modulated radiotherapy (IMRT) in early stage nasopharyngeal carcinoma: A 15-year follow-up of a randomized prospective study of IMRT versus two-dimensional radiotherapy. Head Neck 43 (6): 1711-1720, 2021. [PUBMED Abstract]\n- Lee N, Harris J, Garden AS, et al.: Intensity-modulated radiation therapy with or without chemotherapy for nasopharyngeal carcinoma: radiation therapy oncology group phase II trial 0225. J Clin Oncol 27 (22): 3684-90, 2009. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of Nasopharyngeal Carcinoma",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Nasopharyngeal Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "The World Health Organization (WHO) definition of nasopharyngeal carcinoma is a “carcinoma arising in the nasopharyngeal mucosa that shows light microscopic or ultrastructural evidence of squamous differentiation.” The WHO classification for nasopharyngeal carcinoma has evolved over time, and the 2005 classification is the current version.[ 1 - 3 ] The three versions below are all used, and in particular, the undifferentiated carcinomas that carry the worst prognosis and the greatest sensitivity to chemoradiation are generally classified according to the 1978 definitions.[ 4 ]\n1978 WHO classification:\n- Squamous cell carcinoma.\n- Nonkeratinizing squamous cell carcinoma.\n- Undifferentiated carcinoma (most common subtype).\n1991 WHO classification:\n- Squamous cell carcinoma.\n- Nonkeratinizing squamous cell carcinoma.\n- Differentiated nonkeratinizing carcinoma.\n- Undifferentiated carcinoma.\n2005 WHO classification:\n- Keratinizing squamous cell carcinoma.\n- Nonkeratinizing carcinoma.\n- Differentiated nonkeratinizing carcinoma.\n- Undifferentiated carcinoma.\n- Basaloid squamous cell carcinoma.\nPrevious subdivisions of nasopharyngeal carcinoma included lymphoepithelioma, which is now classified as WHO grade III and characterized by lymphoid infiltrate.[ 5 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Nasopharyngeal Carcinoma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Thompson LD: Update on nasopharyngeal carcinoma. Head Neck Pathol 1 (1): 81-6, 2007. [PUBMED Abstract]\n- Wang HY, Chang YL, To KF, et al.: A new prognostic histopathologic classification of nasopharyngeal carcinoma. Chin J Cancer 35: 41, 2016. [PUBMED Abstract]\n- Stelow EB, Wenig BM: Update From The 4th Edition of the World Health Organization Classification of Head and Neck Tumours: Nasopharynx. Head Neck Pathol 11 (1): 16-22, 2017. [PUBMED Abstract]\n- Shanmugaratnam K, Chan SH, de-Thé G, et al.: Histopathology of nasopharyngeal carcinoma: correlations with epidemiology, survival rates and other biological characteristics. Cancer 44 (3): 1029-44, 1979. [PUBMED Abstract]\n- Shanmugaratnam K, Sobin L: Histological Typing of Upper Respiratory Tract Tumours. World Health Organization, 1978. International Histologic Classification of Tumours: No. 19."
+        },
+        {
+          "section": "Stage Information for Nasopharyngeal Carcinoma",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Nasopharyngeal Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Staging systems used for clinical staging are based on the best possible estimate of the extent of disease before treatment.[ 1 , 2 ]\nAssessment of the primary tumor is made on the basis of inspection, palpation, and fiberoptic endoscopic evaluation. The tumor must be confirmed histologically, and any other pathologic data obtained on biopsy may be included. Evaluation of the function of the cranial nerves is important for tumors of the nasopharynx. Nodal drainage areas are examined by careful palpation and radiological evaluation. The retropharyngeal lymph nodes are the first echelon of drainage.[ 3 , 4 ]\nInformation from the following diagnostic imaging studies may be used in staging:\n- Magnetic resonance imaging provides additional information to computed tomography (CT) scanning in the evaluation of skull base invasion and intracranial spread.[ 5 ]\n- Positron emission tomography scans combined with CT are helpful in radiation treatment planning for targeted delineation of the primary tumor and aid in the detection of metastatic nodal involvement and metastatic spread, such as that found in lung or skeletal metastases in patients with advanced nasopharyngeal carcinoma.[ 6 ]\nIf the disease relapses, a complete reassessment must be done to select the appropriate additional therapy."
+        },
+        {
+          "section": "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Nasopharyngeal Carcinoma",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 75,
+          "text": "The AJCC has designated staging by TNM (tumor, node, metastasis) classification to define nasopharyngeal carcinoma.[ 7 ]\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Nasopharynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 103–11.\n0 | Tis, N0, M0 | Tis = Carcinoma in situ .\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Nasopharynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 103–11.\nI | T1, N0, M0 | T1 = Tumor confined to nasopharynx, or extension to oropharynx and/or nasal cavity without parapharyngeal involvement.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; EBV = Epstein-Barr virus.\na Reprinted with permission from AJCC: Nasopharynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 103–11.\nII | T0, Tis, T1, N1, M0 | T0 = No tumor identified, but EBV-positive cervical node(s) involvement.\nTis = Carcinoma in situ .\nT1 = Tumor confined to nasopharynx, or extension to oropharynx and/or nasal cavity without parapharyngeal involvement.\nN1 = Unilateral metastasis in cervical lymph node(s) and/or unilateral or bilateral metastasis in retropharyngeal lymph node(s), ≤6 cm in greatest dimension, above the caudal border of cricoid cartilage.\nM0 = No distant metastasis.\nT2, N0, M0 | T2 = Tumor with extension to parapharyngeal space, and/or adjacent soft tissue involvement (medial pterygoid, lateral pterygoid, prevertebral muscles).\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nT2, N1, M0 | T2 = Tumor with extension to parapharyngeal space, and/or adjacent soft tissue involvement (medial pterygoid, lateral pterygoid, prevertebral muscles).\nN1 = Unilateral metastasis in cervical lymph node(s) and/or unilateral or bilateral metastasis in retropharyngeal lymph node(s), ≤6 cm in greatest dimension, above the caudal border of cricoid cartilage.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; EBV = Epstein-Barr virus.\na Reprinted with permission from AJCC: Nasopharynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 103–11.\nIII | T0, Tis, T1, N2, M0 | T0 = No tumor identified, but EBV-positive cervical node(s) involvement.\nTis = Carcinoma in situ .\nT1 = Tumor confined to nasopharynx, or extension to oropharynx and/or nasal cavity without parapharyngeal involvement.\nN2 = Bilateral metastasis in cervical lymph node(s), ≤6 cm in greatest dimension, above the caudal border of cricoid cartilage.\nM0 = No distant metastasis.\nT2, N2, M0 | T2 = Tumor with extension to parapharyngeal space, and/or adjacent soft tissue involvement (medial pterygoid, lateral pterygoid, prevertebral muscles).\nN2 = Bilateral metastasis in cervical lymph node(s), ≤6 cm in greatest dimension, above the caudal border of cricoid cartilage.\nM0 = No distant metastasis.\nT3, N0, M0 | T3 = Tumor with infiltration of bony structures at skull base, cervical vertebra, pterygoid structures, and/or paranasal sinuses.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nT3, N1, M0 | T3 = Tumor with infiltration of bony structures at skull base, cervical vertebra, pterygoid structures, and/or paranasal sinuses.\nN1 = Unilateral metastasis in cervical lymph node(s) and/or unilateral or bilateral metastasis in retropharyngeal lymph node(s), ≤6 cm in greatest dimension, above the caudal border of cricoid cartilage.\nM0 = No distant metastasis.\nT3, N2, M0 | T3 = Tumor with infiltration of bony structures at skull base, cervical vertebra, pterygoid structures, and/or paranasal sinuses.\nN2 = Bilateral metastasis in cervical lymph node(s), ≤6 cm in greatest dimension, above the caudal border of cricoid cartilage.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis; EBV = Epstein-Barr virus.\na Reprinted with permission from AJCC: Nasopharynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp 103–11.\nIVA | T4, N0, M0 | T4 = Tumor with intracranial extension, involvement of cranial nerves, hypopharynx, orbit, parotid gland, and/or extensive soft tissue infiltration beyond the lateral surface of the lateral pterygoid muscle.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nT4, N1, M0 | T4 = Tumor with intracranial extension, involvement of cranial nerves, hypopharynx, orbit, parotid gland, and/or extensive soft tissue infiltration beyond the lateral surface of the lateral pterygoid muscle.\nN1 = Unilateral metastasis in cervical lymph node(s) and/or unilateral or bilateral metastasis in retropharyngeal lymph node(s), ≤6 cm in greatest dimension, above the caudal border of cricoid cartilage.\nM0 = No distant metastasis.\nT4, N2, M0 | T4 = Tumor with intracranial extension, involvement of cranial nerves, hypopharynx, orbit, parotid gland, and/or extensive soft tissue infiltration beyond the lateral surface of the lateral pterygoid muscle.\nN2 = Bilateral metastasis in cervical lymph node(s), ≤6 cm in greatest dimension, above the caudal border of cricoid cartilage.\nM0 = No distant metastasis.\nAny T, N3, M0 | TX = Primary tumor cannot be assessed.\nT0 = No tumor identified, but EBV-positive cervical node(s) involvement.\nTis = Carcinoma in situ .\nT1 = Tumor confined to nasopharynx, or extension to oropharynx and/or nasal cavity without parapharyngeal involvement.\nT2 = Tumor with extension to parapharyngeal space, and/or adjacent soft tissue involvement (medial pterygoid, lateral pterygoid, prevertebral muscles).\nT3 = Tumor with infiltration of bony structures at skull base, cervical vertebra, pterygoid structures, and/or paranasal sinuses.\nT4 = Tumor with intracranial extension, involvement of cranial nerves, hypopharynx, orbit, parotid gland, and/or extensive soft tissue infiltration beyond the lateral surface of the lateral pterygoid muscle.\nN3 = Unilateral or bilateral metastasis in cervical lymph node(s), >6 cm in greatest dimension, and/or extension below the caudal border of cricoid cartilage.\nM0 = No distant metastasis.\nIVB | Any T, Any N, M1 | Any T = See Stage IVA above.\nNX = Regional lymph nodes cannot be assessed.\nN0 = No regional lymph node metastasis.\nN1 = Unilateral metastasis in cervical lymph node(s) and/or unilateral or bilateral metastasis in retropharyngeal lymph node(s), ≤6 cm in greatest dimension, above the caudal border of cricoid cartilage.\nN2 = Bilateral metastasis in cervical lymph node(s), ≤6 cm in greatest dimension, above the caudal border of cricoid cartilage.\nN3 = Unilateral or bilateral metastasis in cervical lymph node(s), >6 cm in greatest dimension, and/or extension below the caudal border of cricoid cartilage.\nM1 = Distant metastasis."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Nasopharyngeal Carcinoma",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Teo PM, Leung SF, Yu P, et al.: A comparison of Ho's, International Union Against Cancer, and American Joint Committee stage classifications for nasopharyngeal carcinoma. Cancer 67 (2): 434-9, 1991. [PUBMED Abstract]\n- Lee AW, Foo W, Law SC, et al.: Staging of nasopharyngeal carcinoma: from Ho's to the new UICC system. Int J Cancer 84 (2): 179-87, 1999. [PUBMED Abstract]\n- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80.\n- Laramore GE, ed.: Radiation Therapy of Head and Neck Cancer. Springer-Verlag, 1989.\n- Consensus conference. Magnetic resonance imaging. JAMA 259 (14): 2132-8, 1988. [PUBMED Abstract]\n- Liu FY, Chang JT, Wang HM, et al.: [18F]fluorodeoxyglucose positron emission tomography is more sensitive than skeletal scintigraphy for detecting bone metastasis in endemic nasopharyngeal carcinoma at initial staging. J Clin Oncol 24 (4): 599-604, 2006. [PUBMED Abstract]\n- Nasopharynx. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 103–11."
+        },
+        {
+          "section": "Treatment Option Overview for Nasopharyngeal Carcinoma",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Nasopharyngeal Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Stage | Treatment Options\nStage I nasopharyngeal carcinoma | Radiation therapy\nStages II, III, and IV nasopharyngeal carcinoma | Radiation therapy\nConcurrent chemoradiation\nNeoadjuvant chemotherapy and concurrent chemoradiation\nConcurrent chemoradiation and adjuvant chemotherapy\nNeoadjuvant chemotherapy followed by radiation therapy alone\nSurgery\nChemotherapy\nMetastatic and recurrent nasopharyngeal carcinoma | Radiation therapy\nSurgery (for highly selected patients)\nChemotherapy/immunotherapy"
+        },
+        {
+          "section": "Fluorouracil Dosing",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Nasopharyngeal Carcinoma",
+            "Fluorouracil Dosing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The DPYD gene encodes an enzyme that catabolizes pyrimidines and fluoropyrimidines, like capecitabine and fluorouracil. An estimated 1% to 2% of the population has germline pathogenic variants in DPYD , which lead to reduced DPD protein function and an accumulation of pyrimidines and fluoropyrimidines in the body.[ 1 , 2 ] Patients with the DPYD*2A variant who receive fluoropyrimidines may experience severe, life-threatening toxicities that are sometimes fatal. Many other DPYD variants have been identified, with a range of clinical effects.[ 1 - 3 ] Fluoropyrimidine avoidance or a dose reduction of 50% may be recommended based on the patient's DPYD genotype and number of functioning DPYD alleles.[ 4 - 6 ] DPYD genetic testing costs less than $200, but insurance coverage varies due to a lack of national guidelines.[ 7 ] In addition, testing may delay therapy by 2 weeks, which would not be advisable in urgent situations. This controversial issue requires further evaluation.[ 8 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Nasopharyngeal Carcinoma",
+            "Fluorouracil Dosing",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021. [PUBMED Abstract]\n- Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016. [PUBMED Abstract]\n- Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021. [PUBMED Abstract]\n- Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018. [PUBMED Abstract]\n- Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018. [PUBMED Abstract]\n- Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022. [PUBMED Abstract]\n- Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022. [PUBMED Abstract]\n- Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Stage I Nasopharyngeal Carcinoma",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Nasopharyngeal Carcinoma",
+            "Treatment Options for Stage I Nasopharyngeal Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Treatment options for stage I nasopharyngeal carcinoma include:\n- Radiation therapy ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Nasopharyngeal Carcinoma",
+            "Treatment Options for Stage I Nasopharyngeal Carcinoma",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "High-dose radiation therapy with chemotherapy is the initial treatment of nasopharyngeal carcinoma.[ 1 ] High-dose radiation therapy is given to the primary tumor site and prophylactic radiation therapy is given to the bilateral regional lymph nodes in the neck.[ 2 ] Radiation therapy dose and field margins are individually tailored to the location and size of the primary tumor and lymph nodes.[ 3 - 6 ]\nMost tumors are exclusively treated with external-beam radiation therapy. For some patients, radiation therapy may be boosted with intracavitary or interstitial implants, or by the use of stereotactic radiosurgery when clinical expertise is available and the anatomy is suitable.[ 7 - 11 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Nasopharyngeal Carcinoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stage I Nasopharyngeal Carcinoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Baujat B, Audry H, Bourhis J, et al.: Chemotherapy in locally advanced nasopharyngeal carcinoma: an individual patient data meta-analysis of eight randomized trials and 1753 patients. Int J Radiat Oncol Biol Phys 64 (1): 47-56, 2006. [PUBMED Abstract]\n- Xiao WW, Han F, Lu TX, et al.: Treatment outcomes after radiotherapy alone for patients with early-stage nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys 74 (4): 1070-6, 2009. [PUBMED Abstract]\n- Perez CA, Devineni VR, Marcial-Vega V, et al.: Carcinoma of the nasopharynx: factors affecting prognosis. Int J Radiat Oncol Biol Phys 23 (2): 271-80, 1992. [PUBMED Abstract]\n- Lee AW, Law SC, Foo W, et al.: Nasopharyngeal carcinoma: local control by megavoltage irradiation. Br J Radiol 66 (786): 528-36, 1993. [PUBMED Abstract]\n- Geara FB, Sanguineti G, Tucker SL, et al.: Carcinoma of the nasopharynx treated by radiotherapy alone: determinants of distant metastasis and survival. Radiother Oncol 43 (1): 53-61, 1997. [PUBMED Abstract]\n- Sanguineti G, Geara FB, Garden AS, et al.: Carcinoma of the nasopharynx treated by radiotherapy alone: determinants of local and regional control. Int J Radiat Oncol Biol Phys 37 (5): 985-96, 1997. [PUBMED Abstract]\n- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80.\n- Itami J, Anzai Y, Nemoto K, et al.: Prognostic factors for local control in nasopharyngeal cancer (NPC): analysis by multivariate proportional hazard models. Radiother Oncol 21 (4): 233-9, 1991. [PUBMED Abstract]\n- Levendag PC, Schmitz PI, Jansen PP, et al.: Fractionated high-dose-rate brachytherapy in primary carcinoma of the nasopharynx. J Clin Oncol 16 (6): 2213-20, 1998. [PUBMED Abstract]\n- Teo PM, Leung SF, Lee WY, et al.: Intracavitary brachytherapy significantly enhances local control of early T-stage nasopharyngeal carcinoma: the existence of a dose-tumor-control relationship above conventional tumoricidal dose. Int J Radiat Oncol Biol Phys 46 (2): 445-58, 2000. [PUBMED Abstract]\n- Le QT, Tate D, Koong A, et al.: Improved local control with stereotactic radiosurgical boost in patients with nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys 56 (4): 1046-54, 2003. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma",
+            "Treatment Options for Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment options for stages II, III, and IV nonmetastatic nasopharyngeal carcinoma include:\n- Radiation therapy .\n- Concurrent chemoradiation .\n- Neoadjuvant chemotherapy and concurrent chemoradiation .\n- Concurrent chemoradiation and adjuvant chemotherapy .\n- Neoadjuvant chemotherapy followed by radiation therapy alone . This option is being studied.[ 1 ]\n- Surgery .\n- Chemotherapy ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma",
+            "Treatment Options for Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "High-dose radiation therapy with chemotherapy is the initial treatment of nasopharyngeal carcinoma.[ 2 ] High-dose radiation therapy is given to the primary tumor site and prophylactic radiation therapy is given to the bilateral regional lymph nodes in the neck.[ 3 ] Some studies have reported treatment using altered fractionation radiation therapy.[ 4 , 5 ] Radiation therapy dose and field margins are individually tailored to the location and size of the primary tumor and lymph nodes.[ 6 - 9 ]\nMost tumors are exclusively treated with external-beam radiation therapy (EBRT). For some patients, radiation therapy may be boosted with intracavitary or interstitial implants, or by the use of stereotactic radiosurgery when clinical expertise is available and the anatomy is suitable.[ 10 - 14 ]\nEvidence (radiation therapy):\n- A multicenter, noninferiority, phase III trial ( NCT02633202 ) evaluated radiation therapy alone versus chemoradiation therapy for patients with low-risk, stage II, T3, N0, M0 (American Joint Committee on Cancer 7th edition staging) nasopharyngeal carcinoma. The study was performed in endemic China, where almost all cases of nasopharyngeal carcinoma are caused by the Epstein-Barr virus (EBV). In this trial, 341 patients were randomly assigned to receive either intensity-modulated radiation therapy (IMRT) alone (n = 172) or concurrent chemoradiation therapy (IMRT with cisplatin 100 mg/m 2 every 3 weeks for three cycles [n = 169]). The primary end point was 3-year failure-free survival (FFS).[ 15 ][ Level of evidence B1 ] This trial shows that radiation therapy alone could be used for limited-stage disease if the EBV titers (which are not usually tested in the United States) show fewer than 4,000 copies/mL. Radiation therapy alone was not previously considered a standard of care, but based on these results, patients with lower-volume disease and a low EBV titer may consider radiation therapy alone.\n- The 3-year FFS rate was 90.5% in the IMRT-alone group and 91.9% in the concurrent chemoradiation therapy group (difference, −1.4%; one-sided 95% confidence interval [CI], −7.4% to infinity; P for noninferiority < .001). There were no differences in rates of overall survival (OS), locoregional relapse, or distant metastasis between the two arms.\n- Patients in the IMRT-alone group experienced significantly lower grades 3 and 4 toxicity, including hematologic and nonhematologic toxicities (nausea, vomiting, anorexia, weight loss, mucositis). The IMRT-alone group had better quality-of-life scores during radiation therapy.\n- In addition to the trial being conducted in an area where almost all patients with nasopharyngeal carcinoma had cases caused by EBV, all patients had an EBV DNA cut-off of fewer than 4,000 copies/mL to be eligible for entry into the trial. Patients with stage II (T1–2, N1) tumors and nodal disease had to have a nodal size smaller than 3 cm, without extranodal extension, to be eligible for the trial."
+        },
+        {
+          "section": "Chemoradiation therapy",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma",
+            "Treatment Options for Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma",
+            "Chemoradiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "Studies and meta-analyses investigating chemoradiation combinations have been reported.[ 16 ][ Level of evidence C1 ]; [ 2 , 17 - 30 ] Overall, these results report increased survival when chemotherapy is added to radiation therapy.[ 31 ]\nEvidence (neoadjuvant chemotherapy vs. chemoradiation therapy):\nData from phase III randomized trials support induction chemotherapy with gemcitabine plus cisplatin before concurrent chemoradiation therapy.[ 30 , 32 - 34 ]\n- A multicenter, randomized, controlled, phase III trial ( NCT01872962 ) compared gemcitabine and cisplatin induction chemotherapy plus concurrent chemoradiation therapy with concurrent chemoradiation therapy alone. At a median follow-up of 42.7 months, the 3-year recurrence-free survival rate was 85.3% for patients in the induction chemotherapy group and 76.5% for patients in the standard therapy group (stratified hazard ratio [HR] recurrence or death , 0.51; 95% CI, 0.34–0.77; P = .001).[ 30 ][ Level of evidence B1 ] In a multicenter phase III trial, patients were randomly assigned to receive either concurrent chemoradiation therapy alone (standard therapy, n = 238) or gemcitabine and cisplatin induction chemotherapy before concurrent chemoradiation therapy (n = 242). With a median follow-up of 69.8 months, patients in the induction chemotherapy group had a significantly higher 5-year OS rate (87.9%) than those in the standard therapy group (78.8%) (HR, 0.51; 95% CI, 0.34–0.78; P = .001). The risk of late toxicities was comparable (grade 3 or higher toxicity, 11.3% vs. 11.4%).[ 32 ][ Level of evidence B1 ]\nEvidence (chemoradiation therapy plus adjuvant chemotherapy):\n- Chemoradiation therapy followed by adjuvant chemotherapy was used in the INT-0099 trial.[ 16 ][ Level of evidence C1 ]\n- Patients with parapharyngeal extension were originally staged as T3 in the INT-0099 study and are now considered T2 in the current staging.\n- The control rate at 3 years was 91.7% in the radiation therapy group (median follow-up period, 34 months) and 100% in the chemoradiation and adjuvant chemotherapy group (median follow-up period, 44 months) ( P =.10). The 3-year disease-free survival (DFS) rate was 91.7% in the radiation therapy group and 96.9% in the chemoradiation and adjuvant chemotherapy group ( P =.66).\nEvidence (combination chemotherapy plus radiation therapy vs. radiation therapy alone):\n- Three randomized prospective trials compared combination chemotherapy (i.e., cisplatin, epirubicin, and bleomycin or cisplatin plus fluorouracil [5-FU] infusion) plus radiation therapy with radiation therapy alone.[ 17 ][ Level of evidence A1 ]; [ 35 , 36 ][ Level of evidence B1 ]\n- Although DFS was improved in the chemotherapy group, for both groups, improvement in OS was reported only from the Intergroup trial in which chemotherapy with cisplatin was given concurrently with radiation therapy.[ 17 ]\nEvidence (chemoradiation therapy using carboplatin vs. cisplatin):\n- A study of 1,355 patients compared radiation therapy given concurrently with carboplatin or cisplatin that was administered with a 96-hour infusion of 5-FU monthly for three cycles.[ 37 ][ Level of evidence A1 ]\n- The 3-year DFS rate was 63.4% for patients in the cisplatin arm and 60.9% for patients in the carboplatin arm (HR, 0.70; 95% CI, 0.50–0.98; P = .961).\n- OS rates were 77% for patients in the cisplatin arm and 79% for patients in the carboplatin arm (HR, 0.83; 95% CI, 0.63–1.010; P = .988).\n- Toxicity to kidneys and red blood cell count was greater in patients in the cisplatin group."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma",
+            "Treatment Options for Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Neck dissection may be indicated for patients with persistent or recurrent lymph nodes if the primary tumor site is controlled.[ 10 ]"
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma",
+            "Treatment Options for Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Clinical trials for patients with advanced tumors to evaluate the use of chemotherapy before radiation therapy, concurrent with radiation therapy, or as adjuvant therapy after radiation therapy should be considered.[ 38 - 41 ]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Stages II, III, and IV Nonmetastatic Nasopharyngeal Carcinoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 41,
+          "text": "- Wang Q, Xu G, Xia Y, et al.: Comparison of induction chemotherapy plus concurrent chemoradiotherapy and induction chemotherapy plus radiotherapy in locally advanced nasopharyngeal carcinoma. Oral Oncol 111: 104925, 2020. [PUBMED Abstract]\n- Baujat B, Audry H, Bourhis J, et al.: Chemotherapy in locally advanced nasopharyngeal carcinoma: an individual patient data meta-analysis of eight randomized trials and 1753 patients. Int J Radiat Oncol Biol Phys 64 (1): 47-56, 2006. [PUBMED Abstract]\n- Xiao WW, Han F, Lu TX, et al.: Treatment outcomes after radiotherapy alone for patients with early-stage nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys 74 (4): 1070-6, 2009. [PUBMED Abstract]\n- Johnson CR, Schmidt-Ullrich RK, Wazer DE: Concomitant boost technique using accelerated superfractionated radiation therapy for advanced squamous cell carcinoma of the head and neck. Cancer 69 (11): 2749-54, 1992. [PUBMED Abstract]\n- Chen CY, Han F, Zhao C, et al.: Treatment results and late complications of 556 patients with locally advanced nasopharyngeal carcinoma treated with radiotherapy alone. Br J Radiol 82 (978): 452-8, 2009. [PUBMED Abstract]\n- Perez CA, Devineni VR, Marcial-Vega V, et al.: Carcinoma of the nasopharynx: factors affecting prognosis. Int J Radiat Oncol Biol Phys 23 (2): 271-80, 1992. [PUBMED Abstract]\n- Lee AW, Law SC, Foo W, et al.: Nasopharyngeal carcinoma: local control by megavoltage irradiation. Br J Radiol 66 (786): 528-36, 1993. [PUBMED Abstract]\n- Geara FB, Sanguineti G, Tucker SL, et al.: Carcinoma of the nasopharynx treated by radiotherapy alone: determinants of distant metastasis and survival. Radiother Oncol 43 (1): 53-61, 1997. [PUBMED Abstract]\n- Sanguineti G, Geara FB, Garden AS, et al.: Carcinoma of the nasopharynx treated by radiotherapy alone: determinants of local and regional control. Int J Radiat Oncol Biol Phys 37 (5): 985-96, 1997. [PUBMED Abstract]\n- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80.\n- Itami J, Anzai Y, Nemoto K, et al.: Prognostic factors for local control in nasopharyngeal cancer (NPC): analysis by multivariate proportional hazard models. Radiother Oncol 21 (4): 233-9, 1991. [PUBMED Abstract]\n- Levendag PC, Schmitz PI, Jansen PP, et al.: Fractionated high-dose-rate brachytherapy in primary carcinoma of the nasopharynx. J Clin Oncol 16 (6): 2213-20, 1998. [PUBMED Abstract]\n- Teo PM, Leung SF, Lee WY, et al.: Intracavitary brachytherapy significantly enhances local control of early T-stage nasopharyngeal carcinoma: the existence of a dose-tumor-control relationship above conventional tumoricidal dose. Int J Radiat Oncol Biol Phys 46 (2): 445-58, 2000. [PUBMED Abstract]\n- Le QT, Tate D, Koong A, et al.: Improved local control with stereotactic radiosurgical boost in patients with nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys 56 (4): 1046-54, 2003. [PUBMED Abstract]\n- Tang LL, Guo R, Zhang N, et al.: Effect of Radiotherapy Alone vs Radiotherapy With Concurrent Chemoradiotherapy on Survival Without Disease Relapse in Patients With Low-risk Nasopharyngeal Carcinoma: A Randomized Clinical Trial. JAMA 328 (8): 728-736, 2022. [PUBMED Abstract]\n- Cheng SH, Tsai SY, Yen KL, et al.: Concomitant radiotherapy and chemotherapy for early-stage nasopharyngeal carcinoma. J Clin Oncol 18 (10): 2040-5, 2000. [PUBMED Abstract]\n- Al-Sarraf M, LeBlanc M, Giri PG, et al.: Chemoradiotherapy versus radiotherapy in patients with advanced nasopharyngeal cancer: phase III randomized Intergroup study 0099. J Clin Oncol 16 (4): 1310-7, 1998. [PUBMED Abstract]\n- Teo PM, Chan AT, Lee WY, et al.: Enhancement of local control in locally advanced node-positive nasopharyngeal carcinoma by adjunctive chemotherapy. Int J Radiat Oncol Biol Phys 43 (2): 261-71, 1999. [PUBMED Abstract]\n- Chan AT, Teo PM, Ngan RK, et al.: Concurrent chemotherapy-radiotherapy compared with radiotherapy alone in locoregionally advanced nasopharyngeal carcinoma: progression-free survival analysis of a phase III randomized trial. J Clin Oncol 20 (8): 2038-44, 2002. [PUBMED Abstract]\n- Huncharek M, Kupelnick B: Combined chemoradiation versus radiation therapy alone in locally advanced nasopharyngeal carcinoma: results of a meta-analysis of 1,528 patients from six randomized trials. Am J Clin Oncol 25 (3): 219-23, 2002. [PUBMED Abstract]\n- Lin JC, Jan JS, Hsu CY, et al.: Phase III study of concurrent chemoradiotherapy versus radiotherapy alone for advanced nasopharyngeal carcinoma: positive effect on overall and progression-free survival. J Clin Oncol 21 (4): 631-7, 2003. [PUBMED Abstract]\n- Chua DT, Ma J, Sham JS, et al.: Long-term survival after cisplatin-based induction chemotherapy and radiotherapy for nasopharyngeal carcinoma: a pooled data analysis of two phase III trials. J Clin Oncol 23 (6): 1118-24, 2005. [PUBMED Abstract]\n- Wee J, Tan EH, Tai BC, et al.: Randomized trial of radiotherapy versus concurrent chemoradiotherapy followed by adjuvant chemotherapy in patients with American Joint Committee on Cancer/International Union against cancer stage III and IV nasopharyngeal cancer of the endemic variety. J Clin Oncol 23 (27): 6730-8, 2005. [PUBMED Abstract]\n- Zhang L, Zhao C, Peng PJ, et al.: Phase III study comparing standard radiotherapy with or without weekly oxaliplatin in treatment of locoregionally advanced nasopharyngeal carcinoma: preliminary results. J Clin Oncol 23 (33): 8461-8, 2005. [PUBMED Abstract]\n- Baujat B, Audry H, Bourhis J, et al.: Chemotherapy as an adjunct to radiotherapy in locally advanced nasopharyngeal carcinoma. Cochrane Database Syst Rev (4): CD004329, 2006. [PUBMED Abstract]\n- Chen Y, Liu MZ, Liang SB, et al.: Preliminary results of a prospective randomized trial comparing concurrent chemoradiotherapy plus adjuvant chemotherapy with radiotherapy alone in patients with locoregionally advanced nasopharyngeal carcinoma in endemic regions of china. Int J Radiat Oncol Biol Phys 71 (5): 1356-64, 2008. [PUBMED Abstract]\n- Lee AW, Tung SY, Chua DT, et al.: Randomized trial of radiotherapy plus concurrent-adjuvant chemotherapy vs radiotherapy alone for regionally advanced nasopharyngeal carcinoma. J Natl Cancer Inst 102 (15): 1188-98, 2010. [PUBMED Abstract]\n- Lee AW, Tung SY, Chan AT, et al.: A randomized trial on addition of concurrent-adjuvant chemotherapy and/or accelerated fractionation for locally-advanced nasopharyngeal carcinoma. Radiother Oncol 98 (1): 15-22, 2011. [PUBMED Abstract]\n- Lee AW, Tung SY, Ngan RK, et al.: Factors contributing to the efficacy of concurrent-adjuvant chemotherapy for locoregionally advanced nasopharyngeal carcinoma: combined analyses of NPC-9901 and NPC-9902 Trials. Eur J Cancer 47 (5): 656-66, 2011. [PUBMED Abstract]\n- Zhang Y, Chen L, Hu GQ, et al.: Gemcitabine and Cisplatin Induction Chemotherapy in Nasopharyngeal Carcinoma. N Engl J Med 381 (12): 1124-1135, 2019. [PUBMED Abstract]\n- Blanchard P, Lee AWM, Carmel A, et al.: Meta-analysis of chemotherapy in nasopharynx carcinoma (MAC-NPC): An update on 26 trials and 7080 patients. Clin Transl Radiat Oncol 32: 59-68, 2022. [PUBMED Abstract]\n- Zhang Y, Chen L, Hu GQ, et al.: Final Overall Survival Analysis of Gemcitabine and Cisplatin Induction Chemotherapy in Nasopharyngeal Carcinoma: A Multicenter, Randomized Phase III Trial. J Clin Oncol 40 (22): 2420-2425, 2022. [PUBMED Abstract]\n- Sun Y, Li WF, Chen NY, et al.: Induction chemotherapy plus concurrent chemoradiotherapy versus concurrent chemoradiotherapy alone in locoregionally advanced nasopharyngeal carcinoma: a phase 3, multicentre, randomised controlled trial. Lancet Oncol 17 (11): 1509-1520, 2016. [PUBMED Abstract]\n- Yang Q, Cao SM, Guo L, et al.: Induction chemotherapy followed by concurrent chemoradiotherapy versus concurrent chemoradiotherapy alone in locoregionally advanced nasopharyngeal carcinoma: long-term results of a phase III multicentre randomised controlled trial. Eur J Cancer 119: 87-96, 2019. [PUBMED Abstract]\n- Preliminary results of a randomized trial comparing neoadjuvant chemotherapy (cisplatin, epirubicin, bleomycin) plus radiotherapy vs. radiotherapy alone in stage IV(> or = N2, M0) undifferentiated nasopharyngeal carcinoma: a positive effect on progression-free survival. International Nasopharynx Cancer Study Group. VUMCA I trial. Int J Radiat Oncol Biol Phys 35 (3): 463-9, 1996. [PUBMED Abstract]\n- Lee AW, Lau WH, Tung SY, et al.: Preliminary results of a randomized study on therapeutic gain by concurrent chemotherapy for regionally-advanced nasopharyngeal carcinoma: NPC-9901 Trial by the Hong Kong Nasopharyngeal Cancer Study Group. J Clin Oncol 23 (28): 6966-75, 2005. [PUBMED Abstract]\n- Chitapanarux I, Lorvidhaya V, Kamnerdsupaphon P, et al.: Chemoradiation comparing cisplatin versus carboplatin in locally advanced nasopharyngeal cancer: randomised, non-inferiority, open trial. Eur J Cancer 43 (9): 1399-406, 2007. [PUBMED Abstract]\n- Dimery IW, Peters LJ, Goepfert H, et al.: Effectiveness of combined induction chemotherapy and radiotherapy in advanced nasopharyngeal carcinoma. J Clin Oncol 11 (10): 1919-28, 1993. [PUBMED Abstract]\n- Chan AT, Teo PM, Leung TW, et al.: A prospective randomized study of chemotherapy adjunctive to definitive radiotherapy in advanced nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys 33 (3): 569-77, 1995. [PUBMED Abstract]\n- Merlano M, Benasso M, Corvò R, et al.: Five-year update of a randomized trial of alternating radiotherapy and chemotherapy compared with radiotherapy alone in treatment of unresectable squamous cell carcinoma of the head and neck. J Natl Cancer Inst 88 (9): 583-9, 1996. [PUBMED Abstract]\n- Jeremic B, Shibamoto Y, Milicic B, et al.: Hyperfractionated radiation therapy with or without concurrent low-dose daily cisplatin in locally advanced squamous cell carcinoma of the head and neck: a prospective randomized trial. J Clin Oncol 18 (7): 1458-64, 2000. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Metastatic and Recurrent Nasopharyngeal Carcinoma",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Nasopharyngeal Carcinoma",
+            "Treatment Options for Metastatic and Recurrent Nasopharyngeal Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Treatment options for metastatic and recurrent nasopharyngeal carcinoma include:\n- Radiation therapy .\n- Surgery (for highly selected patients).\n- Chemotherapy/immunotherapy ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Nasopharyngeal Carcinoma",
+            "Treatment Options for Metastatic and Recurrent Nasopharyngeal Carcinoma",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "High-dose radiation therapy with chemotherapy is the initial treatment of patients with nasopharyngeal carcinoma for the primary tumor site and the neck.[ 1 ] Selected patients with local recurrence may be retreated with moderate-dose external-beam radiation therapy (EBRT) using intensity-modulated radiation therapy, stereotactic radiation therapy, or intracavitary or interstitial radiation to the site of recurrence.[ 2 - 4 ]; [ 5 ][ Level of evidence C2 ]; [ 6 - 9 ][ Level of evidence C3 ] Radiation therapy dose and field margins are individually tailored to the location and size of the primary tumor and lymph nodes.[ 10 - 13 ]\nMost tumors are treated with EBRT exclusively. For some patients, radiation therapy may be boosted with intracavitary or interstitial implants or by the use of stereotactic radiosurgery when clinical expertise is available and the anatomy is suitable.[ 2 , 14 - 17 ]"
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Nasopharyngeal Carcinoma",
+            "Treatment Options for Metastatic and Recurrent Nasopharyngeal Carcinoma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In highly selected patients, surgical resection of locally recurrent lesions may be considered."
+        },
+        {
+          "section": "Chemotherapy/Immunotherapy",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Nasopharyngeal Carcinoma",
+            "Treatment Options for Metastatic and Recurrent Nasopharyngeal Carcinoma",
+            "Chemotherapy/Immunotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 19,
+          "text": "If a patient has metastatic disease or local recurrence that is no longer amenable to surgery or radiation therapy, chemotherapy or immunotherapy may be considered.[ 18 - 20 ]\nEvidence (chemotherapy/immunotherapy):\n- The international, multicenter, randomized, double-blind, phase III JUPITOR-02 study (NCT03581786) was conducted in nasopharyngeal carcinoma–endemic regions, including mainland China, Taiwan, and Singapore. The trial randomly assigned 289 patients to receive either toripalimab, a humanized IgG4K monoclonal antibody against human programmed death 1 (PD-1), (240 mg/m 2 ) or placebo in combination with gemcitabine and cisplatin for up to six cycles. Patients also received maintenance therapy with toripalimab or placebo until disease progression, intolerable toxicity, or completion of 2 years of treatment. The primary end point was progression-free survival (PFS) as assessed by a blinded independent central review. Secondary end points included objective response rate, overall survival (OS), PFS as assessed by an investigator, duration of response, and safety. The median survival follow-up was 36 months.[ 21 ]\n- The median OS was not reached in the toripalimab group (95% confidence interval [CI], 38.7 months–not estimable) and was 33.7 months (95% CI, 27.0–44.2) in the placebo group (hazard ratio [HR], 0.63; 95% CI, 0.45–0.89; P = .0083).[ 21 ][ Level of evidence A1 ]\n- PFS was significantly longer in the toripalimab arm compared with the placebo arm, with a median PFS of 21.4 months in the toripalimab group versus 8.2 months in the placebo group (HR, 0.52; 95% CI, 0.37–0.73).\n- Grade 3 or higher immune-related adverse events occurred in 9.6% of patients in the toripalimab group. Treatment discontinuation occurred in 11.6% of patients in the toripalimab group and 4.9% of patients in the placebo group.\n- A multicenter, randomized, open-label, phase III trial included patients with recurrent or metastatic nasopharyngeal carcinoma recruited from 22 hospitals in China. Patients were randomly assigned in a 1:1 ratio to receive either gemcitabine (1 g/m 2 intravenously [IV] on days 1 and 8) and cisplatin (80 mg/m 2 IV on day 1), or fluorouracil ([5-FU] 4 g/m 2 in continuous IV infusion over 96 h) and cisplatin (80 mg/m 2 IV on day 1) once every 3 weeks for a maximum of six cycles.[ 22 ] Of the 362 patients, 181 were assigned to the gemcitabine-plus-cisplatin group and 181 to the 5-FU-plus-cisplatin group.\n- The median follow-up time for PFS was 19.4 months (interquartile range [IQR], 12.1–35.6). The median PFS was 7.0 months (range, 4.4–10.9) in the gemcitabine group and 5.6 months (range, 3.0–7.0) in the 5-FU group (HR, 0.55; 95% CI, 0.44–0.68; P < .0001).[ 22 ][ Level of evidence B1 ]\n- There were significant differences in the incidences of the following grade 3 or 4 treatment-related adverse events:\n- Leukopenia (52 [29%] in the gemcitabine group vs.15 [9%] in the 5-FU group; P < .0001).\n- Neutropenia (41 [23%] in the gemcitabine group vs. 23 [13%] in the 5-FU group; P = .0251).\n- Thrombocytopenia (24 [13%] in the gemcitabine group vs. 3 [2%] in the 5-FU group; P = .0007).\n- Mucosal inflammation (0 in the gemcitabine group vs. 25 [14%] in the 5-FU group; P < .0001).\n- Serious treatment-related adverse events occurred in seven patients (4%) in the gemcitabine group and ten patients (6%) in the 5-FU group.\n- Six patients (3%) in the gemcitabine group and 14 patients (8%) in the 5-FU group discontinued treatment because of drug-related adverse events.\n- No treatment-related deaths occurred in either group.\n- POLARIS-02 (NCT02915432) was a phase II, open-label, multicenter, single-arm trial in China that enrolled 190 patients with recurrent or metastatic nasopharyngeal carcinoma. Patients received toripalimab (3 mg/kg) once every 2 weeks until disease progression or unacceptable toxicity. Patients had received prior platinum-based chemotherapy or had disease progression within 6 months of completion of platinum-based chemotherapy given as neoadjuvant, adjuvant, or definitive chemoradiation therapy for locally advanced disease. The primary end point was objective response rate. The secondary end points included safety, duration of response, PFS, and OS.[ 23 ]\n- The objective response rate was 20.5%, with a median duration of response of 12.8 months, a median PFS of 1.9 months, and a median OS of 17.4 months.[ 23 ][ Level of evidence C3 ]\nThe U.S. Food and Drug Administration has approved toripalimab with cisplatin and gemcitabine as first-line treatment for patients with metastatic or recurrent locally advanced nasopharyngeal carcinoma. It is also approved as a single agent for adults with recurrent unresectable or metastatic nasopharyngeal carcinoma with disease progression during or after platinum-containing therapy."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Nasopharyngeal Carcinoma",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic and Recurrent Nasopharyngeal Carcinoma",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 23,
+          "text": "- Baujat B, Audry H, Bourhis J, et al.: Chemotherapy in locally advanced nasopharyngeal carcinoma: an individual patient data meta-analysis of eight randomized trials and 1753 patients. Int J Radiat Oncol Biol Phys 64 (1): 47-56, 2006. [PUBMED Abstract]\n- Mendenhall WM, Werning JW, Pfister DG: Treatment of head and neck cancer. In: DeVita VT Jr, Lawrence TS, Rosenberg SA: Cancer: Principles and Practice of Oncology. 9th ed. Lippincott Williams & Wilkins, 2011, pp 729-80.\n- Vikram B, Strong EW, Shah JP, et al.: Intraoperative radiotherapy in patients with recurrent head and neck cancer. Am J Surg 150 (4): 485-7, 1985. [PUBMED Abstract]\n- Koutcher L, Lee N, Zelefsky M, et al.: Reirradiation of locally recurrent nasopharynx cancer with external beam radiotherapy with or without brachytherapy. Int J Radiat Oncol Biol Phys 76 (1): 130-7, 2010. [PUBMED Abstract]\n- Lu JJ, Shakespeare TP, Tan LK, et al.: Adjuvant fractionated high-dose-rate intracavitary brachytherapy after external beam radiotherapy in Tl and T2 nasopharyngeal carcinoma. Head Neck 26 (5): 389-95, 2004. [PUBMED Abstract]\n- Tate DJ, Adler JR, Chang SD, et al.: Stereotactic radiosurgical boost following radiotherapy in primary nasopharyngeal carcinoma: impact on local control. Int J Radiat Oncol Biol Phys 45 (4): 915-21, 1999. [PUBMED Abstract]\n- Chua DT, Sham JS, Kwong PW, et al.: Linear accelerator-based stereotactic radiosurgery for limited, locally persistent, and recurrent nasopharyngeal carcinoma: efficacy and complications. Int J Radiat Oncol Biol Phys 56 (1): 177-83, 2003. [PUBMED Abstract]\n- Pai PC, Chuang CC, Wei KC, et al.: Stereotactic radiosurgery for locally recurrent nasopharyngeal carcinoma. Head Neck 24 (8): 748-53, 2002. [PUBMED Abstract]\n- Xiao J, Xu G, Miao Y: Fractionated stereotactic radiosurgery for 50 patients with recurrent or residual nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys 51 (1): 164-70, 2001. [PUBMED Abstract]\n- Perez CA, Devineni VR, Marcial-Vega V, et al.: Carcinoma of the nasopharynx: factors affecting prognosis. Int J Radiat Oncol Biol Phys 23 (2): 271-80, 1992. [PUBMED Abstract]\n- Lee AW, Law SC, Foo W, et al.: Nasopharyngeal carcinoma: local control by megavoltage irradiation. Br J Radiol 66 (786): 528-36, 1993. [PUBMED Abstract]\n- Geara FB, Sanguineti G, Tucker SL, et al.: Carcinoma of the nasopharynx treated by radiotherapy alone: determinants of distant metastasis and survival. Radiother Oncol 43 (1): 53-61, 1997. [PUBMED Abstract]\n- Sanguineti G, Geara FB, Garden AS, et al.: Carcinoma of the nasopharynx treated by radiotherapy alone: determinants of local and regional control. Int J Radiat Oncol Biol Phys 37 (5): 985-96, 1997. [PUBMED Abstract]\n- Itami J, Anzai Y, Nemoto K, et al.: Prognostic factors for local control in nasopharyngeal cancer (NPC): analysis by multivariate proportional hazard models. Radiother Oncol 21 (4): 233-9, 1991. [PUBMED Abstract]\n- Levendag PC, Schmitz PI, Jansen PP, et al.: Fractionated high-dose-rate brachytherapy in primary carcinoma of the nasopharynx. J Clin Oncol 16 (6): 2213-20, 1998. [PUBMED Abstract]\n- Teo PM, Leung SF, Lee WY, et al.: Intracavitary brachytherapy significantly enhances local control of early T-stage nasopharyngeal carcinoma: the existence of a dose-tumor-control relationship above conventional tumoricidal dose. Int J Radiat Oncol Biol Phys 46 (2): 445-58, 2000. [PUBMED Abstract]\n- Le QT, Tate D, Koong A, et al.: Improved local control with stereotactic radiosurgical boost in patients with nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys 56 (4): 1046-54, 2003. [PUBMED Abstract]\n- Al-Sarraf M: Head and neck cancer: chemotherapy concepts. Semin Oncol 15 (1): 70-85, 1988. [PUBMED Abstract]\n- Jacobs C, Lyman G, Velez-García E, et al.: A phase III randomized study comparing cisplatin and fluorouracil as single agents and in combination for advanced squamous cell carcinoma of the head and neck. J Clin Oncol 10 (2): 257-63, 1992. [PUBMED Abstract]\n- Foo KF, Tan EH, Leong SS, et al.: Gemcitabine in metastatic nasopharyngeal carcinoma of the undifferentiated type. Ann Oncol 13 (1): 150-6, 2002. [PUBMED Abstract]\n- Mai HQ, Chen QY, Chen D, et al.: Toripalimab Plus Chemotherapy for Recurrent or Metastatic Nasopharyngeal Carcinoma: The JUPITER-02 Randomized Clinical Trial. JAMA 330 (20): 1961-1970, 2023. [PUBMED Abstract]\n- Zhang L, Huang Y, Hong S, et al.: Gemcitabine plus cisplatin versus fluorouracil plus cisplatin in recurrent or metastatic nasopharyngeal carcinoma: a multicentre, randomised, open-label, phase 3 trial. Lancet 388 (10054): 1883-1892, 2016. [PUBMED Abstract]\n- Wang FH, Wei XL, Feng J, et al.: Efficacy, Safety, and Correlative Biomarkers of Toripalimab in Previously Treated Recurrent or Metastatic Nasopharyngeal Carcinoma: A Phase II Clinical Trial (POLARIS-02). J Clin Oncol 39 (7): 704-712, 2021. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (05/14/2025)",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (05/14/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of adult nasopharyngeal carcinoma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 10,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Nasopharyngeal Carcinoma Treatment are:\n- Andrea Bonetti, MD (Pederzoli Hospital)\n- Minh Tam Truong, MD (Boston University Medical Center)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Nasopharyngeal Carcinoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/head-and-neck/hp/adult/nasopharyngeal-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389193]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Nasopharyngeal Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\2a3d60f340501462a6ca.html"
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Childhood Craniopharyngioma",
+  "generated_at": "2026-08-31T07:15:23.065702+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Childhood Craniopharyngioma",
+      "title": "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Childhood Craniopharyngioma Treatment",
+      "url": "https://www.cancer.gov/types/brain/hp/child-cranio-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "November 26, 2024",
+      "retrieved_at": "2026-08-31T07:08:48.917271+00:00",
+      "content_sha256": "54ad286d3b705ccbc70427aab9c1ea9e18d33dac7ea48a47e556692f4406f1b5",
+      "section_count": 36,
+      "sections": [
+        {
+          "section": "General Information About Childhood Craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Childhood Craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Primary brain tumors, including craniopharyngiomas, are a diverse group of diseases that together constitute the most common solid tumors of childhood. Brain tumors are classified according to an integrated assessment of histology and molecular characteristics, with tumor location and extent of spread as important factors that affect treatment and prognosis.\nCraniopharyngiomas are uncommon pediatric brain tumors. They are believed to be congenital in origin, arising from ectodermal remnants, Rathke cleft, or other embryonal epithelium. They often occur in the suprasellar region with an intrasellar portion. Magnetic resonance imaging (MRI) and computed tomography (CT) imaging are used to diagnose craniopharyngiomas, but histological confirmation is generally required before treatment.\nThe treatment of patients with newly diagnosed craniopharyngiomas may include surgery, radiation therapy, cyst drainage, and intracystic therapies. The treatment of patients with recurrent craniopharyngiomas depends on the initial treatment used. With current treatment strategies, the 5-year and 10-year survival rates reach 80% to 90% for children between the ages of 0 and 14 years.[ 1 ]\nThe PDQ childhood brain tumor treatment summaries are organized primarily according to the World Health Organization Classification of Central Nervous System (CNS) Tumours.[ 2 , 3 ] For a full description of the classification of CNS tumors and a link to the corresponding treatment summary for each type of brain tumor, see Childhood Brain and Spinal Cord Tumors Summary Index ."
+        },
+        {
+          "section": "Incidence",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Childhood Craniopharyngioma",
+            "Incidence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Craniopharyngiomas are relatively uncommon, accounting for about 3% of all intracranial tumors in children.[ 1 , 4 , 5 ]\nNo predisposing factors have been identified."
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Childhood Craniopharyngioma",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Enlarge Figure 1. Anatomy of the inside of the brain, showing the pineal and pituitary glands, optic nerve, ventricles (with cerebrospinal fluid shown in blue), and other parts of the brain. The tentorium separates the cerebrum from the cerebellum. The infratentorium (posterior fossa) is the region below the tentorium that contains the brain stem, cerebellum, and fourth ventricle. The supratentorium is the region above the tentorium and denotes the region that contains the cerebrum."
+        },
+        {
+          "section": "Clinical Presentation",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Childhood Craniopharyngioma",
+            "Clinical Presentation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Craniopharyngiomas occur in the suprasellar region, near the pituitary gland, optic nerves, and optic chiasm (see Figure 2 ). This proximity commonly leads to injury of these surrounding structures, both by the tumor and interventions used to treat the tumor. Endocrine function is most frequently affected,[ 6 - 11 ] with patients suffering from neuroendocrine deficits such as growth hormone, thyroid, and cortisol deficiencies. Additionally, tumor proximity to the optic nerves and chiasm may result in visual compromise.[ 12 ][ Level of evidence C1 ]; [ 7 , 13 - 15 ] Some patients present with obstructive hydrocephalus caused by tumor growth within the third ventricle. Rarely, tumors may extend into the posterior fossa, and patients may present with headache, diplopia, ataxia, and hearing loss.[ 16 ]"
+        },
+        {
+          "section": "Diagnostic Evaluation",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Childhood Craniopharyngioma",
+            "Diagnostic Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "CT and MRI scans are often diagnostic for childhood craniopharyngiomas, with most tumors demonstrating intratumoral calcifications and a solid and cystic component. MRI of the spinal axis is not routinely performed.\nCraniopharyngiomas without calcification may be confused with other tumor types, including germ cell tumors, hypothalamic/chiasmatic astrocytomas, or Langerhans cell histiocytosis. Biopsy or resection is required to confirm the diagnosis.[ 17 ]\nApart from imaging, patients undergo endocrine testing and formal vision examination, including visual-field evaluation."
+        },
+        {
+          "section": "Prognosis",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Childhood Craniopharyngioma",
+            "Prognosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Regardless of the treatment modality, the 5-year and 10-year overall survival rates range from 80% to 90% in children between the ages of 0 and 14 years.[ 1 , 18 - 21 ] The event-free survival (EFS) rates can be more variable, depending on therapy and clinical characteristics of the patient and tumor. EFS rates range from 23% for younger children to 65% for school-aged children.[ 22 , 23 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "General Information About Childhood Craniopharyngioma",
+            "Prognosis",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 23,
+          "text": "- Ostrom QT, Cioffi G, Waite K, et al.: CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2014-2018. Neuro Oncol 23 (12 Suppl 2): iii1-iii105, 2021. [PUBMED Abstract]\n- Louis DN, Perry A, Wesseling P, et al.: The 2021 WHO Classification of Tumors of the Central Nervous System: a summary. Neuro Oncol 23 (8): 1231-1251, 2021. [PUBMED Abstract]\n- WHO Classification of Tumours Editorial Board, ed.: WHO Classification of Tumours: Central Nervous System Tumours. Vol. 6. 5th ed. IARC Press; 2021.\n- Karavitaki N, Wass JA: Craniopharyngiomas. Endocrinol Metab Clin North Am 37 (1): 173-93, ix-x, 2008. [PUBMED Abstract]\n- Garnett MR, Puget S, Grill J, et al.: Craniopharyngioma. Orphanet J Rare Dis 2: 18, 2007. [PUBMED Abstract]\n- van Schaik J, Hoving EW, Müller HL, et al.: Hypothalamic-Pituitary Outcome after Treatment for Childhood Craniopharyngioma. Front Horm Res 54: 47-57, 2021. [PUBMED Abstract]\n- Jimenez RB, Ahmed S, Johnson A, et al.: Proton Radiation Therapy for Pediatric Craniopharyngioma. Int J Radiat Oncol Biol Phys 110 (5): 1480-1487, 2021. [PUBMED Abstract]\n- Bogusz A, Müller HL: Childhood-onset craniopharyngioma: latest insights into pathology, diagnostics, treatment, and follow-up. Expert Rev Neurother 18 (10): 793-806, 2018. [PUBMED Abstract]\n- Tan TS, Patel L, Gopal-Kothandapani JS, et al.: The neuroendocrine sequelae of paediatric craniopharyngioma: a 40-year meta-data analysis of 185 cases from three UK centres. Eur J Endocrinol 176 (3): 359-369, 2017. [PUBMED Abstract]\n- Cohen M, Bartels U, Branson H, et al.: Trends in treatment and outcomes of pediatric craniopharyngioma, 1975-2011. Neuro Oncol 15 (6): 767-74, 2013. [PUBMED Abstract]\n- Fouda MA, Scott RM, Marcus KJ, et al.: Sixty years single institutional experience with pediatric craniopharyngioma: between the past and the future. Childs Nerv Syst 36 (2): 291-296, 2020. [PUBMED Abstract]\n- Nuijts MA, Veldhuis N, Stegeman I, et al.: Visual functions in children with craniopharyngioma at diagnosis: A systematic review. PLoS One 15 (10): e0240016, 2020. [PUBMED Abstract]\n- Wan MJ, Zapotocky M, Bouffet E, et al.: Long-term visual outcomes of craniopharyngioma in children. J Neurooncol 137 (3): 645-651, 2018. [PUBMED Abstract]\n- Ravindra VM, Okcu MF, Ruggieri L, et al.: Comparison of multimodal surgical and radiation treatment methods for pediatric craniopharyngioma: long-term analysis of progression-free survival and morbidity. J Neurosurg Pediatr 28 (2): 152-159, 2021. [PUBMED Abstract]\n- Felicetti F, Brignardello E, van Santen HM, eds.: Endocrine and Metabolic Late Effects in Cancer Survivors. Basel, Switzerland: Karger, 2021.\n- Zhou L, Luo L, Xu J, et al.: Craniopharyngiomas in the posterior fossa: a rare subgroup, diagnosis, management and outcomes. J Neurol Neurosurg Psychiatry 80 (10): 1150-4, 2009. [PUBMED Abstract]\n- Rossi A, Cama A, Consales A, et al.: Neuroimaging of pediatric craniopharyngiomas: a pictorial essay. J Pediatr Endocrinol Metab 19 (Suppl 1): 299-319, 2006. [PUBMED Abstract]\n- Muller HL: Childhood craniopharyngioma. Recent advances in diagnosis, treatment and follow-up. Horm Res 69 (4): 193-202, 2008. [PUBMED Abstract]\n- Müller HL: Childhood craniopharyngioma--current concepts in diagnosis, therapy and follow-up. Nat Rev Endocrinol 6 (11): 609-18, 2010. [PUBMED Abstract]\n- Zacharia BE, Bruce SS, Goldstein H, et al.: Incidence, treatment and survival of patients with craniopharyngioma in the surveillance, epidemiology and end results program. Neuro Oncol 14 (8): 1070-8, 2012. [PUBMED Abstract]\n- Ostrom QT, Cioffi G, Gittleman H, et al.: CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2012-2016. Neuro Oncol 21 (Suppl 5): v1-v100, 2019. [PUBMED Abstract]\n- Beckhaus J, Friedrich C, Boekhoff S, et al.: Outcome after pediatric craniopharyngioma: the role of age at diagnosis and hypothalamic damage. Eur J Endocrinol 188 (3): , 2023. [PUBMED Abstract]\n- Merchant TE, Dangda S, Hoehn ME, et al.: Pediatric Craniopharyngioma: The Effect of Visual Deficits and Hormone Deficiencies on Long-Term Cognitive Outcomes After Conformal Photon Radiation Therapy. Int J Radiat Oncol Biol Phys 115 (3): 581-591, 2023. [PUBMED Abstract]"
+        },
+        {
+          "section": "Histopathological Classification of Childhood Craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Histopathological Classification of Childhood Craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Craniopharyngiomas are histologically benign and often occur in the suprasellar region, with an intrasellar portion. They may be locally invasive and typically do not metastasize to remote brain locations.\nCraniopharyngiomas are classified under the category of tumors of the sella region according to the defined entities below. The two entities were previously described as subtypes of craniopharyngioma. However, based on the different populations they tend to affect, combined with distinct clinical, histological, and molecular characteristics, these are now considered unique diagnoses.[ 1 ]\n- Adamantinomatous: Adamantinomatous craniopharyngiomas most frequently occur in children.[ 2 ] These tumors are typically composed of a solid portion formed by nests and trabeculae of epithelial tumor cells, with an abundance of calcification, and a cystic component that is filled with a dark, oily fluid. Wet keratin is also characteristic of this tumor type. Adamantinomatous craniopharyngiomas are more locally aggressive than are papillary craniopharyngiomas and have a significantly higher rate of recurrence.[ 3 ] Activating CTNNB1 gene variants are found in most adamantinomatous tumors.[ 1 , 4 - 6 ]\n- Papillary: Papillary craniopharyngiomas occur primarily in adults. BRAF V600E variants are observed in nearly all papillary craniopharyngiomas.[ 1 , 5 , 6 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Histopathological Classification of Childhood Craniopharyngioma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Louis DN, Perry A, Wesseling P, et al.: The 2021 WHO Classification of Tumors of the Central Nervous System: a summary. Neuro Oncol 23 (8): 1231-1251, 2021. [PUBMED Abstract]\n- Karavitaki N, Wass JA: Craniopharyngiomas. Endocrinol Metab Clin North Am 37 (1): 173-93, ix-x, 2008. [PUBMED Abstract]\n- Pekmezci M, Louie J, Gupta N, et al.: Clinicopathological characteristics of adamantinomatous and papillary craniopharyngiomas: University of California, San Francisco experience 1985-2005. Neurosurgery 67 (5): 1341-9; discussion 1349, 2010. [PUBMED Abstract]\n- Sekine S, Shibata T, Kokubu A, et al.: Craniopharyngiomas of adamantinomatous type harbor beta-catenin gene mutations. Am J Pathol 161 (6): 1997-2001, 2002. [PUBMED Abstract]\n- Brastianos PK, Taylor-Weiner A, Manley PE, et al.: Exome sequencing identifies BRAF mutations in papillary craniopharyngiomas. Nat Genet 46 (2): 161-5, 2014. [PUBMED Abstract]\n- Goschzik T, Gessi M, Dreschmann V, et al.: Genomic Alterations of Adamantinomatous and Papillary Craniopharyngioma. J Neuropathol Exp Neurol 76 (2): 126-134, 2017. [PUBMED Abstract]"
+        },
+        {
+          "section": "Stage Information for Childhood Craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Childhood Craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "There is no generally applied staging system for childhood craniopharyngiomas. For treatment purposes, patients are grouped as having newly diagnosed or recurrent disease."
+        },
+        {
+          "section": "Treatment Option Overview for Childhood Craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Childhood Craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "Treatments for pediatric craniopharyngiomas have traditionally included maximal safe surgical resection and radiation therapy to treat residual tumor. Additionally, intracystic therapies such as radioactive phosphorus P 32, bleomycin, and interferon-alpha have been used. Evidence has demonstrated that conservative surgical approaches lead to better neuroendocrine and quality-of-life outcomes in patients.[ 1 , 2 ] Additionally, as the biological understanding of molecular and inflammatory drivers of these tumors have been identified, targeted therapies are now being studied.\nTable 1 describes the treatment options for newly diagnosed and recurrent childhood craniopharyngioma.\nTreatment Group | Treatment Options\nNewly diagnosed childhood craniopharyngioma | Complete resection with or without radiation therapy\nSubtotal resection with radiation therapy\nPrimary cyst drainage with or without radiation therapy\nIntracystic therapy\nProgressive or recurrent childhood craniopharyngioma | Surgery\nRadiation therapy, including radiosurgery\nIntracystic therapy (intracavitary instillation of radioactive phosphorus P 32 or bleomycin for those with cystic recurrences, where these agents are available)\nSystemic and targeted therapy\nObservation"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Childhood Craniopharyngioma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Lohkamp LN, Kasper EM, Pousa AE, et al.: An update on multimodal management of craniopharyngioma in children. Front Oncol 13: 1149428, 2023. [PUBMED Abstract]\n- Bogusz A, Müller HL: Childhood-onset craniopharyngioma: latest insights into pathology, diagnostics, treatment, and follow-up. Expert Rev Neurother 18 (10): 793-806, 2018. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Newly Diagnosed Childhood Craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Newly Diagnosed Childhood Craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "There is no consensus on the optimal treatment for patients with newly diagnosed craniopharyngioma, in part because of the lack of prospective randomized trials that compare the different treatment options. Treatment is individualized on the basis of the following factors:\n- Tumor size.\n- Tumor location.\n- Extension of the tumor.\n- Potential short-term and long-term toxicity, partially related to baseline neuroendocrine and vision deficits (i.e., more conservative surgical approaches may be prioritized in patients who do not have existing neuroendocrine or visual deficits to mitigate the risk of surgical morbidity).[ 1 ]\nEstablished treatment options for newly diagnosed childhood craniopharyngioma include the following:\n- Complete resection with or without radiation therapy .\n- Subtotal resection with radiation therapy .\n- Primary cyst drainage with or without radiation therapy .\n- Intracystic therapy ."
+        },
+        {
+          "section": "Complete Resection With or Without Radiation Therapy",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Newly Diagnosed Childhood Craniopharyngioma",
+            "Complete Resection With or Without Radiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "It may be possible to remove all visible tumor and achieve long-term disease control.[ 2 - 4 ][ Level of evidence C1 ] A 5-year progression-free survival (PFS) rate of about 65% has been reported.[ 5 ] Reported recurrence rates range from less than 10% to nearly 50%.[ 6 , 7 ] Gross-total resection is often technically challenging because the tumor is surrounded by vital structures, including the optic nerves and chiasm, the carotid artery and its branches, the pituitary and hypothalamus, and the third cranial nerve. These structures may limit the ability to remove the entire tumor. Conservative surgical approaches are often used to preserve functional and quality-of-life outcomes.[ 8 , 9 ][ Level of evidence C1 ]\nMany surgical approaches have been described, and the choice is determined by tumor size, location, extension, and the patient's baseline signs and symptoms of disease. Surgical approaches include the following:\n- Craniotomy: As noted above, gross-total resection may be technically challenging because the tumor is surrounded by vital structures. The surgeon often has a limited view of the hypothalamic and sellar regions, and portions of the mass may remain after surgery, accounting for some recurrences. An understanding of the complex variations in how the tumors grow anatomically may help facilitate gross-total resection.[ 10 ] Nonetheless, almost all craniopharyngiomas attach to the pituitary stalk. Of the patients who undergo complete resection, virtually all will require lifelong pituitary hormone replacement with multiple medications.[ 3 , 11 ]\n- Transsphenoidal approach: A transsphenoidal approach has been proven possible in patients of all ages and for tumors of various sizes localized within the sella.[ 12 ]; [ 13 ][ Level of evidence C1 ] The development of expanded endonasal techniques with endoscopic visualization has allowed increased use of this approach, even for sizeable childhood tumors, which is similar to the experience in adults.[ 14 ] A complete resection can be obtained using this approach, with associated complications of panhypopituitarism and the risk of cerebrospinal fluid leaks.[ 15 , 16 ] When an endonasal approach is not possible, a craniotomy is required.\nComplications of complete resection using either approach include the following:\n- Obesity, which can be life-threatening.[ 17 ]\n- Need for hormone replacement therapy.[ 18 ]\n- Severe behavioral problems.[ 18 ]\n- Blindness.\n- Seizures.\n- Spinal fluid leak.\n- False aneurysms.\n- Difficulty with eye movements.\n- Death from intraoperative hemorrhage, hypothalamic damage, or stroke (rare).\nIf the surgeon indicates that the tumor was not completely removed or if postoperative imaging reveals residual craniopharyngioma, radiation therapy may be recommended to prevent early progression.[ 19 ][ Level of evidence C2 ] For more information, see the Subtotal Resection With Radiation Therapy section.\nRoutine surveillance using magnetic resonance imaging is performed for several years after complete resection because of the possibility of tumor recurrence."
+        },
+        {
+          "section": "Subtotal Resection With Radiation Therapy",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Newly Diagnosed Childhood Craniopharyngioma",
+            "Subtotal Resection With Radiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "The goal of limited surgery can be to establish a diagnosis, drain cystic components of the tumor, and decompress surrounding anatomical structures. In subtotal resections, removal of the tumor from the pituitary stalk or hypothalamus is typically avoided to minimize the late effects associated with complete resection.[ 20 ]\nSurgery is often followed by radiation therapy, because radiation therapy can decrease the risk of recurrence after a subtotal resection.[ 21 ] With this approach, the 5-year PFS rates are approximately 70% to 90%,[ 5 , 22 - 25 ]; [ 26 ][ Level of evidence C1 ] and the 10-year overall survival (OS) rates exceed 90%, which are similar to the rates in patients who undergo a gross-total resection.[ 27 , 28 ][ Level of evidence C1 ]; [ 29 ][ Level of evidence C2 ] Most often, radiation therapy is timed to immediately follow subtotal resection. However, in certain cases, such as in young patients or in patients without existing neuroendocrine or visual deficits, serial imaging may be used to delay or avoid radiation therapy for as long as feasible.[ 7 , 30 ] The standard approach to radiation therapy involves fractionated external-beam radiation, with a recommended dose of 50 to 54 Gy, in 1.8-Gy fractions, restricting the optic chiasm dose to 54 Gy.[ 31 - 34 ] Newer radiation technologies such as intensity-modulated photon therapy and proton-beam radiation therapy may reduce the radiation dose to uninvolved parts of the brain and spare normal tissue.[ 23 , 34 - 36 ] It is unknown whether such techniques reduce the late effects of radiation therapy.[ 26 , 34 , 36 , 37 ] Transient cyst enlargement may be noted during radiation therapy, and serial imaging may be required during radiation therapy to assess cyst changes and consider updates to radiation mapping.[ 38 ][ Level of evidence C3 ]\nSurgical complications with a subtotal resection can be similar to, but are less likely than, with a complete resection. If radiation therapy is used, additional complications must be considered, including the following:\n- Loss of pituitary hormonal function.\n- Cognitive dysfunction.\n- Development of late strokes and vascular malformations.\n- Delayed blindness.\n- Development of second tumors.\n- Malignant transformation of the primary tumor within the radiation field (rare).[ 39 , 40 ]\nA phase II single-arm study included 94 patients (aged 12 months to 21 years) with craniopharyngiomas who were treated with proton-beam radiation therapy after individualized surgical resection. These patients were compared with a historical cohort of patients who were treated with photon-beam radiation therapy.[ 41 ] The survival outcomes of patients who received proton therapy were similar to those of patients who received photon therapy. The cumulative incidence rates of necrosis, vasculopathy, changes in vision, and severe complications were also similar between the two groups of patients. However, patients treated with proton therapy in the more recent cohort had superior cognitive outcomes.\nA long-term study of 101 children who were treated for craniopharyngiomas evaluated visual, neurocognitive, and endocrine outcomes after photon radiation therapy. Race and presence of a shunt affected baseline scores.[ 42 ] For children who presented with lower intelligence quotient (IQ) scores at diagnosis, the impact of treatment often resulted in an IQ score reduction to the borderline mental disability range of 70 to 84. The investigators demonstrated that age at treatment (younger children had worse outcomes), radiation dose to the temporal lobes and hippocampi, and visual impairment significantly impacted neurocognitive function after radiation therapy. This study demonstrates the importance of these factors in the treatment and late effects of craniopharyngioma.\nA report from the prospective registry study KiProReg examined the use of proton-beam therapy in 84 children younger than 18 years with craniopharyngioma.[ 43 ] The estimated 3-year OS rate was 98.2%, and the PFS rate was 94.7%. With a median follow-up of 4.3 years, late toxicities appeared acceptable. Sixty-three of the patients were treated with pencil-beam scanning, which is considered an advancement in proton technology."
+        },
+        {
+          "section": "Primary Cyst Drainage With or Without Radiation Therapy",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Newly Diagnosed Childhood Craniopharyngioma",
+            "Primary Cyst Drainage With or Without Radiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For predominantly cystic craniopharyngiomas, stereotactic drainage of the cyst, insertion of a catheter from which drainage can be facilitated, or cyst fenestration are other therapeutic alternatives.[ 7 , 44 ] This can be followed by observation or radiation therapy, depending on clinical and tumor characteristics . This procedure may also allow the surgeon to use the following two-staged approach:[ 45 ]\n- Draining the cyst to relieve pressure and complicating symptoms.\n- Resecting the tumor or employing radiation therapy later."
+        },
+        {
+          "section": "Intracystic Therapy",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Newly Diagnosed Childhood Craniopharyngioma",
+            "Intracystic Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Intracystic therapies include peginterferon alpha, radioactive phosphorus P 32 (32P) or other compounds,[ 46 - 48 ]; [ 49 ][ Level of evidence B4 ] and interferon-alpha (which is no longer commercially available).[ 50 ]; [ 51 ][ Level of evidence C1 ]; [ 52 ][ Level of evidence C2 ] Bleomycin has previously been used.[ 53 ]; [ 54 ][ Level of evidence C2 ]\nA systematic review of publications on the treatment of cystic craniopharyngiomas with radioisotope brachytherapy from 2010 to 2021 identified 66 pediatric patients (N = 228).[ 55 ] With a minimum follow-up of 5 years, partial and complete responses were achieved in 89% of children with purely cystic lesions, compared with 58% of children with nonexclusively cystic lesions. Visual improvement was achieved in 64% of the patients with purely cystic lesions, and endocrine improvement was achieved in 20% of these patients. The observed progression rate was 3% for patients with purely cystic lesions. Treatment with intracystic brachytherapy, most commonly using 32P and yttrium Y 90, can be considered for patients with purely cystic craniopharyngiomas."
+        },
+        {
+          "section": "Treatment Options Under Clinical Evaluation",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Newly Diagnosed Childhood Craniopharyngioma",
+            "Treatment Options Under Clinical Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Information about NCI-supported clinical trials can be found on the NCI website . For information about clinical trials sponsored by other organizations, see the ClinicalTrials.gov website .\nPreclinical contemporary evaluations have identified active molecular and immune pathways in craniopharyngioma that may be targetable using commercially available or investigational agents. Specifically, MAPK and RAF pathways and immune/inflammatory targets such as PD-1 pathway components and IL-6 have been identified.[ 7 , 56 - 61 ][ Level of evidence C1 ]\nThe following is an example of a national and/or institutional clinical trial that is currently being conducted:\n- NCT05465174 (Nivolumab and Tovorafenib [DAY101] for Treatment of Craniopharyngioma in Children and Young Adults) : This study assesses the tolerability and efficacy of combination therapy with PD-1 (nivolumab) and pan-RAF kinase (tovorafenib) inhibition for the treatment of children and young adults with craniopharyngioma."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Newly Diagnosed Childhood Craniopharyngioma",
+            "Treatment Options Under Clinical Evaluation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 61,
+          "text": "- Cohen M, Bartels U, Branson H, et al.: Trends in treatment and outcomes of pediatric craniopharyngioma, 1975-2011. Neuro Oncol 15 (6): 767-74, 2013. [PUBMED Abstract]\n- Mortini P, Losa M, Pozzobon G, et al.: Neurosurgical treatment of craniopharyngioma in adults and children: early and long-term results in a large case series. J Neurosurg 114 (5): 1350-9, 2011. [PUBMED Abstract]\n- Elliott RE, Hsieh K, Hochm T, et al.: Efficacy and safety of radical resection of primary and recurrent craniopharyngiomas in 86 children. J Neurosurg Pediatr 5 (1): 30-48, 2010. [PUBMED Abstract]\n- Zhang YQ, Ma ZY, Wu ZB, et al.: Radical resection of 202 pediatric craniopharyngiomas with special reference to the surgical approaches and hypothalamic protection. Pediatr Neurosurg 44 (6): 435-43, 2008. [PUBMED Abstract]\n- Yang I, Sughrue ME, Rutkowski MJ, et al.: Craniopharyngioma: a comparison of tumor control with various treatment strategies. Neurosurg Focus 28 (4): E5, 2010. [PUBMED Abstract]\n- Müller HL, Merchant TE, Puget S, et al.: New outlook on the diagnosis, treatment and follow-up of childhood-onset craniopharyngioma. Nat Rev Endocrinol 13 (5): 299-312, 2017. [PUBMED Abstract]\n- Apps JR, Muller HL, Hankinson TC, et al.: Contemporary Biological Insights and Clinical Management of Craniopharyngioma. Endocr Rev 44 (3): 518-538, 2023. [PUBMED Abstract]\n- Lohkamp LN, Kasper EM, Pousa AE, et al.: An update on multimodal management of craniopharyngioma in children. Front Oncol 13: 1149428, 2023. [PUBMED Abstract]\n- Bogusz A, Müller HL: Childhood-onset craniopharyngioma: latest insights into pathology, diagnostics, treatment, and follow-up. Expert Rev Neurother 18 (10): 793-806, 2018. [PUBMED Abstract]\n- Morisako H, Goto T, Goto H, et al.: Aggressive surgery based on an anatomical subclassification of craniopharyngiomas. Neurosurg Focus 41 (6): E10, 2016. [PUBMED Abstract]\n- Sands SA, Milner JS, Goldberg J, et al.: Quality of life and behavioral follow-up study of pediatric survivors of craniopharyngioma. J Neurosurg 103 (4 Suppl): 302-11, 2005. [PUBMED Abstract]\n- Bakhsheshian J, Jin DL, Chang KE, et al.: Risk factors associated with the surgical management of craniopharyngiomas in pediatric patients: analysis of 1961 patients from a national registry database. Neurosurg Focus 41 (6): E8, 2016. [PUBMED Abstract]\n- Locatelli D, Massimi L, Rigante M, et al.: Endoscopic endonasal transsphenoidal surgery for sellar tumors in children. Int J Pediatr Otorhinolaryngol 74 (11): 1298-302, 2010. [PUBMED Abstract]\n- Chivukula S, Koutourousiou M, Snyderman CH, et al.: Endoscopic endonasal skull base surgery in the pediatric population. J Neurosurg Pediatr 11 (3): 227-41, 2013. [PUBMED Abstract]\n- Mazzatenta D, Zoli M, Guaraldi F, et al.: Outcome of Endoscopic Endonasal Surgery in Pediatric Craniopharyngiomas. World Neurosurg 134: e277-e288, 2020. [PUBMED Abstract]\n- Lee JA, Cooper RL, Nguyen SA, et al.: Endonasal Endoscopic Surgery for Pediatric Sellar and Suprasellar Lesions: A Systematic Review and Meta-analysis. Otolaryngol Head Neck Surg 163 (2): 284-292, 2020. [PUBMED Abstract]\n- Müller HL, Gebhardt U, Teske C, et al.: Post-operative hypothalamic lesions and obesity in childhood craniopharyngioma: results of the multinational prospective trial KRANIOPHARYNGEOM 2000 after 3-year follow-up. Eur J Endocrinol 165 (1): 17-24, 2011. [PUBMED Abstract]\n- Clark AJ, Cage TA, Aranda D, et al.: Treatment-related morbidity and the management of pediatric craniopharyngioma: a systematic review. J Neurosurg Pediatr 10 (4): 293-301, 2012. [PUBMED Abstract]\n- Lin LL, El Naqa I, Leonard JR, et al.: Long-term outcome in children treated for craniopharyngioma with and without radiotherapy. J Neurosurg Pediatr 1 (2): 126-30, 2008. [PUBMED Abstract]\n- Elowe-Gruau E, Beltrand J, Brauner R, et al.: Childhood craniopharyngioma: hypothalamus-sparing surgery decreases the risk of obesity. J Clin Endocrinol Metab 98 (6): 2376-82, 2013. [PUBMED Abstract]\n- Müller HL: Childhood craniopharyngioma: current controversies on management in diagnostics, treatment and follow-up. Expert Rev Neurother 10 (4): 515-24, 2010. [PUBMED Abstract]\n- Winkfield KM, Tsai HK, Yao X, et al.: Long-term clinical outcomes following treatment of childhood craniopharyngioma. Pediatr Blood Cancer 56 (7): 1120-6, 2011. [PUBMED Abstract]\n- Jimenez RB, Ahmed S, Johnson A, et al.: Proton Radiation Therapy for Pediatric Craniopharyngioma. Int J Radiat Oncol Biol Phys 110 (5): 1480-1487, 2021. [PUBMED Abstract]\n- Eveslage M, Calaminus G, Warmuth-Metz M, et al.: The Postopera tive Quality of Life in Children and Adolescents with Craniopharyngioma. Dtsch Arztebl Int 116 (18): 321-328, 2019. [PUBMED Abstract]\n- Merchant TE, Hua CH, Shukla H, et al.: Proton versus photon radiotherapy for common pediatric brain tumors: comparison of models of dose characteristics and their relationship to cognitive function. Pediatr Blood Cancer 51 (1): 110-7, 2008. [PUBMED Abstract]\n- Merchant TE, Kun LE, Hua CH, et al.: Disease control after reduced volume conformal and intensity modulated radiation therapy for childhood craniopharyngioma. Int J Radiat Oncol Biol Phys 85 (4): e187-92, 2013. [PUBMED Abstract]\n- Schoenfeld A, Pekmezci M, Barnes MJ, et al.: The superiority of conservative resection and adjuvant radiation for craniopharyngiomas. J Neurooncol 108 (1): 133-9, 2012. [PUBMED Abstract]\n- Edmonston DY, Wu S, Li Y, et al.: Limited surgery and conformal photon radiation therapy for pediatric craniopharyngioma: long-term results from the RT1 protocol. Neuro Oncol 24 (12): 2200-2209, 2022. [PUBMED Abstract]\n- Clark AJ, Cage TA, Aranda D, et al.: A systematic review of the results of surgery and radiotherapy on tumor control for pediatric craniopharyngioma. Childs Nerv Syst 29 (2): 231-8, 2013. [PUBMED Abstract]\n- Beckhaus J, Friedrich C, Boekhoff S, et al.: Outcome after pediatric craniopharyngioma: the role of age at diagnosis and hypothalamic damage. Eur J Endocrinol 188 (3): , 2023. [PUBMED Abstract]\n- Kiehna EN, Merchant TE: Radiation therapy for pediatric craniopharyngioma. Neurosurg Focus 28 (4): E10, 2010. [PUBMED Abstract]\n- Harrabi SB, Adeberg S, Welzel T, et al.: Long term results after fractionated stereotactic radiotherapy (FSRT) in patients with craniopharyngioma: maximal tumor control with minimal side effects. Radiat Oncol 9: 203, 2014. [PUBMED Abstract]\n- Lo AC, Howard AF, Nichol A, et al.: Long-term outcomes and complications in patients with craniopharyngioma: the British Columbia Cancer Agency experience. Int J Radiat Oncol Biol Phys 88 (5): 1011-8, 2014. [PUBMED Abstract]\n- Bishop AJ, Greenfield B, Mahajan A, et al.: Proton beam therapy versus conformal photon radiation therapy for childhood craniopharyngioma: multi-institutional analysis of outcomes, cyst dynamics, and toxicity. Int J Radiat Oncol Biol Phys 90 (2): 354-61, 2014. [PUBMED Abstract]\n- Winkfield KM, Linsenmeier C, Yock TI, et al.: Surveillance of craniopharyngioma cyst growth in children treated with proton radiotherapy. Int J Radiat Oncol Biol Phys 73 (3): 716-21, 2009. [PUBMED Abstract]\n- Beltran C, Roca M, Merchant TE: On the benefits and risks of proton therapy in pediatric craniopharyngioma. Int J Radiat Oncol Biol Phys 82 (2): e281-7, 2012. [PUBMED Abstract]\n- Boehling NS, Grosshans DR, Bluett JB, et al.: Dosimetric comparison of three-dimensional conformal proton radiotherapy, intensity-modulated proton therapy, and intensity-modulated radiotherapy for treatment of pediatric craniopharyngiomas. Int J Radiat Oncol Biol Phys 82 (2): 643-52, 2012. [PUBMED Abstract]\n- Shi Z, Esiashvili N, Janss AJ, et al.: Transient enlargement of craniopharyngioma after radiation therapy: pattern of magnetic resonance imaging response following radiation. J Neurooncol 109 (2): 349-55, 2012. [PUBMED Abstract]\n- Ishida M, Hotta M, Tsukamura A, et al.: Malignant transformation in craniopharyngioma after radiation therapy: a case report and review of the literature. Clin Neuropathol 29 (1): 2-8, 2010 Jan-Feb. [PUBMED Abstract]\n- Aquilina K, Merchant TE, Rodriguez-Galindo C, et al.: Malignant transformation of irradiated craniopharyngioma in children: report of 2 cases. J Neurosurg Pediatr 5 (2): 155-61, 2010. [PUBMED Abstract]\n- Merchant TE, Hoehn ME, Khan RB, et al.: Proton therapy and limited surgery for paediatric and adolescent patients with craniopharyngioma (RT2CR): a single-arm, phase 2 study. Lancet Oncol 24 (5): 523-534, 2023. [PUBMED Abstract]\n- Merchant TE, Dangda S, Hoehn ME, et al.: Pediatric Craniopharyngioma: The Effect of Visual Deficits and Hormone Deficiencies on Long-Term Cognitive Outcomes After Conformal Photon Radiation Therapy. Int J Radiat Oncol Biol Phys 115 (3): 581-591, 2023. [PUBMED Abstract]\n- Bischoff M, Khalil DA, Frisch S, et al.: Outcome After Modern Proton Beam Therapy in Childhood Craniopharyngioma: Results of the Prospective Registry Study KiProReg. Int J Radiat Oncol Biol Phys 120 (1): 137-148, 2024. [PUBMED Abstract]\n- Cinalli G, Spennato P, Cianciulli E, et al.: The role of transventricular neuroendoscopy in the management of craniopharyngiomas: three patient reports and review of the literature. J Pediatr Endocrinol Metab 19 (Suppl 1): 341-54, 2006. [PUBMED Abstract]\n- Schubert T, Trippel M, Tacke U, et al.: Neurosurgical treatment strategies in childhood craniopharyngiomas: is less more? Childs Nerv Syst 25 (11): 1419-27, 2009. [PUBMED Abstract]\n- Julow J, Backlund EO, Lányi F, et al.: Long-term results and late complications after intracavitary yttrium-90 colloid irradiation of recurrent cystic craniopharyngiomas. Neurosurgery 61 (2): 288-95; discussion 295-6, 2007. [PUBMED Abstract]\n- Barriger RB, Chang A, Lo SS, et al.: Phosphorus-32 therapy for cystic craniopharyngiomas. Radiother Oncol 98 (2): 207-12, 2011. [PUBMED Abstract]\n- Maarouf M, El Majdoub F, Fuetsch M, et al.: Stereotactic intracavitary brachytherapy with P-32 for cystic craniopharyngiomas in children. Strahlenther Onkol 192 (3): 157-65, 2016. [PUBMED Abstract]\n- Kickingereder P, Maarouf M, El Majdoub F, et al.: Intracavitary brachytherapy using stereotactically applied phosphorus-32 colloid for treatment of cystic craniopharyngiomas in 53 patients. J Neurooncol 109 (2): 365-74, 2012. [PUBMED Abstract]\n- Ierardi DF, Fernandes MJ, Silva IR, et al.: Apoptosis in alpha interferon (IFN-alpha) intratumoral chemotherapy for cystic craniopharyngiomas. Childs Nerv Syst 23 (9): 1041-6, 2007. [PUBMED Abstract]\n- Cavalheiro S, Di Rocco C, Valenzuela S, et al.: Craniopharyngiomas: intratumoral chemotherapy with interferon-alpha: a multicenter preliminary study with 60 cases. Neurosurg Focus 28 (4): E12, 2010. [PUBMED Abstract]\n- Kilday JP, Caldarelli M, Massimi L, et al.: Intracystic interferon-alpha in pediatric craniopharyngioma patients: an international multicenter assessment on behalf of SIOPE and ISPN. Neuro Oncol 19 (10): 1398-1407, 2017. [PUBMED Abstract]\n- Linnert M, Gehl J: Bleomycin treatment of brain tumors: an evaluation. Anticancer Drugs 20 (3): 157-64, 2009. [PUBMED Abstract]\n- Hukin J, Steinbok P, Lafay-Cousin L, et al.: Intracystic bleomycin therapy for craniopharyngioma in children: the Canadian experience. Cancer 109 (10): 2124-31, 2007. [PUBMED Abstract]\n- Guimarães MM, Cardeal DD, Teixeira MJ, et al.: Brachytherapy in paediatric craniopharyngiomas: a systematic review and meta-analysis of recent literature. Childs Nerv Syst 38 (2): 253-262, 2022. [PUBMED Abstract]\n- Petralia F, Tignor N, Reva B, et al.: Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer. Cell 183 (7): 1962-1985.e31, 2020. [PUBMED Abstract]\n- Apps JR, Carreno G, Gonzalez-Meljem JM, et al.: Tumour compartment transcriptomics demonstrates the activation of inflammatory and odontogenic programmes in human adamantinomatous craniopharyngioma and identifies the MAPK/ERK pathway as a novel therapeutic target. Acta Neuropathol 135 (5): 757-777, 2018. [PUBMED Abstract]\n- Hengartner AC, Prince E, Vijmasi T, et al.: Adamantinomatous craniopharyngioma: moving toward targeted therapies. Neurosurg Focus 48 (1): E7, 2020. [PUBMED Abstract]\n- Coy S, Rashid R, Lin JR, et al.: Multiplexed immunofluorescence reveals potential PD-1/PD-L1 pathway vulnerabilities in craniopharyngioma. Neuro Oncol 20 (8): 1101-1112, 2018. [PUBMED Abstract]\n- Grob S, Mirsky DM, Donson AM, et al.: Targeting IL-6 Is a Potential Treatment for Primary Cystic Craniopharyngioma. Front Oncol 9: 791, 2019. [PUBMED Abstract]\n- Donson AM, Apps J, Griesinger AM, et al.: Molecular Analyses Reveal Inflammatory Mediators in the Solid Component and Cyst Fluid of Human Adamantinomatous Craniopharyngioma. J Neuropathol Exp Neurol 76 (9): 779-788, 2017. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Progressive or Recurrent Childhood Craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Progressive or Recurrent Childhood Craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Progression or recurrence of craniopharyngioma varies according to the type of up-front therapy, but it has been reported to be between 20% (patients who received a subtotal resection and radiation therapy) and 90% (patients who received a subtotal resection without radiation therapy).[ 1 - 3 ]\nTreatment options for recurrent childhood craniopharyngioma include the following:\n- Surgery .\n- Radiation therapy, including radiosurgery .\n- Intracystic therapy (intracavitary instillation of radioactive phosphorus P 32 [32P] or bleomycin for those with cystic recurrences, where these agents are available) .\n- Systemic targeted therapy .\n- Observation ."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Progressive or Recurrent Childhood Craniopharyngioma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The management of recurrent craniopharyngioma is determined largely by previous therapy. Repeat attempts at gross-total resections are difficult, and long-term disease control is achieved less often.[ 4 ][ Level of evidence C2 ]; [ 3 ] Complications are more frequent than with initial surgery.[ 5 ][ Level of evidence C2 ]"
+        },
+        {
+          "section": "Radiation Therapy",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Progressive or Recurrent Childhood Craniopharyngioma",
+            "Radiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If not previously employed, external-beam radiation therapy remains an option, including the consideration of radiosurgery in selected circumstances.[ 6 ][ Level of evidence C2 ] Repeat irradiation in different forms is also an option when considering prior radiation exposures and toxicities. Reirradiation has been shown to be feasible in regaining tumor control and providing symptom relief.[ 7 ][ Level of evidence C3 ] The types of radiation therapy can range from standard conformal radiation approaches to Gamma Knife therapy.[ 8 ][ Level of evidence C3 ]"
+        },
+        {
+          "section": "Intracystic Therapy",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Progressive or Recurrent Childhood Craniopharyngioma",
+            "Intracystic Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Cystic recurrences may be treated with intracavitary instillation of varying agents via placement of an Ommaya catheter.[ 9 ] These agents have included radioactive 32P or other compounds,[ 10 - 12 ]; [ 13 ][ Level of evidence B4 ] bleomycin,[ 14 ]; [ 15 ][ Level of evidence C2 ] or, previously, interferon-alpha (which is no longer commercially available).[ 16 ]; [ 17 ][ Level of evidence C1 ]; [ 18 ][ Level of evidence C2 ] These strategies have been useful in certain cases, and a low risk of complications has been reported. However, none of these approaches has shown efficacy against solid portions of the tumor."
+        },
+        {
+          "section": "Systemic and Targeted Therapy",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Progressive or Recurrent Childhood Craniopharyngioma",
+            "Systemic and Targeted Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Although systemic therapy is generally not used, a small series has shown that the use of subcutaneous peginterferon alpha-2b to manage cystic recurrences can result in durable responses; however, this agent is no longer commercially available.[ 19 ][ Level of evidence C2 ]"
+        },
+        {
+          "section": "Observation",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Progressive or Recurrent Childhood Craniopharyngioma",
+            "Observation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In select cases of asymptomatic patients with minimal (<25%) tumor progression, it may be possible to safely observe these patients. Intervention can begin when new symptoms develop or further tumor growth is identified on subsequent imaging.[ 20 ]"
+        },
+        {
+          "section": "Treatment Options Under Clinical Evaluation",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Progressive or Recurrent Childhood Craniopharyngioma",
+            "Treatment Options Under Clinical Evaluation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Information about NCI-supported clinical trials can be found on the NCI website . For information about clinical trials sponsored by other organizations, see the ClinicalTrials.gov website .\nPreclinical contemporary evaluations have identified active molecular and immune pathways in craniopharyngioma that may be targetable using commercially available or investigational agents. Specifically, MAPK and RAF pathways and immune/inflammatory targets such as PD-1 pathway components and IL-6 have been identified.[ 21 - 27 ][ Level of evidence C1 ]\nThe following are examples of national and/or institutional clinical trials that are currently being conducted:\n- NCT05465174 (Nivolumab and Tovorafenib [DAY101] for Treatment of Craniopharyngioma in Children and Young Adults) : This study assesses the tolerability and efficacy of combination therapy with PD-1 (nivolumab) and pan-RAF kinase (tovorafenib) inhibition for the treatment of children and young adults with craniopharyngioma.\n- NCT05286788 (Binimetinib [Mektovi] for the Treatment of Pediatric Adamantinomatous Craniopharyngioma) : This phase II study will treat pediatric patients diagnosed with recurrent adamantinomatous craniopharyngioma with binimetinib (mektovi).\n- NCT05233397 (Tocilizumab [Actemra] for the Treatment of Progressive or Recurrent Pediatric Adamantinomatous Craniopharyngioma) : This phase II study will treat pediatric patients diagnosed with recurrent adamantinomatous craniopharyngioma with tocilizumab (actemra)."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Progressive or Recurrent Childhood Craniopharyngioma",
+            "Treatment Options Under Clinical Evaluation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 27,
+          "text": "- Yang I, Sughrue ME, Rutkowski MJ, et al.: Craniopharyngioma: a comparison of tumor control with various treatment strategies. Neurosurg Focus 28 (4): E5, 2010. [PUBMED Abstract]\n- Bogusz A, Müller HL: Childhood-onset craniopharyngioma: latest insights into pathology, diagnostics, treatment, and follow-up. Expert Rev Neurother 18 (10): 793-806, 2018. [PUBMED Abstract]\n- Liubinas SV, Munshey AS, Kaye AH: Management of recurrent craniopharyngioma. J Clin Neurosci 18 (4): 451-7, 2011. [PUBMED Abstract]\n- Vinchon M, Dhellemmes P: Craniopharyngiomas in children: recurrence, reoperation and outcome. Childs Nerv Syst 24 (2): 211-7, 2008. [PUBMED Abstract]\n- Jang WY, Lee KS, Son BC, et al.: Repeat operations in pediatric patients with recurrent craniopharyngiomas. Pediatr Neurosurg 45 (6): 451-5, 2009. [PUBMED Abstract]\n- Xu Z, Yen CP, Schlesinger D, et al.: Outcomes of Gamma Knife surgery for craniopharyngiomas. J Neurooncol 104 (1): 305-13, 2011. [PUBMED Abstract]\n- Foran SJ, Laperriere N, Edelstein K, et al.: Reirradiation for recurrent craniopharyngioma. Adv Radiat Oncol 5 (6): 1305-1310, 2020. [PUBMED Abstract]\n- Kobayashi T: Long-term results of gamma knife radiosurgery for 100 consecutive cases of craniopharyngioma and a treatment strategy. Prog Neurol Surg 22: 63-76, 2009. [PUBMED Abstract]\n- Steinbok P, Hukin J: Intracystic treatments for craniopharyngioma. Neurosurg Focus 28 (4): E13, 2010. [PUBMED Abstract]\n- Julow J, Backlund EO, Lányi F, et al.: Long-term results and late complications after intracavitary yttrium-90 colloid irradiation of recurrent cystic craniopharyngiomas. Neurosurgery 61 (2): 288-95; discussion 295-6, 2007. [PUBMED Abstract]\n- Barriger RB, Chang A, Lo SS, et al.: Phosphorus-32 therapy for cystic craniopharyngiomas. Radiother Oncol 98 (2): 207-12, 2011. [PUBMED Abstract]\n- Maarouf M, El Majdoub F, Fuetsch M, et al.: Stereotactic intracavitary brachytherapy with P-32 for cystic craniopharyngiomas in children. Strahlenther Onkol 192 (3): 157-65, 2016. [PUBMED Abstract]\n- Kickingereder P, Maarouf M, El Majdoub F, et al.: Intracavitary brachytherapy using stereotactically applied phosphorus-32 colloid for treatment of cystic craniopharyngiomas in 53 patients. J Neurooncol 109 (2): 365-74, 2012. [PUBMED Abstract]\n- Linnert M, Gehl J: Bleomycin treatment of brain tumors: an evaluation. Anticancer Drugs 20 (3): 157-64, 2009. [PUBMED Abstract]\n- Hukin J, Steinbok P, Lafay-Cousin L, et al.: Intracystic bleomycin therapy for craniopharyngioma in children: the Canadian experience. Cancer 109 (10): 2124-31, 2007. [PUBMED Abstract]\n- Ierardi DF, Fernandes MJ, Silva IR, et al.: Apoptosis in alpha interferon (IFN-alpha) intratumoral chemotherapy for cystic craniopharyngiomas. Childs Nerv Syst 23 (9): 1041-6, 2007. [PUBMED Abstract]\n- Cavalheiro S, Di Rocco C, Valenzuela S, et al.: Craniopharyngiomas: intratumoral chemotherapy with interferon-alpha: a multicenter preliminary study with 60 cases. Neurosurg Focus 28 (4): E12, 2010. [PUBMED Abstract]\n- Kilday JP, Caldarelli M, Massimi L, et al.: Intracystic interferon-alpha in pediatric craniopharyngioma patients: an international multicenter assessment on behalf of SIOPE and ISPN. Neuro Oncol 19 (10): 1398-1407, 2017. [PUBMED Abstract]\n- Yeung JT, Pollack IF, Panigrahy A, et al.: Pegylated interferon-α-2b for children with recurrent craniopharyngioma. J Neurosurg Pediatr 10 (6): 498-503, 2012. [PUBMED Abstract]\n- Fouda MA, Karsten M, Staffa SJ, et al.: Management strategies for recurrent pediatric craniopharyngioma: new recommendations. J Neurosurg Pediatr 27 (5): 548-555, 2021. [PUBMED Abstract]\n- Petralia F, Tignor N, Reva B, et al.: Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer. Cell 183 (7): 1962-1985.e31, 2020. [PUBMED Abstract]\n- Apps JR, Muller HL, Hankinson TC, et al.: Contemporary Biological Insights and Clinical Management of Craniopharyngioma. Endocr Rev 44 (3): 518-538, 2023. [PUBMED Abstract]\n- Apps JR, Carreno G, Gonzalez-Meljem JM, et al.: Tumour compartment transcriptomics demonstrates the activation of inflammatory and odontogenic programmes in human adamantinomatous craniopharyngioma and identifies the MAPK/ERK pathway as a novel therapeutic target. Acta Neuropathol 135 (5): 757-777, 2018. [PUBMED Abstract]\n- Hengartner AC, Prince E, Vijmasi T, et al.: Adamantinomatous craniopharyngioma: moving toward targeted therapies. Neurosurg Focus 48 (1): E7, 2020. [PUBMED Abstract]\n- Coy S, Rashid R, Lin JR, et al.: Multiplexed immunofluorescence reveals potential PD-1/PD-L1 pathway vulnerabilities in craniopharyngioma. Neuro Oncol 20 (8): 1101-1112, 2018. [PUBMED Abstract]\n- Grob S, Mirsky DM, Donson AM, et al.: Targeting IL-6 Is a Potential Treatment for Primary Cystic Craniopharyngioma. Front Oncol 9: 791, 2019. [PUBMED Abstract]\n- Donson AM, Apps J, Griesinger AM, et al.: Molecular Analyses Reveal Inflammatory Mediators in the Solid Component and Cyst Fluid of Human Adamantinomatous Craniopharyngioma. J Neuropathol Exp Neurol 76 (9): 779-788, 2017. [PUBMED Abstract]"
+        },
+        {
+          "section": "Late Effects in Patients Treated for Childhood Craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Late Effects in Patients Treated for Childhood Craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Quality-of-life issues are important to pediatric patients with craniopharyngiomas and are difficult to generalize because of the various treatment modalities. In one series of 261 patients diagnosed with craniopharyngiomas before 2000, hypothalamic involvement was associated with lower overall survival (OS), impaired quality of life, and severe obesity.[ 1 ][ Level of evidence C1 ] Other studies investigating quality of life in large, multi-institutional cohorts have correlated worse quality-of-life outcomes with variables such as older age at diagnosis, hypothalamic involvement, degree of postoperative hypothalamic injury, and degree of tumor resection.[ 2 , 3 ] Regardless of therapy, most patients with craniopharyngiomas experience long-term effects from the tumor and associated therapies.[ 2 - 6 ][ Level of evidence B3 ]\nLate effects of treatment for childhood craniopharyngioma include the following:\n- Behavioral issues and memory deficits. Although intelligence quotient is usually maintained, behavioral issues and other cognitive domains such as memory, executive function, and attention are commonly impacted.[ 4 , 6 - 8 ] Memory and neurocognitive effects may be mitigated by the use of proton radiation therapy and conformal plans to avoid surrounding normal brain anatomy such as the hypothalamus and hippocampus.[ 9 ]; [ 10 ][ Level of evidence B3 ]\n- Visual disturbances. Visual disturbances, including visual field and acuity defects, have been reported. These deficits may be decreased with less aggressive surgical approaches or radiation therapy alone.[ 11 ][ Level of evidence C1 ]; [ 6 , 10 ]\n- Endocrine abnormalities. Endocrine abnormalities result in the almost universal need for lifelong endocrine replacement with multiple pituitary hormones.[ 5 , 8 ]; [ 12 - 14 ][ Level of evidence C1 ] Similar to visual disturbances, endocrine injury can be offset by limited surgical resection [ 5 , 6 , 15 - 17 ] and intracystic therapies that minimize invasive interventions.[ 18 ]\n- Decreased height. Growth hormone replacement therapy is used to improve growth in children treated for craniopharyngiomas. Growth hormone replacement initiated in childhood results in increases in height without impact on OS and progression-free survival when compared with children who did not receive growth hormone.[ 19 ][ Level of evidence C1 ]; [ 20 ] Growth hormone administration beginning 1 year after diagnosis may be associated with early improvements in quality of life when measured at 3 years postdiagnosis.[ 21 ][ Level of evidence C1 ] Published consensus guidelines do not support an increased risk of recurrence with use of growth hormones. They recommend considering growth hormone replacement therapy as early as 3 months after completing cancer therapy in patients who have stable disease and significant growth deficits.[ 22 ][ Level of evidence D ]\n- Obesity. Obesity, which can be life-threatening, and the development of metabolic syndrome, including nonalcoholic fatty liver disease, can occur.[ 23 , 24 ] Children who undergo complete resection or subtotal resection may develop obesity, suggesting that a predilection to obesity may be a component of the disease itself, not the result of direct hypothalamic injury.[ 25 ][ Level of evidence C1 ] Severe obesity seen in patients with craniopharyngiomas is more likely a result of a combination of factors such as tumor location and treatment characteristics, with multifaceted downstream impacts.[ 26 ][ Level of evidence C1 ] In a study of 709 patients with craniopharyngiomas, posterior hypothalamic involvement or operative injury to the posterior hypothalamus appeared to be a key factor in the development of severe obesity.[ 3 ]\n- Vasculopathies and stroke. Vasculopathies and subsequent strokes may result from local irradiation.[ 27 , 28 ] Previous studies have suggested that long-term growth hormone replacement may reduce the risk of stroke. Studies have also shown that pretreatment characteristics such as existing vascular injury, vessel location in the surgical field, and larger radiation doses to vascular structures increase the risk of long-term vessel stenosis.[ 28 ]; [ 29 ][ Level of evidence C1 ] In a study of 94 pediatric patients with craniopharyngiomas who were treated with surgery and 54 Gy of proton therapy, the strongest predictor of postradiation therapy vasculopathy was preexisting vasculopathy.[ 29 ] The impact of proton radiation therapy was negligible within the operative corridor. Despite the high incidence (n = 27, 28.7%) of imaging-only evidence of subclinical stenosis events, only five patients required a revascularization procedure. In one of these patients, high-grade stenosis was present before radiation therapy. Two patients had previous tumor recurrences that required multiple resections before radiation therapy.\n- Subsequent neoplasms. Subsequent neoplasms may result from local irradiation.[ 27 ] Secondary malignancies related to radiation therapy that specifically involve the pituitary/sellar region can range from malignant tumors, such as high-grade gliomas, to meningiomas. This risk is increased in patients who are younger at the time of radiation therapy.[ 30 ]\nFor information about the incidence, type, and monitoring of late effects in childhood and adolescent cancer survivors, see Late Effects of Treatment for Childhood Cancer ."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Late Effects in Patients Treated for Childhood Craniopharyngioma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 30,
+          "text": "- Sterkenburg AS, Hoffmann A, Gebhardt U, et al.: Survival, hypothalamic obesity, and neuropsychological/psychosocial status after childhood-onset craniopharyngioma: newly reported long-term outcomes. Neuro Oncol 17 (7): 1029-38, 2015. [PUBMED Abstract]\n- Eveslage M, Calaminus G, Warmuth-Metz M, et al.: The Postopera tive Quality of Life in Children and Adolescents with Craniopharyngioma. Dtsch Arztebl Int 116 (18): 321-328, 2019. [PUBMED Abstract]\n- Beckhaus J, Friedrich C, Boekhoff S, et al.: Outcome after pediatric craniopharyngioma: the role of age at diagnosis and hypothalamic damage. Eur J Endocrinol 188 (3): , 2023. [PUBMED Abstract]\n- Apps JR, Muller HL, Hankinson TC, et al.: Contemporary Biological Insights and Clinical Management of Craniopharyngioma. Endocr Rev 44 (3): 518-538, 2023. [PUBMED Abstract]\n- Müller HL: Childhood craniopharyngioma: current controversies on management in diagnostics, treatment and follow-up. Expert Rev Neurother 10 (4): 515-24, 2010. [PUBMED Abstract]\n- Bogusz A, Müller HL: Childhood-onset craniopharyngioma: latest insights into pathology, diagnostics, treatment, and follow-up. Expert Rev Neurother 18 (10): 793-806, 2018. [PUBMED Abstract]\n- Winkfield KM, Tsai HK, Yao X, et al.: Long-term clinical outcomes following treatment of childhood craniopharyngioma. Pediatr Blood Cancer 56 (7): 1120-6, 2011. [PUBMED Abstract]\n- Giese H, Haenig B, Haenig A, et al.: Neurological and neuropsychological outcome after resection of craniopharyngiomas. J Neurosurg 132 (5): 1425-1434, 2019. [PUBMED Abstract]\n- Özyurt J, Thiel CM, Lorenzen A, et al.: Neuropsychological outcome in patients with childhood craniopharyngioma and hypothalamic involvement. J Pediatr 164 (4): 876-881.e4, 2014. [PUBMED Abstract]\n- Merchant TE, Hoehn ME, Khan RB, et al.: Proton therapy and limited surgery for paediatric and adolescent patients with craniopharyngioma (RT2CR): a single-arm, phase 2 study. Lancet Oncol 24 (5): 523-534, 2023. [PUBMED Abstract]\n- Wan MJ, Zapotocky M, Bouffet E, et al.: Long-term visual outcomes of craniopharyngioma in children. J Neurooncol 137 (3): 645-651, 2018. [PUBMED Abstract]\n- Vinchon M, Weill J, Delestret I, et al.: Craniopharyngioma and hypothalamic obesity in children. Childs Nerv Syst 25 (3): 347-52, 2009. [PUBMED Abstract]\n- Dolson EP, Conklin HM, Li C, et al.: Predicting behavioral problems in craniopharyngioma survivors after conformal radiation therapy. Pediatr Blood Cancer 52 (7): 860-4, 2009. [PUBMED Abstract]\n- Kawamata T, Amano K, Aihara Y, et al.: Optimal treatment strategy for craniopharyngiomas based on long-term functional outcomes of recent and past treatment modalities. Neurosurg Rev 33 (1): 71-81, 2010. [PUBMED Abstract]\n- Müller HL: Consequences of craniopharyngioma surgery in children. J Clin Endocrinol Metab 96 (7): 1981-91, 2011. [PUBMED Abstract]\n- Marcus HJ, Rasul FT, Hussein Z, et al.: Craniopharyngioma in children: trends from a third consecutive single-center cohort study. J Neurosurg Pediatr 25 (3): 242-250, 2019. [PUBMED Abstract]\n- Clark AJ, Cage TA, Aranda D, et al.: Treatment-related morbidity and the management of pediatric craniopharyngioma: a systematic review. J Neurosurg Pediatr 10 (4): 293-301, 2012. [PUBMED Abstract]\n- Lohkamp LN, Kasper EM, Pousa AE, et al.: An update on multimodal management of craniopharyngioma in children. Front Oncol 13: 1149428, 2023. [PUBMED Abstract]\n- Boekhoff S, Bogusz A, Sterkenburg AS, et al.: Long-term Effects of Growth Hormone Replacement Therapy in Childhood-onset Craniopharyngioma: Results of the German Craniopharyngioma Registry (HIT-Endo). Eur J Endocrinol 179 (5): 331-341, 2018. [PUBMED Abstract]\n- Nguyen Quoc A, Beccaria K, González Briceño L, et al.: GH and Childhood-onset Craniopharyngioma: When to Initiate GH Replacement Therapy? J Clin Endocrinol Metab 108 (8): 1929-1936, 2023. [PUBMED Abstract]\n- Heinks K, Boekhoff S, Hoffmann A, et al.: Quality of life and growth after childhood craniopharyngioma: results of the multinational trial KRANIOPHARYNGEOM 2007. Endocrine 59 (2): 364-372, 2018. [PUBMED Abstract]\n- Boguszewski MCS, Boguszewski CL, Chemaitilly W, et al.: Safety of growth hormone replacement in survivors of cancer and intracranial and pituitary tumours: a consensus statement. Eur J Endocrinol 186 (6): P35-P52, 2022. [PUBMED Abstract]\n- Elowe-Gruau E, Beltrand J, Brauner R, et al.: Childhood craniopharyngioma: hypothalamus-sparing surgery decreases the risk of obesity. J Clin Endocrinol Metab 98 (6): 2376-82, 2013. [PUBMED Abstract]\n- Hoffmann A, Bootsveld K, Gebhardt U, et al.: Nonalcoholic fatty liver disease and fatigue in long-term survivors of childhood-onset craniopharyngioma. Eur J Endocrinol 173 (3): 389-97, 2015. [PUBMED Abstract]\n- Tan TS, Patel L, Gopal-Kothandapani JS, et al.: The neuroendocrine sequelae of paediatric craniopharyngioma: a 40-year meta-data analysis of 185 cases from three UK centres. Eur J Endocrinol 176 (3): 359-369, 2017. [PUBMED Abstract]\n- Otte A, Müller HL: Childhood-onset Craniopharyngioma. J Clin Endocrinol Metab 106 (10): e3820-e3836, 2021. [PUBMED Abstract]\n- Kiehna EN, Merchant TE: Radiation therapy for pediatric craniopharyngioma. Neurosurg Focus 28 (4): E10, 2010. [PUBMED Abstract]\n- Lo AC, Howard AF, Nichol A, et al.: A Cross-Sectional Cohort Study of Cerebrovascular Disease and Late Effects After Radiation Therapy for Craniopharyngioma. Pediatr Blood Cancer 63 (5): 786-93, 2016. [PUBMED Abstract]\n- Lucas JT, Faught AM, Hsu CY, et al.: Pre- and Posttherapy Risk Factors for Vasculopathy in Pediatric Patients With Craniopharyngioma Treated With Surgery and Proton Radiation Therapy. Int J Radiat Oncol Biol Phys 113 (1): 152-160, 2022. [PUBMED Abstract]\n- Burman P, van Beek AP, Biller BM, et al.: Radiotherapy, Especially at Young Age, Increases the Risk for De Novo Brain Tumors in Patients Treated for Pituitary/Sellar Lesions. J Clin Endocrinol Metab 102 (3): 1051-1058, 2017. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (11/26/2024)",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (11/26/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nTreatment of Newly Diagnosed Childhood Craniopharyngioma\nAdded text to state that a report from the prospective registry study KiProReg examined the use of proton-beam therapy in 84 children younger than 18 years with craniopharyngioma. The estimated 3-year overall survival rate was 98.2%, and the progression-free survival rate was 94.7%. With a median follow-up of 4.3 years, late toxicities appeared acceptable. Sixty-three of the patients were treated with pencil-beam scanning, which is considered an advancement in proton technology (cited Bischoff et al. as reference 43).\nLate Effects in Patients Treated for Childhood Craniopharyngioma\nAdded Nguyen Quoc et al. as reference 20 .\nThis summary is written and maintained by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of childhood craniopharyngioma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 13,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Childhood Craniopharyngioma Treatment are:\n- Kenneth J. Cohen, MD, MBA (Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins Hospital)\n- Karen J. Marcus, MD, FACR (Dana-Farber of Boston Children's Cancer Center and Blood Disorders Harvard Medical School)\n- Roger J. Packer, MD (Children's National Hospital)\n- D. Williams Parsons, MD, PhD (Texas Children's Hospital)\n- Malcolm A. Smith, MD, PhD (National Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Pediatric Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Craniopharyngioma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/brain/hp/child-cranio-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389330]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Craniopharyngioma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\0cd65ffd11900bf24f87.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Childhood Craniopharyngioma",
+      "title": "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+      "summary_name": "Childhood Craniopharyngioma",
+      "url": "https://www.cancer.gov/types/brain/patient/child-cranio-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "April 3, 2025",
+      "retrieved_at": "2026-08-31T07:08:58.015645+00:00",
+      "content_sha256": "cc7fe32629a6ae7a717a279c8b89b857e5a555e26519e3819358eda1c28b3d23",
+      "section_count": 32,
+      "sections": [
+        {
+          "section": "What is childhood craniopharyngioma?",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "What is childhood craniopharyngioma?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Childhood craniopharyngioma is a rare tumor usually found near the pituitary gland (a pea-sized organ at the bottom of the brain that controls other glands) and the hypothalamus (a small cone-shaped organ connected to the pituitary gland by nerves). Craniopharyngiomas can occur at any age but are most often diagnosed in children aged 5 to 14 years and older adults. They are rare in children younger than 2.\nCraniopharyngiomas are usually part solid mass and part fluid-filled cyst. They are not cancer and do not spread to other parts of the brain or other parts of the body. However, they can grow and press on nearby parts of the brain, such as the pituitary gland. Or they may press on other areas, such as:\n- the optic chiasm\n- the optic nerves\n- the fluid-filled spaces in the brain\nCraniopharyngiomas may affect many brain functions, including hormone production, growth, and vision. Treatments help stop the tumor from pushing on other areas of the brain."
+        },
+        {
+          "section": "Causes and risk factors for childhood craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Causes and risk factors for childhood craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Craniopharyngioma is caused by certain changes to the way the brain cells function, especially how they grow and divide into new cells. Often, the exact cause of these changes is unknown.\nThere are no known risk factors for childhood craniopharyngioma."
+        },
+        {
+          "section": "Symptoms of childhood craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Symptoms of childhood craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "The symptoms of childhood craniopharyngioma depend on where the tumor grows in the brain. It's important to check with your child's doctor if your child has:\n- headaches, including morning headache or headache that goes away after vomiting\n- vision changes\n- nausea and vomiting\n- loss of balance or trouble walking\n- unusual sleepiness or change in energy level\n- changes in personality or behavior\n- an increase in thirst or urination\n- a short stature or slow growth\n- weight gain\n- hearing loss\n- early or late puberty\nThese symptoms may be caused by problems other than craniopharyngioma. The only way to know is for your child to see a doctor.\nSome symptoms caused by the tumor may continue for months or years after treatment. It is important to talk with your child's doctors about problems that may continue after treatment."
+        },
+        {
+          "section": "Tests to diagnose childhood craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "If your child has symptoms that suggest a craniopharyngioma, the doctor will need to find out if they are due to a tumor or another problem. The doctor will ask when the symptoms started and how often your child has been having them. They will also ask about your child's personal and family medical history and do a physical exam , including a neurologic exam. Depending on these results, they may recommend other tests. If your child is diagnosed with craniopharyngioma, the results of these tests will help you and your child's doctor plan treatment.\nThe tests to diagnose craniopharyngioma may include:"
+        },
+        {
+          "section": "Visual field exam",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood craniopharyngioma",
+            "Visual field exam"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A visual field exam checks a person’s field of vision (the total area in which objects can be seen). This test measures both central vision (how much a person can see when looking straight ahead) and peripheral vision (how much a person can see in all other directions while staring straight ahead). Any loss of vision may be a sign of a tumor that has damaged or pressed on the parts of the brain that affect eyesight."
+        },
+        {
+          "section": "CT scan (CAT scan)",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood craniopharyngioma",
+            "CT scan (CAT scan)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "CT scan uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body. The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more about Computed Tomography (CT) Scans and Cancer ."
+        },
+        {
+          "section": "Magnetic resonance imaging (MRI) with gadolinium",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood craniopharyngioma",
+            "Magnetic resonance imaging (MRI) with gadolinium"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "MRI uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas inside the body, such as the brain and the spine. A substance called gadolinium is injected into a vein. The gadolinium collects around the tumor cells so they show up brighter in the picture. This procedure is also called nuclear magnetic resonance imaging (NMRI)."
+        },
+        {
+          "section": "Blood hormone studies",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood craniopharyngioma",
+            "Blood hormone studies"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Blood hormone studies use a blood sample to measure the amounts of certain hormones released into the blood by organs and tissues in the body. If the amount of a hormone is higher or lower than normal, it can be a sign of disease in the organ or tissue that makes it. For craniopharyngioma, the blood may be checked for unusual levels of thyroid-stimulating hormone (TSH) or adrenocorticotropic hormone (ACTH). These hormones are made by the pituitary gland."
+        },
+        {
+          "section": "Biopsy",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood craniopharyngioma",
+            "Biopsy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "If the CT scan or MRI show there may be a brain tumor, your child will have a biopsy to remove a sample of the tumor.\nTypes of biopsy that may be used to take the sample of tissue include:\n- Open biopsy: A surgeon inserts a hollow needle through a hole in the skull into the brain.\n- Computer-guided needle biopsy: A surgeon inserts a hollow needle guided by a computer through a small hole in the skull into the brain.\n- Transsphenoidal biopsy: The surgeon inserts instruments through the nose and sphenoid bone (a butterfly-shaped bone at the base of the skull) and into the brain.\nA pathologist views the tissue under a microscope to look for tumor cells. If they find tumor cells, the surgeon will remove as much tumor as safely possible during the same surgery."
+        },
+        {
+          "section": "Immunohistochemistry",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood craniopharyngioma",
+            "Immunohistochemistry"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Immunohistochemistry uses antibodies to check for certain antigens (markers) in a sample of a patient’s cells or tissue. The antibodies are usually linked to an enzyme or a fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and to help tell one type of cancer from another type of cancer."
+        },
+        {
+          "section": "Getting a second opinion",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Getting a second opinion"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your child's diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report, slides, and scans. This doctor may agree with the first doctor, suggest changes to the treatment plan, or provide more information about your child's tumor.\nTo learn more about choosing a doctor and getting a second opinion, visit Finding Cancer Care . You can contact NCI's Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor or hospital that can provide a second opinion. For questions you might want to ask at your child's appointments, visit Questions to Ask Your Doctor about Cancer ."
+        },
+        {
+          "section": "Who treats children with craniopharyngioma?",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Types of treatment for childhood craniopharyngioma",
+            "Who treats children with craniopharyngioma?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "A pediatric oncologist, a doctor who specializes in treating children with cancer, oversees treatment for childhood craniopharyngioma. The pediatric oncologist works with other health care providers who are experts in treating children with brain tumors and who specialize in certain areas of medicine. Other specialists may include:\n- pediatrician\n- neurosurgeon\n- radiation oncologist\n- neurologist\n- endocrinologist\n- ophthalmologist\n- rehabilitation specialist\n- psychologist\n- social worker\n- nurse specialist\nThere are different types of treatment for children and adolescents with craniopharyngioma. Although craniopharyngioma is not cancer, treatment is often similar to cancer treatment and may include surgery, radiation therapy, and other approaches. You and your child's care team will work together to decide treatment. Many factors will be considered, such as your child's age and overall health, where the tumor is located and whether it has spread into nearby tissue, and the possible side effects and late effects of treatment.\nYour child's treatment plan will include information about the tumor, the goals of treatment, treatment options, and the possible side effects. It will be helpful to talk with your child's care team before treatment begins about what to expect. For help every step of the way, visit our booklet, Children with Cancer: A Guide for Parents .\nTypes of treatment your child might have include:"
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Types of treatment for childhood craniopharyngioma",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The type of surgery your child will have depends on the size of the tumor, where it is in the brain, and whether it has grown into nearby tissue in a finger-like way. It also depends on expected late effects that may occur after surgery.\nThe types of surgery that may be used to remove the tumor that can be seen with the eye include:\n- Transsphenoidal surgery is a type of surgery in which a surgeon inserts instruments into the brain by going through a cut made under the upper lip or at the bottom of the nose between the nostrils. Then they go through the sphenoid bone (a butterfly-shaped bone at the base of the skull) to reach the tumor near the pituitary gland and hypothalamus. Enlarge Transsphenoidal surgery. An endoscope and a curette are inserted through the nose and sphenoid sinus to remove the tumor.\n- A craniotomy is surgery to remove the tumor through an opening made in the skull. Enlarge Craniotomy. An opening is made in the skull and a piece of the skull is removed to show part of the brain.\nTo help make a diagnosis, sometimes the surgeon will remove only part of the tumor. If a tumor is near the pituitary gland or hypothalamus, it will not be removed. Leaving the tumor helps reduce serious side effects from the surgery.\nSometimes, the surgeon will remove all of the tumor that they can see and no further treatment is needed. At other times, they may not be able to remove the tumor because it is growing into or pressing on nearby organs."
+        },
+        {
+          "section": "Surgery for cysts",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Types of treatment for childhood craniopharyngioma",
+            "Surgery for cysts"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "If your child's tumor is mostly a fluid-filled cyst, they may have surgery to drain it. Draining it lowers the pressure in the brain and relieves symptoms.\nA surgery called a partial resection can be used to remove fluid from cystic craniopharyngiomas. Or a thin tube called a catheter can be inserted into the cyst, and a small container placed under the skin. The fluid drains into the container and is later removed.\nSometimes, after the cyst is drained, a drug is put through the catheter into the cyst. This causes the inside wall of the cyst to scar and stops the cyst from making fluid. Or it can slow down how long it takes for the fluid to build up again. Surgery to remove the tumor or radiation therapy may be done after the cyst is drained."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Types of treatment for childhood craniopharyngioma",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Radiation therapy uses high-energy x-rays or other types of radiation to kill tumor cells or keep them from growing. It is often given after surgery to kill any tumor that is left in the brain.\nBoth external radiation therapy and internal radiation therapy (also called brachytherapy) are used to treat craniopharyngiomas.\n- External radiation therapy uses a machine outside the body to send radiation toward the area of the body with the tumor.\n- Internal radiation therapy uses a radioactive substance sealed in needles, seeds , wires, or catheters that are placed directly into or near the tumor.\nRadiation therapy to the brain can affect growth and development in young children, so ways of giving radiation therapy that have fewer side effects are often used. These include:\n- Stereotactic radiosurgery may be used for very small craniopharyngiomas at the base of the brain. For this treatment, a rigid head frame is attached to the skull to keep the head still during the treatment. Then, a machine aims a single large dose of radiation directly at the tumor. This procedure is a type of radiation therapy and does not involve surgery. It is also called stereotaxic radiosurgery, radiosurgery, and radiation surgery.\n- Intracavitary radiation therapy is a type of internal radiation therapy that may be used in tumors that are part solid mass and part fluid-filled cyst. For this treatment, radioactive material is placed inside the tumor. This type of radiation therapy causes less damage to the nearby hypothalamus and optic nerves.\n- Intensity-modulated photon therapy is a type of radiation therapy that uses x-rays or gamma rays that come from a special machine called a linear accelerator (linac) to kill tumor cells. A computer is used to target the exact shape and location of the tumor. Then thin beams of photons of different strengths are aimed at the tumor from many angles. This type of 3-dimensional radiation therapy may cause less damage to healthy tissue in the brain and other parts of the body.\n- Proton-beam radiation therapy is a type of radiation therapy that uses streams of protons (tiny particles with a positive charge) to kill tumor cells. This treatment can reduce the amount of radiation damage to healthy tissue near a tumor.\nLearn more about Radiation Therapy to Treat Cancer ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Types of treatment for childhood craniopharyngioma",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of tumor cells. Chemotherapy either kills the tumor cells or stops them from dividing.\nChemotherapy can be placed directly into a cavity , such as a cyst. This way of giving chemotherapy is intracavitary chemotherapy. Bleomycin is a type of chemotherapy that can be placed directly into a cystic craniopharyngioma.\nLearn more about Chemotherapy to Treat Cancer ."
+        },
+        {
+          "section": "Observation",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Types of treatment for childhood craniopharyngioma",
+            "Observation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Observation means that your child's condition is closely watched without receiving treatment until symptoms appear or change."
+        },
+        {
+          "section": "Clinical trials",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Types of treatment for childhood craniopharyngioma",
+            "Clinical trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some children, joining a clinical trial may be an option. There are different types of clinical trials for childhood cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your child's age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment of newly diagnosed childhood craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Types of treatment for childhood craniopharyngioma",
+            "Treatment of newly diagnosed childhood craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment of newly diagnosed childhood craniopharyngioma may include:\n- complete removal of the tumor with surgery with or without radiation therapy\n- partial removal of the tumor with surgery followed by radiation therapy\n- cyst drainage, followed by observation, radiation therapy, or surgery\n- brachytherapy or chemotherapy placed directly in the cyst or tumor\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of progressive or recurrent childhood craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Types of treatment for childhood craniopharyngioma",
+            "Treatment of progressive or recurrent childhood craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Treatment options for progressive or recurrent childhood craniopharyngioma depend on the type of treatment that your child received when the tumor was first diagnosed and your child's needs.\nTreatment may include:\n- surgery\n- external-beam radiation therapy\n- brachytherapy or intracavitary chemotherapy\n- observation\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Prognostic factors for childhood craniopharyngioma",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Prognostic factors for childhood craniopharyngioma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "If your child has been diagnosed with craniopharyngioma, you likely have questions about how serious the tumor is and your child's chances of survival. The likely outcome or course of a disease is called prognosis.\nThe prognosis depends on:\n- the size of the tumor\n- where the tumor is in the brain\n- whether there are tumor cells left after surgery\n- your child's age\n- side effects that may occur months or years after treatment\n- whether the tumor has just been diagnosed or has recurred (come back)\nNo two people are alike, and responses to treatment can vary greatly. While the prognosis for childhood craniopharyngioma is generally good, the tumor often comes back after surgery. Your child's treatment team is in the best position to talk with you about your child's prognosis."
+        },
+        {
+          "section": "Side effects and late effects of treatment",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Side effects and late effects of treatment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "Cancer treatments used for craniopharyngioma can cause side effects. Which side effects your child might have depends on the type of treatment they receive, the dose, and how their body reacts. Talk with your child's treatment team about which side effects to look for and ways to manage them.\nTo learn more about side effects that begin during treatment for cancer, visit Side Effects .\nProblems from treatment that begin 6 months or later after treatment and continue for months or years are called late effects. Late effects of treatment may include:\n- seizures\n- bone and muscle growth and development\n- behavior problems\n- changes in mood, feelings, thinking, learning, or memory\n- second cancers (new types of cancer)\nSerious physical problems may occur if the pituitary gland, hypothalamus, optic nerves, or carotid artery are affected during surgery or radiation therapy. These problems include:\n- obesity\n- metabolic syndrome , including fatty liver disease not caused by drinking alcohol\n- vision problems, including blindness\n- blood vessel problems or stroke\n- loss of the ability to make certain hormones\nSome late effects may be treated or controlled. Your child may need life-long hormone replacement therapy with several medicines. It is important to talk with your child's doctors about the effects treatment can have on your child. Learn more about Late Effects of Treatment for Childhood Cancer ."
+        },
+        {
+          "section": "Follow-up care",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Follow-up care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Some of the tests that were done to diagnose the disease or decide how to treat it may be repeated. Some tests will be repeated in order to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your child's condition has changed. These tests are sometimes called follow-up tests or check-ups.\nAfter treatment, follow-up testing with MRI will be done for several years to check if the tumor has come back."
+        },
+        {
+          "section": "Coping with your child's diagnosis",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Coping with your child's diagnosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "When your child has a tumor, every member of the family needs support. Taking care of yourself during this difficult time is important. Reach out to your child’s treatment team and to people in your family and community for support. To learn more, visit Support for Families When a Child Has Cancer and the booklet Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Related resources",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "Related resources"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "For more childhood cancer information and other general cancer resources, visit:\n- Pediatric Brain Tumor Consortium (PBTC)\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Adolescents and Young Adults with Cancer\n- Cancer in Children and Adolescents\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of childhood craniopharyngioma. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood Craniopharyngioma. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/brain/patient/child-cranio-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389237]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood Craniopharyngioma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\21bbf8673e9cbdf3d739.html"
+    }
+  ]
+}

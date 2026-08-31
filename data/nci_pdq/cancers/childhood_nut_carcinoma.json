@@ -1,0 +1,498 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Childhood NUT Carcinoma",
+  "generated_at": "2026-08-31T07:15:23.143112+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Childhood NUT Carcinoma",
+      "title": "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Childhood NUT Carcinoma Treatment",
+      "url": "https://www.cancer.gov/types/midline/hp-child-midline-tract-carcinoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "August 7, 2024",
+      "retrieved_at": "2026-08-31T07:12:43.007790+00:00",
+      "content_sha256": "6a246a21439bb25eff36824c998ac536970022735e9855d154cc2e3bc1e2e6bf",
+      "section_count": 18,
+      "sections": [
+        {
+          "section": "Clinical Presentation",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Clinical Presentation"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Childhood nuclear protein of the testis (NUT) carcinomas (also known as midline tract carcinomas) arise in midline epithelial structures, typically the mediastinum and upper aerodigestive tract. These tumors present as very aggressive, undifferentiated carcinomas, with or without squamous differentiation.[ 1 , 2 ]\nAlthough the original description of this neoplasm was reported in children and young adults, individuals of all ages can be affected.[ 3 ] A retrospective series with clinicopathological correlation of 54 patients found that the median age at diagnosis was 16 years (range, 0.1–78 years).[ 4 ] One study identified 11 patients younger than 18 years with NUT carcinoma in a German registry.[ 5 ] The median age was 13.2 years (range, 6.6–17.8 years). Thoracic and mediastinal tumors were found to be the primary site in six patients, head and neck tumors were the primary site in four patients, and one patient had a multifocal tumor with an unknown primary. All patients presented with regional lymph node involvement, and eight patients (72.7%) had distant metastases. Despite treatment with multiple therapies, the median event-free survival was 1.5 months, and the overall survival was 6.5 months."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Clinical Presentation",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- French CA, Kutok JL, Faquin WC, et al.: Midline carcinoma of children and young adults with NUT rearrangement. J Clin Oncol 22 (20): 4135-9, 2004. [PUBMED Abstract]\n- Chau NG, Hurwitz S, Mitchell CM, et al.: Intensive treatment and survival outcomes in NUT midline carcinoma of the head and neck. Cancer 122 (23): 3632-3640, 2016. [PUBMED Abstract]\n- French CA: NUT midline carcinoma. Cancer Genet Cytogenet 203 (1): 16-20, 2010. [PUBMED Abstract]\n- Bauer DE, Mitchell CM, Strait KM, et al.: Clinicopathologic features and long-term outcomes of NUT midline carcinoma. Clin Cancer Res 18 (20): 5773-9, 2012. [PUBMED Abstract]\n- Flaadt T, Wild H, Abele M, et al.: NUT carcinoma in pediatric patients: Characteristics, therapeutic regimens, and outcomes of 11 cases registered with the German Registry for Rare Pediatric Tumors (STEP). Pediatr Blood Cancer 71 (3): e30821, 2024. [PUBMED Abstract]"
+        },
+        {
+          "section": "Molecular Features",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Molecular Features"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "NUT carcinoma is a very rare and aggressive malignancy that is genetically defined by rearrangements of the NUTM1 gene. In most cases (75%), the NUTM1 gene on chromosome 15q14 is fused with the BRD4 gene on chromosome 19p13, creating chimeric genes that encode BRD4::NUT fusion proteins. In the remaining cases, NUTM1 is fused to other partners, most commonly BRD3 on chromosome 9q34 or NSD3 on chromosome 8p11.[ 1 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Molecular Features",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- French CA, Rahman S, Walsh EM, et al.: NSD3-NUT fusion oncoprotein in NUT midline carcinoma: implications for a novel oncogenic mechanism. Cancer Discov 4 (8): 928-41, 2014. [PUBMED Abstract]"
+        },
+        {
+          "section": "Prognosis",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Prognosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The outcomes of patients with NUT carcinomas are very poor, with a median survival of less than 1 year. Preliminary studies suggested that patients with NUT carcinomas without the typical BRD4 :: NUTM1 fusion gene may have a better prognosis than patients with other NUT carcinomas.[ 1 , 2 ] A retrospective analysis of 124 patients (including 47 patients younger than 18 years) reported that NUT carcinomas could be divided into three risk groups based on the anatomical location and specific NUTM1 fusion partner. The group with the best prognosis (median overall survival, 36.5 months) consisted of 12 patients (9.7%) with nonthoracic primary tumors and NUTM1 fusions with genes other than BRD4 .[ 3 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Prognosis",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- French CA, Kutok JL, Faquin WC, et al.: Midline carcinoma of children and young adults with NUT rearrangement. J Clin Oncol 22 (20): 4135-9, 2004. [PUBMED Abstract]\n- French CA: NUT midline carcinoma. Cancer Genet Cytogenet 203 (1): 16-20, 2010. [PUBMED Abstract]\n- Chau NG, Ma C, Danga K, et al.: An Anatomical Site and Genetic-Based Prognostic Model for Patients With Nuclear Protein in Testis (NUT) Midline Carcinoma: Analysis of 124 Patients. JNCI Cancer Spectr 4 (2): pkz094, 2020. [PUBMED Abstract]"
+        },
+        {
+          "section": "Special Considerations for the Treatment of Children With Cancer",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "Cancer in children and adolescents is rare, although the overall incidence has slowly increased since 1975.[ 1 ] Children and adolescents with cancer should be referred to medical centers that have a multidisciplinary team of cancer specialists with experience treating the cancers that occur during childhood and adolescence. This multidisciplinary team approach incorporates the skills of the following pediatric specialists and others to ensure that children receive treatment, supportive care, and rehabilitation to achieve optimal survival and quality of life:\n- Primary care physicians.\n- Pediatric surgeons.\n- Pathologists.\n- Pediatric radiation oncologists.\n- Pediatric medical oncologists and hematologists.\n- Ophthalmologists.\n- Rehabilitation specialists.\n- Pediatric oncology nurses.\n- Social workers.\n- Child-life professionals.\n- Psychologists.\n- Nutritionists.\nFor specific information about supportive care for children and adolescents with cancer, see the summaries on Supportive and Palliative Care .\nThe American Academy of Pediatrics has outlined guidelines for pediatric cancer centers and their role in the treatment of children and adolescents with cancer.[ 2 ] At these centers, clinical trials are available for most types of cancer that occur in children and adolescents, and the opportunity to participate is offered to most patients and their families. Clinical trials for children and adolescents diagnosed with cancer are generally designed to compare potentially better therapy with current standard therapy. Other types of clinical trials test novel therapies when there is no standard therapy for a cancer diagnosis. Most of the progress in identifying curative therapies for childhood cancers has been achieved through clinical trials. Information about ongoing clinical trials is available from the NCI website .\nDramatic improvements in survival have been achieved for children and adolescents with cancer. Between 1975 and 2020, childhood cancer mortality decreased by more than 50%.[ 3 - 5 ] Childhood and adolescent cancer survivors require close monitoring because side effects of cancer therapy may persist or develop months or years after treatment. For information about the incidence, type, and monitoring of late effects in childhood and adolescent cancer survivors, see Late Effects of Treatment for Childhood Cancer .\nChildhood cancer is a rare disease, with about 15,000 cases diagnosed annually in the United States in individuals younger than 20 years.[ 6 ] The U.S. Rare Diseases Act of 2002 defines a rare disease as one that affects populations smaller than 200,000 people in the United States. Therefore, all pediatric cancers are considered rare.\nThe designation of a rare tumor is not uniform among pediatric and adult groups. In adults, rare cancers are defined as those with an annual incidence of fewer than six cases per 100,000 people. They account for up to 24% of all cancers diagnosed in the European Union and about 20% of all cancers diagnosed in the United States.[ 7 , 8 ] In children and adolescents, the designation of a rare tumor is not uniform among international groups, as follows:\n- A consensus effort between the European Union Joint Action on Rare Cancers and the European Cooperative Study Group for Rare Pediatric Cancers estimated that 11% of all cancers in patients younger than 20 years could be categorized as very rare. This consensus group defined very rare cancers as those with annual incidences of fewer than two cases per 1 million people. However, three additional histologies (thyroid carcinoma, melanoma, and testicular cancer) with incidences of more than two cases per 1 million people were also included in the very rare group due to a lack of knowledge and expertise in the management of these tumors.[ 9 ]\n- The Children's Oncology Group defines rare pediatric cancers as those listed in the International Classification of Childhood Cancer subgroup XI, which includes thyroid cancers, melanomas and nonmelanoma skin cancers, and multiple types of carcinomas (e.g., adrenocortical carcinomas, nasopharyngeal carcinomas, and most adult-type carcinomas such as breast cancers and colorectal cancers).[ 10 ] These diagnoses account for about 5% of the cancers diagnosed in children aged 0 to 14 years and about 27% of the cancers diagnosed in adolescents aged 15 to 19 years.[ 4 ] Most cancers in subgroup XI are either melanomas or thyroid cancers, with other cancer types accounting for only 2% of the cancers diagnosed in children aged 0 to 14 years and 9.3% of the cancers diagnosed in adolescents aged 15 to 19 years.\nThese rare cancers are extremely challenging to study because of the relatively few patients with any individual diagnosis, the predominance of rare cancers in the adolescent population, and the small number of clinical trials for adolescents with rare cancers.\nInformation about these tumors may also be found in sources relevant to adults with cancer."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Special Considerations for the Treatment of Children With Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- Smith MA, Seibel NL, Altekruse SF, et al.: Outcomes for children and adolescents with cancer: challenges for the twenty-first century. J Clin Oncol 28 (15): 2625-34, 2010. [PUBMED Abstract]\n- American Academy of Pediatrics: Standards for pediatric cancer centers. Pediatrics 134 (2): 410-4, 2014. Also available online . Last accessed February 25, 2025.\n- Smith MA, Altekruse SF, Adamson PC, et al.: Declining childhood and adolescent cancer mortality. Cancer 120 (16): 2497-506, 2014. [PUBMED Abstract]\n- National Cancer Institute: NCCR*Explorer: An interactive website for NCCR cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed February 25, 2025.\n- Surveillance Research Program, National Cancer Institute: SEER*Explorer: An interactive website for SEER cancer statistics. Bethesda, MD: National Cancer Institute. Available online . Last accessed December 30, 2024.\n- Ward E, DeSantis C, Robbins A, et al.: Childhood and adolescent cancer statistics, 2014. CA Cancer J Clin 64 (2): 83-103, 2014 Mar-Apr. [PUBMED Abstract]\n- Gatta G, Capocaccia R, Botta L, et al.: Burden and centralised treatment in Europe of rare tumours: results of RARECAREnet-a population-based study. Lancet Oncol 18 (8): 1022-1039, 2017. [PUBMED Abstract]\n- DeSantis CE, Kramer JL, Jemal A: The burden of rare cancers in the United States. CA Cancer J Clin 67 (4): 261-272, 2017. [PUBMED Abstract]\n- Ferrari A, Brecht IB, Gatta G, et al.: Defining and listing very rare cancers of paediatric age: consensus of the Joint Action on Rare Cancers in cooperation with the European Cooperative Study Group for Pediatric Rare Tumors. Eur J Cancer 110: 120-126, 2019. [PUBMED Abstract]\n- Pappo AS, Krailo M, Chen Z, et al.: Infrequent tumor initiative of the Children's Oncology Group: initial lessons learned and their impact on future plans. J Clin Oncol 28 (33): 5011-6, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Childhood NUT Carcinoma",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood NUT Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Treatment options for childhood NUT carcinoma include the following:\n- Chemotherapy.\n- Surgery.\n- Radiation therapy.\nTreatment of childhood NUT carcinoma includes a multimodal approach with systemic chemotherapy, surgery, and radiation therapy. Cisplatin, taxanes, and alkylating agents have been used with some success. While early response to these agents is common, tumor progression occurs early in the course of the disease.[ 1 ]; [ 2 ][ Level of evidence C1 ]\nIn a report from the NUT Midline Carcinoma Registry, 40 patients with primary tumors in the head and neck were evaluable. The 2-year overall survival rate was 30%. The three long-term survivors (with survivals of 35, 72, and 78 months) underwent primary gross-total resection and received adjuvant therapy.[ 3 ]; [ 4 ][ Level of evidence C1 ]\nBecause of the presence of the BRD4 :: NUTM1 gene fusion in NUT carcinomas, there has been increased interest in evaluating BET bromodomain inhibitors for adults and children with this malignancy.[ 5 ] Unfortunately, activity for this class of agents has been limited in reported clinical trials:\n- In a phase I study of the BET inhibitor molibresib, confirmed objective responses were observed in 2 of the 19 patients who were treated with a daily dose of 60 mg or higher.[ 6 ]\n- A subsequent phase II study of molibresib used a daily dose of 75 mg in patients with NUT carcinomas. Only 1 of the 12 patients achieved an objective response, which did not meet the prespecified bar for activity.[ 7 ]\n- In a phase I study of the BET inhibitor birabresib, three of the nine patients achieved responses, but only one response lasted longer than 2 months.[ 8 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Childhood NUT Carcinoma",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- Lemelle L, Pierron G, Fréneaux P, et al.: NUT carcinoma in children and adults: A multicenter retrospective study. Pediatr Blood Cancer 64 (12): , 2017. [PUBMED Abstract]\n- Bauer DE, Mitchell CM, Strait KM, et al.: Clinicopathologic features and long-term outcomes of NUT midline carcinoma. Clin Cancer Res 18 (20): 5773-9, 2012. [PUBMED Abstract]\n- Sopfe J, Greffe B, Treece AL: Metastatic NUT Midline Carcinoma Treated With Aggressive Neoadjuvant Chemotherapy, Radiation, and Resection: A Case Report and Review of the Literature. J Pediatr Hematol Oncol 43 (1): e73-e75, 2021. [PUBMED Abstract]\n- Chau NG, Hurwitz S, Mitchell CM, et al.: Intensive treatment and survival outcomes in NUT midline carcinoma of the head and neck. Cancer 122 (23): 3632-3640, 2016. [PUBMED Abstract]\n- Pearson AD, DuBois SG, Buenger V, et al.: Bromodomain and extra-terminal inhibitors-A consensus prioritisation after the Paediatric Strategy Forum for medicinal product development of epigenetic modifiers in children-ACCELERATE. Eur J Cancer 146: 115-124, 2021. [PUBMED Abstract]\n- Piha-Paul SA, Hann CL, French CA, et al.: Phase 1 Study of Molibresib (GSK525762), a Bromodomain and Extra-Terminal Domain Protein Inhibitor, in NUT Carcinoma and Other Solid Tumors. JNCI Cancer Spectr 4 (2): pkz093, 2020. [PUBMED Abstract]\n- Cousin S, Blay JY, Garcia IB, et al.: Safety, pharmacokinetic, pharmacodynamic and clinical activity of molibresib for the treatment of nuclear protein in testis carcinoma and other cancers: Results of a Phase I/II open-label, dose escalation study. Int J Cancer 150 (6): 993-1006, 2022. [PUBMED Abstract]\n- Lewin J, Soria JC, Stathis A, et al.: Phase Ib Trial With Birabresib, a Small-Molecule Inhibitor of Bromodomain and Extraterminal Proteins, in Patients With Selected Advanced Solid Tumors. J Clin Oncol 36 (30): 3007-3014, 2018. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options Under Clinical Evaluation for Childhood NUT Carcinoma",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Treatment Options Under Clinical Evaluation for Childhood NUT Carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Information about National Cancer Institute (NCI)–supported clinical trials can be found on the NCI website . For information about clinical trials sponsored by other organizations, see the ClinicalTrials.gov website .\nThe following are examples of national and/or institutional clinical trials that are currently being conducted:\n- NCT05019716 (Testing the Safety and Efficacy of the Addition of A New Anti-cancer Drug, ZEN003694, to Chemotherapy Treatment [Etoposide and Cisplatin] for Adult and Pediatric Patients [Aged 12–17 Years] With NUT Carcinoma) : This phase I/II trial will determine the maximum tolerated dose of the BET bromodomain inhibitor ZEN-3694 added to cisplatin and etoposide to treat patients with NUT carcinoma. This trial will also evaluate the efficacy of this treatment regimen.\n- NCT05372640 (Testing the Safety and Efficacy of the Combination of Two Anticancer Drugs, ZEN003694 and Abemaciclib, for Adult and Pediatric Patients [Aged 12–17 years] With Metastatic or Unresectable NUT Carcinoma, Breast Cancer, and Other Solid Tumors) : This phase I trial will determine the maximum tolerated dose of the BET bromodomain inhibitor ZEN003694 given with abemaciclib to treat patients with metastatic or unresectable NUT carcinoma, breast cancer, or other solid tumors."
+        },
+        {
+          "section": "Latest Updates to This Summary (08/07/2024)",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (08/07/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nThis summary was comprehensively reviewed.\nThis summary is written and maintained by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of childhood NUT carcinoma. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 18,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Pediatric Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Childhood NUT Carcinoma Treatment are:\n- Denise Adams, MD (Children's Hospital Boston)\n- Karen J. Marcus, MD, FACR (Dana-Farber of Boston Children's Cancer Center and Blood Disorders Harvard Medical School)\n- William H. Meyer, MD\n- Paul A. Meyers, MD (Memorial Sloan-Kettering Cancer Center)\n- Thomas A. Olson, MD (Aflac Cancer and Blood Disorders Center of Children's Healthcare of Atlanta - Egleston Campus)\n- Alberto S. Pappo, MD (St. Jude Children's Research Hospital)\n- D. Williams Parsons, MD, PhD (Texas Children's Hospital)\n- Arthur Kim Ritchey, MD (Children's Hospital of Pittsburgh of UPMC)\n- Carlos Rodriguez-Galindo, MD (St. Jude Children's Research Hospital)\n- Stephen J. Shochat, MD (St. Jude Children's Research Hospital)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Pediatric Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood NUT Carcinoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/midline/hp-child-midline-tract-carcinoma-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 29337479]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood NUT Carcinoma Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\9ed11ee87d5718fa0d64.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Childhood NUT Carcinoma",
+      "title": "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+      "summary_name": "Childhood NUT Carcinoma",
+      "url": "https://www.cancer.gov/types/midline/patient-child-midline-tract-carcinoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "December 9, 2024",
+      "retrieved_at": "2026-08-31T07:12:43.925141+00:00",
+      "content_sha256": "ae08a47ad5a6c93996604acd020413e8b8464fba50ccc16dfeb9df0b719eda13",
+      "section_count": 23,
+      "sections": [
+        {
+          "section": "What is childhood NUT carcinoma?",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "What is childhood NUT carcinoma?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "NUT carcinoma (formerly called midline tract carcinoma) is a very rare and fast-growing type of cancer that can occur in children and adults. It forms in the squamous cells of the respiratory tract or other places along the middle of the body. The respiratory tract is made up of the nose, throat , larynx , trachea , bronchi , and lungs . NUT carcinoma may also form in other places along the middle of the body, such as the thymus , mediastinum (the area between the lungs), pancreas , liver , and bladder . It can spread to the lymph nodes, the lining around the lungs, bone marrow, or bone. Enlarge NUT carcinoma is a rare type of cancer that forms in the respiratory tract or in other places along the middle of the body, including the thymus, the area between the lungs, and the liver, pancreas, and bladder. It usually grows and spreads quickly and cannot be cured. NUT carcinoma usually occurs in children and young adults."
+        },
+        {
+          "section": "Causes and risk factors for childhood NUT carcinoma",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Causes and risk factors for childhood NUT carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Childhood NUT carcinoma is caused by a random change in genes, where part of the NUTM1 gene fuses with a part of another gene, usually BRD4 , BRD3 , or NSD3 . The exact cause of these gene changes is unknown.\nThere are no known risk factors for developing this rare cancer. It is not known to run in families."
+        },
+        {
+          "section": "Symptoms of childhood NUT carcinoma",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Symptoms of childhood NUT carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The symptoms of NUT carcinoma are not the same in every child. There may be no symptoms in the early stages. Symptoms such as fatigue and weight loss may appear as the tumor grows. Depending on where the tumor forms in the body, other symptoms—such as a lump, pain, cough, or shortness of breath—may occur.\nThese symptoms may be caused by problems other than childhood NUT carcinoma. The only way to know is to see your child's doctor."
+        },
+        {
+          "section": "Tests to diagnose childhood NUT carcinoma",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood NUT carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "If your child has symptoms that suggest a NUT carcinoma, their doctor will need to find out if these are due to cancer or another problem. The doctor will ask when the symptoms started and how often your child has been having them. They will also ask about your child's personal and family medical history and do a physical exam . Depending on these results, the doctor may recommend other tests. If your child is diagnosed with NUT carcinoma, the results of these tests will help you and your child's doctor plan treatment.\nThe tests used to diagnose childhood NUT carcinoma may include:"
+        },
+        {
+          "section": "Chest x-ray",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood NUT carcinoma",
+            "Chest x-ray"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "An x-ray is a type of radiation that can go through the body and onto film, making a picture of areas inside the body. A chest x-ray is one that makes pictures of the organs and bones inside the chest."
+        },
+        {
+          "section": "Magnetic resonance imaging (MRI)",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood NUT carcinoma",
+            "Magnetic resonance imaging (MRI)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "MRI uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas of the body, such as the head and neck. This procedure is also called nuclear magnetic resonance imaging (NMRI)."
+        },
+        {
+          "section": "CT scan (CAT scan)",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood NUT carcinoma",
+            "CT scan (CAT scan)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A CT scan uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body taken from different angles. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more about Computed Tomography (CT) Scans and Cancer . Enlarge Computed tomography (CT) scan of the head and neck. The child lies on a table that slides through the CT scanner, which takes a series of detailed x-ray pictures of the inside of the head and neck."
+        },
+        {
+          "section": "Biopsy",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Tests to diagnose childhood NUT carcinoma",
+            "Biopsy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Biopsy is a procedure in which a sample of tissue is removed from the tumor so that a pathologist can view it under a microscope to check for signs of cancer.\nThe following tests may be done on the sample of cells that was removed:\n- Immunohistochemistry is a laboratory test that uses antibodies to check for certain antigens (markers) in a sample of a patient's tissue. The antibodies are usually linked to an enzyme or a fluorescent dye. After the antibodies bind to a specific antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. This type of test is used to help diagnose cancer and to help tell one type of cancer from another type.\n- Cytogenetic analysis is a laboratory test in which the chromosomes of cells in a sample of bone marrow, blood, tumor, or other tissue are counted and checked for any changes, such as broken, missing, rearranged, or extra chromosomes. Changes in certain chromosomes may be a sign of cancer. Cytogenetic analysis is used to help diagnose cancer, plan treatment, or find out how well treatment is working. Other tests, such as fluorescence in situ hybridization (FISH), may also be done to look for certain changes in the chromosomes.\n- Molecular testing checks for certain genes, proteins, or other molecules in a sample of tissue, blood, or other body fluid. A molecular test may be done with other procedures, such as biopsies, to help diagnose some types of cancer. The Molecular Characterization Initiative offers free molecular testing to children, adolescents, and young adults with certain types of newly diagnosed cancer. The program is offered through NCI's Childhood Cancer Data Initiative. To learn more, visit About the Molecular Characterization Initiative ."
+        },
+        {
+          "section": "Getting a second opinion",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Getting a second opinion"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your child's diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report , slides, and scans. They may agree with the first doctor, suggest changes to the treatment plan, or provide more information about your child's cancer.\nTo learn more about choosing a doctor and getting a second opinion, see Finding Cancer Care . You can contact NCI's Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor or hospital that can provide a second opinion. For questions you might want to ask at your child's appointments, see Questions to Ask Your Doctor About Cancer ."
+        },
+        {
+          "section": "Who treats children with NUT carcinoma?",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Who treats children with NUT carcinoma?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "A pediatric oncologist, a doctor who specializes in treating children with cancer, oversees treatment for cancer. The pediatric oncologist works with other health care providers who are experts in treating children with cancer and also specialize in other areas of medicine. Other specialists may include:\n- pediatrician\n- pediatric surgeon\n- radiation oncologist\n- pathologist\n- pediatric nurse specialist\n- social worker\n- rehabilitation specialist\n- psychologist\n- child-life specialist"
+        },
+        {
+          "section": "Treatment of childhood NUT carcinoma",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Treatment of childhood NUT carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Because childhood NUT carcinoma is so rare, there is no standard treatment . Often, children receive a combination of treatments to try to control the growth and spread of the cancer:\n- When possible, surgery is done to remove as much of the tumor as possible.\n- Radiation therapy uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. Childhood NUT carcinoma is treated with external radiation therapy. This way of giving radiation uses a machine outside the body to send radiation toward the area of the body with cancer. Learn more about External Beam Radiation Therapy for Cancer and Radiation Therapy Side Effects .\n- Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells. Chemotherapy either kills the cells or stops them from dividing. Chemotherapy drugs such as cisplatin , taxanes , and alkylating agents may be used. Learn more about Chemotherapy to Treat Cancer .\nEven if the cancer responds to treatment, it will eventually continue to grow and spread. Your child's doctor will talk with you about what to expect and possible next steps. If there are no treatments, your child can receive care to control symptoms from cancer so they can be as comfortable as possible. Joining a clinical trial may be an option. Learn more about clinical trials in the next section."
+        },
+        {
+          "section": "Clinical trials",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Clinical trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some children, joining a clinical trial may be an option. There are different types of clinical trials for childhood cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your child's age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Follow-up care",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Follow-up care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As your child goes through treatment, they will have follow-up tests or check-ups. Some of the tests that were done to diagnose the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your child's condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Prognosis of childhood NUT carcinoma",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Prognosis of childhood NUT carcinoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If your child has been diagnosed with NUT carcinoma, you likely have questions about how serious the cancer is and your child's chances of survival. The likely outcome or course of a disease is called prognosis. Childhood NUT carcinoma grows and spreads quickly and is hard to treat. It is best to talk with your child's cancer care team about your child's prognosis."
+        },
+        {
+          "section": "Coping with your child's cancer",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Coping with your child's cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "When your child has cancer, every member of the family needs support. Taking care of yourself during this difficult time is important. Reach out to your child's treatment team and to people in your family and community for support. To learn more, see Support for Families: Childhood Cancer and the booklet Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Related resources",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "Related resources"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "For more childhood cancer information and other general cancer resources, see:\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Adolescents and Young Adults with Cancer\n- Cancer in Children and Adolescents\n- Coping with Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of childhood NUT carcinoma. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Childhood NUT Carcinoma. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/midline/patient-child-midline-tract-carcinoma-treatment-pdq . Accessed <MM/DD/YYYY>.\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Childhood NUT Carcinoma (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\9ded8f6ff13e15f589a4.html"
+    }
+  ]
+}

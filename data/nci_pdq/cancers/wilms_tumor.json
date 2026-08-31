@@ -1,0 +1,581 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Wilms Tumor",
+  "generated_at": "2026-08-31T07:15:23.583616+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Wilms Tumor",
+      "title": "Wilms Tumor (PDQ®)–Patient Version",
+      "summary_name": "Wilms Tumor",
+      "url": "https://www.cancer.gov/types/kidney/patient/wilms-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 12, 2025",
+      "retrieved_at": "2026-08-31T07:11:12.415050+00:00",
+      "content_sha256": "c3596c96c92c246c42251f5570916cd47081b7b7e380cb5bb044581db8374517",
+      "section_count": 50,
+      "sections": [
+        {
+          "section": "What is Wilms tumor?",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "What is Wilms tumor?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Wilms tumor (also called nephroblastoma) is the most common type of kidney cancer in children younger than 15 years. In the United States, about 650 children are diagnosed with it each year, and most are between the ages of 2 and 5 years. Wilms tumor can occur in older adolescents and adults, but this is rare.\nThe kidneys are bean-shaped organs located on either side of the spine , above the waist. Their main job is to remove waste and extra fluids from the body to make urine:\n- Tiny tubules in the kidneys filter and clean the blood.\n- Urine passes from each kidney through a thin tube called a ureter into the bladder.\n- The bladder stores the urine until it leaves the body through a tube called the urethra.\nWilms tumor can affect one or both kidneys. It may spread to other parts of the body, such as the lungs , liver , bone , brain , or lymph nodes .\nA rare type of Wilms tumor called cystic partially differentiated nephroblastoma is made of cysts and usually occurs in young children.\nDuring fetal development, some kidney cells may not develop normally. These abnormal groups of kidney cells may remain in one or both kidneys after birth, and in some cases, may lead to nephroblastomatosis (also called diffuse hyperplastic perilobar nephroblastomatosis ) or Wilms tumor. In nephroblastomatosis (a non-cancerous kidney condition), these abnormal groups of cells may grow in many places inside the kidney or make a thick layer around the kidney. These abnormal groups of cells most often occur in both kidneys. Although nephroblastomatosis is not cancer, it can develop into Wilms tumor if left untreated. If a child has one kidney removed because of Wilms tumor and doctors find nephroblastomatosis in the removed kidney, the child has a higher risk of Wilms tumor in the remaining kidney."
+        },
+        {
+          "section": "Causes and risk factors for Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Causes and risk factors for Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Wilms tumor is caused by certain changes to the way the kidney cells function, especially how they grow and divide into new cells. The exact cause of these changes is often unknown. Learn more about how cancer develops at What Is Cancer?\nA risk factor is anything that increases the chance of getting a disease. Not every child with one or more of these risk factors will develop a kidney tumor. And it will develop in some children who don't have a known risk factor.\nWilms tumor may be part of a genetic syndrome that affects growth or development. A genetic syndrome is a set of signs and symptoms or conditions that occur together and is caused by certain changes in the genes. Certain conditions or environmental exposures can also increase your child's risk of developing Wilms tumor. The following have been linked to Wilms tumor:\n- WAGR syndrome (also called WAGR spectrum) includes Wilms tumor, aniridia , abnormal genitourinary system , and mental developmental delays\n- Denys-Drash syndrome\n- Frasier syndrome\n- Beckwith-Wiedemann syndrome includes an abnormally large growth of one or more body parts, a large tongue, an umbilical hernia at birth, and an abnormal genitourinary system\n- a family history of Wilms tumor\n- aniridia (part or all of the iris , the colored part of the eye, is missing)\n- isolated hemihypertrophy , an abnormally large growth of one or more body parts\n- urinary tract problems, such as cryptorchidism or hypospadias\n- a mother being exposed to pesticides while she was pregnant\nTalk with your child's doctor if you think your child may be at risk."
+        },
+        {
+          "section": "Monitoring children at risk of Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Monitoring children at risk of Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Some children have a higher risk of Wilms tumor. Regular testing can help find cancer at an earlier stage and improve your child's chance of survival. If your child has a higher risk of Wilms tumor, they may have an abdominal ultrasound for Wilms tumor every 3 months until they are at least 8 years old. This test can find small Wilms tumors before symptoms occur."
+        },
+        {
+          "section": "Testing for children with Beckwith-Wiedemann syndrome or hemihypertrophy",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Monitoring children at risk of Wilms tumor",
+            "Testing for children with Beckwith-Wiedemann syndrome or hemihypertrophy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Children with Beckwith-Wiedemann syndrome or hemihypertrophy are at risk of tumors in the liver, adrenal glands, and kidneys. These children may receive testing to find Wilms tumor before symptoms occur. The testing schedule may include:\n- Until age 4 years, a blood test to check for alpha-fetoprotein (AFP) levels and an abdominal ultrasound.\n- For ages 4 to 8 years, an ultrasound of the kidneys and a physical exam by a geneticist or pediatric oncologist twice a year. Some children with certain gene changes may have a different schedule for an abdominal ultrasound."
+        },
+        {
+          "section": "Testing for children with aniridia",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Monitoring children at risk of Wilms tumor",
+            "Testing for children with aniridia"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Children with aniridia and a certain gene change may have an abdominal ultrasound every 3 months until age 8 years to look for Wilms tumor."
+        },
+        {
+          "section": "Testing for children at risk of Wilms tumor in the second kidney",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Monitoring children at risk of Wilms tumor",
+            "Testing for children at risk of Wilms tumor in the second kidney"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Some children are diagnosed with Wilms tumor in both kidneys at the same time. Wilms tumor may also occur in the second kidney after your child is successfully treated for Wilms tumor in one kidney. If your child is at risk of developing Wilms tumor in the second kidney, they should have an abdominal ultrasound every 3 months for up to 8 years to monitor for any new tumors."
+        },
+        {
+          "section": "Symptoms of Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Symptoms of Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Sometimes Wilms tumor causes symptoms. But sometimes a parent may notice a lump in their child's abdomen or notice that their child's stomach looks bigger than before. In some cases, a doctor finds the tumor during a routine check-up. It's important to check with your child's doctor if your child has:\n- a lump, swelling, or pain in the abdomen\n- blood in the urine\n- high blood pressure\n- fever for no known reason\n- loss of appetite\n- weight loss for no known reason\n- a cough\n- blood in the sputum\n- trouble breathing\n- chest pain\n- pain in the abdomen\n- fever\nThese symptoms may also be caused by other problems. The only way to know is for your child to see a doctor."
+        },
+        {
+          "section": "Diagnosis of Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Diagnosis of Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "If your child has symptoms that suggest Wilms tumor, the doctor will need to find out if these are due to cancer or another problem. The doctor will ask when the symptoms started and how often your child has been having them. The doctor will also ask about your child's personal and family medical history and do a physical exam . Depending on these results, they may recommend tests to find out if your child has Wilms tumor, and if so, its extent (stage)."
+        },
+        {
+          "section": "Tests to diagnose Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Diagnosis of Wilms tumor",
+            "Tests to diagnose Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The following tests may be used to diagnose Wilms tumor. The results of these tests will help plan treatment."
+        },
+        {
+          "section": "Lab tests",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Diagnosis of Wilms tumor",
+            "Tests to diagnose Wilms tumor",
+            "Lab tests"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Complete blood count (CBC) checks a sample of blood for:\n- the number of red blood cells , white blood cells , and platelets\n- the amount of hemoglobin (the protein that carries oxygen ) in the red blood cells\n- the amount of hematocrit (whole blood that is made up of red blood cells)\n- Blood chemistry study uses a blood sample to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual amount of a substance can be a sign that the liver and kidneys are not working as they should.\n- Renal function test uses a blood sample to measure the amounts of certain substances released into the blood by the kidneys. An unusual amount of a substance can be a sign that the kidneys are not working as they should.\n- Urinalysis checks the color of urine and its contents, such as sugar, protein, blood, and bacteria . An unusual amount of a substance can be a sign that the kidneys are not working as they should."
+        },
+        {
+          "section": "Imaging tests and procedures",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Diagnosis of Wilms tumor",
+            "Tests to diagnose Wilms tumor",
+            "Imaging tests and procedures"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "- Ultrasound uses high-energy sound waves (ultrasound) that bounce off internal tissues or organs and make echoes. The echoes form a picture of body tissues called a sonogram. An ultrasound of the abdomen is done to diagnose a kidney tumor. Enlarge Abdominal ultrasound. An ultrasound transducer connected to a computer is pressed against the skin of the abdomen. The transducer bounces sound waves off internal organs and tissues to make echoes that form a sonogram (computer picture).\n- CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body, such as the chest, abdomen, and pelvis . The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more about Computed Tomography (CT) Scans and Cancer . Enlarge Computed tomography (CT) scan. The child lies on a table that slides through the CT scanner, which takes a series of detailed x-ray pictures of areas inside the body.\n- Magnetic resonance imaging (MRI) with gadolinium uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas inside the body, such as the abdomen or pelvis. A substance called gadolinium is injected into a vein. The gadolinium collects around the cancer cells so they show up brighter in the picture. This procedure is also called nuclear magnetic resonance imaging (NMRI). Enlarge Magnetic resonance imaging (MRI) scan. The child lies on a table that slides into the MRI machine, which takes a series of detailed pictures of areas inside the body. The positioning of the child on the table depends on the part of the body being imaged.\n- X-ray is a type of radiation that can go through the body and make pictures of areas inside the body, such as the chest and abdomen.\n- PET-CT scan combines the pictures from a positron emission tomography (PET) scan and a computed tomography (CT) scan. The PET and CT scans are done at the same time on the same machine. The combined scans make more detailed pictures than either test would make by itself.\n- For the PET scan, a small amount of radioactive sugar (also called radioactive glucose) is injected into a vein. The PET scanner rotates around the body and makes pictures of where sugar is being used in the body. Cancer cells show up brighter in the picture because they are more active and take up more sugar than normal cells do.\n- For the CT scan (CAT scan), a series of detailed x-ray pictures are taken from different angles to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly.\n- Biopsy is the removal of a sample of cells or tissue from the tumor so that a pathologist can view it under a microscope to check for cancer. The decision of whether to do a biopsy is based on: A biopsy may be done before your child has any treatment, after chemotherapy, or during surgery.\n- The size of the tumor.\n- The stage of the cancer. There will not be a biopsy if the tumor can be removed with surgery or is stage I or stage II Wilms tumor . The reason for not doing a biopsy is to avoid the spread of tumor cells during the procedure.\n- Where in the kidney the tumor is and whether cancer is in one or both kidneys.\n- Whether imaging tests clearly show the cancer.\n- Whether the child is participating in a clinical trial ."
+        },
+        {
+          "section": "Tests to stage Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Diagnosis of Wilms tumor",
+            "Tests to stage Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "If your child is diagnosed with a Wilms tumor, you will be referred to a pediatric oncologist. This is a doctor who specializes in childhood cancers. They will recommend tests to determine the extent of the cancer. The cancer may only be in one spot, but sometimes it spreads to other parts of the body. The process of learning the extent of the cancer in the body is called staging. It is important to know the stage of the tumor to plan the best treatment.\nThe following tests and procedures may be used to determine the stage of the Wilms tumor:"
+        },
+        {
+          "section": "Lab tests",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Diagnosis of Wilms tumor",
+            "Tests to stage Wilms tumor",
+            "Lab tests"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Renal function test .\n- Liver function test uses a blood sample to check how the liver is functioning. The blood sample is used to check the liver enzymes and to measure the amounts of certain substances (such as bilirubin) that are released into the blood by the liver. A higher-than-normal amount of a substance can be a sign that the liver is not working as it should."
+        },
+        {
+          "section": "Imaging tests and procedures",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Diagnosis of Wilms tumor",
+            "Tests to stage Wilms tumor",
+            "Imaging tests and procedures"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Lymph node biopsy is the removal of all or part of a lymph node in the abdomen. A pathologist views the lymph node tissue under a microscope to check for cancer cells. This procedure is also called lymph node sampling.\n- X-ray of the chest and bones .\n- CT scan (CAT scan) .\n- PET-CT scan .\n- MRI (magnetic resonance imaging) .\n- Bone scan checks if there are rapidly dividing cells, such as cancer cells, in the bone. A very small amount of radioactive material is injected into a vein and travels through the bloodstream. The radioactive material collects in the areas of the bones with cancer and is detected by a scanner.\n- Ultrasound of the major blood vessels of the heart is done to see if the tumor has started to grow in a blood vessel that returns the blood to the heart."
+        },
+        {
+          "section": "Getting a second opinion",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Getting a second opinion"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your child's diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the genetic testing report, pathology report, slides, and scans. This doctor may agree with the first doctor, suggest changes to the treatment plan, or provide more information about your child's tumor.\nTo learn more about choosing a doctor and getting a second opinion, visit Finding Cancer Care . You can contact NCI's Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor or hospital that can provide a second opinion. For questions you might want to ask at your child's appointments, visit Questions to Ask Your Doctor About Cancer ."
+        },
+        {
+          "section": "Genetic counseling for children with Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Genetic counseling for children with Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "It is not always clear from the family medical history whether a child with Wilms tumor has an inherited condition that increased their risk. Genetic counseling can assess the likelihood that your child's cancer is inherited and whether genetic testing is needed. Genetic counselors and other specially trained health professionals can discuss your child's diagnosis and your family's medical history to help you understand the:\n- options for testing for syndromes that may increase the risk of cancer\n- risk of your child developing other types of cancer\n- risk of kidney tumors and other cancers for your child's siblings\n- risks and benefits of learning genetic information\nGenetic counselors can also help you cope with your child's genetic testing results, including how to discuss the results with family members. They can advise you about whether other members in your family should receive genetic testing.\nGenetic counseling may be done if your child has:\n- a genetic syndrome or condition that increases the risk of Wilms tumor\n- Wilms tumors in both kidneys\n- Wilms tumor that is diagnosed before age 2 years\nTo learn more, visit Genetic Testing for Inherited Cancer Risk ."
+        },
+        {
+          "section": "Stages of Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Stages of Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Staging is the process of learning the extent of the cancer in the body. Sometimes cancer is only in the kidney. Or, it may have spread to other parts of the body.\nBesides stages, Wilms tumors are described by their histology, which refers to how the cells look under a microscope. The histology affects the prognosis and the treatment of Wilms tumor.\nThe histology may be favorable or anaplastic (unfavorable):\n- Tumors with a favorable histology have a better prognosis and respond better to chemotherapy and radiation therapy than anaplastic tumors.\n- Tumor cells that are anaplastic divide quickly and do not look like the type of cells they came from when viewed under a microscope. Anaplastic tumors are harder to treat with chemotherapy than other Wilms tumors at the same stage."
+        },
+        {
+          "section": "Stage I",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Stages of Wilms tumor",
+            "Stage I"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "In stage I, the tumor was completely removed by surgery and all of the following are true:\n- cancer was found only in the kidney and did not spread to blood vessels in the renal sinus (the part of the kidney where it joins the ureter ) or to the lymph nodes\n- no cancer cells were found at the edges of the area where the tumor was removed\n- the outer layer of the kidney did not break open\n- the tumor did not break open\n- a biopsy was not done before the tumor was removed"
+        },
+        {
+          "section": "Stage II",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Stages of Wilms tumor",
+            "Stage II"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "In stage II, the tumor was completely removed by surgery and no cancer cells were found at the edges of the area where the cancer was removed. Cancer has not spread to the lymph nodes. Before the tumor was removed, one of the following was also true:\n- cancer had spread to the renal sinus (the part of the kidney where it joins the ureter)\n- cancer had spread to blood vessels outside the area of the kidney where urine is made, such as the renal sinus"
+        },
+        {
+          "section": "Stage III",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Stages of Wilms tumor",
+            "Stage III"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "In stage III, cancer remains in the abdomen after surgery and at least one of the following is true:\n- cancer has spread to the lymph nodes in the abdomen or pelvis (the part of the body between the hips)\n- cancer has spread to or through the surface of the peritoneum (the tissue that lines the abdominal cavity and covers most organs in the abdomen)\n- a biopsy of the tumor was done before it was removed\n- the tumor broke open before or during surgery to remove it\n- the tumor was removed in more than one piece\n- cancer cells are found at the edges of the area where the tumor was removed\n- the entire tumor could not be removed because important organs or tissues in the body would be damaged"
+        },
+        {
+          "section": "Stage IV",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Stages of Wilms tumor",
+            "Stage IV"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage IV, cancer has spread through the blood to other parts of the body such as the lungs, liver, bone, or brain, or to lymph nodes outside the abdomen and pelvis."
+        },
+        {
+          "section": "Stage V",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Stages of Wilms tumor",
+            "Stage V"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In stage V ( bilateral ) Wilms tumor, cancer cells are found in both kidneys when the cancer is first diagnosed. The cancer in each kidney is staged separately as stage I, II, III, or IV."
+        },
+        {
+          "section": "Recurrent Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Stages of Wilms tumor",
+            "Recurrent Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Recurrent Wilms tumor is cancer that has come back after it has been treated. If there are signs that the cancer has returned, your child will have tests to find out where the cancer is in your child's body and if it has spread.\nThe type of treatment that your child will have depends on whether the Wilms tumor came back in the kidney or came back in other places in the body, such as the lungs, abdomen, or liver.\nLearn more about Treatment of recurrent Wilms tumor ."
+        },
+        {
+          "section": "Who treats children with Wilms tumor?",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Types of treatment for Wilms tumor",
+            "Who treats children with Wilms tumor?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "A pediatric oncologist, a doctor who specializes in treating children with cancer, oversees treatment of Wilms tumor. The pediatric oncologist works with other health care providers who are experts in treating children and specialize in certain areas of medicine. Other specialists may include:\n- pediatrician\n- pediatric surgeon or urologist\n- radiation oncologist\n- pathologist\n- pediatric nurse specialist\n- social worker\n- rehabilitation specialist\n- psychologist\n- child-life specialist\n- fertility specialist"
+        },
+        {
+          "section": "Treatment options",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Types of treatment for Wilms tumor",
+            "Treatment options"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "There are different types of treatment for children and adolescents with Wilms tumor. You and your child's care team will work together to decide treatment. Many factors will be considered, such as:\n- your child's overall health\n- the stage of your child's tumor\n- the histology (favorable or anaplastic)\n- the risk of cancer coming back after treatment\n- whether the cancer has spread to other areas in the body\n- whether both kidneys have cancer\n- whether your child has an inherited cancer syndrome\n- whether the cancer is newly diagnosed or has come back\nThe goal of treatment is to kill the cancer cells and decrease the risk of late effects from treatment.\nYour child's treatment plan will include information about the cancer, the goals of treatment, treatment options, and possible side effects. It will be helpful to talk with your child's care team before treatment begins about what to expect. For help every step of the way, visit our booklet, Children with Cancer: A Guide for Parents .\nTypes of treatment your child might have include:"
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Types of treatment for Wilms tumor",
+            "Treatment options",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "Children with Wilms tumor may have surgery to obtain a biopsy sample or to remove the cancer. There are two types of surgery used to treat Wilms tumors:\n- Nephrectomy is surgery to remove the whole kidney. This is the most common treatment for Wilms tumor. Nearby lymph nodes may also be removed and checked for cancer. If the cancer is in both kidneys and they are not working well, your child may need a kidney transplant . A transplant is surgery to remove the kidney and replace it with one from a donor .\n- Partial nephrectomy is the removal of the cancer in the kidney and a small amount of normal tissue around it. Your child may have this surgery if cancer is found in both kidneys or if it is likely to spread to both kidneys. The goal of the surgery is to keep as much of the kidney as possible. A partial nephrectomy is also called renal-sparing surgery.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, your child may have chemotherapy or radiation therapy to kill any cancer cells that are left.\nSometimes, the tumor cannot be removed because:\n- the tumor is too close to important organs or blood vessels or is growing in important blood vessels (such as the inferior vena cava )\n- the tumor is too large to remove\n- the cancer is in both kidneys, unless the tumors are very small\n- there is a blood clot in the vessels near the liver\n- the cancer has spread to the lungs, and your child has trouble breathing\nIf the tumor cannot be removed, your child will have a biopsy first. Then, they will receive chemotherapy to reduce the size of the tumor to make surgery possible. The goal of this approach is to save as much healthy kidney tissue as possible and reduce problems after surgery. Chemotherapy given before surgery is called neoadjuvant chemotherapy."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Types of treatment for Wilms tumor",
+            "Treatment options",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Radiation therapy uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. Wilms tumor is treated with external beam radiation therapy. This type of therapy uses a machine outside the body to send radiation toward the area of the body with cancer. Radiation therapy may be given alone or with other treatments, such as chemotherapy.\nLearn more about External Beam Radiation Therapy for Cancer and Radiation Therapy Side Effects ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Types of treatment for Wilms tumor",
+            "Treatment options",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells. Chemotherapy either kills the cells or stops them from dividing. Chemotherapy may be given alone or with other types of treatment, such as radiation therapy.\nFor children with Wilms tumor, chemotherapy is injected into a vein. When given this way, chemotherapy enters the bloodstream and can reach cancer cells throughout the body.\nChemotherapy drugs used alone or in combination to treat Wilms tumor include:\n- carboplatin\n- cyclophosphamide\n- dactinomycin\n- doxorubicin\n- etoposide\n- ifosfamide\n- irinotecan\n- vincristine\nOther chemotherapy not listed here may also be used.\nChemotherapy may be given before or after surgery. Chemotherapy given after surgery to kill any cancer cells that remain is called adjuvant therapy .\nLearn more about how chemotherapy works, how it is given, common side effects, and more at Chemotherapy to Treat Cancer ."
+        },
+        {
+          "section": "Stem cell transplant",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Types of treatment for Wilms tumor",
+            "Treatment options",
+            "Stem cell transplant"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Stem cell transplant (or stem cell rescue) is a procedure to replace the blood-forming stem cells that are destroyed when high doses of chemotherapy are given to kill cancer cells. Before high-dose chemotherapy, stem cells (immature blood cells) are removed from the blood or bone marrow of your child and are stored in a freezer. After your child completes chemotherapy, the frozen stem cells are thawed and given back to them through an infusion . These stem cells grow into new blood cells."
+        },
+        {
+          "section": "Clinical trials",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Types of treatment for Wilms tumor",
+            "Treatment options",
+            "Clinical trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "For some children, joining a clinical trial may be an option. There are different types of clinical trials for childhood cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your child's age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers .\nClinical trials have led to improvements in the treatment of Wilms tumor, including the number of children who are cured."
+        },
+        {
+          "section": "Treatment of Wilms tumor by stage and histology",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Treatment of Wilms tumor by stage and histology"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "To learn more about the treatments listed below, visit Types of treatment for Wilms tumor ."
+        },
+        {
+          "section": "Stage I Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Treatment of Wilms tumor by stage and histology",
+            "Stage I Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of stage I Wilms tumor with favorable histology may include:\n- nephrectomy with removal of lymph nodes, followed by combination chemotherapy\n- nephrectomy with removal of lymph nodes for children younger than 2 years and who have a certain weight\nTreatment of stage I anaplastic Wilms tumor is nephrectomy with removal of lymph nodes, followed by combination chemotherapy and radiation therapy to the flank area (either side of the body between the ribs and hipbone).\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Stage II Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Treatment of Wilms tumor by stage and histology",
+            "Stage II Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Treatment of stage II Wilms tumor with favorable histology is nephrectomy with removal of lymph nodes, followed by combination chemotherapy.\nTreatment of stage II anaplastic Wilms tumor is nephrectomy with removal of lymph nodes, followed by radiation therapy to the abdomen and combination chemotherapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Stage III Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Treatment of Wilms tumor by stage and histology",
+            "Stage III Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of stage III Wilms tumor with favorable histology is nephrectomy with removal of lymph nodes, followed by radiation therapy to the abdomen and combination chemotherapy.\nTreatment of stage III anaplastic Wilms tumor may include:\n- nephrectomy with removal of lymph nodes, followed by radiation therapy to the abdomen and combination chemotherapy\n- combination chemotherapy, followed by nephrectomy with removal of lymph nodes, followed by radiation therapy to the abdomen\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Stage IV Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Treatment of Wilms tumor by stage and histology",
+            "Stage IV Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Treatment of stage IV Wilms tumor with favorable histology may include:\n- Nephrectomy with removal of lymph nodes, followed by combination chemotherapy. Radiation therapy may be given to the area where the tumor was or to other parts of the abdomen.\n- Radiation therapy to treat cancer that has spread to other parts of the body.\nTreatment of stage IV anaplastic Wilms tumor may include:\n- nephrectomy with removal of lymph nodes, followed by radiation therapy to the abdomen and combination chemotherapy\n- chemotherapy given before nephrectomy with removal of lymph nodes, followed by radiation therapy to the abdomen\n- radiation therapy to treat cancer that has spread to other parts of the body\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Stage V Wilms tumor and children at high risk of developing bilateral Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Treatment of Wilms tumor by stage and histology",
+            "Stage V Wilms tumor and children at high risk of developing bilateral Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Treatment of stage V Wilms tumor or bilateral Wilms tumor may be different for each child and may include:\n- Combination chemotherapy to shrink the tumor, followed by repeat imaging at 6 to 12 weeks to decide on further treatment. A biopsy may be done or treatment may be given, including partial nephrectomy , continued chemotherapy, or radiation therapy.\n- A biopsy of the kidneys, followed by combination chemotherapy to shrink the tumor. Then, surgery is done to remove as much of the cancer as possible. If cancer remains after surgery, your child may have chemotherapy and possibly radiation therapy.\nIf a kidney transplant is needed because of kidney problems, it is usually delayed until 1 to 2 years after treatment is completed and there are no signs of cancer.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of cystic partially differentiated nephroblastoma",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Treatment of cystic partially differentiated nephroblastoma"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Treatment of cystic partially differentiated nephroblastoma is surgery that may be followed by chemotherapy."
+        },
+        {
+          "section": "Treatment of recurrent Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Treatment of recurrent Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "To learn about the treatments listed below, visit Types of treatment for Wilms tumor .\nTreatment of recurrent Wilms tumor may include:\n- a combination of chemotherapy, surgery, and radiation therapy\n- high-dose chemotherapy followed by a stem cell transplant using your child's own blood stem cells\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Prognostic factors for Wilms tumor",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Prognostic factors for Wilms tumor"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "If your child has been diagnosed with Wilms tumor, you likely have questions about how serious the cancer is and your child's chances of survival. The likely outcome or course of a disease is called prognosis.\nThe prognosis for Wilms tumor depends on:\n- how different the tumor cells are from normal kidney cells when looked at under a microscope (favorable histology or anaplastic)\n- the stage of the cancer\n- your child's age\n- whether there are certain changes in chromosomes or genes\n- whether the cancer has just been diagnosed or has come back after treatment\n- whether the cancer has spread to the lymph nodes\nNewly diagnosed Wilms tumor with favorable histology can often be cured.\nNo two people are alike, and responses to treatment can vary greatly. Your child's care team is in the best position to talk with you about your child's prognosis."
+        },
+        {
+          "section": "Side effects and late effects of treatment",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Side effects and late effects of treatment"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Cancer treatments can cause side effects. Which side effects your child might have depends on the type of treatment they receive, the dose, and how their body reacts. Talk with your child's treatment team about which side effects to look for and ways to manage them.\nTo learn more about side effects that begin during treatment for cancer, visit Side Effects .\nProblems from cancer treatment that begin 6 months or later after treatment and continue for months or years are called late effects. Late effects of cancer treatment may include:\n- physical problems, such as trouble with exercise, mobility, strength, and flexibility\n- chronic health conditions that affect the heart, lungs, kidneys, intestines, and hormone levels\n- infertility or problems during pregnancy, including high blood pressure, early labor, or the baby being in an unusual position as birth approaches\n- neurological symptoms, such as changes in mood, feelings, thinking, learning, or memory\n- second cancers (new types of cancer), such as leukemias , thyroid cancer, cancer of the gastrointestinal tract , breast cancer , or skin cancer\nSome late effects may be treated or controlled. It is important to talk with your child's doctors about the effects cancer treatment can have on your child. Learn more about Late Effects of Treatment for Childhood Cancer .\nChildren with Wilms tumor and related problems may be monitored for late effects involving the kidneys.\n- Children with WAGR syndrome are monitored throughout their lives because they are at increased risk of developing hypertension and kidney disease.\n- Children with Wilms tumor and an abnormal genitourinary system are monitored because they are at increased risk of late kidney failure .\n- Children with Wilms tumor and aniridia without an abnormal genitourinary system are at lower risk but are monitored for kidney disease or kidney failure.\nClinical trials are being done to find out if lower doses of chemotherapy and radiation can be used to lessen the late effects of treatment without changing how well the treatment works."
+        },
+        {
+          "section": "Follow-up care",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Follow-up care"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "As your child goes through treatment, they will have follow-up tests or check-ups. Some of the tests that were done to diagnose the cancer or to find out the stage of the cancer may be repeated. Some tests will be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done for years after treatment has ended. The results of these tests can show if your child's condition has changed, the health of your child's kidney or other organs, or if the cancer has come back.\nTo learn more about follow-up tests, visit Tests to diagnose Wilms tumor ."
+        },
+        {
+          "section": "Coping with your child's cancer",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Coping with your child's cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "When your child has cancer, every member of the family needs support. Taking care of yourself during this difficult time is important. Reach out to your child's treatment team and to people in your family and community for support. To learn more, visit Support for Families: Childhood Cancer and the booklet Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Related resources",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "Related resources"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "For more childhood cancer information and other general cancer resources, visit:\n- Kidney Cancer Home Page\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Adolescents and Young Adults with Cancer\n- Cancer in Children and Adolescents\n- Cancer Staging\n- Coping with Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of Wilms tumor and other childhood kidney tumors. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Wilms Tumor. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/kidney/patient/wilms-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389390]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Wilms Tumor (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\604ac0fe00d57ba33b79.html"
+    }
+  ]
+}

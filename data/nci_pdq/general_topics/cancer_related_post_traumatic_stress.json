@@ -1,0 +1,690 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "scope": "general_or_multi_cancer",
+  "summary_name": "Cancer-Related Post-Traumatic Stress",
+  "generated_at": "2026-08-31T07:15:23.631311+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "supportive_care"
+      ],
+      "topic": "supportive_care",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+      "summary_name": "Cancer-Related Post-Traumatic Stress",
+      "url": "https://www.cancer.gov/about-cancer/coping/survivorship/new-normal/ptsd-hp-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "February 25, 2025",
+      "retrieved_at": "2026-08-31T07:06:45.834511+00:00",
+      "content_sha256": "1156886f39ae2f36374aa457613c0f1314614084638b6d53d00872782e114d25",
+      "section_count": 28,
+      "sections": [
+        {
+          "section": "Overview",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Overview"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "Stress- or trauma-related symptoms such as avoidant behaviors, intrusive thoughts, and heightened arousal are often seen in survivors of cancer.[ 1 - 4 ] These symptoms resemble those seen in individuals who have experienced traumatic events such as:[ 5 ]\n- Military combat.\n- Violent personal assault (e.g., rape).\n- Natural disasters.\n- Other threats to life.\nThese symptoms experienced by cancer survivors fall under the “Trauma- and Stressor-Related Disorders” category in the Diagnostic and Statistical Manual of Mental Disorders , fifth edition (DSM-5). The category includes acute stress disorder, adjustment disorders, and post-traumatic stress disorder (PTSD).[ 5 ]\nReviews note that post-traumatic stress (PTS) has been studied in a variety of cancers, including melanoma, Hodgkin lymphoma, breast cancer, and mixed cancers.[ 6 ]\nMost of the studies to date have used the criteria of the DSM, fourth edition (DSM-IV) because they were conducted before publication of the DSM-5. This summary will primarily refer to studies conducted using the DSM-IV criteria.\nStudies have varied in the assessment of patients for the full syndrome of PTSD (i.e., all DSM criteria met) or only some of the PTSD-related symptoms (e.g., intrusive thoughts as measured by the Impact of Event Scale). As a result, incidence rates have varied.\nRisk factors for patients with cancer developing PTS and PTSD have not been extensively studied. However, one study of women with early-stage breast cancer found an association with PTSD-like symptoms in patients with the following characteristics:[ 7 ]\n- Younger age.\n- Lower income.\n- Fewer years of formal education.\nAnother study of men and women treated with bone marrow transplant found that lower levels of social support and the use of avoidance coping correlated significantly to a higher number of PTSD-like symptoms.[ 8 ] One German study that evaluated patients with breast cancer for PTSD and acute stress disorder (ASD) concluded that patients with lifetime PTSD (8.7%) were much more likely to experience cancer-related ASD or PTSD (odds ratio, 14.1).[ 9 ]\nAlthough no specific therapies for PTS symptoms in the cancer setting have been developed, treatment modalities used with other people with PTSD can be useful in alleviating distress in cancer patients and survivors.\nIn this summary, unless otherwise stated, evidence and practice issues as they relate to adults are discussed. The evidence and application to practice related to children may differ significantly from information related to adults. When specific information about the care of children is available, it is summarized under its own heading."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Overview",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Kornblith AB, Anderson J, Cella DF, et al.: Quality of life assessment of Hodgkin's disease survivors: a model for cooperative clinical trials. Oncology (Huntingt) 4 (5): 93-101; discussion 104, 1990. [PUBMED Abstract]\n- Alter CL, Pelcovitz D, Axelrod A, et al.: Identification of PTSD in cancer survivors. Psychosomatics 37 (2): 137-43, 1996 Mar-Apr. [PUBMED Abstract]\n- Kornblith AB, Anderson J, Cella DF, et al.: Hodgkin disease survivors at increased risk for problems in psychosocial adaptation. The Cancer and Leukemia Group B. Cancer 70 (8): 2214-24, 1992. [PUBMED Abstract]\n- Koocher G, O'Malley J: The Damocles Syndrome: Psychosocial Consequences of Surviving Childhood Cancer. McGraw-Hill, 1981.\n- American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders: DSM-5. 5th ed. American Psychiatric Association, 2013.\n- Gurevich M, Devins GM, Rodin GM: Stress response syndromes and cancer: conceptual and assessment issues. Psychosomatics 43 (4): 259-81, 2002 Jul-Aug. [PUBMED Abstract]\n- Cordova MJ, Andrykowski MA, Kenady DE, et al.: Frequency and correlates of posttraumatic-stress-disorder-like symptoms after treatment for breast cancer. J Consult Clin Psychol 63 (6): 981-6, 1995. [PUBMED Abstract]\n- Jacobsen PB, Sadler IJ, Booth-Jones M, et al.: Predictors of posttraumatic stress disorder symptomatology following bone marrow transplantation for cancer. J Consult Clin Psychol 70 (1): 235-40, 2002. [PUBMED Abstract]\n- Mehnert A, Koch U: Prevalence of acute and post-traumatic stress disorder and comorbid mental disorders in breast cancer patients during primary cancer care: a prospective study. Psychooncology 16 (3): 181-8, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Prevalence",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Prevalence"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Reviews of the literature [ 1 ] note that post-traumatic stress (PTS) has been studied in a variety of cancers, including melanoma, Hodgkin lymphoma, breast cancer, and mixed cancers.\nThe incidence of the full syndrome of post-traumatic stress disorder (PTSD) (meeting all Diagnostic and Statistical Manual of Mental Disorders [DSM] diagnostic criteria) ranges from 3% to 4% in patients recently diagnosed with early-stage disease to 35% in patients evaluated after treatment. When the incidence of PTSD-like symptoms (not meeting the full DSM diagnostic criteria) is measured, rates are higher, ranging from 20% in patients with early-stage cancer to 80% in those with recurrent cancer.\nThe earliest research on PTS among cancer survivors concentrated on the prevalence and characteristics of the disorder in patients who had undergone or were undergoing treatment, adult and child cancer survivors, and/or their family members. A wide variety of cancer types was studied, including leukemia,[ 2 ] breast cancer, and head and neck cancers.[ 3 ] Much of this early research, which predates DSM-IV, dealt with survivors of Hodgkin disease, probably because diagnoses at an early age and higher rates of survival resulted in a larger population available for study.[ 4 ] These survivors had a particularly high prevalence of intrusive thoughts and avoidance behaviors, even though they were many years posttreatment.[ 5 - 7 ] Most of these studies investigated PTSD-like symptoms, rather than the complete mental disorder with all diagnostic criteria.\nThe first study of cancer patients using the DSM-IV diagnostic criteria looked at 27 patients (most with breast cancer), all at least 3 years postdiagnosis and no longer receiving any cancer treatments. Prevalence rates of 4% for current PTSD and 22% for lifetime prevalence were found.[ 8 ] Those who met the criteria for lifetime prevalence were noted to have higher levels of general psychological distress, suggesting that individuals with a history of PTSD are at a substantial risk of continued emotional difficulties.\nStudies using the Structured Clinical Interview for DSM (SCID) [ 9 ] found prevalence rates for PTSD between 3% and 10% in adult patients with cancer. Most of these studies looked at women with early-stage breast cancer, who were evaluated a few months to a few years after their cancer treatments. Similarly, in a prospective study of 115 patients with all stages of breast cancer being treated at a comprehensive cancer center, 4% met the full diagnostic criteria for PTSD; 41% met the subsyndromal criteria for PTSD (experiencing intense fear, helplessness, or horror after being diagnosed with cancer). This set of subsyndromal criteria was a weak predictor of PTSD (12%) but a useful predictor of major depressive disorder, global anxiety disorder, and past major depressive disorder, and it may better serve as a marker for elevated distress.[ 10 ]\nIn a few studies of patients who underwent bone marrow transplants, slightly higher prevalence rates of PTSD have been reported, ranging from 5% [ 11 ] to 12% to 19% [ 12 ] to as high as 35%.[ 13 ] The range appears to be influenced by time of assessment (higher rates occur with more time since transplant) and the assessment method used. Studies reporting lower rates typically used a self-report questionnaire,[ 14 ] whereas those reporting higher rates [ 13 ] used the SCID and evaluated for symptoms at multiple time points since diagnosis (i.e., lifetime prevalence). The changes to the fifth edition of the DSM (DSM-5) included removal of the subjective response of “intense fear, horror, or helplessness” that had been added to Criterion A in the DSM-IV.[ 15 ]\nTo illustrate the distinction between these tools, a German study evaluated patients with breast cancer (n = 127) for PTSD immediately postsurgery and 6 months after the first assessment.[ 16 ] The assessments included screening instruments for acute stress disorder (ASD) and PTSD, such as the Impact of Event Scale-Revised (IES-R) and the PTSD Checklist-Civilian (PCL-C). The first assessment also included a semistructured interview using the SCID. Based on the SCID, 2.4% of participants met the criteria for mild-to-moderate cancer-related PTSD, and 2.4% were diagnosed with ASD. However, the IES-R and PCL-C screening instruments identified PTSD in 18.5% of participants at the first assessment and in 11.2% to 16.3% of participants at the second assessment. Authors of the study suggested that unlike the SCID, the IES-R and PCL-C screening instruments measured diffuse emotional distress and adjustment problems and not precise PTSD symptoms.\nOne of the main differences between symptom-based measures such as the PCL-C and an actual SCID-based diagnosis is the dysfunction caused by the symptoms. The symptoms are rather common, but only a small percentage of people who have the symptoms are disabled by them."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Prevalence",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "- Gurevich M, Devins GM, Rodin GM: Stress response syndromes and cancer: conceptual and assessment issues. Psychosomatics 43 (4): 259-81, 2002 Jul-Aug. [PUBMED Abstract]\n- Lesko LM, Ostroff JS, Mumma GH, et al.: Long-term psychological adjustment of acute leukemia survivors: impact of bone marrow transplantation versus conventional chemotherapy. Psychosom Med 54 (1): 30-47, 1992 Jan-Feb. [PUBMED Abstract]\n- Manuel GM, Roth S, Keefe FJ, et al.: Coping with cancer. J Human Stress 13 (4): 149-58, 1987 Winter. [PUBMED Abstract]\n- Cella DF, Pratt A, Holland JC: Persistent anticipatory nausea, vomiting, and anxiety in cured Hodgkin's disease patients after completion of chemotherapy. Am J Psychiatry 143 (5): 641-3, 1986. [PUBMED Abstract]\n- Kornblith AB, Anderson J, Cella DF, et al.: Comparison of psychosocial adaptation and sexual function of survivors of advanced Hodgkin disease treated by MOPP, ABVD, or MOPP alternating with ABVD. Cancer 70 (10): 2508-16, 1992. [PUBMED Abstract]\n- Kornblith AB, Anderson J, Cella DF, et al.: Quality of life assessment of Hodgkin's disease survivors: a model for cooperative clinical trials. Oncology (Huntingt) 4 (5): 93-101; discussion 104, 1990. [PUBMED Abstract]\n- Kornblith AB, Anderson J, Cella DF, et al.: Hodgkin disease survivors at increased risk for problems in psychosocial adaptation. The Cancer and Leukemia Group B. Cancer 70 (8): 2214-24, 1992. [PUBMED Abstract]\n- Alter CL, Pelcovitz D, Axelrod A, et al.: Identification of PTSD in cancer survivors. Psychosomatics 37 (2): 137-43, 1996 Mar-Apr. [PUBMED Abstract]\n- Spitzer RL, Williams JB, Gibbon M, et al.: The Structured Clinical Interview for DSM-III-R (SCID). I: History, rationale, and description. Arch Gen Psychiatry 49 (8): 624-9, 1992. [PUBMED Abstract]\n- Palmer SC, Kagee A, Coyne JC, et al.: Experience of trauma, distress, and posttraumatic stress disorder among breast cancer patients. Psychosom Med 66 (2): 258-64, 2004 Mar-Apr. [PUBMED Abstract]\n- Widows MR, Jacobsen PB, Fields KK: Relation of psychological vulnerability factors to posttraumatic stress disorder symptomatology in bone marrow transplant recipients. Psychosom Med 62 (6): 873-82, 2000 Nov-Dec. [PUBMED Abstract]\n- Jacobsen PB, Widows MR, Hann DM, et al.: Posttraumatic stress disorder symptoms after bone marrow transplantation for breast cancer. Psychosom Med 60 (3): 366-71, 1998 May-Jun. [PUBMED Abstract]\n- Mundy EA, Blanchard EB, Cirenza E, et al.: Posttraumatic stress disorder in breast cancer patients following autologous bone marrow transplantation or conventional cancer treatments. Behav Res Ther 38 (10): 1015-27, 2000. [PUBMED Abstract]\n- Weathers FW, Litz BT, Keane TM, et al.: The PTSD Checklist for DSM-5 (PCL-5). White River Junction, Vt: National Center for PTSD, 2013. Available online . Last accessed Feb. 25, 2025.\n- American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders: DSM-5. 5th ed. American Psychiatric Association, 2013.\n- Mehnert A, Koch U: Prevalence of acute and post-traumatic stress disorder and comorbid mental disorders in breast cancer patients during primary cancer care: a prospective study. Psychooncology 16 (3): 181-8, 2007. [PUBMED Abstract]"
+        },
+        {
+          "section": "Risk Factors, Protective Factors, and Hypothesized Mechanisms",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Risk Factors, Protective Factors, and Hypothesized Mechanisms"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "A variety of sociodemographic, disease-related, psychosocial, and psychological variables have been investigated to determine their relationship to post-traumatic stress (PTS) related to cancer. So far, there is no clear picture of which patients are at increased risk of developing PTS after a diagnosis of or treatment for cancer."
+        },
+        {
+          "section": "Sociodemographic Variables",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Risk Factors, Protective Factors, and Hypothesized Mechanisms",
+            "Sociodemographic Variables"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Few patient characteristics have been shown to predict the occurrence of PTS. High levels of psychological distress have been correlated with both stress symptoms [ 1 - 3 ] and a diagnosis of full-syndrome post-traumatic stress disorder (PTSD) in adult survivors.[ 1 ] In addition, trait anxiety was found to predict post-traumatic symptoms in the parents of survivors of childhood cancer.[ 4 ] Women who are survivors of cancer and have a diagnosis of lifetime PTSD tend to have a history of exposure to trauma.[ 1 , 5 ] Demographic characteristics such as age, sex, and education level at time of diagnosis have not been reliable predictors of stress symptoms.[ 1 , 6 , 7 ]"
+        },
+        {
+          "section": "Disease-Related Variables",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Risk Factors, Protective Factors, and Hypothesized Mechanisms",
+            "Disease-Related Variables"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Disease-related variables that have been associated with a higher incidence of PTSD in patients who underwent bone marrow transplant include more advanced disease and a longer hospital stay.[ 8 ] Other studies, however, have found no association between time since diagnosis and treatment, severity of disease, or type of cancer treatment.[ 1 , 9 , 10 ] The relationship between disease stage and post-traumatic symptoms has not been adequately studied. Most studies have not found an association; however, they typically included a limited range of disease stages or studied only early-stage cancer.[ 11 ]\nThe time since diagnosis and treatment has been shown to correlate with and predict post-traumatic symptoms in survivors of osteogenic sarcoma [ 2 ] and Hodgkin lymphoma.[ 7 , 12 ] Specifically, people who were further from diagnosis and treatment tended to exhibit fewer symptoms. This effect, however, has not been found in studies of patients with recent recurrences,[ 13 ] survivors of breast cancer,[ 1 ] or survivors of childhood cancers.[ 14 ] Duration of treatment, rather than time since treatment, has been shown to predict stress symptoms in survivors of childhood cancer.[ 14 ]\nThe presence of pain and other physical symptoms has been shown to correlate with levels of intrusive thoughts.[ 2 ] Cancer recurrence has also been shown to increase the likelihood of stress symptoms in patients.[ 13 ]"
+        },
+        {
+          "section": "Psychosocial and Psychological Variables",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Risk Factors, Protective Factors, and Hypothesized Mechanisms",
+            "Psychosocial and Psychological Variables"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The experience of past traumatic events appears to be an important psychosocial risk factor associated with PTS symptoms,[ 5 , 15 , 16 ] as was found in both patients with early-stage [ 17 ] and those with metastatic breast cancer.[ 18 ] Previous trauma in combination with recent stressful life events was significantly related to PTS symptoms.[ 19 ]\nOther psychosocial risk factors, such as premorbid psychopathology,[ 20 , 21 ] high levels of general psychological distress,[ 22 ] and dysfunctional coping and attributional styles, [ 15 , 23 , 24 ] have been linked to a risk of PTSD in war veterans, Holocaust survivors, and other disaster victims. In addition, several investigators have linked predisposing genetic factors [ 25 , 26 ] and other biological factors (e.g., overly reactive hormonal systems and reduced hippocampal volume) to risk of PTSD.[ 27 - 29 ] Among social factors, the quality of the recovery environment, often measured in terms of social support, has been shown to affect risk of PTSD after exposure to combat [ 20 ] and burn injury.[ 30 ] The effect of threats to life and body integrity has been documented in samples of adults and families [ 1 , 4 , 12 ] but not children.[ 14 ]\nPsychological variables that have been related to a higher incidence of PTSD include:\n- A history (precancer diagnosis) of PTSD.[ 5 , 31 ]\n- Increased use of avoidance coping.[ 32 ]\n- Lower levels of social support.[ 32 ]"
+        },
+        {
+          "section": "Protective Factors",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Risk Factors, Protective Factors, and Hypothesized Mechanisms",
+            "Protective Factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Greater perceived availability of social support is associated with fewer stress-response symptoms in patients with early-stage breast cancer [ 17 , 19 ] and in patients who have undergone bone marrow transplant.[ 32 ]\nThe availability and timeliness of accurate health-related information may also offer protection from stress-response symptoms. Women who met the diagnostic criteria for acute stress disorder reported significantly less satisfaction with the communication of their cancer diagnosis.[ 33 ] Similarly, women who were unaware of their cancer stage reported higher stress-response symptoms than those who knew more about the stage of their disease.[ 34 ] To the extent that adequacy of information reflects the quality of a patient’s relationship with medical staff, another protective factor may be the quality of those relationships. Difficult patient-staff relationships have been reported to predict stress-response symptoms in women with cancer.[ 35 ]"
+        },
+        {
+          "section": "Hypothesized Mechanisms",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Risk Factors, Protective Factors, and Hypothesized Mechanisms",
+            "Hypothesized Mechanisms"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "PTSD is precipitated by an intensely distressing event; however, this factor alone is not sufficient to explain the disorder. Not everyone exposed to a traumatic stressor develops the full-blown syndrome (or subsets of symptoms) or qualifies for the diagnosis. Attempts to explain these differences and to predict who is vulnerable have focused on the following types of factors:\n- Psychological (i.e., learning theory).\n- Biological (especially hormonal).\n- Social (i.e., social support).\nEarly studies of Vietnam War veterans suggested a two-factor learning theory to account for trauma-related pathology.[ 36 , 37 ] The same theory has also been applied to the development of PTSD in patients with cancer.[ 38 - 40 ]\nPTSD symptoms develop as a function of both classical conditioning and instrumental learning. Classical conditioning accounts for the fear responses elicited by various stimuli that are associated with the original traumatic event. Neutral stimuli (e.g., smells, sounds, and visual images) previously paired with the aversive stimuli (e.g., chemotherapy or painful procedures) eventually evoke anxiety, arousal, and fear when presented alone, even after the trauma has ended. Higher-order conditioning and stimulus generalization account for the exacerbation and extension of symptoms to additional stimuli. Once established, PTSD symptoms are maintained through instrumental learning, that is, avoidant responses are reinforced because avoidance of the stimuli prevents unpleasant feelings and thoughts.\nEstimates from epidemiological studies suggest that on average, 25% to 33% of individuals who are exposed to traumatic events, including cancer, develop PTSD or subsyndromal PTSD.[ 27 , 41 ] Although the disorder appears to be a result of learning processes, many factors have been suggested to explain why one person develops PTSD and another does not."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Risk Factors, Protective Factors, and Hypothesized Mechanisms",
+            "Hypothesized Mechanisms",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 41,
+          "text": "- Alter CL, Pelcovitz D, Axelrod A, et al.: Identification of PTSD in cancer survivors. Psychosomatics 37 (2): 137-43, 1996 Mar-Apr. [PUBMED Abstract]\n- Kornblith AB, Herr HW, Ofman US, et al.: Quality of life of patients with prostate cancer and their spouses. The value of a data base in clinical care. Cancer 73 (11): 2791-802, 1994. [PUBMED Abstract]\n- Kornblith AB, Anderson J, Cella DF, et al.: Quality of life assessment of Hodgkin's disease survivors: a model for cooperative clinical trials. Oncology (Huntingt) 4 (5): 93-101; discussion 104, 1990. [PUBMED Abstract]\n- Stuber ML, Gonzalez S, Meeske K, et al.: Post-traumatic stress after childhood cancer II: a family model. Psychooncology 3 (4): 313-19, 1994.\n- Shelby RA, Golden-Kreutz DM, Andersen BL: PTSD diagnoses, subsyndromal symptoms, and comorbidities contribute to impairments for breast cancer survivors. J Trauma Stress 21 (2): 165-72, 2008. [PUBMED Abstract]\n- Kornblith AB, Anderson J, Cella DF, et al.: Comparison of psychosocial adaptation and sexual function of survivors of advanced Hodgkin disease treated by MOPP, ABVD, or MOPP alternating with ABVD. Cancer 70 (10): 2508-16, 1992. [PUBMED Abstract]\n- Kornblith AB, Anderson J, Cella DF, et al.: Hodgkin disease survivors at increased risk for problems in psychosocial adaptation. The Cancer and Leukemia Group B. Cancer 70 (8): 2214-24, 1992. [PUBMED Abstract]\n- Jacobsen PB, Widows MR, Hann DM, et al.: Posttraumatic stress disorder symptoms after bone marrow transplantation for breast cancer. Psychosom Med 60 (3): 366-71, 1998 May-Jun. [PUBMED Abstract]\n- Cordova MJ, Andrykowski MA, Kenady DE, et al.: Frequency and correlates of posttraumatic-stress-disorder-like symptoms after treatment for breast cancer. J Consult Clin Psychol 63 (6): 981-6, 1995. [PUBMED Abstract]\n- Green BL, Rowland JH, Krupnick JL, et al.: Prevalence of posttraumatic stress disorder in women with breast cancer. Psychosomatics 39 (2): 102-11, 1998. [PUBMED Abstract]\n- Gurevich M, Devins GM, Rodin GM: Stress response syndromes and cancer: conceptual and assessment issues. Psychosomatics 43 (4): 259-81, 2002 Jul-Aug. [PUBMED Abstract]\n- Cella DF, Tross S: Psychological adjustment to survival from Hodgkin's disease. J Consult Clin Psychol 54 (5): 616-22, 1986. [PUBMED Abstract]\n- Cella DF, Mahon SM, Donovan MI: Cancer recurrence as a traumatic event. Behav Med 16 (1): 15-22, 1990 Spring. [PUBMED Abstract]\n- Stuber ML, Meeske K, Gonzalez S, et al.: Post-traumatic stress after childhood cancer I: the role of appraisal. Psychooncology 3 (4): 305-12, 1994.\n- Davidson JR, Foa EB: Diagnostic issues in posttraumatic stress disorder: considerations for the DSM-IV. J Abnorm Psychol 100 (3): 346-55, 1991. [PUBMED Abstract]\n- Baider L, Sarell M: Coping with cancer among holocaust survivors in Israel: an exploratory study. J Human Stress 10 (3): 121-7, 1984 Fall. [PUBMED Abstract]\n- Andrykowski MA, Cordova MJ: Factors associated with PTSD symptoms following treatment for breast cancer: test of the Andersen model. J Trauma Stress 11 (2): 189-203, 1998. [PUBMED Abstract]\n- Butler LD, Koopman C, Classen C, et al.: Traumatic stress, life events, and emotional support in women with metastatic breast cancer: cancer-related traumatic stress symptoms associated with past and current stressors. Health Psychol 18 (6): 555-60, 1999. [PUBMED Abstract]\n- Green BL, Krupnick JL, Rowland JH, et al.: Trauma history as a predictor of psychologic symptoms in women with breast cancer. J Clin Oncol 18 (5): 1084-93, 2000. [PUBMED Abstract]\n- Green BL, Grace MC, Lindy JD, et al.: Risk factors for PTSD and other diagnoses in a general sample of Vietnam veterans. Am J Psychiatry 147 (6): 729-33, 1990. [PUBMED Abstract]\n- Smith EM, North CS, McCool RE, et al.: Acute postdisaster psychiatric disorders: identification of persons at risk. Am J Psychiatry 147 (2): 202-6, 1990. [PUBMED Abstract]\n- Jacobsen PB, Sadler IJ, Booth-Jones M, et al.: Predictors of posttraumatic stress disorder symptomatology following bone marrow transplantation for cancer. J Consult Clin Psychol 70 (1): 235-40, 2002. [PUBMED Abstract]\n- Green BL, Lindy JD, Grace MC: Posttraumatic stress disorder. Toward DSM-IV. J Nerv Ment Dis 173 (7): 406-11, 1985. [PUBMED Abstract]\n- Mikulincer M, Solomon Z: Attributional style and combat-related posttraumatic stress disorder. J Abnorm Psychol 97 (3): 308-13, 1988. [PUBMED Abstract]\n- Johnson AM, Teoh D, Jewett P, et al.: Genetic variants associated with post-traumatic stress symptoms in patients with gynecologic cancer. Gynecol Oncol 170: 102-107, 2023. [PUBMED Abstract]\n- True WR, Rice J, Eisen SA, et al.: A twin study of genetic and environmental contributions to liability for posttraumatic stress symptoms. Arch Gen Psychiatry 50 (4): 257-64, 1993. [PUBMED Abstract]\n- Yehuda R, Resnick H, Kahana B, et al.: Long-lasting hormonal alterations to extreme stress in humans: normative or maladaptive? Psychosom Med 55 (3): 287-97, 1993 May-Jun. [PUBMED Abstract]\n- Yehuda R, Boisoneau D, Lowy MT, et al.: Dose-response changes in plasma cortisol and lymphocyte glucocorticoid receptors following dexamethasone administration in combat veterans with and without posttraumatic stress disorder. Arch Gen Psychiatry 52 (7): 583-93, 1995. [PUBMED Abstract]\n- Bremner JD, Randall P, Scott TM, et al.: MRI-based measurement of hippocampal volume in patients with combat-related posttraumatic stress disorder. Am J Psychiatry 152 (7): 973-81, 1995. [PUBMED Abstract]\n- Perry S, Difede J, Musngi G, et al.: Predictors of posttraumatic stress disorder after burn injury. Am J Psychiatry 149 (7): 931-5, 1992. [PUBMED Abstract]\n- Mundy EA, Blanchard EB, Cirenza E, et al.: Posttraumatic stress disorder in breast cancer patients following autologous bone marrow transplantation or conventional cancer treatments. Behav Res Ther 38 (10): 1015-27, 2000. [PUBMED Abstract]\n- Widows MR, Jacobsen PB, Fields KK: Relation of psychological vulnerability factors to posttraumatic stress disorder symptomatology in bone marrow transplant recipients. Psychosom Med 62 (6): 873-82, 2000 Nov-Dec. [PUBMED Abstract]\n- McGarvey EL, Canterbury RJ, Koopman C, et al.: Acute stress disorder following diagnosis of cancer. International Journal of Rehabilitation and Health 4 (1): 1-15, 1998.\n- Naidich JB, Motta RW: PTSD-related symptoms in women with breast cancer. Journal of Psychotherapy in Independent Practice 1 (1): 35-54, 2000.\n- Carlier IV, Gersons BP: Partial posttraumatic stress disorder (PTSD): the issue of psychological scars and the occurrence of PTSD symptoms. J Nerv Ment Dis 183 (2): 107-9, 1995. [PUBMED Abstract]\n- Keane TM, Zimering RT, Caddell JM, et al.: A behavioral formulation of posttraumatic stress disorder in Vietnam veterans. Behavior Therapist 8(1): 9-12, 1985.\n- Charney DS, Deutch AY, Krystal JH, et al.: Psychobiologic mechanisms of posttraumatic stress disorder. Arch Gen Psychiatry 50 (4): 294-305, 1993.\n- Cella DF, Pratt A, Holland JC: Persistent anticipatory nausea, vomiting, and anxiety in cured Hodgkin's disease patients after completion of chemotherapy. Am J Psychiatry 143 (5): 641-3, 1986. [PUBMED Abstract]\n- Redd WH, Dadds MR, Futterman AD, et al.: Nausea induced by mental images of chemotherapy. Cancer 72 (2): 629-36, 1993. [PUBMED Abstract]\n- Jacobsen PB, Bovbjerg DH, Redd WH: Anticipatory anxiety in women receiving chemotherapy for breast cancer. Health Psychol 12 (6): 469-75, 1993. [PUBMED Abstract]\n- Greenberg DB, Goorin A, Gebhardt MC, et al.: Quality of life in osteosarcoma survivors. Oncology (Huntingt) 8 (11): 19-25; discussion 25-6, 32, 35, 1994. [PUBMED Abstract]"
+        },
+        {
+          "section": "Diagnostic Criteria for Post-Traumatic Stress Disorder (PTSD) and Acute Stress Disorder (ASD)",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Assessment of Post-Traumatic Stress and Post-Traumatic Stress Disorder in the Cancer Setting",
+            "Diagnostic Criteria for Post-Traumatic Stress Disorder (PTSD) and Acute Stress Disorder (ASD)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "The diagnostic criteria for PTSD and ASD changed considerably in the fifth edition of the American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders (DSM-5). Changes from the fourth edition to the DSM-5 included the following:[ 1 ]\n- Elimination of the subjective component to the definition of trauma.\n- Tightening of the definitions of trauma and exposure to it.\n- Expansion and rearrangement of symptom criteria.\n- Changes in additional criteria and specifiers.\nCriterion A, which is necessary for PTSD and ASD diagnoses, specifically states, “A life-threatening illness or debilitating medical condition is not necessarily considered a traumatic event. Medical incidents that qualify as traumatic events involve sudden, catastrophic events.” Thus, for the experience of cancer to meet Criterion A, it must entail acute and extreme adverse events in the context of cancer and/or cancer treatments. Events such as the cancer diagnosis, side effects of cancer treatments, and distress, worries, or negative thoughts about prognosis do not automatically qualify as trauma. Furthermore, patients with cancer can only be diagnosed with ASD or PTSD if they experience specific trauma-related symptoms, many of which are focused on or related to re-experiencing symptoms and intrusive memories. Fear of recurrence or worries about prognosis do not qualify as PTSD or ASD symptoms.\nThe four core clusters of symptoms for a PTSD diagnosis are as follows:\n- Re-experiencing of trauma symptoms, e.g., nightmares, flashbacks, and intrusive memories (at least one out of five).\n- Avoidance symptoms, e.g., avoidance of distressing cancer memories (at least one out of two).\n- Numbing/dissociative and/or negative cognitive symptoms, e.g., unrealistic guilt or self-blame (at least two out of seven).\n- Arousal and reactivity symptoms, e.g., reckless/destructive behaviors and unprovoked angry outbursts (at least two out of six).\nThese symptoms must last for at least 1 month and cause clinically significant distress or impairment in social, occupational, or other important areas of functioning."
+        },
+        {
+          "section": "Post-Traumatic Stress (PTS) and PTSD in the Cancer Setting",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Assessment of Post-Traumatic Stress and Post-Traumatic Stress Disorder in the Cancer Setting",
+            "Post-Traumatic Stress (PTS) and PTSD in the Cancer Setting"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "A timely, careful assessment of patients with cancer is critical to identify symptoms of cancer-related PTS, to note the deleterious impact of the symptoms on functioning, and to plan interventions targeted at the most distressing symptoms. It is also critical that the assessment distinguish between the full DSM PTSD syndrome (meets all required diagnostic criteria) and PTS-related symptoms only.\nThe most difficult aspect of PTS assessment in the cancer setting is the determination of precisely when to evaluate the patient. Diagnosis is complicated because cancer is not an acute or discrete event, but an experience marked by repeated trauma and indeterminate length. An individual may exhibit the symptoms of PTS at any point from diagnosis through treatment, to treatment completion and, possibly, to recurrence.[ 2 ] Patients such as Holocaust survivors, whose history of victimization can cause PTSD or its symptoms, can have symptoms activated by any number of stimuli encountered during their treatment (e.g., clinical procedures such as being inside magnetic resonance imaging or computed tomography scanners). While such patients may have more difficulty adjusting to cancer and cancer treatment, their symptomatology is likely to vary greatly according to their circumstances. The relative predominance of specific PTS symptoms may wax and wane throughout the cancer experience and beyond.[ 3 ]\nThe definition in the DSM-5 indicates that although PTSD symptoms usually begin within 3 months after trauma, there may be a delay of 4 or more months or even years before symptoms appear.[ 1 ] These findings support the necessity for long-term monitoring of cancer survivors and their family members.\nAt least one study found that individuals who have experienced a traumatic event may exhibit early symptoms without meeting the full criteria for a diagnosis of PTSD.[ 4 ] Nonetheless, the appearance of these early symptoms was found to predict later development of full PTSD syndrome. These results lend further credence to the need for both repeated and long-term follow-up of individuals exposed to the trauma of cancer. For more information, see Adjustment to Cancer: Anxiety and Distress .\nThe difficulty of properly diagnosing PTS may be compounded by the overlapping of PTS symptoms with those of other psychiatric disorders and by the time-related aspects of normal adjustment. For example, irritability, poor concentration, hypervigilance, excessive fear, and disturbed sleep are also symptoms of generalized anxiety disorder. Other arousal and avoidance symptoms are common to PTSD, phobias, and panic disorder, but loss of interest, sense of a foreshortened future, avoidance of other people, and sleep impairment might suggest both PTSD and depressive disorders. Even normal reactions to the diagnosis and treatment of life-threatening disease can consist of responses such as:\n- Intrusive thoughts.\n- Disassociation and depersonalization.\n- Sleep disturbances.\n- Heightened arousal.\nClinicians and researchers must be particularly attuned to the causes, duration, and severity of PTSD-like symptoms when considering PTSD among several diagnoses. For instance, in a study of women with breast cancer, 41% reported experiencing “intense fear, helplessness, or horror”; however, on further comprehensive diagnostic interview, only 4% met the full PTSD criteria. Assessment must be able to distinguish between general psychological distress and symptoms of PTSD.[ 5 ]\nThe accurate diagnosis of PTSD also requires the use of reliable and valid instruments. Many studies have used the PTSD module of the Structured Clinical Interview for DSM-III-R–Nonpatient Edition.[ 6 ] This instrument is a clinician-administered, structured clinical interview that is time intensive and may not be feasible in settings without adequately trained mental health professionals. However, one study [ 7 ] investigated the utility of a cost-effective screening tool, the PTSD Checklist-Civilian Version (PCL-C).[ 8 ] In this study of 82 women diagnosed with breast cancer assessed 6 to 72 months after cancer treatment, use of the PCL-C resulted in a sensitivity of 0.60 and specificity of 0.99. Other cutoff scores for the PCL-C that could be used were discussed, depending on the clinical resources available in specific cancer treatment settings. Most research studies have used the Impact of Event Scale, a self-report of intrusive thoughts;[ 9 ] however, it is important to note that this tool can help evaluate PTS symptoms but is not designed to assess PTSD."
+        },
+        {
+          "section": "Comorbidity",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Assessment of Post-Traumatic Stress and Post-Traumatic Stress Disorder in the Cancer Setting",
+            "Comorbidity"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "In attempting to diagnose PTSD, it is important to be aware that this disorder is often marked by comorbid psychopathology. Substance abuse, affective disorders, and other anxiety disorders are consistently encountered in samples of people with PTSD.[ 3 , 10 - 12 ] For example, in one study, war veterans with PTSD exhibited substantial comorbid pathology that included:[ 13 ]\n- Major depression (32% to 72%).\n- Alcohol dependence (65%).\n- Drug dependence (40%).\n- Social phobia (50%).\n- Obsessive-compulsive disorder (10%).\nHigh rates of concurrent disorders have also been documented in other trauma victims. For example, 40% to 42% of disaster survivors with PTSD also qualified for a diagnosis of major depression, and 20% to 42% met the criteria for concurrent generalized anxiety disorder.[ 13 , 14 ] While co-occurring psychiatric disorders have not yet been studied in cancer patients or survivors, their presence in Vietnam War veterans and other trauma victims would indicate that cancer clinicians should be alert to identify and treat such related syndromes in their patients."
+        },
+        {
+          "section": "The Conceptual Fit of PTS and Cancer",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Assessment of Post-Traumatic Stress and Post-Traumatic Stress Disorder in the Cancer Setting",
+            "The Conceptual Fit of PTS and Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Conceptual and practical problems can arise in the application of PTS to cancer patients and survivors. The basic concept of an extreme traumatic stressor has been described variously as an event involving direct personal experience that involves actual or threatened death or serious injury.[ 15 ] This event can be protracted and continuous but is more frequently a single, time-limited event (e.g., rape, natural disaster). In this context, for the person who has been diagnosed with cancer, the exact nature of the trauma is unclear. Is it the actual diagnosis, aspects of the treatment process, information given about recurrence, test results, or some other aspect of the cancer experience? Identifying a discrete stressor within the multiple crises that constitute a cancer experience is more difficult than for other traumas. In one study of patients with breast cancer who underwent autologous bone marrow transplant, more PTSD-like symptoms were reported at the time of initial diagnosis.[ 16 ]\nAnother concern regarding conceptual fit is related to re-experiencing the trauma. In a study of women with early-stage breast cancer, researchers found that the traumatizing aspects of the cancer experience were receiving the diagnosis and waiting for test results from node dissection.[ 17 ] Arguing that these “information traumas” tend to cause intrusive worry about the future—not intrusive recollections of past events—the authors questioned whether cancer fits a conceptual model of PTSD trauma. Re-experiencing the trauma is often measured in terms of unwanted intrusive thoughts about the traumatic event. The cognitive processing of a current and ongoing health threat with uncertain outcome might differ significantly from unwanted intrusive thoughts about a single past event. Some researchers have argued that not all intrusive thoughts are negative or indicate re-experiencing a trauma; rather, they might represent appropriate vigilance and attention to potential symptoms that could result in appropriate help-seeking.[ 5 , 18 ]\nConversely, a unique study assessing the physiological reactivity of patients with breast cancer to a personalized imagery script of their most stressful experiences with cancer found elevated physiological responses that were comparable to those of PTSD patients who had experienced other (non–cancer-related) traumas. This finding suggests a good fit between patients with cancer and the PTSD trauma model, as it shows comparable symptoms of increased arousal in patients with cancer. Also, in a factor analytic study designed to confirm the presence of the three broad PTSD symptom clusters (re-experiencing, avoidance of reminders, and hyperarousal), researchers found some tentative support for the DSM-IV symptom clusters in a sample of breast cancer survivors.[ 19 ]\nIn a study of 74 women breast cancer survivors interviewed at 18 months postdiagnosis via the Structured Clinical Interview for DSM, three groups were identified: one met the full criteria for PTSD (n = 12), another met partial criteria for PTSD (i.e., subsyndromal, n = 15), and a third group had no PTSD (n = 47). Further analyses investigated group differences. Some notable factors affecting the full-criteria PTSD group compared with the subsyndromal and no-PTSD groups included the following:[ 20 ]\n- Significantly higher number of violent traumas (e.g., physical abuse, rape).\n- Higher number of anxiety disorders preceding a cancer diagnosis.\n- More advanced disease (75% stage III vs. 7% in the subsyndromal group and 6% in the no-PTSD group).\n- More extensive surgeries (83% modified radical mastectomy vs. 47% in the subsyndromal group and 38% in the no-PTSD group).\n- Higher lifetime prevalence of previous PTSD (42% vs. 7% in the subsyndromal group and 9% in the no-PTSD group).\nFurther research is needed to continue to investigate the important question of how well the conceptual model of PTSD as an anxiety response to a major life trauma fits the life experience of patients with cancer. Reviews have argued both in favor of [ 21 ] and against [ 18 ] the continued use of trauma models for conceptualizing the experience of cancer. Others have proposed alternate conceptual models.[ 5 , 22 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Assessment of Post-Traumatic Stress and Post-Traumatic Stress Disorder in the Cancer Setting",
+            "The Conceptual Fit of PTS and Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 22,
+          "text": "- American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders: DSM-5. 5th ed. American Psychiatric Association, 2013.\n- Greenberg DB, Goorin A, Gebhardt MC, et al.: Quality of life in osteosarcoma survivors. Oncology (Huntingt) 8 (11): 19-25; discussion 25-6, 32, 35, 1994. [PUBMED Abstract]\n- American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders: DSM-IV. 4th ed. American Psychiatric Association, 1994.\n- Perry S, Difede J, Musngi G, et al.: Predictors of posttraumatic stress disorder after burn injury. Am J Psychiatry 149 (7): 931-5, 1992. [PUBMED Abstract]\n- Deimling GT, Kahana B, Bowman KF, et al.: Cancer survivorship and psychological distress in later life. Psychooncology 11 (6): 479-94, 2002 Nov-Dec. [PUBMED Abstract]\n- Spitzer RL, Williams JB, Gibbon M, et al.: The Structured Clinical Interview for DSM-III-R (SCID). I: History, rationale, and description. Arch Gen Psychiatry 49 (8): 624-9, 1992. [PUBMED Abstract]\n- Andrykowski MA, Cordova MJ, Studts JL, et al.: Posttraumatic stress disorder after treatment for breast cancer: prevalence of diagnosis and use of the PTSD Checklist-Civilian Version (PCL-C) as a screening instrument. J Consult Clin Psychol 66 (3): 586-90, 1998. [PUBMED Abstract]\n- Weathers FW, Huska JA, Keane TM: PCL-C for DSM-IV. National Center for PTSD-Behavioral Science Division, 1991.\n- Sundin EC, Horowitz MJ: Impact of Event Scale: psychometric properties. Br J Psychiatry 180: 205-9, 2002. [PUBMED Abstract]\n- Rundell JR, Ursano RJ, Holloway HC, et al.: Psychiatric responses to trauma. Hosp Community Psychiatry 40 (1): 68-74, 1989. [PUBMED Abstract]\n- Davidson JR, Foa EB: Diagnostic issues in posttraumatic stress disorder: considerations for the DSM-IV. J Abnorm Psychol 100 (3): 346-55, 1991. [PUBMED Abstract]\n- Green BL, Lindy JD, Grace MC: Posttraumatic stress disorder. Toward DSM-IV. J Nerv Ment Dis 173 (7): 406-11, 1985. [PUBMED Abstract]\n- Keane TM, Wolfe J: Comorbidity in post-traumatic stress disorder: an analysis of community and clinical studies. J Appl Soc Psychol 20 (21): 1776-88, 1990.\n- Smith EM, North CS, McCool RE, et al.: Acute postdisaster psychiatric disorders: identification of persons at risk. Am J Psychiatry 147 (2): 202-6, 1990. [PUBMED Abstract]\n- American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders: DSM-IV-TR. 4th rev. ed. American Psychiatric Association, 2000.\n- Mundy EA, Blanchard EB, Cirenza E, et al.: Posttraumatic stress disorder in breast cancer patients following autologous bone marrow transplantation or conventional cancer treatments. Behav Res Ther 38 (10): 1015-27, 2000. [PUBMED Abstract]\n- Green BL, Rowland JH, Krupnick JL, et al.: Prevalence of posttraumatic stress disorder in women with breast cancer. Psychosomatics 39 (2): 102-11, 1998. [PUBMED Abstract]\n- Palmer SC, Kagee A, Coyne JC, et al.: Experience of trauma, distress, and posttraumatic stress disorder among breast cancer patients. Psychosom Med 66 (2): 258-64, 2004 Mar-Apr. [PUBMED Abstract]\n- Cordova MJ, Studts JL, Hann DM, et al.: Symptom structure of PTSD following breast cancer. J Trauma Stress 13 (2): 301-19, 2000. [PUBMED Abstract]\n- Shelby RA, Golden-Kreutz DM, Andersen BL: PTSD diagnoses, subsyndromal symptoms, and comorbidities contribute to impairments for breast cancer survivors. J Trauma Stress 21 (2): 165-72, 2008. [PUBMED Abstract]\n- Gurevich M, Devins GM, Rodin GM: Stress response syndromes and cancer: conceptual and assessment issues. Psychosomatics 43 (4): 259-81, 2002 Jul-Aug. [PUBMED Abstract]\n- Cordova MJ, Andrykowski MA: Responses to cancer diagnosis and treatment: posttraumatic stress and posttraumatic growth. Semin Clin Neuropsychiatry 8 (4): 286-96, 2003. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Post-Traumatic Stress Disorder",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Treatment of Post-Traumatic Stress Disorder"
+          ],
+          "is_boilerplate": false,
+          "block_count": 48,
+          "text": "The chronic and sometimes devastating psychological and interpersonal sequelae of post-traumatic stress disorder (PTSD) necessitates timely and effective treatment.[ 1 , 2 ] The avoidant responses associated with PTSD often delay or prevent individuals from seeking professional assistance. While no specific therapies for PTSD in the cancer setting have been developed, treatment modalities used with other people with PTSD can help alleviate distress in cancer patients and survivors.[ 3 , 4 ]\nMost clinicians recommend using a multimodal approach, choosing components to meet the specific needs of each patient and taking into account any concurrent psychiatric disorders such as depression or substance abuse. Multiple modalities are frequently considered in a crisis intervention approach to facilitating adjustment of patients with cancer.\nThe crisis intervention model comprises a broad range of therapies that can help treat post-traumatic stress symptoms. The goals of this model are to reduce symptoms and restore patients to their usual levels of functioning. In this model, the therapist often takes an active, directive stance with the patient, focusing on the following: [ 5 ][ Level of evidence: II ]\n- Resolving concrete problems.\n- Teaching specific coping skills.\n- Providing a safe and supportive environment.\nCognitive-behavioral techniques have proven especially helpful within the crisis intervention setting. Some of these methods include the following:[ 6 ]\n- Helping the patient understand symptoms.\n- Teaching effective coping strategies and stress management techniques (such as relaxation training).\n- Restructuring cognition.\n- Providing exposure to opportunities for systematic desensitization of symptoms.\nIn a single case study, a 10-session cognitive-behavioral intervention for a male cancer patient who was 3 years post–bone marrow transplant and had PTSD was found to be effective. This study used a combination of cognitive coping strategies, relaxation procedures, relapse prevention, and generalization techniques. Benefits were maintained at a 6-month follow-up.[ 7 ][ Level of evidence: III ] Behaviorally oriented approaches to sexual therapy may also be useful when the avoidance manifested by patients is decreased sexual activity and avoidance of intimate situations.\nSupport groups also appear to benefit people who experience post-traumatic symptoms. In the group setting, such patients can receive emotional support and encounter others with similar experiences and symptoms, validating their own experiences and learning a variety of coping and management strategies.\nFor patients with particularly distressing or severe symptoms, psychopharmacology may provide an additional means of treatment. Several classes of medications have been used to treat individuals with PTSD.[ 8 , 9 ] For pharmacological treatments for PTSD, see Table 1 . For example:\n- Tricyclic and monoamine oxidase-inhibitor antidepressants are commonly used, particularly when the symptoms of PTSD are accompanied by depression.\n- Selective serotonin reuptake inhibitors are effective in reducing the hyperarousal and intrusive symptoms of PTSD.[ 1 ]\n- Antianxiety medications may help reduce overall arousal and anxiety symptoms. Infrequently, antipsychotic medications may reduce severe intrusive flashbacks.\nMedication | Dosing (mg/day) | Target Symptoms c | Evidence Basis\nRCT = randomized controlled trial; SSRIs = selective serotonin reuptake inhibitors.\na Adapted from Berger et al.[ 10 ] and Asnis et al.[ 11 ]\nb All studies conducted in patients without cancer only. No studies have been reported on pharmacological treatments for PTSD conducted in patients with cancer.\nc PTSD symptom clusters are as follows: cluster B, re-experiencing; cluster C, avoidance/numbing; cluster D, hyperarousal.\nd Considered first-line treatments for PTSD.\ne FDA approved for the treatment of PTSD.\nf Used mainly as augmentation to SSRIs or serotonin-potentiating non-SSRIs.\nSSRIs d\nSertraline e | 50–200 | All symptom clusters | Several RCTs\nParoxetine e | 20–50 | All symptom clusters | Several RCTs\nFluoxetine | 20–60 | All symptom clusters | Several RCTs\nFluvoxamine | 50–300 | All symptom clusters | Open label\nCitalopram | 20–60 | All symptom clusters | Open label\nEscitalopram | 10–20 | All symptom clusters | Open label\nSerotonin-Potentiating Non-SSRIs\nVenlafaxine | 37.5–225 | All symptom clusters | Open label\nDuloxetine | 30–120 | All symptom clusters | Open label\nTrazodone | 50–300 | Insomnia, possibly other clusters | Open label\nMirtazapine | 15–45 | Insomnia, possibly other clusters | Open label\nOther Antidepressants\nImipramine | 50–225 | Possibly all clusters | One RCT\nOther Agents Used as Augmentation Therapy Only f\nAtypical Antipsychotics\nRisperidone | 1–6 | Clusters B and D, possibly cluster C | Several RCTs\nOlanzapine | 5–20 | Possibly all clusters | One RCT\nQuetiapine | 25–300 | Possibly all clusters | Open label\nAnticonvulsants\nLamotrigine | 50–400 | Clusters B and C | One RCT\nAdrenergic-Inhibiting Agents\nPrazosin | 2–6 | All symptom clusters (primary target symptom: nightmares) | Several RCTs"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Treatment of Post-Traumatic Stress Disorder",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- Davidson JR, Foa EB: Diagnostic issues in posttraumatic stress disorder: considerations for the DSM-IV. J Abnorm Psychol 100 (3): 346-55, 1991. [PUBMED Abstract]\n- Alter CL, Pelcovitz D, Axelrod A, et al.: Identification of PTSD in cancer survivors. Psychosomatics 37 (2): 137-43, 1996 Mar-Apr. [PUBMED Abstract]\n- Foa EB: Psychosocial treatment of posttraumatic stress disorder. J Clin Psychiatry 61 (Suppl 5): 43-8; discussion 49-51, 2000. [PUBMED Abstract]\n- Adshead G: Psychological therapies for post-traumatic stress disorder. Br J Psychiatry 177: 144-8, 2000. [PUBMED Abstract]\n- Perry S, Difede J, Musngi G, et al.: Predictors of posttraumatic stress disorder after burn injury. Am J Psychiatry 149 (7): 931-5, 1992. [PUBMED Abstract]\n- Mikulincer M, Solomon Z: Attributional style and combat-related posttraumatic stress disorder. J Abnorm Psychol 97 (3): 308-13, 1988. [PUBMED Abstract]\n- DuHamel KN, Ostroff JS, Bovbjerg DH, et al.: Trauma-focused intervention after bone marrow transplantation: A case study. Behav Ther 31 (1): 175-86, 2000.\n- Marmar CR, Neylan TC, Schoenfeld FB: New directions in the pharmacotherapy of posttraumatic stress disorder. Psychiatr Q 73 (4): 259-70, 2002 Winter. [PUBMED Abstract]\n- Davidson JR: Pharmacotherapy of posttraumatic stress disorder: treatment options, long-term follow-up, and predictors of outcome. J Clin Psychiatry 61 (Suppl 5): 52-6; discussion 57-9, 2000. [PUBMED Abstract]\n- Berger W, Mendlowicz MV, Marques-Portella C, et al.: Pharmacologic alternatives to antidepressants in posttraumatic stress disorder: a systematic review. Prog Neuropsychopharmacol Biol Psychiatry 33 (2): 169-80, 2009. [PUBMED Abstract]\n- Asnis GM, Kohn SR, Henderson M, et al.: SSRIs versus non-SSRIs in post-traumatic stress disorder: an update with recommendations. Drugs 64 (4): 383-404, 2004. [PUBMED Abstract]"
+        },
+        {
+          "section": "Considerations for Pediatric Patients and Their Families",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Considerations for Pediatric Patients and Their Families"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Cancer is often a significant traumatic event, given the nature of the diagnosis, the number of invasive and painful procedures, and the often-long hospitalizations that children and their families must endure. Based on of this exposure model, a number of studies have examined whether children treated for cancer are at a significantly higher risk for developing symptoms of post-traumatic stress disorder (PTSD), with mixed results.[ 1 ] One study reported that children and adolescents who were undergoing treatment reported some symptoms of post-traumatic stress (PTS). However, for most children, these symptoms did not meet the criteria for a diagnosis of PTSD, and the symptoms diminished over time.[ 2 ][ Level of evidence: II ]\nOther studies suggest that survivors of childhood cancer have an increased risk for PTS symptoms and PTSD after treatment is finished. In a study of 78 adults aged 18 to 41 years who had been treated for childhood cancer, 20.5% met the criteria for a diagnosis of PTSD at some time since the end of their treatment. Clinically significant events of intrusive symptoms (9%) and avoidant symptoms (16.7%) were reported in the sample, and the symptoms were associated with reports of elevated anxiety and other measures of psychological distress.[ 3 ][ Level of evidence: II ] Survivors who report higher levels of uncertainty about their disease and the future appear more likely to have reports of elevated PTS symptoms.[ 4 ][ Level of evidence: II ][ 5 ]\nSimilarly, a study of 182 adolescent and young adult cancer survivors who were more than 5 years from diagnosis and more than 2 years from completion of cancer treatment found that 16% met the criteria for PTSD. A relationship between PTSD and higher levels of other psychological problems was also reported.[ 6 ] When survivors met the criteria for PTSD, they were more likely to experience depression and negative affect, lower satisfaction with life, and poorer health-related quality of life, as well as difficulty performing developmental tasks.[ 7 ][ Level of evidence: II ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Considerations for Pediatric Patients and Their Families",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Bruce M: A systematic and conceptual review of posttraumatic stress in childhood cancer survivors and their parents. Clin Psychol Rev 26 (3): 233-56, 2006. [PUBMED Abstract]\n- Phipps S, Long A, Hudson M, et al.: Symptoms of post-traumatic stress in children with cancer and their parents: effects of informant and time from diagnosis. Pediatr Blood Cancer 45 (7): 952-9, 2005. [PUBMED Abstract]\n- Hobbie WL, Stuber M, Meeske K, et al.: Symptoms of posttraumatic stress in young adult survivors of childhood cancer. J Clin Oncol 18 (24): 4060-6, 2000. [PUBMED Abstract]\n- Lee YL: The relationships between uncertainty and posttraumatic stress in survivors of childhood cancer. J Nurs Res 14 (2): 133-42, 2006. [PUBMED Abstract]\n- Santacroce SJ, Lee YL: Uncertainty, posttraumatic stress, and health behavior in young adult childhood cancer survivors. Nurs Res 55 (4): 259-66, 2006 Jul-Aug. [PUBMED Abstract]\n- Rourke MT, Hobbie WL, Schwartz L, et al.: Posttraumatic stress disorder (PTSD) in young adult survivors of childhood cancer. Pediatr Blood Cancer 49 (2): 177-82, 2007. [PUBMED Abstract]\n- Schwartz L, Drotar D: Posttraumatic stress and related impairment in survivors of childhood cancer in early adulthood compared to healthy peers. J Pediatr Psychol 31 (4): 356-66, 2006. [PUBMED Abstract]"
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "Latest Updates to This Summary (02/25/2025)",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (02/25/2025)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nEditorial changes were made to this summary.\nThis summary is written and maintained by the PDQ Supportive and Palliative Care Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the diagnostic criteria for and treatment of cancer-related post-traumatic stress and related symptoms. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 11,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Supportive and Palliative Care Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Cancer-Related Post-Traumatic Stress are:\n- Natalie Jacobowski, MD (Nationwide Children's Hospital)\n- Jayesh Kamath, MD, PhD (University of Connecticut Health Center)\n- Rachel A. Pozzar, PhD, RN (Dana-Farber Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Supportive and Palliative Care Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Supportive and Palliative Care Editorial Board. PDQ Cancer-Related Post-Traumatic Stress. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/coping/survivorship/new-normal/ptsd-hp-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389172]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\ac506fd169c967fa105c.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "supportive_care"
+      ],
+      "topic": "supportive_care",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+      "summary_name": "Cancer-Related Post-Traumatic Stress",
+      "url": "https://www.cancer.gov/about-cancer/coping/survivorship/new-normal/ptsd-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/supportive-care"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "May 14, 2025",
+      "retrieved_at": "2026-08-31T07:06:47.553108+00:00",
+      "content_sha256": "2c05883ec608abd4358a8663d0b8efceeef8fd8ca2b3987fa1ff3846b5d8933d",
+      "section_count": 29,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- People react in different ways when they hear they have cancer.\n- PTS can occur at any point during the cancer journey."
+        },
+        {
+          "section": "People react in different ways when they hear they have cancer.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Overview",
+            "People react in different ways when they hear they have cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "People have a range of normal reactions when they hear they have cancer . These include:\n- Repeated frightening thoughts.\n- Being distracted or overexcited.\n- Trouble sleeping.\n- Feeling detached from oneself or reality.\nThese reactions may also be symptoms of cancer-related post-traumatic stress (PTS). Talk with your health care team if you continue to have these symptoms."
+        },
+        {
+          "section": "PTS can occur at any point during the cancer journey.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Overview",
+            "PTS can occur at any point during the cancer journey."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "People with cancer may have symptoms of post-traumatic stress at any point from diagnosis through treatment, after treatment is complete, or during recurrence . Adult survivors of childhood cancer and their families may also have post-traumatic stress.\nCancer-related PTS may or may not lead to post-traumatic stress disorder (PTSD). PTSD is a specific group of symptoms that affect survivors of stressful events. These events usually involve the threat of death or serious injury to oneself or others. Cancer and its treatment may cause distress, but it does not mean it will develop into PTSD. Your health care team will evaluate your symptoms during your cancer journey."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Factors That Affect the Risk of Cancer-Related Post-Traumatic Stress (PTS)",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Certain factors may increase the risk of PTS in people with cancer.\n- Physical factors\n- Psychological, mental, and social factors\n- Certain protective factors may reduce the risk of PTS in people with cancer.\n- PTS symptoms develop by conditioning."
+        },
+        {
+          "section": "Certain factors may increase the risk of PTS in people with cancer.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Factors That Affect the Risk of Cancer-Related Post-Traumatic Stress (PTS)",
+            "Certain factors may increase the risk of PTS in people with cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Not everyone is at increased risk of cancer-related post-traumatic stress . Certain physical and mental factors that are linked to PTS or PTSD have been reported in studies:"
+        },
+        {
+          "section": "Physical factors",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Factors That Affect the Risk of Cancer-Related Post-Traumatic Stress (PTS)",
+            "Certain factors may increase the risk of PTS in people with cancer.",
+            "Physical factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Cancer that recurs (comes back) increased stress symptoms .\n- In survivors of childhood cancer , symptoms of PTS occurred more often when there was a longer treatment time.\n- Breast cancer survivors who had advanced cancer , long surgeries , or a history of trauma or anxiety disorders , were more likely to be diagnosed with PTSD."
+        },
+        {
+          "section": "Psychological, mental, and social factors",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Factors That Affect the Risk of Cancer-Related Post-Traumatic Stress (PTS)",
+            "Certain factors may increase the risk of PTS in people with cancer.",
+            "Psychological, mental, and social factors"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Previous trauma.\n- High level of general stress.\n- Genetic factors and biological factors (such as a hormone disorder ) that affect memory and learning.\n- Lack of social support .\n- Threat to life and body.\n- Having PTSD or other psychological problems before being diagnosed with cancer.\n- The use of avoidance to cope with stress."
+        },
+        {
+          "section": "Certain protective factors may reduce the risk of PTS in people with cancer.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Factors That Affect the Risk of Cancer-Related Post-Traumatic Stress (PTS)",
+            "Certain protective factors may reduce the risk of PTS in people with cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "People with cancer may have a lower risk of PTS if they have:\n- Good social support.\n- Clear information about the stage of their cancer.\n- An open relationship with their health care providers ."
+        },
+        {
+          "section": "PTS symptoms develop by conditioning.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Factors That Affect the Risk of Cancer-Related Post-Traumatic Stress (PTS)",
+            "PTS symptoms develop by conditioning."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Conditioning occurs when certain triggers become linked with an upsetting event. Neutral triggers (such as smells, sounds, and sights) that occurred at the same time as upsetting triggers (such as chemotherapy or painful treatments) later cause anxiety , stress, and fear even when they occur alone, after the trauma has ended.\nIn people who have a history of PTSD from a previous trauma , symptoms may start again by certain triggers during their cancer treatment (for example, being inside MRI or CT scanners). They also may have problems adjusting to cancer and cancer treatment."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Screening for Cancer-Related Post-Traumatic Stress (PTS)",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- The cancer experience is more than one stressful event.\n- The specific cause of cancer-related PTS may be unknown.\n- Symptoms of cancer-related PTS are a lot like symptoms of other stress-related disorders."
+        },
+        {
+          "section": "The cancer experience is more than one stressful event.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Screening for Cancer-Related Post-Traumatic Stress (PTS)",
+            "The cancer experience is more than one stressful event."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Cancer may involve stressful events that repeat or continue over time. This may cause symptoms of post-traumatic stress anytime from diagnosis through treatment and possible cancer recurrence , so screening may be needed more than once. The health care team will look for symptoms of PTS or PTSD ."
+        },
+        {
+          "section": "The specific cause of cancer-related PTS may be unknown.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Screening for Cancer-Related Post-Traumatic Stress (PTS)",
+            "The specific cause of cancer-related PTS may be unknown."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For a person coping with cancer, the specific trauma that triggers cancer-related post-traumatic stress isn't always known. Because the cancer experience involves so many upsetting events, it is much harder to know the exact cause of stress than it is for other traumas, such as natural disasters or physical assault."
+        },
+        {
+          "section": "Symptoms of cancer-related PTS are a lot like symptoms of other stress-related disorders.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Screening for Cancer-Related Post-Traumatic Stress (PTS)",
+            "Symptoms of cancer-related PTS are a lot like symptoms of other stress-related disorders."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "PTS has many of the same symptoms as depression , anxiety disorders , and phobias .\nSome of the symptoms that may be seen in PTS and in other conditions include:\n- Feeling defensive, irritable, or fearful.\n- Being unable to think clearly.\n- Sleeping problems.\n- Avoiding people.\n- Avoiding stressful memories.\n- Guilt and self-blame.\n- Loss of interest in life."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Treatment of Cancer-Related Post-Traumatic Stress (PTS)",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Treatments used for PTS may be the same as treatments for PTSD.\n- Talking with a counselor, relaxation techniques, and support groups may help reduce symptoms of PTS.\n- Medicines may help severe symptoms of PTS."
+        },
+        {
+          "section": "Treatments used for PTS may be the same as treatments for PTSD.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Treatment of Cancer-Related Post-Traumatic Stress (PTS)",
+            "Treatments used for PTS may be the same as treatments for PTSD."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Although there are no specific treatments for cancer-related PTS, treatments used for PTSD can be useful in relieving distress in people with cancer and survivors ."
+        },
+        {
+          "section": "Talking with a counselor, relaxation techniques, and support groups may help reduce symptoms of PTS.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Treatment of Cancer-Related Post-Traumatic Stress (PTS)",
+            "Talking with a counselor, relaxation techniques, and support groups may help reduce symptoms of PTS."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "A crisis intervention may be used in people with cancer to help them relieve distress and return to normal activities. This method focuses on solving problems, teaching coping skills , and providing a supportive setting.\nSome people are helped by methods that teach them to change their behaviors by changing their thinking patterns. Through cognitive behavioral therapy (CBT), they may:\n- Understand their symptoms .\n- Learn ways to cope and to manage stress (such as relaxation techniques ).\n- Become aware of thinking patterns that cause distress and negative emotions and replace them with more balanced and useful ways of thinking.\n- Become less sensitive to upsetting triggers .\nSupport groups may also help people who have PTS symptoms. In the group setting, they can get emotional support, learn coping skills, and meet others with similar experiences and symptoms."
+        },
+        {
+          "section": "Medicines may help severe symptoms of PTS.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Treatment of Cancer-Related Post-Traumatic Stress (PTS)",
+            "Medicines may help severe symptoms of PTS."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "For people with severe symptoms of PTS, medicines may be used. For example:\n- Tricyclic and monoamine oxidase inhibitor (MOA) antidepressants may be used when PTS occurs along with depression .\n- Selective serotonin reuptake inhibitors (SSRIs) may reduce the stress that occurs in what is known as the \" fight-or-flight syndrome \".\n- Antianxiety medicines may help reduce symptoms of anxiety . In certain cases, antipsychotic medicines may reduce severe flashbacks."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Post-Traumatic Stress in Children With Cancer and Cancer Survivors",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "- Children and teens with cancer may be at risk for post-traumatic stress disorder (PTSD).\n- Cancer survivors with PTS need early treatment with methods that are used to treat other trauma victims.\n- Cancer survivors and their families need long-term monitoring for PTS."
+        },
+        {
+          "section": "Children and teens with cancer may be at risk for post-traumatic stress disorder (PTSD).",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Post-Traumatic Stress in Children With Cancer and Cancer Survivors",
+            "Children and teens with cancer may be at risk for post-traumatic stress disorder (PTSD)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "In children and teens with cancer, symptoms of PTS or PTSD may occur during treatment or after treatment has ended. Those who feel very uncertain about their disease and future may be more likely to have PTSD symptoms.\nChildhood cancer survivors who are diagnosed with PTSD are more likely to have depression , lower satisfaction with life, and lack of daily life skills."
+        },
+        {
+          "section": "Cancer survivors with PTS need early treatment with methods that are used to treat other trauma victims.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Post-Traumatic Stress in Children With Cancer and Cancer Survivors",
+            "Cancer survivors with PTS need early treatment with methods that are used to treat other trauma victims."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Effects of PTS are long-lasting and serious. It may affect the ability to have a normal lifestyle and may affect personal relationships, education, and employment. People with cancer may avoid getting professional care to avoid places and persons linked with cancer.\nIt is important that cancer survivors are aware of the possible mental distress of living with cancer and the need for early treatment of PTS. Follow-up cancer care may be given by the cancer treatment doctor or the main provider, such as the family doctor. Many survivors get help from therapists who are experts in helping people who are recovering from cancer. More than one kind of treatment may be used."
+        },
+        {
+          "section": "Cancer survivors and their families need long-term monitoring for PTS.",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Post-Traumatic Stress in Children With Cancer and Cancer Survivors",
+            "Cancer survivors and their families need long-term monitoring for PTS."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Symptoms of PTS usually begin within the first 3 months after the trauma , but sometimes they do not appear for months or even years. Therefore, cancer survivors and their families need long-term monitoring. Learn more about Adjustment to Cancer: Anxiety and Distress ."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of cancer-related post-traumatic stress. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Supportive and Palliative Care Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Supportive and Palliative Care Editorial Board. PDQ Cancer-Related Post-Traumatic Stress. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/about-cancer/coping/survivorship/new-normal/ptsd-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389374]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Cancer-Related Post-Traumatic Stress (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\240aba7ba77a31390298.html"
+    }
+  ]
+}

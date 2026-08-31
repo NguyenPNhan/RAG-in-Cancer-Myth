@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "scope": "general_or_multi_cancer",
+  "summary_name": "Hereditary Kidney Cancer Syndromes",
+  "generated_at": "2026-08-31T07:15:23.715444+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "genetics"
+      ],
+      "topic": "genetics",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": null,
+      "title": "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+      "summary_name": "Hereditary Kidney Cancer Syndromes",
+      "url": "https://www.cancer.gov/types/kidney/patient/kidney-genetics-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/genetics"
+      ],
+      "index_link_labels": [
+        "Genetics of Kidney Cancer (PDQ®) – patient version"
+      ],
+      "last_updated": "December 2, 2024",
+      "retrieved_at": "2026-08-31T07:11:09.104898+00:00",
+      "content_sha256": "3fad740bf1ad8b8f0f4fdbe62bb3e2e8c818f2d731c2cf8e29d2b96ac8fabd04",
+      "section_count": 23,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What is kidney cancer?",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Kidney cancer is a disease in which malignant (cancer) cells form in tubules of the kidney."
+        },
+        {
+          "section": "Kidney cancer is a disease in which malignant (cancer) cells form in tubules of the kidney.",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What is kidney cancer?",
+            "Kidney cancer is a disease in which malignant (cancer) cells form in tubules of the kidney."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Kidney cancer (also called renal cell cancer) is cancer that starts in the lining of very small tubes in the kidney called renal tubules. There are two kidneys, one on each side of the backbone , above the waist. Tubules in the kidneys filter and clean the blood. They take out waste products and make urine. The urine passes from each kidney through a long tube called a ureter into the bladder . The bladder holds the urine until it passes through the urethra and leaves the body.\nCancer that starts in the ureters or the renal pelvis (the part of the kidney that collects urine and drains it to the ureters) is called urothelial cancer. This kind of cancer is different from renal cell cancer and is not associated with the hereditary cancer syndromes described in this summary. Urothelial cancer of the renal pelvis may be associated with another hereditary condition called Lynch syndrome . To learn more, see the health professional summary on Genetics of Colorectal Cancer ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What is hereditary kidney cancer?",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Having certain hereditary syndromes can increase the risk of kidney cancer.\n- Hereditary and non-inherited kidney cancers are different in several ways."
+        },
+        {
+          "section": "Having certain hereditary syndromes can increase the risk of kidney cancer.",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What is hereditary kidney cancer?",
+            "Having certain hereditary syndromes can increase the risk of kidney cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Most of the time, kidney cancer risk is not passed down from parent to child. Kidney cancer that affects multiple generations of a family is called hereditary kidney cancer. Hereditary kidney cancer accounts for only 5%‒8% of all kidney cancers. It is usually linked to a hereditary cancer syndrome. A hereditary cancer syndrome is a disorder in which family members have a higher-than-average risk of developing a certain type or types of cancer. Hereditary cancer syndromes are caused by inherited, harmful genetic changes (also called pathogenic variants or mutations) in certain genes. Hereditary cancer syndromes are sometimes called inherited cancer syndromes or family cancer syndromes. People with the hereditary cancer syndromes described in this summary have an increased risk of kidney cancer.\nThe hereditary cancer syndromes described in this summary are:\n- hereditary leiomyomatosis and renal cell cancer (HLRCC)\n- von Hippel-Lindau disease (VHL)\n- Birt-Hogg-Dubé syndrome (BHD)\n- hereditary papillary renal cancer (HPRC)\nEvery person inherits two copies of each gene, one from each parent. These syndromes occur when a person inherits a mutation in one copy of the gene associated with the syndrome. This form of inheritance is called autosomal dominant inheritance."
+        },
+        {
+          "section": "Hereditary and non-inherited kidney cancers are different in several ways.",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What is hereditary kidney cancer?",
+            "Hereditary and non-inherited kidney cancers are different in several ways."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Hereditary kidney cancer is often diagnosed at an earlier age than sporadic kidney cancer.\n- Some types of hereditary kidney cancer can be more or less aggressive than sporadic kidney cancer.\n- The treatments for hereditary kidney cancer may be different from treatments for sporadic kidney cancer.\n- People with hereditary kidney cancer may have a higher risk of other conditions or types of cancer.\nThis page provides information about hereditary syndromes associated with kidney cancer. It does not cover information about sporadic kidney cancer or somatic mutations found during tumor sequencing ."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What is genetic counseling and who should receive it?",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Genetic counseling is a communication process between a specially trained health professional and a person concerned about the genetic risk of disease.\n- Whether a person should get tested for hereditary kidney cancer depends on certain factors."
+        },
+        {
+          "section": "Genetic counseling is a communication process between a specially trained health professional and a person concerned about the genetic risk of disease.",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What is genetic counseling and who should receive it?",
+            "Genetic counseling is a communication process between a specially trained health professional and a person concerned about the genetic risk of disease."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "It is not always easy to determine whether a condition in a family is inherited . Genetic counselors and other specially trained health professionals can help patients understand their personal and family medical history , their options for genetic testing , and the risks and benefits of learning genetic information. If a patient chooses to get genetic testing, it may be done using a sample of blood, saliva, or skin. Genetic test results can reveal information about other family members and can create tension in the family. Genetic counselors can help people cope with their genetic testing results, including how to discuss the results with family members."
+        },
+        {
+          "section": "Whether a person should get tested for hereditary kidney cancer depends on certain factors.",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What is genetic counseling and who should receive it?",
+            "Whether a person should get tested for hereditary kidney cancer depends on certain factors."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Certain clues in the medical history or family history may lead health professionals to think that a person may have a hereditary syndrome . With kidney cancer , people who have one or more of the following criteria may be referred for genetic counseling and testing:\n- family history of multiple relatives diagnosed with kidney cancer\n- cancer developed at a young age\n- multiple tumors in one kidney or cancer in both kidneys\n- diagnosis of a type of kidney cancer that is commonly inherited"
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What are the major hereditary kidney cancer syndromes?",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Four hereditary kidney cancer syndromes and the genes that cause them have been identified."
+        },
+        {
+          "section": "Hereditary Leiomyomatosis and Renal Cell Cancer (HLRCC)",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What are the major hereditary kidney cancer syndromes?",
+            "Hereditary Leiomyomatosis and Renal Cell Cancer (HLRCC)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "HLRCC was considered rare, but it may be one of the most common hereditary cancer syndromes. Some people who have HLRCC may not have symptoms. HLRCC is caused by harmful changes (also called mutations or pathogenic variants) in the FH gene. People with HLRCC could have an increased risk of kidney cancer. The risk may be higher in males with FH mutations. Black people diagnosed with kidney cancer have more FH mutations than people from other racial and ethnic groups . HLRCC is associated with a unique type of kidney cancer that can be fast growing. People with HLRCC may also develop leiomyomas ( benign smooth-muscle tumors) in the skin and uterus (fibroids) or paragangliomas (benign tumors near adrenal glands , blood vessels , or nerves ).\nThe FH gene makes a protein called fumarase . Fumarase helps cells use oxygen and produce energy. When the FH gene is mutated , cells are not able to use oxygen, which may lead to cancer. HLRCC is inherited in an autosomal dominant manner. This means that if one parent has HLRCC, there is a 50% (1 in 2) chance their child will inherit the mutation in the FH gene.\nLearn more about HLRCC from the NCATS Genetic and Rare Diseases Information Center ."
+        },
+        {
+          "section": "Von Hippel-Lindau Disease (VHL)",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What are the major hereditary kidney cancer syndromes?",
+            "Von Hippel-Lindau Disease (VHL)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "VHL is a rare hereditary syndrome that is caused by harmful changes (also called mutations or pathogenic variants) in the VHL gene. People with VHL have an increased risk of kidney cancer and renal cysts . VHL is associated with a clear-cell type kidney cancer, which is typically slow growing. People with VHL may also develop malignant (cancer) and benign (noncancer) tumors in many parts of the body, including the central nervous system , retina , pancreas , adrenal glands , endolymphatic sac , epididymis (in males), and broad ligament (in females).\nThe VHL gene is a type of gene called tumor suppressor gene . Normally, the VHL gene prevents cells from growing and dividing too quickly. When the VHL gene is mutated in certain ways and loses its protective function, uncontrolled cell growth may lead to cancer. VHL is inherited in an autosomal dominant manner. If one parent has VHL, there is a 50% (1 in 2) chance their child will inherit the harmful genetic change in the VHL gene.\nLearn more about VHL from the NCATS Genetic and Rare Diseases Information Center ."
+        },
+        {
+          "section": "Birt-Hogg-Dubé Syndrome (BHD)",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What are the major hereditary kidney cancer syndromes?",
+            "Birt-Hogg-Dubé Syndrome (BHD)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "BHD is a rare hereditary syndrome caused by harmful changes (also called mutations or pathogenic variants) in the FLCN gene. People with BHD have an increased risk of multiple types of kidney cancer that are typically slow growing. People with BHD may also develop skin tumors called fibrofolliculomas , lung cysts , and spontaneous pneumothorax (collapsed lung).\nThe FLCN gene is a tumor suppressor gene . Normally, the FLCN gene prevents cells from growing and dividing too quickly. When the FLCN gene is mutated , uncontrolled cell growth may lead to cancer. BHD is inherited in an autosomal dominant manner. This means that if one parent has BHD, there is a 50% (1 in 2) chance their child will inherit the mutation in the FLCN gene.\nLearn more about BHD from the NCATS Genetic and Rare Diseases Information Center ."
+        },
+        {
+          "section": "Hereditary Papillary Renal Cancer (HPRC)",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What are the major hereditary kidney cancer syndromes?",
+            "Hereditary Papillary Renal Cancer (HPRC)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "HPRC is a rare hereditary syndrome caused by harmful changes (also called mutations or pathogenic variants) in the MET gene. People with HPRC have an increased risk of a type of kidney cancer called papillary kidney cancer , which is typically slow growing. Papillary kidney cancer forms in the cells lining the very small tubes in the kidney called renal tubules.\nThe MET gene makes a protein called MET that is involved in cell signaling and growth. When the MET gene is mutated , cells may not respond to signals that normally prevent them from growing, causing cancer to develop. HPRC is inherited in an autosomal dominant manner. This means that if one parent has HPRC, there is a 50% (1 in 2) chance their child will inherit the mutation in the MET gene.\nLearn more about papillary kidney cancer from the NCATS Genetic and Rare Diseases Information Center ."
+        },
+        {
+          "section": "What happens after a hereditary kidney cancer syndrome diagnosis?",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "What happens after a hereditary kidney cancer syndrome diagnosis?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Most recommendations for screening and treating people with kidney cancer are based on evidence obtained from clinical trials . Because families with these hereditary kidney cancer syndromes are rare, many of these studies did not include these types of hereditary kidney cancer. When studies of families with hereditary syndromes are not available, guidelines on how to monitor and care for patients with inherited kidney cancer are based on the expert opinion and consensus of health care professionals who have experience in treating families with these syndromes.\nFamilies with these hereditary syndromes are watched closely for signs of disease in the kidneys and in other organs. Most kidney tumors that occur can be removed by surgery, but they may recur (come back). Other treatment options may be available.\nTo learn more about screening and treatment options for each hereditary syndrome, see the health professional summaries on Hereditary Leiomyomatosis and Renal Cell Cancer (HLRCC), Von Hippel-Lindau Disease (VHL), Birt-Hogg-Dubé Syndrome (BHD), and Hereditary Papillary Renal Carcinoma (HPRC). Learn about the treatment of kidney cancer in the general population at Renal Cell Cancer Treatment ."
+        },
+        {
+          "section": "Are clinical trials available for hereditary kidney cancer syndromes?",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "Are clinical trials available for hereditary kidney cancer syndromes?"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our clinical trial search to find NCI -supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Learn more about kidney (renal cell) cancer",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "Learn more about kidney (renal cell) cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "For more information from the National Cancer Institute and the National Institutes of Health about kidney cancer and genetics , see:\n- Kidney Cancer Home Page\n- Drugs Approved for Kidney Cancer\n- Genetic Testing for Inherited Cancer Risk\n- Genetic and Rare Diseases Information Center\n- MedlinePlus: Genetics\n- Renal Cell Cancer Treatment\n- Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment\n- Wilms Tumor and Other Childhood Kidney Tumors Treatment\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the genetics of kidney cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Cancer Genetics Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Cancer Genetics Editorial Board. PDQ Hereditary Kidney Cancer Syndromes. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/kidney/patient/kidney-genetics-pdq . Accessed <MM/DD/YYYY>.\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Hereditary Kidney Cancer Syndromes (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\102d6e71ec9a83e3ab7e.html"
+    }
+  ]
+}

@@ -1,0 +1,941 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Urethral Cancer",
+  "generated_at": "2026-08-31T07:15:23.572152+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "health_professional",
+      "language": "en",
+      "cancer_type": "Urethral Cancer",
+      "title": "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+      "summary_name": "Urethral Cancer Treatment",
+      "url": "https://www.cancer.gov/types/urethral/hp/urethral-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "health professional"
+      ],
+      "last_updated": "July 19, 2024",
+      "retrieved_at": "2026-08-31T07:15:07.656680+00:00",
+      "content_sha256": "0581860e32a516f24be53e5188d29689bf1cae69c88fd30d060213bea8eb5a47",
+      "section_count": 40,
+      "sections": [
+        {
+          "section": "Incidence and Mortality",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Urethral Cancer",
+            "Incidence and Mortality"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Urethral cancer is rare. The annual incidence rate for urethral cancer in the Surveillance, Epidemiology, and End Results (SEER) Program database from 1973 to 2002 in the United States was 4.3 per million for men and 1.5 per million for women, with downward trends over the three decades.[ 1 ] The incidence was twice as high in African American individuals as in White individuals (5 per million vs. 2.5 per million). Urethral cancers appear to be associated with human papillomavirus (HPV) infection, particularly HPV16, a strain known to cause cervical cancer.[ 2 , 3 ]\nBecause urethral cancer is rare, nearly all information about its treatment and the outcomes of therapy is derived from retrospective, single-center case series, which represents a very low Level of evidence C3 . Most information comes from cases accumulated over many decades at major academic centers."
+        },
+        {
+          "section": "Anatomy",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Urethral Cancer",
+            "Anatomy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The female urethra is largely contained within the anterior vaginal wall. In adults, it is about 4 cm in length.\nThe male urethra, which averages about 20 cm in length, is divided into distal and proximal portions. The distal urethra, which extends from the tip of the penis to just before the prostate, includes the meatus, the fossa navicularis, the penile or pendulous urethra, and the bulbar urethra. The proximal urethra, which extends from the bulbar urethra to the bladder neck, includes the membranous urethra and the prostatic urethra."
+        },
+        {
+          "section": "Prognosis",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Urethral Cancer",
+            "Prognosis"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The prognosis of urethral cancer depends on the following factors:[ 4 - 6 ]\n- Anatomical location.\n- Size.\n- Stage.\n- Depth of invasion.\nSuperficial tumors in the distal urethra in both women and men are generally curable. However, deeply invasive lesions are rarely curable by any combination of therapies. In men, the prognosis of tumors in the distal (pendulous) urethra is better than for tumors of the proximal (bulbomembranous) and prostatic urethra, which tend to present at more advanced stages.[ 7 , 8 ] Likewise, distal urethral tumors tend to occur at earlier stages in women and to have a better prognosis than proximal tumors.[ 9 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "General Information About Urethral Cancer",
+            "Prognosis",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "- Swartz MA, Porter MP, Lin DW, et al.: Incidence of primary urethral carcinoma in the United States. Urology 68 (6): 1164-8, 2006. [PUBMED Abstract]\n- Wiener JS, Liu ET, Walther PJ: Oncogenic human papillomavirus type 16 is associated with squamous cell cancer of the male urethra. Cancer Res 52 (18): 5018-23, 1992. [PUBMED Abstract]\n- Wiener JS, Walther PJ: A high association of oncogenic human papillomaviruses with carcinomas of the female urethra: polymerase chain reaction-based analysis of multiple histological types. J Urol 151 (1): 49-53, 1994. [PUBMED Abstract]\n- Urethra. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 767–76.\n- Rabbani F: Prognostic factors in male urethral cancer. Cancer 117 (11): 2426-34, 2011. [PUBMED Abstract]\n- Dalbagni G, Zhang ZF, Lacombe L, et al.: Female urethral carcinoma: an analysis of treatment outcome and a plea for a standardized management strategy. Br J Urol 82 (6): 835-41, 1998. [PUBMED Abstract]\n- Dinney CP, Johnson DE, Swanson DA, et al.: Therapy and prognosis for male anterior urethral carcinoma: an update. Urology 43 (4): 506-14, 1994. [PUBMED Abstract]\n- Dalbagni G, Zhang ZF, Lacombe L, et al.: Male urethral carcinoma: analysis of treatment outcome. Urology 53 (6): 1126-32, 1999. [PUBMED Abstract]\n- Gheiler EL, Tefilli MV, Tiguert R, et al.: Management of primary urethral cancer. Urology 52 (3): 487-93, 1998. [PUBMED Abstract]"
+        },
+        {
+          "section": "Cellular Classification of Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "In an analysis of Surveillance, Epidemiology, and End Results (SEER) Program data from 1973 to 2002, the most common histological types of urethral cancer were the following:[ 1 ]\n- Transitional cell (55%).\n- Squamous cell (21.5%).\n- Adenocarcinoma (16.4%).\nOther cell types, such as melanoma, were extremely rare.[ 1 ]\nThe female urethra is lined by transitional cell mucosa proximally and stratified squamous cells distally. Therefore, transitional cell carcinoma is most common in the proximal urethra, and squamous cell carcinoma predominates in the distal urethra. Adenocarcinoma may occur in both locations and arises from metaplasia of the numerous periurethral glands.\nThe male urethra is lined by transitional cells in its prostatic and membranous portion and stratified columnar epithelium to stratified squamous epithelium in the bulbous and penile portions. The submucosa of the urethra contains numerous glands. Therefore, urethral cancer in men can manifest the histological characteristics of transitional cell carcinoma, squamous cell carcinoma, or adenocarcinoma.\nExcept for the prostatic urethra, where transitional cell carcinoma is most common, squamous cell carcinoma is the predominant histology of urethral neoplasms. Because transitional cell carcinoma of the prostatic urethra may be associated with transitional cell carcinoma of the bladder and/or transitional cell carcinoma arising in prostatic ducts, it is often treated similarly to these primaries and should be separated from the more distal carcinomas of the urethra."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Cellular Classification of Urethral Cancer",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "- Swartz MA, Porter MP, Lin DW, et al.: Incidence of primary urethral carcinoma in the United States. Urology 68 (6): 1164-8, 2006. [PUBMED Abstract]"
+        },
+        {
+          "section": "Stage Information for Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Prognosis and treatment decisions are determined by the following:[ 1 ]\n- The anatomical location of the primary tumor.\n- The size of the tumor.\n- The stage of the cancer.\n- The depth of invasion of the tumor.\nThe histology of the primary tumor is of less importance in estimating response to therapy and survival.[ 2 ] Endoscopic examination, urethrography, and magnetic resonance imaging are useful in determining the local extent of the tumor.[ 3 , 4 ]"
+        },
+        {
+          "section": "Distal Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Urethral Cancer",
+            "Distal Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "These lesions are often superficial.\n- Female: Lesions of the distal third of the urethra.\n- Male: Anterior, or penile, portion of the urethra, including the meatus and pendulous urethra."
+        },
+        {
+          "section": "Proximal Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Urethral Cancer",
+            "Proximal Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "These lesions are often deeply invasive.\n- Female: Lesions not clearly limited to the distal third of the urethra.\n- Male: Bulbomembranous and prostatic urethra."
+        },
+        {
+          "section": "Urethral Cancer Associated With Invasive Bladder Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Urethral Cancer",
+            "Urethral Cancer Associated With Invasive Bladder Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Approximately 5% to 10% of men with cystectomy for bladder cancer may have or may develop urethral cancer distal to the urogenital diaphragm.[ 5 , 6 ]"
+        },
+        {
+          "section": "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Urethral Cancer",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The AJCC has designated staging by TNM (tumor, node, metastasis) classification to define urethral cancer.[ 1 ]"
+        },
+        {
+          "section": "Male penile urethra and female urethra",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Urethral Cancer",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions",
+            "Male penile urethra and female urethra"
+          ],
+          "is_boilerplate": false,
+          "block_count": 61,
+          "text": "Stage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Urethra. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 767–76.\n0is | Tis, N0, M0 | Tis = Carcinoma in situ .\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\n0a | Ta, N0, M0 | Ta = Noninvasive papillary carcinoma.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Urethra. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 767–76.\nI | T1, N0, M0 | T1 = Tumor invades subepithelial connective tissue.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Urethra. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 767–76.\nII | T2, N0, M0 | T2 = Tumor invades any of the following: corpus spongiosum, periurethral muscle.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Urethra. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 767–76.\nIII | T1, N1, M0 | T1 = Tumor invades subepithelial connective tissue.\nN1 = Single regional lymph node metastasis in the inguinal region or true pelvis (perivesical, obturator, internal [hypogastric] and external iliac), or presacral lymph node.\nM0 = No distant metastasis.\nT2, N1, M0 | T2 = Tumor invades any of the following: corpus spongiosum, periurethral muscle.\nN1 = Single regional lymph node metastasis in the inguinal region or true pelvis (perivesical, obturator, internal [hypogastric] and external iliac), or presacral lymph node.\nM0 = No distant metastasis.\nT3, N0, M0 | T3 = Tumor invades any of the following: corpus cavernosum, anterior vagina.\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nT3, N1, M0 | T3 = Tumor invades any of the following: corpus cavernosum, anterior vagina.\nN1 = Single regional lymph node metastasis in the inguinal region or true pelvis (perivesical, obturator, internal [hypogastric] and external iliac), or presacral lymph node.\nM0 = No distant metastasis.\nStage | TNM | Description\nT = primary tumor; N = regional lymph node; M = distant metastasis.\na Reprinted with permission from AJCC: Urethra. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual . 8th ed. New York, NY: Springer, 2017, pp. 767–76.\nIV | T4, N0, M0 | T4 = Tumor invades other adjacent organs (e.g., invasion of the bladder wall).\nN0 = No regional lymph node metastasis.\nM0 = No distant metastasis.\nT4, N1, M0 | T4 = Tumor invades other adjacent organs (e.g., invasion of the bladder wall).\nN1 = Single regional lymph node metastasis in the inguinal region or true pelvis (perivesical, obturator, internal [hypogastric] and external iliac), or presacral lymph node.\nM0 = No distant metastasis.\nAny T, N2, M0 | TX = Primary tumor cannot be assessed.\nT0 = No evidence of primary tumor.\nTa = Noninvasive papillary carcinoma.\nTis = Carcinoma in situ .\nT1 = Tumor invades subepithelial connective tissue.\nT2 = Tumor invades any of the following: corpus spongiosum, periurethral muscle.\nT3 = Tumor invades any of the following: corpus cavernosum, anterior vagina.\nT4 = Tumor invades other adjacent organs (e.g., invasion of the bladder wall).\nN2 = Multiple regional lymph node metastasis in the inguinal region or true pelvis (perivesical, obturator, internal [hypogastric] and external iliac), or presacral lymph node.\nM0 = No distant metastasis.\nAny T, Any N, M1 | Any T = See descriptions above in this table, stage IV, Any T, N2, M0.\nNX = Regional lymph nodes cannot be assessed.\nN0 = No regional lymph node metastasis.\nN1 = Single regional lymph node metastasis in the inguinal region or true pelvis (perivesical, obturator, internal [hypogastric] and external iliac), or presacral lymph node.\nN2 = Multiple regional lymph node metastasis in the inguinal region or true pelvis (perivesical, obturator, internal [hypogastric] and external iliac), or presacral lymph node.\nM1 = Distant metastasis."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Stage Information for Urethral Cancer",
+            "American Joint Committee on Cancer (AJCC) Stage Groupings and TNM Definitions",
+            "Male penile urethra and female urethra",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Urethra. In: Amin MB, Edge SB, Greene FL, et al., eds.: AJCC Cancer Staging Manual. 8th ed. Springer; 2017, pp. 767–76.\n- Grigsby PW, Corn BW: Localized urethral tumors in women: indications for conservative versus exenterative therapies. J Urol 147 (6): 1516-20, 1992. [PUBMED Abstract]\n- Ryu J, Kim B: MR imaging of the male and female urethra. Radiographics 21 (5): 1169-85, 2001 Sep-Oct. [PUBMED Abstract]\n- Pavlica P, Barozzi L, Menchi I: Imaging of male urethra. Eur Radiol 13 (7): 1583-96, 2003. [PUBMED Abstract]\n- Mark JR, Hurwitz M, Gomella LG: Cancer of the urethra and penis. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles & Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1136-44.\n- Erckert M, Stenzl A, Falk M, et al.: Incidence of urethral tumor involvement in 910 men with bladder cancer. World J Urol 14 (1): 3-8, 1996. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Option Overview for Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about the treatment of urethral cancer and the outcomes of therapy is derived from retrospective, single-center case series and represents a very low Level of evidence C3 . Most of this information comes from the small numbers of cases accumulated over many decades at major academic centers. Therefore, the treatment in these reports is usually not standardized and spans eras of shifting supportive care practices. Because urethral cancer is rare, its treatment may also reflect extrapolation from the management of other urothelial malignancies, such as bladder cancer in the case of transitional cancers and anal cancer in the case of squamous cell carcinomas."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Urethral Cancer",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Surgery is the mainstay of therapy for urethral cancers in both women and men.[ Level of evidence C3 ] The surgical approach depends on tumor stage and anatomic location, and tumor grade plays a less important role in treatment decisions.[ 1 , 2 ] Although the traditional recommendation has been to achieve a 2-cm tumor-free margin, the optimal surgical margin has not been rigorously studied and is not well defined. The role of lymph node dissection is not clear in the absence of clinical involvement, and the role of prophylactic dissection is controversial.[ 2 ] Radiation therapy and/or chemotherapy may be added in some cases in patients with extensive disease or in an attempt at organ preservation. However, there are no clear guidelines for patient selection, and the low level of evidence precludes confident conclusions about their incremental benefit.[ 2 , 3 ]\nAblative techniques, such as transurethral resection, electroresection and fulguration, or laser vaporization-coagulation, are used to preserve organ function in cases of superficial anterior tumors, although the supporting literature is scant.[ 2 ]"
+        },
+        {
+          "section": "Radiation Therapy",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Urethral Cancer",
+            "Radiation Therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "External-beam radiation therapy, brachytherapy, or a combination is sometimes used as the primary therapy for early-stage proximal urethral cancers, particularly in women.[ Level of evidence C3 ] Brachytherapy may be delivered with low-dose-rate iridium Ir 192 sources using a template or urethral catheter. Definitive radiation is also sometimes used for advanced-stage tumors, but because monotherapy of large tumors has shown poor tumor control, it is more frequently incorporated into combined modality therapy after surgery or with chemotherapy.[ 4 ] There are no head-to-head comparisons of these various approaches, and patient selection may explain differences in outcomes among the regimens.[ Level of evidence C3 ]\nThe most commonly used tumor doses are in the range of 60 Gy to 70 Gy. Severe complication rates for definitive radiation therapy are about 16% to 20% and include fistula development, especially for large tumors invading the vagina, bladder, or rectum. Urethral strictures also occur in the setting of urethral-sparing treatment. Toxicity rates increase at doses greater than 65 Gy to 70 Gy. Intensity-modulated radiation therapy has become more common in an attempt to decrease local morbidity of the radiation.[ 4 ]"
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Urethral Cancer",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 17,
+          "text": "The literature on chemotherapy for urethral carcinoma is anecdotal in nature and restricted to retrospective, single-center case series or case reports.[ 5 ][ Level of evidence C3 ] A wide variety of agents used alone or in combination have been reported over the years, and their use has largely been extrapolated from experience with other urinary tract tumors.\nFor squamous cell cancers, agents that have been used in penile cancer or anal carcinoma include the following:[ 3 , 5 ]\n- Cisplatin.\n- Fluorouracil.\n- Bleomycin.\n- Methotrexate.\n- Irinotecan.\n- Gemcitabine.\n- Paclitaxel.\n- Docetaxel.\n- Mitomycin.\nChemotherapy for transitional cell urethral tumors is extrapolated from experience with transitional cell bladder tumors and, therefore, usually contains the following:[ 1 , 4 - 7 ]\n- Methotrexate, vinblastine, doxorubicin, and cisplatin.\n- Paclitaxel.\n- Carboplatin.\n- Ifosfamide, with occasional complete responses.\nChemotherapy has been used alone for metastatic disease or in combination with radiation therapy and/or surgery for locally advanced urethral cancer. It may be used in the neoadjuvant setting with radiation therapy in an attempt to increase the resectability rate or to preserve organs.[ 3 ] However, the impact of any of these regimens on survival is not known for any stage or setting."
+        },
+        {
+          "section": "Fluorouracil dosing",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Urethral Cancer",
+            "Chemotherapy",
+            "Fluorouracil dosing"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The DPYD gene encodes an enzyme that catabolizes pyrimidines and fluoropyrimidines, like capecitabine and fluorouracil. An estimated 1% to 2% of the population has germline pathogenic variants in DPYD , which lead to reduced DPD protein function and an accumulation of pyrimidines and fluoropyrimidines in the body.[ 8 , 9 ] Patients with the DPYD*2A variant who receive fluoropyrimidines may experience severe, life-threatening toxicities that are sometimes fatal. Many other DPYD variants have been identified, with a range of clinical effects.[ 8 - 10 ] Fluoropyrimidine avoidance or a dose reduction of 50% may be recommended based on the patient's DPYD genotype and number of functioning DPYD alleles.[ 11 - 13 ] DPYD genetic testing costs less than $200, but insurance coverage varies due to a lack of national guidelines.[ 14 ] In addition, testing may delay therapy by 2 weeks, which would not be advisable in urgent situations. This controversial issue requires further evaluation.[ 15 ]"
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment Option Overview for Urethral Cancer",
+            "Chemotherapy",
+            "Fluorouracil dosing",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "- Mark JR, Hurwitz M, Gomella LG: Cancer of the urethra and penis. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles & Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1136-44.\n- Karnes RJ, Breau RH, Lightner DJ: Surgery for urethral cancer. Urol Clin North Am 37 (3): 445-57, 2010. [PUBMED Abstract]\n- Cohen MS, Triaca V, Billmeyer B, et al.: Coordinated chemoradiation therapy with genital preservation for the treatment of primary invasive carcinoma of the male urethra. J Urol 179 (2): 536-41; discussion 541, 2008. [PUBMED Abstract]\n- Koontz BF, Lee WR: Carcinoma of the urethra: radiation oncology. Urol Clin North Am 37 (3): 459-66, 2010. [PUBMED Abstract]\n- Trabulsi EJ, Hoffman-Censits J: Chemotherapy for penile and urethral carcinoma. Urol Clin North Am 37 (3): 467-74, 2010. [PUBMED Abstract]\n- VanderMolen LA, Sheehy PF, Dillman RO: Successful treatment of transitional cell carcinoma of the urethra with chemotherapy. Cancer Invest 20 (2): 206-7, 2002. [PUBMED Abstract]\n- Lin CC, Hsu CH, Huang CY, et al.: Phase II trial of weekly paclitaxel, cisplatin plus infusional high dose 5-fluorouracil and leucovorin for metastatic urothelial carcinoma. J Urol 177 (1): 84-9; discussion 89, 2007. [PUBMED Abstract]\n- Sharma BB, Rai K, Blunt H, et al.: Pathogenic DPYD Variants and Treatment-Related Mortality in Patients Receiving Fluoropyrimidine Chemotherapy: A Systematic Review and Meta-Analysis. Oncologist 26 (12): 1008-1016, 2021. [PUBMED Abstract]\n- Lam SW, Guchelaar HJ, Boven E: The role of pharmacogenetics in capecitabine efficacy and toxicity. Cancer Treat Rev 50: 9-22, 2016. [PUBMED Abstract]\n- Shakeel F, Fang F, Kwon JW, et al.: Patients carrying DPYD variant alleles have increased risk of severe toxicity and related treatment modifications during fluoropyrimidine chemotherapy. Pharmacogenomics 22 (3): 145-155, 2021. [PUBMED Abstract]\n- Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update. Clin Pharmacol Ther 103 (2): 210-216, 2018. [PUBMED Abstract]\n- Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis. Lancet Oncol 19 (11): 1459-1467, 2018. [PUBMED Abstract]\n- Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation. BMC Cancer 22 (1): 47, 2022. [PUBMED Abstract]\n- Brooks GA, Tapp S, Daly AT, et al.: Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer. Clin Colorectal Cancer 21 (3): e189-e195, 2022. [PUBMED Abstract]\n- Baker SD, Bates SE, Brooks GA, et al.: DPYD Testing: Time to Put Patient Safety First. J Clin Oncol 41 (15): 2701-2705, 2023. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Female Distal Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Distal Urethral Cancer",
+            "Treatment Options for Female Distal Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "If the malignancy is at or just within the meatus and superficial parameters (stage 0/Tis, Ta), open excision or electroresection and fulguration may be possible. Tumor destruction using neodymium:yttrium-aluminum-garnet (Nd:YAG) or CO 2 laser vaporization-coagulation represents an alternative option. For large lesions (T1) and more invasive lesions (T2), brachytherapy or a combination of brachytherapy and external-beam radiation therapy (EBRT) are alternatives to surgical resection of the distal third of the urethra. Patients with T3 distal urethral lesions or lesions that recur after treatment with local excision or radiation therapy require anterior exenteration and urinary diversion.\nIf inguinal lymph nodes are palpable, frozen section confirmation of a tumor should be obtained. If positive for malignancy, ipsilateral lymph node dissection is indicated. If no inguinal adenopathy exists, lymph node dissection is not generally performed, and the nodes are monitored clinically.\nTreatment options for female distal urethral cancer include the following:\n- Open excision and organ-sparing conservative surgical therapy.[ 1 ]\n- Ablative techniques, such as transurethral resection, electroresection and fulguration, or laser vaporization-coagulation (Tis, Ta, T1 lesions).[ 2 , 3 ]\n- EBRT, brachytherapy, or a combination of the two (T1, T2 lesions).[ 4 ]\n- Anterior exenteration with or without preoperative radiation and diversion (T3 lesions or recurrent lesions).[ 2 , 3 ]\nThe level of evidence for these treatment options is Level of evidence C3 ."
+        },
+        {
+          "section": "Treatment Options for Male Distal Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Distal Urethral Cancer",
+            "Treatment Options for Male Distal Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "If the malignancy is in the pendulous urethra and is superficial, there is potential for long-term disease-free survival. In the rare cases that involve mucosa only (Tis, Ta), resection and fulguration may be used. For infiltrating lesions in the fossa navicularis, amputation of the glans penis may be adequate treatment. For lesions involving more proximal portions of the distal urethra, excision of the involved segment of the urethra, preserving the penile corpora, may be feasible for superficial tumors. Penile amputation is used for infiltrating lesions. Traditionally, a 2-cm margin proximal to the tumor is used, but the optimal margin has not been well studied. Local recurrences after amputation are rare.\nThe role of radiation therapy in the treatment of anterior urethral carcinoma in men is not well defined. Some anterior urethral cancers have been cured with radiation alone or a combination of chemotherapy and radiation therapy.[ 4 , 5 ]\nIf inguinal lymph nodes are palpable, ipsilateral node dissection is indicated after frozen section confirmation of a tumor because a cure is still achievable with limited regional nodal metastases. If no inguinal adenopathy exists, lymph node dissection is not generally performed, and the nodes are monitored clinically.\nTreatment options for male distal urethral cancer include the following:\n- Open-excision and organ-sparing conservative surgery.[ 1 , 3 ]\n- Ablative techniques, such as transurethral resection, electroresection and fulguration, or laser vaporization-coagulation (Tis, Ta, T1 lesions).[ 2 , 3 ]\n- Amputation of the penis (T1, T2, T3 lesions).\n- Radiation (T1, T2, T3 lesions, if amputation is refused).[ 4 ]\n- Combined chemotherapy and radiation therapy.[ 5 ]\nThe level of evidence for these treatment options is Level of evidence C3 ."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Distal Urethral Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Distal Urethral Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "- Davis JW, Schellhammer PF, Schlossberg SM: Conservative surgical therapy for penile and urethral carcinoma. Urology 53 (2): 386-92, 1999. [PUBMED Abstract]\n- Mark JR, Hurwitz M, Gomella LG: Cancer of the urethra and penis. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles & Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1136-44.\n- Karnes RJ, Breau RH, Lightner DJ: Surgery for urethral cancer. Urol Clin North Am 37 (3): 445-57, 2010. [PUBMED Abstract]\n- Koontz BF, Lee WR: Carcinoma of the urethra: radiation oncology. Urol Clin North Am 37 (3): 459-66, 2010. [PUBMED Abstract]\n- Cohen MS, Triaca V, Billmeyer B, et al.: Coordinated chemoradiation therapy with genital preservation for the treatment of primary invasive carcinoma of the male urethra. J Urol 179 (2): 536-41; discussion 541, 2008. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment Options for Female Proximal Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Proximal Urethral Cancer",
+            "Treatment Options for Female Proximal Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Lesions of the proximal urethra or the entire length of the urethra are usually associated with invasion and a high incidence of pelvic nodal metastases. The prospects for cure are limited except in the case of small tumors. The best results have been achieved with exenterative surgery and urinary diversion, with 5-year survival rates ranging from 10% to 20%.\nIn an effort to shrink tumor margins, increase the resectability rate of gross tumor, and decrease local recurrence, adjunctive preoperative radiation therapy is a reasonable option. Pelvic lymphadenectomy is performed concomitantly. Ipsilateral inguinal lymph node dissection is indicated only if biopsy specimens of ipsilateral palpable adenopathy are positive on a frozen section. For tumors that do not exceed 2 cm in greatest dimension, radiation alone, nonexenterative surgery alone, or a combination of the two may be sufficient to provide an excellent outcome.\nIt is reasonable to consider removal of part of the pubic symphysis and the inferior pubic rami to maximize the surgical margin and reduce local recurrence. The perineal closure and vaginal reconstruction can be accomplished with the use of myocutaneous flaps.\nThe prognosis of female urethral cancer is related to the size of the lesion at presentation. For lesions smaller than 2 cm in diameter, a 5-year survival rate of 60% can be anticipated. For lesions larger than 4 cm in diameter, the 5-year survival rate falls to 13%.\nTreatment options for female proximal urethral cancer include the following:\n- Preoperative radiation followed by anterior exenteration and urinary diversion with bilateral pelvic lymph node dissection, with or without inguinal lymph node dissection.[ 1 ]\n- For tumors that do not exceed 2 cm in greatest dimension, radiation alone, nonexenterative surgery alone, or a combination of the two may be sufficient to provide an excellent outcome.[ 1 , 2 ]\nThe level of evidence for these treatment options is Level of evidence C3 ."
+        },
+        {
+          "section": "Treatment Options for Male Proximal Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Proximal Urethral Cancer",
+            "Treatment Options for Male Proximal Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Lesions of the bulbomembranous urethra require radical cystoprostatectomy and en bloc penectomy to achieve adequate margins of resection, minimize local recurrence, and achieve long-term, disease-free survival. Pelvic lymphadenectomy is also performed because of the high incidence of positive lymph nodes and the limited added morbidity.\nDespite extensive surgery, local recurrence is common, and this event is invariably associated with eventual death from the disease. Five-year survival rates are only 15% to 20%. In an effort to shrink tumor margins, the use of preoperative adjunctive radiation therapy may be considered. In an effort to increase the surgical margins of dissection, resection of the inferior pubic rami and the lower portion of the pubic symphysis has been used. Urinary diversion is required.[ 3 ]\nIpsilateral inguinal lymph node dissection is indicated if palpable ipsilateral inguinal adenopathy is found on physical examination and confirmed to be neoplasm by frozen section.\nTreatment options for male proximal urethral cancer include the following:\n- Preoperative radiation or combined chemotherapy and radiation therapy followed by cystoprostatectomy, urinary diversion, and penectomy with bilateral pelvic lymph node dissection, with or without inguinal lymph node dissection.[ 4 ]\nThe level of evidence for these treatment options is Level of evidence C3 ."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Proximal Urethral Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Proximal Urethral Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Koontz BF, Lee WR: Carcinoma of the urethra: radiation oncology. Urol Clin North Am 37 (3): 459-66, 2010. [PUBMED Abstract]\n- Grigsby PW, Corn BW: Localized urethral tumors in women: indications for conservative versus exenterative therapies. J Urol 147 (6): 1516-20, 1992. [PUBMED Abstract]\n- Su LM, Smith JA Jr.: Laparoscopic and robotic-assisted laparoscopic radical prostatectomy and pelvic lymphadenectomy. In: Wein AJ, Kavoussi LR, Novick AC, et al.: Campbell-Walsh Urology. 10th ed. Elsevier Saunders, 2012, pp 2830-2849.\n- Karnes RJ, Breau RH, Lightner DJ: Surgery for urethral cancer. Urol Clin North Am 37 (3): 445-57, 2010. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Urethral Cancer Associated With Invasive Bladder Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Urethral Cancer Associated With Invasive Bladder Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "Approximately 10% (range, 4%–17%) of patients who undergo cystectomy for bladder cancer can be expected to have or to later develop clinical neoplasm of the urethra distal to the urogenital diaphragm. Factors associated with the risk of urethral recurrence after cystectomy include the following:[ 1 , 2 ]\n- Tumor multiplicity.\n- Papillary pattern.\n- Carcinoma in situ .\n- Tumor location at the bladder neck.\n- Prostatic urethral mucosal or stromal involvement.\nThe benefits of urethrectomy at the time of cystectomy need to be weighed against the morbidity factors, which include added operating time, hemorrhage, and the potential for perineal hernia. Tumors found incidentally on pathological examination are much more likely to be superficial or in situ in contrast to those that present with clinical symptoms at a later date, when the likelihood of invasion within the corporal bodies is high. The former lesions are often curable, and the latter are only rarely so. Indications for urethrectomy in continuity with cystoprostatectomy are the following:\n- Visible tumor in the urethra.\n- Positive swab cytology of the urethra.\n- Positive margins of the membranous urethra on frozen section taken at the time of cystoprostatectomy.\n- Multiple in situ bladder tumors that extend onto the bladder neck and proximal prostatic urethra.\nIf the urethra is not removed at the time of cystectomy, follow-up includes periodic cytologic evaluation of saline urethral washings.[ 2 ]\nTreatment options for urethral cancer associated with invasive bladder cancer include the following:\n- In continuity cystourethrectomy.\n- Monitor urethral cytology and delayed urethrectomy, if necessary.\nThe level of evidence for these treatment options is Level of evidence C3 ."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Urethral Cancer Associated With Invasive Bladder Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Urethral Cancer Associated With Invasive Bladder Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- Mark JR, Hurwitz M, Gomella LG: Cancer of the urethra and penis. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles & Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1136-44.\n- Sherwood JB, Sagalowsky AI: The diagnosis and treatment of urethral recurrence after radical cystectomy. Urol Oncol 24 (4): 356-61, 2006 Jul-Aug. [PUBMED Abstract]"
+        },
+        {
+          "section": "Treatment of Metastatic or Recurrent Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic or Recurrent Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Local recurrences of urethral cancer may be amenable to local modality therapy with radiation or surgery, with or without chemotherapy. For more information, see the Treatment Option Overview for Urethral Cancer section. Metastatic disease may be treated with regimens in common use for other urothelial transitional cell or squamous cell carcinomas, or anal carcinomas, depending on the histology.[ 1 - 3 ]\nTreatment options for metastatic or recurrent urethral cancer include the following:\n- Surgical excision of locally recurrent urethral cancer after radiation therapy should be considered, if feasible.\n- Combination radiation therapy and wider surgical resection should be considered for locally recurrent urethral cancer after surgery alone.\n- Clinical trials using chemotherapy should be considered for metastatic urethral cancer. Transitional cell cancer of the urethra may respond favorably to the same chemotherapy regimens used for advanced transitional cell cancer of the bladder.[ 1 - 4 ]\nThe level of evidence for these treatment options is Level of evidence C3 ."
+        },
+        {
+          "section": "Current Clinical Trials",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic or Recurrent Urethral Cancer",
+            "Current Clinical Trials"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Use our advanced clinical trial search to find NCI-supported cancer clinical trials that are now enrolling patients. The search can be narrowed by location of the trial, type of treatment, name of the drug, and other criteria. General information about clinical trials is also available."
+        },
+        {
+          "section": "References",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Treatment of Metastatic or Recurrent Urethral Cancer",
+            "Current Clinical Trials",
+            "References"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "- Mark JR, Hurwitz M, Gomella LG: Cancer of the urethra and penis. In: DeVita VT Jr, Lawrence TS, Rosenberg SA, et al., eds.: DeVita, Hellman, and Rosenberg’s Cancer: Principles & Practice of Oncology. 11th ed. Wolters Kluwer, 2019, pp 1136-44.\n- Trabulsi EJ, Hoffman-Censits J: Chemotherapy for penile and urethral carcinoma. Urol Clin North Am 37 (3): 467-74, 2010. [PUBMED Abstract]\n- Lin CC, Hsu CH, Huang CY, et al.: Phase II trial of weekly paclitaxel, cisplatin plus infusional high dose 5-fluorouracil and leucovorin for metastatic urothelial carcinoma. J Urol 177 (1): 84-9; discussion 89, 2007. [PUBMED Abstract]\n- VanderMolen LA, Sheehy PF, Dillman RO: Successful treatment of transitional cell carcinoma of the urethra with chemotherapy. Cancer Invest 20 (2): 206-7, 2002. [PUBMED Abstract]"
+        },
+        {
+          "section": "Latest Updates to This Summary (07/19/2024)",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "Latest Updates to This Summary (07/19/2024)"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "The PDQ cancer information summaries are reviewed regularly and updated as new information becomes available. This section describes the latest changes made to this summary as of the date above.\nTreatment Option Overview for Urethral Cancer\nAdded Fluorouracil dosing as a new subsection.\nThis summary is written and maintained by the PDQ Adult Treatment Editorial Board , which is editorially independent of NCI. The summary reflects an independent review of the literature and does not represent a policy statement of NCI or NIH. More information about summary policies and the role of the PDQ Editorial Boards in maintaining the PDQ summaries can be found on the About This PDQ Summary and PDQ® Cancer Information for Health Professionals pages."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary for health professionals provides comprehensive, peer-reviewed, evidence-based information about the treatment of urethral cancer. It is intended as a resource to inform and assist clinicians in the care of their patients. It does not provide formal guidelines or recommendations for making health care decisions."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 11,
+          "text": "This summary is reviewed regularly and updated as necessary by the PDQ Adult Treatment Editorial Board , which is editorially independent of the National Cancer Institute (NCI). The summary reflects an independent review of the literature and does not represent a policy statement of NCI or the National Institutes of Health (NIH).\nBoard members review recently published articles each month to determine whether an article should:\n- be discussed at a meeting,\n- be cited with text, or\n- replace or update an existing article that is already cited.\nChanges to the summaries are made through a consensus process in which Board members evaluate the strength of the evidence in the published articles and determine how the article should be included in the summary.\nThe lead reviewers for Urethral Cancer Treatment are:\n- Juskaran S. Chadha, DO (Moffitt Cancer Center)\n- Jad Chahoud, MD, MPH (Moffitt Cancer Center)\n- Timothy Gilligan, MD (Cleveland Clinic Taussig Cancer Institute)\nAny comments or questions about the summary content should be submitted to Cancer.gov through the NCI website's Email Us . Do not contact the individual Board Members with questions or comments about the summaries. Board members will not respond to individual inquiries."
+        },
+        {
+          "section": "Levels of Evidence",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Levels of Evidence"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Some of the reference citations in this summary are accompanied by a level-of-evidence designation. These designations are intended to help readers assess the strength of the evidence supporting the use of specific interventions or approaches. The PDQ Adult Treatment Editorial Board uses a formal evidence ranking system in developing its level-of-evidence designations."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. Although the content of PDQ documents can be used freely as text, it cannot be identified as an NCI PDQ cancer information summary unless it is presented in its entirety and is regularly updated. However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].”\nThe preferred citation for this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Urethral Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/urethral/hp/urethral-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389356]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only. Permission to use images outside the context of PDQ information must be obtained from the owner(s) and cannot be granted by the National Cancer Institute. Information about using the illustrations in this summary, along with many other cancer-related images, is available in Visuals Online , a collection of over 2,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "Based on the strength of the available evidence, treatment options may be described as either “standard” or “under clinical evaluation.” These classifications should not be used as a basis for insurance reimbursement determinations. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Health Professional Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s Email Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\0bd63c071a8c871841fa.html"
+    },
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "adult_treatment"
+      ],
+      "topic": "adult_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Urethral Cancer",
+      "title": "Urethral Cancer Treatment (PDQ®)–Patient Version",
+      "summary_name": "Urethral Cancer Treatment",
+      "url": "https://www.cancer.gov/types/urethral/patient/urethral-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/adult-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "October 7, 2022",
+      "retrieved_at": "2026-08-31T07:15:08.768168+00:00",
+      "content_sha256": "096cc128d07dadf5bcd49d5a5245e40f8ea0c536753d73649331415fb22ee50f",
+      "section_count": 39,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Urethral Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "- Urethral cancer is a disease in which malignant (cancer) cells form in the tissues of the urethra.\n- There are different types of urethral cancer that begin in cells that line the urethra.\n- A history of bladder cancer can affect the risk of urethral cancer.\n- Signs of urethral cancer include bleeding or trouble with urination.\n- Tests that examine the urethra and bladder are used to diagnose urethral cancer.\n- Certain factors affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Urethral cancer is a disease in which malignant (cancer) cells form in the tissues of the urethra.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Urethral Cancer",
+            "Urethral cancer is a disease in which malignant (cancer) cells form in the tissues of the urethra."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "The urethra is the tube that carries urine from the bladder to outside the body. In women, the urethra is about 1½ inches long and is just above the vagina . In men, the urethra is about 8 inches long, and goes through the prostate gland and the penis to the outside of the body. In men, the urethra also carries semen .\nUrethral cancer is a rare cancer that occurs more often in men than in women."
+        },
+        {
+          "section": "There are different types of urethral cancer that begin in cells that line the urethra.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Urethral Cancer",
+            "There are different types of urethral cancer that begin in cells that line the urethra."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "These cancers are named for the types of cells that become malignant (cancer):\n- Squamous cell carcinoma is the most common type of urethral cancer. It forms in the thin, flat cells in the part of the urethra near the bladder in women, and in the lining of the urethra in the penis in men.\n- Transitional cell carcinoma forms in the area near the urethral opening in women, and in the part of the urethra that goes through the prostate gland in men.\n- Adenocarcinoma forms in the glands that are around the urethra in both men and women.\nUrethral cancer can metastasize (spread) quickly to tissues around the urethra and is often found in nearby lymph nodes by the time it is diagnosed ."
+        },
+        {
+          "section": "A history of bladder cancer can affect the risk of urethral cancer.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Urethral Cancer",
+            "A history of bladder cancer can affect the risk of urethral cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Anything that increases your chance of getting a disease is called a risk factor . Having a risk factor does not mean that you will get cancer; not having risk factors doesn’t mean that you will not get cancer. Talk with your doctor if you think you may be at risk. Risk factors for urethral cancer include the following:\n- Having a history of bladder cancer .\n- Having conditions that cause chronic inflammation in the urethra, including:\n- Sexually transmitted diseases (STDs), including human papillomavirus (HPV), especially HPV type 16.\n- Frequent urinary tract infections (UTIs)."
+        },
+        {
+          "section": "Signs of urethral cancer include bleeding or trouble with urination.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Urethral Cancer",
+            "Signs of urethral cancer include bleeding or trouble with urination."
+          ],
+          "is_boilerplate": false,
+          "block_count": 9,
+          "text": "These and other signs and symptoms may be caused by urethral cancer or by other conditions. There may be no signs or symptoms in the early stages . Check with your doctor if you have any of the following:\n- Trouble starting the flow of urine.\n- Weak or interrupted (\"stop-and-go\") flow of urine.\n- Frequent urination, especially at night.\n- Incontinence .\n- Discharge from the urethra.\n- Bleeding from the urethra or blood in the urine.\n- A lump or thickness in the perineum or penis.\n- A painless lump or swelling in the groin ."
+        },
+        {
+          "section": "Tests that examine the urethra and bladder are used to diagnose urethral cancer.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Urethral Cancer",
+            "Tests that examine the urethra and bladder are used to diagnose urethral cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "The following tests and procedures may be used:\n- Physical exam and health history : An exam of the body to check general signs of health, including checking for signs of disease, such as lumps or anything else that seems unusual. A history of the patient's health habits and past illnesses and treatments will also be taken.\n- Pelvic exam : An exam of the vagina, cervix , uterus , fallopian tubes , ovaries , and rectum . A speculum is inserted into the vagina and the doctor or nurse looks at the vagina and cervix for signs of disease. The doctor or nurse also inserts one or two lubricated , gloved fingers of one hand into the vagina and places the other hand over the lower abdomen to feel the size, shape, and position of the uterus and ovaries. The doctor or nurse also inserts a lubricated, gloved finger into the rectum to feel for lumps or abnormal areas. Enlarge Pelvic exam. A doctor or nurse inserts one or two lubricated, gloved fingers of one hand into the vagina and presses on the lower abdomen with the other hand. This is done to feel the size, shape, and position of the uterus and ovaries. The vagina, cervix, fallopian tubes, and rectum are also checked.\n- Digital rectal exam : An exam of the rectum. The doctor or nurse inserts a lubricated, gloved finger into the lower part of the rectum to feel for lumps or anything else that seems unusual.\n- Urine cytology : A laboratory test in which a sample of urine is checked under a microscope for abnormal cells.\n- Urinalysis : A test to check the color of urine and its contents, such as sugar, protein , blood, and white blood cells . If white blood cells (a sign of infection) are found, a urine culture is usually done to find out what type of infection it is.\n- Blood chemistry studies : A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by organs and tissues in the body. An unusual (higher or lower than normal) amount of a substance can be a sign of disease.\n- Complete blood count (CBC) : A procedure in which a sample of blood is drawn and checked for the following:\n- The number of red blood cells , white blood cells, and platelets .\n- The amount of hemoglobin (the protein that carries oxygen ) in the red blood cells.\n- The portion of the blood sample made up of red blood cells.\n- CT scan (CAT scan) : A procedure that makes a series of detailed pictures of areas inside the body, such as the pelvis and abdomen, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- Ureteroscopy : A procedure to look inside the ureter and renal pelvis to check for abnormal areas. A ureteroscope is a thin, tube-like instrument with a light and a lens for viewing. The ureteroscope is inserted through the urethra into the bladder, ureter, and renal pelvis. A tool may be inserted through the ureteroscope to take tissue samples to be checked under a microscope for signs of disease. Enlarge A ureteroscopy is a procedure that uses a ureteroscope (a thin, tube-like instrument with a light and a lens for viewing) to look inside the ureter and renal pelvis to check for abnormal areas. The ureteroscope is inserted through the urethra into the bladder, ureter, and renal pelvis.\n- Biopsy : The removal of cell or tissue samples from the urethra, bladder, and, sometimes, the prostate gland. The samples are viewed under a microscope by a pathologist to check for signs of cancer."
+        },
+        {
+          "section": "Certain factors affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "General Information About Urethral Cancer",
+            "Certain factors affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The prognosis and treatment options depend on the following:\n- Where the cancer formed in the urethra.\n- Whether the cancer has spread through the mucosa lining the urethra to nearby tissue, to lymph nodes, or to other parts of the body.\n- Whether the patient is a male or female.\n- The patient's general health.\n- Whether the cancer has just been diagnosed or has recurred (come back)."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Urethral Cancer",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "- After urethral cancer has been diagnosed, tests are done to find out if cancer cells have spread within the urethra or to other parts of the body.\n- There are three ways that cancer spreads in the body.\n- Cancer may spread from where it began to other parts of the body.\n- Urethral cancer is staged and treated based on the part of the urethra that is affected.\n- Distal urethral cancer\n- Proximal urethral cancer\n- Bladder and/or prostate cancer may occur at the same time as urethral cancer.\n- Urethral cancer can recur (come back) after it has been treated."
+        },
+        {
+          "section": "After urethral cancer has been diagnosed, tests are done to find out if cancer cells have spread within the urethra or to other parts of the body.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Urethral Cancer",
+            "After urethral cancer has been diagnosed, tests are done to find out if cancer cells have spread within the urethra or to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "The process used to find out if cancer has spread within the urethra or to other parts of the body is called staging . The information gathered from the staging process determines the stage of the disease. It is important to know the stage in order to plan treatment.\nThe following procedures may be used in the staging process:\n- Chest x-ray : An x-ray of the organs and bones inside the chest. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body.\n- CT scan (CAT scan) of the pelvis and abdomen : A procedure that makes a series of detailed pictures of the pelvis and abdomen, taken from different angles. The pictures are made by a computer linked to an x-ray machine. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography.\n- MRI (magnetic resonance imaging) : A procedure that uses a magnet, radio waves , and a computer to make a series of detailed pictures of the urethra, nearby lymph nodes , and other soft tissue and bones in the pelvis. A substance called gadolinium is injected into the patient through a vein. The gadolinium collects around the cancer cells so they show up brighter in the picture. This procedure is also called nuclear magnetic resonance imaging (NMRI).\n- Urethrography : A series of x-rays of the urethra. An x-ray is a type of energy beam that can go through the body and onto film, making a picture of areas inside the body. A dye is injected through the urethra into the bladder . The dye coats the bladder and urethra and x-rays are taken to see if the urethra is blocked and if cancer has spread to nearby tissue."
+        },
+        {
+          "section": "There are three ways that cancer spreads in the body.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Urethral Cancer",
+            "There are three ways that cancer spreads in the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Cancer can spread through tissue , the lymph system , and the blood :\n- Tissue. The cancer spreads from where it began by growing into nearby areas.\n- Lymph system. The cancer spreads from where it began by getting into the lymph system. The cancer travels through the lymph vessels to other parts of the body.\n- Blood. The cancer spreads from where it began by getting into the blood. The cancer travels through the blood vessels to other parts of the body."
+        },
+        {
+          "section": "Cancer may spread from where it began to other parts of the body.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Urethral Cancer",
+            "Cancer may spread from where it began to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "When cancer spreads to another part of the body, it is called metastasis . Cancer cells break away from where they began (the primary tumor ) and travel through the lymph system or blood.\n- Lymph system. The cancer gets into the lymph system, travels through the lymph vessels, and forms a tumor ( metastatic tumor) in another part of the body.\n- Blood. The cancer gets into the blood, travels through the blood vessels, and forms a tumor (metastatic tumor) in another part of the body.\nThe metastatic tumor is the same type of cancer as the primary tumor. For example, if urethral cancer spreads to the lung , the cancer cells in the lung are actually urethral cancer cells. The disease is metastatic urethral cancer, not lung cancer ."
+        },
+        {
+          "section": "Urethral cancer is staged and treated based on the part of the urethra that is affected.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Urethral Cancer",
+            "Urethral cancer is staged and treated based on the part of the urethra that is affected."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Urethral cancer is staged and treated based on the part of the urethra that is affected and how deeply the tumor has spread into tissue around the urethra. Urethral cancer can be described as distal or proximal . Enlarge Anatomy of the distal and proximal urethra. Urine flows out of the bladder and leaves the body through the urethra. The part of the urethra that is closest to the bladder is called the proximal urethra. The part that is closest to where the urine leaves the body is called the distal urethra. The urethra is about 8 inches long in men and about 1½ inches long in women."
+        },
+        {
+          "section": "Distal urethral cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Urethral Cancer",
+            "Urethral cancer is staged and treated based on the part of the urethra that is affected.",
+            "Distal urethral cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In distal urethral cancer , the cancer usually has not spread deeply into the tissue . In women, the part of the urethra that is closest to the outside of the body (about ½ inch) is affected. In men, the part of the urethra that is in the penis is affected."
+        },
+        {
+          "section": "Proximal urethral cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Urethral Cancer",
+            "Urethral cancer is staged and treated based on the part of the urethra that is affected.",
+            "Proximal urethral cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Proximal urethral cancer affects the part of the urethra that is not the distal urethra . In women and men, proximal urethral cancer usually has spread deeply into tissue ."
+        },
+        {
+          "section": "Bladder and/or prostate cancer may occur at the same time as urethral cancer.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Urethral Cancer",
+            "Bladder and/or prostate cancer may occur at the same time as urethral cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "In men, cancer that forms in the proximal urethra (the part of the urethra that passes through the prostate to the bladder) may occur at the same time as cancer of the bladder and/or prostate. Sometimes this occurs at diagnosis and sometimes it occurs later."
+        },
+        {
+          "section": "Urethral cancer can recur (come back) after it has been treated.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Stages of Urethral Cancer",
+            "Urethral cancer can recur (come back) after it has been treated."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer may come back in the urethra or in other parts of the body."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "- There are different types of treatment for patients with urethral cancer.\n- The following types of treatment are used:\n- Surgery\n- Radiation therapy\n- Chemotherapy\n- Active surveillance\n- New types of treatment are being tested in clinical trials.\n- Treatment for urethral cancer may cause side effects.\n- Patients may want to think about taking part in a clinical trial.\n- Patients can enter clinical trials before, during, or after starting their cancer treatment.\n- Follow-up tests may be needed."
+        },
+        {
+          "section": "There are different types of treatment for patients with urethral cancer.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for patients with urethral cancer."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Different types of treatments are available for patients with urethral cancer . Some treatments are standard (the currently used treatment), and some are being tested in clinical trials . A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer . When clinical trials show that a new treatment is better than the standard treatment, the new treatment may become the standard treatment. Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment."
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 13,
+          "text": "Surgery to remove the cancer is the most common treatment for cancer of the urethra . One of the following types of surgery may be done:\n- Open excision : Removal of the cancer by surgery.\n- Transurethral resection (TUR): Surgery to remove the cancer using a special tool inserted into the urethra.\n- Electroresection with fulguration : Surgery to remove the cancer by electric current. A lighted tool with a small wire loop on the end is used to remove the cancer or to burn the tumor away with high-energy electricity.\n- Laser surgery : A surgical procedure that uses a laser beam (a narrow beam of intense light) as a knife to make bloodless cuts in tissue or to remove or destroy tissue.\n- Lymph node dissection : Lymph nodes in the pelvis and groin may be removed.\n- Cystourethrectomy : Surgery to remove the bladder and the urethra.\n- Cystoprostatectomy : Surgery to remove the bladder and the prostate .\n- Anterior exenteration : Surgery to remove the urethra, the bladder, and the vagina . Plastic surgery may be done to rebuild the vagina.\n- Partial penectomy : Surgery to remove the part of the penis surrounding the urethra where cancer has spread. Plastic surgery may be done to rebuild the penis.\n- Radical penectomy: Surgery to remove the entire penis. Plastic surgery may be done to rebuild the penis.\nIf the urethra is removed, the surgeon will make a new way for the urine to pass from the body. This is called urinary diversion . If the bladder is removed, the surgeon will make a new way for urine to be stored and passed from the body. The surgeon may use part of the small intestine to make a tube that passes urine through an opening ( stoma ). This is called an ostomy or urostomy . If a patient has an ostomy, a disposable bag to collect urine is worn under clothing. The surgeon may also use part of the small intestine to make a new storage pouch ( continent reservoir ) inside the body where the urine can collect. A tube ( catheter ) is then used to drain the urine through a stoma.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, some patients may be given chemotherapy or radiation therapy after surgery to kill any cancer cells that are left. Treatment given after the surgery, to lower the risk that the cancer will come back, is called adjuvant therapy ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 4,
+          "text": "Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. There are two types of radiation therapy:\n- External radiation therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\n- Internal radiation therapy uses a radioactive substance sealed in needles, seeds , wires, or catheters that are placed directly into or near the cancer. Internal radiation therapy is also called brachytherapy.\nThe way the radiation therapy is given depends on the type of cancer and where the cancer formed in the urethra. External and internal radiation therapy are used to treat urethral cancer."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping the cells from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body ( systemic chemotherapy ). When chemotherapy is placed directly into the cerebrospinal fluid , an organ , or a body cavity such as the abdomen , the drugs mainly affect cancer cells in those areas ( regional chemotherapy ). The way the chemotherapy is given depends on the type of cancer and where the cancer formed in the urethra."
+        },
+        {
+          "section": "Active surveillance",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Active surveillance"
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Active surveillance is following a patient's condition without giving any treatment unless there are changes in test results. It is used to find early signs that the condition is getting worse. In active surveillance, patients are given certain exams and tests, including biopsies , on a regular schedule."
+        },
+        {
+          "section": "New types of treatment are being tested in clinical trials.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "New types of treatment are being tested in clinical trials."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "Information about clinical trials is available from the NCI website ."
+        },
+        {
+          "section": "Treatment for urethral cancer may cause side effects.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for urethral cancer may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "For information about side effects caused by treatment for cancer, visit our Side Effects page."
+        },
+        {
+          "section": "Patients may want to think about taking part in a clinical trial.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients may want to think about taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment .\nMany of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment.\nPatients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward."
+        },
+        {
+          "section": "Patients can enter clinical trials before, during, or after starting their cancer treatment.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Patients can enter clinical trials before, during, or after starting their cancer treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.\nClinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website."
+        },
+        {
+          "section": "Follow-up tests may be needed.",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up tests may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As you go through treatment, you will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Distal Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Distal Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 15,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of abnormal cells in the mucosa (inside lining of the urethra that have not become cancer , may include surgery to remove the tumor ( open excision or transurethral resection ), electroresection with fulguration , or laser surgery .\nTreatment of distal urethral cancer is different for men and women.\nFor women, treatment may include the following:\n- Surgery to remove the tumor (transurethral resection), electroresection and fulguration, or laser surgery for tumors that have not spread deeply into tissue .\n- Brachytherapy ( internal radiation therapy ) and/or external radiation therapy for tumors that have not spread deeply into tissue.\n- Surgery to remove the tumor ( anterior exenteration ) for tumors that have spread deeply into tissue. Sometimes nearby lymph nodes are also removed ( lymph node dissection ). Radiation therapy may be given before surgery.\nFor men, treatment may include the following:\n- Surgery to remove the tumor (transurethral resection), electroresection and fulguration, or laser surgery for tumors that have not spread deeply into tissue.\n- Surgery to remove part of the penis (partial penectomy ) for tumors that are near the tip of the penis. Sometimes nearby lymph nodes are also removed (lymph node dissection).\n- Surgery to remove part of the urethra for tumors that are in the distal urethra but not at the tip of the penis and have not spread deeply into tissue. Sometimes nearby lymph nodes are also removed (lymph node dissection).\n- Surgery to remove the penis (radical penectomy) for tumors that have spread deeply into tissue. Sometimes nearby lymph nodes are also removed (lymph node dissection).\n- Radiation therapy with or without chemotherapy .\n- Chemotherapy given together with radiation therapy.\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Proximal Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Proximal Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of proximal urethral cancer or urethral cancer that affects the entire urethra is different for men and women.\nFor women, treatment may include the following:\n- Radiation therapy and/or surgery ( open excision , transurethral resection ) for tumors that are ¾ of an inch or smaller.\n- Radiation therapy followed by surgery ( anterior exenteration with lymph node dissection and urinary diversion ).\nFor men, treatment may include the following:\n- Radiation therapy or radiation therapy and chemotherapy , followed by surgery ( cystoprostatectomy , penectomy , lymph node dissection, and urinary diversion).\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Urethral Cancer that Forms with Invasive Bladder Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Urethral Cancer that Forms with Invasive Bladder Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of urethral cancer that forms at the same time as invasive bladder cancer may include the following:\n- Surgery ( cystourethrectomy in women, or urethrectomy and cystoprostatectomy in men).\nIf the urethra is not removed during surgery to remove the bladder , treatment may include the following:\n- Active surveillance . Samples of cells are taken from inside the urethra and checked under a microscope for signs of cancer .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Metastatic or Recurrent Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "Treatment of Metastatic or Recurrent Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "For information about the treatments listed below, see the Treatment Option Overview section.\nTreatment of urethral cancer that has metastasized (spread to other parts of the body) is usually chemotherapy .\nTreatment of recurrent urethral cancer may include one or more of the following:\n- Surgery to remove the tumor . Sometimes nearby lymph nodes are also removed ( lymph node dissection ).\n- Radiation therapy .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "To Learn More About Urethral Cancer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "To Learn More About Urethral Cancer"
+          ],
+          "is_boilerplate": false,
+          "block_count": 11,
+          "text": "For more information from the National Cancer Institute about urethral cancer , see the following:\n- Urethral Cancer Home Page\n- Lasers to Treat Cancer\nFor general cancer information and other resources from the National Cancer Institute, visit:\n- About Cancer\n- Cancer Staging\n- Chemotherapy and You: Support for People With Cancer\n- Radiation Therapy and You: Support for People With Cancer\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of urethral cancer. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Adult Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Adult Treatment Editorial Board. PDQ Urethral Cancer Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/urethral/patient/urethral-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389384]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Urethral Cancer Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\0b2d5b816ff0fd72751f.html"
+    }
+  ]
+}

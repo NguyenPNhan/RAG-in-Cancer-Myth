@@ -1,0 +1,390 @@
+{
+  "schema_version": "1.0",
+  "source": "National Cancer Institute (NCI)",
+  "collection": "PDQ",
+  "cancer_type": "Osteosarcoma",
+  "generated_at": "2026-08-31T07:15:23.425620+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "source": "National Cancer Institute (NCI)",
+      "source_domain": "cancer.gov",
+      "collection": "PDQ",
+      "collections": [
+        "pediatric_treatment"
+      ],
+      "topic": "pediatric_treatment",
+      "audience": "patient",
+      "language": "en",
+      "cancer_type": "Osteosarcoma",
+      "title": "Osteosarcoma Treatment (PDQ®)–Patient Version",
+      "summary_name": "Osteosarcoma Treatment",
+      "url": "https://www.cancer.gov/types/bone/patient/osteosarcoma-treatment-pdq",
+      "discovered_from": [
+        "https://www.cancer.gov/publications/pdq/information-summaries/pediatric-treatment"
+      ],
+      "index_link_labels": [
+        "patient"
+      ],
+      "last_updated": "February 25, 2025",
+      "retrieved_at": "2026-08-31T07:08:38.065134+00:00",
+      "content_sha256": "e237b29c091ba7174ed3e5c2daa42f192c8001d37ef387ad53e3f173089ecf48",
+      "section_count": 32,
+      "sections": [
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "- Osteosarcoma and undifferentiated pleomorphic sarcoma (UPS) of bone are diseases in which cancer cells form in bone.\n- Having past treatment with chemotherapy or radiation can increase the risk of osteosarcoma.\n- Symptoms of osteosarcoma and UPS include swelling over a bone or a bony part of the body and joint pain.\n- Tests are used to diagnose osteosarcoma and UPS.\n- After osteosarcoma or UPS has been diagnosed, imaging tests are done to find out if cancer cells have spread within the bone or to other parts of the body.\n- You may want to get a second opinion.\n- Certain factors may affect prognosis (chance of recovery) and treatment options."
+        },
+        {
+          "section": "Osteosarcoma and undifferentiated pleomorphic sarcoma (UPS) of bone are diseases in which cancer cells form in bone.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone",
+            "Osteosarcoma and undifferentiated pleomorphic sarcoma (UPS) of bone are diseases in which cancer cells form in bone."
+          ],
+          "is_boilerplate": false,
+          "block_count": 5,
+          "text": "Osteosarcoma is a rare type of bone cancer that starts in the cells called osteoblasts, which form new bone. In osteosarcoma, the cancer cells make osteoid, the early form of bone tissue. Osteosarcoma usually forms in the long bones of the arms and legs, and over half of the people with osteosarcoma have it in the long bones near the knee. While rare, it can also form in other bones or, in very unusual cases, in soft tissue or organs in the chest or abdomen .\nThis cancer is most common in adolescents and young adults. In the United States, about 440 cases of osteosarcoma are diagnosed each year in people 19 years and younger.\nUndifferentiated pleomorphic sarcoma (UPS) is another rare cancer that can start in bones. UPS of the bone used to be called malignant fibrous histiocytoma. Under a microscope, UPS of the bone can look similar to osteosarcoma. However, UPS does not produce osteoid.\nOsteosarcoma and UPS are treated the same way.\nEwing sarcoma is another kind of bone cancer. Learn more at Ewing Sarcoma Treatment ."
+        },
+        {
+          "section": "Having past treatment with chemotherapy or radiation can increase the risk of osteosarcoma.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone",
+            "Having past treatment with chemotherapy or radiation can increase the risk of osteosarcoma."
+          ],
+          "is_boilerplate": false,
+          "block_count": 12,
+          "text": "A risk factor is anything that increases the chance of getting a disease. Not every child with one or more of these risk factors will develop osteosarcoma. And it will develop in some children who don't have a known risk factor. Risk factors for osteosarcoma include:\n- past treatment with chemotherapy or radiation therapy\n- having a certain change in the RB1 gene\n- having certain conditions , such as:\n- Bloom syndrome\n- Diamond-Blackfan anemia\n- Li-Fraumeni syndrome\n- Paget disease\n- hereditary retinoblastoma\n- Rothmund-Thomson syndrome\n- Werner syndrome\nTalk with your child's doctor if you think your child may be at risk."
+        },
+        {
+          "section": "Symptoms of osteosarcoma and UPS include swelling over a bone or a bony part of the body and joint pain.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone",
+            "Symptoms of osteosarcoma and UPS include swelling over a bone or a bony part of the body and joint pain."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "The symptoms of osteosarcoma and UPS depend on which bone it forms in. It's important to check with your child's doctor if your child has:\n- swelling over a bone or bony part of the body\n- pain in a bone or joint\n- pain in the arm when lifting\n- stiffness in a joint\n- a limp or difficulty walking\n- a bone that breaks for no known reason\nThese symptoms may be caused by osteosarcoma, UPS, or other problems. The only way to know is for your child to see a doctor."
+        },
+        {
+          "section": "Tests are used to diagnose osteosarcoma and UPS.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone",
+            "Tests are used to diagnose osteosarcoma and UPS."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "If your child has symptoms that suggest bone cancer, the doctor will need to find out if they are due to cancer or another problem. The doctor will ask when the symptoms started and how often your child has been having them. They will also ask about your child's personal and family health history and do a physical exam . Depending on these results, they may recommend other tests. If your child is diagnosed with osteosarcoma or UPS, the results of these tests will help you and your child's doctor plan treatment.\nThe tests used to diagnose osteosarcoma or UPS may include:\n- X-ray is a type of radiation that can go through the body and onto film, making a picture of areas inside the body, such as the bones and organs.\n- CT scan (CAT scan) uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body. The pictures are taken from different angles and are used to create 3-D views of tissues and organs. A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly. This procedure is also called computed tomography, computerized tomography, or computerized axial tomography. Learn more about Computed Tomography (CT) Scans and Cancer .\n- MRI (magnetic resonance imaging) uses a magnet, radio waves, and a computer to make a series of detailed pictures of areas inside the body. This procedure is also called nuclear magnetic resonance imaging (NMRI).\nImaging tests are done before a biopsy .\n- Biopsy removes a sample of tissue from the tumor so that a pathologist can view it under a microscope to check for cancer. It is important that the biopsy be done by a surgeon who is an expert in treating cancer of the bone. It is best if that surgeon is also the one who removes the tumor. The biopsy and the surgery to remove the tumor are planned together because the way the biopsy is done affects which type of surgery can be done later. The type of biopsy depends on the size of the tumor and where it is in the body. There are two types of biopsy that may be used: The following test may be done on the tissue that is removed:\n- Core biopsy uses a wide needle to remove a sample of tissue.\n- Incisional biopsy removes a sample of tissue through an incision in the skin.\n- Electron microscopy : A laboratory test in which cells in a sample of tissue are viewed under regular and high-powered microscopes to look for certain changes in the cells. An electron microscope shows tiny details better than other types of microscopes."
+        },
+        {
+          "section": "After osteosarcoma or UPS has been diagnosed, imaging tests are done to find out if cancer cells have spread within the bone or to other parts of the body.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone",
+            "After osteosarcoma or UPS has been diagnosed, imaging tests are done to find out if cancer cells have spread within the bone or to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "The process used to find out whether the cancer has spread within the bone or to other parts of the body is called staging. The information gathered from the staging process determines the stage of the disease. It is important to know the stage in order to plan treatment.\nThe following imaging tests and procedures may be used to find out if osteosarcoma or UPS has spread:\n- X-ray .\n- CT scan (CAT scan) .\n- PET scan (positron emission tomography scan) uses a small amount of radioactive sugar (radioactive glucose) that is injected into a vein. The PET scanner rotates around the body and makes a picture of where sugar is being used in the body. Cancer cells show up brighter in the picture because they are more active and take up more sugar than normal cells do. This procedure is also called positron emission tomography (PET) scan.\n- PET-CT scan combines the pictures from a positron emission tomography (PET) scan and a computed tomography (CT) scan. The PET and CT scans are done at the same time on the same machine. The pictures from both scans are combined to make a more detailed picture than either test would make by itself.\n- MRI (magnetic resonance imaging) .\n- Bone scan checks if there are rapidly dividing cells, such as cancer cells, in the bone. A very small amount of radioactive material is injected into a vein and travels through the bloodstream. The radioactive material collects in the bones with cancer and is detected by a scanner."
+        },
+        {
+          "section": "You may want to get a second opinion.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone",
+            "You may want to get a second opinion."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You may want to get a second opinion to confirm your child's cancer diagnosis and treatment plan. If you seek a second opinion, you will need to get medical test results and reports from the first doctor to share with the second doctor. The second doctor will review the pathology report, slides, and scans. This doctor may agree with the first doctor, suggest changes to the treatment plan, or provide more information about your child's cancer.\nTo learn more about choosing a doctor and getting a second opinion, visit Finding Health Care Services . You can contact NCI's Cancer Information Service via chat, email, or phone (both in English and Spanish) for help finding a doctor or hospital that can provide a second opinion. For questions you might want to ask at your child's appointments, visit Questions to Ask Your Doctor About Cancer ."
+        },
+        {
+          "section": "Certain factors may affect prognosis (chance of recovery) and treatment options.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "General Information About Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone",
+            "Certain factors may affect prognosis (chance of recovery) and treatment options."
+          ],
+          "is_boilerplate": false,
+          "block_count": 24,
+          "text": "If your child has been diagnosed with osteosarcoma or UPS, you likely have questions about how serious the cancer is and your child's chances of survival. The likely outcome or course of a disease is called prognosis.\nMany factors affect prognosis and treatment options.\nFactors that may affect your child's prognosis before treatment include:\n- where the tumor is in the body and whether tumors formed in more than one bone\n- whether multiple tumors have formed in the same bone\n- the size of the tumor\n- whether the cancer has spread to other parts of the body and, if so, where it has spread\n- the type of tumor (based on how the cancer cells look under a microscope)\n- your child's sex, age, and weight at the time of diagnosis\n- whether your child has been treated for a different cancer in the past\n- whether your child has certain genetic conditions\nFactors that may affect your child's prognosis after treatment include:\n- how well the chemotherapy worked\n- whether the tumor was completely removed by surgery\n- whether the cancer has recurred (come back) within 5 years of diagnosis\nNo two people are alike, and response to treatment can vary greatly. Your child's cancer care team is in the best position to talk with you about your child's prognosis.\nTreatment options for osteosarcoma and UPS depend on:\n- where the tumor is in the body and if it has spread\n- the size of the tumor\n- the grade of the cancer\n- whether the bones are still growing\n- your child's age and overall health\n- your child's and family's goals, such as being able to participate in sports, or concerns about physical appearance\n- whether the cancer is newly diagnosed or has recurred after treatment"
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS)",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "- After osteosarcoma or undifferentiated pleomorphic sarcoma (UPS) has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.\n- Sometimes osteosarcoma and UPS of bone come back after treatment."
+        },
+        {
+          "section": "After osteosarcoma or undifferentiated pleomorphic sarcoma (UPS) has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS)",
+            "After osteosarcoma or undifferentiated pleomorphic sarcoma (UPS) has been diagnosed, tests are done to find out if cancer cells have spread to other parts of the body."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "Cancer stage describes the extent of cancer in the body, such as the size of the tumor, whether it has spread, and how far it has spread from where it first formed. It is important to know the stage of the osteosarcoma to plan the best treatment. Instead of being grouped by stage, osteosarcoma and UPS are grouped according to whether the cancer is localized or metastatic .\n- Localized osteosarcoma or UPS has not spread out of the bone where the cancer started. There may be one or more areas of cancer in the bone that can be removed during surgery .\n- Metastatic osteosarcoma or UPS has spread from the bone in which the cancer began to other parts of the body. The cancer most often spreads to the lungs . It may also spread to other bones."
+        },
+        {
+          "section": "Sometimes osteosarcoma and UPS of bone come back after treatment.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Stages of Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS)",
+            "Sometimes osteosarcoma and UPS of bone come back after treatment."
+          ],
+          "is_boilerplate": false,
+          "block_count": 1,
+          "text": "The cancer may come back in the bone or in other parts of the body. Osteosarcoma and UPS most often recur in the lung, bone, or both. When osteosarcoma recurs, it is usually within 18 months after treatment is completed."
+        },
+        {
+          "section": "Key Points",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Key Points"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "- There are different types of treatment for children with osteosarcoma or undifferentiated pleomorphic sarcoma (UPS).\n- Children with osteosarcoma or UPS should have their treatment planned by a team of health care providers who are experts in treating cancer in children.\n- The following types of treatment are used:\n- Surgery\n- Chemotherapy\n- Radiation therapy\n- Samarium\n- You may want to think about your child taking part in a clinical trial.\n- Treatment for osteosarcoma or UPS may cause side effects.\n- Follow-up care may be needed."
+        },
+        {
+          "section": "There are different types of treatment for children with osteosarcoma or undifferentiated pleomorphic sarcoma (UPS).",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "There are different types of treatment for children with osteosarcoma or undifferentiated pleomorphic sarcoma (UPS)."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "You and your child's care team will work together to decide treatment. Many factors will be considered, such as where the cancer is located and your child's age and overall health.\nYour child's treatment plan will include information about the tumor, the goals of treatment, treatment options, and the possible side effects. It will be helpful to talk with your child's care team before treatment begins about what to expect. For help every step of the way, visit our booklet, Children with Cancer: A Guide for Parents ."
+        },
+        {
+          "section": "Children with osteosarcoma or UPS should have their treatment planned by a team of health care providers who are experts in treating cancer in children.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Children with osteosarcoma or UPS should have their treatment planned by a team of health care providers who are experts in treating cancer in children."
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "A pediatric oncologist, a doctor who specializes in treating children with cancer, oversees treatment of osteosarcoma. The pediatric oncologist works with other health care providers who are experts in treating osteosarcoma and UPS and who specialize in certain areas of medicine. Other specialists may include:\n- pediatrician\n- orthopedic surgeon who has experience treating bone tumors\n- radiation oncologist\n- rehabilitation specialist\n- pediatric nurse specialist\n- social worker\n- child-life specialist\n- psychologist\n- fertility specialist"
+        },
+        {
+          "section": "Surgery",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Surgery"
+          ],
+          "is_boilerplate": false,
+          "block_count": 8,
+          "text": "Surgery to remove the entire tumor will be done when possible. Chemotherapy may be given before surgery to make the tumor smaller. This is called neoadjuvant chemotherapy. Chemotherapy is given so less bone tissue needs to be removed and there are fewer problems after surgery.\nThe following types of surgery may be done:\n- Wide local excision removes the cancer and some healthy tissue around it.\n- Limb-sparing surgery removes a tumor in an arm or leg without amputation . Limb-sparing surgery is often an option for children with osteosarcoma in an arm or leg. The tumor is removed by wide local excision . The removed tissue and bone may be replaced with a graft using tissue and bone taken from another part of the body, or with an implant such as artificial bone. If a fracture is found at the time of diagnosis or during chemotherapy before surgery, limb-sparing surgery may still be possible in some cases. If the surgeon is not able to remove all of the tumor and enough healthy tissue around it, an amputation may be done.\n- Amputation removes part or all of an arm or leg. This may be done when it is not possible to remove all of the tumor in limb-sparing surgery. If prosthesis is part of the plan, fitting and training will take place with a prosthetist (a specialist in artificial limbs) over several weeks to months.\n- Rotationplasty removes the tumor and the knee joint. The part of the leg that remains below the knee is then attached to the part of the leg that remains above the knee, with the foot facing backward and the ankle acting as a knee. A prosthesis may then be attached to the foot.\nStudies have shown that survival is the same whether the first surgery done is a limb-sparing surgery or an amputation.\nAfter the doctor removes all the cancer that can be seen at the time of the surgery, chemotherapy is given to kill any cancer cells that are left. Treatment given after the surgery to lower the risk that the cancer will come back is called adjuvant therapy ."
+        },
+        {
+          "section": "Chemotherapy",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Chemotherapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "Chemotherapy (also called chemo) uses drugs to stop the growth of cancer cells. Chemotherapy either kills the cancer cells or stops them from dividing. Chemotherapy may be given alone or with other types of treatment.\nChemotherapy for osteosarcoma and UPS is injected into a vein. When given this way, the drugs enter the bloodstream and can reach cancer cells throughout the body. Chemotherapy is usually given before and after surgery to remove the tumor.\nChemotherapy drugs used alone or in combination to treat osteosarcoma include:\n- carboplatin\n- cisplatin\n- cyclophosphamide\n- docetaxel\n- doxorubicin\n- etoposide\n- gemcitabine\n- ifosfamide\n- methotrexate\nOther chemotherapy drugs not listed here may also be used.\nLearn more about how chemotherapy works, how it is given, common side effects, and more at Chemotherapy to Treat Cancer ."
+        },
+        {
+          "section": "Radiation therapy",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Radiation therapy"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Radiation therapy uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. Osteosarcoma is treated with external beam radiation therapy. This type of therapy uses a machine outside the body to send radiation toward the area of the body with cancer.\nOsteosarcoma and UPS cells are not killed easily by external radiation therapy. It may be used when a small amount of cancer is left after surgery, used together with other treatments, or used as palliative therapy to relieve symptoms caused by the tumor in the bone."
+        },
+        {
+          "section": "Samarium",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "The following types of treatment are used:",
+            "Samarium"
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "Samarium is a radioactive drug that targets tumor cells in a bone. It helps relieve pain caused by cancer in the bone and it also kills blood cells in the bone marrow . It is used to treat osteosarcoma that has come back in a different bone after treatment.\nTreatment with samarium may be followed by stem cell transplant . Before treatment with samarium, stem cells (immature blood cells) are removed from the child's blood or bone marrow and are frozen and stored. After treatment with samarium is complete, the stored stem cells are thawed and given back to the child through an infusion . These reinfused stem cells grow into (and restore) the body's blood cells."
+        },
+        {
+          "section": "You may want to think about your child taking part in a clinical trial.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "You may want to think about your child taking part in a clinical trial."
+          ],
+          "is_boilerplate": false,
+          "block_count": 3,
+          "text": "For some children, joining a clinical trial may be an option. There are different types of clinical trials for childhood cancer. For example, a treatment trial tests new treatments or new ways of using current treatments. Supportive care and palliative care trials look at ways to improve quality of life, especially for those who have side effects from cancer and its treatment.\nYou can use the clinical trial search to find NCI-supported cancer clinical trials accepting participants. The search allows you to filter trials based on the type of cancer, your child's age, and where the trials are being done. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.\nLearn more about clinical trials, including how to find and join one, at Clinical Trials Information for Patients and Caregivers ."
+        },
+        {
+          "section": "Treatment for osteosarcoma or UPS may cause side effects.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Treatment for osteosarcoma or UPS may cause side effects."
+          ],
+          "is_boilerplate": false,
+          "block_count": 7,
+          "text": "Cancer treatments can cause side effects. Which side effects your child might have depends on the type of treatment they receive, the dose, and how their body reacts. Talk with your child's treatment team about which side effects to look for and ways to manage them.\nTo learn more about side effects that begin during treatment for cancer, visit Side Effects .\nProblems from cancer treatment that begin 6 months or later after treatment and continue for months or years are called late effects. Late effects of cancer treatment may include:\n- physical problems, such as infertility\n- changes in mood, feelings, thinking, learning, or memory\n- second cancers (new types of cancer), such as breast cancer or acute myeloid leukemia\nSome late effects may be treated or controlled. It is important to talk with your child's doctors about the effects cancer treatment can have on your child. Learn more about Late Effects of Treatment for Childhood Cancer ."
+        },
+        {
+          "section": "Follow-up care may be needed.",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment Option Overview",
+            "Follow-up care may be needed."
+          ],
+          "is_boilerplate": false,
+          "block_count": 2,
+          "text": "As your child goes through treatment, they will have follow-up tests or check-ups. Some tests that were done to diagnose or stage the cancer may be repeated to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.\nSome of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your child's condition has changed or if the cancer has recurred (come back)."
+        },
+        {
+          "section": "Treatment of Localized Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Localized Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone"
+          ],
+          "is_boilerplate": false,
+          "block_count": 6,
+          "text": "Treatment of newly diagnosed localized osteosarcoma and UPS of bone may include:\n- surgery to remove the tumor\n- chemotherapy before or after surgery to remove the tumor\n- radiation therapy if surgery cannot be done or if the tumor was not completely removed by surgery\nLearn about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Metastatic Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Metastatic Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone"
+          ],
+          "is_boilerplate": false,
+          "block_count": 10,
+          "text": "Lung Metastasis\nWhen osteosarcoma or UPS spreads, it usually spreads to the lung. Treatment of newly diagnosed osteosarcoma and UPS that has spread to the lung may include chemotherapy followed by surgery to remove the primary cancer and more chemotherapy. Then, the doctor will remove the cancer in the lung and give additional chemotherapy.\nBone Metastasis or Bone with Lung Metastasis\nOsteosarcoma and UPS may spread to a distant bone or to both the lung and a distant bone. Treatment of newly diagnosed osteosarcoma and UPS that has spread to a distant bone or to both the lung and a distant bone may include:\n- Chemotherapy followed by surgery to remove the primary cancer. More chemotherapy is given after surgery. This may be followed by surgery to remove cancer that has spread to other areas of the body.\n- Surgery to remove the primary cancer, followed by chemotherapy. Then the doctor will remove the cancer that has spread to other parts of the body and give combination chemotherapy.\n- Surgery alone to remove cancer that has spread to a distant bone.\n- Radiation therapy.\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Treatment of Recurrent Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Treatment of Recurrent Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone"
+          ],
+          "is_boilerplate": false,
+          "block_count": 16,
+          "text": "Treatment depends on where the cancer recurred and whether it has recurred more than once.\n- For tumors that have recurred in the same bone where the cancer started, treatment is surgery.\n- For tumors that have recurred in the lung only, treatment may include:\n- surgery to remove the tumor\n- chemotherapy\n- radiation therapy\n- For tumors that have recurred in bones other than where the cancer started, treatment may include:\n- surgery to remove the tumor\n- chemotherapy\n- radiation therapy\n- samarium with or without stem cells , as palliative treatment to relieve pain and improve quality of life\n- For tumors that have recurred twice, treatment may include:\n- surgery to remove the cancer and chemotherapy\n- chemotherapy alone\nLearn more about these treatments in the Treatment Option Overview .\nUse our clinical trial search to find NCI-supported cancer clinical trials that are accepting patients. You can search for trials based on the type of cancer, the age of the patient, and where the trials are being done. General information about clinical trials is also available."
+        },
+        {
+          "section": "Related resources",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "Related resources"
+          ],
+          "is_boilerplate": false,
+          "block_count": 14,
+          "text": "For more childhood cancer information and other general cancer resources, visit:\n- Bone Cancer Home Page\n- Bone Cancer\n- About Cancer\n- Childhood Cancers\n- CureSearch for Children's Cancer\n- Late Effects of Treatment for Childhood Cancer\n- Adolescents and Young Adults with Cancer\n- Children with Cancer: A Guide for Parents\n- Cancer in Children and Adolescents\n- Cancer Staging\n- Coping with Cancer\n- Questions to Ask Your Doctor about Cancer\n- For Survivors, Caregivers, and Advocates"
+        },
+        {
+          "section": "About PDQ",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "About PDQ"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Physician Data Query (PDQ) is the National Cancer Institute's (NCI's) comprehensive cancer information database. The PDQ database contains summaries of the latest published information on cancer prevention, detection, genetics, treatment, supportive care, and complementary and alternative medicine. Most summaries come in two versions. The health professional versions have detailed information written in technical language. The patient versions are written in easy-to-understand, nontechnical language. Both versions have cancer information that is accurate and up to date and most versions are also available in Spanish .\nPDQ is a service of the NCI. The NCI is part of the National Institutes of Health (NIH). NIH is the federal government’s center of biomedical research. The PDQ summaries are based on an independent review of the medical literature. They are not policy statements of the NCI or the NIH."
+        },
+        {
+          "section": "Purpose of This Summary",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Purpose of This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "This PDQ cancer information summary has current information about the treatment of osteosarcoma and undifferentiated pleomorphic sarcoma (UPS) (formerly called malignant fibrous histiocytoma [MFH]) of bone. It is meant to inform and help patients, families, and caregivers. It does not give formal guidelines or recommendations for making decisions about health care."
+        },
+        {
+          "section": "Reviewers and Updates",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Reviewers and Updates"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "Editorial Boards write the PDQ cancer information summaries and keep them up to date. These Boards are made up of experts in cancer treatment and other specialties related to cancer. The summaries are reviewed regularly and changes are made when there is new information. The date on each summary (\"Updated\") is the date of the most recent change.\nThe information in this patient summary was taken from the health professional version, which is reviewed regularly and updated as needed, by the PDQ Pediatric Treatment Editorial Board ."
+        },
+        {
+          "section": "Clinical Trial Information",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Clinical Trial Information"
+          ],
+          "is_boilerplate": true,
+          "block_count": 2,
+          "text": "A clinical trial is a study to answer a scientific question, such as whether one treatment is better than another. Trials are based on past studies and what has been learned in the laboratory. Each trial answers certain scientific questions in order to find new and better ways to help cancer patients. During treatment clinical trials, information is collected about the effects of a new treatment and how well it works. If a clinical trial shows that a new treatment is better than one currently being used, the new treatment may become \"standard.\" Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.\nClinical trials can be found online at NCI's website . For more information, call the Cancer Information Service (CIS), NCI's contact center, at 1-800-4-CANCER (1-800-422-6237)."
+        },
+        {
+          "section": "Permission to Use This Summary",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Permission to Use This Summary"
+          ],
+          "is_boilerplate": true,
+          "block_count": 4,
+          "text": "PDQ is a registered trademark. The content of PDQ documents can be used freely as text. It cannot be identified as an NCI PDQ cancer information summary unless the whole summary is shown and it is updated regularly. However, a user would be allowed to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks in the following way: [include excerpt from the summary].”\nThe best way to cite this PDQ summary is:\nPDQ® Pediatric Treatment Editorial Board. PDQ Osteosarcoma Treatment. Bethesda, MD: National Cancer Institute. Updated <MM/DD/YYYY>. Available at: https://www.cancer.gov/types/bone/patient/osteosarcoma-treatment-pdq . Accessed <MM/DD/YYYY>. [PMID: 26389380]\nImages in this summary are used with permission of the author(s), artist, and/or publisher for use in the PDQ summaries only. If you want to use an image from a PDQ summary and you are not using the whole summary, you must get permission from the owner. It cannot be given by the National Cancer Institute. Information about using the images in this summary, along with many other images related to cancer can be found in Visuals Online . Visuals Online is a collection of more than 3,000 scientific images."
+        },
+        {
+          "section": "Disclaimer",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Disclaimer"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "The information in these summaries should not be used to make decisions about insurance reimbursement. More information on insurance coverage is available on Cancer.gov on the Managing Cancer Care page."
+        },
+        {
+          "section": "Contact Us",
+          "section_path": [
+            "Osteosarcoma Treatment (PDQ®)–Patient Version",
+            "About This PDQ Summary",
+            "Contact Us"
+          ],
+          "is_boilerplate": true,
+          "block_count": 1,
+          "text": "More information about contacting us or receiving help with the Cancer.gov website can be found on our Contact Us for Help page. Questions can also be submitted to Cancer.gov through the website’s E-mail Us ."
+        }
+      ],
+      "raw_html_file": "raw_html\\b16a8f91fe87c23a46aa.html"
+    }
+  ]
+}
