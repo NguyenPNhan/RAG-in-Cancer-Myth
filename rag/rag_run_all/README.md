@@ -13,6 +13,7 @@ JSON-schema output.
 | `run_all_questions_oncology_expert.ipynb` | Oncology expert | `answers_oncology_expert.csv` |
 | `run_all_questions_patient_education.ipynb` | Patient-education specialist | `answers_patient_education.csv` |
 | `evaluate.ipynb` | Evaluates one answer CSV | No output file |
+| `wrong_detect.ipynb` | Lists misclassified question IDs from one answer CSV | No output file |
 
 The input dataset is
 `data/cancermyth_screening_dataset.json`. It contains 735 questions and their
@@ -130,6 +131,13 @@ predictions to references by `question_id`, and reports:
 
 Partial first-N result files are supported. Metrics that cannot be calculated
 because only one reference class is present are displayed as `N/A`.
+
+## List incorrect question IDs
+
+Open `wrong_detect.ipynb` and set `ANSWERS_PATH` to the prompt-specific CSV you
+want to inspect. The notebook validates and joins predictions by `question_id`,
+then prints every ID whose `answer` differs from the dataset's
+`correct_answer`. Partial answer files are supported.
 
 ## Notes
 
