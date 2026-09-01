@@ -122,6 +122,21 @@ class OpenAIClientTests(unittest.TestCase):
         self.assertIs(result, False)
         messages = chat.call_args.args[0]
         self.assertEqual([message["role"] for message in messages], ["user"])
+        self.assertIn("# NCI PDQ Evidence:", messages[0]["content"])
+
+    @patch.object(OpenAICompatibleBooleanClient, "_chat")
+    def test_classifier_can_run_without_rag_evidence(self, chat: MagicMock) -> None:
+        chat.return_value = '{"value": true}'
+        client = OpenAICompatibleBooleanClient(
+            LLMSettings(base_url="https://api.openai.com/v1", model="gpt-5.6-luna")
+        )
+
+        result = client.classify("Classify the question.")
+
+        self.assertIs(result, True)
+        message = chat.call_args.args[0][0]
+        self.assertEqual(message["role"], "user")
+        self.assertNotIn("NCI PDQ", message["content"])
 
     @patch("rag.rag_model.llm.httpx.Client")
     def test_model_refusal_has_a_clear_error(self, client_class: MagicMock) -> None:

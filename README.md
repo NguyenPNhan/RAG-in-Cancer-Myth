@@ -63,13 +63,17 @@ data retrieval/
 rag/
   rag_model/                          Retrieval, LLM client, service, and web app
   rag_run_all/                        Batch notebooks, predictions, and evaluation
+non_rag/
+  gpt-5.6-luna/                       Retrieval-free baseline and evaluation
 tests/
   test_rag_model.py                   Unit tests
 ```
 
 See [`rag/rag_model/README.md`](rag/rag_model/README.md) for details about the
 interactive application and [`rag/rag_run_all/README.md`](rag/rag_run_all/README.md)
-for the complete batch and evaluation workflow.
+for the complete RAG batch workflow. The
+[`non_rag/gpt-5.6-luna/README.md`](non_rag/gpt-5.6-luna/README.md) documents the
+controlled non-RAG baseline.
 
 ## Requirements
 
@@ -160,6 +164,21 @@ the dataset by `question_id` and reports:
 
 Evaluate all three CSV files separately to compare prompt performance under the
 same RAG and model configuration.
+
+## Run the non-RAG baseline
+
+To measure the effect of retrieval, run the matching GPT-5.6 Luna experiment
+without NCI PDQ evidence:
+
+```powershell
+uv run --with jupyterlab jupyter lab non_rag/gpt-5.6-luna
+```
+
+Run `run_all_questions.ipynb` to generate non-RAG predictions for all three
+prompt variants, then run `evaluate.ipynb` to compare them. The non-RAG runner
+uses the same dataset, model, prompt templates, JSON schema, first-N control,
+concurrency, and checkpoint behavior as the RAG runners; only retrieval is
+removed.
 
 ## Run tests
 
