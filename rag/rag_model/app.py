@@ -34,15 +34,15 @@ def build_rag() -> CancerMythRAG:
 
 defaults = LLMSettings.from_environment()
 
-st.title("Cancer Myth RAG — Qwen3-8B")
+st.title("Cancer Myth RAG — GPT-5.6 Luna")
 st.caption("Classify whether a patient question contains a false medical assumption.")
 
 with st.sidebar:
     st.header("Model connection")
     base_url = st.text_input("Base URL", value=defaults.base_url)
-    model = st.text_input("Qwen model", value=defaults.model)
-    api_key = st.text_input("API key", value=defaults.api_key, type="password")
-    st.caption("Uses an OpenAI-compatible chat-completions endpoint.")
+    model = st.text_input("OpenAI model", value=defaults.model)
+    api_key = st.text_input("OpenAI API key", value=defaults.api_key, type="password")
+    st.caption("OpenAI is the default; any compatible endpoint can be configured.")
 
 question = st.text_area(
     "Patient question",

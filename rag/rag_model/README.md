@@ -1,36 +1,30 @@
 # Cancer Myth RAG Streamlit app
 
 This app retrieves relevant passages from both local NCI PDQ collections and
-asks Qwen3-8B to return only `true` or `false`. The default configuration uses
-the Ollama model name `qwen3:8b` through Ollama's OpenAI-compatible endpoint.
-
-Qwen3 thinking is disabled with `/no_think` because this classifier needs a
-short, strictly formatted answer.
+asks OpenAI's `gpt-5.6-luna` model for a strict JSON-schema response containing
+a boolean `value` through the Chat Completions API.
 
 ## Configuration
 
-Install Ollama separately, then download and start Qwen3-8B:
+Create an OpenAI API key at <https://platform.openai.com/api-keys>, then expose
+it to the app before starting Streamlit:
 
 ```powershell
-ollama pull qwen3:8b
-ollama serve
+$env:OPENAI_API_KEY = "sk-your_key_here"
 ```
-
-The Ollama model is about 5.2 GB. If Ollama is already running as a service,
-only the `pull` command is needed.
 
 The app defaults to the following settings, which can be overridden with
 environment variables or in the sidebar:
 
 ```powershell
-$env:LLM_BASE_URL = "http://localhost:11434/v1"
-$env:LLM_MODEL = "qwen3:8b"
-$env:LLM_API_KEY = ""
+$env:LLM_BASE_URL = "https://api.openai.com/v1"
+$env:LLM_MODEL = "gpt-5.6-luna"
+$env:LLM_API_KEY = $env:OPENAI_API_KEY
 ```
 
-`LLM_API_KEY` is optional for local endpoints that do not require authentication.
-For an SGLang or vLLM server, set `LLM_BASE_URL` to that server and use its
-served model identifier, commonly `Qwen/Qwen3-8B`.
+`LLM_API_KEY` takes precedence over `OPENAI_API_KEY` when both are set. This keeps
+the connection generic: to use Ollama, SGLang, vLLM, or another compatible
+provider instead, override the base URL, model, and API key as needed.
 
 ## Run
 
