@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import sys
 from pathlib import Path
 
@@ -19,7 +20,7 @@ from rag.rag_model.config import (  # noqa: E402
 )
 from rag.rag_model.corpus import load_pdq_chunks  # noqa: E402
 from rag.rag_model.prompts import PROMPT_OPTIONS  # noqa: E402
-from rag.rag_model.retriever import BM25Retriever  # noqa: E402
+from rag.rag_model.retriever import BM25Retriever, format_evidence  # noqa: E402
 from rag.rag_model.service import CancerMythRAG  # noqa: E402
 
 
@@ -77,3 +78,60 @@ if st.button("Classify", type="primary", use_container_width=True):
         else:
             st.subheader("Answer")
             st.code(result.text, language=None)
+
+            st.subheader("Retrieved NCI PDQ evidence")
+            st.caption(
+                "These are the passages retrieved for this question and supplied "
+                "to the model. Passage text is limited to the same 1,800 characters "
+                "used in the model request."
+            )
+
+            if not result.evidence:
+                st.info("No matching NCI PDQ passage was retrieved.")
+            else:
+                evidence_records = []
+                for item in result.evidence:
+                    chunk = item.chunk
+                    passage = chunk.text[:1_800]
+                    evidence_records.append(
+                        {
+                            "rank": item.rank,
+                            "score": item.score,
+                            "chunk_id": chunk.chunk_id,
+                            "title": chunk.title,
+                            "cancer_type": chunk.cancer_type,
+                            "topic": chunk.topic,
+                            "audience": chunk.audience,
+                            "section": chunk.section,
+                            "section_path": list(chunk.section_path),
+                            "url": chunk.url,
+                            "source_file": chunk.source_file,
+                            "passage": passage,
+                        }
+                    )
+
+                    label = f"#{item.rank} · {chunk.title} — {chunk.section}"
+                    with st.expander(label, expanded=item.rank == 1):
+                        st.markdown(f"**BM25 score:** `{item.score:.4f}`")
+                        st.markdown(
+                            f"**Cancer/topic:** {chunk.cancer_type or 'General cancer topic'} "
+                            f"/ {chunk.topic}"
+                        )
+                        st.markdown(f"**Audience:** {chunk.audience}")
+                        st.markdown(f"**Section path:** {' > '.join(chunk.section_path)}")
+                        if chunk.url:
+                            st.markdown(f"**NCI source:** [{chunk.url}]({chunk.url})")
+                        st.markdown(f"**Chunk ID:** `{chunk.chunk_id}`")
+                        st.markdown("**Passage sent to the model:**")
+                        st.write(passage)
+
+                st.download_button(
+                    "Download retrieved evidence (JSON)",
+                    data=json.dumps(evidence_records, indent=2, ensure_ascii=False),
+                    file_name="retrieved_evidence.json",
+                    mime="application/json",
+                    use_container_width=True,
+                )
+
+                with st.expander("View exact evidence block sent to the model"):
+                    st.code(format_evidence(result.evidence), language=None)

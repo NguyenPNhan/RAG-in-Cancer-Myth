@@ -1,0 +1,4 @@
+prompt,n,rag_accuracy,non_rag_accuracy,accuracy_delta,both_correct,rag_only_correct,non_rag_only_correct,both_wrong,discordant,mcnemar_exact_p
+basic,735,0.688435,0.631293,0.057143,422,84,42,187,126,0.000230
+oncology_expert,735,0.696599,0.657143,0.039456,445,67,38,185,105,0.006016
+patient_education,735,0.702041,0.643537,0.058503,429,87,44,175,131,0.000216

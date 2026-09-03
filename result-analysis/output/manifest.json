@@ -1,0 +1,68 @@
+{
+  "analysis": {
+    "positive_class": "true = contains a false or materially misleading assumption",
+    "prompts": [
+      "basic",
+      "oncology_expert",
+      "patient_education"
+    ],
+    "conditions": [
+      "rag",
+      "non_rag"
+    ],
+    "comparison_scope": "pairwise question-ID intersection for each prompt",
+    "subgroup_scope": "intersection of all six result files",
+    "accuracy_interval": "95% Wilson score interval",
+    "paired_test": "two-sided exact McNemar test; unadjusted exploratory p-values"
+  },
+  "dataset": {
+    "path": "data/cancermyth_screening_dataset.json",
+    "sha256": "190271c3ac2eb4eed93b3cc4ecc6b72f48ed861c555783f1ed8f68074bdeda6d",
+    "records": 735
+  },
+  "prediction_files": [
+    {
+      "condition": "rag",
+      "prompt": "basic",
+      "path": "rag/rag_run_all/answers_basic.csv",
+      "sha256": "91a1d31487ca744b13521095f8a10b74ee8a414daf636f14229b36fb2fab6134",
+      "records": 735
+    },
+    {
+      "condition": "rag",
+      "prompt": "oncology_expert",
+      "path": "rag/rag_run_all/answers_oncology_expert.csv",
+      "sha256": "96c89bf3d2f1d74e9ec5cf54e7a13544d4c192372ebf86630bac6d028c166dcc",
+      "records": 735
+    },
+    {
+      "condition": "rag",
+      "prompt": "patient_education",
+      "path": "rag/rag_run_all/answers_patient_education.csv",
+      "sha256": "24c920bf8ddd58bd28e0ca4308f8b628ff04c0e2d8572db2d18e75a5a4a578a6",
+      "records": 735
+    },
+    {
+      "condition": "non_rag",
+      "prompt": "basic",
+      "path": "non_rag/gpt-5.6-luna/answers_basic.csv",
+      "sha256": "9bbc5199308b107c87db1d99721f9fa359221183e3f7f02a1a64c61f77472ef8",
+      "records": 735
+    },
+    {
+      "condition": "non_rag",
+      "prompt": "oncology_expert",
+      "path": "non_rag/gpt-5.6-luna/answers_oncology_expert.csv",
+      "sha256": "0f61a7ae4400b5a93f7f50876b1fc19dc423d2c0ae9e1c3332c8aa7df121a3db",
+      "records": 735
+    },
+    {
+      "condition": "non_rag",
+      "prompt": "patient_education",
+      "path": "non_rag/gpt-5.6-luna/answers_patient_education.csv",
+      "sha256": "fd87172cd9210a36fbdc7b970c8682359975577aefd76704fae0aaac91c9cd6d",
+      "records": 735
+    }
+  ],
+  "six_way_common_records": 735
+}

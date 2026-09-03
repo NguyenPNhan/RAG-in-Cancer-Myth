@@ -65,8 +65,12 @@ rag/
   rag_run_all/                        Batch notebooks, predictions, and evaluation
 non_rag/
   gpt-5.6-luna/                       Retrieval-free baseline and evaluation
+result-analysis/                      Reproducible comparison, reports, and plots
+plan/
+  result_analysis_plan.md             Analysis design and artifact contract
 tests/
-  test_rag_model.py                   Unit tests
+  test_rag_model.py                   RAG model unit tests
+  test_result_analysis.py             Result-analysis unit tests
 ```
 
 See [`rag/rag_model/README.md`](rag/rag_model/README.md) for details about the
@@ -74,6 +78,11 @@ interactive application and [`rag/rag_run_all/README.md`](rag/rag_run_all/README
 for the complete RAG batch workflow. The
 [`non_rag/gpt-5.6-luna/README.md`](non_rag/gpt-5.6-luna/README.md) documents the
 controlled non-RAG baseline.
+
+The [`result-analysis/README.md`](result-analysis/README.md) explains how to
+regenerate the matched RAG versus non-RAG comparison and its plots. The complete
+methodology is documented in
+[`plan/result_analysis_plan.md`](plan/result_analysis_plan.md).
 
 ## Requirements
 
@@ -187,7 +196,22 @@ uv run python -m unittest discover -s tests -v
 ```
 
 The tests cover prompt rendering, structured Boolean parsing, OpenAI request
-construction, configuration, corpus loading, and BM25 retrieval.
+construction, configuration, corpus loading, BM25 retrieval, result metrics,
+paired tests, and prediction-file validation.
+
+## Analyze RAG versus non-RAG results
+
+After the six prompt result CSVs are available, generate the matched comparison:
+
+```powershell
+uv run --with jupyterlab jupyter lab result-analysis
+```
+
+Open `result_analysis.ipynb` and run all cells. The notebook writes a Markdown
+report, audit-ready CSV tables, an input-hash manifest, and SVG plots to
+`result-analysis/output/`. It joins by `question_id`, reports coverage, and
+uses matched IDs for every direct RAG versus non-RAG comparison. The underlying
+`analyze.py` entry point remains available for headless automation.
 
 ## Reproducibility notes
 
