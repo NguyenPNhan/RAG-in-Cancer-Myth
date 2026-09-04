@@ -63,6 +63,7 @@ data retrieval/
 rag/
   rag_model/                          Retrieval, LLM client, service, and web app
   rag_run_all/                        Batch notebooks, predictions, and evaluation
+rag-terra/                            Terra-pinned RAG app, batch runner, and results
 non_rag/
   gpt-5.6-luna/                       Retrieval-free baseline and evaluation
 result-analysis/                      Reproducible comparison, reports, and plots
@@ -83,6 +84,9 @@ The [`result-analysis/README.md`](result-analysis/README.md) explains how to
 regenerate the matched RAG versus non-RAG comparison and its plots. The complete
 methodology is documented in
 [`plan/result_analysis_plan.md`](plan/result_analysis_plan.md).
+
+[`rag-terra/README.md`](rag-terra/README.md) documents the matching RAG
+experiment with `gpt-5.6-terra` pinned as its main LLM.
 
 ## Requirements
 
