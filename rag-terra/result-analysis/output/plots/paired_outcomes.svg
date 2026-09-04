@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="480" viewBox="0 0 1000 480">
+<title>Paired outcome overlap</title>
+<rect width="1000" height="480" fill="#ffffff"/>
+<text x="500.0" y="33.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#172033">Paired prediction outcomes</text>
+<rect x="205" y="52" width="14" height="14" rx="2" fill="#16a34a"/>
+<text x="225.0" y="64.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="normal" fill="#172033">Both correct</text>
+<rect x="390" y="52" width="14" height="14" rx="2" fill="#2563eb"/>
+<text x="410.0" y="64.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="normal" fill="#172033">RAG only correct</text>
+<rect x="575" y="52" width="14" height="14" rx="2" fill="#f97316"/>
+<text x="595.0" y="64.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="normal" fill="#172033">Non-RAG only correct</text>
+<rect x="760" y="52" width="14" height="14" rx="2" fill="#64748b"/>
+<text x="780.0" y="64.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="normal" fill="#172033">Both wrong</text>
+<text x="171.0" y="145.8" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="normal" fill="#172033">Basic</text>
+<rect x="185.0" y="117.8" width="391.9" height="46" fill="#16a34a"/>
+<text x="380.9" y="145.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">379</text>
+<rect x="576.9" y="117.8" width="50.7" height="46" fill="#2563eb"/>
+<text x="602.2" y="145.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">49</text>
+<rect x="627.6" y="117.8" width="74.4" height="46" fill="#f97316"/>
+<text x="664.8" y="145.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">72</text>
+<rect x="702.0" y="117.8" width="243.0" height="46" fill="#64748b"/>
+<text x="823.5" y="145.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">235</text>
+<text x="171.0" y="257.5" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="normal" fill="#172033">Oncology expert</text>
+<rect x="185.0" y="229.5" width="408.4" height="46" fill="#16a34a"/>
+<text x="389.2" y="257.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">395</text>
+<rect x="593.4" y="229.5" width="33.1" height="46" fill="#2563eb"/>
+<text x="610.0" y="257.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">32</text>
+<rect x="626.5" y="229.5" width="78.6" height="46" fill="#f97316"/>
+<text x="665.8" y="257.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">76</text>
+<rect x="705.1" y="229.5" width="239.9" height="46" fill="#64748b"/>
+<text x="825.1" y="257.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">232</text>
+<text x="171.0" y="369.2" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="normal" fill="#172033">Patient education</text>
+<rect x="185.0" y="341.2" width="422.9" height="46" fill="#16a34a"/>
+<text x="396.5" y="369.2" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">409</text>
+<rect x="607.9" y="341.2" width="42.4" height="46" fill="#2563eb"/>
+<text x="629.1" y="369.2" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">41</text>
+<rect x="650.3" y="341.2" width="66.2" height="46" fill="#f97316"/>
+<text x="683.4" y="369.2" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">64</text>
+<rect x="716.5" y="341.2" width="228.5" height="46" fill="#64748b"/>
+<text x="830.7" y="369.2" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">221</text>
+</svg>

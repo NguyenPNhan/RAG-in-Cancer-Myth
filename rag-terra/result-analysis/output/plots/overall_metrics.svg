@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="770" viewBox="0 0 1200 770">
+<title>Overall classification metrics</title>
+<rect width="1200" height="770" fill="#ffffff"/>
+<text x="600.0" y="34.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#172033">RAG vs non-RAG metrics on matched questions</text>
+<rect x="470" y="51" width="16" height="16" rx="2" fill="#2563eb"/>
+<text x="493.0" y="64.0" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="normal" fill="#172033">RAG</text>
+<rect x="565" y="51" width="16" height="16" rx="2" fill="#f97316"/>
+<text x="588.0" y="64.0" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="normal" fill="#172033">Non-RAG</text>
+<text x="240.0" y="113.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#172033">Accuracy</text>
+<line x1="103" y1="338.0" x2="408" y2="338.0" stroke="#dbe2ea"/>
+<text x="95.0" y="342.0" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.0</text>
+<line x1="103" y1="296.4" x2="408" y2="296.4" stroke="#dbe2ea"/>
+<text x="95.0" y="300.4" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.2</text>
+<line x1="103" y1="254.8" x2="408" y2="254.8" stroke="#dbe2ea"/>
+<text x="95.0" y="258.8" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.4</text>
+<line x1="103" y1="213.2" x2="408" y2="213.2" stroke="#dbe2ea"/>
+<text x="95.0" y="217.2" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.6</text>
+<line x1="103" y1="171.6" x2="408" y2="171.6" stroke="#dbe2ea"/>
+<text x="95.0" y="175.6" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.8</text>
+<line x1="103" y1="130.0" x2="408" y2="130.0" stroke="#dbe2ea"/>
+<text x="95.0" y="134.0" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">1.0</text>
+<rect x="120.8" y="216.9" width="31" height="121.1" rx="2" fill="#2563eb"/>
+<text x="136.3" y="212.9" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.582</text>
+<rect x="155.8" y="210.4" width="31" height="127.6" rx="2" fill="#f97316"/>
+<text x="171.3" y="206.4" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.614</text>
+<text x="153.8" y="358.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Basic</text>
+<rect x="222.5" y="217.2" width="31" height="120.8" rx="2" fill="#2563eb"/>
+<text x="238.0" y="213.2" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.581</text>
+<rect x="257.5" y="204.7" width="31" height="133.3" rx="2" fill="#f97316"/>
+<text x="273.0" y="200.7" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.641</text>
+<text x="255.5" y="358.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Oncology</text>
+<rect x="324.2" y="210.7" width="31" height="127.3" rx="2" fill="#2563eb"/>
+<text x="339.7" y="206.7" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.612</text>
+<rect x="359.2" y="204.1" width="31" height="133.9" rx="2" fill="#f97316"/>
+<text x="374.7" y="200.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.644</text>
+<text x="357.2" y="358.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Patient ed.</text>
+<line x1="103" y1="338" x2="408" y2="338" stroke="#64748b"/>
+<text x="630.0" y="113.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#172033">Precision</text>
+<line x1="493" y1="338.0" x2="798" y2="338.0" stroke="#dbe2ea"/>
+<text x="485.0" y="342.0" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.0</text>
+<line x1="493" y1="296.4" x2="798" y2="296.4" stroke="#dbe2ea"/>
+<text x="485.0" y="300.4" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.2</text>
+<line x1="493" y1="254.8" x2="798" y2="254.8" stroke="#dbe2ea"/>
+<text x="485.0" y="258.8" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.4</text>
+<line x1="493" y1="213.2" x2="798" y2="213.2" stroke="#dbe2ea"/>
+<text x="485.0" y="217.2" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.6</text>
+<line x1="493" y1="171.6" x2="798" y2="171.6" stroke="#dbe2ea"/>
+<text x="485.0" y="175.6" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.8</text>
+<line x1="493" y1="130.0" x2="798" y2="130.0" stroke="#dbe2ea"/>
+<text x="485.0" y="134.0" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">1.0</text>
+<rect x="510.8" y="160.2" width="31" height="177.8" rx="2" fill="#2563eb"/>
+<text x="526.3" y="156.2" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.855</text>
+<rect x="545.8" y="155.1" width="31" height="182.9" rx="2" fill="#f97316"/>
+<text x="561.3" y="151.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.879</text>
+<text x="543.8" y="358.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Basic</text>
+<rect x="612.5" y="163.9" width="31" height="174.1" rx="2" fill="#2563eb"/>
+<text x="628.0" y="159.9" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.837</text>
+<rect x="647.5" y="154.7" width="31" height="183.3" rx="2" fill="#f97316"/>
+<text x="663.0" y="150.7" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.881</text>
+<text x="645.5" y="358.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Oncology</text>
+<rect x="714.2" y="160.4" width="31" height="177.6" rx="2" fill="#2563eb"/>
+<text x="729.7" y="156.4" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.854</text>
+<rect x="749.2" y="154.6" width="31" height="183.4" rx="2" fill="#f97316"/>
+<text x="764.7" y="150.6" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.882</text>
+<text x="747.2" y="358.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Patient ed.</text>
+<line x1="493" y1="338" x2="798" y2="338" stroke="#64748b"/>
+<text x="1020.0" y="113.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#172033">Recall</text>
+<line x1="883" y1="338.0" x2="1188" y2="338.0" stroke="#dbe2ea"/>
+<text x="875.0" y="342.0" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.0</text>
+<line x1="883" y1="296.4" x2="1188" y2="296.4" stroke="#dbe2ea"/>
+<text x="875.0" y="300.4" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.2</text>
+<line x1="883" y1="254.8" x2="1188" y2="254.8" stroke="#dbe2ea"/>
+<text x="875.0" y="258.8" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.4</text>
+<line x1="883" y1="213.2" x2="1188" y2="213.2" stroke="#dbe2ea"/>
+<text x="875.0" y="217.2" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.6</text>
+<line x1="883" y1="171.6" x2="1188" y2="171.6" stroke="#dbe2ea"/>
+<text x="875.0" y="175.6" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.8</text>
+<line x1="883" y1="130.0" x2="1188" y2="130.0" stroke="#dbe2ea"/>
+<text x="875.0" y="134.0" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">1.0</text>
+<rect x="900.8" y="218.9" width="31" height="119.1" rx="2" fill="#2563eb"/>
+<text x="916.3" y="214.9" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.573</text>
+<rect x="935.8" y="213.9" width="31" height="124.1" rx="2" fill="#f97316"/>
+<text x="951.3" y="209.9" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.597</text>
+<text x="933.8" y="358.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Basic</text>
+<rect x="1002.5" y="215.7" width="31" height="122.3" rx="2" fill="#2563eb"/>
+<text x="1018.0" y="211.7" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.588</text>
+<rect x="1037.5" y="206.1" width="31" height="131.9" rx="2" fill="#f97316"/>
+<text x="1053.0" y="202.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.634</text>
+<text x="1035.5" y="358.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Oncology</text>
+<rect x="1104.2" y="209.3" width="31" height="128.7" rx="2" fill="#2563eb"/>
+<text x="1119.7" y="205.3" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.619</text>
+<rect x="1139.2" y="205.4" width="31" height="132.6" rx="2" fill="#f97316"/>
+<text x="1154.7" y="201.4" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.638</text>
+<text x="1137.2" y="358.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Patient ed.</text>
+<line x1="883" y1="338" x2="1188" y2="338" stroke="#64748b"/>
+<text x="240.0" y="438.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#172033">Specificity</text>
+<line x1="103" y1="663.0" x2="408" y2="663.0" stroke="#dbe2ea"/>
+<text x="95.0" y="667.0" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.0</text>
+<line x1="103" y1="621.4" x2="408" y2="621.4" stroke="#dbe2ea"/>
+<text x="95.0" y="625.4" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.2</text>
+<line x1="103" y1="579.8" x2="408" y2="579.8" stroke="#dbe2ea"/>
+<text x="95.0" y="583.8" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.4</text>
+<line x1="103" y1="538.2" x2="408" y2="538.2" stroke="#dbe2ea"/>
+<text x="95.0" y="542.2" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.6</text>
+<line x1="103" y1="496.6" x2="408" y2="496.6" stroke="#dbe2ea"/>
+<text x="95.0" y="500.6" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.8</text>
+<line x1="103" y1="455.0" x2="408" y2="455.0" stroke="#dbe2ea"/>
+<text x="95.0" y="459.0" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">1.0</text>
+<rect x="120.8" y="534.0" width="31" height="129.0" rx="2" fill="#2563eb"/>
+<text x="136.3" y="530.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.620</text>
+<rect x="155.8" y="521.6" width="31" height="141.4" rx="2" fill="#f97316"/>
+<text x="171.3" y="517.6" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.680</text>
+<text x="153.8" y="683.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Basic</text>
+<rect x="222.5" y="547.9" width="31" height="115.1" rx="2" fill="#2563eb"/>
+<text x="238.0" y="543.9" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.553</text>
+<rect x="257.5" y="524.3" width="31" height="138.7" rx="2" fill="#f97316"/>
+<text x="273.0" y="520.3" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.667</text>
+<text x="255.5" y="683.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Oncology</text>
+<rect x="324.2" y="541.0" width="31" height="122.0" rx="2" fill="#2563eb"/>
+<text x="339.7" y="537.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.587</text>
+<rect x="359.2" y="524.3" width="31" height="138.7" rx="2" fill="#f97316"/>
+<text x="374.7" y="520.3" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.667</text>
+<text x="357.2" y="683.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Patient ed.</text>
+<line x1="103" y1="663" x2="408" y2="663" stroke="#64748b"/>
+<text x="630.0" y="438.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#172033">F1</text>
+<line x1="493" y1="663.0" x2="798" y2="663.0" stroke="#dbe2ea"/>
+<text x="485.0" y="667.0" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.0</text>
+<line x1="493" y1="621.4" x2="798" y2="621.4" stroke="#dbe2ea"/>
+<text x="485.0" y="625.4" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.2</text>
+<line x1="493" y1="579.8" x2="798" y2="579.8" stroke="#dbe2ea"/>
+<text x="485.0" y="583.8" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.4</text>
+<line x1="493" y1="538.2" x2="798" y2="538.2" stroke="#dbe2ea"/>
+<text x="485.0" y="542.2" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.6</text>
+<line x1="493" y1="496.6" x2="798" y2="496.6" stroke="#dbe2ea"/>
+<text x="485.0" y="500.6" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.8</text>
+<line x1="493" y1="455.0" x2="798" y2="455.0" stroke="#dbe2ea"/>
+<text x="485.0" y="459.0" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">1.0</text>
+<rect x="510.8" y="520.4" width="31" height="142.6" rx="2" fill="#2563eb"/>
+<text x="526.3" y="516.4" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.686</text>
+<rect x="545.8" y="515.2" width="31" height="147.8" rx="2" fill="#f97316"/>
+<text x="561.3" y="511.2" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.711</text>
+<text x="543.8" y="683.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Basic</text>
+<rect x="612.5" y="519.3" width="31" height="143.7" rx="2" fill="#2563eb"/>
+<text x="628.0" y="515.3" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.691</text>
+<rect x="647.5" y="509.6" width="31" height="153.4" rx="2" fill="#f97316"/>
+<text x="663.0" y="505.6" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.738</text>
+<text x="645.5" y="683.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Oncology</text>
+<rect x="714.2" y="513.8" width="31" height="149.2" rx="2" fill="#2563eb"/>
+<text x="729.7" y="509.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.718</text>
+<rect x="749.2" y="509.1" width="31" height="153.9" rx="2" fill="#f97316"/>
+<text x="764.7" y="505.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.740</text>
+<text x="747.2" y="683.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Patient ed.</text>
+<line x1="493" y1="663" x2="798" y2="663" stroke="#64748b"/>
+<text x="1020.0" y="438.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#172033">Balanced Accuracy</text>
+<line x1="883" y1="663.0" x2="1188" y2="663.0" stroke="#dbe2ea"/>
+<text x="875.0" y="667.0" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.0</text>
+<line x1="883" y1="621.4" x2="1188" y2="621.4" stroke="#dbe2ea"/>
+<text x="875.0" y="625.4" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.2</text>
+<line x1="883" y1="579.8" x2="1188" y2="579.8" stroke="#dbe2ea"/>
+<text x="875.0" y="583.8" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.4</text>
+<line x1="883" y1="538.2" x2="1188" y2="538.2" stroke="#dbe2ea"/>
+<text x="875.0" y="542.2" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.6</text>
+<line x1="883" y1="496.6" x2="1188" y2="496.6" stroke="#dbe2ea"/>
+<text x="875.0" y="500.6" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">0.8</text>
+<line x1="883" y1="455.0" x2="1188" y2="455.0" stroke="#dbe2ea"/>
+<text x="875.0" y="459.0" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#526176">1.0</text>
+<rect x="900.8" y="539.0" width="31" height="124.0" rx="2" fill="#2563eb"/>
+<text x="916.3" y="535.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.596</text>
+<rect x="935.8" y="530.2" width="31" height="132.8" rx="2" fill="#f97316"/>
+<text x="951.3" y="526.2" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.638</text>
+<text x="933.8" y="683.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Basic</text>
+<rect x="1002.5" y="544.3" width="31" height="118.7" rx="2" fill="#2563eb"/>
+<text x="1018.0" y="540.3" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.571</text>
+<rect x="1037.5" y="527.7" width="31" height="135.3" rx="2" fill="#f97316"/>
+<text x="1053.0" y="523.7" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.650</text>
+<text x="1035.5" y="683.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Oncology</text>
+<rect x="1104.2" y="537.6" width="31" height="125.4" rx="2" fill="#2563eb"/>
+<text x="1119.7" y="533.6" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.603</text>
+<rect x="1139.2" y="527.4" width="31" height="135.6" rx="2" fill="#f97316"/>
+<text x="1154.7" y="523.4" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#334155">0.652</text>
+<text x="1137.2" y="683.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#172033">Patient ed.</text>
+<line x1="883" y1="663" x2="1188" y2="663" stroke="#64748b"/>
+</svg>

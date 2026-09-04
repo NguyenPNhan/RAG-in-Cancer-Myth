@@ -1,0 +1,68 @@
+{
+  "analysis": {
+    "positive_class": "true = contains a false or materially misleading assumption",
+    "prompts": [
+      "basic",
+      "oncology_expert",
+      "patient_education"
+    ],
+    "conditions": [
+      "rag",
+      "non_rag"
+    ],
+    "comparison_scope": "pairwise question-ID intersection for each prompt",
+    "subgroup_scope": "intersection of all six result files",
+    "accuracy_interval": "95% Wilson score interval",
+    "paired_test": "two-sided exact McNemar test; unadjusted exploratory p-values"
+  },
+  "dataset": {
+    "path": "data/cancermyth_screening_dataset.json",
+    "sha256": "190271c3ac2eb4eed93b3cc4ecc6b72f48ed861c555783f1ed8f68074bdeda6d",
+    "records": 735
+  },
+  "prediction_files": [
+    {
+      "condition": "rag",
+      "prompt": "basic",
+      "path": "rag-terra/rag_run_all/answers_basic.csv",
+      "sha256": "abcf103de47ea635c5df9f09c76159d0db37fd399bda31443d768d935dd5503a",
+      "records": 735
+    },
+    {
+      "condition": "rag",
+      "prompt": "oncology_expert",
+      "path": "rag-terra/rag_run_all/answers_oncology_expert.csv",
+      "sha256": "2121fcb0ad7103e8019ae3e7a73adb37808b11d993e28b3a4e9c7068b766d28a",
+      "records": 735
+    },
+    {
+      "condition": "rag",
+      "prompt": "patient_education",
+      "path": "rag-terra/rag_run_all/answers_patient_education.csv",
+      "sha256": "9894d7ddf595b8b9a8f43b5bbfdbdefc10ff889add0fe065daf5b0a8a21d3d92",
+      "records": 735
+    },
+    {
+      "condition": "non_rag",
+      "prompt": "basic",
+      "path": "non_rag/gpt-5.6-terra/answers_basic.csv",
+      "sha256": "671e66218178c421c6c360a8ebc9952051ec3d73e99aa5e603684965bf520136",
+      "records": 735
+    },
+    {
+      "condition": "non_rag",
+      "prompt": "oncology_expert",
+      "path": "non_rag/gpt-5.6-terra/answers_oncology_expert.csv",
+      "sha256": "79217637e970b2c717fb9931291d116e54c3b430a2569c15bb57d967c76358aa",
+      "records": 735
+    },
+    {
+      "condition": "non_rag",
+      "prompt": "patient_education",
+      "path": "non_rag/gpt-5.6-terra/answers_patient_education.csv",
+      "sha256": "2c17bf06b68b55484b0b3e6d0537d3527c1af250f54d1ecdb6a8943166b09e1c",
+      "records": 735
+    }
+  ],
+  "six_way_common_records": 735
+}
