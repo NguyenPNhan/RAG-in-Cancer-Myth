@@ -67,6 +67,31 @@ The evaluator reports coverage, accuracy, precision, recall, specificity, F1,
 balanced accuracy, and confusion-matrix counts for each prompt. It also reports
 the number of question IDs common to all three result files.
 
+## Notebook batch workflow
+
+The notebook workflow matching `rag/rag_run_all` is available in
+`rag-terra/rag_run_all`:
+
+```powershell
+uv run --with jupyterlab jupyter lab rag-terra/rag_run_all
+```
+
+It contains one runner per prompt, an evaluation notebook, a wrong-answer
+detector, and separate CSV checkpoints. See
+[`rag_run_all/README.md`](rag_run_all/README.md) for details.
+
+## RAG versus non-RAG result analysis
+
+After the Terra RAG and non-RAG CSVs have been generated, launch the dedicated
+comparison notebook:
+
+```powershell
+uv run --with jupyterlab jupyter lab rag-terra/result-analysis
+```
+
+See [`result-analysis/README.md`](result-analysis/README.md) for the input paths,
+metrics, paired tests, and generated artifacts.
+
 Running the batch experiment makes paid API requests. The reference
 `correct_answer` field is used only by the evaluator and is never sent to the
 model.

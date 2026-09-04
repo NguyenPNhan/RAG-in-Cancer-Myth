@@ -30,7 +30,7 @@ meaningful because batch requests finish concurrently.
 
 ## 3. Validation and joining
 
-Before calculating metrics, `result-analysis/analyze.py` checks that:
+Before calculating metrics, `rag/result-analysis/analyze.py` checks that:
 
 1. the dataset is a non-empty JSON array with unique IDs and Boolean labels;
 2. every required dataset field is present;
@@ -93,7 +93,7 @@ project's existing benchmark questions and predictions.
 ## 7. Artifact contract
 
 The notebook calls the tested analysis module, which regenerates
-`result-analysis/output/` deterministically from the current inputs:
+`rag/result-analysis/output/` deterministically from the current inputs:
 
 | Artifact | Purpose |
 | --- | --- |
@@ -115,18 +115,18 @@ dependency-free, text-based plots that render in browsers and Markdown.
 From the project root:
 
 ```powershell
-uv run --with jupyterlab jupyter lab result-analysis
+uv run --with jupyterlab jupyter lab rag/result-analysis
 ```
 
 Open `result_analysis.ipynb` and run all cells. For automated or headless use,
 run the equivalent command-line entry point:
 
 ```powershell
-uv run python result-analysis/analyze.py
+uv run python rag/result-analysis/analyze.py
 uv run python -m unittest discover -s tests -v
 ```
 
-Review `result-analysis/output/manifest.json` alongside reported results. If a
+Review `rag/result-analysis/output/manifest.json` alongside reported results. If a
 prediction file changes, rerun the analyzer and commit the refreshed artifacts
 together so the source hashes and report stay synchronized.
 

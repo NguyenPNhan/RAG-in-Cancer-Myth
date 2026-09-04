@@ -11,7 +11,7 @@ Python packages.
 From the repository root:
 
 ```powershell
-uv run --with jupyterlab jupyter lab result-analysis
+uv run --with jupyterlab jupyter lab rag/result-analysis
 ```
 
 Open `result_analysis.ipynb` and select **Run All Cells**. The notebook validates
@@ -21,7 +21,7 @@ provides interactive cells for subgroup and error inspection.
 For non-interactive automation, the same tested analysis is available as:
 
 ```powershell
-uv run python result-analysis/analyze.py
+uv run python rag/result-analysis/analyze.py
 ```
 
 The default inputs are:
@@ -33,12 +33,12 @@ non_rag/gpt-5.6-luna/answers_{prompt}.csv
 ```
 
 The command-line version accepts `--dataset`, `--rag-dir`, `--non-rag-dir`, or
-`--output` overrides. Run `uv run python result-analysis/analyze.py --help` for
+`--output` overrides. Run `uv run python rag/result-analysis/analyze.py --help` for
 details.
 
 ## Outputs
 
-Generated artifacts are written to `result-analysis/output/`:
+Generated artifacts are written to `rag/result-analysis/output/`:
 
 - `report.md` is the human-readable result summary.
 - `metrics.csv` contains available-run and pairwise-matched metrics.
@@ -70,4 +70,4 @@ where one condition is correct and the other is wrong. Its three p-values are
 exploratory and unadjusted.
 
 For the full design, validation rules, artifact contract, and limitations, see
-[`../plan/result_analysis_plan.md`](../plan/result_analysis_plan.md).
+[`../../plan/result_analysis_plan.md`](../../plan/result_analysis_plan.md).

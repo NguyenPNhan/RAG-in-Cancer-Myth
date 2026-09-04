@@ -10,6 +10,6 @@ methodology, and reproducibility requirements for the cancer-myth RAG project.
 | [`result_analysis_plan.md`](result_analysis_plan.md) | RAG/non-RAG input contract, validation, statistics, plots, artifacts, limitations, and reproduction procedure |
 
 The current generated comparison is
-[`../result-analysis/output/report.md`](../result-analysis/output/report.md),
+[`../rag/result-analysis/output/report.md`](../rag/result-analysis/output/report.md),
 and its source hashes and row counts are recorded in
-[`../result-analysis/output/manifest.json`](../result-analysis/output/manifest.json).
+[`../rag/result-analysis/output/manifest.json`](../rag/result-analysis/output/manifest.json).

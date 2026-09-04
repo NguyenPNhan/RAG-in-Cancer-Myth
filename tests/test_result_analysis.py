@@ -8,7 +8,9 @@ import unittest
 from pathlib import Path
 
 
-MODULE_PATH = Path(__file__).resolve().parents[1] / "result-analysis" / "analyze.py"
+MODULE_PATH = (
+    Path(__file__).resolve().parents[1] / "rag" / "result-analysis" / "analyze.py"
+)
 SPEC = importlib.util.spec_from_file_location("result_analysis", MODULE_PATH)
 assert SPEC and SPEC.loader
 analysis = importlib.util.module_from_spec(SPEC)
@@ -64,6 +66,29 @@ class ResultAnalysisTests(unittest.TestCase):
         self.assertTrue(any("analysis.main" in source for source in code_cells))
         for index, source in enumerate(code_cells):
             compile(source, f"result_analysis.ipynb cell {index}", "exec")
+
+    def test_terra_analyzer_defaults_to_terra_experiments(self) -> None:
+        terra_module_path = (
+            Path(__file__).resolve().parents[1]
+            / "rag-terra"
+            / "result-analysis"
+            / "analyze.py"
+        )
+        spec = importlib.util.spec_from_file_location("terra_result_analysis", terra_module_path)
+        assert spec and spec.loader
+        terra_analysis = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(terra_analysis)
+
+        args = terra_analysis.parse_args([])
+        self.assertEqual(args.rag_dir, terra_analysis.project_root() / "rag-terra" / "rag_run_all")
+        self.assertEqual(
+            args.non_rag_dir,
+            terra_analysis.project_root() / "non_rag" / "gpt-5.6-terra",
+        )
+        self.assertEqual(
+            args.output,
+            terra_analysis.project_root() / "rag-terra" / "result-analysis" / "output",
+        )
 
 
 if __name__ == "__main__":

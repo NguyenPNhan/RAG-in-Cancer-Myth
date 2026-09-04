@@ -63,10 +63,12 @@ data retrieval/
 rag/
   rag_model/                          Retrieval, LLM client, service, and web app
   rag_run_all/                        Batch notebooks, predictions, and evaluation
-rag-terra/                            Terra-pinned RAG app, batch runner, and results
+  result-analysis/                    Luna RAG versus non-RAG analysis and artifacts
+rag-terra/
+  rag_run_all/                        Terra batch notebooks and predictions
+  result-analysis/                    Terra RAG versus non-RAG analysis
 non_rag/
   gpt-5.6-luna/                       Retrieval-free baseline and evaluation
-result-analysis/                      Reproducible comparison, reports, and plots
 plan/
   result_analysis_plan.md             Analysis design and artifact contract
 tests/
@@ -80,7 +82,7 @@ for the complete RAG batch workflow. The
 [`non_rag/gpt-5.6-luna/README.md`](non_rag/gpt-5.6-luna/README.md) documents the
 controlled non-RAG baseline.
 
-The [`result-analysis/README.md`](result-analysis/README.md) explains how to
+The [`rag/result-analysis/README.md`](rag/result-analysis/README.md) explains how to
 regenerate the matched RAG versus non-RAG comparison and its plots. The complete
 methodology is documented in
 [`plan/result_analysis_plan.md`](plan/result_analysis_plan.md).
@@ -208,14 +210,17 @@ paired tests, and prediction-file validation.
 After the six prompt result CSVs are available, generate the matched comparison:
 
 ```powershell
-uv run --with jupyterlab jupyter lab result-analysis
+uv run --with jupyterlab jupyter lab rag/result-analysis
 ```
 
 Open `result_analysis.ipynb` and run all cells. The notebook writes a Markdown
 report, audit-ready CSV tables, an input-hash manifest, and SVG plots to
-`result-analysis/output/`. It joins by `question_id`, reports coverage, and
+`rag/result-analysis/output/`. It joins by `question_id`, reports coverage, and
 uses matched IDs for every direct RAG versus non-RAG comparison. The underlying
 `analyze.py` entry point remains available for headless automation.
+
+The matching GPT-5.6 Terra comparison is in `rag-terra/result-analysis` and
+uses `rag-terra/rag_run_all` with `non_rag/gpt-5.6-terra` by default.
 
 ## Reproducibility notes
 
