@@ -16,6 +16,8 @@ Holding everything except retrieval constant makes it possible to compare:
 - `run_all_questions.ipynb` runs all three prompt variants and creates one CSV
   per prompt.
 - `evaluate.ipynb` evaluates and compares the three non-RAG CSVs.
+- `wrong_detect.ipynb` lists incorrectly classified question IDs for a selected
+  answer CSV.
 - `answers_basic.csv`, `answers_oncology_expert.csv`, and
   `answers_patient_education.csv` are created when the runner is executed.
 
